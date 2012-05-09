@@ -1,0 +1,33 @@
+!!!!!!!!!!!!!!!!
+!! ADJECTIVES !!
+!!!!!!!!!!!!!!!!
+
+LEXICON AdjTag
+#;
+
+
+LEXICON GenTag
+#;
+
+!!!!!!!!!!!
+!! NOUNS !!
+!!!!!!!!!!!
+
+LEXICON NTag
+#;
+
+LEXICON N-kal
+#;
+
+!!!!!!!!!!!!!!!!!!
+!! PROPER NOUNS !!
+!!!!!!!!!!!!!!!!!!
+LEXICON PROP
+#;
+
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
