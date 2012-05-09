@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>пух</l>
+         <stg>
+            <st mdfContlex="DescrTag">пух</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>pux</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>топ</l>
+         <stg>
+            <st mdfContlex="DescrTag">топ</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>top</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цяр</l>
+         <stg>
+            <st mdfContlex="DescrTag">цяр</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>ćar</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>чивор</l>
+         <stg>
+            <st mdfContlex="DescrTag">чивор</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>čivər</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kurina.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>

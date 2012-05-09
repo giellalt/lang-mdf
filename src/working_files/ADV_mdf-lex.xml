@@ -1,0 +1,7200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>абон</l>
+         <stg>
+            <st mdfContlex="AdvTag">абон</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>abən</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>turhaan, suotta</t>
+            </tg>
+            <xg>
+               <x>абон тяфта тият</x>
+               <phonet>abən ťafta ťijat</phonet>
+               <xt lang="fin">turhaan sinä sitä teet.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алу</l>
+         <stg>
+            <st mdfContlex="AdvTag">алу</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>alu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. alle. 2. alas</t>
+            </tg>
+            <xg>
+               <x>шрать алу</x>
+               <phonet>šrať alu</phonet>
+               <xt lang="fin">pöydän alle.</xt>
+            </xg>
+            <xg>
+               <x>ацамс идть алу</x>
+               <phonet>acams iťť alu</phonet>
+               <xt lang="fin">sijata lapselle vuode.</xt>
+            </xg>
+            <xg>
+               <x>ки алу тусь</x>
+               <phonet>ki alu tuś</phonet>
+               <xt lang="fin">lähti jonnekin.</xt>
+            </xg>
+            <xg>
+               <x>лов алу соксемс</x>
+               <phonet>lov alu sokśəms</phonet>
+               <xt lang="fin">päättää syyskynnöt.</xt>
+            </xg>
+            <xg>
+               <x>алу комафтомс прянц</x>
+               <phonet>alu komaftəms pŕanc</phonet>
+               <xt lang="fin">riiputtaa päätään.</xt>
+            </xg>
+            <xg>
+               <x>тя вастсь катф модамарь алу</x>
+               <phonet>ťä vasć katf modamaŕ alu</phonet>
+               <xt lang="fin">tämä maa on jätettävä perunalle.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>афъёру</l>
+         <stg>
+            <st mdfContlex="AdvTag">афъёру</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>afjoru</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>todella, tosissaan, vakavissaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>омбоку</l>
+         <stg>
+            <st mdfContlex="AdvTag">омбоку</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>omboku</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toiselle puolelle</t>
+            </tg>
+            <xg>
+               <x>тона бокс</x>
+               <phonet>tona boks</phonet>
+               <xt lang="fin">vasta (kkaiselle) puolelle.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>валда</l>
+         <stg>
+            <st mdfContlex="AdvTag">валда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>valda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jatkuvasti</t>
+            </tg>
+            <xg>
+               <x>сон валда сяконь корхни</x>
+               <phonet>son valdə śäkəń korxńi</phonet>
+               <xt lang="fin">hän puhuu jatkuvasti samasta asiasta.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вельф</l>
+         <stg>
+            <st mdfContlex="AdvTag">вельф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veľf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yli, läpi; liikaa, liiaksi</t>
+            </tg>
+            <xg>
+               <x>сон вельф лама корхтась</x>
+               <phonet>son veľf lama korxtaś</phonet>
+               <xt lang="fin">hän puhui liikaa.</xt>
+            </xg>
+            <xg>
+               <x>ведаркась вельф пяшкодсь</x>
+               <phonet>vedarkaś veľf päškəć</phonet>
+               <xt lang="fin">sanko täyttyi ääriään myöten.</xt>
+            </xg>
+            <xg>
+               <x>ёнь вельф лиссь</x>
+               <phonet>joń veľf ľiśś</phonet>
+               <xt lang="fin">meni järjiltään.</xt>
+            </xg>
+            <xg>
+               <x>трва вельф тусь</x>
+               <phonet>tərva veľf tuś</phonet>
+               <xt lang="fin">vuosi reunan yli, pursusi yli.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>веньберьф</l>
+         <stg>
+            <st mdfContlex="AdvTag">веньберьф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vembeŕf, veńbeŕf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>koko yön</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вестевок аф</l>
+         <stg>
+            <st mdfContlex="AdvTag">вестевок аф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veśťəvək af</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ei kertaakaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вихцок</l>
+         <stg>
+            <st mdfContlex="AdvTag">вихцок</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vixcək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>väkisin, väkipakolla</t>
+            </tg>
+         </mg>
+      </e>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhdessä, kanssa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гайту</l>
+         <stg>
+            <st mdfContlex="AdvTag">гайту</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>gajtu, kajtu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sinne, tuonne</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>голь</l>
+         <stg>
+            <st mdfContlex="AdvTag">голь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>goľ</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jatkuvasti</t>
+            </tg>
+            <xg>
+               <x>голь-голь</x>
+               <phonet>goľ-goľ</phonet>
+               <xt lang="fin">aina uudelleen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>голай</l>
+         <stg>
+            <st mdfContlex="AdvTag">голай</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>golaj</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jatkuvasti, aina</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёру</l>
+         <stg>
+            <st mdfContlex="AdvTag">ёру</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>joru</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>leikisti, leikillään</t>
+            </tg>
+            <xg>
+               <x>ёру корхтат али аф?</x>
+               <phonet>joru korxtat aľi af</phonet>
+               <xt lang="fin">pilailetko?</xt>
+            </xg>
+            <xg>
+               <x>аф ёру</x>
+               <phonet>af joru</phonet>
+               <xt lang="fin">tosissaan, vakavissaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кайту</l>
+         <stg>
+            <st mdfContlex="AdvTag">кайту</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kajtu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sinne, tuonne</t>
+            </tg>
+            <xg>
+               <x>кайту молян</x>
+               <phonet>kajtu moľan</phonet>
+               <xt lang="fin">menen tuonne.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кизоньберьф</l>
+         <stg>
+            <st mdfContlex="AdvTag">кизоньберьф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kizəńbeŕf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>koko kesän (ajan)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кунф</l>
+         <stg>
+            <st mdfContlex="AdvTag">кунф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kunf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>selällään</t>
+            </tg>
+            <xg>
+               <x>кунф уды</x>
+               <phonet>kunf udi</phonet>
+               <xt lang="fin">nukkuu selällään.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лангу</l>
+         <stg>
+            <st mdfContlex="AdvTag">лангу</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laŋgu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>päälle, -lle</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мековасу</l>
+         <stg>
+            <st mdfContlex="AdvTag">мековасу</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekəvasu, mekuvasu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>edestakaisin</t>
+            </tg>
+            <xg>
+               <x>ласькондемс мековасу</x>
+               <phonet>laśkəńďəms mekəvasu</phonet>
+               <xt lang="fin">juoksennella edestakaisin.</xt>
+            </xg>
+            <xg>
+               <x>улеза асу мековасу!</x>
+               <phonet>uľəz(a) asu mekəvasu</phonet>
+               <xt lang="fin">(murt.) auttakaamme toisiamme!</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>оду</l>
+         <stg>
+            <st mdfContlex="AdvTag">оду</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>odu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jälleen, uudelleen; ensiksi, aluksi</t>
+            </tg>
+            <xg>
+               <x>оду-васу</x>
+               <phonet>odu-vasu</phonet>
+               <xt lang="fin">1. edestakaisin. 2. toisella kertaa.</xt>
+            </xg>
+            <xg>
+               <x>одукс</x>
+               <phonet>oduks</phonet>
+               <xt lang="fin">uudelleen, jälleen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>перьф</l>
+         <stg>
+            <st mdfContlex="AdvTag">перьф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>peŕf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. ympäri, ympärillä. 2. läpi, kautta. 3. aidattu piha</t>
+            </tg>
+            <xg>
+               <x>перьфканк</x>
+               <phonet>peŕfkaŋk, peŕfkanək</phonet>
+               <xt lang="fin">ympärillämme, ympäritsemme.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сёксеньберьф</l>
+         <stg>
+            <st mdfContlex="AdvTag">сёксеньберьф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śokśəmbeŕf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>koko syksyn (ajan)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тялоньберьф</l>
+         <stg>
+            <st mdfContlex="AdvTag">тялоньберьф</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťaləńbeŕf</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>koko talven</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фалу</l>
+         <stg>
+            <st mdfContlex="AdvTag">фалу</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>falu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aina, jatkuvasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шобдава</l>
+         <stg>
+            <st mdfContlex="AdvTag">шобдава</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>šobdava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aamu, aamulla</t>
+            </tg>
+            <xg>
+               <x>васень шобдава</x>
+               <phonet>vaśəń šobdava</phonet>
+               <xt lang="fin">sarastuksen aikaan, aamuhämärissä.</xt>
+            </xg>
+            <xg>
+               <x>шобдаваньберьф</x>
+               <phonet>šobdavańbeŕf</phonet>
+               <xt lang="fin">koko aamun ajan.</xt>
+            </xg>
+            <xg>
+               <x>шобдавань зарят</x>
+               <phonet>šobdavań zaŕat</phonet>
+               <xt lang="fin">aamun sarastus.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шовор</l>
+         <stg>
+            <st mdfContlex="AdvTag">шовор</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>šovər</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sekaisin, yhdessä</t>
+            </tg>
+            <xg>
+               <x>тяконь шовор</x>
+               <phonet>ťakəń šovər</phonet>
+               <xt lang="fin">samalla kertaa, yhtaikaa.</xt>
+            </xg>
+            <xg>
+               <x>шовор-пакор</x>
+               <phonet>šovər-pakər</phonet>
+               <xt lang="fin">umpimähkään, sekaisin, sieltä täältä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ялга</l>
+         <stg>
+            <st mdfContlex="AdvTag">ялга</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>jalga</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jalan, jalkaisin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ялгакс</l>
+         <stg>
+            <st mdfContlex="AdvTag">ялгакс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>jalgaks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ystävän tavoin, ystävällisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алга</l>
+         <stg>
+            <st mdfContlex="AdvTag">алга</st>
+         </stg>
+      </lg>
+      <pos>SPAT</pos>
+      <phonet>alga</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>alla, alhaalla, syvällä; alitse; ala­, alus-</t>
+            </tg>
+            <xg>
+               <x>якшамста калхне уендихть алга</x>
+               <phonet>jakšamstə kalxńə ujəńďixť alga</phonet>
+               <xt lang="fin">kylmällä kalat uivat syvällä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алда</l>
+         <stg>
+            <st mdfContlex="AdvTag">алда</st>
+         </stg>
+      </lg>
+      <pos>SPAT</pos>
+      <phonet>alda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>alta, alhaalta</t>
+            </tg>
+            <xg>
+               <x>алда вяри</x>
+               <phonet>alda väŕi</phonet>
+               <xt lang="fin">alhaalta ylös.</xt>
+            </xg>
+            <xg>
+               <x>парьнясь куяр алда</x>
+               <phonet>paŕńäś kujar alda</phonet>
+               <xt lang="fin">suolakurkkupytty.</xt>
+            </xg>
+            <xg>
+               <x>кундазе кенерьбакарь алда</x>
+               <phonet>kundaźə keńəŕbakaŕ alda</phonet>
+               <xt lang="fin">tarttui kyynärpäähän.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алуда</l>
+         <stg>
+            <st mdfContlex="AdvTag">алуда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>aluda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>alta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алувармат</l>
+         <stg>
+            <st mdfContlex="AdvTag">алувармат</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>aluvarmat</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>myötätuuleen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>алуветть</l>
+         <stg>
+            <st mdfContlex="AdvTag">алуветть</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>aluveťť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>myötävirtaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>аноконди</l>
+         <stg>
+            <st mdfContlex="AdvTag">аноконди</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>anəkəńďi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ennakolta, etukäteen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>анцяйняда</l>
+         <stg>
+            <st mdfContlex="AdvTag">анцяйняда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ańćäjńada</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>pikkuisen, pikkuriikkisen</t>
+            </tg>
+            <xg>
+               <x>анцяйняда аф сембе</x>
+               <phonet>ańćäjńad(ə) af śembä</phonet>
+               <xt lang="fin">melkein jokainen/kaikki.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>аньцек</l>
+         <stg>
+            <st mdfContlex="AdvTag">аньцек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ańćək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vain, ainoastaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ардозь</l>
+         <stg>
+            <st mdfContlex="AdvTag">ардозь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ardəź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>laukaten, kiirehtien</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>афкукс</l>
+         <stg>
+            <st mdfContlex="AdvTag">афкукс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>afkuks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vakavasti, tosissaan, todella</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>байтяк</l>
+         <stg>
+            <st mdfContlex="AdvTag">байтяк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>bajťak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>paljon, runsaasti</t>
+            </tg>
+            <xg>
+               <x>пингта байтяк ётась</x>
+               <phonet>piŋkta bajťak jotaś</phonet>
+               <xt lang="fin">aikaa kului paljon.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>башка</l>
+         <stg>
+            <st mdfContlex="AdvTag">башка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>baška</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. erillinen, erikseen, erillään. 2. jonkin lisäksi, ylimääräisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бокова</l>
+         <stg>
+            <st mdfContlex="AdvTag">бокова</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>bokəva</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ohi, sivuitse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бокса</l>
+         <stg>
+            <st mdfContlex="AdvTag">бокса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>boksa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sivulla, sivussa, syrjässä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бокста</l>
+         <stg>
+            <st mdfContlex="AdvTag">бокста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>boksta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sivulta, sivusta, syrjästä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вакска</l>
+         <stg>
+            <st mdfContlex="AdvTag">вакска</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vakska</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ohi(tse), vieritse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>валом</l>
+         <stg>
+            <st mdfContlex="AdvTag">валом</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>valom</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hitaasti, vähitellen</t>
+            </tg>
+            <xg>
+               <x>валом-валом</x>
+               <phonet>valom-valom</phonet>
+               <xt lang="fin">vähitellen, pikkuhiljaa.</xt>
+            </xg>
+            <xg>
+               <x>тевсь валомня моли</x>
+               <phonet>ťevś valomńä moľi</phonet>
+               <xt lang="fin">asia edistyy hitaasti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ванды</l>
+         <stg>
+            <st mdfContlex="AdvTag">ванды</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vandi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>huominen, huomenna</t>
+            </tg>
+            <xg>
+               <x>тячи-ванды</x>
+               <phonet>ťäči-vandi</phonet>
+               <xt lang="fin">tänään tai huomenna.</xt>
+            </xg>
+            <xg>
+               <x>ванды шись ули лямбе</x>
+               <phonet>vandi šiś uľi ľämbä</phonet>
+               <xt lang="fin">huominen päivä on lämmin.</xt>
+            </xg>
+            <xg>
+               <x>вандыкиге мрдан меки</x>
+               <phonet>vandikigä mərdan meki</phonet>
+               <xt lang="fin">huomispäivänä palaan.</xt>
+            </xg>
+            <xg>
+               <x>вандыти</x>
+               <phonet>vandiťi</phonet>
+               <xt lang="fin">huomiseksi.</xt>
+            </xg>
+            <xg>
+               <x>вандыда меле</x>
+               <phonet>vandidə meľä</phonet>
+               <xt lang="fin">ylihuominen, ylihuomenna.</xt>
+            </xg>
+            <xg>
+               <x>вандыс</x>
+               <phonet>vandis</phonet>
+               <xt lang="fin">(näkemiin) huomiseen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>варьхмодемшовор</l>
+         <stg>
+            <st mdfContlex="AdvTag">варьхмодемшовор</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vaŕxməďəmšovər</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aamunkoitteessa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васенда</l>
+         <stg>
+            <st mdfContlex="AdvTag">васенда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vaśənda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ensin, ensiksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васендакиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">васендакиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vaśəndakigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ensinnä, ensisijassa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вачеда</l>
+         <stg>
+            <st mdfContlex="AdvTag">вачеда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vačəda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. nälkäisesti, nälissään. 2. nälkäinen</t>
+            </tg>
+            <xg>
+               <x>куломс вачеда</x>
+               <phonet>kuləms vačəda</phonet>
+               <xt lang="fin">kuolla nälkään.</xt>
+            </xg>
+            <xg>
+               <x>ащемс вачеда</x>
+               <phonet>aščəms vačəda</phonet>
+               <xt lang="fin">olla nälkäinen/nälissään.</xt>
+            </xg>
+            <xg>
+               <x>пялес вачеда</x>
+               <phonet>päľəs vačəda</phonet>
+               <xt lang="fin">nälkiintynyt, nälissään.</xt>
+            </xg>
+            <xg>
+               <x>вачедонь пект</x>
+               <phonet>vačədəń pekt</phonet>
+               <xt lang="fin">nälkäisenä.</xt>
+            </xg>
+            <xg>
+               <x>вачедонь седихть</x>
+               <phonet>vačədəń śeďixť</phonet>
+               <xt lang="fin">tyhjin vatsoin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вельфке</l>
+         <stg>
+            <st mdfContlex="AdvTag">вельфке</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veľfkä, veľfka</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yli, läpi</t>
+            </tg>
+            <xg>
+               <x>пиземтуцясь вирть вельфке ётась</x>
+               <phonet>piźəmdućäś viŕť veľfkä jotaś</phonet>
+               <xt lang="fin">sadepilvi kulki metsän yli.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вельхкска</l>
+         <stg>
+            <st mdfContlex="AdvTag">вельхкска</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veľxkska</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ylitse</t>
+            </tg>
+            <xg>
+               <x>велеть вельхкска лийсть каркт</x>
+               <phonet>veľəť veľxkska ľijśť karkt</phonet>
+               <xt lang="fin">kylän ylitse lensi kurkia.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>веляньбокста</l>
+         <stg>
+            <st mdfContlex="AdvTag">веляньбокста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veľäńboksta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>nurin (­päin)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>весть</l>
+         <stg>
+            <st mdfContlex="AdvTag">весть</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>veśť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kerran</t>
+            </tg>
+            <xg>
+               <x>аф весть</x>
+               <phonet>af veśť</phonet>
+               <xt lang="fin">monta kertaa.</xt>
+            </xg>
+            <xg>
+               <x>весть аф весть</x>
+               <phonet>veśť af veśť</phonet>
+               <xt lang="fin">joskus, silloin tällöin.</xt>
+            </xg>
+            <xg>
+               <x>весть-кафксть</x>
+               <phonet>veśť-kafkśť</phonet>
+               <xt lang="fin">kerran pari.</xt>
+            </xg>
+            <xg>
+               <x>шурода весть</x>
+               <phonet>šurədə veśť</phonet>
+               <xt lang="fin">harvoin.</xt>
+            </xg>
+            <xg>
+               <x>вестенге аф</x>
+               <phonet>veśťəńg(ä) af</phonet>
+               <xt lang="fin">ei kertaakaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вечна</l>
+         <stg>
+            <st mdfContlex="AdvTag">вечна</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>večna</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ikuisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>видеса</l>
+         <stg>
+            <st mdfContlex="AdvTag">видеса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>viďəsa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>luona, vieressä, vierellä</t>
+            </tg>
+            <xg>
+               <x>тядя видеса</x>
+               <phonet>ťäďä viďəsa</phonet>
+               <xt lang="fin">äidin luona.</xt>
+            </xg>
+            <xg>
+               <x>ваймосесть вирнять видеса</x>
+               <phonet>vajməśəśť viŕńäť viďəsa</phonet>
+               <xt lang="fin">lepäsivät metsänreunassa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>видеста</l>
+         <stg>
+            <st mdfContlex="AdvTag">видеста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>viďəsta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. suoraan, rehellisesti. 2. yhtäläisesti, tasan. 3. oikeudenmukaisesti</t>
+            </tg>
+            <xg>
+               <x>молеме видеста киге</x>
+               <phonet>moľəmə viďəsta kigä</phonet>
+               <xt lang="fin">kuljimme suoraan tietä pitkin.</xt>
+            </xg>
+            <xg>
+               <x>корхтамс видеста</x>
+               <phonet>korxtams viďəsta</phonet>
+               <xt lang="fin">puhua suoraan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вииста</l>
+         <stg>
+            <st mdfContlex="AdvTag">вииста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vijista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>voimakkaasti, vahvasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вихца</l>
+         <stg>
+            <st mdfContlex="AdvTag">вихца</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>vixca</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>väkisin, väkivalloin, pakolla</t>
+            </tg>
+            <xg>
+               <x>вихца анцемс</x>
+               <phonet>vixca anćəms/ ańćəms</phonet>
+               <xt lang="fin">kiristää.</xt>
+            </xg>
+            <xg>
+               <x>вихца-вихца</x>
+               <phonet>vixcə-vixca</phonet>
+               <xt lang="fin">töin tuskin.</xt>
+            </xg>
+            <xg>
+               <x>вихца-важа</x>
+               <phonet>vixcə-važa</phonet>
+               <xt lang="fin">vastahakoisesti, väkinäisesti.</xt>
+            </xg>
+            <xg>
+               <x>вихца сявомс</x>
+               <phonet>vixcə śävəms</phonet>
+               <xt lang="fin">kaapata, ottaa väkisin, anastaa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вишкста</l>
+         <stg>
+            <st mdfContlex="AdvTag">вишкста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>višksta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>voimakkaasti, lujaa, kovaa</t>
+            </tg>
+            <xg>
+               <x>вишкста корхтай</x>
+               <phonet>viškstə korxtaj</phonet>
+               <xt lang="fin">puhuu kovaa.</xt>
+            </xg>
+            <xg>
+               <x>киге вишкста ардсь машина</x>
+               <phonet>kigä viškst(ə) arć mašina</phonet>
+               <xt lang="fin">tietä pitkin ajoi lujaa auto.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вчёк</l>
+         <stg>
+            <st mdfContlex="AdvTag">вчёк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>fčok</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sopivasti, juuri parahiksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вярде</l>
+         <stg>
+            <st mdfContlex="AdvTag">вярде</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>väŕďä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>päältä(päin), ylhäältä(­päin)</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вяре</l>
+         <stg>
+            <st mdfContlex="AdvTag">вяре</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>väŕä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ylhäällä, korkealla</t>
+            </tg>
+            <xg>
+               <x>шись вяре</x>
+               <phonet>šiś väŕä</phonet>
+               <xt lang="fin">aurinko on korkealla.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вяри</l>
+         <stg>
+            <st mdfContlex="AdvTag">вяри</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>väŕi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ylös, ylhäälle, korkealle</t>
+            </tg>
+            <xg>
+               <x>вярденге вяри</x>
+               <phonet>väŕďəŋgə väŕi</phonet>
+               <xt lang="fin">ylimmäksi.</xt>
+            </xg>
+            <xg>
+               <x>вяри-алу</x>
+               <phonet>väŕi-alu</phonet>
+               <xt lang="fin">ylös alas.</xt>
+            </xg>
+            <xg>
+               <x>вяри и вяри</x>
+               <phonet>väŕi i väŕi</phonet>
+               <xt lang="fin">yhä ylemmäs.</xt>
+            </xg>
+            <xg>
+               <x>вяри пантт</x>
+               <phonet>väŕi pantt</phonet>
+               <xt lang="fin">ylös mäelle, ylämäkeen.</xt>
+            </xg>
+            <xg>
+               <x>вяри ветть</x>
+               <phonet>väŕi veťť</phonet>
+               <xt lang="fin">vastavirtaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вярьгак</l>
+         <stg>
+            <st mdfContlex="AdvTag">вярьгак</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>väŕgak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. ylhäällä. 2. penger, valli</t>
+            </tg>
+            <xg>
+               <x>вярьгак васта</x>
+               <phonet>väŕgak vasta</phonet>
+               <xt lang="fin">kumpu, töyry.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вярьге</l>
+         <stg>
+            <st mdfContlex="AdvTag">вярьге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>väŕgä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ylhäällä, ylitse</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>галожста</l>
+         <stg>
+            <st mdfContlex="AdvTag">галожста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>galəžsta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>alasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гамозом</l>
+         <stg>
+            <st mdfContlex="AdvTag">гамозом</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>gaməzəm</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhdessä, joukolla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>давно</l>
+         <stg>
+            <st mdfContlex="AdvTag">давно</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>davno</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauan sitten, muinoin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>добром</l>
+         <stg>
+            <st mdfContlex="AdvTag">добром</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>dabrom</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>suosiolla, kernaasti, mielellään</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>душна</l>
+         <stg>
+            <st mdfContlex="AdvTag">душна</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>dušna</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kuuma, painostava</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёнцта</l>
+         <stg>
+            <st mdfContlex="AdvTag">ёнцта</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>joncta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>suunnalta, taholta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёфси</l>
+         <stg>
+            <st mdfContlex="AdvTag">ёфси</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>jofśi, ofśi, voxśu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ollenkaan, lainkaan</t>
+            </tg>
+            <xg>
+               <x>ёфси аф</x>
+               <phonet>jofśi af</phonet>
+               <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+            </xg>
+            <xg>
+               <x>ёфсикс аф</x>
+               <phonet>jofśiks af</phonet>
+               <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>живста</l>
+         <stg>
+            <st mdfContlex="AdvTag">живста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>živsta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>elävältä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>зря</l>
+         <stg>
+            <st mdfContlex="AdvTag">зря</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>źŕä, źəŕä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>huonosti</t>
+            </tg>
+            <xg>
+               <x>арай зря</x>
+               <phonet>araj źŕä</phonet>
+               <xt lang="fin">menee hukkaan.</xt>
+            </xg>
+            <xg>
+               <x>юмамс (­арамс) зря</x>
+               <phonet>jumams(­arams) źŕä</phonet>
+               <xt lang="fin">mennä hukkaan.</xt>
+            </xg>
+            <xg>
+               <x>зря-бря</x>
+               <phonet>źŕä-bŕä, źəŕä-bəŕä</phonet>
+               <xt lang="fin">huonosti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ила-шала</l>
+         <stg>
+            <st mdfContlex="AdvTag">ила-шала</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ila-šala</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jotenkuten, mitenkuten, huolimattomasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>илякс</l>
+         <stg>
+            <st mdfContlex="AdvTag">илякс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iľaks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toisin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>иляста</l>
+         <stg>
+            <st mdfContlex="AdvTag">иляста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iľasta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>joskus, toisinaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>илятемба</l>
+         <stg>
+            <st mdfContlex="AdvTag">илятемба</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iľäťəmba</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>illalla</t>
+            </tg>
+            <xg>
+               <x>исяк илятемба</x>
+               <phonet>iśak iľäťəmba</phonet>
+               <xt lang="fin">eilen illalla.</xt>
+            </xg>
+            <xg>
+               <x>ванды илятемба</x>
+               <phonet>vandi iľäťəmba</phonet>
+               <xt lang="fin">huomenillalla.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>илятькиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">илятькиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iľäťkigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vielä sinä iltana</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>инголькиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">инголькиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iŋgəľkiģä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aiemmin, sitä ennen, ennen tätä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ирецта</l>
+         <stg>
+            <st mdfContlex="AdvTag">ирецта</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iŕəcta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>juopunut, humalainen</t>
+            </tg>
+            <xg>
+               <x>кулырецта</x>
+               <phonet>kuliŕəcta</phonet>
+               <xt lang="fin">tukkihumalassa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>исяк</l>
+         <stg>
+            <st mdfContlex="AdvTag">исяк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>iśak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>eilen</t>
+            </tg>
+            <xg>
+               <x>исяконь</x>
+               <phonet>iśakəń</phonet>
+               <xt lang="fin">eilinen, eilis-.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ичкозе</l>
+         <stg>
+            <st mdfContlex="AdvTag">ичкозе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ičkəźä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kaukana, etäällä</t>
+            </tg>
+            <xg>
+               <x>сон эряй ичкозе</x>
+               <phonet>son eŕäj ičkəźä</phonet>
+               <xt lang="fin">hän asuu kaukana.</xt>
+            </xg>
+            <xg>
+               <x>ичкозде</x>
+               <phonet>ičkəźďä</phonet>
+               <xt lang="fin">kaukaa, etäältä.</xt>
+            </xg>
+            <xg>
+               <x>сон сась ичкозде</x>
+               <phonet>son saś ičkəźďä</phonet>
+               <xt lang="fin">hän tuli kaukaa.</xt>
+            </xg>
+            <xg>
+               <x>ичкоздень</x>
+               <phonet>ičkəźďəń</phonet>
+               <xt lang="fin">kaukainen.</xt>
+            </xg>
+            <xg>
+               <x>ичкозень</x>
+               <phonet>ičkəźəń</phonet>
+               <xt lang="fin">kaukainen.</xt>
+            </xg>
+            <xg>
+               <x>ичкози</x>
+               <phonet>ičkəźi</phonet>
+               <xt lang="fin">kauas.</xt>
+            </xg>
+            <xg>
+               <x>сон тусь ичкози</x>
+               <phonet>son tuś ičkəźi</phonet>
+               <xt lang="fin">hän lähti kauas.</xt>
+            </xg>
+            <xg>
+               <x>ичкозьге</x>
+               <phonet>ičkəźgä</phonet>
+               <xt lang="fin">kaukaa, etäältä (ohi).</xt>
+            </xg>
+            <xg>
+               <x>пиземсь ётась ичкозьге</x>
+               <phonet>piźəmś jotaś ičkəźgä</phonet>
+               <xt lang="fin">sade kulki kaukaa (ohi).</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кайгиста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кайгиста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kajgista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>helisten, soinnukkaasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кайтса</l>
+         <stg>
+            <st mdfContlex="AdvTag">кайтса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kajca</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siellä, tuolla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кальдявста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кальдявста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaľďavsta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. huonosti. 2. kauheasti, hirveästi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>карань-каршек</l>
+         <stg>
+            <st mdfContlex="AdvTag">карань-каршек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>karań-karšək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vastakkain, vastatusten</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>каршек</l>
+         <stg>
+            <st mdfContlex="AdvTag">каршек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>karšək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vastakkain, vastatusten</t>
+            </tg>
+            <xg>
+               <x>карань-каршек</x>
+               <phonet>karań-karšək</phonet>
+               <xt lang="fin">vastaan, vastoin, vasten.</xt>
+            </xg>
+            <xg>
+               <x>каршек конят</x>
+               <phonet>karšək końat</phonet>
+               <xt lang="fin">vastakkain.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-ков</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-ков</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-kov</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jonnekin, johonkin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-коса</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-коса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-kosa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jossakin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-коста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-коста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-kosta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jostakin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-мезенди</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-мезенди</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-meźəńďi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jonkin vuoksi/tähden</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-мес</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-мес</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-mes/-mäs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jostain syystä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати-местема</l>
+         <stg>
+            <st mdfContlex="AdvTag">кати-местема</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaťi-meśťəma</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jotain varten</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кафксть</l>
+         <stg>
+            <st mdfContlex="AdvTag">кафксть</st>
+         </stg>
+      </lg>
+      <pos>ITER</pos>
+      <phonet>kafkśť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kahdesti, kaksi kertaa</t>
+            </tg>
+            <xg>
+               <x>тя книгась кафксть сяда питни</x>
+               <phonet>ťä kńigaś kafkśť śadə piťńi</phonet>
+               <xt lang="fin">tämä kirja on kaksi kertaa kalliimpi.</xt>
+            </xg>
+            <xg>
+               <x>весть-кафксть</x>
+               <phonet>veśť-kafkśť</phonet>
+               <xt lang="fin">kerran pari.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кафтова</l>
+         <stg>
+            <st mdfContlex="AdvTag">кафтова</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kaftəva</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kahtia, kahteen osaan; kahdella tavalla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>келиста</l>
+         <stg>
+            <st mdfContlex="AdvTag">келиста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>keľista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>laajasti, leveästi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кемоста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кемоста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>keməsta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kovaa, kovasti, lujasti, vahvasti</t>
+            </tg>
+            <xg>
+               <x>кемоста удось</x>
+               <phonet>keməst(a) udəś</phonet>
+               <xt lang="fin">nukkui sikeästi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кенордазь</l>
+         <stg>
+            <st mdfContlex="AdvTag">кенордазь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kenərdaź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kiireessä, kiireisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кирдемшка</l>
+         <stg>
+            <st mdfContlex="AdvTag">кирдемшка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kiŕďəmška</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siedettävä</t>
+            </tg>
+            <xg>
+               <x>аф кирдемшка</x>
+               <phonet>af kiŕďəmška</phonet>
+               <xt lang="fin">sietämätön.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>коволда</l>
+         <stg>
+            <st mdfContlex="AdvTag">коволда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kovəlda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>mistä</t>
+            </tg>
+            <xg>
+               <x>коволдоньга аф</x>
+               <phonet>kovəldəŋg(ə) af</phonet>
+               <xt lang="fin">ei mistään.</xt>
+            </xg>
+            <xg>
+               <x>коволдонь?</x>
+               <phonet>kovəldəń</phonet>
+               <xt lang="fin">mistä kotoisin?</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кода</l>
+         <stg>
+            <st mdfContlex="AdvTag">кода</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kuinka, miten</t>
+            </tg>
+            <xg>
+               <x>кода тевсь моли?</x>
+               <phonet>koda ťevś moľi</phonet>
+               <xt lang="fin">miten työ sujuu?</xt>
+            </xg>
+            <xg>
+               <x>кода повсь</x>
+               <phonet>koda povś</phonet>
+               <xt lang="fin">miten sattui, valikoimatta, summassa.</xt>
+            </xg>
+            <xg>
+               <x>кодавок</x>
+               <phonet>kodavək</phonet>
+               <xt lang="fin">1. jotenkin. 2. tilaisuuden tullen.</xt>
+            </xg>
+            <xg>
+               <x>кодавок аф</x>
+               <phonet>kodavək af</phonet>
+               <xt lang="fin">ei mitenkään.</xt>
+            </xg>
+            <xg>
+               <x>ули кода</x>
+               <phonet>uľi koda</phonet>
+               <xt lang="fin">saattaa, voi.</xt>
+            </xg>
+            <xg>
+               <x>аш кода</x>
+               <phonet>aš koda</phonet>
+               <xt lang="fin">ei voi, on mahdotonta.</xt>
+            </xg>
+            <xg>
+               <x>аш кода молемс</x>
+               <phonet>aš koda moľəms</phonet>
+               <xt lang="fin">ei voi mennä.</xt>
+            </xg>
+            <xg>
+               <x>кода аф авардян!</x>
+               <phonet>kod(a) af avaŕďan</phonet>
+               <xt lang="fin">kuinka en itkisi!</xt>
+            </xg>
+            <xg>
+               <x>кода аф кода</x>
+               <phonet>kod(a) af koda</phonet>
+               <xt lang="fin">jotenkin.</xt>
+            </xg>
+            <xg>
+               <x>кода-кода</x>
+               <phonet>koda-koda</phonet>
+               <xt lang="fin">jotenkin, jollakin tavalla.</xt>
+            </xg>
+            <xg>
+               <x>саян кода-кода</x>
+               <phonet>sajan koda-koda</phonet>
+               <xt lang="fin">tulen jotenkin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>коза</l>
+         <stg>
+            <st mdfContlex="AdvTag">коза</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koza</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. minne, mihin. 2. missä</t>
+            </tg>
+            <xg>
+               <x>коза-бди</x>
+               <phonet>kozə-bəďi</phonet>
+               <xt lang="fin">johonkin.</xt>
+            </xg>
+            <xg>
+               <x>коза-коза</x>
+               <phonet>koza-koza</phonet>
+               <xt lang="fin">jonnekin, johonkin; jossakin.</xt>
+            </xg>
+            <xg>
+               <x>козовок</x>
+               <phonet>kozəvək</phonet>
+               <xt lang="fin">jossakin; (ei) missään.</xt>
+            </xg>
+            <xg>
+               <x>козовок тят лотксе</x>
+               <phonet>kozəvək ťat lotkśä</phonet>
+               <xt lang="fin">älä pysähdy missään.</xt>
+            </xg>
+            <xg>
+               <x>аш коза</x>
+               <phonet>aš koza</phonet>
+               <xt lang="fin">ei minnekään; ei missään.</xt>
+            </xg>
+            <xg>
+               <x>козонга аф</x>
+               <phonet>kozəŋg(a) af</phonet>
+               <xt lang="fin">ei minnekään.</xt>
+            </xg>
+            <xg>
+               <x>коза няи сельмоце</x>
+               <phonet>kozə ńäji śeľməćä</phonet>
+               <xt lang="fin">minne nenä näyttää.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>козк</l>
+         <stg>
+            <st mdfContlex="AdvTag">козк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kozk</phonet>
+      <e>
+         <mg>
+             
+            <m>
+               <head/>
+            </m>
+             
+            <tg lang="fin">
+               <t>heti kun; mihin</t>
+            </tg>
+             
+            <xg>
+               <x>козк няемань</x>
+               <phonet>kozk ńäjəmań</phonet>
+               <xt lang="fin">heti kun näki minut.</xt>
+            </xg>
+              
+            <xg>
+               <x>козк праят, тосток стяят</x>
+               <phonet>kozk prajat, tostək śťäjat</phonet>
+               <xt lang="fin">mihin putoat, sieltä nouset.</xt>
+            </xg>
+             
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кой-как</l>
+         <stg>
+            <st mdfContlex="AdvTag">кой-как</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koj-kak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jotenkin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кой-ков</l>
+         <stg>
+            <st mdfContlex="AdvTag">кой-ков</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koj-kov</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jonnekin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кой-коса</l>
+         <stg>
+            <st mdfContlex="AdvTag">кой-коса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koj-kosa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jossakin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кой-коста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кой-коста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>koj-kosta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jostakin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>колмочесь</l>
+         <stg>
+            <st mdfContlex="AdvTag">колмочесь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kolməčəś</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toissapäivänä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>коса</l>
+         <stg>
+            <st mdfContlex="AdvTag">коса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kosa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>missä</t>
+            </tg>
+            <xg>
+               <x>косовок</x>
+               <phonet>kosəvək</phonet>
+               <xt lang="fin">1. jossakin. 2. missään.</xt>
+            </xg>
+            <xg>
+               <x>кой-коса</x>
+               <phonet>koj-kosa</phonet>
+               <xt lang="fin">jossain.</xt>
+            </xg>
+            <xg>
+               <x>коса-коса</x>
+               <phonet>kosə-kosa</phonet>
+               <xt lang="fin">jossakin.</xt>
+            </xg>
+            <xg>
+               <x>коса аф коса</x>
+               <phonet>kos(ə) af kosa</phonet>
+               <xt lang="fin">missä tahansa; missään muualla.</xt>
+            </xg>
+            <xg>
+               <x>коса-бди</x>
+               <phonet>kosə-bəďi</phonet>
+               <xt lang="fin">jossakin; missähän.</xt>
+            </xg>
+            <xg>
+               <x>коса повсь</x>
+               <phonet>kosə povś</phonet>
+               <xt lang="fin">kaikkialla, joka paikassa.</xt>
+            </xg>
+            <xg>
+               <x>косонга аш</x>
+               <phonet>kosəŋg(a) aš</phonet>
+               <xt lang="fin">ei missään.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>коста</l>
+         <stg>
+            <st mdfContlex="AdvTag">коста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kosta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>mistä; koska, milloin</t>
+            </tg>
+            <xg>
+               <x>костовок</x>
+               <phonet>kostəvək</phonet>
+               <xt lang="fin">1. jostakin. 2. mistään.</xt>
+            </xg>
+            <xg>
+               <x>сёрмат костовок исть сашенда</x>
+               <phonet>śormat kostəvək iśť sašənda</phonet>
+               <xt lang="fin">kirjeitä ei ole tullut mistään.</xt>
+            </xg>
+            <xg>
+               <x>кой-коста</x>
+               <phonet>koj-kosta</phonet>
+               <xt lang="fin">jostakin.</xt>
+            </xg>
+            <xg>
+               <x>коста-коста</x>
+               <phonet>kostə-kosta</phonet>
+               <xt lang="fin">1. jostakin. 2. joskus, silloin tällöin, toisinaan. 3. koskaan.</xt>
+            </xg>
+            <xg>
+               <x>коста-коста мон якан охотас</x>
+               <phonet>kostə-kosta mon jakan axotas</phonet>
+               <xt lang="fin">käyn silloin tällöin metsällä.</xt>
+            </xg>
+            <xg>
+               <x>коста повсь</x>
+               <phonet>kostə povś</phonet>
+               <xt lang="fin">kaikkialla, kaikkialta.</xt>
+            </xg>
+            <xg>
+               <x>ся пингть, коста мон тунь</x>
+               <phonet>śä piŋkť kostə mon tuń</phonet>
+               <xt lang="fin">siihen aikaan kun lähdin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>край</l>
+         <stg>
+            <st mdfContlex="AdvTag">край</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kraj</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. seutu, alue. 2. jonkin reuna</t>
+            </tg>
+            <xg>
+               <x>пиле крайсост</x>
+               <phonet>piľə krajsəst</phonet>
+               <xt lang="fin">heidän korvannipukkansa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кувалмос</l>
+         <stg>
+            <st mdfContlex="AdvTag">кувалмос</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kuvalməs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>pitkin, pitkittäin, pituussuuntaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>куване</l>
+         <stg>
+            <st mdfContlex="AdvTag">куване</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kuvańä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>missä; minne päin</t>
+            </tg>
+            <xg>
+               <x>куване ётать ляйть туркс?</x>
+               <phonet>kuvańä jotať ľäjť turks</phonet>
+               <xt lang="fin">missä ylitit joen?</xt>
+            </xg>
+            <xg>
+               <x>куване шуване, сязеви сияне</x>
+               <phonet>kuvańä šuvańä, śäźəvi śijäńä</phonet>
+               <xt lang="fin">siitä yli mistä aita on matalin.</xt>
+            </xg>
+            <xg>
+               <x>кой-куване</x>
+               <phonet>koj-kuvańä/- kəvańä</phonet>
+               <xt lang="fin">jonnekin päin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кувать</l>
+         <stg>
+            <st mdfContlex="AdvTag">кувать</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kuvať</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauan</t>
+            </tg>
+            <xg>
+               <x>куватькас</x>
+               <phonet>kuvaťkas</phonet>
+               <xt lang="fin">pitkään.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>куватьс</l>
+         <stg>
+            <st mdfContlex="AdvTag">куватьс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kuvaťs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauan, pitkästi</t>
+            </tg>
+            <xg>
+               <x>куватьс саты</x>
+               <phonet>kuvaťs sati</phonet>
+               <xt lang="fin">pitkäaikainen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кулевиста</l>
+         <stg>
+            <st mdfContlex="AdvTag">кулевиста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kuľəvista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kuuluvasti, äänekkäästi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кунара</l>
+         <stg>
+            <st mdfContlex="AdvTag">кунара</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kunara</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauan sitten, aiemmin, ennen</t>
+            </tg>
+            <xg>
+               <x>кунара-кунара</x>
+               <phonet>kunarə-kunara</phonet>
+               <xt lang="fin">muinoin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кунаркиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">кунаркиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kunarkigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ammoisista ajoista</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>курок</l>
+         <stg>
+            <st mdfContlex="AdvTag">курок</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kurək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>nopeasti, pian, kohta</t>
+            </tg>
+            <xg>
+               <x>курок аф курок</x>
+               <phonet>kurək af kurək</phonet>
+               <xt lang="fin">ennemmin tai myöhemmin.</xt>
+            </xg>
+            <xg>
+               <x>курокста ласькондемс</x>
+               <phonet>kurəkstə laśkəńďəms</phonet>
+               <xt lang="fin">juosta nopeasti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>куроконе</l>
+         <stg>
+            <st mdfContlex="AdvTag">куроконе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>kurəkəńä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>nopeasti, pian</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кядьвийса</l>
+         <stg>
+            <st mdfContlex="AdvTag">кядьвийса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>käďvijsa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>käsin, käsivoimin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кяпе</l>
+         <stg>
+            <st mdfContlex="AdvTag">кяпе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>käpä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>paljain jaloin, avojaloin</t>
+            </tg>
+            <xg>
+               <x>якамс кяпе</x>
+               <phonet>jakams käpä</phonet>
+               <xt lang="fin">kulkea paljain jaloin.</xt>
+            </xg>
+            <xg>
+               <x>кяпе-крхтапа</x>
+               <phonet>käpä-kərxtapa</phonet>
+               <xt lang="fin">ilkialaston.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лад</l>
+         <stg>
+            <st mdfContlex="AdvTag">лад</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>lad</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. sopu, sovinto. 2. hyvä, mukava</t>
+            </tg>
+            <xg>
+               <x>сонь мялезонза лад</x>
+               <phonet>soń mäľəzənʒə lad</phonet>
+               <xt lang="fin">hänestä (se) on hyvä.</xt>
+            </xg>
+            <xg>
+               <x>азомс ладта</x>
+               <phonet>azəms latta</phonet>
+               <xt lang="fin">saattaa tietoon, antaa tiedoksi, tehdä tiettäväksi.</xt>
+            </xg>
+            <xg>
+               <x>латфтома: рятфтома-латфтома</x>
+               <phonet>ŕätftəmə-latftəma</phonet>
+               <xt lang="fin">epäjärjestyksessä, sekaisin.</xt>
+            </xg>
+            <xg>
+               <x>ладняс</x>
+               <phonet>ladńas, laďńas</phonet>
+               <xt lang="fin">hyvin.</xt>
+            </xg>
+            <xg>
+               <x>ладом: ладом-рядом</x>
+               <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
+               <xt lang="fin">järjestyksessä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лама</l>
+         <stg>
+            <st mdfContlex="AdvTag">лама</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>lama</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>paljon, monta, moni-</t>
+            </tg>
+            <xg>
+               <x>лама числа</x>
+               <phonet>lamə čisla</phonet>
+               <xt lang="fin">(kiel.) monikko.</xt>
+            </xg>
+            <xg>
+               <x>лама кизонь</x>
+               <phonet>lamə kizəń</phonet>
+               <xt lang="fin">monivuotinen.</xt>
+            </xg>
+            <xg>
+               <x>лама этажса</x>
+               <phonet>lam(ə) etažsa</phonet>
+               <xt lang="fin">monikerroksinen.</xt>
+            </xg>
+            <xg>
+               <x>ламода</x>
+               <phonet>laməda</phonet>
+               <xt lang="fin">paljon.</xt>
+            </xg>
+            <xg>
+               <x>ламода лама</x>
+               <phonet>lamədə lama</phonet>
+               <xt lang="fin">valtavan paljon.</xt>
+            </xg>
+            <xg>
+               <x>ламода сире</x>
+               <phonet>lamədə śiŕä</phonet>
+               <xt lang="fin">paljon vanhempi.</xt>
+            </xg>
+            <xg>
+               <x>ламошка</x>
+               <phonet>laməška</phonet>
+               <xt lang="fin">aika paljon.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ламоксть</l>
+         <stg>
+            <st mdfContlex="AdvTag">ламоксть</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laməkśť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>monta kertaa, monesti, usein</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ламоняс</l>
+         <stg>
+            <st mdfContlex="AdvTag">ламоняс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laməńas</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauemmin, pitempään</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ламос</l>
+         <stg>
+            <st mdfContlex="AdvTag">ламос</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laməs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kauan, pitkän aikaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лангса</l>
+         <stg>
+            <st mdfContlex="AdvTag">лангса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laŋksa</phonet>
+      <e>
+         <mg>
+             
+            <m>
+               <head/>
+            </m>
+             
+            <tg lang="fin">
+               <t>päällä, -lla</t>
+            </tg>
+             
+            <xg>
+               <x>ки лангса</x>
+               <phonet>ki laŋksa</phonet>
+               <xt lang="fin">matkalla, tiellä.</xt>
+            </xg>
+             
+            <xg>
+               <x>аш лангсост, аш пильгсост</x>
+               <phonet>aš laŋksəst aš piľksəst</phonet>
+               <xt lang="fin">heillä ei ole vaatetta.</xt>
+            </xg>
+             
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ластя</l>
+         <stg>
+            <st mdfContlex="AdvTag">ластя</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>laśťä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. ratsain, hevosella. 2. ajaen laukkaa</t>
+            </tg>
+            <xg>
+               <x>ластя ардомс</x>
+               <phonet>laśťä ardəms</phonet>
+               <xt lang="fin">ratsastaa.</xt>
+            </xg>
+            <xg>
+               <x>ластя арнема</x>
+               <phonet>laśťä arńəma</phonet>
+               <xt lang="fin">ratsastus.</xt>
+            </xg>
+            <xg>
+               <x>ластя ломань</x>
+               <phonet>laśťä lomań</phonet>
+               <xt lang="fin">ratsastaja, ratsumies.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лац</l>
+         <stg>
+            <st mdfContlex="AdvTag">лац</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>lac</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hyvin</t>
+            </tg>
+            <xg>
+               <x>ряц-лац</x>
+               <phonet>ŕäc-lac</phonet>
+               <xt lang="fin">hyvään järjestykseen, kuntoon.</xt>
+            </xg>
+            <xg>
+               <x>лацкя-ряцкя</x>
+               <phonet>lackä-ŕäckä</phonet>
+               <xt lang="fin">järjestyksessä, kunnossa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лацкас</l>
+         <stg>
+            <st mdfContlex="AdvTag">лацкас</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>lackas</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hyvin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лиякс</l>
+         <stg>
+            <st mdfContlex="AdvTag">лиякс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ľijaks, iľaks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toisin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лияста</l>
+         <stg>
+            <st mdfContlex="AdvTag">лияста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ľijasta, iľasta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>joskus, toisinaan</t>
+            </tg>
+            <xg>
+               <x>лияста-лияста</x>
+               <phonet>ľijastə-ľijasta</phonet>
+               <xt lang="fin">joskus.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мала</l>
+         <stg>
+            <st mdfContlex="AdvTag">мала</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mala</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>läheinen, lähi-</t>
+            </tg>
+            <xg>
+               <x>мала ки</x>
+               <phonet>mala ki</phonet>
+               <xt lang="fin">läheinen tie.</xt>
+            </xg>
+            <xg>
+               <x>маласа</x>
+               <phonet>malasa</phonet>
+               <xt lang="fin">lähellä, läheisyydessä.</xt>
+            </xg>
+            <xg>
+               <x>школать маласа ульсь роща</x>
+               <phonet>školať malasə uľś rošča</phonet>
+               <xt lang="fin">koulun lähellä oli lehto.</xt>
+            </xg>
+            <xg>
+               <x>маласта</x>
+               <phonet>malasta</phonet>
+               <xt lang="fin">läheltä.</xt>
+            </xg>
+            <xg>
+               <x>маласта лац няеви</x>
+               <phonet>malastə lac näjəvi</phonet>
+               <xt lang="fin">läheltä näkyy hyvin.</xt>
+            </xg>
+            <xg>
+               <x>маластонь</x>
+               <phonet>malastəń</phonet>
+               <xt lang="fin">läheinen, lähi-.</xt>
+            </xg>
+            <xg>
+               <x>маластонь шитне</x>
+               <phonet>malastəń šiťńä</phonet>
+               <xt lang="fin">lähipäivät.</xt>
+            </xg>
+            <xg>
+               <x>маластонь ошсь</x>
+               <phonet>malastəń ošś</phonet>
+               <xt lang="fin">läheinen kaupunki.</xt>
+            </xg>
+            <xg>
+               <x>малас</x>
+               <phonet>malas</phonet>
+               <xt lang="fin">lähelle.</xt>
+            </xg>
+            <xg>
+               <x>нежедемс малазост</x>
+               <phonet>ńežəďəms malazəst</phonet>
+               <xt lang="fin">lähestyä heitä.</xt>
+            </xg>
+            <xg>
+               <x>малав</x>
+               <phonet>malav</phonet>
+               <xt lang="fin">lähelle.</xt>
+            </xg>
+            <xg>
+               <x>малати</x>
+               <phonet>malaťi</phonet>
+               <xt lang="fin">puoleen, kohti, luo.</xt>
+            </xg>
+            <xg>
+               <x>сёксе малати</x>
+               <phonet>śokśə malaťi</phonet>
+               <xt lang="fin">syksyä kohti.</xt>
+            </xg>
+            <xg>
+               <x>малатнень</x>
+               <phonet>malaťńəń</phonet>
+               <xt lang="fin">läheinen, lähi-.</xt>
+            </xg>
+            <xg>
+               <x>малава</x>
+               <phonet>malava</phonet>
+               <xt lang="fin">läheltä, lähitse.</xt>
+            </xg>
+            <xg>
+               <x>ляйсь шуди велеть малава</x>
+               <phonet>ľäjś šuďi veľəť malava</phonet>
+               <xt lang="fin">joki virtaa kylän läheltä.</xt>
+            </xg>
+            <xg>
+               <x>малань</x>
+               <phonet>malań</phonet>
+               <xt lang="fin">läheinen, lähi-.</xt>
+            </xg>
+            <xg>
+               <x>малацек</x>
+               <phonet>malaćək</phonet>
+               <xt lang="fin">lähellä toisiaan.</xt>
+            </xg>
+            <xg>
+               <x>малацень</x>
+               <phonet>malaćəń</phonet>
+               <xt lang="fin">läheinen, lähi-.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>малость</l>
+         <stg>
+            <st mdfContlex="AdvTag">малость</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>maləśť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hiukan, hieman, vähän</t>
+            </tg>
+            <xg>
+               <x>малостькя</x>
+               <phonet>maləśťkä</phonet>
+               <xt lang="fin">hiukkasen, hieman, vähän.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мана</l>
+         <stg>
+            <st mdfContlex="AdvTag">мана</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mana</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toissa vuonna, kaksi vuotta sitten</t>
+            </tg>
+            <xg>
+               <x>меля-мана</x>
+               <phonet>meľä-mana</phonet>
+               <xt lang="fin">vuosi-pari sitten.</xt>
+            </xg>
+            <xg>
+               <x>мелявок-манавок</x>
+               <phonet>meľävək-manavək</phonet>
+               <xt lang="fin">viime ja toissavuonnakin.</xt>
+            </xg>
+            <xg>
+               <x>мелять-манацеть коряс</x>
+               <phonet>meľäť-manaćəť koŕas</phonet>
+               <xt lang="fin">viime vuoteen tai toissavuoteen verrattuna.</xt>
+            </xg>
+            <xg>
+               <x>манатень</x>
+               <phonet>manaťeń</phonet>
+               <xt lang="fin">toissavuotinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>манамба</l>
+         <stg>
+            <st mdfContlex="AdvTag">манамба</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>manamba</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>toissa vuonna, kaksi vuotta sitten</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мани</l>
+         <stg>
+            <st mdfContlex="AdvTag">мани</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mańi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kaunis ilma, pouta</t>
+            </tg>
+            <xg>
+               <x>аф мани</x>
+               <phonet>af mańi</phonet>
+               <xt lang="fin">ruma ilma.</xt>
+            </xg>
+            <xg>
+               <x>манинь пингста</x>
+               <phonet>mańiń piŋksta</phonet>
+               <xt lang="fin">kauniilla ilmalla.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марнек</l>
+         <stg>
+            <st mdfContlex="AdvTag">марнек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>marńək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kaikki, koko joukko; kokonaan, täysin, kaikkineen</t>
+            </tg>
+            <xg>
+               <x>марнек сувась тевти</x>
+               <phonet>marńək suvaś ťevťi</phonet>
+               <xt lang="fin">hän syventyi työhön täysin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>маром</l>
+         <stg>
+            <st mdfContlex="AdvTag">маром</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>marəm</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. (kaikki) yhdessä, jokaikinen. 2. kokonaan, täysin</t>
+            </tg>
+            <xg>
+               <x>синь маром лиссть кудста</x>
+               <phonet>śiń marəm ľiśśť kucta</phonet>
+               <xt lang="fin">he poistuivat talosta yhdessä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марс</l>
+         <stg>
+            <st mdfContlex="AdvTag">марс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mars</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhteen, kokoon</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марса</l>
+         <stg>
+            <st mdfContlex="AdvTag">марса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>marsa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhdessä</t>
+            </tg>
+            <xg>
+               <x>молеме марса</x>
+               <phonet>moľəme marsa</phonet>
+               <xt lang="fin">menimme yhdessä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марявиста</l>
+         <stg>
+            <st mdfContlex="AdvTag">марявиста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>maŕavista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ääneen, äänekkäästi</t>
+            </tg>
+            <xg>
+               <x>марявиста морафтомс</x>
+               <phonet>maŕavista moraftəms</phonet>
+               <xt lang="fin">lukea ääneen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>маця</l>
+         <stg>
+            <st mdfContlex="AdvTag">маця</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>maćä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>matala (vesi), matalikko</t>
+            </tg>
+            <xg>
+               <x>маця ляйня</x>
+               <phonet>maćä ľäjńä</phonet>
+               <xt lang="fin">matala joki.</xt>
+            </xg>
+            <xg>
+               <x>озамс маця вастс</x>
+               <phonet>ozams maćä vasc</phonet>
+               <xt lang="fin">ajaa matalikolle.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меки</l>
+         <stg>
+            <st mdfContlex="AdvTag">меки</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>meki</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>takaisin</t>
+            </tg>
+            <xg>
+               <x>меки самста</x>
+               <phonet>meki samsta</phonet>
+               <xt lang="fin">paluumatkalla.</xt>
+            </xg>
+            <xg>
+               <x>мзярда мрдат меки?</x>
+               <phonet>məźardə mərdat meki</phonet>
+               <xt lang="fin">milloin tulet takaisin?</xt>
+            </xg>
+            <xg>
+               <x>меки кочкярят</x>
+               <phonet>meki kočkäŕat</phonet>
+               <xt lang="fin">vääräsäärinen.</xt>
+            </xg>
+            <xg>
+               <x>аф меки, аф инголи</x>
+               <phonet>af meki af iŋgəľi</phonet>
+               <xt lang="fin">ei sinne eikä tänne.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меккятть</l>
+         <stg>
+            <st mdfContlex="AdvTag">меккятть</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekkäťť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jälkikäteen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меколанкт</l>
+         <stg>
+            <st mdfContlex="AdvTag">меколанкт</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekəlaŋkt</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>päinvastoin; nurinpäin; kääntäen</t>
+            </tg>
+            <xg>
+               <x>сон прокс тиенди меколанкть</x>
+               <phonet>son proks ťijəńďi mekəlaŋkt</phonet>
+               <xt lang="fin">hän tekee aina päinvastoin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меколе</l>
+         <stg>
+            <st mdfContlex="AdvTag">меколе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekəľä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>perässä, jäljessä</t>
+            </tg>
+            <xg>
+               <x>сембода меколе молеме минь</x>
+               <phonet>śembədə mekəľə moľəmə miń</phonet>
+               <xt lang="fin">kaikkein viimeisinä kuljimme me.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меколи</l>
+         <stg>
+            <st mdfContlex="AdvTag">меколи</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekəľi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. perään, jälkeen. 2. sitten, myöhemmin, lopulta</t>
+            </tg>
+            <xg>
+               <x>сон илядсь меколи</x>
+               <phonet>son iľać mekəľi</phonet>
+               <xt lang="fin">hän jäi jälkeen.</xt>
+            </xg>
+            <xg>
+               <x>меколи сон ушедсь корхтама</x>
+               <phonet>mekəľi son ušəć korxtama</phonet>
+               <xt lang="fin">sitten hän alkoi puhua.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мекпяли</l>
+         <stg>
+            <st mdfContlex="AdvTag">мекпяли</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mekpäľi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>viimeksi, viimeisen kerran, viimeiseksi, lopuksi, lopulta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меле</l>
+         <stg>
+            <st mdfContlex="AdvTag">меле</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>meľä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sitten, (sen) jälkeen, myöhemmin</t>
+            </tg>
+            <xg>
+               <x>пиземда меле ульсь лямбе</x>
+               <phonet>piźəmdə meľ(ä) uľś ľämbä</phonet>
+               <xt lang="fin">sateen jälkeen tuli lämmin.</xt>
+            </xg>
+            <xg>
+               <x>сяда меле</x>
+               <phonet>śadə meľä</phonet>
+               <xt lang="fin">myöhemmin, sitten.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мельцек</l>
+         <stg>
+            <st mdfContlex="AdvTag">мельцек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>meľćək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>peräkkäin</t>
+            </tg>
+            <xg>
+               <x>мельцек-мельцек</x>
+               <phonet>meľćək-meľćək</phonet>
+               <xt lang="fin">peräkanaa.</xt>
+            </xg>
+            <xg>
+               <x>мельцекс кизотнень эзда</x>
+               <phonet>meľćəks kizəťńəń ezda</phonet>
+               <xt lang="fin">viime vuosina.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>меля</l>
+         <stg>
+            <st mdfContlex="AdvTag">меля</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>meľä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. viime vuonna. 2. Jälkeen</t>
+            </tg>
+            <xg>
+               <x>мелянь</x>
+               <phonet>meľäń</phonet>
+               <xt lang="fin">viimevuotinen.</xt>
+            </xg>
+            <xg>
+               <x>мелятень</x>
+               <phonet>meľäťəń</phonet>
+               <xt lang="fin">viimevuotinen.</xt>
+            </xg>
+            <xg>
+               <x>меляце</x>
+               <phonet>meľäćä</phonet>
+               <xt lang="fin">viimevuotinen.</xt>
+            </xg>
+            <xg>
+               <x>меляцеть-манацеть коряс</x>
+               <phonet>meľäćəť-manaćəť koŕas</phonet>
+               <xt lang="fin">verrattuna viime tai toissavuoteen.</xt>
+            </xg>
+            <xg>
+               <x>меля-мана</x>
+               <phonet>meľä-mana</phonet>
+               <xt lang="fin">vuosi, pari sitten.</xt>
+            </xg>
+            <xg>
+               <x>мелякс-манакс</x>
+               <phonet>meľaks-manaks</phonet>
+               <xt lang="fin">edellisten vuosien tapaan.</xt>
+            </xg>
+            <xg>
+               <x>мелявок-манавок</x>
+               <phonet>meľävək-manavək</phonet>
+               <xt lang="fin">viime ja toissa vuonnakin.</xt>
+            </xg>
+            <xg>
+               <x>войнада мельдень пинге</x>
+               <phonet>vajnada meľďəń piŋgä</phonet>
+               <xt lang="fin">sodan jälkeinen aika.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мелямба</l>
+         <stg>
+            <st mdfContlex="AdvTag">мелямба</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>meľamba</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>viime vuonna</t>
+            </tg>
+            <xg>
+               <x>мелямбаннеть коряс</x>
+               <phonet>meľambańńəť koŕas</phonet>
+               <xt lang="fin">verrattuna viime vuoteen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мес</l>
+         <stg>
+            <st mdfContlex="AdvTag">мес</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>mes, mäs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>miksi</t>
+            </tg>
+            <xg>
+               <x>мес ашеть ваймя?</x>
+               <phonet>mes ašəť vajmä</phonet>
+               <xt lang="fin">miksi et levännyt?</xt>
+            </xg>
+            <xg>
+               <x>сяс ... мес</x>
+               <phonet>śas … mes</phonet>
+               <xt lang="fin">siksi … että.</xt>
+            </xg>
+            <xg>
+               <x>мес-бди</x>
+               <phonet>mes-bəďi</phonet>
+               <xt lang="fin">jostain syystä.</xt>
+            </xg>
+            <xg>
+               <x>мес-кда!</x>
+               <phonet>mes-kəda</phonet>
+               <xt lang="fin">sillä lailla! kyllä kai!; mikäpäs siinä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>наголь</l>
+         <stg>
+            <st mdfContlex="AdvTag">наголь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>nagoľ</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jatkuvasti, aina</t>
+            </tg>
+            <xg>
+               <x>сон наголь тяфта тиенди</x>
+               <phonet>son nagoľ ťafta ťijəńďi</phonet>
+               <xt lang="fin">hän tekee aina niin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>най</l>
+         <stg>
+            <st mdfContlex="AdvTag">най</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>naj</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aina</t>
+            </tg>
+            <xg>
+               <x>аф най</x>
+               <phonet>af naj</phonet>
+               <xt lang="fin">ei aina.</xt>
+            </xg>
+            <xg>
+               <x>най корхтат</x>
+               <phonet>naj korxtat</phonet>
+               <xt lang="fin">puhut jatkuvasti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>наява</l>
+         <stg>
+            <st mdfContlex="AdvTag">наява</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>najava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>avoimesti</t>
+            </tg>
+            <xg>
+               <x>мон корхтан наява</x>
+               <phonet>mon korxtan najava</phonet>
+               <xt lang="fin">puhun suoraan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нинге</l>
+         <stg>
+            <st mdfContlex="AdvTag">нинге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ńiŋgä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vielä</t>
+            </tg>
+            <xg>
+               <x>сон нинге од</x>
+               <phonet>son ńiŋg(ä) od</phonet>
+               <xt lang="fin">hän on vielä nuori.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нучк</l>
+         <stg>
+            <st mdfContlex="AdvTag">нучк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>nučk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. suoraan. 2. puoliksi, kahtia</t>
+            </tg>
+            <xg>
+               <x>сязендемс нучк</x>
+               <phonet>śäźəńďəms nučk</phonet>
+               <xt lang="fin">repäistä kahtia.</xt>
+            </xg>
+            <xg>
+               <x>нучк якань</x>
+               <phonet>nučk jakań</phonet>
+               <xt lang="fin">ylitin tien, kuljin tien poikki.</xt>
+            </xg>
+            <xg>
+               <x>туркс и нучк</x>
+               <phonet>turks i nučk</phonet>
+               <xt lang="fin">pitkin ja poikin, ristiin rastiin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>одста</l>
+         <stg>
+            <st mdfContlex="AdvTag">одста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>octa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. uudelleen. 2. nuorena</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>озада</l>
+         <stg>
+            <st mdfContlex="AdvTag">озада</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ozada</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>istuen, istumassa</t>
+            </tg>
+            <xg>
+               <x>ащемс озада</x>
+               <phonet>aščəms ozada</phonet>
+               <xt lang="fin">istua.</xt>
+            </xg>
+            <xg>
+               <x>озадонь седихть</x>
+               <phonet>ozadəń śeďixť</phonet>
+               <xt lang="fin">kaikessa rauhassa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>омботь</l>
+         <stg>
+            <st mdfContlex="AdvTag">омботь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ombəť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ylihuominen, ylihuomenna</t>
+            </tg>
+            <xg>
+               <x>ванды или омботь</x>
+               <phonet>vandi iľi ombəť</phonet>
+               <xt lang="fin">huomenna tai ylihuomenna.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пара</l>
+         <stg>
+            <st mdfContlex="AdvTag">пара</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>para</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. hyvä. 2. omaisuus</t>
+            </tg>
+            <xg>
+               <x>пара вал</x>
+               <phonet>parə val</phonet>
+               <xt lang="fin">tervehdys.</xt>
+            </xg>
+            <xg>
+               <x>пара уша</x>
+               <phonet>parə uša</phonet>
+               <xt lang="fin">hyvä sää.</xt>
+            </xg>
+            <xg>
+               <x>пара канды</x>
+               <phonet>parə kandi</phonet>
+               <xt lang="fin">hyödyllinen, tarpeellinen.</xt>
+            </xg>
+            <xg>
+               <x>арьсемс пара</x>
+               <phonet>aŕśəms para</phonet>
+               <xt lang="fin">onnitella, toivottaa onnea.</xt>
+            </xg>
+            <xg>
+               <x>лангс ваномс аф пара</x>
+               <phonet>laŋks vanəms af para</phonet>
+               <xt lang="fin">pahannäköinen.</xt>
+            </xg>
+            <xg>
+               <x>аф пара вайгяльса</x>
+               <phonet>af parə vajgäľsa</phonet>
+               <xt lang="fin">kauhistuneena, pahalla äänellä.</xt>
+            </xg>
+            <xg>
+               <x>парста</x>
+               <phonet>parsta, parəsta</phonet>
+               <xt lang="fin">hyvin.</xt>
+            </xg>
+            <xg>
+               <x>аф парста</x>
+               <phonet>af parsta</phonet>
+               <xt lang="fin">huonosti, kelvottomasti.</xt>
+            </xg>
+            <xg>
+               <x>паронь пандома</x>
+               <phonet>parəń pandəma</phonet>
+               <xt lang="fin">tehdä vastapalvelus.</xt>
+            </xg>
+            <xg>
+               <x>шумбрат-пархт азондомс</x>
+               <phonet>šumbrat-parxt azəndəms</phonet>
+               <xt lang="fin">tervehtiä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пачк</l>
+         <stg>
+            <st mdfContlex="AdvTag">пачк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>pačk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. puoliksi, kahtia. 2. läpi, lävitse; puhki</t>
+            </tg>
+            <xg>
+               <x>керк марьть пачк</x>
+               <phonet>kerk maŕť pačk</phonet>
+               <xt lang="fin">leikkaa omena puoliksi.</xt>
+            </xg>
+            <xg>
+               <x>модать пачк тумс</x>
+               <phonet>modať pačk tums</phonet>
+               <xt lang="fin">kadota, hävitä.</xt>
+            </xg>
+            <xg>
+               <x>мон пачк няйхте</x>
+               <phonet>mon pačk ńäjxťä</phonet>
+               <xt lang="fin">näen lävitsesi.</xt>
+            </xg>
+            <xg>
+               <x>сурснон пачк работайхть</x>
+               <phonet>sursnən pačk rabotaxť</phonet>
+               <xt lang="fin">työskentelevät huolimattomasti.</xt>
+            </xg>
+            <xg>
+               <x>сарасне ётасть перяфть пачк</x>
+               <phonet>saraśńə jotaśť peŕafť pačk</phonet>
+               <xt lang="fin">kanat kulkivat aidan läpi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пефтома</l>
+         <stg>
+            <st mdfContlex="AdvTag">пефтома</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>peftəma, pefťəma</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>loputon, ääretön, rajaton</t>
+            </tg>
+            <xg>
+               <x>пефтома лама</x>
+               <phonet>peftəmə lama</phonet>
+               <xt lang="fin">loputtomasti, loputtoman paljon.</xt>
+            </xg>
+            <xg>
+               <x>пефтома тевда</x>
+               <phonet>peftəmə ťevda</phonet>
+               <xt lang="fin">loputtomasti työtä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пецек</l>
+         <stg>
+            <st mdfContlex="AdvTag">пецек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>pećək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>peräkkäin, perätysten, yksi toisensa jälkeen</t>
+            </tg>
+            <xg>
+               <x>пецек-пецек</x>
+               <phonet>pećək-pećək</phonet>
+               <xt lang="fin">peräkkäin, yksi toisensa jälkeen.</xt>
+            </xg>
+            <xg>
+               <x>кядень пецек</x>
+               <phonet>käďəń pećək</phonet>
+               <xt lang="fin">käsi kädessä.</xt>
+            </xg>
+            <xg>
+               <x>кунцемс кядень пецек</x>
+               <phonet>kunćəms/kuńćəms käďəń pećək</phonet>
+               <xt lang="fin">tarttua toinen toisensa käteen.</xt>
+            </xg>
+            <xg>
+               <x>пильгонь пецек удомс</x>
+               <phonet>piľgəń pećək udəms</phonet>
+               <xt lang="fin">nukkua jalat limittäin/limitysten.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пильгонек-прянек</l>
+         <stg>
+            <st mdfContlex="AdvTag">пильгонек-прянек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>piľgəńək-pŕäńək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kiireestä kantapäähän</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>питнефтома</l>
+         <stg>
+            <st mdfContlex="AdvTag">питнефтома</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>piťńəftəma, piťńəfťəma</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ilmainen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>полас-полас</l>
+         <stg>
+            <st mdfContlex="AdvTag">полас-полас</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>polas-polas</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vuorotellen, vaihdellen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>прокс</l>
+         <stg>
+            <st mdfContlex="AdvTag">прокс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>proks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. täysin, aivan. 2. aina</t>
+            </tg>
+            <xg>
+               <x>прокс аф</x>
+               <phonet>proks af</phonet>
+               <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+            </xg>
+            <xg>
+               <x>прокс анок</x>
+               <phonet>proks anək</phonet>
+               <xt lang="fin">aina valmiina.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>прява</l>
+         <stg>
+            <st mdfContlex="AdvTag">прява</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>pŕava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>pintapuolisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пяк</l>
+         <stg>
+            <st mdfContlex="AdvTag">пяк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>päk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hyvin, oikein, kovin, erittäin</t>
+            </tg>
+            <xg>
+               <x>пяк лама</x>
+               <phonet>päk lama</phonet>
+               <xt lang="fin">hyvin paljon.</xt>
+            </xg>
+            <xg>
+               <x>пяк цебярьста</x>
+               <phonet>päk ćebäŕsta</phonet>
+               <xt lang="fin">oikein hyvin.</xt>
+            </xg>
+            <xg>
+               <x>пяк эрявикс</x>
+               <phonet>päk eŕaviks</phonet>
+               <xt lang="fin">hyvin tarpeellinen.</xt>
+            </xg>
+            <xg>
+               <x>пяк-пяк</x>
+               <phonet>päk-päk</phonet>
+               <xt lang="fin">kovin, erittäin.</xt>
+            </xg>
+            <xg>
+               <x>аф пяк</x>
+               <phonet>af päk</phonet>
+               <xt lang="fin">ei aivan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пяконе</l>
+         <stg>
+            <st mdfContlex="AdvTag">пяконе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>päkəńä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hyvin, kunnolla</t>
+            </tg>
+            <xg>
+               <x>тон антк сонь пяконе</x>
+               <phonet>ton antk soń päkəńä</phonet>
+               <xt lang="fin">syötä hänet hyvin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пялева</l>
+         <stg>
+            <st mdfContlex="AdvTag">пялева</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>päľəva</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>puoliksi, kahtia, kahteen osaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пялес</l>
+         <stg>
+            <st mdfContlex="AdvTag">пялес</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>päľəs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>puoliksi, puoleksi</t>
+            </tg>
+            <xg>
+               <x>пялес вача</x>
+               <phonet>päľəs vača</phonet>
+               <xt lang="fin">nälissään.</xt>
+            </xg>
+            <xg>
+               <x>пялес верок</x>
+               <phonet>päľəs verək</phonet>
+               <xt lang="fin">1. kostea, nahkea. 2. puoliraaka, puolikypsä.</xt>
+            </xg>
+            <xg>
+               <x>пялес коське</x>
+               <phonet>päľəs kośkä</phonet>
+               <xt lang="fin">puolikuiva.</xt>
+            </xg>
+            <xg>
+               <x>пялес покаряв</x>
+               <phonet>päľəs pokaŕav</phonet>
+               <xt lang="fin">puolipyöreä.</xt>
+            </xg>
+            <xg>
+               <x>пялес кула</x>
+               <phonet>päľəs kula</phonet>
+               <xt lang="fin">puolikuollut.</xt>
+            </xg>
+            <xg>
+               <x>пялес куломс шавондозень</x>
+               <phonet>päľəs kuləms šavəndəźəń</phonet>
+               <xt lang="fin">pieksi heidät puolikuoliaaksi.</xt>
+            </xg>
+            <xg>
+               <x>пялес тиф</x>
+               <phonet>päľəs ťif</phonet>
+               <xt lang="fin">keskeneräinen, puolivalmis.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пяшксе</l>
+         <stg>
+            <st mdfContlex="AdvTag">пяшксе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>päškśä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>täynnä</t>
+            </tg>
+            <xg>
+               <x>утопне пяшксет сёрода</x>
+               <phonet>utəpńə päškśət śorəda</phonet>
+               <xt lang="fin">aitat ovat täynnä viljaa.</xt>
+            </xg>
+            <xg>
+               <x>шяйсь пяшксе сяськта</x>
+               <phonet>šäjś päškśə śäśkta</phonet>
+               <xt lang="fin">suo on täynnä hyttysiä.</xt>
+            </xg>
+            <xg>
+               <x>пяшксеня</x>
+               <phonet>päškśəńä</phonet>
+               <xt lang="fin">täydenlainen, melko täysi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рана</l>
+         <stg>
+            <st mdfContlex="AdvTag">рана</st>
+         </stg>
+      </lg>
+      <pos>TEMP</pos>
+      <phonet>rana</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>varhain, aikaisin</t>
+            </tg>
+            <xg>
+               <x>рана шобдава</x>
+               <phonet>rana šobdava</phonet>
+               <xt lang="fin">aikaisin aamulla.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ранакиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">ранакиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ranakigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jo aikaisin aamulla, anivarhain</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахсемга</l>
+         <stg>
+            <st mdfContlex="AdvTag">рахсемга</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>raxśəmga</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>piloillaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ровна</l>
+         <stg>
+            <st mdfContlex="AdvTag">ровна</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>rovna</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti, samoin, tasan</t>
+            </tg>
+            <xg>
+               <x>ровнаста</x>
+               <phonet>rovnasta</phonet>
+               <xt lang="fin">yhtäläisesti, tasan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>розна</l>
+         <stg>
+            <st mdfContlex="AdvTag">розна</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>rozna</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>erikseen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ряц</l>
+         <stg>
+            <st mdfContlex="AdvTag">ряц</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ŕäc</phonet>
+      <e>
+         <mg>
+             
+            <m>
+               <head/>
+            </m>
+             
+            <tg lang="fin">
+               <t>järjestykseen</t>
+            </tg>
+             
+            <xg>
+               <x>ряц-ряц</x>
+               <phonet>ŕäc-ŕäc</phonet>
+               <xt lang="fin">(vuoro)järjestykseen.</xt>
+            </xg>
+              
+            <xg>
+               <x>лац-ряц</x>
+               <phonet>lac-ŕäc</phonet>
+               <xt lang="fin">hyvään järjestykseen.</xt>
+            </xg>
+             
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ряца</l>
+         <stg>
+            <st mdfContlex="AdvTag">ряца</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ŕäca</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>järjestyksessä</t>
+            </tg>
+            <xg>
+               <x>ряца-ряца</x>
+               <phonet>ŕäca-ŕäca</phonet>
+               <xt lang="fin">(vuoro)järjestyksessä, peräkkäin.</xt>
+            </xg>
+            <xg>
+               <x>ряцкя-пецкя</x>
+               <phonet>ŕäckä-pećkä</phonet>
+               <xt lang="fin">(vuoro)järjestykseen.</xt>
+            </xg>
+            <xg>
+               <x>ряцкя-ряцкя</x>
+               <phonet>ŕäckä-ŕäckä</phonet>
+               <xt lang="fin">(vuoro)järjestykseen.</xt>
+            </xg>
+            <xg>
+               <x>лацкя-ряцкя</x>
+               <phonet>lackä-ŕäckä</phonet>
+               <xt lang="fin">(vuoro-) järjestykseen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ряцок</l>
+         <stg>
+            <st mdfContlex="AdvTag">ряцок</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ŕäcək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>peräkkäin; vierekkäin, rinnakkain</t>
+            </tg>
+            <xg>
+               <x>ряцок-ряцок</x>
+               <phonet>ŕäcək-ŕäcək</phonet>
+               <xt lang="fin">peräkkäin.</xt>
+            </xg>
+            <xg>
+               <x>ряцок ащи пантт</x>
+               <phonet>räcək ašči pantt</phonet>
+               <xt lang="fin">vuorijono, vuoristo.</xt>
+            </xg>
+            <xg>
+               <x>минь озаме ряцок</x>
+               <phonet>miń ozamə ŕäcək</phonet>
+               <xt lang="fin">istuimme rinnakkain/ vierekkäin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>савор</l>
+         <stg>
+            <st mdfContlex="AdvTag">савор</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>savər</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hitaasti</t>
+            </tg>
+            <xg>
+               <x>савор-савор</x>
+               <phonet>savər-savər</phonet>
+               <xt lang="fin">hyvin hitaasti.</xt>
+            </xg>
+            <xg>
+               <x>саворста</x>
+               <phonet>savərsta</phonet>
+               <xt lang="fin">hitaasti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>салава</l>
+         <stg>
+            <st mdfContlex="AdvTag">салава</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>salava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>salaa, salassa</t>
+            </tg>
+            <xg>
+               <x>салавань</x>
+               <phonet>salavań</phonet>
+               <xt lang="fin">salainen, sala-.</xt>
+            </xg>
+            <xg>
+               <x>салавань суски</x>
+               <phonet>salavań suski</phonet>
+               <xt lang="fin">toimii vaivihkaa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>саста</l>
+         <stg>
+            <st mdfContlex="AdvTag">саста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>sasta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hiljaisesti, rauhallisesti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сатомшка</l>
+         <stg>
+            <st mdfContlex="AdvTag">сатомшка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>satəmška</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>riittävä; riittävästi</t>
+            </tg>
+            <xg>
+               <x>аф сатомшка</x>
+               <phonet>af satəmška</phonet>
+               <xt lang="fin">riittämätön, puutteellinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>седифтома</l>
+         <stg>
+            <st mdfContlex="AdvTag">седифтома</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śeďiftəma</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sydämetön, säälimätön</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сей</l>
+         <stg>
+            <st mdfContlex="AdvTag">сей</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śej</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tänne, tähän</t>
+            </tg>
+            <xg>
+               <x>тов и сей</x>
+               <phonet>tov i śej</phonet>
+               <xt lang="fin">sinne tänne.</xt>
+            </xg>
+            <xg>
+               <x>сей сак!</x>
+               <phonet>śej sak</phonet>
+               <xt lang="fin">tule tänne!</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сембе</l>
+         <stg>
+            <st mdfContlex="AdvTag">сембе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śembä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kaikki; superlatiivin apusana</t>
+            </tg>
+            <xg>
+               <x>сембода оцю</x>
+               <phonet>śembəd(a) oću</phonet>
+               <xt lang="fin">suurin.</xt>
+            </xg>
+            <xg>
+               <x>сембодонга оцю</x>
+               <phonet>śembədəŋg(a) oću</phonet>
+               <xt lang="fin">suurin.</xt>
+            </xg>
+            <xg>
+               <x>сембода осал</x>
+               <phonet>śembəd(a) osal</phonet>
+               <xt lang="fin">huonoin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>серцек</l>
+         <stg>
+            <st mdfContlex="AdvTag">серцек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śeŕćək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vieressä; vierekkäin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сетьме</l>
+         <stg>
+            <st mdfContlex="AdvTag">сетьме</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śeťmä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hiljainen</t>
+            </tg>
+            <xg>
+               <x>сетьмоста</x>
+               <phonet>śeťməsta</phonet>
+               <xt lang="fin">hiljaa, hiljaisesti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сияк</l>
+         <stg>
+            <st mdfContlex="AdvTag">сияк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śijak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>samalla tavalla, juuri noin</t>
+            </tg>
+            <xg>
+               <x>кува ... сияк</x>
+               <phonet>kuva … śijak</phonet>
+               <xt lang="fin">minne … sinne.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сияне</l>
+         <stg>
+            <st mdfContlex="AdvTag">сияне</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śijäńä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siellä, tuolla, sillä paikalla, siinä paikassa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сняра</l>
+         <stg>
+            <st mdfContlex="AdvTag">сняра</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śəńara</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>niin paljon</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>снярда</l>
+         <stg>
+            <st mdfContlex="AdvTag">снярда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śəńarda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>silloin</t>
+            </tg>
+            <xg>
+               <x>снярда ... мзярда</x>
+               <phonet>śəńarda … məźarda</phonet>
+               <xt lang="fin">silloin … kun.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сняроксть</l>
+         <stg>
+            <st mdfContlex="AdvTag">сняроксть</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śəńarəkśť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>niin monta kertaa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стадонга</l>
+         <stg>
+            <st mdfContlex="AdvTag">стадонга</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>stadəŋga</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sitä ilmankin, sitäkin paitsi</t>
+            </tg>
+            <xg>
+               <x>стадонга лама</x>
+               <phonet>stadəŋgə lama</phonet>
+               <xt lang="fin">enemmän.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стак</l>
+         <stg>
+            <st mdfContlex="AdvTag">стак</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>stak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>syyttä, suotta, turhaan; ilmaiseksi</t>
+            </tg>
+            <xg>
+               <x>стак абон</x>
+               <phonet>stak abən</phonet>
+               <xt lang="fin">turhaan, suotta.</xt>
+            </xg>
+            <xg>
+               <x>стак ащемс</x>
+               <phonet>stak aščəms</phonet>
+               <xt lang="fin">laiskotella, vetelehtiä.</xt>
+            </xg>
+            <xg>
+               <x>аф стак корхтайхть</x>
+               <phonet>af stak korxtajxť</phonet>
+               <xt lang="fin">eipä turhaan sanota että…</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стака</l>
+         <stg>
+            <st mdfContlex="AdvTag">стака</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>staka</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vaikea, hankala; raskas, painava</t>
+            </tg>
+            <xg>
+               <x>стакаста</x>
+               <phonet>stakasta</phonet>
+               <xt lang="fin">raskaasti, vaikeasti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стакащемда</l>
+         <stg>
+            <st mdfContlex="AdvTag">стакащемда</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>stakaščəmda</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>turhaan, turhan/tyhjän tähden</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стаки</l>
+         <stg>
+            <st mdfContlex="AdvTag">стаки</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>staki</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yhä, vielä, edelleen, aina vain</t>
+            </tg>
+            <xg>
+               <x>пиземсь стаки моли</x>
+               <phonet>piźəmś staki moľi</phonet>
+               <xt lang="fin">sataa yhä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>стане</l>
+         <stg>
+            <st mdfContlex="AdvTag">стане</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>stańä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sillä/tuolla tavalla</t>
+            </tg>
+            <xg>
+               <x>кода стасак, стане щасак</x>
+               <phonet>koda stasak, stańä ščasak</phonet>
+               <xt lang="fin">niin makaa kuin petaa.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сядонголе</l>
+         <stg>
+            <st mdfContlex="AdvTag">сядонголе</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śadəŋgəľä, śadiŋgəľä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aikaisemmin, aiemmin, ennen, entisaikaan, ennenvanhaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сяка</l>
+         <stg>
+            <st mdfContlex="AdvTag">сяка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śaka</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sama</t>
+            </tg>
+            <xg>
+               <x>сяка кизоня</x>
+               <phonet>śakə kizəńä</phonet>
+               <xt lang="fin">samana vuonna.</xt>
+            </xg>
+            <xg>
+               <x>сяка киге</x>
+               <phonet>śakə kigä</phonet>
+               <xt lang="fin">saman tien.</xt>
+            </xg>
+            <xg>
+               <x>сяка жа</x>
+               <phonet>śakə ža</phonet>
+               <xt lang="fin">samanlainen.</xt>
+            </xg>
+            <xg>
+               <x>сяка тев</x>
+               <phonet>śakə ťev</phonet>
+               <xt lang="fin">jatkuvasti, alinomaa, tämän tästä.</xt>
+            </xg>
+            <xg>
+               <x>сяконь ёткова</x>
+               <phonet>śakəń jotkəva</phonet>
+               <xt lang="fin">sillä välin, välillä.</xt>
+            </xg>
+            <xg>
+               <x>сяконь лангс</x>
+               <phonet>śakəń laŋks</phonet>
+               <xt lang="fin">samalla kertaa, saman tien.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сяльде</l>
+         <stg>
+            <st mdfContlex="AdvTag">сяльде</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śäľďä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sitten, sen jälkeen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сямольде</l>
+         <stg>
+            <st mdfContlex="AdvTag">сямольде</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śaməľďä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sitten, sen jälkeen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сянкса</l>
+         <stg>
+            <st mdfContlex="AdvTag">сянкса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śaŋksa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siksi, sen tähden</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сяс</l>
+         <stg>
+            <st mdfContlex="AdvTag">сяс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śas</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siksi, sen takia</t>
+            </tg>
+            <xg>
+               <x>сяс ... мес</x>
+               <phonet>śas … mes</phonet>
+               <xt lang="fin">siksi että, koska.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сяськовомшка</l>
+         <stg>
+            <st mdfContlex="AdvTag">сяськовомшка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śäśkəvəmška</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>voimien mukainen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сяшкава</l>
+         <stg>
+            <st mdfContlex="AdvTag">сяшкава</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>śäškava, śeškava, śaškava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sen verran, niin paljon, siinä määrin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тага</l>
+         <stg>
+            <st mdfContlex="AdvTag">тага</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>taga, taŋga</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>taas, jälleen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тейге</l>
+         <stg>
+            <st mdfContlex="AdvTag">тейге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťejgä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tätä kautta</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тирьхконь-тирьхконь</l>
+         <stg>
+            <st mdfContlex="AdvTag">тирьхконь-тирьхконь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťiŕxkəń-ťiŕxkəń</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>palasiksi, paloiksi</t>
+            </tg>
+            <xg>
+               <x>тирьхконь-тирьхконь сязендемс</x>
+               <phonet>ťiŕxkəń-ťiŕxkəń śäźəńďəms</phonet>
+               <xt lang="fin">repiä palasiksi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тифтень</l>
+         <stg>
+            <st mdfContlex="AdvTag">тифтень</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťifťəń</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yksitellen</t>
+            </tg>
+            <xg>
+               <x>тифтень-тифтень</x>
+               <phonet>ťifťəń-ťifťəń</phonet>
+               <xt lang="fin">yksitellen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тифтенянь</l>
+         <stg>
+            <st mdfContlex="AdvTag">тифтенянь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťifťəńäń</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>yksitellen</t>
+            </tg>
+            <xg>
+               <x>тифтенянь-кафтонянь</x>
+               <phonet>ťifťəńäń-kaftəńäń</phonet>
+               <xt lang="fin">yksittäin, parittain.</xt>
+            </xg>
+            <xg>
+               <x>тифтенянь сиптяма</x>
+               <phonet>ťifťəńäń śipťama</phonet>
+               <xt lang="fin">juomme yhdet.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тияк</l>
+         <stg>
+            <st mdfContlex="AdvTag">тияк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťijak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>(mennä) täältä; tähän suuntaan, tänne(päin) </t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тияне</l>
+         <stg>
+            <st mdfContlex="AdvTag">тияне</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťijäńä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>(mennä) täältä; tänne, tännepäin, tähän suuntaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тняра</l>
+         <stg>
+            <st mdfContlex="AdvTag">тняра</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťəńara</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tämän verran</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тов</l>
+         <stg>
+            <st mdfContlex="AdvTag">тов</st>
+         </stg>
+      </lg>
+      <pos>SPAT</pos>
+      <phonet>tov</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tuonne, sinne; eteenpäin</t>
+            </tg>
+            <xg>
+               <x>ков ... тов</x>
+               <phonet>kov … tov</phonet>
+               <xt lang="fin">mitä (enemmän) … sitä.</xt>
+            </xg>
+            <xg>
+               <x>тов-сей</x>
+               <phonet>tov-śej</phonet>
+               <xt lang="fin">sinne-tänne.</xt>
+            </xg>
+            <xg>
+               <x>товонга</x>
+               <phonet>tovəŋga</phonet>
+               <xt lang="fin">sieltäkin, tuoltakin.</xt>
+            </xg>
+            <xg>
+               <x>товола</x>
+               <phonet>tovəla</phonet>
+               <xt lang="fin">siellä, tuolla, kaukana.</xt>
+            </xg>
+            <xg>
+               <x>товолда</x>
+               <phonet>tovəlda</phonet>
+               <xt lang="fin">sieltä, tuolta.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>товола</l>
+         <stg>
+            <st mdfContlex="AdvTag">товола</st>
+         </stg>
+      </lg>
+      <pos>SPAT</pos>
+      <phonet>tovəla</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siellä, tuolla</t>
+            </tg>
+            <xg>
+               <x>товолда</x>
+               <phonet>tovəlda</phonet>
+               <xt lang="fin">sieltä, tuolta; takaa.</xt>
+            </xg>
+            <xg>
+               <x>товолу</x>
+               <phonet>tovəlu</phonet>
+               <xt lang="fin">tuonne, sinne; taa (kse).</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тоза</l>
+         <stg>
+            <st mdfContlex="AdvTag">тоза</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>toza</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sinne, tuonne</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тозк</l>
+         <stg>
+            <st mdfContlex="AdvTag">тозк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>tozk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. sinne, tuonne. 2. siellä, sillä paikalla</t>
+            </tg>
+            <xg>
+               <x>кадсазь тозк</x>
+               <phonet>kacaź tozk</phonet>
+               <xt lang="fin">jätetään sinne.</xt>
+            </xg>
+            <xg>
+               <x>тозк удомс</x>
+               <phonet>tozk udəms</phonet>
+               <xt lang="fin">nukkua taivasalla; yöpyä samassa paikassa.</xt>
+            </xg>
+            <xg>
+               <x>тозконь</x>
+               <phonet>tozkəń</phonet>
+               <xt lang="fin">sikäläinen.</xt>
+            </xg>
+            <xg>
+               <x>тозконь ломатть</x>
+               <phonet>tozkəń lomaťť</phonet>
+               <xt lang="fin">sikäläiset (ihmiset).</xt>
+            </xg>
+            <xg>
+               <x>тозонга</x>
+               <phonet>tozəŋga</phonet>
+               <xt lang="fin">sinne, samaan paikkaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>топоцьта</l>
+         <stg>
+            <st mdfContlex="AdvTag">топоцьта</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>topəćta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kylläinen; kylläisenä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тоса</l>
+         <stg>
+            <st mdfContlex="AdvTag">тоса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>tosa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. siellä, tuolla. 2. silloin</t>
+            </tg>
+            <xg>
+               <x>тяса-тоса</x>
+               <phonet>ťasa-tosa</phonet>
+               <xt lang="fin">siellä-täällä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тоста</l>
+         <stg>
+            <st mdfContlex="AdvTag">тоста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>tosta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. sieltä. 2. silloin</t>
+            </tg>
+            <xg>
+               <x>тостонга тов</x>
+               <phonet>tostəŋgə tov</phonet>
+               <xt lang="fin">ikuisesti.</xt>
+            </xg>
+            <xg>
+               <x>тостоконь</x>
+               <phonet>tostəkəń</phonet>
+               <xt lang="fin">sikäläinen.</xt>
+            </xg>
+            <xg>
+               <x>тостонь</x>
+               <phonet>tostəń</phonet>
+               <xt lang="fin">sikäläinen.</xt>
+            </xg>
+            <xg>
+               <x>тостонне</x>
+               <phonet>tostəńńä</phonet>
+               <xt lang="fin">sikäläinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тядде</l>
+         <stg>
+            <st mdfContlex="AdvTag">тядде</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťadďä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tänä vuonna</t>
+            </tg>
+            <xg>
+               <x>тяддянь</x>
+               <phonet>ťadďäń</phonet>
+               <xt lang="fin">tämänvuotinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тякомнянь</l>
+         <stg>
+            <st mdfContlex="AdvTag">тякомнянь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťakəmńäń</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aikoja sitten</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяни</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяни</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäńi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>nyt</t>
+            </tg>
+            <xg>
+               <x>тяниёк</x>
+               <phonet>ťäńijok</phonet>
+               <xt lang="fin">heti.</xt>
+            </xg>
+            <xg>
+               <x>тяниге</x>
+               <phonet>ťäńigä</phonet>
+               <xt lang="fin">nytkin.</xt>
+            </xg>
+            <xg>
+               <x>тяниемс</x>
+               <phonet>ťäńijəms</phonet>
+               <xt lang="fin">tähän asti, tähän päivään asti.</xt>
+            </xg>
+            <xg>
+               <x>тяниень</x>
+               <phonet>ťäńijəń, ťäńiń</phonet>
+               <xt lang="fin">tämänhetkinen, nykyinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяникиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяникиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäńikigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>nyt heti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяфта</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяфта</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťafta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>näin, niin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяфтак</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяфтак</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťaftak</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. näin, niin. 2. ilmaiseksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тячи</l>
+         <stg>
+            <st mdfContlex="AdvTag">тячи</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäči</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tänään</t>
+            </tg>
+            <xg>
+               <x>тячи-ванды</x>
+               <phonet>ťäči-vandi</phonet>
+               <xt lang="fin">pian, kohta, ennen pitkää, näinä päivinä.</xt>
+            </xg>
+            <xg>
+               <x>тячити</x>
+               <phonet>ťäčiťi</phonet>
+               <xt lang="fin">täksi päiväksi; tähän päivään asti.</xt>
+            </xg>
+            <xg>
+               <x>тячиень</x>
+               <phonet>ťäčijəń</phonet>
+               <xt lang="fin">tämänpäiväinen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тячикиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">тячикиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäčikigä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vielä tänään</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяшкава</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяшкава</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäškava</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>niin, noin, sillä tavoin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тяшкада</l>
+         <stg>
+            <st mdfContlex="AdvTag">тяшкада</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ťäškada</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>niin aikaisin/varhain</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ужяль</l>
+         <stg>
+            <st mdfContlex="AdvTag">ужяль</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>užäľ</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. valitettavasti. 2. sääli</t>
+            </tg>
+            <xg>
+               <x>тейне ужяль сон</x>
+               <phonet>ťejń(ä) užäľ son</phonet>
+               <xt lang="fin">minun on sääli häntä.</xt>
+            </xg>
+            <xg>
+               <x>ужяль, што сон тусь</x>
+               <phonet>užäľ što son tuś</phonet>
+               <xt lang="fin">vahinko että hän lähti.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>улхка</l>
+         <stg>
+            <st mdfContlex="AdvTag">улхка</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ulxka</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>äskettäin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>улхкомба</l>
+         <stg>
+            <st mdfContlex="AdvTag">улхкомба</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ulxkəmba</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>äskettäin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>утор</l>
+         <stg>
+            <st mdfContlex="AdvTag">утор</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>utər</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>(murt.) vastassa, vastapäätä</t>
+            </tg>
+            <xg>
+               <x>уторга</x>
+               <phonet>utərga</phonet>
+               <xt lang="fin">vastassa, vastapäätä.</xt>
+            </xg>
+            <xg>
+               <x>уторс</x>
+               <phonet>utərs</phonet>
+               <xt lang="fin">vastaan, päin.</xt>
+            </xg>
+            <xg>
+               <x>утору</x>
+               <phonet>utəru</phonet>
+               <xt lang="fin">vastaan, päin, puoleen.</xt>
+            </xg>
+            <xg>
+               <x>утору вармат</x>
+               <phonet>utəru varmat</phonet>
+               <xt lang="fin">vastatuuleen.</xt>
+            </xg>
+            <xg>
+               <x>уторцек</x>
+               <phonet>utərćək</phonet>
+               <xt lang="fin">vastakkain.</xt>
+            </xg>
+            <xg>
+               <x>уторцек-уторцек</x>
+               <phonet>utərćək-utərćək</phonet>
+               <xt lang="fin">vastakkain.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фкакс</l>
+         <stg>
+            <st mdfContlex="AdvTag">фкакс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>fkaks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. yhtäläisesti, samalla lailla. 2. rinnan, rinnalla, vierellä</t>
+            </tg>
+            <xg>
+               <x>фкакс арьсема</x>
+               <phonet>fkaks aŕśəma</phonet>
+               <xt lang="fin">yksimielisyys.</xt>
+            </xg>
+            <xg>
+               <x>аф фкакс</x>
+               <phonet>af fkaks</phonet>
+               <xt lang="fin">eri tavalla.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фланкс</l>
+         <stg>
+            <st mdfContlex="AdvTag">фланкс</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>flaŋks</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>järjestään, peräkkäin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>флаца</l>
+         <stg>
+            <st mdfContlex="AdvTag">флаца</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>flaca</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>samoin, samalla tavalla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фчёк</l>
+         <stg>
+            <st mdfContlex="AdvTag">фчёк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>fčok</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aivan, aivan niin</t>
+            </tg>
+            <xg>
+               <x>фчёк стама</x>
+               <phonet>fčok stama</phonet>
+               <xt lang="fin">juuri sellainen.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>целайнек</l>
+         <stg>
+            <st mdfContlex="AdvTag">целайнек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ćelajńək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kokonaan</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цёк</l>
+         <stg>
+            <st mdfContlex="AdvTag">цёк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ćok</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>melkein, miltei, lähes</t>
+            </tg>
+            <xg>
+               <x>сон цёк сембонь тиезень</x>
+               <phonet>son ćok śembəń ťijəźəń</phonet>
+               <xt lang="fin">hän teki melkein kaiken.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цёт</l>
+         <stg>
+            <st mdfContlex="AdvTag">цёт</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ćot</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>parittain</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цють</l>
+         <stg>
+            <st mdfContlex="AdvTag">цють</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ćuť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hiukkasen, vähäsen, hädin tuskin</t>
+            </tg>
+            <xg>
+               <x>цють аф</x>
+               <phonet>ćuť af</phonet>
+               <xt lang="fin">lähes, melkein.</xt>
+            </xg>
+            <xg>
+               <x>цють-цють</x>
+               <phonet>ćuť-ćuť</phonet>
+               <xt lang="fin">tuskin.</xt>
+            </xg>
+            <xg>
+               <x>цютькяняда тустоня</x>
+               <phonet>ćuťkäńada tustəńä</phonet>
+               <xt lang="fin">sakeahko, paksuhko; tiheänlainen, taaja, sankka.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шанчк</l>
+         <stg>
+            <st mdfContlex="AdvTag">шанчк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>šančk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>laukka, neli</t>
+            </tg>
+            <xg>
+               <x>шанчк ардомс</x>
+               <phonet>šančk ardəms</phonet>
+               <xt lang="fin">laukata.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ширьге</l>
+         <stg>
+            <st mdfContlex="AdvTag">ширьге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>šiŕgä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>sivussa, syrjässä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шиста</l>
+         <stg>
+            <st mdfContlex="AdvTag">шиста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>šista</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hereillä, valveilla; todellisuudessa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эза</l>
+         <stg>
+            <st mdfContlex="AdvTag">эза</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>eza</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tuonne</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эзк</l>
+         <stg>
+            <st mdfContlex="AdvTag">эзк</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>ezk</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. äsken, vastikään. 2. tuonne</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эзярь-безярь</l>
+         <stg>
+            <st mdfContlex="AdvTag">эзярь-безярь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>eźäŕ-beźäŕ, eźəŕ-beźəŕ</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>typeryys, tylsyys</t>
+            </tg>
+            <xg>
+               <x>эзярь-безярь ащи</x>
+               <phonet>eźəŕ-beźəŕ ašči</phonet>
+               <xt lang="fin">äreä, synkkä.</xt>
+            </xg>
+            <xg>
+               <x>эзярь-безярь ломань</x>
+               <phonet>eźəŕ-beźəŕ lomań</phonet>
+               <xt lang="fin">jörö ihminen.</xt>
+            </xg>
+            <xg>
+               <x>эзярь-безярь наряжаф</x>
+               <phonet>eźəŕ-beźəŕ naŕažaf</phonet>
+               <xt lang="fin">huolimattomasti pukeutunut.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эса</l>
+         <stg>
+            <st mdfContlex="AdvTag">эса</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>esa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. siellä. 2. -ssa; -lla</t>
+            </tg>
+            <xg>
+               <x>кудть эса</x>
+               <phonet>kutť esa</phonet>
+               <xt lang="fin">talossa.</xt>
+            </xg>
+            <xg>
+               <x>сон ащи эса</x>
+               <phonet>son ašši esa</phonet>
+               <xt lang="fin">hän on siellä.</xt>
+            </xg>
+            <xg>
+               <x>книгась шрать эса</x>
+               <phonet>kńigaś šrať esa</phonet>
+               <xt lang="fin">kirja on pöydässä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эсезонза</l>
+         <stg>
+            <st mdfContlex="AdvTag">эсезонза</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>eśezənʒa</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>itsekseen</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эслек</l>
+         <stg>
+            <st mdfContlex="AdvTag">эслек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>eśľək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>itsestään</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эста</l>
+         <stg>
+            <st mdfContlex="AdvTag">эста</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>esta</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>silloin</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эсток</l>
+         <stg>
+            <st mdfContlex="AdvTag">эсток</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>estək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siinä samassa, tuossa tuokiossa</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эстокиге</l>
+         <stg>
+            <st mdfContlex="AdvTag">эстокиге</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>estəkiģä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>heti; kerralla</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эстоньбере</l>
+         <stg>
+            <st mdfContlex="AdvTag">эстоньбере</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>estəńbeŕä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siitä lähtien, siitä asti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эське</l>
+         <stg>
+            <st mdfContlex="AdvTag">эське</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>äśkä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>viimeksi, taannoin; äsken</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эхярь</l>
+         <stg>
+            <st mdfContlex="AdvTag">эхярь</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>äxäŕ</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. oikea, aito; silkka, pelkkä, sula, paljas; täysi. 2. jokainen. 3. aina, jatkuvasti</t>
+            </tg>
+            <xg>
+               <x>эхярь сёра</x>
+               <phonet>äxäŕ śora</phonet>
+               <xt lang="fin">puhdas vilja.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>юрнек</l>
+         <stg>
+            <st mdfContlex="AdvTag">юрнек</st>
+         </stg>
+      </lg>
+      <pos>ADV</pos>
+      <phonet>jurńək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>täysin, kokonaan</t>
+            </tg>
+            <xg>
+               <x>машфтомс юрнек</x>
+               <phonet>mašftəms jurńək</phonet>
+               <xt lang="fin">hävittää juurta myöten.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>яла</l>
+         <stg>
+            <st mdfContlex="AdvTag">яла</st>
+         </stg>
+      </lg>
+      <pos>TEMP</pos>
+      <phonet>jala, jalan, jalań</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aina</t>
+            </tg>
+            <xg>
+               <x>ялань ломань</x>
+               <phonet>jalań lomań</phonet>
+               <xt lang="fin">(murt.) kaukaa kotoisin oleva ihminen.</xt>
+            </xg>
+            <xg>
+               <x>ялань корхтат</x>
+               <phonet>jalań korxtat</phonet>
+               <xt lang="fin">(murt.) puhut aina.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+</r>

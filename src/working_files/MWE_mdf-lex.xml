@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry exclude="fst">
+      <lg>
+         <l>пачк ваймяй пакся</l>
+         <stg>
+            <st>пачк ваймяй пакся</st>
+         </stg>
+      </lg>
+      <pos>PHRASE_N</pos>
+      <phonet>pačk vajmäj pakśä</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kesanto.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>андомс-симдемс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>andəms-śimďəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kestitä.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>касфнемс-аннемс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>kasfńəms-ańńəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kasvattaa.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>юмамс-арамс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>jumams-arams</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tuhoutua.</t>
+            </tg>
+            <xg>
+               <x>зря юмай-арай</x>
+               <phonet>ź(ə)ŕä jumaj-araj</phonet>
+               <xt lang="fin">menee hukkaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>ахиемс-охиемс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>axijəms-oxijəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>valitella, päivitellä.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>цяпафтомс-лапафтомс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>ćapaftəms-lapaftəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>hakata, piestä.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>шачемс-касомс</l>
+         <stg>
+            <st/>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <phonet>šačəms-kasəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kasvaa, varttua.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>ванондомс-кочксемс</l>
+         <stg>
+            <st>ванондомс-кочксемс</st>
+         </stg>
+      </lg>
+      <pos>PHRASE_V</pos>
+      <phonet>vanəndəms-kočkśəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>syventyä, paneutua, perehtyä.</t>
+            </tg>
+            <xg>
+               <x>сон прокс ванондсыне-кочксесыне сембе васттнень</x>
+               <phonet>son proks vanəncińə-kočkśəsińə śembə vastťńəń</phonet>
+               <xt lang="fin">hän perehtyy aina kaikkiin yksityiskohtiin.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry exclude="fst">
+      <lg>
+         <l>гулдоргодомс-галдоргодомс</l>
+         <stg>
+            <st>гулдоргодомс-галдоргодомс</st>
+         </stg>
+      </lg>
+      <pos>PHRASE_V</pos>
+      <phonet>guldərgədəms-galdərgədəms</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>rymistä, rämistä.</t>
+            </tg>
+            <xg>
+               <x>гулдоргодсь-галдоргодсь</x>
+               <phonet>guldərgəć-galdərgəć</phonet>
+               <xt lang="fin">rymisi, rämisi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+</r>

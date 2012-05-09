@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>ардозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ардозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>ardəź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>laukaten, kiirehtien.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кенордазь</l>
+         <stg>
+            <st mdfContlex="GerTag">кенордазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>kenərdaź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kiireessä, kiireisesti.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ветензазь</l>
+         <stg>
+            <st mdfContlex="GerTag">ветензазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>veťənʒaź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>viidellä säikeellä</t>
+            </tg>
+            <xg>
+               <x>ветензазь понамс</x>
+               <phonet>veťənʒaź ponams</phonet>
+               <xt lang="fin">punoa viidellä säikeellä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+</r>
