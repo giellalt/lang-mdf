@@ -7,12 +7,12 @@
 ! space exclmark euro space upper:lower
 ! Please add tests for eventual new rules or problems
 
-! To test: in kt/mrj/src, do:
-! xfst -e "source xfst-mrj.txt"
+! To test: in kt/mdf/src, do:
+! xfst -e "source xfst-mdf.txt"
 ! invert net
 ! save s
 ! quit
-! cat xfst-mrj.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
+! cat xfst-mdf.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
 
 
 clear stack
@@ -48,6 +48,8 @@ define VowelCorrelation [ А1 -> а || [ а | я ]  %> х _ ,,
                           А1 -> о || [ о | ё ]  %> х _ ,,
                           А1 -> э || [ ы | э | е ]  %> х _ ] ;
 
+define DevoicingX [ Х1 -> х || [ л ] %> _ т ] ;
+
 define StemFinalYToE ы -> э || _ %> х э  ;
  !€ ты>хА1на:тэхэна
 
@@ -65,17 +67,6 @@ define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
 
 define jLoss й -> 0 || _ %> [ я | ю ] ;
 
-define GlottalNonNasalToZERO [ Д1 -> 0 , С1 ( ь ) -> 0 || _ %> [ х | н ] ,,
-                               н -> т || [ Д1 | С1 ( ь ) ] %> _ ,,
-                               д -> 0 || Д1 %> н _ ,,
-                               х -> к || Д1 %> _ ,,
-                               х -> к || С1 %> _ ] ;
-
-define GlottalNasalToHomNasal [ Н1 -> ӈ , Ӈ1  -> ӈ || _ %> х ,,
-                                Н1 -> н , Ӈ1  -> н || _ %> [ т | н ʼ ] ,,
-                                н -> д || [ м  | Н1 | Ӈ1 ] %> _ ʼ ,, 
-                                х -> г || Н1 %> _ ,,
-                                х -> г || Ӈ1 %> _ ] ;
 
 define DummyDeletion Dummy -> 0 ;
 
@@ -84,11 +75,10 @@ define DummyDeletion Dummy -> 0 ;
 read regex [
 
     VowelCorrelation
+.o. DevoicingX
 .o. StemFinalYToE
 .o. VowelPalatalization
 .o. jLoss
-.o. GlottalNonNasalToZERO
-.o. GlottalNasalToHomNasal
 .o. mToV
 .o. UnderlyingToGlottal
 .o. DummyDeletion
