@@ -1,0 +1,97 @@
+! This file is a script for the Xerox xfst interface.
+! It gives the morphophonological rules for Nenets.
+
+
+! In this file, testcases are marked as follows:
+
+! space exclmark euro space upper:lower
+! Please add tests for eventual new rules or problems
+
+! To test: in kt/mrj/src, do:
+! xfst -e "source xfst-mrj.txt"
+! invert net
+! save s
+! quit
+! cat xfst-mrj.txt | grep €|cut -d" " -f3|cut -d":" -f1|lookup s
+
+
+clear stack
+
+
+! Definition section !
+! ================== !
+
+echo << THE DEFININTIONS >>
+
+define CnsNotGlots [ б | в | г | д | ж | з 
+           | Б | В | Г | Д | Ж | З 
+           | й | к | л | м | н | п | р | с | т | ф | х | ц 
+           | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
+           | ч | ш | щ 
+           | Ч | Ш | Щ ] ;
+
+
+
+
+define Dummy %> ;
+
+
+
+! Rule section !
+! ============ !
+
+echo << THE RULES >>
+
+
+define VowelCorrelation [ А1 -> а || [ а | я ]  %> х _ ,,
+                          А1 -> а || [ Cns  %> | %> а ] х _ ,,
+                          А1 -> о || [ о | ё ]  %> х _ ,,
+                          А1 -> э || [ ы | э | е ]  %> х _ ] ;
+
+define StemFinalYToE ы -> э || _ %> х э  ;
+ !€ ты>хА1на:тэхэна
+
+
+define mToV [ м -> в || _ ʼ %> [ Ы1 | ʼ | м ʼ ] ,, н -> д ||  м  ʼ %> _ ʼ ,, ʼ -> 0 || м  _ %> [ Ы1 | ʼ | м ʼ| н ʼ | х А1 ] ,, х -> г ||  м  ʼ %> _ А1 ,, А1 -> а ||  м  ʼ %> х _  ] ;
+
+define UnderlyingToGlottal [ С1 -> ˮ , Д1 -> ˮ || _  [ .#. | %> м н а] ,,
+                             Н1  -> ʼ , Ӈ1  -> ʼ || _   .#.   ] ;
+ !€ мяД1:мяˮ
+ !€ тохоС1:тохоˮ
+ !€ таН1:таʼ
+ !€ выӇ1:выʼ
+
+define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
+
+define jLoss й -> 0 || _ %> [ я | ю ] ;
+
+define GlottalNonNasalToZERO [ Д1 -> 0 , С1 ( ь ) -> 0 || _ %> [ х | н ] ,,
+                               н -> т || [ Д1 | С1 ( ь ) ] %> _ ,,
+                               д -> 0 || Д1 %> н _ ,,
+                               х -> к || Д1 %> _ ,,
+                               х -> к || С1 %> _ ] ;
+
+define GlottalNasalToHomNasal [ Н1 -> ӈ , Ӈ1  -> ӈ || _ %> х ,,
+                                Н1 -> н , Ӈ1  -> н || _ %> [ т | н ʼ ] ,,
+                                н -> д || [ м  | Н1 | Ӈ1 ] %> _ ʼ ,, 
+                                х -> г || Н1 %> _ ,,
+                                х -> г || Ӈ1 %> _ ] ;
+
+define DummyDeletion Dummy -> 0 ;
+
+
+
+read regex [
+
+    VowelCorrelation
+.o. StemFinalYToE
+.o. VowelPalatalization
+.o. jLoss
+.o. GlottalNonNasalToZERO
+.o. GlottalNasalToHomNasal
+.o. mToV
+.o. UnderlyingToGlottal
+.o. DummyDeletion
+] ;
+
+

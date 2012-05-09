@@ -1,0 +1,695 @@
+Multichar_Symbols
+
+!Development tag
++WORK
+
+ZERO
+%0
+
+! tags
++NCrd
++NOrd
++Dig1
++Dig2
++Dig3
++Dig4
++Rom !Roman numerals
+
+
+
+! tags
++Abs ! Absolutive
++Adj ! Adjective
++Attr ! Attribute
++Bahuvrihi
++Capitalizing
++Dem ! Demonstrative also what was called +SOD
++Def ! Definite
++Der ! Derivation +Deriv
++Det ! Determinative
++Dial
++DimKE ! Diminutive
++DimNE ! Diminutive
++Ellips ! Ellipsis
++Emphatic
+!!!+Indet ! Indeterminative
++Fin ! Finite
++Noun ! Noun
++NomGen ! Nominative and genitive functions
++NonNomSg ! applicable to 1sg and 3sg possession
+!+NoLV ! +NoVowX
++Obj ! Object
++Obliq !
+!+MVme !Main verb "mo" vs "me"
+!+OldOrth
++Poss !
++PossPX
+!+Pref
+!+Pres
+!+PretI
+!+PretII
+!+Prt !Participle >+Ptc
+!+Relat
++Short ! short pronouns ??
++Subj
++Telic ! Telic aspect
++Top ! Topic
+!+Transl ! Translative
++Verb ! Verb
++Voicing
+
+
+!!!!!!!!!!!
+
+
+
+!!!!!!!!!!
+
++CmpTest
+
++Err ! marking missing lexica
+!From xfst-Jack
++NCom +Inanim +Anim +Cnt +NPrp
++SurnameM +PatronymM +Familiar
++SurnameF 
++NoPredx
++Deict ! Deictic
++Exclusive ! ансяк
+
+
+
+! POS
++N +V +A 
++Adv
++Adv-Ideoph ! These are ideophonic descriptors used to modify the verb
+            ! вырк ливтясь '_flit_ and it flew off'
++AdA ! Ad-adjective
++Manner ! with reference to type of adverb
++CC ! coordinating conjunction
++CS ! subordinating conjunction
+ +Interj +Pcle +Clt +Po  
++Pron ! Pronoun
++Adn ! Adnominal !! This is not an NP head like +Pron
++Indef
++Refl ! In Erzya this would include 
++Intensive
++Intensifier ! уш
+ +Rel +Interr +Recipr
++Hum +NonHum 
++Ptc
++VGen
++ActDemPtc
+!! This has something to do with  verb stem tracking
+!  The three should be removed a little later if there
+!  is no reason to keep them
++V1 +V2 +V3
+
+
++Pers
++Imprt
+
+
++Qnt ! Quantifier
++Onom ! onomapoetic words
++Descr ! descriptive words
+
+! Quantifiers 
++Appr ! Approximative numeral кавто-колмо, колмошка 'two or three' 
+    ! NB! do not confuse with Komi case +Apr
+
++Num ! numeral
++Card
++Coll !Collective
++ZeroColl ! In combinations with the plural possessive marker the +Coll
+          ! morpheme нан is not always necessary
++Distr ! Distributive
++Iter ! Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
++Ord
+
+! Verbal MSP
+! moods
++Ind +Imp +Cond +Opt 
++Des ! Ыксэль 'was about to; wanted to' 
++Conj ! Ындеря- (Derivational)
++Oblig ! modality: deontic/directive/obligative
+           !  андомс: андома , якамс: якама
++Delib ! +Sugg modality: deontic/directive/deliberative
+       ! I still need the right word for this андомс: андомсат
+
+
++NonPast ! In Erzya There is no morphological distinction between present and future
++Prs +Fut +Fut1 
++Prt1 +Prt2 +Prf
++PrfIpf +HstPrf +PluPrf +HstPluPrf
++Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
++1Sg +2Sg +3Sg +1Pl +2Pl +3Pl
++1 +2 +3
++Inf
++Pos +Neg +ConNeg
+! Subject conjugation
++Sc1Sg +Sc2Sg +Sc3Sg +Sc1Pl +Sc2Pl +Sc3Pl
+! Object conjugation
++Oc1Sg +Oc2Sg +Oc3Sg +Oc1Pl +Oc2Pl +Oc3Pl
+
+
+! Used for predicate marking in Conjugation
++Pred
+
+! Nominal MSP
++Sg +Pl 
++Prop
++Sur ! Surname
++Mal
++Fem
++Patr ! Patronym
++Plc ! Place name
++Org ! name of organization
++Nom
+
+!!!! FUNCTIONS are all upper-case !!!!
++ACC +DAT +COM ! This marks a function not a morpheme
+
++Gen +Abl +Dat +Com 
+! The accusative is marked by the indefite nominative
+! The definite genitives
+! The possessum genitive where there is a morphological distinction
+! The indefinite genitive where context provides semantic definiteness
++Cmpl ! complement of postpostion
+      ! it will be noted that this complement
+      ! is not necessarily limited to postpositions, non-finites are also
+      ! possible. Generally the forms of +Acc and +Cmpl are identical
+      ! In some dialects and literature the form +Pl+Def.Pl.Nom 
+      ! also occurs with postpositions
+
++Ine +Ill 
++Ela +Tra 
++Abe 
++Loc
++Prl !Prolative "га/ка/ва"
++Voc ! Vocative
++Compar ! comparative as opposed to superlative
+
++Superl ! superlative
++ACR +ABBR
+
++Cmp ! first part of compound
+
+
++Px1Sg
++Px2Sg
++Px3Sg
++Px1Pl
++Px2Pl
++Px3Pl
+! the dat form does not indicate number of possessor
++Px3
+
+
++NoPoss
+
++Comp ! Case form -шка
+
+
++TempCx ! Case form -не
+
+!!Pair Verbs, Serial Verbs compounding
++SerialVerb
+
+! tags
++Der/ай ! vocative
++Der/кай ! vocative
+
+
++Instr
++Event
++Duration
+
+
+! These should be added below in derivation declarations
+!
+!
+!
+!!Then they should have indication of whether they are gerunds or participles!!
+!!
++Der/Овт !
++Der/Омс !
++Der/ОмО !
++Der/ОмстО
++Der/ОмсО
++Der/ОмдО
++Der/Омга
++Der/Ома
++Der/Омка
++Der/Ыця
++Der/Ы
++Der/Ый
++Ger !Gerund This is used with
++Der/Озь !Gerund 
+
+
++CLB +PUNCT +LEFT +RIGHT
+
+! Declaring noun derivations
++Der/пель
+
++Spat ! spatial
++Spat-1Arg ! This takes care of postpostions
++Spat-NoArg ! This takes care of adverbs
++Temp
++Temp-1Arg ! This takes care of postpostions
++Temp-NoArg ! This takes care of adverbs
+
++State ! position or state
+
+!Modifier without noun
++Der/MWN ! Modifier without Noun
++Der/Dem ! Speaker-Oriented Demonstrative
+
+!Declaring Indefinite Pronoun derivations
++Der/Гак
++Der/кой
++Der/та
++Der/таго
++Der/бути
++Der/Ыя ! +Indef  ковия, зярыя
+
+
+!Declaring Noun derivations
++Der/чи ! adjective-to-noun
+! the combinatory +Event preceding the NP-final noun
++Der/ОмА ! verb-to-noun
+
+!Declaring Deverbal derivations of verbs
++Der/кшнО
++Der/се
++Der/не
+
+
++Dim 
++Der/ке
++Der/ка
++Der/нЕ
++Der/Ыне
++Der/Ынька
++Der/Ынькине
+
++Der/Abe ! Adjective usage Maybe this is not necessary.
++Der/Comp
++Der/Gen
+! There portmanteau morphology
+! Noun-type
++Abe.NbAmb.Indef
++Abl.NbAmb.Indef
++Com.NbAmb.Indef
++Comp.NbAmb.Indef
++Dat.DefSg
++Dat.NbAmb.Indef
++Ela.NbAmb.Indef
++Gen.DefSg
++Gen.NbAmb.Indef
++Ill.NbAmb.Indef
++Ine.NbAmb.Indef
++Lat.NbAmb.Indef
++Nom.Def.Sg
++Nom.NbAmb.Indef
++Nom.Pl.Indef
++Nom.Sg.Indef
++Prl.NbAmb.Indef
++Temp.NbAmb.Indef
++Tra.NbAmb.Indef
+
+
+! Nominal stem vowel following vowel, word finally realized as "й"
+!И4
+
+! imperative suffix
+!К1
+
+! connegative suffix rendering consonant
+!К2
+
+! connegative suffix rendering vowel
+!К3
+
+А1 А2 Г1 Г2 Ь2 Т1 О1 Ы2 К1 К3 К4 У2 И2 TLoss KLoss VLoss WLoss %>
+%^Inf
+%^PATR
+%^FEM
+
+!These are used for variation некшнемс vs некшнэмс
++Stem/е
++Stem/э
+
+!Range limitations with regard to 4 classical sentence types:
+! Statement, Question,      Command, Exclamation
+! --"--    , +Rance/Interr, 
+! 
+
+!Use for limitation later
++Use/Sub/PhonDeriv ! Derivation is phonetic 
+                   ! but declension and conjugation morphologic
++Use/Sub/PhonInfl  ! Entire inflection is phonetic 1821, 1920-30 
++Use/Sub/PhonComb
++Use/Sub/Short
++Use/Sub/Dial ! Для не-литературного слова / форма / и.т.д.
+ ! This might actually make reference to dialect type or location
++Src/F ! Majority-language words that might be utilized in several languages 
+       ! Let's begin with nouns книга, учитель
+
+
+!!!! Flags used with serial verbs
+! INF = Infinitive
+@U.CONJ-INF.YES@
+@U.CONJ-INF.NO@
+
+! TX = tense
+@U.CONJ-TX.NONPAST@
+@U.CONJ-TX.PRET1@
+@U.CONJ-TX.PRET2@
+
+! MX = mood
+@U.CONJ-MX.IND@
+@U.CONJ-MX.IMP@
+@U.CONJ-MX.OPT@
+@U.CONJ-MX.DES@
+@U.CONJ-MX.CONJ@
+@U.CONJ-MX.COND@
+
+! CONNEG = negation
+@U.CONJ-CONNEG.YES@
+@U.CONJ-CONNEG.NO@
+
+! NX = number
+@U.CONJ-NX.PL@
+@U.CONJ-NX.SG@
+
+! POSS = possessive person
+@U.CONJ-POSS.1@
+@U.CONJ-POSS.2@
+@U.CONJ-POSS.3@
+@U.CONJ-POSS.2ACC@
+@U.CONJ-POSS.3ACC@
+
+! PX = person
+@U.CONJ-PX.1SG@
+@U.CONJ-PX.2SG@
+@U.CONJ-PX.3SG@
+@U.CONJ-PX.1PL@
+@U.CONJ-PX.2PL@
+@U.CONJ-PX.3PL@
+
+
+! Possessive indices
+
+
+@P.PossPx.1Sg@
+@P.PossPx.2Sg@
+@P.PossPx.3Sg@
+@P.PossPx.1Pl@
+@P.PossPx.2Pl@
+@P.PossPx.3Pl@
+
+
+@U.PossPx.1Sg@
+@U.PossPx.2Sg@
+@U.PossPx.3Sg@
+@U.PossPx.1Pl@
+@U.PossPx.2Pl@
+@U.PossPx.3Pl@
+
+@D.PossPx@
+@C.PossPx@
+
+@P.TNUM.SG@
+@P.TNUM.PL@
+@D.TNUM.SG@
+@D.TNUM.PL@
+@C.TNUM@
+
+@P.TPERS.1@
+@P.TPERS.2@
+@P.TPERS.3@
+@N.TPERS.1@
+@N.TPERS.2@
+@N.TPERS.3@
+@U.TPERS.1@
+@U.TPERS.2@
+@U.TPERS.3@
+@C.TPERS@
+
+!!Cases
+@N.CX.ILL@
+@N.CX.ELA@
+@N.CX.INE@
+@N.CX.LAT@
+@U.CX.ABL@
+@U.CX.ELA@
+@U.CX.ILL@
+@U.CX.INE@
+@U.CX.LAT@
+@U.CX.LOC@
+@U.CX.NOM@
+@U.CX.PRL@
+@U.CX.TRA@
+@C.CX@
+
+!!Dx number
+@P.DNUM.PL@
+@P.DNUM.SG@
+@U.DNUM.PL@
+@U.DNUM.SG@
+@C.DNUM@
+
+
+!!
+@P.NUM.SG@
+@P.NUM.PL@
+@D.NUM.SG@
+@D.NUM.PL@
+@C.NUM@
+
+
+
+! Removal
+@C.CONJ-INF@
+@C.CONJ-TX@
+@C.CONJ-MX@
+@C.CONJ-CONNEG@
+@C.CONJ-NX@
+@C.CONJ-PX@
+@C.CONJ-POSS@
+
+@C.KLOSS@
+@C.TLOSS@
+
+! Key lexicon
+
+! These are the lexica that are found in the bin/ directory,
+! generated by the Makefile from the dictionary
+
+LEXICON Root
+TESTINGTESTING ;
+!SUBSTANDARDS ; ! temporary solution
+
+! contlexes                             ! the file, where the contlex is located
+! ------------                          ! ---------------------------------------
+A ;                                     ! ../../tmp/out/A_mdf-lex.xml
+ADV ;                                   ! ../../tmp/out/ADV_mdf-lex.xml
+!AD-A ;                                  ! ../../tmp/out/AD-A_mdf-lex.xml
+Abbreviation ;                          ! abbr-mdf-lex.txt
+!ABBR ;                                 ! ../../tmp/out/ABBR_mdf-lex.xml           !2012-03-14
+Acronym ;                               ! acro-mdf-lex.txt
+!ACRON ;                                ! ../../tmp/out/ACRON_mdf-lex.xml 
+!BAHUVRIHI ;                             ! ../../tmp/out/BAHUVRIHI_mdf-lex.xml
+CONJ ;                                  ! ../../tmp/out/CONJ_mdf-lex.xml
+!DEM ;                                   ! ../../tmp/out/DEM_mdf-lex.xml !! Dem can be Adn or Pron
+!DV-N ;                                  ! ../../tmp/out/DV-N_mdf-lex.xml
+!IDIOM ;                                ! ../../tmp/out/IDIOM_mdf-lex.xml          !2012-03-14
+INTERJ ;                                ! ../../tmp/out/INTERJ_mdf-lex.xml
+!MANNER ;                                ! ../../tmp/out/MANNER_mdf-lex.xml
+N ;                                     ! ../../tmp/out/N_mdf-lex.xml
+                                        ! working_files/PHRASE-N_mdf-lex.xml
+                                        ! working_files/PHRASE-V_mdf-lex.xml
+PTC ;                                   ! ../../tmp/out/PTC_mdf-lex.xml !! 
+!N-DV ;                                 ! ../../tmp/out/N-DV_mdf-lex.xml           !2012-03-14
+!N-F ;                                  ! ../../tmp/out/N-F_mdf-lex.xml            !2012-03-14
+!No-e-element-N ;                       ! ../../tmp/out/No-e-element-N_mdf-lex.xml !2012-03-14
+!No-e-element-V ;                       ! ../../tmp/out/No-e-element-V_mdf-lex.xml !2012-03-14
+!QNT ;                                   ! ../../tmp/out/QNT_mdf-lex.xml
+NUM ;                                  ! ../../tmp/out/NUM_mdf-lex.xml            !2012-03-14
+!NUM-PREFIXES ;                         ! num-mdf-morph.txt                        !2012-03-14
+PCLE ;                                  ! ../../tmp/out/PCLE_mdf-lex.xml    ! particles
+!PART-ONOM ;                            ! ../../tmp/out/PART-ONOM_mdf-lex.xml      !2012-03-14
+!PERS ;                                  ! pronoun !pers-mdf-morph.txt
+                                        ! ../../tmp/out/PERS_mdf-lex.xml.txt
+POSTP ;                                 ! ../../tmp/out/POSTP_mdf-lex.xml.txt
+
+PRON ;                                  ! ../../tmp/out/PRON_mdf-lex.xml
+!PRON-INDEF ;                           ! ../../tmp/out/PRON-INDEF_mdf-lex.xml                           !2012-03-14
+!PRON-INTER ;                           ! ../../tmp/out/PRON-INTER_mdf-lex.xml                           !2012-03-14
+!PRON-NEG ;                             ! pron-mdf-morph.txt                                             !2012-03-14
+!PRON-QNT ;                             ! ../../tmp/out/PRON-QNT_mdf-lex.xml                             !2012-03-14
+!PRON-REFL ;                            ! ../../tmp/out/PRON-REFL_mdf-lex.xml                            !2012-03-14
+!PRON-REL ;                             ! pron-mdf-morph.txt                                             !2012-03-14
+! PROP ;                                  ! ../../tmp/out/PROP_mdf-lex.xml
+!PROP-RUSSIAN-TOPONYMS ;                ! ../../tmp/out/PROPRUSSIAN-TOPONYMS_mdf-lex.xml                 !2012-03-14
+!PROP-RUSSIAN-MALE-SURNAMES-Derivable ; ! ../../tmp/out/PROP-RUSSIAN-MALE-SURNAMES-Derivable_mdf-lex.xml !2012-03-14
+!PROP-CYRILLIC-MALE-SURNAMES ;          ! ../../tmp/out/PROP-CYRILLIC-MALE-SURNAMES_mdf-lex.xml          !2012-03-14
+!PROP-RUSSIAN-MALE-NAMES-Derivable ;    ! ../../tmp/out/PROP-RUSSIAN-MALE-NAMES-Derivable_mdf-lex.xml    !2012-03-14
+!PROP-CYRILLIC-MALE-NAMES ;              ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mdf-lex.xml
+!PROP-CYRILLIC-FEMALE-NAMES ;            ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mdf-lex.xml
+Punctuation ;                           ! punct-mdf-lex.txt
+!SPAT ;                                  ! ../../tmp/out/SPAT_mdf-lex.xml.txt
+!TEMP ;                                  ! ../../tmp/out/TEMP_mdf-lex.xml.txt
+V ;                                     ! ../../tmp/out/VB_mdf-lex.xml
+
+
+!VERBNEGATIVE ;                          ! verb-mdf-morph.txt
+
+
+
+
+! ======================================================= !
+! These lexica are for parts of speech without morphology !
+! ======================================================= !
+
+! Compounding
+
+LEXICON R
+%- N ;
+
+
+! ============ !
+! Interj lexica !
+! ============ !
+
+LEXICON InterjTag
++Interj: K ;
+
+
+! ============ !
+! Postp lexica !
+! ============ !
+
+
+! This contlex allows for relational word which, otherwise, are open 
+! to extensive declension
+LEXICON PostpTag
++Po: K ;
+
+
+
+! ==================================== !
+! Lexica called End, whatever they are !
+! ==================================== !
+
+
+LEXICON Ad-ATag ! 
++AdA: # ;
+
+LEXICON AdvTag ! 
++Adv: K ;
+
+
+LEXICON SpatTag
++Spat: K ;
+
+
+!!Temporal tags with cases
+LEXICON TempTag
++Adv+Temp: K ;
+
+
+LEXICON ConjTag
+#;
+
+LEXICON Cc
++CC: # ;
+
+LEXICON Cs
++CS: # ;
+
+
+LEXICON Pcle-Compar-Stnd
++Pcle+Compar: # ;
+
+LEXICON Pcle-Epist
++Pcle+Epist: # ;
+
+LEXICON Pcle-Neg-Contrast
++Pcle+Neg+Intensive: # ;
+
+LEXICON Pcle-Neg
++Pcle+Neg: # ;
+
+LEXICON Pcle-Superl
++Pcle+Superl: # ;
+
+LEXICON PcleTag
++Pcle: # ;
+
+
+LEXICON N-Voc-Px1Sg
++N+Px1Sg+Interj+Voc: # ;
+
+!LEXICON EndNeg 
+!+CC+Neg: # ; ! ни
+
+!LEXICON EndQST
+!+Qst: # ;
+
+!LEXICON ONOM-End
+!+Onom: # ;
+
+LEXICON DescrTag
++Descr: # ;
+
+
+
+! ======= !
+! Ks !
+! ======= !
+
+
+LEXICON K
+            # ; 
+
+
+
+! List of spurious lexica
+! These should be fixed.
+
+
+! This lexicon would allow a loop whereby any full form
+! could be treated as a noun
+! E.G. мезеяк # 'anything'
+! E.G. мезеяк+ось # 'This _anything_ you are talking about'
+!LEXICON Encapsulate
+
+
+!LEXICON ADV-SUPERL
+!+Adv+Superl: # ;
+
+
+LEXICON TESTINGTESTING
+
+Ыджыд TESTCOMP ;
+син TESTCOMP ;
+официал TESTCOMP ;
+радиоактив TESTCOMP ;
+
+LEXICON TESTCOMP
+
++CmpTest: # ;
+
+
+!!!
+
+
+
+! TODO: Integrate this in xml-files in working…
+
+!LEXICON SUBSTANDARDS 
+!коръя+Use/Sub:корья Noun1 ;
+
+
