@@ -17,9 +17,27 @@ LEXICON NTag
 #;
 
 LEXICON N-kal
+!! Indefinite
 +N+Sg+Nom: K ;
 +N+Pl+Nom:%>Х1т K ;
-#;
++N+Sg+Gen:%>О1нь K ;
++N+Pl+Gen:%>О1нь K ;
++N+Sg+Ill:%>с K ;
++N+Pl+Ill:%>с K ;
++N+Sg+Ine:%>сО1 K ;
++N+Pl+Ine:%>сО1 K ;
++N+Sg+Ela:%>стО1 K ;
++N+Pl+Ela:%>стО1 K ;
+!! Definite Pl
++N+Pl+Def:%>Х1не DEFCX ;
+
+LEXICON DEFCX
++Nom: K ;
++Gen:%>нь K ;
++Ill:%>с K ;
++Ine:%>сО1 K ;
++Ela:%>стО1 K ;
+
 
 !!!!!!!!!!!!!!!!!!
 !! PROPER NOUNS !!
