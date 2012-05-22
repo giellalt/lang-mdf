@@ -23,15 +23,19 @@ clear stack
 
 echo << THE DEFININTIONS >>
 
-define CnsNotGlots [ б | в | г | д | ж | з 
+define Cns [ б | в | г | д | ж | з 
            | Б | В | Г | Д | Ж | З 
            | й | к | л | м | н | п | р | с | т | ф | х | ц 
            | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
            | ч | ш | щ 
            | Ч | Ш | Щ ] ;
 
+define Vws [ а | е | ё | и | о | у | ы | э | ю | я
+           | А | Е | Ё | И | О | У | Ы | Э | Ю | Я ] ;
 
+define Signs [ ъ | ь |  Ъ | Ь ] ;
 
+define Lts [ Cns | Vws | Signs ] ;
 
 define Dummy %> ;
 
@@ -48,24 +52,17 @@ define VowelCorrelation [ А1 -> а || [ а | я ]  %> х _ ,,
                           А1 -> о || [ о | ё ]  %> х _ ,,
                           А1 -> э || [ ы | э | е ]  %> х _ ] ;
 
-define DevoicingX [ Х1 -> х || [ л ] %> _ т ] ;
+define DevoicingX [ Х1 -> х || [ л ] %> _ [ т | н е ] ] ;
+ !€ кал>Х1т:калхт
 
-define StemFinalYToE ы -> э || _ %> х э  ;
- !€ ты>хА1на:тэхэна
+define MorphemeFinalO1Toa [ О1 -> а || _ [ .#. ] ,,
+                        О1 -> о ||  _ %> [ О1 з е | О1 н ц | О1 ц | О1 н ц т ы | О1 н з О1 | О1 н к | О1 н т | с т | т | О1 н | О1 н ь | О1 н д ы  ] [ .#. ] ] ;
 
+define MorphemeInitialO1ToZero [ О1 -> 0 || Vws %> _ ,,
+                                 О1 -> о || Cns %> _ Cns ] ;
 
-define mToV [ м -> в || _ ʼ %> [ Ы1 | ʼ | м ʼ ] ,, н -> д ||  м  ʼ %> _ ʼ ,, ʼ -> 0 || м  _ %> [ Ы1 | ʼ | м ʼ| н ʼ | х А1 ] ,, х -> г ||  м  ʼ %> _ А1 ,, А1 -> а ||  м  ʼ %> х _  ] ;
-
-define UnderlyingToGlottal [ С1 -> ˮ , Д1 -> ˮ || _  [ .#. | %> м н а] ,,
-                             Н1  -> ʼ , Ӈ1  -> ʼ || _   .#.   ] ;
- !€ мяД1:мяˮ
- !€ тохоС1:тохоˮ
- !€ таН1:таʼ
- !€ выӇ1:выʼ
 
 define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
-
-define jLoss й -> 0 || _ %> [ я | ю ] ;
 
 
 define DummyDeletion Dummy -> 0 ;
@@ -76,11 +73,9 @@ read regex [
 
     VowelCorrelation
 .o. DevoicingX
-.o. StemFinalYToE
+.o. MorphemeFinalO1Toa
+.o. MorphemeInitialO1ToZero
 .o. VowelPalatalization
-.o. jLoss
-.o. mToV
-.o. UnderlyingToGlottal
 .o. DummyDeletion
 ] ;
 

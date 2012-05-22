@@ -22,22 +22,116 @@ LEXICON N-kal
 +N+Pl+Nom:%>Х1т K ;
 +N+Sg+Gen:%>О1нь K ;
 +N+Pl+Gen:%>О1нь K ;
++N+Sg+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
++N+Pl+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
 +N+Sg+Ill:%>с K ;
 +N+Pl+Ill:%>с K ;
-+N+Sg+Ine:%>сО1 K ;
-+N+Pl+Ine:%>сО1 K ;
-+N+Sg+Ela:%>стО1 K ;
-+N+Pl+Ela:%>стО1 K ;
++N+Sg+Ill:%>з OBLIQUECX-PX-osh ; 
++N+Pl+Ill:%>з OBLIQUECX-PX-osh ;
++N+Sg+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
++N+Pl+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
++N+Sg+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
++N+Pl+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
++N+Sg+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
++N+Pl+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
 !! Definite Pl
-+N+Pl+Def:%>Х1не DEFCX ;
++N+Pl+Def:%>Х1не PLDEFCX ;
+ PX1SG ;
+ PX2SG ;
+ PX3SG ;
+ PX1PL ;
+ PX2PL ;
+ PX3PL ;
 
-LEXICON DEFCX
+LEXICON PLDEFCX
 +Nom: K ;
 +Gen:%>нь K ;
++Abl:%>дО1 K ;
 +Ill:%>с K ;
 +Ine:%>сО1 K ;
 +Ela:%>стО1 K ;
++Abe:%>фтомО1 K ;
 
+LEXICON PX1SG
++Sg+Nom+Px1Sg:%>О1зе K ;
++Sg+Gen+Px1Sg:%>О1зе%>О1нь K ;
++Sg+Dat+Px1Sg:%>О1зе%>О1нди K ;
++Sg+Dat+Px1Sg:%>О1з%>ти K ;
+
++Pl+Nom+Px1Sg:%>не K ;
++Pl+Gen+Px1Sg:%>не%>О1нь K ;
++Pl+Dat+Px1Sg:%>не%>О1нди K ;
+
+LEXICON PX2SG
++Sg+Nom+Px2Sg:%>це K ;
++Sg+Gen+Px2Sg:%>це%>О1нь K ;
++Sg+Dat+Px2Sg:%>це%>О1нди K ;
+
++Pl+Nom+Px2Sg:%>тне K ;
++Pl+Gen+Px2Sg:%>тне%>О1нь K ;
++Pl+Dat+Px2Sg:%>тне%>О1нди K ;
+
+LEXICON PX3SG
++Sg+Nom+Px3Sg:%>О1ц K ;
++Sg+Gen+Px3Sg:%>О1нц K ;
++Sg+Dat+Px3Sg:%>О1нцты K ;
+
++Pl+Nom+Px3Sg:%>О1нзО1 K ;
++Pl+Gen+Px3Sg:%>О1нзО1%>О1н K ;
++Pl+Dat+Px3Sg:%>О1нзО1%>О1нды K ;
+
+!!
+LEXICON PX1PL
++Sg+Nom+Px1Pl:%>О1ньке K ;
++Sg+Gen+Px1Pl:%>О1нькО1%>О1нь K ;
++Sg+Dat+Px1Pl:%>О1нькО1%>О1нди K ;
+
++Pl+Nom+Px1Pl:%>О1ньке K ;
++Pl+Gen+Px1Pl:%>О1нькО1%>О1нь K ;
++Pl+Dat+Px1Pl:%>О1нькО1%>О1нди K ;
+
+LEXICON PX2PL
++Sg+Nom+Px2Pl:%>О1нте K ;
++Sg+Gen+Px2Pl:%>О1нте%>О1нь K ;
++Sg+Dat+Px2Pl:%>О1нте%>О1нди K ;
+
++Pl+Nom+Px2Pl:%>О1нте K ;
++Pl+Gen+Px2Pl:%>О1нте%>О1нь K ;
++Pl+Dat+Px2Pl:%>О1нте%>О1нди K ;
+
+LEXICON PX3PL
++Sg+Nom+Px3Pl:%>снО1 K ;
++Sg+Gen+Px3Pl:%>снО1%>О1н K ;
++Sg+Dat+Px3Pl:%>снО1%>О1нды K ;
+
++Pl+Nom+Px3Pl:%>снО1 K ;
++Pl+Gen+Px3Pl:%>снО1%>О1н K ;
++Pl+Dat+Px3Pl:%>снО1%>О1нды K ;
+
+!!
+LEXICON Choose-INDEF-OBLPX-kal
++Indef: K ;
+ OBLIQUECX-PX-kal ;
+
+LEXICON OBLIQUECX-PX-kal
++Px1Sg:%>О1н K ;
++Px2Sg:%>т K ;
++Px3Sg:%>О1нзО1 K ;
++Px1Pl:%>О1нк K ;
++Px2Pl:%>О1нт K ;
++Px3Pl:%>ст K ;
+
+LEXICON Choose-INDEF-OBLPX-osh
++Indef: K ;
+ OBLIQUECX-PX-osh ;
+
+LEXICON OBLIQUECX-PX-osh
++Px1Sg:%>О1н K ;
++Px2Sg:%>т K ;
++Px3Sg:%>О1нзО1 K ;
++Px1Pl:%>О1нк K ;
++Px2Pl:%>О1нт K ;
++Px3Pl:%>О1ст K ;
 
 !!!!!!!!!!!!!!!!!!
 !! PROPER NOUNS !!
