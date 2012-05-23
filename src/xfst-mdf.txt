@@ -78,10 +78,11 @@ define ProlativeG2 [ Г2 -> г || [ б | в | г | д | ж | з | й | л | м |
 
 define AblativeD [ д -> т || [ VoicelessCns | д | Д ] ( Signs ) %> _ О1 ] ;
 
-define MorphemeFinalO1Toa [ О1 -> а || _ [ .#. ] ,,
-                        О1 -> о ||  _ %> [ SUFF .#. | О1 л  ] ] ;
+define MorphemeFinalO1Toa [ О1 -> а || _ [ .#. | %> в о к ] ,,
+                        О1 -> о ||  _ %> [ SUFF [ .#. | %> в о к ] | О1 л  ] ] ;
 
-define StemFinalO1Toa [ О2 -> о || [ к | п | ф | х | б | в | г | м ] е %> _ [ SUFF ] ] ;
+define StemFinalO1Toa [ О2 -> о || [ к | п | ф | х | б | в | г | м ] е %> _ [ SUFF ] ,,
+                       е  -> 0 || [ ] _ %> О2  [ SUFF ] ] ;
 
 define MorphemeInitialO1ToZero [ О1 -> 0 || Vws %> _ ,,
                                  О1 -> о || Cns %> _ Cns ] ;
