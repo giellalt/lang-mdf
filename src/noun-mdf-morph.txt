@@ -16,16 +16,35 @@ LEXICON GenTag
 LEXICON NTag
 #;
 
+LEXICON N-ava
+ N-kal ;
+
+LEXICON N-ofta
+:%>О2 N-ava ;
+ N-kal ;
+
+LEXICON N-pinge
+:%>О2 N-ava ;
+ N-kal ;
+
+LEXICON N-pula
+:%>О2 N-ava ;
+
+LEXICON N-osh
+ N-kal ;
+
 LEXICON N-kal
 !! Indefinite
-+N+Sg+Nom: K ;
-+N+Pl+Nom:%>Х1т K ;
-+N+Sg+Gen:%>О1нь K ;
-+N+Pl+Gen:%>О1нь K ;
++N+Sg+Nom+Indef: K ;
++N+Pl+Nom+Indef:%>Х1т K ;
++N+Sg+Gen+Indef:%>О1нь K ;
++N+Pl+Gen+Indef:%>О1нь K ;
++N+Sg+Dat+Indef:%>О1нди K ;
++N+Pl+Dat+Indef:%>О1нди K ;
 +N+Sg+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
 +N+Pl+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Ill:%>с K ;
-+N+Pl+Ill:%>с K ;
++N+Sg+Ill+Indef:%>с K ;
++N+Pl+Ill+Indef:%>с K ;
 +N+Sg+Ill:%>з OBLIQUECX-PX-osh ; 
 +N+Pl+Ill:%>з OBLIQUECX-PX-osh ;
 +N+Sg+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
@@ -34,23 +53,35 @@ LEXICON N-kal
 +N+Pl+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
 +N+Sg+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
 +N+Pl+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
++N+Sg+Tra+Indef:%>кс K ;
++N+Pl+Tra+Indef:%>кс K ;
++N+Sg+Comp:%>шка Choose-INDEF-OBLPX-kal ;
++N+Pl+Comp:%>шка Choose-INDEF-OBLPX-kal ;
++N+Sg+Prl:%>Г2а Choose-INDEF-OBLPX-kal ;
++N+Pl+Prl:%>Г2а Choose-INDEF-OBLPX-kal ;
+
+!! Definite Sg
++N+Sg+Nom+Def:%>сь K ;
++N+Sg+Gen+Def:%>ть K ;
++N+Sg+Dat+Def:%>ти K ;
+
 !! Definite Pl
-+N+Pl+Def:%>Х1не PLDEFCX ;
- PX1SG ;
- PX2SG ;
- PX3SG ;
- PX1PL ;
- PX2PL ;
- PX3PL ;
+
+ PLDEFCX ;
+
+!! Possessor Indices
++N: PX1SG ;
++N: PX2SG ;
++N: PX3SG ;
++N: PX1PL ;
++N: PX2PL ;
++N: PX3PL ;
 
 LEXICON PLDEFCX
-+Nom: K ;
-+Gen:%>нь K ;
-+Abl:%>дО1 K ;
-+Ill:%>с K ;
-+Ine:%>сО1 K ;
-+Ela:%>стО1 K ;
-+Abe:%>фтомО1 K ;
++N+Pl+Nom+Def:%>Х1тне K ;
++N+Pl+Gen+Def:%>Х1тне%>О1нь K ;
++N+Pl+Dat+Def:%>Х1тне%>О1нди K ;
+
 
 LEXICON PX1SG
 +Sg+Nom+Px1Sg:%>О1зе K ;
@@ -83,12 +114,12 @@ LEXICON PX3SG
 !!
 LEXICON PX1PL
 +Sg+Nom+Px1Pl:%>О1ньке K ;
-+Sg+Gen+Px1Pl:%>О1нькО1%>О1нь K ;
-+Sg+Dat+Px1Pl:%>О1нькО1%>О1нди K ;
++Sg+Gen+Px1Pl:%>О1ньке%>О1нь K ;
++Sg+Dat+Px1Pl:%>О1ньке%>О1нди K ;
 
 +Pl+Nom+Px1Pl:%>О1ньке K ;
-+Pl+Gen+Px1Pl:%>О1нькО1%>О1нь K ;
-+Pl+Dat+Px1Pl:%>О1нькО1%>О1нди K ;
++Pl+Gen+Px1Pl:%>О1ньке%>О1нь K ;
++Pl+Dat+Px1Pl:%>О1ньке%>О1нди K ;
 
 LEXICON PX2PL
 +Sg+Nom+Px2Pl:%>О1нте K ;

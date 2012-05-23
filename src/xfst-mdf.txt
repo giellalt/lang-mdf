@@ -23,12 +23,21 @@ clear stack
 
 echo << THE DEFININTIONS >>
 
+define VoicelessCns [ к | п | с | т | ф | х | ц | ч | ш | щ
+                    | К | П | С | Т | Ф | Х | Ц | Ч | Ш | Щ ] ;
+
+define NonAlveolarStops [ к | п | с | ф | х | ц | ч | ш | щ
+                    | К | П | С | Ф | Х | Ц | Ч | Ш | Щ 
+                    | б | в | г | ж | з
+                    | Б | В | Г | Ж | З
+                    | й | л | м | р
+                    | Й | Л | М | Р ] ;
+
 define Cns [ б | в | г | д | ж | з 
            | Б | В | Г | Д | Ж | З 
-           | й | к | л | м | н | п | р | с | т | ф | х | ц 
-           | Й | К | Л | М | Н | П | Р | С | Т | Ф | Х | Ц 
-           | ч | ш | щ 
-           | Ч | Ш | Щ ] ;
+           | й | л | м | н | р 
+           | Й | Л | М | Н | Р 
+           | VoicelessCns ] ;
 
 define Vws [ а | е | ё | и | о | у | ы | э | ю | я
            | А | Е | Ё | И | О | У | Ы | Э | Ю | Я ] ;
@@ -36,6 +45,8 @@ define Vws [ а | е | ё | и | о | у | ы | э | ю | я
 define Signs [ ъ | ь |  Ъ | Ь ] ;
 
 define Lts [ Cns | Vws | Signs ] ;
+
+define SUFF [ О1 з е | О1 н ц | О1 ц | О1 н ц т ы | О1 н з О1 | О1 н к | О1 н т | с т | т | О1 н | О1 н ь | О1 н д ы  ] ;
 
 define Dummy %> ;
 
@@ -52,11 +63,25 @@ define VowelCorrelation [ А1 -> а || [ а | я ]  %> х _ ,,
                           А1 -> о || [ о | ё ]  %> х _ ,,
                           А1 -> э || [ ы | э | е ]  %> х _ ] ;
 
-define DevoicingX [ Х1 -> х || [ л ] %> _ [ т | н е ] ] ;
+define AffricatizationAfterNasal [ с -> ц || [ н | н ь ] %> _ [ ь | н О1 | О1 | т О1 ] ] ;
+
+define DevoicingCns [ м -> п , б -> п , н -> т , д -> т  || _ ( Signs ) %> Х1 ] ;
+
+define DevoicingX [ Х1 -> х || [ л | й | р ] %> _ [ т | т н е ] ,,
+                    Х1 -> 0 || [ Vws | [ п | т ] ( Signs ) ] %> _ [ т | т н е ] ,,
+                    т -> 0 || [ Cns ( Signs ) ] %> Х1 _  н е  ] ;
  !€ кал>Х1т:калхт
 
+define ProlativeG2 [ Г2 -> г || [ б | в | г | д | ж | з | й | л | м | н | р ] ( Signs ) %> _ ,,
+                     Г2 -> к || VoicelessCns ( Signs )  %> _  ,,
+                    Г2 -> в || [ О1 | О2 | Vws ] %> _ ] ;
+
+define AblativeD [ д -> т || [ VoicelessCns | д | Д ] ( Signs ) %> _ О1 ] ;
+
 define MorphemeFinalO1Toa [ О1 -> а || _ [ .#. ] ,,
-                        О1 -> о ||  _ %> [ О1 з е | О1 н ц | О1 ц | О1 н ц т ы | О1 н з О1 | О1 н к | О1 н т | с т | т | О1 н | О1 н ь | О1 н д ы  ] [ .#. ] ] ;
+                        О1 -> о ||  _ %> [ SUFF .#. | О1 л  ] ] ;
+
+define StemFinalO1Toa [ О2 -> о || [ к | п | ф | х | б | в | г | м ] е %> _ [ SUFF ] ] ;
 
 define MorphemeInitialO1ToZero [ О1 -> 0 || Vws %> _ ,,
                                  О1 -> о || Cns %> _ Cns ] ;
@@ -72,8 +97,13 @@ define DummyDeletion Dummy -> 0 ;
 read regex [
 
     VowelCorrelation
+.o. AffricatizationAfterNasal
+.o. DevoicingCns
 .o. DevoicingX
+.o. ProlativeG2
+.o. AblativeD
 .o. MorphemeFinalO1Toa
+.o. StemFinalO1Toa
 .o. MorphemeInitialO1ToZero
 .o. VowelPalatalization
 .o. DummyDeletion
