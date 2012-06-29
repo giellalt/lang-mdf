@@ -19,6 +19,7 @@ ZERO
 
 ! tags
 +Abs ! Absolutive
++AdA 
 +Adj ! Adjective
 +Attr ! Attribute
 +Bahuvrihi
@@ -102,6 +103,7 @@ ZERO
 +Ptc
 +VGen
 +ActDemPtc
++PrtPrc ! Preterite participle
 !! This has something to do with  verb stem tracking
 !  The three should be removed a little later if there
 !  is no reason to keep them
@@ -109,7 +111,7 @@ ZERO
 
 
 +Pers
-+Imprt
++Imp
 
 
 +Qnt ! Quantifier
@@ -321,6 +323,7 @@ ZERO
 А1 А2 Г1 Г2 Ь2 Т1
  О1 О2 
 Ы2 К1 К3 К4 У2 И2 TLoss KLoss VLoss WLoss %>
+%^Devoice ! used with +PrtPrc ф
 %^Inf
 %^PATR
 %^FEM
@@ -527,6 +530,7 @@ PRON ;                                  ! ../../tmp/out/PRON_mdf-lex.xml
 !PROP-RUSSIAN-MALE-NAMES-Derivable ;    ! ../../tmp/out/PROP-RUSSIAN-MALE-NAMES-Derivable_mdf-lex.xml    !2012-03-14
 !PROP-CYRILLIC-MALE-NAMES ;              ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mdf-lex.xml
 !PROP-CYRILLIC-FEMALE-NAMES ;            ! ../../tmp/out/PROP-CYRILLIC-MALE-NAMES_mdf-lex.xml
+PTC ;			    ! ../../tmp/out/PTC_mdf-lex.xml
 Punctuation ;                           ! punct-mdf-lex.txt
 !SPAT ;                                  ! ../../tmp/out/SPAT_mdf-lex.xml.txt
 !TEMP ;                                  ! ../../tmp/out/TEMP_mdf-lex.xml.txt
