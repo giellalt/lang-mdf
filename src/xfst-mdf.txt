@@ -33,6 +33,11 @@ define NonAlveolarStops [ к | п | с | ф | х | ц | ч | ш | щ
                     | й | л | м | р
                     | Й | Л | М | Р ] ;
 
+define BackCns [ к | п | ф | х | б | в | г | м 
+               |  К | П | Ф | Х | Б | В | Г | М 
+               | с | т | ц | з | л | р
+               | С | Т | Ц | З | Л | Р ] ;
+
 define Cns [ б | в | г | д | ж | з 
            | Б | В | Г | Д | Ж | З 
            | й | л | м | н | р 
@@ -48,7 +53,7 @@ define Lts [ Cns | Vws | Signs ] ;
 
 define SUFF [ О1 з е | О1 н ц | О1 ц | О1 н ц т ы | О1 н з О1 | О1 н к | О1 н т | с т | т | О1 н | О1 н ь | О1 н д ы  ] ;
 
-define Dummy %> ;
+define Dummy [ %> | %^Devoice ] ;
 
 
 
@@ -81,11 +86,14 @@ define AblativeD [ д -> т || [ VoicelessCns | д | Д ] ( Signs ) %> _ О1 ] ;
 define MorphemeFinalO1Toa [ О1 -> а || _ [ .#. | %> в о к ] ,,
                         О1 -> о ||  _ %> [ SUFF [ .#. | %> в о к ] | О1 л  ] ] ;
 
-define StemFinalO1Toa [ О2 -> о || [ к | п | ф | х | б | в | г | м ] е %> _ [ SUFF ] ,,
-                       е  -> 0 || [ ] _ %> О2  [ SUFF ] ] ;
+define StemFinalO1Toa [ О2 -> о || [ к | п | ф | х | б | в | г | м ] е %> _ [ Cns ] ,,
+                       е  -> 0 || [ ] _ %> О2  [ Cns ] ] ;
 
 define MorphemeInitialO1ToZero [ О1 -> 0 || Vws %> _ ,,
-                                 О1 -> о || Cns %> _ Cns ] ;
+                                 О1 -> о || Cns %> _ Cns ,,
+                                 О1 -> о || BackCns %> _ [ Cns ] ,,
+                                 О1 -> е || [ ь ] %> _  [ Cns ] ,,
+                                 ь -> 0 || _ %> О1 [ Cns ] ] ;
 
 
 define VowelPalatalization [ а -> я , у -> ю || й %> _ ] ;
