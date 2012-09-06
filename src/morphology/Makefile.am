@@ -22,6 +22,8 @@ GT_LEXC_ROOT=root.lexc
 GT_LEXC_SRCS=\
 			 stems/abbr.lexc \
 			 stems/acro.lexc \
+			 stems/punct.lexc \
+			 stems/wordToNumeral.lexc \
 			 affixes/adjectives.lexc \
 			 affixes/nouns.lexc \
 			 affixes/pronouns.lexc \
@@ -31,35 +33,35 @@ GT_LEXC_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-			 adjectives.lexc \
-			 adverbs.lexc \
-			 conjunctions.lexc \
-			 descriptives.lexc \
-			 gerunds.lexc \
-			 interjections.lexc \
-			 nouns.lexc \
-			 participles.lexc \
-			 particles.lexc \
-			 postpositions.lexc \
-			 pronouns.lexc \
-			 quantifiers.lexc \
-			 verbs.lexc
+			 stems/adjectives.lexc \
+			 stems/adverbs.lexc \
+			 stems/conjunctions.lexc \
+			 stems/descriptives.lexc \
+			 stems/gerunds.lexc \
+			 stems/interjections.lexc \
+			 stems/nouns.lexc \
+			 stems/participles.lexc \
+			 stems/particles.lexc \
+			 stems/postpositions.lexc \
+			 stems/pronouns.lexc \
+			 stems/quantifiers.lexc \
+			 stems/verbs.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-			 adjectives.xml \
-			 adverbs.xml \
-			 conjunctions.xml \
-			 descriptives.xml \
-			 gerunds.xml \
-			 interjections.xml \
-			 nouns.xml \
-			 participles.xml \
-			 particles.xml \
-			 postpositions.xml \
-			 pronouns.xml \
-			 quantifiers.xml \
-			 verbs.xml
+			 stems/adjectives.xml \
+			 stems/adverbs.xml \
+			 stems/conjunctions.xml \
+			 stems/descriptives.xml \
+			 stems/gerunds.xml \
+			 stems/interjections.xml \
+			 stems/nouns.xml \
+			 stems/participles.xml \
+			 stems/particles.xml \
+			 stems/postpositions.xml \
+			 stems/pronouns.xml \
+			 stems/quantifiers.xml \
+			 stems/verbs.xml
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
