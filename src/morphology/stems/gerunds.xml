@@ -1,0 +1,4270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>ардозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ардозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>ardəź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>laukaten, kiirehtien.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кенордазь</l>
+         <stg>
+            <st mdfContlex="GerTag">кенордазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>kenərdaź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kiireessä, kiireisesti.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ветензазь</l>
+         <stg>
+            <st mdfContlex="GerTag">ветензазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>veťənʒaź</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>viidellä säikeellä</t>
+            </tg>
+            <xg>
+               <x>ветензазь понамс</x>
+               <phonet>veťənʒaź ponams</phonet>
+               <xt lang="fin">punoa viidellä säikeellä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>абондозь</l>
+         <stg>
+            <st mdfContlex="GerTag">абондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>авардезь</l>
+         <stg>
+            <st mdfContlex="GerTag">авардезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>авардезь-кольгозь</l>
+         <stg>
+            <st mdfContlex="GerTag">авардезь-кольгозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>авардезь-рангозь</l>
+         <stg>
+            <st mdfContlex="GerTag">авардезь-рангозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>апряказь</l>
+         <stg>
+            <st mdfContlex="GerTag">апряказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>арьсезь</l>
+         <stg>
+            <st mdfContlex="GerTag">арьсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ацергодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ацергодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>безярдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">безярдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>брезговазь</l>
+         <stg>
+            <st mdfContlex="GerTag">брезговазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бульдердезь</l>
+         <stg>
+            <st mdfContlex="GerTag">бульдердезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бульнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">бульнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ваймосезь</l>
+         <stg>
+            <st mdfContlex="GerTag">ваймосезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ваймязь</l>
+         <stg>
+            <st mdfContlex="GerTag">ваймязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>валдашкодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">валдашкодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вандолдозь-пиндолдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">вандолдозь-пиндолдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ваномок</l>
+         <stg>
+            <st mdfContlex="GerTag">ваномок</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вараксазь</l>
+         <stg>
+            <st mdfContlex="GerTag">вараксазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вархцодезь</l>
+         <stg>
+            <st mdfContlex="GerTag">вархцодезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васьказь</l>
+         <stg>
+            <st mdfContlex="GerTag">васьказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васькафнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">васькафнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васькафтозь</l>
+         <stg>
+            <st mdfContlex="GerTag">васькафтозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>васькязь</l>
+         <stg>
+            <st mdfContlex="GerTag">васькязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вахлязь</l>
+         <stg>
+            <st mdfContlex="GerTag">вахлязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вельсезь</l>
+         <stg>
+            <st mdfContlex="GerTag">вельсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велязь</l>
+         <stg>
+            <st mdfContlex="GerTag">велязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велязь-шарозь</l>
+         <stg>
+            <st mdfContlex="GerTag">велязь-шарозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>велянькшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">велянькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>верондазь</l>
+         <stg>
+            <st mdfContlex="GerTag">верондазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>виздезь</l>
+         <stg>
+            <st mdfContlex="GerTag">виздезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>виздезь-пелезь</l>
+         <stg>
+            <st mdfContlex="GerTag">виздезь-пелезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>визделгодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">визделгодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>воравазь-салазь</l>
+         <stg>
+            <st mdfContlex="GerTag">воравазь-салазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>въжголдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">въжголдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>въжназь</l>
+         <stg>
+            <st mdfContlex="GerTag">въжназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вяжедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">вяжедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>вякназь</l>
+         <stg>
+            <st mdfContlex="GerTag">вякназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>горнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">горнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>грабазь</l>
+         <stg>
+            <st mdfContlex="GerTag">грабазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гразязь</l>
+         <stg>
+            <st mdfContlex="GerTag">гразязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>грохиезь</l>
+         <stg>
+            <st mdfContlex="GerTag">грохиезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гъзнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">гъзнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>гърнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">гърнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>дасадязь</l>
+         <stg>
+            <st mdfContlex="GerTag">дасадязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>дразнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">дразнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёколдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ёколдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жалназь</l>
+         <stg>
+            <st mdfContlex="GerTag">жалназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жалназь-увназь</l>
+         <stg>
+            <st mdfContlex="GerTag">жалназь-увназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жалносезь-увносезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жалносезь-увносезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жальдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жальдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жольдердезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жольдердезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жольдердезь-кальдердезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жольдердезь-кальдердезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жольдерькшнезь-кальдерькшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жольдерькшнезь-кальдерькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жольнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">жольнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жольнязь-горнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">жольнязь-горнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жуледезь-каледезь</l>
+         <stg>
+            <st mdfContlex="GerTag">жуледезь-каледезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>жульничендазь</l>
+         <stg>
+            <st mdfContlex="GerTag">жульничендазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>заботендазь</l>
+         <stg>
+            <st mdfContlex="GerTag">заботендазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>зойнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">зойнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>зярнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">зярнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>иклендезь</l>
+         <stg>
+            <st mdfContlex="GerTag">иклендезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>икснезь-мъкснезь</l>
+         <stg>
+            <st mdfContlex="GerTag">икснезь-мъкснезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кашмазь</l>
+         <stg>
+            <st mdfContlex="GerTag">кашмазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>каязь</l>
+         <stg>
+            <st mdfContlex="GerTag">каязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кеворезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кеворезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кельгозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кельгозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кенярдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кенярдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кизефтезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кизефтезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кифтолдозь-кафтолдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кифтолдозь-кафтолдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кичкордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кичкордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кичкорязь</l>
+         <stg>
+            <st mdfContlex="GerTag">кичкорязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кокольдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кокольдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кокшкодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кокшкодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кокшкоткшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кокшкоткшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>колендезь</l>
+         <stg>
+            <st mdfContlex="GerTag">колендезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кольгозь-авардезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кольгозь-авардезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>комазь</l>
+         <stg>
+            <st mdfContlex="GerTag">комазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>комотнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">комотнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>копорьгодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">копорьгодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кородозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кородозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>куколендазь</l>
+         <stg>
+            <st mdfContlex="GerTag">куколендазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кулдордозь-калдордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">кулдордозь-калдордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кштизь</l>
+         <stg>
+            <st mdfContlex="GerTag">кштизь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кърназь</l>
+         <stg>
+            <st mdfContlex="GerTag">кърназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кялезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кялезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кяшезь-вешезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кяшезь-вешезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кяшендезь</l>
+         <stg>
+            <st mdfContlex="GerTag">кяшендезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лабордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">лабордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лавгазь-лабордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">лавгазь-лабордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лавгазь-мятькодезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лавгазь-мятькодезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лавксезь-лаборкшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лавксезь-лаборкшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лавксезь-мятькотькшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лавксезь-мятькотькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лагордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">лагордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лагордозь-дубордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">лагордозь-дубордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лагоркшнезь-дуборкшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лагоркшнезь-дуборкшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лажназь</l>
+         <stg>
+            <st mdfContlex="GerTag">лажназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лажназь-пеняцязь</l>
+         <stg>
+            <st mdfContlex="GerTag">лажназь-пеняцязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лажназь-пичедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лажназь-пичедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лаказь</l>
+         <stg>
+            <st mdfContlex="GerTag">лаказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лакштордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">лакштордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ласькозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ласькозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>летнязь</l>
+         <stg>
+            <st mdfContlex="GerTag">летнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лиезь</l>
+         <stg>
+            <st mdfContlex="GerTag">лиезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>лоцазь</l>
+         <stg>
+            <st mdfContlex="GerTag">лоцазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ляпиякшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">ляпиякшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>марязь</l>
+         <stg>
+            <st mdfContlex="GerTag">марязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>машнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">машнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>маштозь</l>
+         <stg>
+            <st mdfContlex="GerTag">маштозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мекпотазь</l>
+         <stg>
+            <st mdfContlex="GerTag">мекпотазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мокназь</l>
+         <stg>
+            <st mdfContlex="GerTag">мокназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мъзолдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">мъзолдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мъзолкшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">мъзолкшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мятярдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">мятярдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нежекснезь</l>
+         <stg>
+            <st mdfContlex="GerTag">нежекснезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нолгадозь</l>
+         <stg>
+            <st mdfContlex="GerTag">нолгадозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нолдазь</l>
+         <stg>
+            <st mdfContlex="GerTag">нолдазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>норхцадезь</l>
+         <stg>
+            <st mdfContlex="GerTag">норхцадезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нувазь</l>
+         <stg>
+            <st mdfContlex="GerTag">нувазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нюрязь-пупорязь</l>
+         <stg>
+            <st mdfContlex="GerTag">нюрязь-пупорязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>озсезь</l>
+         <stg>
+            <st mdfContlex="GerTag">озсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>оладазь</l>
+         <stg>
+            <st mdfContlex="GerTag">оладазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пандозь</l>
+         <stg>
+            <st mdfContlex="GerTag">пандозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>паразь</l>
+         <stg>
+            <st mdfContlex="GerTag">паразь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пелезь</l>
+         <stg>
+            <st mdfContlex="GerTag">пелезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пелезь-тьрнатозь</l>
+         <stg>
+            <st mdfContlex="GerTag">пелезь-тьрнатозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пеняцязь</l>
+         <stg>
+            <st mdfContlex="GerTag">пеняцязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пичедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">пичедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пичетькстозь</l>
+         <stg>
+            <st mdfContlex="GerTag">пичетькстозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>потазь</l>
+         <stg>
+            <st mdfContlex="GerTag">потазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пувордазь</l>
+         <stg>
+            <st mdfContlex="GerTag">пувордазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пувордазьня</l>
+         <stg>
+            <st mdfContlex="GerTag">пувордазьня</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пульхкозь</l>
+         <stg>
+            <st mdfContlex="GerTag">пульхкозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пульхкозь-шарозь</l>
+         <stg>
+            <st mdfContlex="GerTag">пульхкозь-шарозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пуполязь</l>
+         <stg>
+            <st mdfContlex="GerTag">пуполязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пупорязь</l>
+         <stg>
+            <st mdfContlex="GerTag">пупорязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пялес_авардезь</l>
+         <stg>
+            <st mdfContlex="GerTag">пялес_авардезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахазь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахазь-кенярдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахазь-кенярдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахазь-моразь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахазь-моразь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахазь-пеедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахазь-пеедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахазь-пеетькшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахазь-пеетькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахсезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахсезь-пеетькшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахсезь-пеетькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рахсекшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">рахсекшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>резнязь-лознязь</l>
+         <stg>
+            <st mdfContlex="GerTag">резнязь-лознязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рёвназь</l>
+         <stg>
+            <st mdfContlex="GerTag">рёвназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ризназь</l>
+         <stg>
+            <st mdfContlex="GerTag">ризназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ризназь-авардезь</l>
+         <stg>
+            <st mdfContlex="GerTag">ризназь-авардезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ризназь-палондозь</l>
+         <stg>
+            <st mdfContlex="GerTag">ризназь-палондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ризназь-пичедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">ризназь-пичедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рязондозь-коськондозь</l>
+         <stg>
+            <st mdfContlex="GerTag">рязондозь-коськондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сельгондезь</l>
+         <stg>
+            <st mdfContlex="GerTag">сельгондезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сельмодезь</l>
+         <stg>
+            <st mdfContlex="GerTag">сельмодезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>симозь</l>
+         <stg>
+            <st mdfContlex="GerTag">симозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сингордазь</l>
+         <stg>
+            <st mdfContlex="GerTag">сингордазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сингорязь</l>
+         <stg>
+            <st mdfContlex="GerTag">сингорязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>смутявозь</l>
+         <stg>
+            <st mdfContlex="GerTag">смутявозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>смутявозь-пеедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">смутявозь-пеедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сотнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">сотнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>спорезь</l>
+         <stg>
+            <st mdfContlex="GerTag">спорезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>старандазь</l>
+         <stg>
+            <st mdfContlex="GerTag">старандазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сувозь</l>
+         <stg>
+            <st mdfContlex="GerTag">сувозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>съкназь</l>
+         <stg>
+            <st mdfContlex="GerTag">съкназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сюконязь</l>
+         <stg>
+            <st mdfContlex="GerTag">сюконязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сялондозь-сюцезь</l>
+         <stg>
+            <st mdfContlex="GerTag">сялондозь-сюцезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сярядезь</l>
+         <stg>
+            <st mdfContlex="GerTag">сярядезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таколдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">таколдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тапарязь</l>
+         <stg>
+            <st mdfContlex="GerTag">тапарязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тапарякшнезь</l>
+         <stg>
+            <st mdfContlex="GerTag">тапарякшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таргавозь</l>
+         <stg>
+            <st mdfContlex="GerTag">таргавозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таргазь</l>
+         <stg>
+            <st mdfContlex="GerTag">таргазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таярдозь</l>
+         <stg>
+            <st mdfContlex="GerTag">таярдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>таяскодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">таяскодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тихольдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">тихольдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>токназь</l>
+         <stg>
+            <st mdfContlex="GerTag">токназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>толомозь</l>
+         <stg>
+            <st mdfContlex="GerTag">толомозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тошказь</l>
+         <stg>
+            <st mdfContlex="GerTag">тошказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тувозгодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">тувозгодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>туткодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">туткодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тъжназь</l>
+         <stg>
+            <st mdfContlex="GerTag">тъжназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тъзназь</l>
+         <stg>
+            <st mdfContlex="GerTag">тъзназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>търмождозь</l>
+         <stg>
+            <st mdfContlex="GerTag">търмождозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>търназь-пелезь</l>
+         <stg>
+            <st mdfContlex="GerTag">търназь-пелезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>търнатозь-пелезь</l>
+         <stg>
+            <st mdfContlex="GerTag">търнатозь-пелезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тюрезь-спорязь</l>
+         <stg>
+            <st mdfContlex="GerTag">тюрезь-спорязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тюрезь-сялондозь</l>
+         <stg>
+            <st mdfContlex="GerTag">тюрезь-сялондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тюрендезь-сялондозь</l>
+         <stg>
+            <st mdfContlex="GerTag">тюрендезь-сялондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>увазь</l>
+         <stg>
+            <st mdfContlex="GerTag">увазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>удозь</l>
+         <stg>
+            <st mdfContlex="GerTag">удозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ужяльдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">ужяльдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>уназь</l>
+         <stg>
+            <st mdfContlex="GerTag">уназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>уркснезь</l>
+         <stg>
+            <st mdfContlex="GerTag">уркснезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фатнезь-кунтсезь</l>
+         <stg>
+            <st mdfContlex="GerTag">фатнезь-кунтсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>фатнезь-цопиезь</l>
+         <stg>
+            <st mdfContlex="GerTag">фатнезь-цопиезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>форсиндазь</l>
+         <stg>
+            <st mdfContlex="GerTag">форсиндазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>хикстазь</l>
+         <stg>
+            <st mdfContlex="GerTag">хикстазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цикордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">цикордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цингольдезь-дингольдезь</l>
+         <stg>
+            <st mdfContlex="GerTag">цингольдезь-дингольдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цингольдезь-кальдердезь</l>
+         <stg>
+            <st mdfContlex="GerTag">цингольдезь-кальдердезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цингольдезь-канзердозь</l>
+         <stg>
+            <st mdfContlex="GerTag">цингольдезь-канзердозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цингордозь-канзердозь</l>
+         <stg>
+            <st mdfContlex="GerTag">цингордозь-канзердозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цювназь-цявназь</l>
+         <stg>
+            <st mdfContlex="GerTag">цювназь-цявназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цюцелондазь</l>
+         <stg>
+            <st mdfContlex="GerTag">цюцелондазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цятордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">цятордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>чакордозь</l>
+         <stg>
+            <st mdfContlex="GerTag">чакордозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>чёшазь</l>
+         <stg>
+            <st mdfContlex="GerTag">чёшазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шалакодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">шалакодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шутендазь</l>
+         <stg>
+            <st mdfContlex="GerTag">шутендазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>шутендазь-пеедезь</l>
+         <stg>
+            <st mdfContlex="GerTag">шутендазь-пеедезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>элякодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">элякодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эряскодозь</l>
+         <stg>
+            <st mdfContlex="GerTag">эряскодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>

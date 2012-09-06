@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>афток</l>
+         <stg>
+            <st mdfContlex="Cc">афток</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>aftək</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>1. eli, tai, vai. 2. muuten, muutoin.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бди</l>
+         <stg>
+            <st mdfContlex="Cs">бди</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>bəďi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>jos.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>да</l>
+         <stg>
+            <st mdfContlex="Cc">да</st>
+         </stg>
+      </lg>
+      <pos>CC</pos>
+      <phonet>də</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ja, sekä, ynnä.</t>
+            </tg>
+            <xg>
+               <x>мон да сон</x>
+               <phonet>mon də son</phonet>
+               <xt lang="fin">minä ja hän.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёт</l>
+         <stg>
+            <st mdfContlex="ConjTag">ёт</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>jot</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>aikaisemmin, sitten.</t>
+            </tg>
+            <xg>
+               <x>колма шит ёт сань</x>
+               <phonet>kolmə šit jot sań</phonet>
+               <xt lang="fin">tulin kolme päivää sitten.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ёфси</l>
+         <stg>
+            <st mdfContlex="ConjTag">ёфси</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>jofśi, ofśi, voxśu</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ollenkaan, lainkaan.</t>
+            </tg>
+            <xg>
+               <x>ёфси аф</x>
+               <phonet>jofśi af</phonet>
+               <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+            </xg>
+            <xg>
+               <x>ёфсикс аф</x>
+               <phonet>jofśiks af</phonet>
+               <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>и</l>
+         <stg>
+            <st mdfContlex="Cc">и</st>
+         </stg>
+      </lg>
+      <pos>CC</pos>
+      <phonet>i</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>ja, myös.</t>
+            </tg>
+            <xg>
+               <x>и мянь</x>
+               <phonet>i mäń</phonet>
+               <xt lang="fin">suorastaan.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>или</l>
+         <stg>
+            <st mdfContlex="Cc">или</st>
+         </stg>
+      </lg>
+      <pos>CC</pos>
+      <phonet>iľi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>tai, vai.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кати</l>
+         <stg>
+            <st mdfContlex="ConjTag">кати</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>kaťi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>kenties, noinkohan, ehkäpä.</t>
+            </tg>
+            <xg>
+               <x>кати лац, кати аф</x>
+               <phonet>kaťi lac, kaťi af</phonet>
+               <xt lang="fin">ehkä se on hyvä, ehkä ei.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кодама</l>
+         <stg>
+            <st mdfContlex="ConjTag">кодама</st>
+         </stg>
+      </lg>
+      <pos>Q_A</pos>
+      <phonet>kodama</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>millainen.</t>
+            </tg>
+            <xg>
+               <x>кой-кодама</x>
+               <phonet>koj-kodama</phonet>
+               <xt lang="fin">jonkinlainen.</xt>
+            </xg>
+            <xg>
+               <x>кодама-бди</x>
+               <phonet>kodama-bəďi</phonet>
+               <xt lang="fin">jonkinlainen.</xt>
+            </xg>
+            <xg>
+               <x>кодама-кодама</x>
+               <phonet>kodamə-kodama</phonet>
+               <xt lang="fin">jonkinlainen.</xt>
+            </xg>
+            <xg>
+               <x>кодама тячи шись?</x>
+               <phonet>kodamə ťäči šiś</phonet>
+               <xt lang="fin">mikä/ millainen päivä tänään on?</xt>
+            </xg>
+            <xg>
+               <x>кодамовок аф</x>
+               <phonet>kodaməvək af</phonet>
+               <xt lang="fin">ei minkäänlainen.</xt>
+            </xg>
+            <xg>
+               <x>кодама повсь</x>
+               <phonet>kodamə povś</phonet>
+               <xt lang="fin">kaikenlainen, millainen tahansa.</xt>
+            </xg>
+            <xg>
+               <x>кодама тядясь, стама бябясь</x>
+               <phonet>kodamə ťäďäś stamə bäbäś</phonet>
+               <xt lang="fin">millainen äiti, sellainen lapsi.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мес</l>
+         <stg>
+            <st mdfContlex="ConjTag">мес</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>mes, mäs</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>miksi.</t>
+            </tg>
+            <xg>
+               <x>мес ашеть ваймя?</x>
+               <phonet>mes ašəť vajmä</phonet>
+               <xt lang="fin">miksi et levännyt?</xt>
+            </xg>
+            <xg>
+               <x>сяс ... мес</x>
+               <phonet>śas … mes</phonet>
+               <xt lang="fin">siksi … että.</xt>
+            </xg>
+            <xg>
+               <x>мес-бди</x>
+               <phonet>mes-bəďi</phonet>
+               <xt lang="fin">jostain syystä.</xt>
+            </xg>
+            <xg>
+               <x>мес-кда!</x>
+               <phonet>mes-kəda</phonet>
+               <xt lang="fin">sillä lailla! kyllä kai!; mikäpäs siinä.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>но</l>
+         <stg>
+            <st mdfContlex="Cc">но</st>
+         </stg>
+      </lg>
+      <pos>CC</pos>
+      <phonet>no</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>mutta, vaan.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>сясы</l>
+         <stg>
+            <st mdfContlex="ConjTag">сясы</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>śasi</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>siksi, sen takia.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>хуть</l>
+         <stg>
+            <st mdfContlex="ConjTag">хуть</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>xuť, xəť, kuť</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>vaikka, joskin.</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>цёк</l>
+         <stg>
+            <st mdfContlex="ConjTag">цёк</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <phonet>ćok</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>melkein, miltei, lähes.</t>
+            </tg>
+            <xg>
+               <x>сон цёк сембонь тиезень</x>
+               <phonet>son ćok śembəń ťijəźəń</phonet>
+               <xt lang="fin">hän teki melkein kaiken.</xt>
+            </xg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>што</l>
+         <stg>
+            <st mdfContlex="Cs">што</st>
+         </stg>
+      </lg>
+      <pos>CS</pos>
+      <phonet>što</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t>että</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>штоба</l>
+         <stg>
+            <st mdfContlex="Cs">штоба</st>
+         </stg>
+      </lg>
+      <pos>CS</pos>
+      <phonet>štoba</phonet>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="fin">
+               <t pos="CS">jotta</t>
+               <t pos="CS">että</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>﻿а</l>
+         <stg>
+            <st mdfContlex="ConjTag">﻿а</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>бъта</l>
+         <stg>
+            <st mdfContlex="ConjTag">бъта</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>каба</l>
+         <stg>
+            <st mdfContlex="ConjTag">каба</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>конашкава</l>
+         <stg>
+            <st mdfContlex="ConjTag">конашкава</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>кува</l>
+         <stg>
+            <st mdfContlex="ConjTag">кува</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>къба</l>
+         <stg>
+            <st mdfContlex="ConjTag">къба</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мъзярс</l>
+         <stg>
+            <st mdfContlex="ConjTag">мъзярс</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>мярьгат</l>
+         <stg>
+            <st mdfContlex="ConjTag">мярьгат</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>несак</l>
+         <stg>
+            <st mdfContlex="ConjTag">несак</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>нул</l>
+         <stg>
+            <st mdfContlex="ConjTag">нул</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>пока</l>
+         <stg>
+            <st mdfContlex="ConjTag">пока</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>раз</l>
+         <stg>
+            <st mdfContlex="ConjTag">раз</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>разе</l>
+         <stg>
+            <st mdfContlex="ConjTag">разе</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>рас</l>
+         <stg>
+            <st mdfContlex="ConjTag">рас</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>так</l>
+         <stg>
+            <st mdfContlex="ConjTag">так</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>то</l>
+         <stg>
+            <st mdfContlex="ConjTag">то</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>тожа</l>
+         <stg>
+            <st mdfContlex="ConjTag">тожа</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>хоть</l>
+         <stg>
+            <st mdfContlex="ConjTag">хоть</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>хотя</l>
+         <stg>
+            <st mdfContlex="ConjTag">хотя</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>хуш</l>
+         <stg>
+            <st mdfContlex="ConjTag">хуш</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>эмбя</l>
+         <stg>
+            <st mdfContlex="ConjTag">эмбя</st>
+         </stg>
+      </lg>
+      <pos>CONJ</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+               <defNative/>
+            </m>
+            <tg lang="fin">
+               <t/>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
