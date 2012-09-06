@@ -31,35 +31,35 @@ GT_LEXC_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-			adjectives.lexc \
-			adverbs.lexc \
-			conjunctions.lexc \
-			descriptives.lexc \
-			gerunds.lexc \
-			interjections.lexc \
-			nouns.lexc \
-			participles.lexc \
-			particles.lexc \
-			postpositions.lexc \
-			pronouns.lexc \
-			quantifiers.lexc \
-			verbs.lexc
+			 adjectives.lexc \
+			 adverbs.lexc \
+			 conjunctions.lexc \
+			 descriptives.lexc \
+			 gerunds.lexc \
+			 interjections.lexc \
+			 nouns.lexc \
+			 participles.lexc \
+			 particles.lexc \
+			 postpositions.lexc \
+			 pronouns.lexc \
+			 quantifiers.lexc \
+			 verbs.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-			adjectives.xml \
-			adverbs.xml \
-			conjunctions.xml \
-			descriptives.xml \
-			gerunds.xml \
-			interjections.xml \
-			nouns.xml \
-			participles.xml \
-			particles.xml \
-			postpositions.xml \
-			pronouns.xml \
-			quantifiers.xml \
-			verbs.xml
+			 adjectives.xml \
+			 adverbs.xml \
+			 conjunctions.xml \
+			 descriptives.xml \
+			 gerunds.xml \
+			 interjections.xml \
+			 nouns.xml \
+			 participles.xml \
+			 particles.xml \
+			 postpositions.xml \
+			 pronouns.xml \
+			 quantifiers.xml \
+			 verbs.xml
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
