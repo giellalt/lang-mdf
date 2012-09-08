@@ -28,16 +28,16 @@ LEXICON N-osh
 
 LEXICON N-kal
 !! Indefinite
-+N+Sg+Nom+Indef: K ;
-+N+Pl+Nom+Indef:%>Х1т K ;
-+N+Sg+Gen+Indef:%>О1нь K ;
-+N+Pl+Gen+Indef:%>О1нь K ;
-+N+Sg+Dat+Indef:%>О1нди K ;
-+N+Pl+Dat+Indef:%>О1нди K ;
++N+Sg+Nom+InDef: K ;
++N+Pl+Nom+InDef:%>Х1т K ;
++N+Sg+Gen+InDef:%>О1нь K ;
++N+Pl+Gen+InDef:%>О1нь K ;
++N+Sg+Dat+InDef:%>О1нди K ;
++N+Pl+Dat+InDef:%>О1нди K ;
 +N+Sg+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
 +N+Pl+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Ill+Indef:%>с K ;
-+N+Pl+Ill+Indef:%>с K ;
++N+Sg+Ill+InDef:%>с K ;
++N+Pl+Ill+InDef:%>с K ;
 +N+Sg+Ill:%>з OBLIQUECX-PX-osh ; 
 +N+Pl+Ill:%>з OBLIQUECX-PX-osh ;
 +N+Sg+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
@@ -46,8 +46,8 @@ LEXICON N-kal
 +N+Pl+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
 +N+Sg+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
 +N+Pl+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Tra+Indef:%>кс K ;
-+N+Pl+Tra+Indef:%>кс K ;
++N+Sg+Tra+InDef:%>кс K ;
++N+Pl+Tra+InDef:%>кс K ;
 +N+Sg+Comp:%>шка Choose-INDEF-OBLPX-kal ;
 +N+Pl+Comp:%>шка Choose-INDEF-OBLPX-kal ;
 +N+Sg+Prl:%>Г2а Choose-INDEF-OBLPX-kal ;
@@ -134,7 +134,7 @@ LEXICON PX3PL
 
 !!
 LEXICON Choose-INDEF-OBLPX-kal
-+Indef: K ;
++InDef: K ;
  OBLIQUECX-PX-kal ;
 
 LEXICON OBLIQUECX-PX-kal
@@ -146,7 +146,7 @@ LEXICON OBLIQUECX-PX-kal
 +Px3Pl:%>ст K ;
 
 LEXICON Choose-INDEF-OBLPX-osh
-+Indef: K ;
++InDef: K ;
  OBLIQUECX-PX-osh ;
 
 LEXICON OBLIQUECX-PX-osh
