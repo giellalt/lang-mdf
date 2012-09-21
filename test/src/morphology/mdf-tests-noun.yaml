@@ -1,10 +1,10 @@
 Config:
   hfst:
-    Gen: ../bin/mdf-gen.hfstol
-    Morph: ../bin/mdf.hfstol
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
   xerox:
-    Gen: ../bin/imdf.fst
-    Morph: ../bin/mdf.fst
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
     App: lookup
 
 Tests:
