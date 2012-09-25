@@ -1,0 +1,22 @@
+!! Proper noun inflection
+!! ----------------------
+!! The UNDEFINED language proper nouns inflect in the same cases as regular
+!! nouns, but with a colon (':') as separator.
+
+!!!!!!!!!!!!!!!!!!
+!! PROPER NOUNS !!
+!!!!!!!!!!!!!!!!!!
+LEXICON PROP
+#;
+
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
+
+
+
+! vim: set ft=xfst-lexc:
+
