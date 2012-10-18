@@ -10,7 +10,45 @@ LEXICON NTag
 #;
 
 LEXICON N-ava
- N-kal ;
++N: N-ava_01 ;
+
+LEXICON N-ava_01
+ SG-NOM ;
+:%> SG-GEN ;
+:%> SG-DAT ;
+:%> SG-ABL ;
+:%> SG-ILL ;
+:%> SG-INE ;
+:%> SG-ELA ;
+:%> SG-ABE ;
+:%> SG-TRA ;
+:%> SG-CMP ;
+:%> SG-PRL ;
+
+:%> PL-NOM ;
+:%> PL-GEN ;
+:%> PL-DAT ;
+:%> PL-ABL ;
+:%> PL-ILL ;
+:%> PL-INE ;
+:%> PL-ELA ;
+:%> PL-ABE ;
+:%> PL-TRA ;
+:%> PL-CMP ;
+:%> PL-PRL ;
+!! Definite Sg
+ SGDEFCX ;
+!! Definite Pl
+ PLDEFCX ;
+!! Possessor Indices
+:%> PXSG1-Sg ;
+:%> PXSG1-Pl ;
+:%> PX2SG ;
+:%> PX3SG ;
+:%> PX1PL ;
+:%> PX2PL ;
+:%> PX3PL ;
+
 
 LEXICON N-ofta
 :%>О2 N-ava ;
@@ -27,48 +65,54 @@ LEXICON N-osh
  N-kal ;
 
 LEXICON N-kal
++N: N-kal_01 ;
+
+LEXICON N-kal_01
 !! Indefinite
-+N+Sg+Nom+InDef: K ;
-+N+Pl+Nom+InDef:%>Х1т K ;
-+N+Sg+Gen+InDef:%>О1нь K ;
-+N+Pl+Gen+InDef:%>О1нь K ;
-+N+Sg+Dat+InDef:%>О1нди K ;
-+N+Pl+Dat+InDef:%>О1нди K ;
-+N+Sg+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
-+N+Pl+Abl:%>дО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Ill+InDef:%>с K ;
-+N+Pl+Ill+InDef:%>с K ;
-+N+Sg+Ill:%>з OBLIQUECX-PX-osh ; 
-+N+Pl+Ill:%>з OBLIQUECX-PX-osh ;
-+N+Sg+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
-+N+Pl+Ine:%>сО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
-+N+Pl+Ela:%>стО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
-+N+Pl+Abe:%>фтомО1 Choose-INDEF-OBLPX-kal ;
-+N+Sg+Tra+InDef:%>кс K ;
-+N+Pl+Tra+InDef:%>кс K ;
-+N+Sg+Comp:%>шка Choose-INDEF-OBLPX-kal ;
-+N+Pl+Comp:%>шка Choose-INDEF-OBLPX-kal ;
-+N+Sg+Prl:%>Г2а Choose-INDEF-OBLPX-kal ;
-+N+Pl+Prl:%>Г2а Choose-INDEF-OBLPX-kal ;
+ SG-NOM ;
+:%>О1 SG-GEN ;
+:%>О1 SG-DAT ;
+:%> SG-ABL ;
+:%> SG-ILL ;
+:%> SG-INE ;
+:%> SG-ELA ;
+:%> SG-ABE ;
+:%> SG-TRA ;
+:%> SG-CMP ;
+:%> SG-PRL ;
+
+:%> PL-NOM ;
+:%>О1 PL-GEN ;
+:%>О1 PL-DAT ;
+:%> PL-ABL ;
+:%> PL-ILL ;
+:%> PL-INE ;
+:%> PL-ELA ;
+:%> PL-ABE ;
+:%> PL-TRA ;
+:%> PL-CMP ;
+:%> PL-PRL ;
 
 !! Definite Sg
-+N+Sg+Nom+Def:%>сь K ;
-+N+Sg+Gen+Def:%>ть K ;
-+N+Sg+Dat+Def:%>ти K ;
+ SGDEFCX ;
 
 !! Definite Pl
-
  PLDEFCX ;
 
 !! Possessor Indices
-+N: PX1SG ;
-+N: PX2SG ;
-+N: PX3SG ;
-+N: PX1PL ;
-+N: PX2PL ;
-+N: PX3PL ;
+:%>О1 PXSG1-Sg ;
+:%> PXSG1-Pl ;
+:%> PX2SG ;
+:%>О1 PX3SG ;
+:%>О1 PX1PL ;
+:%>О1 PX2PL ;
+:%> PX3PL ;
+
+LEXICON SGDEFCX
++Sg+Nom+Def:%>сь K ;
++Sg+Gen+Def:%>ть K ;
++Sg+Dat+Def:%>ти K ;
+
 
 LEXICON PLDEFCX
 +N+Pl+Nom+Def:%>Х1тне K ;
@@ -76,61 +120,128 @@ LEXICON PLDEFCX
 +N+Pl+Dat+Def:%>Х1тне%>О1нди K ;
 
 
-LEXICON PX1SG
-+Sg+Nom+Px1Sg:%>О1зе K ;
-+Sg+Gen+Px1Sg:%>О1зе%>О1нь K ;
-+Sg+Dat+Px1Sg:%>О1зе%>О1нди K ;
-+Sg+Dat+Px1Sg:%>О1з%>ти K ;
+LEXICON PXSG1-Sg
++Sg+Nom+PxSg1:зе K ;
++Sg+Gen+PxSg1:зе%>О1нь K ;
++Sg+Dat+PxSg1:зе%>О1нди K ;
++Sg+Dat+PxSg1:з%>ти K ;
 
-+Pl+Nom+Px1Sg:%>не K ;
-+Pl+Gen+Px1Sg:%>не%>О1нь K ;
-+Pl+Dat+Px1Sg:%>не%>О1нди K ;
+LEXICON PXSG1-Pl
++Pl+Nom+PxSg1:не K ;
++Pl+Gen+PxSg1:не%>О1нь K ;
++Pl+Dat+PxSg1:не%>О1нди K ;
 
-LEXICON PX2SG
-+Sg+Nom+Px2Sg:%>це K ;
-+Sg+Gen+Px2Sg:%>це%>О1нь K ;
-+Sg+Dat+Px2Sg:%>це%>О1нди K ;
+LEXICON PXSG2
++Sg+Nom+PxSg2:це K ;
++Sg+Gen+PxSg2:це%>О1нь K ;
++Sg+Dat+PxSg2:це%>О1нди K ;
++Pl+Nom+PxSg2:тне K ;
++Pl+Gen+PxSg2:тне%>О1нь K ;
++Pl+Dat+PxSg2:тне%>О1нди K ;
 
-+Pl+Nom+Px2Sg:%>тне K ;
-+Pl+Gen+Px2Sg:%>тне%>О1нь K ;
-+Pl+Dat+Px2Sg:%>тне%>О1нди K ;
-
-LEXICON PX3SG
-+Sg+Nom+Px3Sg:%>О1ц K ;
-+Sg+Gen+Px3Sg:%>О1нц K ;
-+Sg+Dat+Px3Sg:%>О1нцты K ;
-
-+Pl+Nom+Px3Sg:%>О1нзО1 K ;
-+Pl+Gen+Px3Sg:%>О1нзО1%>О1н K ;
-+Pl+Dat+Px3Sg:%>О1нзО1%>О1нды K ;
+LEXICON PXSG3
++Sg+Nom+PxSg3:ц K ;
++Sg+Gen+PxSg3:нц K ;
++Sg+Dat+PxSg3:нцты K ;
++Pl+Nom+PxSg3:нзО1 K ;
++Pl+Gen+PxSg3:нзО1%>О1н K ;
++Pl+Dat+PxSg3:нзО1%>О1нды K ;
 
 !!
-LEXICON PX1PL
-+Sg+Nom+Px1Pl:%>О1ньке K ;
-+Sg+Gen+Px1Pl:%>О1ньке%>О1нь K ;
-+Sg+Dat+Px1Pl:%>О1ньке%>О1нди K ;
+LEXICON PXPL1
++Sg+Nom+PxPl1:ньке K ;
++Sg+Gen+PxPl1:ньке%>О1нь K ;
++Sg+Dat+PxPl1:ньке%>О1нди K ;
++Pl+Nom+PxPl1:ньке K ;
++Pl+Gen+PxPl1:ньке%>О1нь K ;
++Pl+Dat+PxPl1:ньке%>О1нди K ;
 
-+Pl+Nom+Px1Pl:%>О1ньке K ;
-+Pl+Gen+Px1Pl:%>О1ньке%>О1нь K ;
-+Pl+Dat+Px1Pl:%>О1ньке%>О1нди K ;
+LEXICON PXPL2
++Sg+Nom+PxPl2:нте K ;
++Sg+Gen+PxPl2:нте%>О1нь K ;
++Sg+Dat+PxPl2:нте%>О1нди K ;
++Pl+Nom+PxPl2:нте K ;
++Pl+Gen+PxPl2:нте%>О1нь K ;
++Pl+Dat+PxPl2:нте%>О1нди K ;
 
-LEXICON PX2PL
-+Sg+Nom+Px2Pl:%>О1нте K ;
-+Sg+Gen+Px2Pl:%>О1нте%>О1нь K ;
-+Sg+Dat+Px2Pl:%>О1нте%>О1нди K ;
+LEXICON PXPL3
++Sg+Nom+PxPl3:снО1 K ;
++Sg+Gen+PxPl3:снО1%>О1н K ;
++Sg+Dat+PxPl3:снО1%>О1нды K ;
++Pl+Nom+PxPl3:снО1 K ;
++Pl+Gen+PxPl3:снО1%>О1н K ;
++Pl+Dat+PxPl3:снО1%>О1нды K ;
 
-+Pl+Nom+Px2Pl:%>О1нте K ;
-+Pl+Gen+Px2Pl:%>О1нте%>О1нь K ;
-+Pl+Dat+Px2Pl:%>О1нте%>О1нди K ;
+!!
+LEXICON SG-NOM
++Sg+Nom+InDef: K ;
 
-LEXICON PX3PL
-+Sg+Nom+Px3Pl:%>снО1 K ;
-+Sg+Gen+Px3Pl:%>снО1%>О1н K ;
-+Sg+Dat+Px3Pl:%>снО1%>О1нды K ;
+LEXICON SG-GEN
++Sg+Gen+InDef:нь K ;
 
-+Pl+Nom+Px3Pl:%>снО1 K ;
-+Pl+Gen+Px3Pl:%>снО1%>О1н K ;
-+Pl+Dat+Px3Pl:%>снО1%>О1нды K ;
+LEXICON SG-DAT
++Sg+Dat+InDef:нди K ;
+
+LEXICON SG-ABL
++Sg+Abl:дО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SG-ILL
++Sg+Ill+InDef:с K ;
++Sg+Ill:з OBLIQUECX-PX-osh ; 
+
+LEXICON SG-INE
++Sg+Ine:сО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SG-ELA
++Sg+Ela:стО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SG-ABE
++Sg+Abe:фтомО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SG-TRA
++Sg+Tra+InDef:кс K ;
+
+LEXICON SG-CMP
++Sg+Comp:шка Choose-INDEF-OBLPX-ava ;
+
+LEXICON SG-PRL
++Sg+Prl:Г2а Choose-INDEF-OBLPX-ava ;
+
+!!!
+LEXICON PL-NOM
++Pl+Nom+InDef:Х1т K ;
+
+LEXICON PL-GEN
++Pl+Gen+InDef:нь K ;
+
+LEXICON PL-DAT
++Pl+Dat+InDef:нди K ;
+
+LEXICON PL-ABL
++Pl+Abl:дО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-ILL
++Pl+Ill+InDef:с K ;
++Pl+Ill:з OBLIQUECX-PX-osh ;
+
+LEXICON PL-INE
++Pl+Ine:сО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-ELA
++Pl+Ela:стО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-ABE
++Pl+Abe:фтомО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-TRA
++Pl+Tra+InDef:кс K ;
+
+LEXICON PL-CMP
++Pl+Comp:шка Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-PRL
++Pl+Prl:Г2а Choose-INDEF-OBLPX-ava ;
+
 
 !!
 LEXICON Choose-INDEF-OBLPX-kal
@@ -156,6 +267,19 @@ LEXICON OBLIQUECX-PX-osh
 +Px1Pl:%>О1нк K ;
 +Px2Pl:%>О1нт K ;
 +Px3Pl:%>О1ст K ;
+
+!!
+LEXICON Choose-INDEF-OBLPX-ava
++InDef: K ;
+ OBLIQUECX-PX-ava ;
+
+LEXICON OBLIQUECX-PX-ava
++Px1Sg:%>н K ;
++Px2Sg:%>т K ;
++Px3Sg:%>нзО1 K ;
++Px1Pl:%>нк K ;
++Px2Pl:%>нт K ;
++Px3Pl:%>ст K ;
 
 
 ! vim: set ft=xfst-lexc:
