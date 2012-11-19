@@ -43,11 +43,11 @@ LEXICON N-ava_01
 !! Possessor Indices
 :%> PXSG1-Sg ;
 :%> PXSG1-Pl ;
-:%> PX2SG ;
-:%> PX3SG ;
-:%> PX1PL ;
-:%> PX2PL ;
-:%> PX3PL ;
+:%> PXSG2 ;
+:%> PXSG3 ;
+:%> PXPL1 ;
+:%> PXPL2 ;
+:%> PXPL3 ;
 
 
 LEXICON N-ofta
@@ -102,11 +102,11 @@ LEXICON N-kal_01
 !! Possessor Indices
 :%>О1 PXSG1-Sg ;
 :%> PXSG1-Pl ;
-:%> PX2SG ;
-:%>О1 PX3SG ;
-:%>О1 PX1PL ;
-:%>О1 PX2PL ;
-:%> PX3PL ;
+:%> PXSG2 ;
+:%>О1 PXSG3 ;
+:%>О1 PXPL1 ;
+:%>О1 PXPL2 ;
+:%> PXPL3 ;
 
 LEXICON SGDEFCX
 +Sg+Nom+Def:%>сь K ;
