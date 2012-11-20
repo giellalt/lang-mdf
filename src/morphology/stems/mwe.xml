@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry exclude="fst">
+   <e exclude="fst">
       <lg>
          <l>пачк ваймяй пакся</l>
          <stg>
@@ -19,8 +19,8 @@
             <t>kesanto.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>андомс-симдемс</l>
          <stg>
@@ -37,8 +37,8 @@
             <t>kestitä.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>касфнемс-аннемс</l>
          <stg>
@@ -55,8 +55,8 @@
             <t>kasvattaa.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>юмамс-арамс</l>
          <stg>
@@ -78,8 +78,8 @@
             <xt lang="fin">menee hukkaan.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>ахиемс-охиемс</l>
          <stg>
@@ -96,8 +96,8 @@
             <t>valitella, päivitellä.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>цяпафтомс-лапафтомс</l>
          <stg>
@@ -114,8 +114,8 @@
             <t>hakata, piestä.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>шачемс-касомс</l>
          <stg>
@@ -132,8 +132,8 @@
             <t>kasvaa, varttua.</t>
          </tg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>ванондомс-кочксемс</l>
          <stg>
@@ -155,8 +155,8 @@
             <xt lang="fin">hän perehtyy aina kaikkiin yksityiskohtiin.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry exclude="fst">
+   </e>
+   <e exclude="fst">
       <lg>
          <l>гулдоргодомс-галдоргодомс</l>
          <stg>
@@ -178,5 +178,5 @@
             <xt lang="fin">rymisi, rämisi.</xt>
          </xg>
       </mg>
-   </entry>
+   </e>
 </r>

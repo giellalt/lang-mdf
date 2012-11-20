@@ -2,14 +2,14 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>а</l>
          <stg>
-            <st Contlex="InterjTag">а</st>
+            <st Contlex="CsTag">а</st>
          </stg>
       </lg>
-      <pos>CC</pos>
+      <pos>CS</pos>
       <phonet>a</phonet>
       <mg>
          <m>
@@ -24,8 +24,8 @@
             <xt lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>и</l>
          <stg>
@@ -47,8 +47,8 @@
             <xt lang="fin">suorastaan.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>но</l>
          <stg>
@@ -65,8 +65,8 @@
             <t>mutta, vaan</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ну</l>
          <stg>
@@ -93,8 +93,8 @@
             <xt lang="fin">pian nyt!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пежеть</l>
          <stg>
@@ -111,8 +111,8 @@
             <t>totta tosiaan, totta vie, totisesti</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эй</l>
          <stg>
@@ -139,8 +139,8 @@
             <xt lang="fin">suurin.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>а</l>
          <stg>
@@ -162,8 +162,8 @@
             <xt lang="fin">ahaa, nyt ymmärrän!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аде</l>
          <stg>
@@ -185,8 +185,8 @@
             <xt lang="fin">tule mukaamme!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ай</l>
          <stg>
@@ -208,8 +208,8 @@
             <xt lang="fin">oi voi!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>айда</l>
          <stg>
@@ -226,8 +226,8 @@
             <t>tulkaa!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>аха</l>
          <stg>
@@ -244,8 +244,8 @@
             <t>ahaa!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бавак</l>
          <stg>
@@ -262,8 +262,8 @@
             <t>nuku! (lapsenkieltä)</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>баву, баву</l>
          <stg>
@@ -280,8 +280,8 @@
             <t>tuudittelusana</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вай</l>
          <stg>
@@ -303,8 +303,8 @@
             <xt lang="fin">miksipä ei, miksei.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ворь(х)ть</l>
          <stg>
@@ -321,8 +321,8 @@
             <t>pois! hus! häivy! painu tiehesi!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>каба</l>
          <stg>
@@ -349,8 +349,8 @@
             <xt lang="fin">kunhan en myöhästyisi.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кшу</l>
          <stg>
@@ -367,8 +367,8 @@
             <t>hus!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ожу</l>
          <stg>
@@ -385,8 +385,8 @@
             <t>seis!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ой</l>
          <stg>
@@ -403,8 +403,8 @@
             <t>oi! voi!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ох</l>
          <stg>
@@ -426,8 +426,8 @@
             <xt lang="fin">oivoi!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ошка</l>
          <stg>
@@ -444,8 +444,8 @@
             <t>odotahan!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пандя</l>
          <stg>
@@ -472,8 +472,8 @@
             <xt lang="fin">älä enää odota!</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>прощай</l>
          <stg>
@@ -490,8 +490,8 @@
             <t>hyvästi!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>трр</l>
          <stg>
@@ -508,8 +508,8 @@
             <t>pruu!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тьфу</l>
          <stg>
@@ -526,8 +526,8 @@
             <t>hyi!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ура</l>
          <stg>
@@ -544,8 +544,8 @@
             <t>hurraa!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уф</l>
          <stg>
@@ -562,8 +562,8 @@
             <t>voi! oih!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>фу</l>
          <stg>
@@ -580,8 +580,8 @@
             <t>hyi!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хм</l>
          <stg>
@@ -598,8 +598,8 @@
             <t>hm!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>цыц</l>
          <stg>
@@ -616,8 +616,8 @@
             <t>hys! hiljaa!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>цю</l>
          <stg>
@@ -634,8 +634,8 @@
             <t>hys!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эй</l>
          <stg>
@@ -652,8 +652,8 @@
             <t>hoi! hei!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эк</l>
          <stg>
@@ -670,8 +670,8 @@
             <t>kas!, kappas!</t>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эрь</l>
          <stg>
@@ -698,8 +698,8 @@
             <xt lang="fin">otapa ja kirjoita kirje.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>юркшт</l>
          <stg>
@@ -721,8 +721,8 @@
             <xt lang="fin">hypähtää äkisti.</xt>
          </xg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>брысь</l>
          <stg>
@@ -739,8 +739,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>бя</l>
          <stg>
@@ -757,8 +757,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вон</l>
          <stg>
@@ -775,8 +775,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ворьть</l>
          <stg>
@@ -793,8 +793,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ворьхть</l>
          <stg>
@@ -811,8 +811,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>възы</l>
          <stg>
@@ -829,8 +829,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вяць-вяць</l>
          <stg>
@@ -847,8 +847,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>вяця-вяця</l>
          <stg>
@@ -865,8 +865,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гоп</l>
          <stg>
@@ -883,8 +883,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>гопля</l>
          <stg>
@@ -901,8 +901,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>зерьрь</l>
          <stg>
@@ -919,8 +919,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кусь-кусь</l>
          <stg>
@@ -937,8 +937,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>куть-куть</l>
          <stg>
@@ -955,8 +955,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>кутя-кутя</l>
          <stg>
@@ -973,8 +973,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>късь-късь</l>
          <stg>
@@ -991,8 +991,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>псянк-псянк</l>
          <stg>
@@ -1009,8 +1009,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>пъс-пъс</l>
          <stg>
@@ -1027,8 +1027,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>сюк</l>
          <stg>
@@ -1045,8 +1045,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тъпру</l>
          <stg>
@@ -1063,8 +1063,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тъсс</l>
          <stg>
@@ -1081,8 +1081,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тыр</l>
          <stg>
@@ -1099,8 +1099,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>тютю-люлю</l>
          <stg>
@@ -1117,8 +1117,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>у</l>
          <stg>
@@ -1135,8 +1135,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>улефтяряй</l>
          <stg>
@@ -1153,8 +1153,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>урю-урю</l>
          <stg>
@@ -1171,8 +1171,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>уть-уть-уть</l>
          <stg>
@@ -1189,8 +1189,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>ух</l>
          <stg>
@@ -1207,8 +1207,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>хъм</l>
          <stg>
@@ -1225,8 +1225,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>цып-цып</l>
          <stg>
@@ -1243,8 +1243,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чу</l>
          <stg>
@@ -1261,8 +1261,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>чур</l>
          <stg>
@@ -1279,8 +1279,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>э</l>
          <stg>
@@ -1297,8 +1297,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эдок</l>
          <stg>
@@ -1315,8 +1315,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эх</l>
          <stg>
@@ -1333,8 +1333,8 @@
             <t/>
          </tg>
       </mg>
-   </entry>
-   <entry>
+   </e>
+   <e>
       <lg>
          <l>эхе</l>
          <stg>
@@ -1351,5 +1351,5 @@
             <t/>
          </tg>
       </mg>
-   </entry>
+   </e>
 </r>
