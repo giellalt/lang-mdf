@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
          <l>ардозь</l>
@@ -11,16 +11,14 @@
       </lg>
       <pos>GER</pos>
       <phonet>ardəź</phonet>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="fin">
-               <t>laukaten, kiirehtien.</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>laukaten, kiirehtien.</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -31,16 +29,14 @@
       </lg>
       <pos>GER</pos>
       <phonet>kenərdaź</phonet>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="fin">
-               <t>kiireessä, kiireisesti.</t>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>kiireessä, kiireisesti.</t>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -51,21 +47,19 @@
       </lg>
       <pos>GER</pos>
       <phonet>veťənʒaź</phonet>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="fin">
-               <t>viidellä säikeellä</t>
-            </tg>
-            <xg>
-               <x>ветензазь понамс</x>
-               <phonet>veťənʒaź ponams</phonet>
-               <xt lang="fin">punoa viidellä säikeellä.</xt>
-            </xg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>viidellä säikeellä</t>
+         </tg>
+         <xg>
+            <x>ветензазь понамс</x>
+            <phonet>veťənʒaź ponams</phonet>
+            <xt lang="fin">punoa viidellä säikeellä.</xt>
+         </xg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -75,17 +69,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -95,17 +87,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -115,17 +105,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -135,17 +123,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -155,17 +141,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -175,17 +159,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -195,17 +177,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -215,17 +195,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -235,17 +213,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -255,17 +231,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -275,17 +249,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -295,17 +267,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -315,17 +285,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -335,17 +303,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -355,17 +321,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -375,17 +339,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -395,17 +357,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -415,17 +375,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -435,17 +393,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -455,17 +411,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -475,17 +429,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -495,17 +447,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -515,17 +465,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -535,17 +483,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -555,17 +501,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -575,17 +519,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -595,17 +537,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -615,17 +555,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -635,17 +573,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -655,17 +591,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -675,17 +609,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -695,17 +627,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -715,17 +645,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -735,17 +663,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -755,17 +681,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -775,17 +699,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -795,17 +717,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -815,17 +735,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -835,17 +753,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -855,17 +771,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -875,17 +789,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -895,17 +807,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -915,17 +825,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -935,17 +843,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -955,17 +861,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -975,17 +879,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -995,17 +897,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1015,17 +915,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1035,17 +933,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1055,17 +951,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1075,17 +969,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1095,17 +987,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1115,17 +1005,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1135,17 +1023,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1155,17 +1041,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1175,17 +1059,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1195,17 +1077,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1215,17 +1095,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1235,17 +1113,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1255,17 +1131,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1275,17 +1149,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1295,17 +1167,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1315,17 +1185,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1335,17 +1203,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1355,17 +1221,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1375,17 +1239,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1395,17 +1257,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1415,17 +1275,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1435,17 +1293,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1455,17 +1311,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1475,17 +1329,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1495,17 +1347,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1515,17 +1365,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1535,17 +1383,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1555,17 +1401,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1575,17 +1419,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1595,17 +1437,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1615,17 +1455,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1635,17 +1473,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1655,17 +1491,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1675,17 +1509,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1695,17 +1527,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1715,17 +1545,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1735,17 +1563,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1755,17 +1581,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1775,17 +1599,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1795,17 +1617,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1815,17 +1635,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1835,17 +1653,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1855,17 +1671,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1875,17 +1689,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1895,17 +1707,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1915,17 +1725,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1935,17 +1743,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1955,17 +1761,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1975,17 +1779,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -1995,17 +1797,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2015,17 +1815,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2035,17 +1833,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2055,17 +1851,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2075,17 +1869,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2095,17 +1887,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2115,17 +1905,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2135,17 +1923,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2155,17 +1941,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2175,17 +1959,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2195,17 +1977,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2215,17 +1995,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2235,17 +2013,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2255,17 +2031,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2275,17 +2049,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2295,17 +2067,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2315,17 +2085,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2335,17 +2103,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2355,17 +2121,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2375,17 +2139,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2395,17 +2157,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2415,17 +2175,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2435,17 +2193,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2455,17 +2211,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2475,17 +2229,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2495,17 +2247,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2515,17 +2265,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2535,17 +2283,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2555,17 +2301,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2575,17 +2319,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2595,17 +2337,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2615,17 +2355,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2635,17 +2373,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2655,17 +2391,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2675,17 +2409,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2695,17 +2427,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2715,17 +2445,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2735,17 +2463,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2755,17 +2481,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2775,17 +2499,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2795,17 +2517,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2815,17 +2535,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2835,17 +2553,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2855,17 +2571,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2875,17 +2589,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2895,17 +2607,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2915,17 +2625,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2935,17 +2643,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2955,17 +2661,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2975,17 +2679,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -2995,17 +2697,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3015,17 +2715,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3035,17 +2733,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3055,17 +2751,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3075,17 +2769,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3095,17 +2787,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3115,17 +2805,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3135,17 +2823,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3155,17 +2841,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3175,17 +2859,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3195,17 +2877,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3215,17 +2895,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3235,17 +2913,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3255,17 +2931,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3275,17 +2949,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3295,17 +2967,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3315,17 +2985,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3335,17 +3003,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3355,17 +3021,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3375,17 +3039,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3395,17 +3057,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3415,17 +3075,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3435,17 +3093,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3455,17 +3111,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3475,17 +3129,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3495,17 +3147,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3515,17 +3165,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3535,17 +3183,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3555,17 +3201,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3575,17 +3219,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3595,17 +3237,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3615,17 +3255,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3635,17 +3273,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3655,17 +3291,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3675,17 +3309,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3695,17 +3327,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3715,17 +3345,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3735,17 +3363,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3755,17 +3381,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3775,17 +3399,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3795,17 +3417,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3815,17 +3435,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3835,17 +3453,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3855,17 +3471,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3875,17 +3489,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3895,17 +3507,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3915,17 +3525,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3935,17 +3543,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3955,17 +3561,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3975,17 +3579,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -3995,17 +3597,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4015,17 +3615,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4035,17 +3633,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4055,17 +3651,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4075,17 +3669,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4095,17 +3687,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4115,17 +3705,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4135,17 +3723,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4155,17 +3741,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4175,17 +3759,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4195,17 +3777,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4215,17 +3795,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4235,17 +3813,15 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
    <entry>
       <lg>
@@ -4255,16 +3831,14 @@
          </stg>
       </lg>
       <pos>GER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-               <defNative/>
-            </m>
-            <tg lang="fin">
-               <t/>
-            </tg>
-         </mg>
-      </e>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
    </entry>
 </r>
