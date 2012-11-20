@@ -62,7 +62,10 @@ LEXICON N-pula
 :%>О2 N-ava ;
 
 LEXICON N-osh
- N-kal ;
++N: N-osh_01 ;
+
+LEXICON N-osh_01
+ N-kal_01 ;
 
 LEXICON N-kal
 +N: N-kal_01 ;

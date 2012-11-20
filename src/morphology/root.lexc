@@ -133,7 +133,7 @@ LEXICON Root
   Acronym		;
   Abbreviation		;
   Punctuation	;
-
+ urj-Cyrl-ProperNouns ;
 
 ! ======================================================= !
 ! These lexica are for parts of speech without morphology !
@@ -189,10 +189,10 @@ LEXICON TempTag
 LEXICON ConjTag
 #;
 
-LEXICON Cc
+LEXICON CcTag
 +CC: # ;
 
-LEXICON Cs
+LEXICON CsTag
 +CS: # ;
 
 
