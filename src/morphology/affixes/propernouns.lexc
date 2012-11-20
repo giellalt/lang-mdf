@@ -3,9 +3,171 @@
 !! The UNDEFINED language proper nouns inflect in the same cases as regular
 !! nouns, but with a colon (':') as separator.
 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! Male given name for deriving patronyms !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Андрей:Андре
+LEXICON PropNameMaleDer-J-0Evich
++Orth/Colloq:ич Prop-PatrMal-osh ;
+:евич Prop-PatrMal-osh ;
+:евна Prop-PatrFem-kudo ;
+:й Prop-Mal-kal ;
+
+LEXICON PropNameMaleDer-IJ-Y0Evich
++Orth/Colloq:ьич Prop-PatrMal-osh ;
+:ьевич Prop-PatrMal-osh ;
+:ьевна Prop-PatrFem-kudo ;
+:ий Prop-Mal-kal ;
+
+LEXICON PropNameMaleDer-IJ-I0Evich
++Orth/Colloq:ьич Prop-PatrMal-osh ;
+:иевич Prop-PatrMal-osh ;
+:иевна Prop-PatrFem-kudo ;
+:ий Prop-Mal-kal ;
+
+LEXICON PropNameMaleDer-Y-0Evich
++Orth/Colloq:ич Prop-PatrMal-osh ;
+:евич Prop-PatrMal-osh ;
+:евна Prop-PatrFem-kudo ;
+:ь Prop-Mal-kal ;
+
+!! Вили:Вил
+LEXICON PropNameMaleDer-I-YEvich
++Orth/Colloq:ич Prop-PatrMal-osh ;
+:ьевич Prop-PatrMal-osh ;
+:ьевна Prop-PatrFem-kudo ;
+:и Prop-Mal-kal ;
+
+
+LEXICON PropNameMaleDer-Ovich
++Orth/Colloq:ыч Prop-PatrMal-osh ;
+:ович Prop-PatrMal-osh ;
+:овна Prop-PatrFem-kudo ;
+ Prop-Mal-kal ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Russian type Surnames !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Абдеев:Абдеев
+LEXICON Deriv-RUS-V-surmal
+: PropSurMal-kal ;
+:а PropSurFem-kudo ;
+
+!! Багрий:Багр
+LEXICON Deriv-RUS-IJ-surmal
+:ий PropSurMal-kal ;
+:яя PropSurFem-kudo ;
+
+!! Аморский:Аморск
+LEXICON Deriv-RUS-KIJ-surmal
+:ий PropSurMal-kal ;
+:ая PropSurFem-kudo ;
+
+LEXICON Deriv-RUS-OJ-surmal
+:ой PropSurMal-kal ;
+:ая PropSurFem-kudo ;
+
+LEXICON Deriv-RUS-YJ-surmal
+:ый PropSurMal-kal ;
+:ая PropSurFem-kudo ;
+
+LEXICON Deriv-RUS-AN-surmal
+ Deriv-RUS-V-surmal ;
+
+LEXICON Deriv-RUS-IN-surmal
+ Deriv-RUS-V-surmal ;
+
+
+LEXICON PropSurMal-kal
++N+Prop+Sur+Mal: N-kal_01 ;
+!+N+Prop+Sur+Mal: kal-N-Derivation ;
+!+N+Prop+Sur+Mal: kal-N-Def-Declension ;
+!+N+Prop+Sur+Mal: kal-Indef-Declension ;
+!+N+Prop+Sur+Mal: kal-N-Poss-Declension-CX ;
+
+LEXICON PropSurFem-kudo
++N+Prop+Sur+Fem: N-ava_01 ;
+!+N+Prop+Sur+Fem: kudo-N-Derivation ;
+!+N+Prop+Sur+Fem: kudo-N-Def-Declension ;
+!+N+Prop+Sur+Fem: kudo-Indef-Declension ;
+!+N+Prop+Sur+Fem: kudo-N-Poss-Declension-CX ;
+
+LEXICON CYRL-Cons-sur
+ PropSur-kal ;
+
+LEXICON PropSur-kal
++N+Prop+Sur: N-kal_01 ;
+!+N+Prop+Sur: kal-N-Derivation ;
+!+N+Prop+Sur: kal-N-Def-Declension ;
+!+N+Prop+Sur: kal-Indef-Declension ;
+!+N+Prop+Sur: kal-N-Poss-Declension-CX ;
+
+LEXICON CYRL-T-sur
+ PropSur-kit ;
+
+LEXICON PropSur-kit
+ PropSur-kal ;
+
+LEXICON CYRL-K-sur
+ PropSur-lak ;
+
+LEXICON PropSur-lak
+ PropSur-kal ;
+
+LEXICON CYRL-Sibilant-sur
+ PropSur-osh ;
+
+LEXICON PropSur-osh
++N+Prop+Sur: N-osh_01 ;
+!+N+Prop+Sur: osh-N-Derivation ;
+!+N+Prop+Sur: osh-N-Def-Declension ;
+!+N+Prop+Sur: osh-Indef-Declension ;
+!+N+Prop+Sur: osh-N-Poss-Declension-CX ;
+
+LEXICON CYRL-Vow-sur
+ PropSur-kudo ;
+
+LEXICON CYRL-A-sur
+ PropSur-kudo ;
+
+LEXICON PropSur-kudo
++N+Prop+Sur: N-ava_01 ;
+!+N+Prop+Sur: kudo-N-Derivation ;
+!+N+Prop+Sur: kudo-N-Def-Declension ;
+!+N+Prop+Sur: kudo-Indef-Declension ;
+!+N+Prop+Sur: kudo-N-Poss-Declension-CX ;
+
+LEXICON Prop-Mal-kal
++N+Prop+Mal: N-kal_01 ;
+!+N+Prop+Mal: kal-N-Derivation ;
+!+N+Prop+Mal: kal-N-Def-Declension ;
+!+N+Prop+Mal: kal-Indef-Declension ;
+!+N+Prop+Mal: kal-N-Poss-Declension-CX ;
+
+LEXICON Prop-PatrMal-osh
++N+Prop+Patr+Mal: N-osh_01 ;
+!+N+Prop+Patr+Mal: osh-N-Derivation ;
+!+N+Prop+Patr+Mal: osh-N-Def-Declension ;
+!+N+Prop+Patr+Mal: osh-Indef-Declension ;
+!+N+Prop+Patr+Mal: osh-N-Poss-Declension-CX ;
+
+LEXICON Prop-PatrFem-kudo
++N+Prop+Patr+Mal: N-ava_01 ;
+!+N+Prop+Patr+Fem: kudo-N-Derivation ;
+!+N+Prop+Patr+Fem: kudo-N-Def-Declension ;
+!+N+Prop+Patr+Fem: kudo-Indef-Declension ;
+!+N+Prop+Patr+Fem: kudo-N-Poss-Declension-CX ;
+
+
+
+
 !!!!!!!!!!!!!!!!!!
 !! PROPER NOUNS !!
 !!!!!!!!!!!!!!!!!!
+
+
+
 LEXICON PROP
 #;
 
@@ -15,6 +177,7 @@ LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 :%: PROP ;
 :%- PROP ;
 :%' PROP ;
+
 
 
 
