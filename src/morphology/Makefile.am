@@ -23,6 +23,7 @@ GT_LEXC_SRCS=\
 			 stems/abbr.lexc \
 			 stems/acro.lexc \
 			 stems/punct.lexc \
+			 stems/urj-Cyrl-propernouns.lexc \
 			 affixes/adjectives.lexc \
 			 affixes/nouns.lexc \
 			 affixes/pronouns.lexc \
