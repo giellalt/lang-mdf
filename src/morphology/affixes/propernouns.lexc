@@ -51,26 +51,26 @@ LEXICON PropNameMaleDer-Ovich
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Абдеев:Абдеев
 LEXICON Deriv-RUS-V_surmal
-: PropSurMal-kal ;
-:а PropSurFem-kudo ;
+: Prop-kal_surmal ;
+:а Prop-kudo_surfem ;
 
 !! Багрий:Багр
 LEXICON Deriv-RUS-IJ_surmal
-:ий PropSurMal-kal ;
-:яя PropSurFem-kudo ;
+:ий Prop-kal_surmal ;
+:яя Prop-kudo_surfem ;
 
 !! Аморский:Аморск
 LEXICON Deriv-RUS-KIJ_surmal
-:ий PropSurMal-kal ;
-:ая PropSurFem-kudo ;
+:ий Prop-kal_surmal ;
+:ая Prop-kudo_surfem ;
 
 LEXICON Deriv-RUS-OJ_surmal
-:ой PropSurMal-kal ;
-:ая PropSurFem-kudo ;
+:ой Prop-kal_surmal ;
+:ая Prop-kudo_surfem ;
 
 LEXICON Deriv-RUS-YJ_surmal
-:ый PropSurMal-kal ;
-:ая PropSurFem-kudo ;
+:ый Prop-kal_surmal ;
+:ая Prop-kudo_surfem ;
 
 LEXICON Deriv-RUS-AN_surmal
  Deriv-RUS-V_surmal ;
@@ -79,20 +79,20 @@ LEXICON Deriv-RUS-IN_surmal
  Deriv-RUS-V_surmal ;
 
 
-LEXICON PropSurMal-kal
+LEXICON Prop-kal_surmal
 +N+Prop+Sur+Mal: N-kal_01 ;
 !+N+Prop+Sur+Mal: kal-N-Derivation ;
 !+N+Prop+Sur+Mal: kal-N-Def-Declension ;
 !+N+Prop+Sur+Mal: kal-Indef-Declension ;
 !+N+Prop+Sur+Mal: kal-N-Poss-Declension-CX ;
 
-LEXICON PropSurFem-kudo
+LEXICON Prop-kudo_surfem
 +N+Prop+Sur+Fem: N-ava_01 ;
 
 LEXICON CYRL-Cons_sur
- PropSur-kal ;
+ Prop-kal_sur ;
 
-LEXICON PropSur-kal
+LEXICON Prop-kal_sur
 +N+Prop+Sur: N-kal_01 ;
 !+N+Prop+Sur: kal-N-Derivation ;
 !+N+Prop+Sur: kal-N-Def-Declension ;
@@ -100,21 +100,21 @@ LEXICON PropSur-kal
 !+N+Prop+Sur: kal-N-Poss-Declension-CX ;
 
 LEXICON CYRL-T_sur
- PropSur-kit ;
+ Prop-kit_sur ;
 
-LEXICON PropSur-kit
- PropSur-kal ;
+LEXICON Prop-kit_sur
+ Prop-kal_sur ;
 
 LEXICON CYRL-K_sur
- PropSur-lak ;
+ Prop-lak_sur ;
 
-LEXICON PropSur-lak
- PropSur-kal ;
+LEXICON Prop-lak_sur
+ Prop-kal_sur ;
 
 LEXICON CYRL-Sibilant_sur
- PropSur-osh ;
+ Prop-osh_sur ;
 
-LEXICON PropSur-osh
+LEXICON Prop-osh_sur
 +N+Prop+Sur: N-osh_01 ;
 !+N+Prop+Sur: osh-N-Derivation ;
 !+N+Prop+Sur: osh-N-Def-Declension ;
@@ -122,16 +122,29 @@ LEXICON PropSur-osh
 !+N+Prop+Sur: osh-N-Poss-Declension-CX ;
 
 LEXICON CYRL-Vow_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
 LEXICON CYRL-A_sur
- PropSur-kudo ;
+ Prop-kudo_sur ;
 
-LEXICON PropSur-kudo
+LEXICON Prop-kudo_sur
 +N+Prop+Sur: N-ava_01 ;
 
 LEXICON Prop-kal_mal
 +N+Prop+Mal: N-kal_01 ;
+
+LEXICON Prop-lak_mal
++N+Prop+Mal: N-kal_01 ;
+
+LEXICON Prop-kit_mal
++N+Prop+Mal: N-kal_01 ;
+
+LEXICON Prop-osh_mal
++N+Prop+Mal: N-osh_01 ;
+
+LEXICON Prop-kudo_mal
++N+Prop+Mal: N-ava_01 ;
+
 
 LEXICON Prop-osh_patrMal
 +N+Prop+Patr+Mal: N-osh_01 ;
@@ -168,6 +181,21 @@ LEXICON Prop-pango_fem
 LEXICON Prop-kudo_fem
 +N+Prop+Fem: N-ava_01 ;
 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! PLACE NAMES FROM TEMPLATES !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Prop-kal_plc
++N+Prop+Plc: N-kal_01 ;
+
+LEXICON Prop-kit_plc
++N+Prop+Plc: N-kal_01 ;
+
+LEXICON Prop-osh_plc
++N+Prop+Plc: N-osh_01 ;
+
+LEXICON Prop-kudo_plc
++N+Prop+Plc: N-ava_01 ;
 
 
 

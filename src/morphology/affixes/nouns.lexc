@@ -252,24 +252,24 @@ LEXICON Choose-INDEF-OBLPX-kal
  OBLIQUECX-PX-kal ;
 
 LEXICON OBLIQUECX-PX-kal
-+Px1Sg:%>О1н K ;
-+Px2Sg:%>т K ;
-+Px3Sg:%>О1нзО1 K ;
-+Px1Pl:%>О1нк K ;
-+Px2Pl:%>О1нт K ;
-+Px3Pl:%>ст K ;
++PxSg1:%>О1н K ;
++PxSg2:%>т K ;
++PxSg3:%>О1нзО1 K ;
++PxPl1:%>О1нк K ;
++PxPl2:%>О1нт K ;
++PxPl3:%>ст K ;
 
 LEXICON Choose-INDEF-OBLPX-osh
 +InDef: K ;
  OBLIQUECX-PX-osh ;
 
 LEXICON OBLIQUECX-PX-osh
-+Px1Sg:%>О1н K ;
-+Px2Sg:%>т K ;
-+Px3Sg:%>О1нзО1 K ;
-+Px1Pl:%>О1нк K ;
-+Px2Pl:%>О1нт K ;
-+Px3Pl:%>О1ст K ;
++PxSg1:%>О1н K ;
++PxSg2:%>т K ;
++PxSg3:%>О1нзО1 K ;
++PxPl1:%>О1нк K ;
++PxPl2:%>О1нт K ;
++PxPl3:%>О1ст K ;
 
 !!
 LEXICON Choose-INDEF-OBLPX-ava
@@ -277,12 +277,12 @@ LEXICON Choose-INDEF-OBLPX-ava
  OBLIQUECX-PX-ava ;
 
 LEXICON OBLIQUECX-PX-ava
-+Px1Sg:%>н K ;
-+Px2Sg:%>т K ;
-+Px3Sg:%>нзО1 K ;
-+Px1Pl:%>нк K ;
-+Px2Pl:%>нт K ;
-+Px3Pl:%>ст K ;
++PxSg1:%>н K ;
++PxSg2:%>т K ;
++PxSg3:%>нзО1 K ;
++PxPl1:%>нк K ;
++PxPl2:%>нт K ;
++PxPl3:%>ст K ;
 
 
 ! vim: set ft=xfst-lexc:
