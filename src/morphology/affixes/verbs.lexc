@@ -10,7 +10,12 @@ LEXICON VerbTag
 +V: # ;
 
 LEXICON V-avoldams
-+V: # ;
++V+Ind+Prs+ScSg1:н # ;
++V+Ind+Prs+ScSg2:т # ;
++V+Ind+Prs+ScSg3:й # ;
++V+Ind+Prs+ScPl1:тама # ;
++V+Ind+Prs+ScPl2:тада # ;
++V+Ind+Prs+ScPl3:йхть # ;
 +V:%> Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
