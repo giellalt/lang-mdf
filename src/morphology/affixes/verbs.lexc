@@ -10,31 +10,39 @@ LEXICON VerbTag
 +V: # ;
 
 LEXICON V-avoldams
-+V+Ind+Prs+ScSg1:н # ;
-+V+Ind+Prs+ScSg2:т # ;
-+V+Ind+Prs+ScSg3:й # ;
-+V+Ind+Prs+ScPl1:тама # ;
-+V+Ind+Prs+ScPl2:тада # ;
-+V+Ind+Prs+ScPl3:йхть # ;
++V+Ind+Prs: PENUPRES ;
 +V:%> Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andoms
++V+Ind+Prs: PENUPRES ;
++V+Ind+Cond+Prs:ndär PENUPRES ;
++V+Ind+Prt1: PENUPRET1 ;
++V+Ind+Cond+Prt1:ndär PENUPRET1 ;
++V+Imp: IMPPENU ;
++V+Optat: OPTATPENU ;
++V+Ind+Prt2: PENUPRET2 ;
++V+Conj: PENUPRET2 ;
++V+Cond-Conj:ndärä PENUPRET2 ;
++V+Desider:lekso PENUPRET2 ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-njaftems
++V+Ind+Prs: PENUPRES ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-alyjaftoms
++V+Ind+Prs: PENUPRES ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andovoms
++V+Ind+Prs: PENUPRES ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
@@ -45,6 +53,45 @@ LEXICON Non-Finite-Vws
 
 LEXICON Non-Finite-Cns
 +PrtPrc:%^Devoice%>ф K ;
+
+
+! finiitit
+
+LEXICON PENUPRES
++ScSg1:н # ;
++ScSg2:т # ;
++ScSg3:й # ;
++ScPl1:тама # ;
++ScPl2:тада # ;
++ScPl3:йхть # ;
+
+LEXICON PENUPRET1
++ScSg1:нь # ;
++ScSg2:ть # ;
++ScSg3:сь # ;
++ScPl1:ме # ;
++ScPl2:де # ;
++ScPl3:сть # ;
+
+LEXICON PENUPRET2
++ScSg1:лень # ;
++ScSg2:леть # ;
++ScSg3:ль # ;
++ScPl1:леме # ;
++ScPl2:леде # ;
++ScPl3:льхть # ;
+
+LEXICON IMPPENU
++ScSg2:к # ;
++ScPl2:да # ;
+
+LEXICON OPTATPENU
++ScSg1:зан # ;
++ScSg2:зат # ;
++ScSg3:за # ;
++ScPl1:стама # ;
++ScPl2:стада # ;
++ScPl3:ст # ;
 
 !!!!!!!!!!!!!
 !! GERUNDS !!
