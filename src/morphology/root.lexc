@@ -23,6 +23,7 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UNDEFINED language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
++WORK
 
 !! The parts-of-speech are:
  +N +A +Adv +V
@@ -30,7 +31,8 @@ Multichar_Symbols
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
-
+! personal pronouns use additional tags Sg1
+ +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 !! The Usage extents are marked using following tags:
  +Use/Sub   
  +Use/-Spell 
@@ -40,7 +42,7 @@ Multichar_Symbols
  +Abe ! abessive
  +Abl ! ablative
  +Acc ! accusative Not really necessary
- +Com
+ +Com ! comitative
  +Com/Sh
  +Dat ! dative
  +Ela ! elative
@@ -64,7 +66,10 @@ Multichar_Symbols
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
- +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
+! subject conjugation
+ +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
+! object conjugation
+ +OcSg1 +OcSg2 +OcSg3 +OcPl1 +OcPl2 +OcPl3
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
@@ -81,7 +86,7 @@ Multichar_Symbols
 
 !! Question and Focus particles:
  +Qst +Foc
-
+ +Foc/вок
 
 !! Semantics are classified with
  +Mal +Fem +Sur 
@@ -199,7 +204,7 @@ LEXICON TempTag
 
 
 LEXICON ConjTag
-#;
++WORK: #;
 
 LEXICON CcTag
 +CC: # ;
@@ -250,7 +255,7 @@ LEXICON DescrTag
 
 
 LEXICON K
-+Clt/вок+Clt:%>вок  # ; 
++Foc/вок:%>вок  # ; 
        # ; 
 
 
