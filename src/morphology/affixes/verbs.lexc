@@ -28,6 +28,9 @@ LEXICON V-andoms
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
++V+Ind+Prt1: TUPLAPENUPRET1 ;
++V+Ind+Prt2: TUPLAPENUPRET2 ;
++V+Ind+Prs: TUPLAPENUPRES ;
 
 LEXICON V-njaftems
 +V+Ind+Prs: PENUPRES ;
@@ -91,7 +94,100 @@ LEXICON OPTATPENU
 +ScSg3:за # ;
 +ScPl1:стама # ;
 +ScPl2:стада # ;
++ScPl1:зама # ; ! Paasonen +ScPl1+Dial/Paas:зама # ;
++ScPl2:зада # ; ! Paasonen +ScPl2+Dial/Paas:зада # ;
 +ScPl3:ст # ;
+
+LEXICON TUPLAPENUPRES ! OC (double person number)
++ScSg2+OcSg1:самак # ;
++ScSg3+OcSg1:самань # ;
++ScPl2+OcSg1:самасть # ;
++ScSg2+OcPl1:самасть # ;
++ScPl2+OcPl1:самасть # ;
++ScPl3+OcSg1:самазь # ;
++ScSg3+OcPl1:самазь # ;
++ScPl3+OcPl1:самазь # ;
++ScSg1+OcSg2:тянь # ;
++ScSg1+OcSg2:тя # ;
++ScSg3+OcSg2:тядязь # ;
++ScPl1+OcSg2:тядязь # ;
++ScPl3+OcSg2:тядязь # ;
++ScSg1+OcPl2:тядязь # ;
++ScSg3+OcPl2:тядязь # ;
++ScPl1+OcPl2:тядязь # ;
++ScPl3+OcPl2:тядязь # ;
++ScSg1+OcSg3:сан # ;
++ScSg1+OcSg3:са # ;
++ScSg2+OcSg3:сак # ;
++ScSg3+OcSg3:сы # ;
++ScPl1+OcSg3:саськ # ;
++ScPl1+OcPl3:саськ # ;
++ScPl2+OcSg3:састь # ;
++ScPl2+OcPl3:састь # ;
++ScPl3+OcSg3:сазь # ;
++ScPl3+OcPl3:сазь # ;
+
+LEXICON TUPLAPENUPRET1 ! OC (double person number)
++ScSg2+OcSg1:майть # ;
++ScSg3+OcSg1:мань # ;
++ScPl2+OcSg1:масть # ;
++ScSg2+OcPl1:масть # ;
++ScPl2+OcPl1:масть # ;
++ScPl3+OcSg1:мазь # ;
++ScSg3+OcPl1:мазь # ;
++ScPl3+OcPl1:мазь # ;
++ScSg1+OcSg2:йхтень # ;
++ScSg3+OcSg2:нзе # ;
++ScPl1+OcSg2:дязь # ;
++ScPl3+OcSg2:дязь # ;
++ScSg1+OcPl2:дязь # ;
++ScSg3+OcPl2:дязь # ;
++ScPl1+OcPl2:дязь # ;
++ScPl3+OcPl2:дязь # ;
++ScSg1+OcSg3:йне # ;
++ScSg1+OcPl3:йне # ;
++ScSg2+OcSg3:йть # ;
++ScSg2+OcPl3:йть # ;
++ScSg3+OcSg3:зе # ;
++ScSg3+OcPl3:зень # ;
++ScPl1+OcSg3:ськ # ;
++ScPl1+OcPl3:ськ # ;
++ScPl2+OcSg3:сть # ;
++ScPl2+OcPl3:сть # ;
++ScPl3+OcSg3:зь # ;
++ScPl3+OcPl3:зь # ;
+
+LEXICON TUPLAPENUPRET2 ! OC (double person number)
++ScSg2+OcSg1:лемайть # ;
++ScSg3+OcSg1:лемань # ;
++ScPl2+OcSg1:лемасть # ;
++ScSg2+OcPl1:лемасть # ;
++ScPl2+OcPl1:лемасть # ;
++ScPl3+OcSg1:лемазь # ;
++ScSg3+OcPl1:лемазь # ;
++ScPl3+OcPl1:лемазь # ;
++ScSg1+OcSg2:лихтень # ;
++ScSg3+OcSg2:лензе # ;
++ScPl1+OcSg2:ледязь # ;
++ScPl3+OcSg2:ледязь # ;
++ScSg1+OcPl2:ледязь # ;
++ScSg3+OcPl2:ледязь # ;
++ScPl1+OcPl2:ледязь # ;
++ScPl3+OcPl2:ледязь # ;
++ScSg1+OcSg3:лине # ;
++ScSg1+OcPl3:лине # ;
++ScSg2+OcSg3:лить # ;
++ScSg2+OcPl3:лить # ;
++ScSg3+OcSg3:лезе # ;
++ScSg3+OcPl3:лезень # ;
++ScPl1+OcSg3:леськ # ;
++ScPl1+OcPl3:леськ # ;
++ScPl2+OcSg3:лесть # ;
++ScPl2+OcPl3:лесть # ;
++ScPl3+OcSg3:лезь # ;
++ScPl3+OcPl3:лезь # ;
+
+
 
 !!!!!!!!!!!!!
 !! GERUNDS !!
