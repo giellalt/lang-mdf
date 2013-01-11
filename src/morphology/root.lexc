@@ -32,7 +32,8 @@ Multichar_Symbols
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 ! personal pronouns use additional tags Sg1
- +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
+ +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
+ +OcSg1 +OcSg2 +OcSg3 +OcPl1 +OcPl2 +OcPl3
 !! The Usage extents are marked using following tags:
  +Use/Sub   
  +Use/-Spell 
