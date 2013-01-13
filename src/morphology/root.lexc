@@ -32,8 +32,7 @@ Multichar_Symbols
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 ! personal pronouns use additional tags Sg1
- +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
- +OcSg1 +OcSg2 +OcSg3 +OcPl1 +OcPl2 +OcPl3
+ +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 !! The Usage extents are marked using following tags:
  +Use/Sub   
  +Use/-Spell 
@@ -65,21 +64,28 @@ Multichar_Symbols
  +Attr +Card
  +Ord 
 !! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt
+ +Ind +Pot +Cond +Imprt
+!! Verb tenses are
+ +Prs ! present and future
+ +Prt1 ! preterite I
+ +Prt2 ! preterite II
 !! Verb personal forms are:
 ! subject conjugation
  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
 ! object conjugation
  +OcSg1 +OcSg2 +OcSg3 +OcPl1 +OcPl2 +OcPl3
 !! Other verb forms are
- +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
+ +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII
+ +PrsPrc !
+ +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
- +TV +IV
+ +TV ! transitive verb
+ +IV ! intransitive verb
 !! Special multiword units are analysed with:
  +Multi
 !! Non-dictionary words can be recognised with:
