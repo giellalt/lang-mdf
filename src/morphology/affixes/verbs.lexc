@@ -9,14 +9,45 @@
 LEXICON VerbTag
 +V: # ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! OBJECT and SUBJECT VERBS !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON V-avoldams_ObjAll
+ V-avoldams ;
++V+Ind+Prs: PRSOBJCONJ ;
++V+Ind+Prt1: PRT1OBJCONJ ;
++V+Ind+Prr2: PRT2OBJCONJ ;
+
+LEXICON V-andoms_ObjAll
+ V-andoms ;
++V+Ind+Prs: PRSOBJCONJ ;
++V+Ind+Prt1: PRT1OBJCONJ ;
++V+Ind+Prt2: PRT2OBJCONJ ;
+LEXICON V-njaftems_ObjAll
+ V-njaftems ;
++V+Ind+Prs: PRSOBJCONJ ;
++V+Ind+Prt1: PRT1OBJCONJ ;
++V+Ind+Prt2: PRT2OBJCONJ ;
+LEXICON V-alyjaftoms_ObjAll
+ V-alyjaftoms ;
++V+Ind+Prs: PRSOBJCONJ ;
++V+Ind+Prt1: PRT1OBJCONJ ;
++V+Ind+Prt2: PRT2OBJCONJ ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+!! SUBJECT ONLY VERBS !!
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 LEXICON V-avoldams
-+V+Ind+Prs: PENUPRES ;
++V+Ind+Prs: PRSSUBJCONJ ;
 +V:%> Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andoms
-+V+Ind+Prs: PENUPRES ;
-+V+Ind+Cond+Prs:ndär PENUPRES ;
++V+Ind: PRSSUBJCONJ ;
++V+Ind+Cond:ndär PRSSUBJCONJ ;
 +V+Ind+Prt1: PENUPRET1 ;
 +V+Ind+Cond+Prt1:ndär PENUPRET1 ;
 +V+Imp: IMPPENU ;
@@ -28,24 +59,21 @@ LEXICON V-andoms
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
-+V+Ind+Prt1: TUPLAPENUPRET1 ;
-+V+Ind+Prt2: TUPLAPENUPRET2 ;
-+V+Ind+Prs: TUPLAPENUPRES ;
 
 LEXICON V-njaftems
-+V+Ind+Prs: PENUPRES ;
++V+Ind: PRSSUBJCONJ ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-alyjaftoms
-+V+Ind+Prs: PENUPRES ;
++V+Ind: PRSSUBJCONJ ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andovoms
-+V+Ind+Prs: PENUPRES ;
++V+Ind: PRSSUBJCONJ ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
@@ -58,15 +86,15 @@ LEXICON Non-Finite-Cns
 +PrtPrc:%^Devoice%>ф K ;
 
 
-! finiitit
+! Finite forms
 
-LEXICON PENUPRES
-+ScSg1:н # ;
-+ScSg2:т # ;
-+ScSg3:й # ;
-+ScPl1:тама # ;
-+ScPl2:тада # ;
-+ScPl3:йхть # ;
+LEXICON PRSSUBJCONJ
++Prs+ScSg1:н # ;
++Prs+ScSg2:т # ;
++Prs+ScSg3:й # ;
++Prs+ScPl1:тама # ;
++Prs+ScPl2:тада # ;
++Prs+ScPl3:йхть # ;
 
 LEXICON PENUPRET1
 +ScSg1:нь # ;
@@ -98,7 +126,7 @@ LEXICON OPTATPENU
 +ScPl2:зада # ; ! Paasonen +ScPl2+Dial/Paas:зада # ;
 +ScPl3:ст # ;
 
-LEXICON TUPLAPENUPRES ! OC (double person number)
+LEXICON PRSOBJCONJ ! OC (double person number)
 +ScSg2+OcSg1:самак # ;
 +ScSg3+OcSg1:самань # ;
 +ScPl2+OcSg1:самасть # ;
@@ -127,7 +155,7 @@ LEXICON TUPLAPENUPRES ! OC (double person number)
 +ScPl3+OcSg3:сазь # ;
 +ScPl3+OcPl3:сазь # ;
 
-LEXICON TUPLAPENUPRET1 ! OC (double person number)
+LEXICON PRT1OBJCONJ ! OC (double person number)
 +ScSg2+OcSg1:майть # ;
 +ScSg3+OcSg1:мань # ;
 +ScPl2+OcSg1:масть # ;
@@ -157,7 +185,7 @@ LEXICON TUPLAPENUPRET1 ! OC (double person number)
 +ScPl3+OcSg3:зь # ;
 +ScPl3+OcPl3:зь # ;
 
-LEXICON TUPLAPENUPRET2 ! OC (double person number)
+LEXICON PRT2OBJCONJ ! OC (double person number)
 +ScSg2+OcSg1:лемайть # ;
 +ScSg3+OcSg1:лемань # ;
 +ScPl2+OcSg1:лемасть # ;
