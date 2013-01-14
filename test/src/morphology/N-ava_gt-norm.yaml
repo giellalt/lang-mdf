@@ -16,27 +16,27 @@ Tests:
 
 
   Noun - ава: # Ordinary nouns - full paradigm including MWN
-    ава+N+Sg+Nom+Indef: ава
-    ава+N+Sg+Gen+Indef: авань
-    ава+N+Pl+Gen+Indef: авань
-    ава+N+Sg+Abl+Indef: авада
-    ава+N+Pl+Abl+Indef: авада
-    ава+N+Sg+Dat+Indef: аванди
-    ава+N+Pl+Dat+Indef: аванди
-    ава+N+Sg+Abe+Indef: авафтома
-    ава+N+Pl+Abe+Indef: авафтома
-    ава+N+Sg+Comp+Indef: авашка
-    ава+N+Pl+Comp+Indef: авашка
-    ава+N+Sg+Ine+Indef: аваса
-    ава+N+Pl+Ine+Indef: аваса
-    ава+N+Sg+Ela+Indef: аваста
-    ава+N+Pl+Ela+Indef: аваста
-    ава+N+Sg+Ill+Indef: авас
-    ава+N+Pl+Ill+Indef: авас
-    ава+N+Sg+Prl+Indef: авава
-    ава+N+Pl+Prl+Indef: авава
-    ава+N+Sg+Tra+Indef: авакс
-    ава+N+Pl+Tra+Indef: авакс
+    ава+N+Sg+Nom+InDef: ава
+    ава+N+Sg+Gen+InDef: авань
+    ава+N+Pl+Gen+InDef: авань
+    ава+N+Sg+Abl+InDef: авада
+    ава+N+Pl+Abl+InDef: авада
+    ава+N+Sg+Dat+InDef: аванди
+    ава+N+Pl+Dat+InDef: аванди
+    ава+N+Sg+Abe+InDef: авафтома
+    ава+N+Pl+Abe+InDef: авафтома
+    ава+N+Sg+Comp+InDef: авашка
+    ава+N+Pl+Comp+InDef: авашка
+    ава+N+Sg+Ine+InDef: аваса
+    ава+N+Pl+Ine+InDef: аваса
+    ава+N+Sg+Ela+InDef: аваста
+    ава+N+Pl+Ela+InDef: аваста
+    ава+N+Sg+Ill+InDef: авас
+    ава+N+Pl+Ill+InDef: авас
+    ава+N+Sg+Prl+InDef: авава
+    ава+N+Pl+Prl+InDef: авава
+    ава+N+Sg+Tra+InDef: авакс
+    ава+N+Pl+Tra+InDef: авакс
     ава+N+Sg+Nom+PxSg1: авазе
     ава+N+Pl+Nom+PxSg1: аване
     ава+N+Sg+Gen+PxSg1: авазень
@@ -155,7 +155,7 @@ Tests:
     ава+N+Pl+Ill+PxPl3: авазост
     ава+N+Sg+Prl+PxPl3: ававаст
     ава+N+Pl+Prl+PxPl3: ававаст
-    ава+N+Pl+Nom+Indef: ават
+    ава+N+Pl+Nom+InDef: ават
     ава+N+Pl+Nom+PxSg1: аване
     ава+N+Pl+Nom+PxSg3: аванза
     ава+N+Sg+Nom+Def: авась
@@ -164,27 +164,27 @@ Tests:
     ава+N+Pl+Nom+Def: аватне
     ава+N+Pl+Gen+Def: аватнень
     ава+N+Pl+Dat+Def: аватненди
-    ава+N+Sg+Nom+Indef+Clt/вок+Clt: ававок
-    ава+N+Sg+Gen+Indef+Clt/вок+Clt: аваньвок
-    ава+N+Pl+Gen+Indef+Clt/вок+Clt: аваньвок
-    ава+N+Sg+Abl+Indef+Clt/вок+Clt: авадавок
-    ава+N+Pl+Abl+Indef+Clt/вок+Clt: авадавок
-    ава+N+Sg+Dat+Indef+Clt/вок+Clt: авандивок
-    ава+N+Pl+Dat+Indef+Clt/вок+Clt: авандивок
-    ава+N+Sg+Abe+Indef+Clt/вок+Clt: авафтомавок
-    ава+N+Pl+Abe+Indef+Clt/вок+Clt: авафтомавок
-    ава+N+Sg+Comp+Indef+Clt/вок+Clt: авашкавок
-    ава+N+Pl+Comp+Indef+Clt/вок+Clt: авашкавок
-    ава+N+Sg+Ine+Indef+Clt/вок+Clt: авасавок
-    ава+N+Pl+Ine+Indef+Clt/вок+Clt: авасавок
-    ава+N+Sg+Ela+Indef+Clt/вок+Clt: аваставок
-    ава+N+Pl+Ela+Indef+Clt/вок+Clt: аваставок
-    ава+N+Sg+Ill+Indef+Clt/вок+Clt: авасвок
-    ава+N+Pl+Ill+Indef+Clt/вок+Clt: авасвок
-    ава+N+Sg+Prl+Indef+Clt/вок+Clt: авававок
-    ава+N+Pl+Prl+Indef+Clt/вок+Clt: авававок
-    ава+N+Sg+Tra+Indef+Clt/вок+Clt: аваксвок
-    ава+N+Pl+Tra+Indef+Clt/вок+Clt: аваксвок
+    ава+N+Sg+Nom+InDef+Clt/вок+Clt: ававок
+    ава+N+Sg+Gen+InDef+Clt/вок+Clt: аваньвок
+    ава+N+Pl+Gen+InDef+Clt/вок+Clt: аваньвок
+    ава+N+Sg+Abl+InDef+Clt/вок+Clt: авадавок
+    ава+N+Pl+Abl+InDef+Clt/вок+Clt: авадавок
+    ава+N+Sg+Dat+InDef+Clt/вок+Clt: авандивок
+    ава+N+Pl+Dat+InDef+Clt/вок+Clt: авандивок
+    ава+N+Sg+Abe+InDef+Clt/вок+Clt: авафтомавок
+    ава+N+Pl+Abe+InDef+Clt/вок+Clt: авафтомавок
+    ава+N+Sg+Comp+InDef+Clt/вок+Clt: авашкавок
+    ава+N+Pl+Comp+InDef+Clt/вок+Clt: авашкавок
+    ава+N+Sg+Ine+InDef+Clt/вок+Clt: авасавок
+    ава+N+Pl+Ine+InDef+Clt/вок+Clt: авасавок
+    ава+N+Sg+Ela+InDef+Clt/вок+Clt: аваставок
+    ава+N+Pl+Ela+InDef+Clt/вок+Clt: аваставок
+    ава+N+Sg+Ill+InDef+Clt/вок+Clt: авасвок
+    ава+N+Pl+Ill+InDef+Clt/вок+Clt: авасвок
+    ава+N+Sg+Prl+InDef+Clt/вок+Clt: авававок
+    ава+N+Pl+Prl+InDef+Clt/вок+Clt: авававок
+    ава+N+Sg+Tra+InDef+Clt/вок+Clt: аваксвок
+    ава+N+Pl+Tra+InDef+Clt/вок+Clt: аваксвок
     ава+N+Sg+Nom+PxSg1+Clt/вок+Clt: авазевок
     ава+N+Pl+Nom+PxSg1+Clt/вок+Clt: аваневок
     ава+N+Sg+Gen+PxSg1+Clt/вок+Clt: авазеньвок
@@ -303,7 +303,7 @@ Tests:
     ава+N+Pl+Ill+PxPl3+Clt/вок+Clt: авазоствок
     ава+N+Sg+Prl+PxPl3+Clt/вок+Clt: ававаствок
     ава+N+Pl+Prl+PxPl3+Clt/вок+Clt: ававаствок
-    ава+N+Pl+Nom+Indef+Clt/вок+Clt: аватвок
+    ава+N+Pl+Nom+InDef+Clt/вок+Clt: аватвок
     ава+N+Pl+Nom+PxSg1+Clt/вок+Clt: аваневок
     ава+N+Pl+Nom+PxSg3+Clt/вок+Clt: аванзавок
     ава+N+Sg+Nom+Def+Clt/вок+Clt: авасьвок
