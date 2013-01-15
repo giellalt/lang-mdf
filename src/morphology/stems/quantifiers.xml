@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
       <lg>
          <l>васенце</l>
          <stg>
@@ -45,7 +47,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>васця</l>
+         <stg>
+            <st Contlex="NumTag">васця</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вася</l>
+         <stg>
+            <st Contlex="NumTag">вася</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ведьгемонце</l>
+         <stg>
+            <st Contlex="NumTag">ведьгемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ведьгемонь</l>
          <stg>
@@ -68,7 +124,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вейхкса</l>
          <stg>
@@ -101,7 +157,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>вейхксогемонце</l>
+         <stg>
+            <st Contlex="NumTag">вейхксогемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>вейхксогемонь</l>
          <stg>
@@ -119,7 +193,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>вейхксоце</l>
+         <stg>
+            <st Contlex="NumTag">вейхксоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вейхксоцеда</l>
+         <stg>
+            <st Contlex="NumTag">вейхксоцеда</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>вете</l>
          <stg>
@@ -182,7 +292,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ветицьке</l>
+         <stg>
+            <st Contlex="NumTag">ветицьке</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ифке</l>
+         <stg>
+            <st Contlex="NumTag">ифке</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кафкса</l>
          <stg>
@@ -210,7 +356,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кафксогемонце</l>
+         <stg>
+            <st Contlex="NumTag">кафксогемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кафксогемонь</l>
          <stg>
@@ -228,7 +392,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кафксонцт</l>
+         <stg>
+            <st Contlex="NumTag">кафксонцт</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кафксоце</l>
          <stg>
@@ -246,7 +428,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кафонц</l>
          <stg>
@@ -269,7 +451,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кафоньнест</l>
+         <stg>
+            <st Contlex="NumTag">кафоньнест</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафонянек</l>
+         <stg>
+            <st Contlex="NumTag">кафонянек</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафонянест</l>
+         <stg>
+            <st Contlex="NumTag">кафонянест</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кафта</l>
          <stg>
@@ -362,7 +598,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кафтоненк</l>
+         <stg>
+            <st Contlex="NumTag">кафтоненк</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафтонест</l>
+         <stg>
+            <st Contlex="NumTag">кафтонест</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафтонза</l>
+         <stg>
+            <st Contlex="NumTag">кафтонза</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кафтонь</l>
          <stg>
@@ -395,7 +685,79 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кафтоня</l>
+         <stg>
+            <st Contlex="NumTag">кафтоня</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафтыцькя</l>
+         <stg>
+            <st Contlex="NumTag">кафтыцькя</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафтыцькяня</l>
+         <stg>
+            <st Contlex="NumTag">кафтыцькяня</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кафцьке</l>
+         <stg>
+            <st Contlex="NumTag">кафцьке</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кевейхксые</l>
          <stg>
@@ -418,7 +780,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кеветие</l>
          <stg>
@@ -451,7 +813,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кеветицесь</l>
+         <stg>
+            <st Contlex="NumTag">кеветицесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кевехксыцесь</l>
+         <stg>
+            <st Contlex="NumTag">кевехксыцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемгафксува</l>
          <stg>
@@ -469,7 +867,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кемгафксувоце</l>
          <stg>
@@ -487,7 +885,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемгафксуцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемгафксуцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемгафтува</l>
          <stg>
@@ -510,7 +926,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемгафтувоце</l>
+         <stg>
+            <st Contlex="NumTag">кемгафтувоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемгафтуцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемгафтуцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемголмува</l>
          <stg>
@@ -538,7 +990,79 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемголмувоце</l>
+         <stg>
+            <st Contlex="NumTag">кемголмувоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемголмуцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемголмуцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемготоце</l>
+         <stg>
+            <st Contlex="NumTag">кемготоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемготоцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемготоцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемготува</l>
          <stg>
@@ -561,7 +1085,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемготувоце</l>
+         <stg>
+            <st Contlex="NumTag">кемготувоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемготуцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемготуцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кеменькст</l>
+         <stg>
+            <st Contlex="NumTag">кеменькст</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемзисемге</l>
          <stg>
@@ -584,7 +1162,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемзисемгоце</l>
+         <stg>
+            <st Contlex="NumTag">кемзисемгоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемзисемцесь</l>
+         <stg>
+            <st Contlex="NumTag">кемзисемцесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемнилие</l>
          <stg>
@@ -607,7 +1221,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кемнилицесь</l>
+         <stg>
+            <st Contlex="NumTag">кемнилицесь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемоння</l>
+         <stg>
+            <st Contlex="NumTag">кемоння</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кемонце</l>
+         <stg>
+            <st Contlex="NumTag">кемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кемонь</l>
          <stg>
@@ -655,7 +1323,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кефкие</l>
          <stg>
@@ -678,7 +1346,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кодгемонце</l>
+         <stg>
+            <st Contlex="NumTag">кодгемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кодгемонь</l>
          <stg>
@@ -701,7 +1387,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>колма</l>
          <stg>
@@ -789,7 +1475,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>колмогемонце</l>
+         <stg>
+            <st Contlex="NumTag">колмогемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>колмогемонь</l>
          <stg>
@@ -812,7 +1516,115 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>колмонза</l>
+         <stg>
+            <st Contlex="NumTag">колмонза</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>колмонц</l>
+         <stg>
+            <st Contlex="NumTag">колмонц</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>колмонь-колмонь</l>
+         <stg>
+            <st Contlex="NumTag">колмонь-колмонь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>колмоня</l>
+         <stg>
+            <st Contlex="NumTag">колмоня</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>колмоце</l>
+         <stg>
+            <st Contlex="NumTag">колмоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>колмоцьке</l>
+         <stg>
+            <st Contlex="NumTag">колмоцьке</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>комозце</l>
          <stg>
@@ -835,7 +1647,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>комсенцт</l>
+         <stg>
+            <st Contlex="NumTag">комсенцт</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>комсь</l>
          <stg>
@@ -853,7 +1683,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кота</l>
          <stg>
@@ -906,7 +1736,79 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>котонь-котонь</l>
+         <stg>
+            <st Contlex="NumTag">котонь-котонь</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>котоце</l>
+         <stg>
+            <st Contlex="NumTag">котоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ламонц</l>
+         <stg>
+            <st Contlex="NumTag">ламонц</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>миллионнай</l>
+         <stg>
+            <st Contlex="NumTag">миллионнай</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ниле</l>
          <stg>
@@ -979,7 +1881,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>нильгемонце</l>
+         <stg>
+            <st Contlex="NumTag">нильгемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>нильгемонь</l>
          <stg>
@@ -997,7 +1917,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ома</l>
+         <stg>
+            <st Contlex="NumTag">ома</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>омбоце</l>
          <stg>
@@ -1055,7 +1993,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>первай</l>
+         <stg>
+            <st Contlex="NumTag">первай</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>сизьгемонце</l>
+         <stg>
+            <st Contlex="NumTag">сизьгемонце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>сизьгемонь</l>
          <stg>
@@ -1073,7 +2047,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сисем</l>
          <stg>
@@ -1111,7 +2085,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сяда</l>
          <stg>
@@ -1149,7 +2123,102 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>сядоце</l>
+         <stg>
+            <st Contlex="NumTag">сядоце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тифтень</l>
+         <stg>
+            <st Contlex="NumTag">тифтень</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <phonet>ťifťəń</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>yksitellen.</t>
+         </tg>
+         <xg>
+            <x>тифтень-тифтень</x>
+            <phonet>ťifťəń-ťifťəń</phonet>
+            <xt lang="fin">yksitellen.</xt>
+         </xg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>триллион</l>
+         <stg>
+            <st Contlex="NumTag">триллион</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тыща</l>
+         <stg>
+            <st Contlex="NumTag">тыща</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тёжянце</l>
+         <stg>
+            <st Contlex="NumTag">тёжянце</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>тёжянь</l>
          <stg>
@@ -1192,30 +2261,7 @@
          </xg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>тифтень</l>
-         <stg>
-            <st Contlex="NumTag">тифтень</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <phonet>ťifťəń</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>yksitellen.</t>
-         </tg>
-         <xg>
-            <x>тифтень-тифтень</x>
-            <phonet>ťifťəń-ťifťəń</phonet>
-            <xt lang="fin">yksitellen.</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>финц</l>
          <stg>
@@ -1238,7 +2284,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>фкя</l>
          <stg>
@@ -1304,1050 +2350,6 @@
             <phonet>fkäńčkasət</phonet>
             <xt lang="fin">samanmalliset.</xt>
          </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>васця</l>
-         <stg>
-            <st Contlex="NumTag">васця</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вася</l>
-         <stg>
-            <st Contlex="NumTag">вася</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ведьгемонце</l>
-         <stg>
-            <st Contlex="NumTag">ведьгемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вейхксогемонце</l>
-         <stg>
-            <st Contlex="NumTag">вейхксогемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вейхксоце</l>
-         <stg>
-            <st Contlex="NumTag">вейхксоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вейхксоцеда</l>
-         <stg>
-            <st Contlex="NumTag">вейхксоцеда</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ветицьке</l>
-         <stg>
-            <st Contlex="NumTag">ветицьке</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ифке</l>
-         <stg>
-            <st Contlex="NumTag">ифке</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафксогемонце</l>
-         <stg>
-            <st Contlex="NumTag">кафксогемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафксонцт</l>
-         <stg>
-            <st Contlex="NumTag">кафксонцт</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафоньнест</l>
-         <stg>
-            <st Contlex="NumTag">кафоньнест</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафонянек</l>
-         <stg>
-            <st Contlex="NumTag">кафонянек</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафонянест</l>
-         <stg>
-            <st Contlex="NumTag">кафонянест</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтоненк</l>
-         <stg>
-            <st Contlex="NumTag">кафтоненк</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтонест</l>
-         <stg>
-            <st Contlex="NumTag">кафтонест</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтонза</l>
-         <stg>
-            <st Contlex="NumTag">кафтонза</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтоня</l>
-         <stg>
-            <st Contlex="NumTag">кафтоня</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтыцькя</l>
-         <stg>
-            <st Contlex="NumTag">кафтыцькя</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафтыцькяня</l>
-         <stg>
-            <st Contlex="NumTag">кафтыцькяня</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кафцьке</l>
-         <stg>
-            <st Contlex="NumTag">кафцьке</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кеветицесь</l>
-         <stg>
-            <st Contlex="NumTag">кеветицесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кевехксыцесь</l>
-         <stg>
-            <st Contlex="NumTag">кевехксыцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемгафксуцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемгафксуцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемгафтувоце</l>
-         <stg>
-            <st Contlex="NumTag">кемгафтувоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемгафтуцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемгафтуцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемголмувоце</l>
-         <stg>
-            <st Contlex="NumTag">кемголмувоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемголмуцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемголмуцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемготоце</l>
-         <stg>
-            <st Contlex="NumTag">кемготоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемготоцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемготоцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемготувоце</l>
-         <stg>
-            <st Contlex="NumTag">кемготувоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемготуцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемготуцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кеменькст</l>
-         <stg>
-            <st Contlex="NumTag">кеменькст</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемзисемгоце</l>
-         <stg>
-            <st Contlex="NumTag">кемзисемгоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемзисемцесь</l>
-         <stg>
-            <st Contlex="NumTag">кемзисемцесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемнилицесь</l>
-         <stg>
-            <st Contlex="NumTag">кемнилицесь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемоння</l>
-         <stg>
-            <st Contlex="NumTag">кемоння</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кемонце</l>
-         <stg>
-            <st Contlex="NumTag">кемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кодгемонце</l>
-         <stg>
-            <st Contlex="NumTag">кодгемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмогемонце</l>
-         <stg>
-            <st Contlex="NumTag">колмогемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмонза</l>
-         <stg>
-            <st Contlex="NumTag">колмонза</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмонц</l>
-         <stg>
-            <st Contlex="NumTag">колмонц</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмонь-колмонь</l>
-         <stg>
-            <st Contlex="NumTag">колмонь-колмонь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмоня</l>
-         <stg>
-            <st Contlex="NumTag">колмоня</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмоце</l>
-         <stg>
-            <st Contlex="NumTag">колмоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>колмоцьке</l>
-         <stg>
-            <st Contlex="NumTag">колмоцьке</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>комсенцт</l>
-         <stg>
-            <st Contlex="NumTag">комсенцт</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>котонь-котонь</l>
-         <stg>
-            <st Contlex="NumTag">котонь-котонь</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>котоце</l>
-         <stg>
-            <st Contlex="NumTag">котоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ламонц</l>
-         <stg>
-            <st Contlex="NumTag">ламонц</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>миллионнай</l>
-         <stg>
-            <st Contlex="NumTag">миллионнай</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нильгемонце</l>
-         <stg>
-            <st Contlex="NumTag">нильгемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ома</l>
-         <stg>
-            <st Contlex="NumTag">ома</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>первай</l>
-         <stg>
-            <st Contlex="NumTag">первай</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сизьгемонце</l>
-         <stg>
-            <st Contlex="NumTag">сизьгемонце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сядоце</l>
-         <stg>
-            <st Contlex="NumTag">сядоце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тёжянце</l>
-         <stg>
-            <st Contlex="NumTag">тёжянце</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>триллион</l>
-         <stg>
-            <st Contlex="NumTag">триллион</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тыща</l>
-         <stg>
-            <st Contlex="NumTag">тыща</st>
-         </stg>
-      </lg>
-      <pos>NUM</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
       </mg>
    </e>
 </r>

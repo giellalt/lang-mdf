@@ -1,8 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+      <lg>
+         <l>абондозь</l>
+         <stg>
+            <st Contlex="GerTag">абондозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>авардезь</l>
+         <stg>
+            <st Contlex="GerTag">авардезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>авардезь-кольгозь</l>
+         <stg>
+            <st Contlex="GerTag">авардезь-кольгозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>авардезь-рангозь</l>
+         <stg>
+            <st Contlex="GerTag">авардезь-рангозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>апряказь</l>
+         <stg>
+            <st Contlex="GerTag">апряказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ардозь</l>
          <stg>
@@ -20,25 +112,421 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>кенордазь</l>
+         <l>арьсезь</l>
          <stg>
-            <st Contlex="GerTag">кенордазь</st>
+            <st Contlex="GerTag">арьсезь</st>
          </stg>
       </lg>
       <pos>GER</pos>
-      <phonet>kenərdaź</phonet>
       <mg>
          <m>
             <head/>
+            <defNative/>
          </m>
          <tg lang="fin">
-            <t>kiireessä, kiireisesti.</t>
+            <t/>
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ацергодозь</l>
+         <stg>
+            <st Contlex="GerTag">ацергодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>безярдезь</l>
+         <stg>
+            <st Contlex="GerTag">безярдезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>брезговазь</l>
+         <stg>
+            <st Contlex="GerTag">брезговазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>бульдердезь</l>
+         <stg>
+            <st Contlex="GerTag">бульдердезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>бульнязь</l>
+         <stg>
+            <st Contlex="GerTag">бульнязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ваймосезь</l>
+         <stg>
+            <st Contlex="GerTag">ваймосезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ваймязь</l>
+         <stg>
+            <st Contlex="GerTag">ваймязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>валдашкодозь</l>
+         <stg>
+            <st Contlex="GerTag">валдашкодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вандолдозь-пиндолдозь</l>
+         <stg>
+            <st Contlex="GerTag">вандолдозь-пиндолдозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ваномок</l>
+         <stg>
+            <st Contlex="GerTag">ваномок</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вараксазь</l>
+         <stg>
+            <st Contlex="GerTag">вараксазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вархцодезь</l>
+         <stg>
+            <st Contlex="GerTag">вархцодезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>васьказь</l>
+         <stg>
+            <st Contlex="GerTag">васьказь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>васькафнезь</l>
+         <stg>
+            <st Contlex="GerTag">васькафнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>васькафтозь</l>
+         <stg>
+            <st Contlex="GerTag">васькафтозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>васькязь</l>
+         <stg>
+            <st Contlex="GerTag">васькязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вахлязь</l>
+         <stg>
+            <st Contlex="GerTag">вахлязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вельсезь</l>
+         <stg>
+            <st Contlex="GerTag">вельсезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>велязь</l>
+         <stg>
+            <st Contlex="GerTag">велязь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>велязь-шарозь</l>
+         <stg>
+            <st Contlex="GerTag">велязь-шарозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>велянькшнезь</l>
+         <stg>
+            <st Contlex="GerTag">велянькшнезь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>верондазь</l>
+         <stg>
+            <st Contlex="GerTag">верондазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ветензазь</l>
          <stg>
@@ -61,511 +549,7 @@
          </xg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>абондозь</l>
-         <stg>
-            <st Contlex="GerTag">абондозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>авардезь</l>
-         <stg>
-            <st Contlex="GerTag">авардезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>авардезь-кольгозь</l>
-         <stg>
-            <st Contlex="GerTag">авардезь-кольгозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>авардезь-рангозь</l>
-         <stg>
-            <st Contlex="GerTag">авардезь-рангозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>апряказь</l>
-         <stg>
-            <st Contlex="GerTag">апряказь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>арьсезь</l>
-         <stg>
-            <st Contlex="GerTag">арьсезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ацергодозь</l>
-         <stg>
-            <st Contlex="GerTag">ацергодозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>безярдезь</l>
-         <stg>
-            <st Contlex="GerTag">безярдезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>брезговазь</l>
-         <stg>
-            <st Contlex="GerTag">брезговазь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бульдердезь</l>
-         <stg>
-            <st Contlex="GerTag">бульдердезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бульнязь</l>
-         <stg>
-            <st Contlex="GerTag">бульнязь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ваймосезь</l>
-         <stg>
-            <st Contlex="GerTag">ваймосезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ваймязь</l>
-         <stg>
-            <st Contlex="GerTag">ваймязь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>валдашкодозь</l>
-         <stg>
-            <st Contlex="GerTag">валдашкодозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вандолдозь-пиндолдозь</l>
-         <stg>
-            <st Contlex="GerTag">вандолдозь-пиндолдозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ваномок</l>
-         <stg>
-            <st Contlex="GerTag">ваномок</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вараксазь</l>
-         <stg>
-            <st Contlex="GerTag">вараксазь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вархцодезь</l>
-         <stg>
-            <st Contlex="GerTag">вархцодезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>васьказь</l>
-         <stg>
-            <st Contlex="GerTag">васьказь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>васькафнезь</l>
-         <stg>
-            <st Contlex="GerTag">васькафнезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>васькафтозь</l>
-         <stg>
-            <st Contlex="GerTag">васькафтозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>васькязь</l>
-         <stg>
-            <st Contlex="GerTag">васькязь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вахлязь</l>
-         <stg>
-            <st Contlex="GerTag">вахлязь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вельсезь</l>
-         <stg>
-            <st Contlex="GerTag">вельсезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>велязь</l>
-         <stg>
-            <st Contlex="GerTag">велязь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>велязь-шарозь</l>
-         <stg>
-            <st Contlex="GerTag">велязь-шарозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>велянькшнезь</l>
-         <stg>
-            <st Contlex="GerTag">велянькшнезь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>верондазь</l>
-         <stg>
-            <st Contlex="GerTag">верондазь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>виздезь</l>
          <stg>
@@ -583,7 +567,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>виздезь-пелезь</l>
          <stg>
@@ -601,7 +585,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>визделгодозь</l>
          <stg>
@@ -619,7 +603,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>воравазь-салазь</l>
          <stg>
@@ -637,7 +621,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въжголдозь</l>
          <stg>
@@ -655,7 +639,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въжназь</l>
          <stg>
@@ -673,7 +657,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вяжедезь</l>
          <stg>
@@ -691,7 +675,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вякназь</l>
          <stg>
@@ -709,7 +693,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>горнязь</l>
          <stg>
@@ -727,7 +711,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>грабазь</l>
          <stg>
@@ -745,7 +729,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гразязь</l>
          <stg>
@@ -763,7 +747,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>грохиезь</l>
          <stg>
@@ -781,7 +765,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гъзнязь</l>
          <stg>
@@ -799,7 +783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гърнязь</l>
          <stg>
@@ -817,7 +801,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дасадязь</l>
          <stg>
@@ -835,7 +819,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дразнязь</l>
          <stg>
@@ -853,25 +837,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>ёколдозь</l>
-         <stg>
-            <st Contlex="GerTag">ёколдозь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>жалназь</l>
          <stg>
@@ -889,7 +855,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жалназь-увназь</l>
          <stg>
@@ -907,7 +873,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жалносезь-увносезь</l>
          <stg>
@@ -925,7 +891,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жальдезь</l>
          <stg>
@@ -943,7 +909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жольдердезь</l>
          <stg>
@@ -961,7 +927,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жольдердезь-кальдердезь</l>
          <stg>
@@ -979,7 +945,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жольдерькшнезь-кальдерькшнезь</l>
          <stg>
@@ -997,7 +963,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жольнязь</l>
          <stg>
@@ -1015,7 +981,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жольнязь-горнязь</l>
          <stg>
@@ -1033,7 +999,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жуледезь-каледезь</l>
          <stg>
@@ -1051,7 +1017,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жульничендазь</l>
          <stg>
@@ -1069,7 +1035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>заботендазь</l>
          <stg>
@@ -1087,7 +1053,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>зойнязь</l>
          <stg>
@@ -1105,7 +1071,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>зярнязь</l>
          <stg>
@@ -1123,7 +1089,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>иклендезь</l>
          <stg>
@@ -1141,7 +1107,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>икснезь-мъкснезь</l>
          <stg>
@@ -1159,7 +1125,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кашмазь</l>
          <stg>
@@ -1177,7 +1143,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>каязь</l>
          <stg>
@@ -1195,7 +1161,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кеворезь</l>
          <stg>
@@ -1213,7 +1179,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кельгозь</l>
          <stg>
@@ -1231,7 +1197,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кенордазь</l>
+         <stg>
+            <st Contlex="GerTag">кенордазь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <phonet>kenərdaź</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>kiireessä, kiireisesti.</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кенярдезь</l>
          <stg>
@@ -1249,7 +1233,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кизефтезь</l>
          <stg>
@@ -1267,7 +1251,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кифтолдозь-кафтолдозь</l>
          <stg>
@@ -1285,7 +1269,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кичкордозь</l>
          <stg>
@@ -1303,7 +1287,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кичкорязь</l>
          <stg>
@@ -1321,7 +1305,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кокольдезь</l>
          <stg>
@@ -1339,7 +1323,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кокшкодозь</l>
          <stg>
@@ -1357,7 +1341,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кокшкоткшнезь</l>
          <stg>
@@ -1375,7 +1359,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>колендезь</l>
          <stg>
@@ -1393,7 +1377,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кольгозь-авардезь</l>
          <stg>
@@ -1411,7 +1395,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>комазь</l>
          <stg>
@@ -1429,7 +1413,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>комотнезь</l>
          <stg>
@@ -1447,7 +1431,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>копорьгодозь</l>
          <stg>
@@ -1465,7 +1449,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кородозь</l>
          <stg>
@@ -1483,7 +1467,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>куколендазь</l>
          <stg>
@@ -1501,7 +1485,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кулдордозь-калдордозь</l>
          <stg>
@@ -1519,7 +1503,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кштизь</l>
          <stg>
@@ -1537,7 +1521,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кърназь</l>
          <stg>
@@ -1555,7 +1539,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кялезь</l>
          <stg>
@@ -1573,7 +1557,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кяшезь-вешезь</l>
          <stg>
@@ -1591,7 +1575,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кяшендезь</l>
          <stg>
@@ -1609,7 +1593,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лабордозь</l>
          <stg>
@@ -1627,7 +1611,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лавгазь-лабордозь</l>
          <stg>
@@ -1645,7 +1629,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лавгазь-мятькодезь</l>
          <stg>
@@ -1663,7 +1647,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лавксезь-лаборкшнезь</l>
          <stg>
@@ -1681,7 +1665,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лавксезь-мятькотькшнезь</l>
          <stg>
@@ -1699,7 +1683,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лагордозь</l>
          <stg>
@@ -1717,7 +1701,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лагордозь-дубордозь</l>
          <stg>
@@ -1735,7 +1719,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лагоркшнезь-дуборкшнезь</l>
          <stg>
@@ -1753,7 +1737,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лажназь</l>
          <stg>
@@ -1771,7 +1755,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лажназь-пеняцязь</l>
          <stg>
@@ -1789,7 +1773,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лажназь-пичедезь</l>
          <stg>
@@ -1807,7 +1791,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лаказь</l>
          <stg>
@@ -1825,7 +1809,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лакштордозь</l>
          <stg>
@@ -1843,7 +1827,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ласькозь</l>
          <stg>
@@ -1861,7 +1845,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>летнязь</l>
          <stg>
@@ -1879,7 +1863,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лиезь</l>
          <stg>
@@ -1897,7 +1881,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лоцазь</l>
          <stg>
@@ -1915,7 +1899,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ляпиякшнезь</l>
          <stg>
@@ -1933,7 +1917,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>марязь</l>
          <stg>
@@ -1951,7 +1935,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>машнезь</l>
          <stg>
@@ -1969,7 +1953,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>маштозь</l>
          <stg>
@@ -1987,7 +1971,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мекпотазь</l>
          <stg>
@@ -2005,7 +1989,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мокназь</l>
          <stg>
@@ -2023,7 +2007,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мъзолдозь</l>
          <stg>
@@ -2041,7 +2025,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мъзолкшнезь</l>
          <stg>
@@ -2059,7 +2043,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мятярдезь</l>
          <stg>
@@ -2077,7 +2061,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нежекснезь</l>
          <stg>
@@ -2095,7 +2079,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нолгадозь</l>
          <stg>
@@ -2113,7 +2097,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нолдазь</l>
          <stg>
@@ -2131,7 +2115,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>норхцадезь</l>
          <stg>
@@ -2149,7 +2133,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нувазь</l>
          <stg>
@@ -2167,7 +2151,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нюрязь-пупорязь</l>
          <stg>
@@ -2185,7 +2169,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>озсезь</l>
          <stg>
@@ -2203,7 +2187,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>оладазь</l>
          <stg>
@@ -2221,7 +2205,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пандозь</l>
          <stg>
@@ -2239,7 +2223,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>паразь</l>
          <stg>
@@ -2257,7 +2241,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пелезь</l>
          <stg>
@@ -2275,7 +2259,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пелезь-тьрнатозь</l>
          <stg>
@@ -2293,7 +2277,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пеняцязь</l>
          <stg>
@@ -2311,7 +2295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пичедезь</l>
          <stg>
@@ -2329,7 +2313,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пичетькстозь</l>
          <stg>
@@ -2347,7 +2331,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>потазь</l>
          <stg>
@@ -2365,7 +2349,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пувордазь</l>
          <stg>
@@ -2383,7 +2367,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пувордазьня</l>
          <stg>
@@ -2401,7 +2385,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пульхкозь</l>
          <stg>
@@ -2419,7 +2403,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пульхкозь-шарозь</l>
          <stg>
@@ -2437,7 +2421,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пуполязь</l>
          <stg>
@@ -2455,7 +2439,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пупорязь</l>
          <stg>
@@ -2473,7 +2457,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пялес_авардезь</l>
          <stg>
@@ -2491,7 +2475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахазь</l>
          <stg>
@@ -2509,7 +2493,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахазь-кенярдезь</l>
          <stg>
@@ -2527,7 +2511,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахазь-моразь</l>
          <stg>
@@ -2545,7 +2529,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахазь-пеедезь</l>
          <stg>
@@ -2563,7 +2547,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахазь-пеетькшнезь</l>
          <stg>
@@ -2581,7 +2565,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахсезь</l>
          <stg>
@@ -2599,7 +2583,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахсезь-пеетькшнезь</l>
          <stg>
@@ -2617,7 +2601,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рахсекшнезь</l>
          <stg>
@@ -2635,7 +2619,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>резнязь-лознязь</l>
          <stg>
@@ -2653,25 +2637,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>рёвназь</l>
-         <stg>
-            <st Contlex="GerTag">рёвназь</st>
-         </stg>
-      </lg>
-      <pos>GER</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>ризназь</l>
          <stg>
@@ -2689,7 +2655,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ризназь-авардезь</l>
          <stg>
@@ -2707,7 +2673,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ризназь-палондозь</l>
          <stg>
@@ -2725,7 +2691,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ризназь-пичедезь</l>
          <stg>
@@ -2743,7 +2709,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рязондозь-коськондозь</l>
          <stg>
@@ -2761,7 +2727,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>рёвназь</l>
+         <stg>
+            <st Contlex="GerTag">рёвназь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>сельгондезь</l>
          <stg>
@@ -2779,7 +2763,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сельмодезь</l>
          <stg>
@@ -2797,7 +2781,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>симозь</l>
          <stg>
@@ -2815,7 +2799,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сингордазь</l>
          <stg>
@@ -2833,7 +2817,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сингорязь</l>
          <stg>
@@ -2851,7 +2835,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>смутявозь</l>
          <stg>
@@ -2869,7 +2853,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>смутявозь-пеедезь</l>
          <stg>
@@ -2887,7 +2871,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сотнезь</l>
          <stg>
@@ -2905,7 +2889,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>спорезь</l>
          <stg>
@@ -2923,7 +2907,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>старандазь</l>
          <stg>
@@ -2941,7 +2925,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сувозь</l>
          <stg>
@@ -2959,7 +2943,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>съкназь</l>
          <stg>
@@ -2977,7 +2961,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сюконязь</l>
          <stg>
@@ -2995,7 +2979,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сялондозь-сюцезь</l>
          <stg>
@@ -3013,7 +2997,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сярядезь</l>
          <stg>
@@ -3031,7 +3015,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таколдозь</l>
          <stg>
@@ -3049,7 +3033,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тапарязь</l>
          <stg>
@@ -3067,7 +3051,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тапарякшнезь</l>
          <stg>
@@ -3085,7 +3069,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таргавозь</l>
          <stg>
@@ -3103,7 +3087,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таргазь</l>
          <stg>
@@ -3121,7 +3105,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таярдозь</l>
          <stg>
@@ -3139,7 +3123,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таяскодозь</l>
          <stg>
@@ -3157,7 +3141,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тихольдезь</l>
          <stg>
@@ -3175,7 +3159,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>токназь</l>
          <stg>
@@ -3193,7 +3177,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>толомозь</l>
          <stg>
@@ -3211,7 +3195,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тошказь</l>
          <stg>
@@ -3229,7 +3213,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тувозгодозь</l>
          <stg>
@@ -3247,7 +3231,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>туткодозь</l>
          <stg>
@@ -3265,7 +3249,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тъжназь</l>
          <stg>
@@ -3283,7 +3267,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тъзназь</l>
          <stg>
@@ -3301,7 +3285,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>търмождозь</l>
          <stg>
@@ -3319,7 +3303,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>търназь-пелезь</l>
          <stg>
@@ -3337,7 +3321,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>търнатозь-пелезь</l>
          <stg>
@@ -3355,7 +3339,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тюрезь-спорязь</l>
          <stg>
@@ -3373,7 +3357,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тюрезь-сялондозь</l>
          <stg>
@@ -3391,7 +3375,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тюрендезь-сялондозь</l>
          <stg>
@@ -3409,7 +3393,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>увазь</l>
          <stg>
@@ -3427,7 +3411,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>удозь</l>
          <stg>
@@ -3445,7 +3429,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ужяльдезь</l>
          <stg>
@@ -3463,7 +3447,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>уназь</l>
          <stg>
@@ -3481,7 +3465,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>уркснезь</l>
          <stg>
@@ -3499,7 +3483,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>фатнезь-кунтсезь</l>
          <stg>
@@ -3517,7 +3501,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>фатнезь-цопиезь</l>
          <stg>
@@ -3535,7 +3519,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>форсиндазь</l>
          <stg>
@@ -3553,7 +3537,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хикстазь</l>
          <stg>
@@ -3571,7 +3555,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цикордозь</l>
          <stg>
@@ -3589,7 +3573,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цингольдезь-дингольдезь</l>
          <stg>
@@ -3607,7 +3591,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цингольдезь-кальдердезь</l>
          <stg>
@@ -3625,7 +3609,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цингольдезь-канзердозь</l>
          <stg>
@@ -3643,7 +3627,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цингордозь-канзердозь</l>
          <stg>
@@ -3661,7 +3645,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цювназь-цявназь</l>
          <stg>
@@ -3679,7 +3663,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цюцелондазь</l>
          <stg>
@@ -3697,7 +3681,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цятордозь</l>
          <stg>
@@ -3715,7 +3699,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чакордозь</l>
          <stg>
@@ -3733,7 +3717,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чёшазь</l>
          <stg>
@@ -3751,7 +3735,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шалакодозь</l>
          <stg>
@@ -3769,7 +3753,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шутендазь</l>
          <stg>
@@ -3787,7 +3771,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шутендазь-пеедезь</l>
          <stg>
@@ -3805,7 +3789,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>элякодозь</l>
          <stg>
@@ -3823,11 +3807,29 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>эряскодозь</l>
          <stg>
             <st Contlex="GerTag">эряскодозь</st>
+         </stg>
+      </lg>
+      <pos>GER</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ёколдозь</l>
+         <stg>
+            <st Contlex="GerTag">ёколдозь</st>
          </stg>
       </lg>
       <pos>GER</pos>
