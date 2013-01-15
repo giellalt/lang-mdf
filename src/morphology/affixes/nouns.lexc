@@ -8,36 +8,26 @@
 !!!!!!!!!!!
 
 LEXICON NTag
-+N+Sg+Nom+InDef: #;
++N+Sg+Nom+Indef: #;
 
-! ава:ава
 LEXICON N-ava
+! ава:ава
 +N: N-ava_01 ;
 
 LEXICON N-ava_01
  SG-NOM ;
-:%> SG-GEN ;
-:%> SG-DAT ;
-:%> SG-ABL ;
-:%> SG-ILL ;
-:%> SG-INE ;
-:%> SG-ELA ;
-:%> SG-ABE ;
-:%> SG-TRA ;
-:%> SG-CMP ;
-:%> SG-PRL ;
+:%> NOTDEF-GEN ;
+:%> NOTDEF-DAT ;
+:%> NOTDEF-ABL ;
+:%> NOTDEF-ILL ;
+:%> NOTDEF-INE ;
+:%> NOTDEF-ELA ;
+:%> NOTDEF-ABE ;
+:%> NOTDEF-TRA ;
+:%> NOTDEF-CMP ;
+:%> NOTDEF-PRL ;
 
 :%> PL-NOM ;
-:%> PL-GEN ;
-:%> PL-DAT ;
-:%> PL-ABL ;
-:%> PL-ILL ;
-:%> PL-INE ;
-:%> PL-ELA ;
-:%> PL-ABE ;
-:%> PL-TRA ;
-:%> PL-CMP ;
-:%> PL-PRL ;
 !! Definite Sg
  SGDEFCX ;
 !! Definite Pl
@@ -53,20 +43,25 @@ LEXICON N-ava_01
 
 
 LEXICON N-ofta
+!офта:офт
 :%>О2 N-ava ;
  N-kal ;
 
 LEXICON N-pinge
+!пинге:пинг
 :%>О2 N-ava ;
  N-kal ;
 
 LEXICON N-pula
+!пула:пул
 :%>О2 N-ava ;
 
 LEXICON N-osh
+!ош:ош
 +N: N-osh_01 ;
 
 LEXICON N-osh_01
+!кал:кал
  N-kal_01 ;
 
 LEXICON N-kal
@@ -75,28 +70,18 @@ LEXICON N-kal
 LEXICON N-kal_01
 !! Indefinite
  SG-NOM ;
-:%>О1 SG-GEN ;
-:%>О1 SG-DAT ;
-:%> SG-ABL ;
-:%> SG-ILL ;
-:%> SG-INE ;
-:%> SG-ELA ;
-:%> SG-ABE ;
-:%> SG-TRA ;
-:%> SG-CMP ;
-:%> SG-PRL ;
+:%>О1 NOTDEF-GEN ;
+:%>О1 NOTDEF-DAT ;
+:%> NOTDEF-ABL ;
+:%> NOTDEF-ILL ;
+:%> NOTDEF-INE ;
+:%> NOTDEF-ELA ;
+:%> NOTDEF-ABE ;
+:%> NOTDEF-TRA ;
+:%> NOTDEF-CMP ;
+:%> NOTDEF-PRL ;
 
 :%> PL-NOM ;
-:%>О1 PL-GEN ;
-:%>О1 PL-DAT ;
-:%> PL-ABL ;
-:%> PL-ILL ;
-:%> PL-INE ;
-:%> PL-ELA ;
-:%> PL-ABE ;
-:%> PL-TRA ;
-:%> PL-CMP ;
-:%> PL-PRL ;
 
 !! Definite Sg
  SGDEFCX ;
@@ -179,78 +164,47 @@ LEXICON PXPL3
 
 !!
 LEXICON SG-NOM
-+Sg+Nom+InDef: K ;
++Sg+Nom+Indef: K ;
 
-LEXICON SG-GEN
-+Sg+Gen+InDef:нь K ;
+LEXICON NOTDEF-GEN
++Gen+Indef:нь K ;
 
-LEXICON SG-DAT
-+Sg+Dat+InDef:нди K ;
+LEXICON NOTDEF-DAT
++Dat+Indef:нди K ;
 
-LEXICON SG-ABL
-+Sg+Abl:дО1 Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-ABL
++Abl:дО1 Choose-INDEF-OBLPX-ava ;
 
-LEXICON SG-ILL
-+Sg+Ill+InDef:с K ;
-+Sg+Ill:з OBLIQUECX-PX-osh ; 
+LEXICON NOTDEF-ILL
++Ill+Indef:с K ;
++Ill:з OBLIQUECX-PX-osh ; 
 
-LEXICON SG-INE
-+Sg+Ine:сО1 Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-INE
++Ine:сО1 Choose-INDEF-OBLPX-ava ;
 
-LEXICON SG-ELA
-+Sg+Ela:стО1 Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-ELA
++Ela:стО1 Choose-INDEF-OBLPX-ava ;
 
-LEXICON SG-ABE
-+Sg+Abe:фтомО1 Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-ABE
++Abe:фтомО1 Choose-INDEF-OBLPX-ava ;
 
-LEXICON SG-TRA
-+Sg+Tra+InDef:кс K ;
+LEXICON NOTDEF-TRA
++Tra+Indef:кс K ;
 
-LEXICON SG-CMP
-+Sg+Comp:шка Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-CMP
++Comp:шка Choose-INDEF-OBLPX-ava ;
 
-LEXICON SG-PRL
-+Sg+Prl:Г2а Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-PRL
++Prl:Г2а Choose-INDEF-OBLPX-ava ;
 
 !!!
 LEXICON PL-NOM
-+Pl+Nom+InDef:Х1т K ;
-
-LEXICON PL-GEN
-+Pl+Gen+InDef:нь K ;
-
-LEXICON PL-DAT
-+Pl+Dat+InDef:нди K ;
-
-LEXICON PL-ABL
-+Pl+Abl:дО1 Choose-INDEF-OBLPX-ava ;
-
-LEXICON PL-ILL
-+Pl+Ill+InDef:с K ;
-+Pl+Ill:з OBLIQUECX-PX-osh ;
-
-LEXICON PL-INE
-+Pl+Ine:сО1 Choose-INDEF-OBLPX-ava ;
-
-LEXICON PL-ELA
-+Pl+Ela:стО1 Choose-INDEF-OBLPX-ava ;
-
-LEXICON PL-ABE
-+Pl+Abe:фтомО1 Choose-INDEF-OBLPX-ava ;
-
-LEXICON PL-TRA
-+Pl+Tra+InDef:кс K ;
-
-LEXICON PL-CMP
-+Pl+Comp:шка Choose-INDEF-OBLPX-ava ;
-
-LEXICON PL-PRL
-+Pl+Prl:Г2а Choose-INDEF-OBLPX-ava ;
++Pl+Nom+Indef:Х1т K ;
 
 
 !!
 LEXICON Choose-INDEF-OBLPX-kal
-+InDef: K ;
++Indef: K ;
  OBLIQUECX-PX-kal ;
 
 LEXICON OBLIQUECX-PX-kal
@@ -262,7 +216,7 @@ LEXICON OBLIQUECX-PX-kal
 +PxPl3:%>ст K ;
 
 LEXICON Choose-INDEF-OBLPX-osh
-+InDef: K ;
++Indef: K ;
  OBLIQUECX-PX-osh ;
 
 LEXICON OBLIQUECX-PX-osh
@@ -275,7 +229,7 @@ LEXICON OBLIQUECX-PX-osh
 
 !!
 LEXICON Choose-INDEF-OBLPX-ava
-+InDef: K ;
++Indef: K ;
  OBLIQUECX-PX-ava ;
 
 LEXICON OBLIQUECX-PX-ava
