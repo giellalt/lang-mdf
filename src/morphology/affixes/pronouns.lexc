@@ -8,10 +8,37 @@
 !!!!!!!!!!!!!
 
 LEXICON PronTag
-+WORK: #;
++Pron+WORK: #;
 
 LEXICON PersSg1
+!мон:мон
 +Pron+Pers+Sg1+Nom: K ;
++Pron+Pers+Sg1+Gen:ь K ;
+
+LEXICON PersSg2
+! тон:тон
++Pron+Pers+Sg2+Nom: K ;
++Pron+Pers+Sg2+Gen:ь K ;
+
+LEXICON PersSg3
+! сон:сон
++Pron+Pers+Sg3+Nom: K ;
++Pron+Pers+Sg3+Gen:ь K ;
+
+LEXICON PersPl1
+!минь:мин
++Pron+Pers+Pl1+Nom:ь K ;
++Pron+Pers+Pl1+Gen:ь K ;
+
+LEXICON PersPl2
+!тинь:тин
++Pron+Pers+Pl2+Nom:ь K ;
++Pron+Pers+Pl2+Gen:ь K ;
+
+LEXICON PersPl3
+!синь:син
++Pron+Pers+Pl3+Nom:ь K ;
++Pron+Pers+Pl3+Gen:ь K ;
 
 
 
