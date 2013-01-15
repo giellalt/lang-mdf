@@ -56,7 +56,8 @@ Multichar_Symbols
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 
- +InDef +Def
+ ! + InDef This has been changed to +Indef
+ +Def ! Definite
 
 !! The comparative forms are:
  +Comp +Superl
