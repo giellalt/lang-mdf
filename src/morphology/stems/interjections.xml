@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
       <lg>
          <l>а</l>
          <stg>
@@ -25,122 +27,7 @@
          </xg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>и</l>
-         <stg>
-            <st Contlex="InterjTag">и</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <phonet>i</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ja, myös</t>
-         </tg>
-         <xg>
-            <x>и мянь</x>
-            <phonet>i mäń</phonet>
-            <xt lang="fin">suorastaan.</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>но</l>
-         <stg>
-            <st Contlex="InterjTag">но</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <phonet>no</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>mutta, vaan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ну</l>
-         <stg>
-            <st Contlex="InterjTag">ну</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <phonet>nu</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>no, siispä, kylläpä</t>
-         </tg>
-         <xg>
-            <x>ну и сизень!</x>
-            <phonet>nu i śiźəń</phonet>
-            <xt lang="fin">kylläpä väsyttää!</xt>
-         </xg>
-         <xg>
-            <x>ну, куроконе!</x>
-            <phonet>nu kurəkəńä</phonet>
-            <xt lang="fin">pian nyt!</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пежеть</l>
-         <stg>
-            <st Contlex="InterjTag">пежеть</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <phonet>pežəť</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>totta tosiaan, totta vie, totisesti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эй</l>
-         <stg>
-            <st Contlex="InterjTag">эй</st>
-         </stg>
-      </lg>
-      <pos>AD-A</pos>
-      <phonet>ej</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>superlatiivin apusana</t>
-         </tg>
-         <xg>
-            <x>эй оцю</x>
-            <phonet>ej oću</phonet>
-            <xt lang="fin">(murt.) suurin.</xt>
-         </xg>
-         <xg>
-            <x>эйда оцю</x>
-            <phonet>ejd(ə) oću</phonet>
-            <xt lang="fin">suurin.</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>а</l>
          <stg>
@@ -163,7 +50,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аде</l>
          <stg>
@@ -186,7 +73,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ай</l>
          <stg>
@@ -209,7 +96,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>айда</l>
          <stg>
@@ -227,7 +114,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аха</l>
          <stg>
@@ -245,7 +132,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бавак</l>
          <stg>
@@ -263,7 +150,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>баву, баву</l>
          <stg>
@@ -281,7 +168,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>брысь</l>
+         <stg>
+            <st Contlex="InterjTag">брысь</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>бя</l>
+         <stg>
+            <st Contlex="InterjTag">бя</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>вай</l>
          <stg>
@@ -304,7 +227,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>вон</l>
+         <stg>
+            <st Contlex="InterjTag">вон</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ворь(х)ть</l>
          <stg>
@@ -322,7 +263,174 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ворьть</l>
+         <stg>
+            <st Contlex="InterjTag">ворьть</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ворьхть</l>
+         <stg>
+            <st Contlex="InterjTag">ворьхть</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>възы</l>
+         <stg>
+            <st Contlex="InterjTag">възы</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вяць-вяць</l>
+         <stg>
+            <st Contlex="InterjTag">вяць-вяць</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вяця-вяця</l>
+         <stg>
+            <st Contlex="InterjTag">вяця-вяця</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>гоп</l>
+         <stg>
+            <st Contlex="InterjTag">гоп</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>гопля</l>
+         <stg>
+            <st Contlex="InterjTag">гопля</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>зерьрь</l>
+         <stg>
+            <st Contlex="InterjTag">зерьрь</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>и</l>
+         <stg>
+            <st Contlex="InterjTag">и</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <phonet>i</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>ja, myös</t>
+         </tg>
+         <xg>
+            <x>и мянь</x>
+            <phonet>i mäń</phonet>
+            <xt lang="fin">suorastaan.</xt>
+         </xg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>каба</l>
          <stg>
@@ -350,7 +458,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кусь-кусь</l>
+         <stg>
+            <st Contlex="InterjTag">кусь-кусь</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>куть-куть</l>
+         <stg>
+            <st Contlex="InterjTag">куть-куть</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кутя-кутя</l>
+         <stg>
+            <st Contlex="InterjTag">кутя-кутя</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кшу</l>
          <stg>
@@ -368,7 +530,71 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>късь-късь</l>
+         <stg>
+            <st Contlex="InterjTag">късь-късь</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>но</l>
+         <stg>
+            <st Contlex="InterjTag">но</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <phonet>no</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>mutta, vaan</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ну</l>
+         <stg>
+            <st Contlex="InterjTag">ну</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <phonet>nu</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>no, siispä, kylläpä</t>
+         </tg>
+         <xg>
+            <x>ну и сизень!</x>
+            <phonet>nu i śiźəń</phonet>
+            <xt lang="fin">kylläpä väsyttää!</xt>
+         </xg>
+         <xg>
+            <x>ну, куроконе!</x>
+            <phonet>nu kurəkəńä</phonet>
+            <xt lang="fin">pian nyt!</xt>
+         </xg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ожу</l>
          <stg>
@@ -386,7 +612,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ой</l>
          <stg>
@@ -404,7 +630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ох</l>
          <stg>
@@ -427,7 +653,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ошка</l>
          <stg>
@@ -445,7 +671,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пандя</l>
          <stg>
@@ -473,7 +699,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>пежеть</l>
+         <stg>
+            <st Contlex="InterjTag">пежеть</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <phonet>pežəť</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>totta tosiaan, totta vie, totisesti</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>прощай</l>
          <stg>
@@ -491,7 +735,61 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>псянк-псянк</l>
+         <stg>
+            <st Contlex="InterjTag">псянк-псянк</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>пъс-пъс</l>
+         <stg>
+            <st Contlex="InterjTag">пъс-пъс</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>сюк</l>
+         <stg>
+            <st Contlex="InterjTag">сюк</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>трр</l>
          <stg>
@@ -509,7 +807,61 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>тъпру</l>
+         <stg>
+            <st Contlex="InterjTag">тъпру</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тъсс</l>
+         <stg>
+            <st Contlex="InterjTag">тъсс</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тыр</l>
+         <stg>
+            <st Contlex="InterjTag">тыр</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>тьфу</l>
          <stg>
@@ -527,7 +879,61 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>тютю-люлю</l>
+         <stg>
+            <st Contlex="InterjTag">тютю-люлю</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>у</l>
+         <stg>
+            <st Contlex="InterjTag">у</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>улефтяряй</l>
+         <stg>
+            <st Contlex="InterjTag">улефтяряй</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ура</l>
          <stg>
@@ -545,7 +951,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>урю-урю</l>
+         <stg>
+            <st Contlex="InterjTag">урю-урю</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>уть-уть-уть</l>
+         <stg>
+            <st Contlex="InterjTag">уть-уть-уть</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>уф</l>
          <stg>
@@ -563,7 +1005,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ух</l>
+         <stg>
+            <st Contlex="InterjTag">ух</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>фу</l>
          <stg>
@@ -581,7 +1041,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хм</l>
          <stg>
@@ -599,7 +1059,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>хъм</l>
+         <stg>
+            <st Contlex="InterjTag">хъм</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>цып-цып</l>
+         <stg>
+            <st Contlex="InterjTag">цып-цып</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>цыц</l>
          <stg>
@@ -617,7 +1113,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цю</l>
          <stg>
@@ -635,7 +1131,107 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>чу</l>
+         <stg>
+            <st Contlex="InterjTag">чу</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чур</l>
+         <stg>
+            <st Contlex="InterjTag">чур</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>э</l>
+         <stg>
+            <st Contlex="InterjTag">э</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эдок</l>
+         <stg>
+            <st Contlex="InterjTag">эдок</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эй</l>
+         <stg>
+            <st Contlex="InterjTag">эй</st>
+         </stg>
+      </lg>
+      <pos>AD-A</pos>
+      <phonet>ej</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t>superlatiivin apusana</t>
+         </tg>
+         <xg>
+            <x>эй оцю</x>
+            <phonet>ej oću</phonet>
+            <xt lang="fin">(murt.) suurin.</xt>
+         </xg>
+         <xg>
+            <x>эйда оцю</x>
+            <phonet>ejd(ə) oću</phonet>
+            <xt lang="fin">suurin.</xt>
+         </xg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>эй</l>
          <stg>
@@ -653,7 +1249,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>эк</l>
          <stg>
@@ -671,7 +1267,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>эрь</l>
          <stg>
@@ -699,7 +1295,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>эх</l>
+         <stg>
+            <st Contlex="InterjTag">эх</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эхе</l>
+         <stg>
+            <st Contlex="InterjTag">эхе</st>
+         </stg>
+      </lg>
+      <pos>INTERJ</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>юркшт</l>
          <stg>
@@ -720,636 +1352,6 @@
             <phonet>jurkšt koməťi</phonet>
             <xt lang="fin">hypähtää äkisti.</xt>
          </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>брысь</l>
-         <stg>
-            <st Contlex="InterjTag">брысь</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бя</l>
-         <stg>
-            <st Contlex="InterjTag">бя</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вон</l>
-         <stg>
-            <st Contlex="InterjTag">вон</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ворьть</l>
-         <stg>
-            <st Contlex="InterjTag">ворьть</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ворьхть</l>
-         <stg>
-            <st Contlex="InterjTag">ворьхть</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>възы</l>
-         <stg>
-            <st Contlex="InterjTag">възы</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вяць-вяць</l>
-         <stg>
-            <st Contlex="InterjTag">вяць-вяць</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вяця-вяця</l>
-         <stg>
-            <st Contlex="InterjTag">вяця-вяця</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>гоп</l>
-         <stg>
-            <st Contlex="InterjTag">гоп</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>гопля</l>
-         <stg>
-            <st Contlex="InterjTag">гопля</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>зерьрь</l>
-         <stg>
-            <st Contlex="InterjTag">зерьрь</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кусь-кусь</l>
-         <stg>
-            <st Contlex="InterjTag">кусь-кусь</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>куть-куть</l>
-         <stg>
-            <st Contlex="InterjTag">куть-куть</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кутя-кутя</l>
-         <stg>
-            <st Contlex="InterjTag">кутя-кутя</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>късь-късь</l>
-         <stg>
-            <st Contlex="InterjTag">късь-късь</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>псянк-псянк</l>
-         <stg>
-            <st Contlex="InterjTag">псянк-псянк</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пъс-пъс</l>
-         <stg>
-            <st Contlex="InterjTag">пъс-пъс</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сюк</l>
-         <stg>
-            <st Contlex="InterjTag">сюк</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тъпру</l>
-         <stg>
-            <st Contlex="InterjTag">тъпру</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тъсс</l>
-         <stg>
-            <st Contlex="InterjTag">тъсс</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тыр</l>
-         <stg>
-            <st Contlex="InterjTag">тыр</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тютю-люлю</l>
-         <stg>
-            <st Contlex="InterjTag">тютю-люлю</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>у</l>
-         <stg>
-            <st Contlex="InterjTag">у</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>улефтяряй</l>
-         <stg>
-            <st Contlex="InterjTag">улефтяряй</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>урю-урю</l>
-         <stg>
-            <st Contlex="InterjTag">урю-урю</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>уть-уть-уть</l>
-         <stg>
-            <st Contlex="InterjTag">уть-уть-уть</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ух</l>
-         <stg>
-            <st Contlex="InterjTag">ух</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>хъм</l>
-         <stg>
-            <st Contlex="InterjTag">хъм</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>цып-цып</l>
-         <stg>
-            <st Contlex="InterjTag">цып-цып</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чу</l>
-         <stg>
-            <st Contlex="InterjTag">чу</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чур</l>
-         <stg>
-            <st Contlex="InterjTag">чур</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>э</l>
-         <stg>
-            <st Contlex="InterjTag">э</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эдок</l>
-         <stg>
-            <st Contlex="InterjTag">эдок</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эх</l>
-         <stg>
-            <st Contlex="InterjTag">эх</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эхе</l>
-         <stg>
-            <st Contlex="InterjTag">эхе</st>
-         </stg>
-      </lg>
-      <pos>INTERJ</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
       </mg>
    </e>
 </r>

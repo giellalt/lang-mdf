@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+      <lg>
+         <l>ашяйкова</l>
+         <stg>
+            <st Contlex="PronTag">ашяйкова</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ашяйковок</l>
+         <stg>
+            <st Contlex="PronTag">ашяйковок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>всякай</l>
          <stg>
@@ -25,7 +63,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>гайсна</l>
+         <stg>
+            <st Contlex="PronTag">гайсна</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>гайся</l>
          <stg>
@@ -43,7 +99,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>иля</l>
          <stg>
@@ -61,7 +117,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кажнай</l>
          <stg>
@@ -84,7 +140,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кама</l>
+         <stg>
+            <st Contlex="PronTag">кама</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кама-бъди</l>
+         <stg>
+            <st Contlex="PronTag">кама-бъди</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кати-кие</l>
          <stg>
@@ -102,7 +194,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кати-мезе</l>
          <stg>
@@ -120,7 +212,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кати-мезьса</l>
+         <stg>
+            <st Contlex="PronTag">кати-мезьса</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кати-мезяма</l>
+         <stg>
+            <st Contlex="PronTag">кати-мезяма</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кивок</l>
          <stg>
@@ -148,7 +276,43 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кигава</l>
+         <stg>
+            <st Contlex="PronTag">кигава</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кигок</l>
+         <stg>
+            <st Contlex="PronTag">кигок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кие</l>
          <stg>
@@ -206,7 +370,97 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>киндивок</l>
+         <stg>
+            <st Contlex="PronTag">киндивок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>киндиге</l>
+         <stg>
+            <st Contlex="PronTag">киндиге</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кинь</l>
+         <stg>
+            <st Contlex="PronTag">кинь</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>киньге</l>
+         <stg>
+            <st Contlex="PronTag">киньге</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>кияк</l>
+         <stg>
+            <st Contlex="PronTag">кияк</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кодама</l>
          <stg>
@@ -259,7 +513,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кодамовок</l>
+         <stg>
+            <st Contlex="PronTag">кодамовок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кой-кие</l>
          <stg>
@@ -277,7 +549,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кой-кит</l>
+         <stg>
+            <st Contlex="PronTag">кой-кит</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>кой-кодама</l>
          <stg>
@@ -295,7 +585,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кой-кона</l>
          <stg>
@@ -313,7 +603,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кой-мезе</l>
          <stg>
@@ -341,7 +631,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кона</l>
          <stg>
@@ -394,7 +684,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>конашка</l>
          <stg>
@@ -437,7 +727,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ладнек</l>
          <stg>
@@ -455,7 +745,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лия</l>
          <stg>
@@ -483,7 +773,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мезе</l>
          <stg>
@@ -616,7 +906,133 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>мезь</l>
+         <stg>
+            <st Contlex="PronTag">мезь</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мезьге</l>
+         <stg>
+            <st Contlex="PronTag">мезьге</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мезьда</l>
+         <stg>
+            <st Contlex="PronTag">мезьда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мезьда-мезьда</l>
+         <stg>
+            <st Contlex="PronTag">мезьда-мезьда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мезьса_аф_мезьса</l>
+         <stg>
+            <st Contlex="PronTag">мезьса_аф_мезьса</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мезьске</l>
+         <stg>
+            <st Contlex="PronTag">мезьске</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мейя</l>
+         <stg>
+            <st Contlex="PronTag">мейя</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>месть</l>
          <stg>
@@ -644,7 +1060,97 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>меяма</l>
+         <stg>
+            <st Contlex="PronTag">меяма</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мийеге</l>
+         <stg>
+            <st Contlex="PronTag">мийеге</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>миндейнек</l>
+         <stg>
+            <st Contlex="PronTag">миндейнек</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>минцень</l>
+         <stg>
+            <st Contlex="PronTag">минцень</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>минць</l>
+         <stg>
+            <st Contlex="PronTag">минць</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>минь</l>
          <stg>
@@ -682,7 +1188,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>миявок</l>
+         <stg>
+            <st Contlex="PronTag">миявок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>миярс</l>
+         <stg>
+            <st Contlex="PronTag">миярс</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>миятка</l>
+         <stg>
+            <st Contlex="PronTag">миятка</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>мон</l>
          <stg>
@@ -720,7 +1280,97 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>мъзяровок</l>
+         <stg>
+            <st Contlex="PronTag">мъзяровок</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мъзяроце</l>
+         <stg>
+            <st Contlex="PronTag">мъзяроце</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мъзяроцеда</l>
+         <stg>
+            <st Contlex="PronTag">мъзяроцеда</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мъзярс</l>
+         <stg>
+            <st Contlex="PronTag">мъзярс</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мяйя</l>
+         <stg>
+            <st Contlex="PronTag">мяйя</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>нона</l>
          <stg>
@@ -743,7 +1393,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ня</l>
          <stg>
@@ -786,7 +1436,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нява</l>
          <stg>
@@ -809,7 +1459,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>някот</l>
          <stg>
@@ -827,7 +1477,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ома</l>
+         <stg>
+            <st Contlex="PronTag">ома</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>самай</l>
          <stg>
@@ -865,7 +1533,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сембе</l>
          <stg>
@@ -898,7 +1566,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>синць</l>
+         <stg>
+            <st Contlex="PronTag">синць</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>синь</l>
          <stg>
@@ -926,7 +1612,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сон</l>
          <stg>
@@ -959,7 +1645,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>стама</l>
+         <stg>
+            <st Contlex="PronTag">стама</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>стамка</l>
+         <stg>
+            <st Contlex="PronTag">стамка</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>сювакай</l>
+         <stg>
+            <st Contlex="PronTag">сювакай</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ся</l>
          <stg>
@@ -1017,7 +1757,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сяка</l>
          <stg>
@@ -1065,7 +1805,187 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>тейне</l>
+         <stg>
+            <st Contlex="PronTag">тейне</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тейнек</l>
+         <stg>
+            <st Contlex="PronTag">тейнек</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тейнза</l>
+         <stg>
+            <st Contlex="PronTag">тейнза</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тейнть</l>
+         <stg>
+            <st Contlex="PronTag">тейнть</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тейст</l>
+         <stg>
+            <st Contlex="PronTag">тейст</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тейть</l>
+         <stg>
+            <st Contlex="PronTag">тейть</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тинне</l>
+         <stg>
+            <st Contlex="PronTag">тинне</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тинценне</l>
+         <stg>
+            <st Contlex="PronTag">тинценне</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тинцень</l>
+         <stg>
+            <st Contlex="PronTag">тинцень</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тинць</l>
+         <stg>
+            <st Contlex="PronTag">тинць</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>тинь</l>
          <stg>
@@ -1083,7 +2003,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тон</l>
          <stg>
@@ -1111,7 +2031,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тона</l>
          <stg>
@@ -1169,7 +2089,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тя</l>
          <stg>
@@ -1327,7 +2247,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тяка</l>
          <stg>
@@ -1355,7 +2275,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тяфтама</l>
          <stg>
@@ -1383,7 +2303,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тяшка</l>
          <stg>
@@ -1401,7 +2321,79 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>фкя-фкада</l>
+         <stg>
+            <st Contlex="PronTag">фкя-фкада</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>фкя-фкянь</l>
+         <stg>
+            <st Contlex="PronTag">фкя-фкянь</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эздодон</l>
+         <stg>
+            <st Contlex="PronTag">эздодон</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эковай</l>
+         <stg>
+            <st Contlex="PronTag">эковай</st>
+         </stg>
+      </lg>
+      <pos>PRON</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>эрь</l>
          <stg>
@@ -1429,7 +2421,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>эсь</l>
          <stg>
@@ -1482,7 +2474,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>эхянь</l>
          <stg>
@@ -1497,996 +2489,6 @@
          </m>
          <tg lang="fin">
             <t>oikea, todellinen, tosi.</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ашяйкова</l>
-         <stg>
-            <st Contlex="PronTag">ашяйкова</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ашяйковок</l>
-         <stg>
-            <st Contlex="PronTag">ашяйковок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>гайсна</l>
-         <stg>
-            <st Contlex="PronTag">гайсна</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кама</l>
-         <stg>
-            <st Contlex="PronTag">кама</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кама-бъди</l>
-         <stg>
-            <st Contlex="PronTag">кама-бъди</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кати-мезьса</l>
-         <stg>
-            <st Contlex="PronTag">кати-мезьса</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кати-мезяма</l>
-         <stg>
-            <st Contlex="PronTag">кати-мезяма</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кигава</l>
-         <stg>
-            <st Contlex="PronTag">кигава</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кигок</l>
-         <stg>
-            <st Contlex="PronTag">кигок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>киндивок</l>
-         <stg>
-            <st Contlex="PronTag">киндивок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>киндиге</l>
-         <stg>
-            <st Contlex="PronTag">киндиге</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кинь</l>
-         <stg>
-            <st Contlex="PronTag">кинь</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>киньге</l>
-         <stg>
-            <st Contlex="PronTag">киньге</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кияк</l>
-         <stg>
-            <st Contlex="PronTag">кияк</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кодамовок</l>
-         <stg>
-            <st Contlex="PronTag">кодамовок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кой-кит</l>
-         <stg>
-            <st Contlex="PronTag">кой-кит</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезь</l>
-         <stg>
-            <st Contlex="PronTag">мезь</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезьге</l>
-         <stg>
-            <st Contlex="PronTag">мезьге</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезьда</l>
-         <stg>
-            <st Contlex="PronTag">мезьда</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезьда-мезьда</l>
-         <stg>
-            <st Contlex="PronTag">мезьда-мезьда</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезьса_аф_мезьса</l>
-         <stg>
-            <st Contlex="PronTag">мезьса_аф_мезьса</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мезьске</l>
-         <stg>
-            <st Contlex="PronTag">мезьске</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мейя</l>
-         <stg>
-            <st Contlex="PronTag">мейя</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>меяма</l>
-         <stg>
-            <st Contlex="PronTag">меяма</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мийеге</l>
-         <stg>
-            <st Contlex="PronTag">мийеге</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>миндейнек</l>
-         <stg>
-            <st Contlex="PronTag">миндейнек</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>минцень</l>
-         <stg>
-            <st Contlex="PronTag">минцень</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>минць</l>
-         <stg>
-            <st Contlex="PronTag">минць</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>миявок</l>
-         <stg>
-            <st Contlex="PronTag">миявок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>миярс</l>
-         <stg>
-            <st Contlex="PronTag">миярс</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>миятка</l>
-         <stg>
-            <st Contlex="PronTag">миятка</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мъзяровок</l>
-         <stg>
-            <st Contlex="PronTag">мъзяровок</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мъзяроце</l>
-         <stg>
-            <st Contlex="PronTag">мъзяроце</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мъзяроцеда</l>
-         <stg>
-            <st Contlex="PronTag">мъзяроцеда</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мъзярс</l>
-         <stg>
-            <st Contlex="PronTag">мъзярс</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мяйя</l>
-         <stg>
-            <st Contlex="PronTag">мяйя</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ома</l>
-         <stg>
-            <st Contlex="PronTag">ома</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>синць</l>
-         <stg>
-            <st Contlex="PronTag">синць</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>стама</l>
-         <stg>
-            <st Contlex="PronTag">стама</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>стамка</l>
-         <stg>
-            <st Contlex="PronTag">стамка</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>сювакай</l>
-         <stg>
-            <st Contlex="PronTag">сювакай</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейне</l>
-         <stg>
-            <st Contlex="PronTag">тейне</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейнек</l>
-         <stg>
-            <st Contlex="PronTag">тейнек</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейнза</l>
-         <stg>
-            <st Contlex="PronTag">тейнза</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейнть</l>
-         <stg>
-            <st Contlex="PronTag">тейнть</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейст</l>
-         <stg>
-            <st Contlex="PronTag">тейст</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тейть</l>
-         <stg>
-            <st Contlex="PronTag">тейть</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тинне</l>
-         <stg>
-            <st Contlex="PronTag">тинне</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тинценне</l>
-         <stg>
-            <st Contlex="PronTag">тинценне</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тинцень</l>
-         <stg>
-            <st Contlex="PronTag">тинцень</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тинць</l>
-         <stg>
-            <st Contlex="PronTag">тинць</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>фкя-фкада</l>
-         <stg>
-            <st Contlex="PronTag">фкя-фкада</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>фкя-фкянь</l>
-         <stg>
-            <st Contlex="PronTag">фкя-фкянь</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эздодон</l>
-         <stg>
-            <st Contlex="PronTag">эздодон</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эковай</l>
-         <stg>
-            <st Contlex="PronTag">эковай</st>
-         </stg>
-      </lg>
-      <pos>PRON</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
          </tg>
       </mg>
    </e>

@@ -1,80 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
-      <lg>
-         <l>пух</l>
-         <stg>
-            <st Contlex="DescrTag">пух</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <phonet>pux</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>топ</l>
-         <stg>
-            <st Contlex="DescrTag">топ</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <phonet>top</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>цяр</l>
-         <stg>
-            <st Contlex="DescrTag">цяр</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <phonet>ćar</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чивор</l>
-         <stg>
-            <st Contlex="DescrTag">чивор</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <phonet>čivər</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kurina.</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
       <lg>
          <l>ав-ав</l>
          <stg>
@@ -92,7 +22,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аньдити</l>
          <stg>
@@ -110,7 +40,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бах</l>
          <stg>
@@ -128,7 +58,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бац</l>
          <stg>
@@ -146,7 +76,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бацк</l>
          <stg>
@@ -164,7 +94,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бацор-бацор</l>
          <stg>
@@ -182,7 +112,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>боцк</l>
          <stg>
@@ -200,7 +130,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бренч-бренч</l>
          <stg>
@@ -218,7 +148,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>булдор-булдор</l>
          <stg>
@@ -236,7 +166,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>буль-буль</l>
          <stg>
@@ -254,7 +184,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бульдерь-бульдерь</l>
          <stg>
@@ -272,7 +202,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бум</l>
          <stg>
@@ -290,7 +220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бунть</l>
          <stg>
@@ -308,7 +238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бух</l>
          <stg>
@@ -326,7 +256,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бъльдерь-бъльдерь</l>
          <stg>
@@ -344,7 +274,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бъльк</l>
          <stg>
@@ -362,7 +292,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бъц</l>
          <stg>
@@ -380,7 +310,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бъцор</l>
          <stg>
@@ -398,7 +328,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бяр</l>
          <stg>
@@ -416,7 +346,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бяцк</l>
          <stg>
@@ -434,7 +364,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бяцор-бяцор</l>
          <stg>
@@ -452,7 +382,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>варк</l>
          <stg>
@@ -470,7 +400,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въжгол</l>
          <stg>
@@ -488,7 +418,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въжж</l>
          <stg>
@@ -506,7 +436,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въжк</l>
          <stg>
@@ -524,7 +454,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въркшт</l>
          <stg>
@@ -542,7 +472,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>върр</l>
          <stg>
@@ -560,7 +490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въррь</l>
          <stg>
@@ -578,7 +508,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>върхть</l>
          <stg>
@@ -596,7 +526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>върьшт</l>
          <stg>
@@ -614,7 +544,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>въшт</l>
          <stg>
@@ -632,7 +562,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вягак</l>
          <stg>
@@ -650,7 +580,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вяк</l>
          <stg>
@@ -668,7 +598,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вятерь-вятерь</l>
          <stg>
@@ -686,7 +616,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гага-гага</l>
          <stg>
@@ -704,7 +634,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гай-гай</l>
          <stg>
@@ -722,7 +652,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гальдерь-гальдерь</l>
          <stg>
@@ -740,7 +670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>голт-голт</l>
          <stg>
@@ -758,7 +688,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>грох</l>
          <stg>
@@ -776,7 +706,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гулдор-галдор</l>
          <stg>
@@ -794,7 +724,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гурь</l>
          <stg>
@@ -812,7 +742,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гъз</l>
          <stg>
@@ -830,7 +760,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>гълдор-галдор</l>
          <stg>
@@ -848,7 +778,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дзиньк</l>
          <stg>
@@ -866,7 +796,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>динголь-динголь</l>
          <stg>
@@ -884,7 +814,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>динь</l>
          <stg>
@@ -902,25 +832,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>диньголь-диньголь</l>
-         <stg>
-            <st Contlex="DescrTag">диньголь-диньголь</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>динь-динь</l>
          <stg>
@@ -938,7 +850,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>диньголь-диньголь</l>
+         <stg>
+            <st Contlex="DescrTag">диньголь-диньголь</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>дой</l>
          <stg>
@@ -956,7 +886,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дон</l>
          <stg>
@@ -974,7 +904,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дринь</l>
          <stg>
@@ -992,7 +922,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дриньк-дриньк</l>
          <stg>
@@ -1010,7 +940,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>дубор-дубор</l>
          <stg>
@@ -1028,79 +958,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>ёзмол-ёзмол</l>
-         <stg>
-            <st Contlex="DescrTag">ёзмол-ёзмол</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ёкол-ёкол</l>
-         <stg>
-            <st Contlex="DescrTag">ёкол-ёкол</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ёлк-ёлк</l>
-         <stg>
-            <st Contlex="DescrTag">ёлк-ёлк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ёмболк</l>
-         <stg>
-            <st Contlex="DescrTag">ёмболк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>жик</l>
          <stg>
@@ -1118,7 +976,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жой</l>
          <stg>
@@ -1136,43 +994,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>жольдерь-жольдерь</l>
-         <stg>
-            <st Contlex="DescrTag">жольдерь-жольдерь</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>жольдерь-кальдерь</l>
-         <stg>
-            <st Contlex="DescrTag">жольдерь-кальдерь</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>жоль-жоль</l>
          <stg>
@@ -1190,7 +1012,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>жольдерь-жольдерь</l>
+         <stg>
+            <st Contlex="DescrTag">жольдерь-жольдерь</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>жольдерь-кальдерь</l>
+         <stg>
+            <st Contlex="DescrTag">жольдерь-кальдерь</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>зярь</l>
          <stg>
@@ -1208,7 +1066,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>иго-го</l>
          <stg>
@@ -1226,7 +1084,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>калдор-калдор</l>
          <stg>
@@ -1244,7 +1102,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>калт</l>
          <stg>
@@ -1262,7 +1120,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кальдерь-кальдерь</l>
          <stg>
@@ -1280,7 +1138,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кальхцк-кальхцк</l>
          <stg>
@@ -1298,7 +1156,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>канзер-канзер</l>
          <stg>
@@ -1316,7 +1174,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>канзерхт</l>
          <stg>
@@ -1334,7 +1192,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кап</l>
          <stg>
@@ -1352,7 +1210,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>каф-куф</l>
          <stg>
@@ -1370,7 +1228,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кацер-кацер</l>
          <stg>
@@ -1388,7 +1246,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кецор-кецор</l>
          <stg>
@@ -1406,7 +1264,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кифтол</l>
          <stg>
@@ -1424,7 +1282,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кончт-кончт</l>
          <stg>
@@ -1442,7 +1300,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>копст-копст</l>
          <stg>
@@ -1460,7 +1318,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>корхчк-корхчк</l>
          <stg>
@@ -1478,7 +1336,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>корь-корь</l>
          <stg>
@@ -1496,7 +1354,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>корьфь</l>
          <stg>
@@ -1514,7 +1372,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>коцор-коцор</l>
          <stg>
@@ -1532,7 +1390,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кринть-кринть</l>
          <stg>
@@ -1550,7 +1408,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>куйшть-куйшть</l>
          <stg>
@@ -1568,7 +1426,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кулдор-калдор</l>
          <stg>
@@ -1586,7 +1444,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кълтык-кълтык</l>
          <stg>
@@ -1604,7 +1462,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>къркшт</l>
          <stg>
@@ -1622,7 +1480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кърхмык</l>
          <stg>
@@ -1640,7 +1498,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кътор-кътор</l>
          <stg>
@@ -1658,7 +1516,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>къшмик</l>
          <stg>
@@ -1676,7 +1534,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кылдырку</l>
          <stg>
@@ -1694,7 +1552,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кяр-кяр</l>
          <stg>
@@ -1712,7 +1570,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кярь-кярь</l>
          <stg>
@@ -1730,7 +1588,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лабор-лабор</l>
          <stg>
@@ -1748,7 +1606,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лагор-лагор</l>
          <stg>
@@ -1766,7 +1624,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лакшт</l>
          <stg>
@@ -1784,7 +1642,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лакштор</l>
          <stg>
@@ -1802,7 +1660,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лакштор-лакштор</l>
          <stg>
@@ -1820,7 +1678,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лап</l>
          <stg>
@@ -1838,25 +1696,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>лапик</l>
-         <stg>
-            <st Contlex="DescrTag">лапик</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>лап-лап</l>
          <stg>
@@ -1874,7 +1714,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>лапик</l>
+         <stg>
+            <st Contlex="DescrTag">лапик</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ларк</l>
          <stg>
@@ -1892,7 +1750,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ларк-ларк</l>
          <stg>
@@ -1910,7 +1768,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лаш</l>
          <stg>
@@ -1928,7 +1786,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>леборь-леборь</l>
          <stg>
@@ -1946,7 +1804,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>либорь-либорь</l>
          <stg>
@@ -1964,7 +1822,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ликом-лаком</l>
          <stg>
@@ -1982,7 +1840,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>липшт</l>
          <stg>
@@ -2000,7 +1858,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лозк</l>
          <stg>
@@ -2018,7 +1876,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лозь</l>
          <stg>
@@ -2036,7 +1894,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лонть</l>
          <stg>
@@ -2054,7 +1912,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лонть-лонть</l>
          <stg>
@@ -2072,7 +1930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лоп</l>
          <stg>
@@ -2090,7 +1948,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лоп-лоп</l>
          <stg>
@@ -2108,7 +1966,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лоськ-лоськ</l>
          <stg>
@@ -2126,7 +1984,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лоткшт</l>
          <stg>
@@ -2144,7 +2002,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лужк</l>
          <stg>
@@ -2162,7 +2020,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лужк-лужк</l>
          <stg>
@@ -2180,7 +2038,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>луп-луп</l>
          <stg>
@@ -2198,7 +2056,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лъкшт</l>
          <stg>
@@ -2216,7 +2074,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лъкшт-лъкшт</l>
          <stg>
@@ -2234,7 +2092,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лъкштор</l>
          <stg>
@@ -2252,7 +2110,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>лыпык</l>
          <stg>
@@ -2270,7 +2128,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>люкок</l>
          <stg>
@@ -2288,7 +2146,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>люкшт</l>
          <stg>
@@ -2306,7 +2164,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мок-мек</l>
          <stg>
@@ -2324,7 +2182,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>моцор-моцор</l>
          <stg>
@@ -2342,7 +2200,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мъзолхт</l>
          <stg>
@@ -2360,7 +2218,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мър-мър</l>
          <stg>
@@ -2378,7 +2236,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мъчкор-мъчкор</l>
          <stg>
@@ -2396,7 +2254,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мъштерь-мъштерь</l>
          <stg>
@@ -2414,7 +2272,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>мярк</l>
          <stg>
@@ -2432,7 +2290,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нолшт</l>
          <stg>
@@ -2450,25 +2308,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>норхцк</l>
-         <stg>
-            <st Contlex="DescrTag">норхцк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>норхц-норхц</l>
          <stg>
@@ -2486,7 +2326,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>норхцк</l>
+         <stg>
+            <st Contlex="DescrTag">норхцк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ноцк</l>
          <stg>
@@ -2504,7 +2362,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нулхт</l>
          <stg>
@@ -2522,7 +2380,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нулхт-нулхт</l>
          <stg>
@@ -2540,7 +2398,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>нулхтыкь</l>
          <stg>
@@ -2558,7 +2416,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пиндолк-пиндолк</l>
          <stg>
@@ -2576,7 +2434,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пиндолхт</l>
          <stg>
@@ -2594,7 +2452,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>плюх</l>
          <stg>
@@ -2612,25 +2470,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>покор-покор</l>
-         <stg>
-            <st Contlex="DescrTag">покор-покор</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>пок-пок</l>
          <stg>
@@ -2648,7 +2488,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>покор-покор</l>
+         <stg>
+            <st Contlex="DescrTag">покор-покор</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>полкшт</l>
          <stg>
@@ -2666,7 +2524,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пукшт</l>
          <stg>
@@ -2684,7 +2542,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пунть</l>
          <stg>
@@ -2702,7 +2560,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>пух</l>
+         <stg>
+            <st Contlex="DescrTag">пух</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>pux</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>пълдорк-пълдорк</l>
          <stg>
@@ -2720,7 +2596,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пълкшт</l>
          <stg>
@@ -2738,7 +2614,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пъркшт</l>
          <stg>
@@ -2756,7 +2632,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пъть</l>
          <stg>
@@ -2774,7 +2650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пянкшт</l>
          <stg>
@@ -2792,7 +2668,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пяцор-пяцор</l>
          <stg>
@@ -2810,7 +2686,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>раз</l>
          <stg>
@@ -2828,7 +2704,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>рас</l>
          <stg>
@@ -2846,25 +2722,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>рёв-рёв</l>
-         <stg>
-            <st Contlex="DescrTag">рёв-рёв</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>рис-рас</l>
          <stg>
@@ -2882,7 +2740,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>рёв-рёв</l>
+         <stg>
+            <st Contlex="DescrTag">рёв-рёв</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>талхт-талхт</l>
          <stg>
@@ -2900,7 +2776,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>теш-лаш</l>
          <stg>
@@ -2918,25 +2794,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>тёш</l>
-         <stg>
-            <st Contlex="DescrTag">тёш</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>тигел</l>
          <stg>
@@ -2954,7 +2812,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тиньти</l>
          <stg>
@@ -2972,7 +2830,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тити-тити-тити</l>
          <stg>
@@ -2990,7 +2848,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>токшт</l>
          <stg>
@@ -3008,7 +2866,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>топ</l>
+         <stg>
+            <st Contlex="DescrTag">топ</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <phonet>top</phonet>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>тотомы-тотомы</l>
          <stg>
@@ -3026,7 +2902,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тоцк</l>
          <stg>
@@ -3044,7 +2920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тош</l>
          <stg>
@@ -3062,7 +2938,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тош-тош</l>
          <stg>
@@ -3080,7 +2956,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>трах</l>
          <stg>
@@ -3098,7 +2974,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тук</l>
          <stg>
@@ -3116,7 +2992,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тук-тук</l>
          <stg>
@@ -3134,7 +3010,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тъпор</l>
          <stg>
@@ -3152,7 +3028,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>търхцк</l>
          <stg>
@@ -3170,7 +3046,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тыж</l>
          <stg>
@@ -3188,7 +3064,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тыж-выж</l>
          <stg>
@@ -3206,7 +3082,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тыж-лаж</l>
          <stg>
@@ -3224,7 +3100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тяп</l>
          <stg>
@@ -3242,7 +3118,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тярь-тярь</l>
          <stg>
@@ -3260,7 +3136,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тяф</l>
          <stg>
@@ -3278,7 +3154,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>тёш</l>
+         <stg>
+            <st Contlex="DescrTag">тёш</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>фырк</l>
          <stg>
@@ -3296,7 +3190,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>фырк-фырк</l>
          <stg>
@@ -3314,7 +3208,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ха-ха</l>
          <stg>
@@ -3332,7 +3226,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ха-ха-ха</l>
          <stg>
@@ -3350,7 +3244,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хе-хе</l>
          <stg>
@@ -3368,7 +3262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хи-хи</l>
          <stg>
@@ -3386,7 +3280,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хи-хи-хи</l>
          <stg>
@@ -3404,7 +3298,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>хлоп</l>
          <stg>
@@ -3422,7 +3316,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цап</l>
          <stg>
@@ -3440,7 +3334,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>церк-церк</l>
          <stg>
@@ -3458,25 +3352,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>цёф-цёф</l>
-         <stg>
-            <st Contlex="DescrTag">цёф-цёф</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>ций</l>
          <stg>
@@ -3494,7 +3370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цинголь</l>
          <stg>
@@ -3512,7 +3388,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цинголь-динголь</l>
          <stg>
@@ -3530,7 +3406,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цинголь-кальдерь</l>
          <stg>
@@ -3548,7 +3424,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цинголь-канзер</l>
          <stg>
@@ -3566,25 +3442,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>цингорк</l>
-         <stg>
-            <st Contlex="DescrTag">цингорк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>цингор-канзер</l>
          <stg>
@@ -3602,11 +3460,11 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>циньк-циньк</l>
+         <l>цингорк</l>
          <stg>
-            <st Contlex="DescrTag">циньк-циньк</st>
+            <st Contlex="DescrTag">цингорк</st>
          </stg>
       </lg>
       <pos>DESCR</pos>
@@ -3620,7 +3478,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цинь-цинь</l>
          <stg>
@@ -3638,7 +3496,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>циньк-циньк</l>
+         <stg>
+            <st Contlex="DescrTag">циньк-циньк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>цирьк</l>
          <stg>
@@ -3656,7 +3532,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цирьк-цирьк</l>
          <stg>
@@ -3674,7 +3550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цить</l>
          <stg>
@@ -3692,7 +3568,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цифтор-цифтор</l>
          <stg>
@@ -3710,7 +3586,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цок</l>
          <stg>
@@ -3728,7 +3604,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цоп</l>
          <stg>
@@ -3746,7 +3622,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цыва-цыпа</l>
          <stg>
@@ -3764,7 +3640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цыц-цат</l>
          <stg>
@@ -3782,7 +3658,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цюв-цяв</l>
          <stg>
@@ -3800,7 +3676,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цютор-цятор</l>
          <stg>
@@ -3818,7 +3694,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>цяп</l>
          <stg>
@@ -3836,43 +3712,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>цятор</l>
+         <l>цяр</l>
          <stg>
-            <st Contlex="DescrTag">цятор</st>
+            <st Contlex="DescrTag">цяр</st>
          </stg>
       </lg>
       <pos>DESCR</pos>
+      <phonet>ćar</phonet>
       <mg>
          <m>
             <head/>
-            <defNative/>
          </m>
          <tg lang="fin">
             <t/>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>цятор-цятор</l>
-         <stg>
-            <st Contlex="DescrTag">цятор-цятор</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>цят-цят</l>
          <stg>
@@ -3890,7 +3748,61 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>цятор</l>
+         <stg>
+            <st Contlex="DescrTag">цятор</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>цятор-цятор</l>
+         <stg>
+            <st Contlex="DescrTag">цятор-цятор</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>цёф-цёф</l>
+         <stg>
+            <st Contlex="DescrTag">цёф-цёф</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>чак</l>
          <stg>
@@ -3908,25 +3820,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>чакор</l>
-         <stg>
-            <st Contlex="DescrTag">чакор</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>чак-чак</l>
          <stg>
@@ -3944,7 +3838,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чак-чак-чак</l>
          <stg>
@@ -3962,7 +3856,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>чакор</l>
+         <stg>
+            <st Contlex="DescrTag">чакор</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>чатор</l>
          <stg>
@@ -3980,97 +3892,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
-         <l>чёкшт</l>
+         <l>чивор</l>
          <stg>
-            <st Contlex="DescrTag">чёкшт</st>
+            <st Contlex="DescrTag">чивор</st>
          </stg>
       </lg>
       <pos>DESCR</pos>
+      <phonet>čivər</phonet>
       <mg>
          <m>
             <head/>
-            <defNative/>
          </m>
          <tg lang="fin">
-            <t/>
+            <t>kurina.</t>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>чёмбол</l>
-         <stg>
-            <st Contlex="DescrTag">чёмбол</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чёф</l>
-         <stg>
-            <st Contlex="DescrTag">чёф</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чёш</l>
-         <stg>
-            <st Contlex="DescrTag">чёш</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чёш-чёш</l>
-         <stg>
-            <st Contlex="DescrTag">чёш-чёш</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>чижелхт-выжелхт</l>
          <stg>
@@ -4088,7 +3928,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чикор</l>
          <stg>
@@ -4106,7 +3946,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чип-чип</l>
          <stg>
@@ -4124,7 +3964,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чир</l>
          <stg>
@@ -4142,43 +3982,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>чирк</l>
-         <stg>
-            <st Contlex="DescrTag">чирк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чирк-чирк</l>
-         <stg>
-            <st Contlex="DescrTag">чирк-чирк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>чир-чер</l>
          <stg>
@@ -4196,7 +4000,43 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>чирк</l>
+         <stg>
+            <st Contlex="DescrTag">чирк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чирк-чирк</l>
+         <stg>
+            <st Contlex="DescrTag">чирк-чирк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>читор-лагор</l>
          <stg>
@@ -4214,7 +4054,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>читор-чатор</l>
          <stg>
@@ -4232,7 +4072,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чоп</l>
          <stg>
@@ -4250,7 +4090,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чупик</l>
          <stg>
@@ -4268,7 +4108,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чъкор-чъкор</l>
          <stg>
@@ -4286,7 +4126,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чъкр</l>
          <stg>
@@ -4304,7 +4144,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чыжк-выжк</l>
          <stg>
@@ -4322,7 +4162,97 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>чёкшт</l>
+         <stg>
+            <st Contlex="DescrTag">чёкшт</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чёмбол</l>
+         <stg>
+            <st Contlex="DescrTag">чёмбол</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чёф</l>
+         <stg>
+            <st Contlex="DescrTag">чёф</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чёш</l>
+         <stg>
+            <st Contlex="DescrTag">чёш</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>чёш-чёш</l>
+         <stg>
+            <st Contlex="DescrTag">чёш-чёш</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>шелль</l>
          <stg>
@@ -4340,7 +4270,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шель</l>
          <stg>
@@ -4358,7 +4288,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шлёлёлёть</l>
          <stg>
@@ -4376,7 +4306,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шлёп</l>
          <stg>
@@ -4394,25 +4324,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l>щёлк</l>
-         <stg>
-            <st Contlex="DescrTag">щёлк</st>
-         </stg>
-      </lg>
-      <pos>DESCR</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l>щуп-щуп</l>
          <stg>
@@ -4430,7 +4342,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>щёлк</l>
+         <stg>
+            <st Contlex="DescrTag">щёлк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>юлхт-юлхт</l>
          <stg>
@@ -4448,7 +4378,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>юркшт</l>
          <stg>
@@ -4466,7 +4396,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>юфчий-яфчай</l>
          <stg>
@@ -4484,11 +4414,83 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>юшт</l>
          <stg>
             <st Contlex="DescrTag">юшт</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ёзмол-ёзмол</l>
+         <stg>
+            <st Contlex="DescrTag">ёзмол-ёзмол</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ёкол-ёкол</l>
+         <stg>
+            <st Contlex="DescrTag">ёкол-ёкол</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ёлк-ёлк</l>
+         <stg>
+            <st Contlex="DescrTag">ёлк-ёлк</st>
+         </stg>
+      </lg>
+      <pos>DESCR</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ёмболк</l>
+         <stg>
+            <st Contlex="DescrTag">ёмболк</st>
          </stg>
       </lg>
       <pos>DESCR</pos>
