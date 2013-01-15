@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e>
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
       <lg>
          <l>а</l>
          <stg>
@@ -25,7 +27,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>али</l>
          <stg>
@@ -43,7 +45,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аньцек</l>
          <stg>
@@ -61,7 +63,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>апак</l>
          <stg>
@@ -99,7 +101,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аф</l>
          <stg>
@@ -177,7 +179,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>афи</l>
          <stg>
@@ -195,7 +197,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>афоли</l>
          <stg>
@@ -213,7 +215,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>аш</l>
          <stg>
@@ -251,7 +253,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>бди</l>
          <stg>
@@ -269,7 +271,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>бъльшем</l>
+         <stg>
+            <st Contlex="PcleTag">бъльшем</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>вага</l>
          <stg>
@@ -292,7 +312,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>вельф</l>
+         <stg>
+            <st Contlex="PcleTag">вельф</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>виде</l>
          <stg>
@@ -365,7 +403,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>видекс</l>
          <stg>
@@ -383,7 +421,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>вов</l>
          <stg>
@@ -416,7 +454,97 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>ворьть</l>
+         <stg>
+            <st Contlex="PcleTag">ворьть</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ворьхть</l>
+         <stg>
+            <st Contlex="PcleTag">ворьхть</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>вот</l>
+         <stg>
+            <st Contlex="PcleTag">вот</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>въдь</l>
+         <stg>
+            <st Contlex="PcleTag">въдь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>голь</l>
+         <stg>
+            <st Contlex="PcleTag">голь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>да</l>
          <stg>
@@ -434,7 +562,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>да</l>
          <stg>
@@ -457,7 +585,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>дель</l>
+         <stg>
+            <st Contlex="PcleTag">дель</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>деряй</l>
+         <stg>
+            <st Contlex="PcleTag">деряй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>дряй</l>
+         <stg>
+            <st Contlex="PcleTag">дряй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>дяряй</l>
          <stg>
@@ -480,7 +662,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>жа</l>
          <stg>
@@ -518,7 +700,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>жо</l>
+         <stg>
+            <st Contlex="PcleTag">жо</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>и</l>
          <stg>
@@ -541,7 +741,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ина</l>
          <stg>
@@ -564,7 +764,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>инь</l>
          <stg>
@@ -592,7 +792,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>кати</l>
          <stg>
@@ -615,7 +815,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>катк</l>
          <stg>
@@ -643,7 +843,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>кепшт</l>
+         <stg>
+            <st Contlex="PcleTag">кепшт</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>клёк</l>
          <stg>
@@ -661,7 +879,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>конешна</l>
          <stg>
@@ -679,7 +897,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>къле</l>
+         <stg>
+            <st Contlex="PcleTag">къле</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>меколанкт</l>
          <stg>
@@ -702,7 +938,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>можботь</l>
+         <stg>
+            <st Contlex="PcleTag">можботь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>может</l>
+         <stg>
+            <st Contlex="PcleTag">может</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>мъле</l>
+         <stg>
+            <st Contlex="PcleTag">мъле</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>мяк</l>
          <stg>
@@ -725,7 +1015,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>мяле</l>
+         <stg>
+            <st Contlex="PcleTag">мяле</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>мянь</l>
          <stg>
@@ -753,7 +1061,25 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>мярьк</l>
+         <stg>
+            <st Contlex="PcleTag">мярьк</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>на</l>
          <stg>
@@ -776,7 +1102,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>най</l>
          <stg>
@@ -804,7 +1130,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>начас</l>
          <stg>
@@ -827,7 +1153,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>небось</l>
+         <stg>
+            <st Contlex="PcleTag">небось</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>незьля</l>
+         <stg>
+            <st Contlex="PcleTag">незьля</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>нетоком</l>
+         <stg>
+            <st Contlex="PcleTag">нетоком</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>ни</l>
          <stg>
@@ -850,7 +1230,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>ну</l>
          <stg>
@@ -878,7 +1258,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>нъльне</l>
+         <stg>
+            <st Contlex="PcleTag">нъльне</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>няк</l>
+         <stg>
+            <st Contlex="PcleTag">няк</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ожу</l>
+         <stg>
+            <st Contlex="PcleTag">ожу</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>пади</l>
          <stg>
@@ -901,7 +1335,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>пожалуйста</l>
          <stg>
@@ -919,7 +1353,79 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>пъчкяль</l>
+         <stg>
+            <st Contlex="PcleTag">пъчкяль</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>пъчкясь</l>
+         <stg>
+            <st Contlex="PcleTag">пъчкясь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>рьъстей</l>
+         <stg>
+            <st Contlex="PcleTag">рьъстей</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>рязей</l>
+         <stg>
+            <st Contlex="PcleTag">рязей</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>саты</l>
          <stg>
@@ -937,7 +1443,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сембоц</l>
          <stg>
@@ -955,7 +1461,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сюкпря</l>
          <stg>
@@ -973,7 +1479,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>сяда</l>
          <stg>
@@ -1011,7 +1517,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>таки</l>
          <stg>
@@ -1034,7 +1540,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>тейне-арам</l>
          <stg>
@@ -1052,7 +1558,79 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>теконь</l>
+         <stg>
+            <st Contlex="PcleTag">теконь</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>туй</l>
+         <stg>
+            <st Contlex="PcleTag">туй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тък</l>
+         <stg>
+            <st Contlex="PcleTag">тък</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>тык</l>
+         <stg>
+            <st Contlex="PcleTag">тык</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>тя</l>
          <stg>
@@ -1210,7 +1788,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>улема</l>
          <stg>
@@ -1233,7 +1811,61 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>утль</l>
+         <stg>
+            <st Contlex="PcleTag">утль</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>уш</l>
+         <stg>
+            <st Contlex="PcleTag">уш</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>хоть</l>
+         <stg>
+            <st Contlex="PcleTag">хоть</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>хуть</l>
          <stg>
@@ -1251,7 +1883,61 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>хуш</l>
+         <stg>
+            <st Contlex="PcleTag">хуш</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>це</l>
+         <stg>
+            <st Contlex="PcleTag">це</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>ця</l>
+         <stg>
+            <st Contlex="PcleTag">ця</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>цёк</l>
          <stg>
@@ -1274,7 +1960,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>чай</l>
          <stg>
@@ -1292,7 +1978,25 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>чяй</l>
+         <stg>
+            <st Contlex="PcleTag">чяй</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>штоба</l>
          <stg>
@@ -1310,7 +2014,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l>шять</l>
          <stg>
@@ -1328,7 +2032,79 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
+      <lg>
+         <l>эбять</l>
+         <stg>
+            <st Contlex="PcleTag">эбять</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эвон</l>
+         <stg>
+            <st Contlex="PcleTag">эвон</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эк</l>
+         <stg>
+            <st Contlex="PcleTag">эк</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l>эле</l>
+         <stg>
+            <st Contlex="PcleTag">эле</st>
+         </stg>
+      </lg>
+      <pos>PCLE</pos>
+      <mg>
+         <m>
+            <head/>
+            <defNative/>
+         </m>
+         <tg lang="fin">
+            <t/>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l>эрь</l>
          <stg>
@@ -1354,780 +2130,6 @@
             <phonet>äŕ meźńä</phonet>
             <xt lang="fin">joka kerta, aina, alituiseen.</xt>
          </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>бъльшем</l>
-         <stg>
-            <st Contlex="PcleTag">бъльшем</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вельф</l>
-         <stg>
-            <st Contlex="PcleTag">вельф</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ворьть</l>
-         <stg>
-            <st Contlex="PcleTag">ворьть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ворьхть</l>
-         <stg>
-            <st Contlex="PcleTag">ворьхть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>вот</l>
-         <stg>
-            <st Contlex="PcleTag">вот</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>въдь</l>
-         <stg>
-            <st Contlex="PcleTag">въдь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>голь</l>
-         <stg>
-            <st Contlex="PcleTag">голь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>дель</l>
-         <stg>
-            <st Contlex="PcleTag">дель</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>деряй</l>
-         <stg>
-            <st Contlex="PcleTag">деряй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>дряй</l>
-         <stg>
-            <st Contlex="PcleTag">дряй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>жо</l>
-         <stg>
-            <st Contlex="PcleTag">жо</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>кепшт</l>
-         <stg>
-            <st Contlex="PcleTag">кепшт</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>къле</l>
-         <stg>
-            <st Contlex="PcleTag">къле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>можботь</l>
-         <stg>
-            <st Contlex="PcleTag">можботь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>может</l>
-         <stg>
-            <st Contlex="PcleTag">может</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мъле</l>
-         <stg>
-            <st Contlex="PcleTag">мъле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мяле</l>
-         <stg>
-            <st Contlex="PcleTag">мяле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>мярьк</l>
-         <stg>
-            <st Contlex="PcleTag">мярьк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>небось</l>
-         <stg>
-            <st Contlex="PcleTag">небось</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>незьля</l>
-         <stg>
-            <st Contlex="PcleTag">незьля</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нетоком</l>
-         <stg>
-            <st Contlex="PcleTag">нетоком</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>нъльне</l>
-         <stg>
-            <st Contlex="PcleTag">нъльне</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>няк</l>
-         <stg>
-            <st Contlex="PcleTag">няк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ожу</l>
-         <stg>
-            <st Contlex="PcleTag">ожу</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пъчкяль</l>
-         <stg>
-            <st Contlex="PcleTag">пъчкяль</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>пъчкясь</l>
-         <stg>
-            <st Contlex="PcleTag">пъчкясь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>рьъстей</l>
-         <stg>
-            <st Contlex="PcleTag">рьъстей</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>рязей</l>
-         <stg>
-            <st Contlex="PcleTag">рязей</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>теконь</l>
-         <stg>
-            <st Contlex="PcleTag">теконь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>туй</l>
-         <stg>
-            <st Contlex="PcleTag">туй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тък</l>
-         <stg>
-            <st Contlex="PcleTag">тък</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>тык</l>
-         <stg>
-            <st Contlex="PcleTag">тык</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>утль</l>
-         <stg>
-            <st Contlex="PcleTag">утль</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>уш</l>
-         <stg>
-            <st Contlex="PcleTag">уш</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>хоть</l>
-         <stg>
-            <st Contlex="PcleTag">хоть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>хуш</l>
-         <stg>
-            <st Contlex="PcleTag">хуш</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>це</l>
-         <stg>
-            <st Contlex="PcleTag">це</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>ця</l>
-         <stg>
-            <st Contlex="PcleTag">ця</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>чяй</l>
-         <stg>
-            <st Contlex="PcleTag">чяй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эбять</l>
-         <stg>
-            <st Contlex="PcleTag">эбять</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эвон</l>
-         <stg>
-            <st Contlex="PcleTag">эвон</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эк</l>
-         <stg>
-            <st Contlex="PcleTag">эк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l>эле</l>
-         <stg>
-            <st Contlex="PcleTag">эле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
       </mg>
    </e>
 </r>
