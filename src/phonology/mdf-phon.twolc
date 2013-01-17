@@ -132,6 +132,8 @@ Letters = Vows Cns ь ъ ;
 
 Definitions
 
+CnsNotCliticVok = [ [Cns - в] | в [ Vws - о ] | в о [ Cns - к] ] ;
+
 ! Front Trigger Consonants (less ль)
 FTC = [ й: | д ь: | з ь: | н ь: | р ь: | с ь: | т ь: | ц ь: ] ;
 
@@ -191,11 +193,13 @@ Rules
 Ы2:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %>: _ ;
 
 "O1:a"
- О1:а <=> _ [ #: ] ;
+ О1:а <=> _ [ #: | %> в о к ] ;
 
 
  "O1:o"
- О1:о <=> _ [ %>: | %>: О1:0 ] Cns  ;
+ О1:о <=> _ [ %>: | %>: О1:0 ] CnsNotCliticVok ;
+          Cns %> _ Cns ;
+!€ ава>з>О1нт
 
 
 "O1:0"
