@@ -26,19 +26,57 @@ Multichar_Symbols
 +WORK
 
 !! The parts-of-speech are:
- +N +A +Adv +V
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+ +A ! adjective
+ +Adv ! adverb
+ +CS ! subordinating conjunction
+ +CC ! coordinating conjunction
+ +Interj ! interjection
+ +N ! noun
+ +Pcle ! particle
+ +Po ! postposition
+ +Pron ! pronoun
+ +Qnt ! Quantifier
+ +V ! verb
 
 !! The parts of speech are further split up into:
- +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+! Nouns
+ +Prop ! proper
+ +CollN ! used with paired nouns _collective nouns_
+! Pronouns
+ +Dem ! demonstrative
+ +Indef ! indefinite
+ +Dep ! dependent word requiring the presence of another, e.g. _мень_
+ +Interr ! interrogative
+ +Pers ! personal
+ +Recipr ! reciprocal
+ +Refl ! reflexive
+ +Rel ! relative
 ! personal pronouns use additional tags Sg1
  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
+
+! Adverbs
+ +Adv-Ideoph ! These are ideophonic descriptors used to modify the verb
+            ! вырк ливтясь '_flit_ and it flew off'
+ +AdA ! Ad-adjective
+ +Manner ! with reference to type of adverb
+ +Spat ! spatial
+ +Temp ! temporal
+
+! Postpositions
+! _+ Spat_, _+ Temp_
+
+! Interjections
+ +Formulaic
+
 !! The Usage extents are marked using following tags:
  +Use/Sub   
  +Use/-Spell 
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Pl
+! number
+ +Sg ! singular
+ +Pl ! plural
+! case
  +Abe ! abessive
  +Abl ! ablative
  +Acc ! accusative Not really necessary
@@ -52,36 +90,82 @@ Multichar_Symbols
  +Loc ! locative 
  +Nom ! nominative
  +Prl ! prolative
+ +Tra ! translative
+ +Voc ! Vocative
  
 !! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
+ +PxSg1 ! first person singular
+ +PxSg2 ! second person singular
+ +PxSg3 ! third person singular
+ +PxPl1 ! first person plural
+ +PxPl2 ! second person plural
+ +PxPl3 ! third person plural
 
  ! + InDef This has been changed to +Indef
  +Def ! Definite
 
 !! The comparative forms are:
- +Comp +Superl
-!! Numerals are classified under:
- +Attr +Card
- +Ord 
+ +Comp ! comparative as opposed to superlative
+ +Superl ! superlative
+
+!! Quantifiers and Numerals are classified under:
+! Quantifiers (numerals)
+ +Num ! numeral
+ +Appr ! Approximative numeral кафта-колма, колмошка 'two or three'
+ +AssocColl ! -ne- ; avide-
+!?? +Assoc ! +месть
+ +Coll ! Collective
+ +Card ! cardinal
+ +Distr ! Distributive
+ +Iter ! Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
+ +Ord ! ordinal
+ +Attr ! attribute, premodifier
+
 !! Verb moods are:
- +Ind +Pot +Cond +Imprt
+ +Cond ! conditional ндяря- 
+ +Conj ! conjunctional "Оль"
+ +Des ! desiderative ксоль 'was about to; wanted to'
+ +Ind ! indicative
+ +Imprt ! imperative
+ +Opt ! optative
+
 !! Verb tenses are
- +Prs ! present and future
- +Prt1 ! preterite I
- +Prt2 ! preterite II
+ +Prs ! present and future ! nominal	conjugation as well
+ +Prt1 ! preterite I ! only finite verbal
+ +Prt2 ! preterite II ! nominal conjugation as well
 !! Verb personal forms are:
 ! subject conjugation
- +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
-! object conjugation
- +OcSg1 +OcSg2 +OcSg3 +OcPl1 +OcPl2 +OcPl3
+! Subject conjugation
+ +ScSg1 ! subject conjugation first person singular
+ +ScSg2 ! subject conjugation second person singular
+ +ScSg3 ! subject conjugation third person singular
+ +ScPl1 ! subject conjugation first person plural
+ +ScPl2 ! subject conjugation second person plural
+ +ScPl3 ! subject conjugation third person plural
+
+! Object conjugation
+ +OcSg1 ! objject conjugation first person singular
+ +OcSg2 ! objject conjugation second person singular
+ +OcSg3 ! objject conjugation third person singular
+ +OcPl1 ! objject conjugation first person plural
+ +OcPl2 ! objject conjugation second person plural
+ +OcPl3 ! objject conjugation third person plural
+
 !! Other verb forms are
- +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII
+  +ConNeg ! connegative, main verb complement to Neg, 
+  +Ger ! gerund This is used with Der/Озь and VAbl
+  +Inf    ! infinitive
+  +Neg    ! verb of negation эзь, аволь, иля
+  +Prc ! participle
+  +VGen   ! Verb Genitive
+  +VAbl   ! Verb Ablative "озадо"
  +PrsPrc !
- +PrfPrc +Sup +VGen +VAbess
+ +PrfPrc
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR ! Abbreviation
+ +ACR  ! Acronym
+
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
@@ -127,9 +211,11 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  {aä} {oö} {uü}
+ А1 ! А1:а А1:я
  Г2 ! Г2:г Г2:в Г2:к
+ К1 ! К1:к К1:т
  О1 ! О1:о О1:а О1:0
- Х1 !
+ Х1 ! Х1:х Х1:0
 
 !! And following triggers to control variation
  {front} {back}
