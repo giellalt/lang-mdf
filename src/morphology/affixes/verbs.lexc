@@ -14,25 +14,25 @@ LEXICON VerbTag
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON V-avoldams_ObjAll
  V-avoldams ;
-+V+Ind+Prs: PRSOBJCONJ ;
-+V+Ind+Prt1: PRT1OBJCONJ ;
-+V+Ind+Prr2: PRT2OBJCONJ ;
++V+Ind+Prs: PRS-OC ;
++V+Ind+Prt1: PRT1-OC ;
++V+Ind+Prr2: PRT2-OC ;
 
 LEXICON V-andoms_ObjAll
  V-andoms ;
-+V+Ind+Prs: PRSOBJCONJ ;
-+V+Ind+Prt1: PRT1OBJCONJ ;
-+V+Ind+Prt2: PRT2OBJCONJ ;
++V+Ind+Prs: PRS-OC ;
++V+Ind+Prt1: PRT1-OC ;
++V+Ind+Prt2: PRT2-OC ;
 LEXICON V-njaftems_ObjAll
  V-njaftems ;
-+V+Ind+Prs: PRSOBJCONJ ;
-+V+Ind+Prt1: PRT1OBJCONJ ;
-+V+Ind+Prt2: PRT2OBJCONJ ;
++V+Ind+Prs: PRS-OC ;
++V+Ind+Prt1: PRT1-OC ;
++V+Ind+Prt2: PRT2-OC ;
 LEXICON V-alyjaftoms_ObjAll
  V-alyjaftoms ;
-+V+Ind+Prs: PRSOBJCONJ ;
-+V+Ind+Prt1: PRT1OBJCONJ ;
-+V+Ind+Prt2: PRT2OBJCONJ ;
++V+Ind+Prs: PRS-OC ;
++V+Ind+Prt1: PRT1-OC ;
++V+Ind+Prt2: PRT2-OC ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!
@@ -41,39 +41,45 @@ LEXICON V-alyjaftoms_ObjAll
 
 
 LEXICON V-avoldams
-+V+Ind+Prs: PRSSUBJCONJ ;
+! аволдамс:аволда
++V+Ind: PRS-SC ;
++V+Ind+Prt1:%> INDPRT1-SC ;
++V+Ind+Prt2:%> INDPRT2-SC ;
++V+Imprt:%> IMP-SC ;
++V+Opt:%> OPT-SC ;
+
 +V:%> Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andoms
-+V+Ind: PRSSUBJCONJ ;
-+V+Ind+Cond:ndär PRSSUBJCONJ ;
-+V+Ind+Prt1: PENUPRET1 ;
-+V+Ind+Cond+Prt1:ndär PENUPRET1 ;
-+V+Imp: IMPPENU ;
-+V+Optat: OPTATPENU ;
-+V+Ind+Prt2: PENUPRET2 ;
-+V+Conj: PENUPRET2 ;
-+V+Cond-Conj:ndärä PENUPRET2 ;
-+V+Desider:lekso PENUPRET2 ;
++V+Ind: PRS-SC ;
++V+Ind+Cond:ndär PRS-SC ;
++V+Ind+Prt1: INDPRT1-SC ;
++V+Ind+Cond+Prt1:ndär INDPRT1-SC ;
++V+Imprt:%> IMP-SC ;
++V+Opt:%> OPT-SC ;
++V+Ind+Prt2: INDPRT2-SC ;
++V+Conj: INDPRT2-SC ;
++V+Cond-Conj:ndärä INDPRT2-SC ;
++V+Des:lekso INDPRT2-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-njaftems
-+V+Ind: PRSSUBJCONJ ;
++V+Ind: PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-alyjaftoms
-+V+Ind: PRSSUBJCONJ ;
++V+Ind: PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-andovoms
-+V+Ind: PRSSUBJCONJ ;
++V+Ind: PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
@@ -88,45 +94,45 @@ LEXICON Non-Finite-Cns
 
 ! Finite forms
 
-LEXICON PRSSUBJCONJ
-+Prs+ScSg1:н # ;
-+Prs+ScSg2:т # ;
+LEXICON PRS-SC
++Prs+ScSg1:А2н # ;
++Prs+ScSg2:А2т # ;
 +Prs+ScSg3:й # ;
-+Prs+ScPl1:тама # ;
-+Prs+ScPl2:тада # ;
++Prs+ScPl1:тА2ма # ;
++Prs+ScPl2:тА2да # ;
 +Prs+ScPl3:йхть # ;
 
-LEXICON PENUPRET1
-+ScSg1:нь # ;
-+ScSg2:ть # ;
+LEXICON INDPRT1-SC
++ScSg1:О1нь # ;
++ScSg2:О1ть # ;
 +ScSg3:сь # ;
-+ScPl1:ме # ;
-+ScPl2:де # ;
++ScPl1:О1ме # ;
++ScPl2:О1де # ;
 +ScPl3:сть # ;
 
-LEXICON PENUPRET2
-+ScSg1:лень # ;
-+ScSg2:леть # ;
-+ScSg3:ль # ;
-+ScPl1:леме # ;
-+ScPl2:леде # ;
-+ScPl3:льхть # ;
+LEXICON INDPRT2-SC
++ScSg1:О1лень # ;
++ScSg2:О1леть # ;
++ScSg3:О1ль # ;
++ScPl1:О1леме # ;
++ScPl2:О1леде # ;
++ScPl3:О1льхть # ;
 
-LEXICON IMPPENU
+LEXICON IMP-SC
 +ScSg2:к # ;
 +ScPl2:да # ;
 
-LEXICON OPTATPENU
-+ScSg1:зан # ;
-+ScSg2:зат # ;
-+ScSg3:за # ;
-+ScPl1:стама # ;
-+ScPl2:стада # ;
-+ScPl1:зама # ; ! Paasonen +ScPl1+Dial/Paas:зама # ;
-+ScPl2:зада # ; ! Paasonen +ScPl2+Dial/Paas:зада # ;
-+ScPl3:ст # ;
+LEXICON OPT-SC
++ScSg1:О1зан # ;
++ScSg2:О1зат # ;
++ScSg3:О1за # ;
++ScPl1:О1стама # ;
++ScPl2:О1стада # ;
++ScPl1:О1зама # ; ! Paasonen +ScPl1+Dial/Paas:зама # ;
++ScPl2:О1зада # ; ! Paasonen +ScPl2+Dial/Paas:зада # ;
++ScPl3:О1ст # ;
 
-LEXICON PRSOBJCONJ ! OC (double person number)
+LEXICON PRS-OC ! OC (double person number)
 +ScSg2+OcSg1:самак # ;
 +ScSg3+OcSg1:самань # ;
 +ScPl2+OcSg1:самасть # ;
@@ -135,15 +141,15 @@ LEXICON PRSOBJCONJ ! OC (double person number)
 +ScPl3+OcSg1:самазь # ;
 +ScSg3+OcPl1:самазь # ;
 +ScPl3+OcPl1:самазь # ;
-+ScSg1+OcSg2:тянь # ;
-+ScSg1+OcSg2:тя # ;
-+ScSg3+OcSg2:тядязь # ;
-+ScPl1+OcSg2:тядязь # ;
-+ScPl3+OcSg2:тядязь # ;
-+ScSg1+OcPl2:тядязь # ;
-+ScSg3+OcPl2:тядязь # ;
-+ScPl1+OcPl2:тядязь # ;
-+ScPl3+OcPl2:тядязь # ;
++ScSg1+OcSg2:тА2нь # ;
++ScSg1+OcSg2:тА2 # ;
++ScSg3+OcSg2:тА2дязь # ;
++ScPl1+OcSg2:тА2дязь # ;
++ScPl3+OcSg2:тА2дязь # ;
++ScSg1+OcPl2:тА2дязь # ;
++ScSg3+OcPl2:тА2дязь # ;
++ScPl1+OcPl2:тА2дязь # ;
++ScPl3+OcPl2:тА2дязь # ;
 +ScSg1+OcSg3:сан # ;
 +ScSg1+OcSg3:са # ;
 +ScSg2+OcSg3:сак # ;
@@ -155,65 +161,66 @@ LEXICON PRSOBJCONJ ! OC (double person number)
 +ScPl3+OcSg3:сазь # ;
 +ScPl3+OcPl3:сазь # ;
 
-LEXICON PRT1OBJCONJ ! OC (double person number)
-+ScSg2+OcSg1:майть # ;
-+ScSg3+OcSg1:мань # ;
-+ScPl2+OcSg1:масть # ;
-+ScSg2+OcPl1:масть # ;
-+ScPl2+OcPl1:масть # ;
-+ScPl3+OcSg1:мазь # ;
-+ScSg3+OcPl1:мазь # ;
-+ScPl3+OcPl1:мазь # ;
-+ScSg1+OcSg2:йхтень # ;
-+ScSg3+OcSg2:нзе # ;
-+ScPl1+OcSg2:дязь # ;
-+ScPl3+OcSg2:дязь # ;
-+ScSg1+OcPl2:дязь # ;
-+ScSg3+OcPl2:дязь # ;
-+ScPl1+OcPl2:дязь # ;
-+ScPl3+OcPl2:дязь # ;
-+ScSg1+OcSg3:йне # ;
-+ScSg1+OcPl3:йне # ;
-+ScSg2+OcSg3:йть # ;
-+ScSg2+OcPl3:йть # ;
-+ScSg3+OcSg3:зе # ;
-+ScSg3+OcPl3:зень # ;
-+ScPl1+OcSg3:ськ # ;
-+ScPl1+OcPl3:ськ # ;
-+ScPl2+OcSg3:сть # ;
-+ScPl2+OcPl3:сть # ;
-+ScPl3+OcSg3:зь # ;
-+ScPl3+OcPl3:зь # ;
+LEXICON PRT1-OC ! OC (double person number)
++ScSg2+OcSg1:О1майть # ;
++ScSg3+OcSg1:О1мань # ;
++ScPl2+OcSg1:О1масть # ;
++ScSg2+OcPl1:О1масть # ;
++ScPl2+OcPl1:О1масть # ;
++ScPl3+OcSg1:О1мазь # ;
++ScSg3+OcPl1:О1мазь # ;
++ScPl3+OcPl1:О1мазь # ;
++ScSg1+OcSg2:О1йхтень # ;
++ScSg3+OcSg2:О1нзе # ;
++ScPl1+OcSg2:О1дязь # ;
++ScPl3+OcSg2:О1дязь # ;
++ScSg1+OcPl2:О1дязь # ;
++ScSg3+OcPl2:О1дязь # ;
++ScPl1+OcPl2:О1дязь # ;
++ScPl3+OcPl2:О1дязь # ;
++ScSg1+OcSg3:О1йне # ;
++ScSg1+OcPl3:О1йне # ;
++ScSg2+OcSg3:О1йть # ;
++ScSg2+OcPl3:О1йть # ;
++ScSg3+OcSg3:О1зе # ;
++ScSg3+OcPl3:О1зень # ;
++ScPl1+OcSg3:О1ськ # ;
++ScPl1+OcPl3:О1ськ # ;
++ScPl2+OcSg3:О1сть # ;
++ScPl2+OcPl3:О1сть # ;
++ScPl3+OcSg3:О1зь # ;
++ScPl3+OcPl3:О1зь # ;
 
-LEXICON PRT2OBJCONJ ! OC (double person number)
-+ScSg2+OcSg1:лемайть # ;
-+ScSg3+OcSg1:лемань # ;
-+ScPl2+OcSg1:лемасть # ;
-+ScSg2+OcPl1:лемасть # ;
-+ScPl2+OcPl1:лемасть # ;
-+ScPl3+OcSg1:лемазь # ;
-+ScSg3+OcPl1:лемазь # ;
-+ScPl3+OcPl1:лемазь # ;
-+ScSg1+OcSg2:лихтень # ;
-+ScSg3+OcSg2:лензе # ;
-+ScPl1+OcSg2:ледязь # ;
-+ScPl3+OcSg2:ледязь # ;
-+ScSg1+OcPl2:ледязь # ;
-+ScSg3+OcPl2:ледязь # ;
-+ScPl1+OcPl2:ледязь # ;
-+ScPl3+OcPl2:ледязь # ;
-+ScSg1+OcSg3:лине # ;
-+ScSg1+OcPl3:лине # ;
-+ScSg2+OcSg3:лить # ;
-+ScSg2+OcPl3:лить # ;
-+ScSg3+OcSg3:лезе # ;
-+ScSg3+OcPl3:лезень # ;
-+ScPl1+OcSg3:леськ # ;
-+ScPl1+OcPl3:леськ # ;
-+ScPl2+OcSg3:лесть # ;
-+ScPl2+OcPl3:лесть # ;
-+ScPl3+OcSg3:лезь # ;
-+ScPl3+OcPl3:лезь # ;
+LEXICON PRT2-OC
+ ! OC (double person number)
++ScSg2+OcSg1:О1лемайть # ;
++ScSg3+OcSg1:О1лемань # ;
++ScPl2+OcSg1:О1лемасть # ;
++ScSg2+OcPl1:О1лемасть # ;
++ScPl2+OcPl1:О1лемасть # ;
++ScPl3+OcSg1:О1лемазь # ;
++ScSg3+OcPl1:О1лемазь # ;
++ScPl3+OcPl1:О1лемазь # ;
++ScSg1+OcSg2:О1лихтень # ;
++ScSg3+OcSg2:О1лензе # ;
++ScPl1+OcSg2:О1ледязь # ;
++ScPl3+OcSg2:О1ледязь # ;
++ScSg1+OcPl2:О1ледязь # ;
++ScSg3+OcPl2:О1ледязь # ;
++ScPl1+OcPl2:О1ледязь # ;
++ScPl3+OcPl2:О1ледязь # ;
++ScSg1+OcSg3:О1лине # ;
++ScSg1+OcPl3:О1лине # ;
++ScSg2+OcSg3:О1лить # ;
++ScSg2+OcPl3:О1лить # ;
++ScSg3+OcSg3:О1лезе # ;
++ScSg3+OcPl3:О1лезень # ;
++ScPl1+OcSg3:О1леськ # ;
++ScPl1+OcPl3:О1леськ # ;
++ScPl2+OcSg3:О1лесть # ;
++ScPl2+OcPl3:О1лесть # ;
++ScPl3+OcSg3:О1лезь # ;
++ScPl3+OcPl3:О1лезь # ;
 
 
 
