@@ -42,7 +42,7 @@ LEXICON V-alyjaftoms_ObjAll
 
 LEXICON V-avoldams
 ! аволдамс:аволда
-+V+Ind: PRS-SC ;
++V+Ind:%> PRS-SC ;
 +V+Ind+Prt1:%> INDPRT1-SC ;
 +V+Ind+Prt2:%> INDPRT2-SC ;
 +V+Imprt:%> IMP-SC ;
@@ -52,41 +52,41 @@ LEXICON V-avoldams
 +V: Non-Finite-Cns ;
 
 LEXICON V-andoms
-+V+Ind: PRS-SC ;
-+V+Ind+Cond:ndär PRS-SC ;
-+V+Ind+Prt1: INDPRT1-SC ;
-+V+Ind+Cond+Prt1:ndär INDPRT1-SC ;
++V+Ind:%> PRS-SC ;
++V+Ind+Cond:ндярь%> PRS-SC ;
++V+Ind+Prt1:%> INDPRT1-SC ;
++V+Ind+Cond+Prt1:ндярь%> INDPRT1-SC ;
 +V+Imprt:%> IMP-SC ;
 +V+Opt:%> OPT-SC ;
-+V+Ind+Prt2: INDPRT2-SC ;
-+V+Conj: INDPRT2-SC ;
-+V+Cond-Conj:ndärä INDPRT2-SC ;
-+V+Des:lekso INDPRT2-SC ;
++V+Ind+Prt2:%> INDPRT2-SC ;
++V+Conj:%> INDPRT2-SC ;
++V+Cond-Conj:ндяря%> INDPRT2-SC ;
++V+Des:лекс%> INDPRT2-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
 +V: Non-Finite-Cns ;
 
 LEXICON V-njaftems
-+V+Ind: PRS-SC ;
++V+Ind:%> PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
-+V: Non-Finite-Cns ;
++V:%> Non-Finite-Cns ;
 
 LEXICON V-alyjaftoms
-+V+Ind: PRS-SC ;
++V+Ind:%> PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
-+V: Non-Finite-Cns ;
++V:%> Non-Finite-Cns ;
 
 LEXICON V-andovoms
-+V+Ind: PRS-SC ;
++V+Ind:%> PRS-SC ;
 +V: # ;
 +V:%>О1 Non-Finite-Vws ;
-+V: Non-Finite-Cns ;
++V:%> Non-Finite-Cns ;
 
 LEXICON Non-Finite-Vws
-+Inf:мс K ;
-+Ger:зь K ;
++Inf:О1мс K ;
++Ger:О1зь K ;
 
 LEXICON Non-Finite-Cns
 +PrtPrc:%^Devoice%>ф K ;
@@ -119,7 +119,7 @@ LEXICON INDPRT2-SC
 +ScPl3:О1льхть # ;
 
 LEXICON IMP-SC
-+ScSg2:к # ;
++ScSg2:Х1К1 # ;
 +ScPl2:да # ;
 
 LEXICON OPT-SC
