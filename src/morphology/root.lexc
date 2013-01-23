@@ -46,6 +46,7 @@ Multichar_Symbols
  +Dem ! demonstrative
  +Indef ! indefinite
  +Dep ! dependent word requiring the presence of another, e.g. _мень_
+ +Intensive ! intensive pronoun
  +Interr ! interrogative
  +Pers ! personal
  +Recipr ! reciprocal
@@ -179,6 +180,7 @@ Multichar_Symbols
 !! Question and Focus particles:
  +Qst +Foc
  +Foc/вок
+ +Foc/Ге 
 
 !! Semantics are classified with
  +Mal +Fem +Sur 
@@ -204,6 +206,7 @@ Multichar_Symbols
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
+ 
 
 
 !! Morphophonology
@@ -224,6 +227,87 @@ Multichar_Symbols
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
 @P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
+!!!! Flags used with serial verbs
+! INF = Infinitive
+@U.CONJ-INF.YES@
+@U.CONJ-INF.NO@
+
+! TX = tense
+@U.CONJ-TX.NONPAST@
+@U.CONJ-TX.PRT1@
+@U.CONJ-TX.PRT2@
+
+! MX = mood
+@U.CONJ-MX.IND@
+@D.CONJ-MX.IND@ ! 2012-11-04 should this be _D_ or _N_
+@U.CONJ-MX.IMP@
+@U.CONJ-MX.OPT@
+@U.CONJ-MX.DES@
+@U.CONJ-MX.CONJ@
+@U.CONJ-MX.COND@
+
+! CONNEG = negation
+@U.CONJ-CONNEG.YES@
+@U.CONJ-CONNEG.NO@
+
+! NX = number
+@U.CONJ-NX.PL@
+@U.CONJ-NX.SG@
+
+! POSS = possessive person
+@U.CONJ-POSS.1@
+@U.CONJ-POSS.2@
+@U.CONJ-POSS.3@
+@U.CONJ-POSS.2ACC@
+@U.CONJ-POSS.3ACC@
+
+! PX = person
+@U.CONJ-PX.1%0@
+@U.CONJ-PX.12@
+@U.CONJ-PX.13@
+@U.CONJ-PX.15@
+@U.CONJ-PX.16@
+@U.CONJ-PX.2%0@
+@U.CONJ-PX.21@
+@U.CONJ-PX.23@
+@U.CONJ-PX.24@
+@U.CONJ-PX.26@
+@U.CONJ-PX.3%0@
+@U.CONJ-PX.31@
+@U.CONJ-PX.32@
+@U.CONJ-PX.33@
+@U.CONJ-PX.34@
+@U.CONJ-PX.35@
+@U.CONJ-PX.36@
+
+@U.CONJ-PX.4%0@
+@U.CONJ-PX.42@
+@U.CONJ-PX.43@
+@U.CONJ-PX.45@
+@U.CONJ-PX.46@
+
+@U.CONJ-PX.5%0@
+@U.CONJ-PX.51@
+@U.CONJ-PX.53@
+@U.CONJ-PX.54@
+@U.CONJ-PX.56@
+
+@U.CONJ-PX.6%0@
+@U.CONJ-PX.61@
+@U.CONJ-PX.62@
+@U.CONJ-PX.63@
+@U.CONJ-PX.64@
+@U.CONJ-PX.65@
+@U.CONJ-PX.66@
+
+! Object conjugation
+@P.CONJ.ObjAll@
+@R.CONJ.ObjAll@
+@C.CONJ@
+@P.TLOSS.ON@
+@R.TLOSS.ON@
+
+
 
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic

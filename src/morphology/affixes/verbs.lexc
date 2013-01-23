@@ -13,26 +13,16 @@ LEXICON VerbTag
 !! OBJECT and SUBJECT VERBS !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON V-avoldams_ObjAll
- V-avoldams ;
-+V+Ind+Prs: PRS-OC ;
-+V+Ind+Prt1: PRT1-OC ;
-+V+Ind+Prr2: PRT2-OC ;
+@P.CONJ.ObjAll@  V-avoldams ;
 
 LEXICON V-andoms_ObjAll
- V-andoms ;
-+V+Ind+Prs: PRS-OC ;
-+V+Ind+Prt1: PRT1-OC ;
-+V+Ind+Prt2: PRT2-OC ;
+@P.CONJ.ObjAll@ V-andoms ;
+
 LEXICON V-njaftems_ObjAll
- V-njaftems ;
-+V+Ind+Prs: PRS-OC ;
-+V+Ind+Prt1: PRT1-OC ;
-+V+Ind+Prt2: PRT2-OC ;
+@P.CONJ.ObjAll@ V-njaftems ;
+
 LEXICON V-alyjaftoms_ObjAll
- V-alyjaftoms ;
-+V+Ind+Prs: PRS-OC ;
-+V+Ind+Prt1: PRT1-OC ;
-+V+Ind+Prt2: PRT2-OC ;
+@P.CONJ.ObjAll@ V-alyjaftoms ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!
@@ -95,6 +85,7 @@ LEXICON Non-Finite-Cns
 ! Finite forms
 
 LEXICON PRS-SC
+@R.CONJ.ObjAll@ PRS-OC ;
 +Prs+ScSg1:А2н # ;
 +Prs+ScSg2:А2т # ;
 +Prs+ScSg3:й # ;
@@ -103,6 +94,7 @@ LEXICON PRS-SC
 +Prs+ScPl3:йхть # ;
 
 LEXICON INDPRT1-SC
+@R.CONJ.ObjAll@ PRT1-OC ;
 +ScSg1:О1нь # ;
 +ScSg2:О1ть # ;
 +ScSg3:сь # ;
@@ -111,6 +103,7 @@ LEXICON INDPRT1-SC
 +ScPl3:сть # ;
 
 LEXICON INDPRT2-SC
+@R.CONJ.ObjAll@ PRT2-OC ;
 +ScSg1:О1лень # ;
 +ScSg2:О1леть # ;
 +ScSg3:О1ль # ;
@@ -119,10 +112,12 @@ LEXICON INDPRT2-SC
 +ScPl3:О1льхть # ;
 
 LEXICON IMP-SC
+!@R.CONJ.ObjAll@ IMP-OC ;
 +ScSg2:Х1К1 # ;
 +ScPl2:да # ;
 
 LEXICON OPT-SC
+!@R.CONJ.ObjAll@ OPT-OC ;
 +ScSg1:О1зан # ;
 +ScSg2:О1зат # ;
 +ScSg3:О1за # ;
@@ -221,7 +216,6 @@ LEXICON PRT2-OC
 +ScPl2+OcPl3:О1лесть # ;
 +ScPl3+OcSg3:О1лезь # ;
 +ScPl3+OcPl3:О1лезь # ;
-
 
 
 !!!!!!!!!!!!!
