@@ -13,32 +13,90 @@ LEXICON PronTag
 LEXICON PersSg1
 !мон:мон
 +Pron+Pers+Sg1+Nom: K ;
++Pron+Pers+Sg1+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg1+Gen:ь K ;
++Pron+Pers+Sg1+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Sg1+Dat:дейне K ;
++Pron+Pers+Sg1+Abl:дедон K ;
++Pron+Pers+Sg1+Abe:ьфтемон K ;
++Pron+Pers+Sg1+Gen+Der/не+Sg+Nom+Indef:не K ;
++Pron+Pers+Sg1+Gen+Der/не+Pl+Nom+Indef:нет K ;
++Pron+Pers+Sg1+Gen+Der/не+Sg+Nom+Def:несь K ;
++Pron+Pers+Sg1+Intensive+Nom:ць K ;
++Pron+Pers+Sg1+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Sg1+Intensive+Gen:цень K ;
++Pron+Pers+Sg1+Intensive+Gen+Foc/Ге:ценьге K ;
++Pron+Pers+Sg1+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
 LEXICON PersSg2
 ! тон:тон
 +Pron+Pers+Sg2+Nom: K ;
++Pron+Pers+Sg2+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg2+Gen:ь K ;
++Pron+Pers+Sg2+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Sg2+Dat:дейть K ;
++Pron+Pers+Sg2+Abl:дедот K ;
++Pron+Pers+Sg2+Abe:ьфтемот K ;
++Pron+Pers+Sg2+Gen+Der/не+Sg+Nom+Indef:не K ;
++Pron+Pers+Sg2+Gen+Der/не+Pl+Nom+Indef:нет K ;
++Pron+Pers+Sg2+Gen+Der/не+Sg+Nom+Def:несь K ;
++Pron+Pers+Sg2+Intensive+Nom:ць K ;
++Pron+Pers+Sg2+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Sg2+Intensive+Gen:цень K ;
++Pron+Pers+Sg2+Intensive+Gen+Foc/Ге:ценьге K ;
++Pron+Pers+Sg2+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
 LEXICON PersSg3
 ! сон:сон
 +Pron+Pers+Sg3+Nom: K ;
++Pron+Pers+Sg3+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg3+Gen:ь K ;
++Pron+Pers+Sg3+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Sg3+Dat:дейнза K ;
++Pron+Pers+Sg3+Abl:дедонза K ;
++Pron+Pers+Sg3+Abe:ьфтемонза K ;
++Pron+Pers+Sg3+Gen+Der/не+Sg+Nom+Indef:не K ;
++Pron+Pers+Sg3+Gen+Der/не+Pl+Nom+Indef:нет K ;
++Pron+Pers+Sg3+Gen+Der/не+Sg+Nom+Def:несь K ;
++Pron+Pers+Sg3+Intensive+Nom:ць K ;
++Pron+Pers+Sg3+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Sg3+Intensive+Gen:цень K ;
++Pron+Pers+Sg3+Intensive+Gen+Foc/Ге:ценьге K ;
++Pron+Pers+Sg3+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
 LEXICON PersPl1
 !минь:мин
 +Pron+Pers+Pl1+Nom:ь K ;
++Pron+Pers+Pl1+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl1+Gen:ь K ;
++Pron+Pers+Pl1+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Pl1+Abl:дедонк K ;
++Pron+Pers+Pl1+Ine:ьцонк K ;
++Pron+Pers+Pl1+Intensive+Nom:ць K ;
++Pron+Pers+Pl1+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Pl1+Intensive+Gen:цень K ;
 
 LEXICON PersPl2
 !тинь:тин
 +Pron+Pers+Pl2+Nom:ь K ;
++Pron+Pers+Pl2+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl2+Gen:ь K ;
++Pron+Pers+Pl2+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Pl2+Abl:дедонт K ;
++Pron+Pers+Pl2+Intensive+Nom:ць K ;
++Pron+Pers+Pl2+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Pl2+Intensive+Gen:цень K ;
 
 LEXICON PersPl3
 !синь:син
 +Pron+Pers+Pl3+Nom:ь K ;
++Pron+Pers+Pl3+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl3+Gen:ь K ;
++Pron+Pers+Pl3+Gen+Foc/Ге:ьге K ;
++Pron+Pers+Pl3+Abl:дедост K ;
++Pron+Pers+Pl3+Intensive+Nom:ць K ;
++Pron+Pers+Pl3+Intensive+Nom+Foc/Ге:цьке K ;
++Pron+Pers+Pl3+Intensive+Gen:цень K ;
 
 
 
