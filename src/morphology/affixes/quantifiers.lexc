@@ -8,7 +8,14 @@
 !!!!!!!!!!!!!
 
 LEXICON NumTag
-#;
++Num: K ;
+
+LEXICON NumCard
++Num+Card: K ;
+
+LEXICON NumOrd
++Num+Ord: K ;
+
 
 
 
