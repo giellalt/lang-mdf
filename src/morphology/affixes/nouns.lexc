@@ -8,7 +8,7 @@
 !!!!!!!!!!!
 
 LEXICON NTag
-+N+Sg+Nom+Indef+WORK: #;
++N+Sg+Nom+Indef+TYÄ: #;
 
 LEXICON N-ava
 ! ава:ава
@@ -65,6 +65,9 @@ LEXICON N-osh_01
  N-kal_01 ;
 
 LEXICON N-kal
++N: N-kal_01 ;
+
+LEXICON N-kelu
 +N: N-kal_01 ;
 
 LEXICON N-kal_01

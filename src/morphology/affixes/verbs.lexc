@@ -229,8 +229,23 @@ LEXICON GerTag
 !! PARTICIPLES !!
 !!!!!!!!!!!!!!!!!
 
-LEXICON PtcTag
-+Ptc: #;
+LEXICON PrcTag
++Prc+TYÄ: #;
+
+LEXICON Prc-f
++V+Der/ф+Pss+Prc: K ;
+
+LEXICON Prc-fks
++V+Der/фкс+Pss+Prc: K ;
+
+LEXICON Prc-I
++V+Der/И+Act+Prc: K ;
+
+LEXICON Prc-nj
++V+Der/Онь+VGen: K ;
+
+LEXICON Prc-zj
++V+Der/Озь+Prc: K ;
 
 
 ! vim: set ft=xfst-lexc:
