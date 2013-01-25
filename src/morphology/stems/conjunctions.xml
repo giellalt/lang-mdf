@@ -435,11 +435,11 @@
       <l>мъзярс</l>
 
       <stg>
-        <st Contlex="ConjTag">мъзярс</st>
+        <st Contlex="CcTag">мъзярс</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CC</pos>
 
     <mg>
       <m>
@@ -448,7 +448,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <xt lang="fin">niin kauan kuin</xt>
         <t/>
       </tg>
     </mg>
@@ -459,11 +459,11 @@
       <l>мярьгат</l>
 
       <stg>
-        <st Contlex="ConjTag">мярьгат</st>
+        <st Contlex="CcTag">мярьгат</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CC</pos>
 
     <mg>
       <m>
@@ -473,7 +473,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>kuin, ikään kuin, aivan kuin, niin kuin</t>
       </tg>
     </mg>
   </e>
@@ -579,11 +579,11 @@
       <l>раз</l>
 
       <stg>
-        <st Contlex="ConjTag">раз</st>
+        <st Contlex="CsTag">раз</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -593,7 +593,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>jos<t/>
       </tg>
     </mg>
   </e>
@@ -603,11 +603,11 @@
       <l>разе</l>
 
       <stg>
-        <st Contlex="ConjTag">разе</st>
+        <st Contlex="CsTag">разе</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -617,7 +617,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>ellei, jos ei<t/>
       </tg>
     </mg>
   </e>
@@ -627,11 +627,11 @@
       <l>рас</l>
 
       <stg>
-        <st Contlex="ConjTag">рас</st>
+        <st Contlex="CsTag">рас</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -641,7 +641,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>jos<t/>
       </tg>
     </mg>
   </e>
@@ -651,11 +651,11 @@
       <l>сясы</l>
 
       <stg>
-        <st Contlex="ConjTag">сясы</st>
+        <st Contlex="CsTag">сясы</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <phonet>śasi</phonet>
 
@@ -675,11 +675,11 @@
       <l>так</l>
 
       <stg>
-        <st Contlex="ConjTag">так</st>
+        <st Contlex="CsTag">так</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -689,7 +689,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t<niin, siinä tapauksessa että; mutta</t>
       </tg>
     </mg>
   </e>
@@ -699,11 +699,11 @@
       <l>то</l>
 
       <stg>
-        <st Contlex="ConjTag">то</st>
+        <st Contlex="CsTag">то</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -713,7 +713,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>milloin, väliin, välistä; niin<t/>
       </tg>
     </mg>
   </e>
@@ -747,11 +747,11 @@
       <l>хоть</l>
 
       <stg>
-        <st Contlex="ConjTag">хоть</st>
+        <st Contlex="CsTag">хоть</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -761,7 +761,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>vaikka, siitä huolimatta, että; kuin</t>
       </tg>
     </mg>
   </e>
@@ -771,11 +771,11 @@
       <l>хотя</l>
 
       <stg>
-        <st Contlex="ConjTag">хотя</st>
+        <st Contlex="CsTag">хотя</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -785,7 +785,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>vaikka; siitä huolimatta, että</t>
       </tg>
     </mg>
   </e>
@@ -795,11 +795,11 @@
       <l>хуть</l>
 
       <stg>
-        <st Contlex="ConjTag">хуть</st>
+        <st Contlex="CsTag">хуть</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <phonet>xuť, xəť, kuť</phonet>
 
@@ -819,11 +819,11 @@
       <l>хуш</l>
 
       <stg>
-        <st Contlex="ConjTag">хуш</st>
+        <st Contlex="CsTag">хуш</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -833,7 +833,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>vaikka; siitä huolimatta, että</t>
       </tg>
     </mg>
   </e>
@@ -925,11 +925,11 @@
       <l>эмбя</l>
 
       <stg>
-        <st Contlex="ConjTag">эмбя</st>
+        <st Contlex="CsTag">эмбя</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <mg>
       <m>
@@ -939,7 +939,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>jos, kun, vaikka</t>
       </tg>
     </mg>
   </e>
@@ -949,11 +949,11 @@
       <l>ёт</l>
 
       <stg>
-        <st Contlex="ConjTag">ёт</st>
+        <st Contlex="Cs">ёт</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CS</pos>
 
     <phonet>jot</phonet>
 
@@ -963,7 +963,7 @@
       </m>
 
       <tg lang="fin">
-        <t>aikaisemmin, sitten.</t>
+        <t>siitä, kun</t>
       </tg>
 
       <xg>
@@ -985,7 +985,7 @@
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>??CONJ</pos>
 
     <phonet>jofśi, ofśi, voxśu</phonet>
 
@@ -1021,11 +1021,11 @@
       <l>﻿а</l>
 
       <stg>
-        <st Contlex="ConjTag">﻿а</st>
+        <st Contlex="CcTag">﻿а</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>CC</pos>
 
     <mg>
       <m>
@@ -1035,7 +1035,7 @@
       </m>
 
       <tg lang="fin">
-        <t/>
+        <t>mutta</t>
       </tg>
     </mg>
   </e>
