@@ -7,11 +7,47 @@
 !!!!!!!!!!!!!!!!
 
 LEXICON AdjTag
-#;
++Adj+TYÄ: K ;
 
 
 LEXICON GenTag
 #;
+LEXICON Gen_Adj
++Gen+Attr: K ;
+
+LEXICON Adj-ava
++A: K ;
++A+Der/MWN: N-ava ;
+
+LEXICON Adj-ofta
+!офта:офт
++A:%>О2 K ;
++A+Der/MWN:%>О2 N-ofta ;
+
+LEXICON Adj-pinge
+!пинге:пинг
++A:%>О2 K ;
++A+Der/MWN:%>О2 N-pinge ;
+
+LEXICON Adj-pula
+!пула:пул
++A:%>О2 K ;
++A+Der/MWN:%>О2 N-pula ;
+
+LEXICON Adj-osh
+!ош:ош
++A: K ;
++A+Der/MWN: N-osh ;
+
+LEXICON Adj-kal
+!кал:кал
++A: K ;
++A+Der/MWN: N-kal ;
+
+LEXICON Adj-kelu
+!келу:келу
++A: K ;
++A+Der/MWN: N-kelu ;
 
 
 

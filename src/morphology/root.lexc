@@ -23,7 +23,7 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UNDEFINED language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-+WORK
++TYÄ ! Underdeveloped.
 
 !! The parts-of-speech are:
  +A ! adjective
@@ -122,6 +122,9 @@ Multichar_Symbols
  +Ord ! ordinal
  +Attr ! attribute, premodifier
 
+!! Verb voice:
+ +Act ! active
+ +Pss ! passive
 !! Verb moods are:
  +Cond ! conditional ндяря- 
  +Conj ! conjunctional "Оль"
@@ -158,7 +161,7 @@ Multichar_Symbols
   +Inf    ! infinitive
   +Neg    ! verb of negation эзь, аволь, иля
   +Prc ! participle
-  +VGen   ! Verb Genitive
+  +VGen   ! Verb Genitive, genitive form participle
   +VAbl   ! Verb Ablative "озадо"
  +PrsPrc !
  +PrfPrc
@@ -206,7 +209,11 @@ Multichar_Symbols
 !! source and target part-of-speech.
  +V→N +V→V +V→A
  +Der/xxx
- 
+ +Der/И
+ +Der/ф
+ +Der/фкс
+ +Der/Онь
+ +Der/Озь
 
 
 !! Morphophonology
@@ -388,7 +395,7 @@ LEXICON TempTag
 
 
 LEXICON ConjTag
-+WORK: #;
++Conj+TYÄ: #;
 
 LEXICON CcTag
 +CC: # ;
