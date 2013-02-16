@@ -1,17 +1,17 @@
 !! Verb inflection
-!! ---------------
+
 !! The UNDEFINED language verbs inflect in persons.
 
-!!!!!!!!!!!!!!!!
-!! VERBS !!
-!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+!! VERBS 
+!!!!!!!!!!!!!!
 
 LEXICON VerbTag
 +V: # ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!! OBJECT and SUBJECT VERBS !!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! OBJECT and SUBJECT VERBS 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON V-avoldams_ObjAll
 @P.CONJ.ObjAll@  V-avoldams ;
 
@@ -25,9 +25,9 @@ LEXICON V-alyjaftoms_ObjAll
 @P.CONJ.ObjAll@ V-alyjaftoms ;
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!
-!! SUBJECT ONLY VERBS !!
-!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!
+!! SUBJECT ONLY VERBS 
+!!!!!!!!!!!!!!!!!!!!!!
 
 
 LEXICON V-avoldams
@@ -218,16 +218,16 @@ LEXICON PRT2-OC
 +ScPl3+OcPl3:О1лезь # ;
 
 
-!!!!!!!!!!!!!
-!! GERUNDS !!
-!!!!!!!!!!!!!
+!!!!!!!!!!!
+!! GERUNDS 
+!!!!!!!!!!!
 
 LEXICON GerTag
 +Ger: #;
 
-!!!!!!!!!!!!!!!!!
-!! PARTICIPLES !!
-!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!
+!! PARTICIPLES 
+!!!!!!!!!!!!!!!
 
 LEXICON PrcTag
 +Prc+TYÄ: #;
