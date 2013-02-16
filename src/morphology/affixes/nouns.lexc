@@ -1,11 +1,11 @@
-!! Noun inflection
-!! ---------------
+!! !!!Noun inflection
+
 
 !! Moksha language nouns inflect in cases.
 
-!!!!!!!!!!!
-!! NOUNS !!
-!!!!!!!!!!!
+!!!!!!!!!
+!! NOUNS 
+!!!!!!!!!
 
 LEXICON NTag
 +N+Sg+Nom+Indef+TYÄ: #;
@@ -140,7 +140,7 @@ LEXICON PXSG3
 +Pl+Gen+PxSg3:нзО1%>О1н K ;
 +Pl+Dat+PxSg3:нзО1%>О1нды K ;
 
-!!
+
 LEXICON PXPL1
 +Sg+Nom+PxPl1:ньке K ;
 +Sg+Gen+PxPl1:ньке%>О1нь K ;
@@ -165,7 +165,7 @@ LEXICON PXPL3
 +Pl+Gen+PxPl3:снО1%>О1н K ;
 +Pl+Dat+PxPl3:снО1%>О1нды K ;
 
-!!
+
 LEXICON SG-NOM
 +Sg+Nom+Indef: K ;
 
@@ -200,12 +200,12 @@ LEXICON NOTDEF-CMP
 LEXICON NOTDEF-PRL
 +Prl:Г2а Choose-INDEF-OBLPX-ava ;
 
-!!!
+!
 LEXICON PL-NOM
 +Pl+Nom+Indef:Х1т K ;
 
 
-!!
+
 LEXICON Choose-INDEF-OBLPX-kal
 +Indef: K ;
  OBLIQUECX-PX-kal ;
@@ -230,7 +230,7 @@ LEXICON OBLIQUECX-PX-osh
 +PxPl2:%>О1нт K ;
 +PxPl3:%>О1ст K ;
 
-!!
+
 LEXICON Choose-INDEF-OBLPX-ava
 +Indef: K ;
  OBLIQUECX-PX-ava ;
