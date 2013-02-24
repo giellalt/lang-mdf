@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l>афток</l>
+      <l pos="CC">афток</l>
 
       <stg>
         <st Contlex="CcTag">афток</st>
@@ -22,7 +22,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>1. eli, tai, vai. 2. muuten, muutoin.</t>
       </tg>
     </mg>
@@ -30,7 +30,7 @@
 
   <e>
     <lg>
-      <l>бди</l>
+      <l pos="CS">бди</l>
 
       <stg>
         <st Contlex="CsTag">бди</st>
@@ -46,7 +46,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>jos</t>
       </tg>
     </mg>
@@ -54,7 +54,7 @@
 
   <e>
     <lg>
-      <l>бъта</l>
+      <l pos="CS">бъта</l>
 
       <stg>
         <st Contlex="CsTag">бъта</st>
@@ -70,7 +70,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>muka</t>
 
         <t>ikään kuin</t>
@@ -80,7 +80,7 @@
 
   <e>
     <lg>
-      <l>да</l>
+      <l pos="CC">да</l>
 
       <stg>
         <st Contlex="CcTag">да</st>
@@ -96,7 +96,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>ja, sekä, ynnä.</t>
       </tg>
 
@@ -105,14 +105,14 @@
 
         <phonet>mon də son</phonet>
 
-        <xt lang="fin">minä ja hän.</xt>
+        <xt xml:lang="fin">minä ja hän.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>и</l>
+      <l pos="CC">и</l>
 
       <stg>
         <st Contlex="CcTag">и</st>
@@ -128,7 +128,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>ja, myös.</t>
       </tg>
 
@@ -137,14 +137,14 @@
 
         <phonet>i mäń</phonet>
 
-        <xt lang="fin">suorastaan.</xt>
+        <xt xml:lang="fin">suorastaan.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>или</l>
+      <l pos="CC">или</l>
 
       <stg>
         <st Contlex="CcTag">или</st>
@@ -160,7 +160,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>tai, vai.</t>
       </tg>
     </mg>
@@ -168,7 +168,7 @@
 
   <e>
     <lg>
-      <l>каба</l>
+      <l pos="CONJ">каба</l>
 
       <stg>
         <st Contlex="ConjTag">каба</st>
@@ -184,7 +184,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -192,7 +192,7 @@
 
   <e>
     <lg>
-      <l>кати</l>
+      <l pos="CS">кати</l>
 
       <stg>
         <st Contlex="CsTag">кати</st>
@@ -208,7 +208,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>kenties, noinkohan, ehkäpä.</t>
       </tg>
 
@@ -217,14 +217,14 @@
 
         <phonet>kaťi lac, kaťi af</phonet>
 
-        <xt lang="fin">ehkä se on hyvä, ehkä ei.</xt>
+        <xt xml:lang="fin">ehkä se on hyvä, ehkä ei.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кодама</l>
+      <l pos="CONJ">кодама</l>
 
       <stg>
         <st Contlex="ConjTag">кодама</st>
@@ -240,7 +240,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>millainen.</t>
       </tg>
 
@@ -249,7 +249,7 @@
 
         <phonet>koj-kodama</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -257,7 +257,7 @@
 
         <phonet>kodama-bəďi</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -265,7 +265,7 @@
 
         <phonet>kodamə-kodama</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -273,7 +273,7 @@
 
         <phonet>kodamə ťäči šiś</phonet>
 
-        <xt lang="fin">mikä/ millainen päivä tänään on?</xt>
+        <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
       </xg>
 
       <xg>
@@ -281,7 +281,7 @@
 
         <phonet>kodaməvək af</phonet>
 
-        <xt lang="fin">ei minkäänlainen.</xt>
+        <xt xml:lang="fin">ei minkäänlainen.</xt>
       </xg>
 
       <xg>
@@ -289,7 +289,7 @@
 
         <phonet>kodamə povś</phonet>
 
-        <xt lang="fin">kaikenlainen, millainen tahansa.</xt>
+        <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
       </xg>
 
       <xg>
@@ -297,14 +297,14 @@
 
         <phonet>kodamə ťäďäś stamə bäbäś</phonet>
 
-        <xt lang="fin">millainen äiti, sellainen lapsi.</xt>
+        <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>конашкава</l>
+      <l pos="CS">конашкава</l>
 
       <stg>
         <st Contlex="CsTag">конашкава</st>
@@ -320,7 +320,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>siinä määrin kuin</t>
       </tg>
     </mg>
@@ -328,7 +328,7 @@
 
   <e>
     <lg>
-      <l>кува</l>
+      <l pos="CONJ">кува</l>
 
       <stg>
         <st Contlex="ConjTag">кува</st>
@@ -344,7 +344,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -352,7 +352,7 @@
 
   <e>
     <lg>
-      <l>къба</l>
+      <l pos="CONJ">къба</l>
 
       <stg>
         <st Contlex="ConjTag">къба</st>
@@ -368,7 +368,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -376,7 +376,7 @@
 
   <e>
     <lg>
-      <l>мес</l>
+      <l pos="CONJ">мес</l>
 
       <stg>
         <st Contlex="ConjTag">мес</st>
@@ -392,7 +392,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>miksi.</t>
       </tg>
 
@@ -401,7 +401,7 @@
 
         <phonet>mes ašəť vajmä</phonet>
 
-        <xt lang="fin">miksi et levännyt?</xt>
+        <xt xml:lang="fin">miksi et levännyt?</xt>
       </xg>
 
       <xg>
@@ -409,7 +409,7 @@
 
         <phonet>śas … mes</phonet>
 
-        <xt lang="fin">siksi … että.</xt>
+        <xt xml:lang="fin">siksi … että.</xt>
       </xg>
 
       <xg>
@@ -417,7 +417,7 @@
 
         <phonet>mes-bəďi</phonet>
 
-        <xt lang="fin">jostain syystä.</xt>
+        <xt xml:lang="fin">jostain syystä.</xt>
       </xg>
 
       <xg>
@@ -425,14 +425,14 @@
 
         <phonet>mes-kəda</phonet>
 
-        <xt lang="fin">sillä lailla! kyllä kai!; mikäpäs siinä.</xt>
+        <xt xml:lang="fin">sillä lailla! kyllä kai!; mikäpäs siinä.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>мъзярс</l>
+      <l pos="CC">мъзярс</l>
 
       <stg>
         <st Contlex="CcTag">мъзярс</st>
@@ -448,7 +448,7 @@
         <defNative/>
       </m>
 
-      <xt lang="fin">niin kauan kuin</xt>
+      <xt xml:lang="fin">niin kauan kuin</xt>
         <t/>
       </tg>
     </mg>
@@ -456,7 +456,7 @@
 
   <e>
     <lg>
-      <l>мярьгат</l>
+      <l pos="CC">мярьгат</l>
 
       <stg>
         <st Contlex="CcTag">мярьгат</st>
@@ -472,7 +472,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>kuin, ikään kuin, aivan kuin, niin kuin</t>
       </tg>
     </mg>
@@ -480,7 +480,7 @@
 
   <e>
     <lg>
-      <l>несак</l>
+      <l pos="CONJ">несак</l>
 
       <stg>
         <st Contlex="ConjTag">несак</st>
@@ -496,7 +496,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -504,7 +504,7 @@
 
   <e>
     <lg>
-      <l>но</l>
+      <l pos="CC">но</l>
 
       <stg>
         <st Contlex="CcTag">но</st>
@@ -520,7 +520,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>mutta, vaan.</t>
       </tg>
     </mg>
@@ -528,7 +528,7 @@
 
   <e>
     <lg>
-      <l>нул</l>
+      <l pos="CONJ">нул</l>
 
       <stg>
         <st Contlex="ConjTag">нул</st>
@@ -544,7 +544,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -552,7 +552,7 @@
 
   <e>
     <lg>
-      <l>пока</l>
+      <l pos="CONJ">пока</l>
 
       <stg>
         <st Contlex="ConjTag">пока</st>
@@ -568,7 +568,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -576,7 +576,7 @@
 
   <e>
     <lg>
-      <l>раз</l>
+      <l pos="CS">раз</l>
 
       <stg>
         <st Contlex="CsTag">раз</st>
@@ -592,7 +592,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>jos<t/>
       </tg>
     </mg>
@@ -600,7 +600,7 @@
 
   <e>
     <lg>
-      <l>разе</l>
+      <l pos="CS">разе</l>
 
       <stg>
         <st Contlex="CsTag">разе</st>
@@ -616,7 +616,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>ellei, jos ei<t/>
       </tg>
     </mg>
@@ -624,7 +624,7 @@
 
   <e>
     <lg>
-      <l>рас</l>
+      <l pos="CS">рас</l>
 
       <stg>
         <st Contlex="CsTag">рас</st>
@@ -640,7 +640,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>jos<t/>
       </tg>
     </mg>
@@ -648,7 +648,7 @@
 
   <e>
     <lg>
-      <l>сясы</l>
+      <l pos="CS">сясы</l>
 
       <stg>
         <st Contlex="CsTag">сясы</st>
@@ -664,7 +664,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>siksi, sen takia.</t>
       </tg>
     </mg>
@@ -672,7 +672,7 @@
 
   <e>
     <lg>
-      <l>так</l>
+      <l pos="CS">так</l>
 
       <stg>
         <st Contlex="CsTag">так</st>
@@ -688,7 +688,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t<niin, siinä tapauksessa että; mutta</t>
       </tg>
     </mg>
@@ -696,7 +696,7 @@
 
   <e>
     <lg>
-      <l>то</l>
+      <l pos="CS">то</l>
 
       <stg>
         <st Contlex="CsTag">то</st>
@@ -712,7 +712,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>milloin, väliin, välistä; niin<t/>
       </tg>
     </mg>
@@ -720,7 +720,7 @@
 
   <e>
     <lg>
-      <l>тожа</l>
+      <l pos="CONJ">тожа</l>
 
       <stg>
         <st Contlex="ConjTag">тожа</st>
@@ -736,7 +736,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -744,7 +744,7 @@
 
   <e>
     <lg>
-      <l>хоть</l>
+      <l pos="CS">хоть</l>
 
       <stg>
         <st Contlex="CsTag">хоть</st>
@@ -760,7 +760,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>vaikka, siitä huolimatta, että; kuin</t>
       </tg>
     </mg>
@@ -768,7 +768,7 @@
 
   <e>
     <lg>
-      <l>хотя</l>
+      <l pos="CS">хотя</l>
 
       <stg>
         <st Contlex="CsTag">хотя</st>
@@ -784,7 +784,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>vaikka; siitä huolimatta, että</t>
       </tg>
     </mg>
@@ -792,7 +792,7 @@
 
   <e>
     <lg>
-      <l>хуть</l>
+      <l pos="CS">хуть</l>
 
       <stg>
         <st Contlex="CsTag">хуть</st>
@@ -808,7 +808,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>vaikka, joskin.</t>
       </tg>
     </mg>
@@ -816,7 +816,7 @@
 
   <e>
     <lg>
-      <l>хуш</l>
+      <l pos="CS">хуш</l>
 
       <stg>
         <st Contlex="CsTag">хуш</st>
@@ -832,7 +832,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>vaikka; siitä huolimatta, että</t>
       </tg>
     </mg>
@@ -840,7 +840,7 @@
 
   <e>
     <lg>
-      <l>цёк</l>
+      <l pos="CONJ">цёк</l>
 
       <stg>
         <st Contlex="ConjTag">цёк</st>
@@ -856,7 +856,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>melkein, miltei, lähes.</t>
       </tg>
 
@@ -865,14 +865,14 @@
 
         <phonet>son ćok śembəń ťijəźəń</phonet>
 
-        <xt lang="fin">hän teki melkein kaiken.</xt>
+        <xt xml:lang="fin">hän teki melkein kaiken.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>што</l>
+      <l pos="CS">што</l>
 
       <stg>
         <st Contlex="CsTag">што</st>
@@ -888,7 +888,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>että</t>
       </tg>
     </mg>
@@ -896,7 +896,7 @@
 
   <e>
     <lg>
-      <l>штоба</l>
+      <l pos="CS">штоба</l>
 
       <stg>
         <st Contlex="CsTag">штоба</st>
@@ -912,7 +912,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="CS">jotta</t>
 
         <t pos="CS">että</t>
@@ -922,7 +922,7 @@
 
   <e>
     <lg>
-      <l>эмбя</l>
+      <l pos="CS">эмбя</l>
 
       <stg>
         <st Contlex="CsTag">эмбя</st>
@@ -938,7 +938,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>jos, kun, vaikka</t>
       </tg>
     </mg>
@@ -946,7 +946,7 @@
 
   <e>
     <lg>
-      <l>ёт</l>
+      <l pos="CS">ёт</l>
 
       <stg>
         <st Contlex="Cs">ёт</st>
@@ -962,7 +962,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>siitä, kun</t>
       </tg>
 
@@ -971,21 +971,21 @@
 
         <phonet>kolmə šit jot sań</phonet>
 
-        <xt lang="fin">tulin kolme päivää sitten.</xt>
+        <xt xml:lang="fin">tulin kolme päivää sitten.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ёфси</l>
+      <l pos="ADV">ёфси</l>
 
       <stg>
-        <st Contlex="ConjTag">ёфси</st>
+        <st Contlex="AdvTag">ёфси</st>
       </stg>
     </lg>
 
-    <pos>??CONJ</pos>
+    <pos>ADV</pos>
 
     <phonet>jofśi, ofśi, voxśu</phonet>
 
@@ -994,7 +994,7 @@
         <head/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>ollenkaan, lainkaan.</t>
       </tg>
 
@@ -1003,7 +1003,7 @@
 
         <phonet>jofśi af</phonet>
 
-        <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+        <xt xml:lang="fin">ei ollenkaan, ei lainkaan.</xt>
       </xg>
 
       <xg>
@@ -1011,14 +1011,14 @@
 
         <phonet>jofśiks af</phonet>
 
-        <xt lang="fin">ei ollenkaan, ei lainkaan.</xt>
+        <xt xml:lang="fin">ei ollenkaan, ei lainkaan.</xt>
       </xg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>﻿а</l>
+      <l pos="CC">﻿а</l>
 
       <stg>
         <st Contlex="CcTag">﻿а</st>
@@ -1034,7 +1034,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t>mutta</t>
       </tg>
     </mg>
