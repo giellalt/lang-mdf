@@ -11,196 +11,191 @@ LEXICON PropTag
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Андрей:Андре
 LEXICON PropNameMaleDer-J-0Evich
-+Orth/Colloq:ич Prop-osh_patrMal ;
-:евич Prop-osh_patrMal ;
-:евна Prop-kudo_patrFem ;
-:й Prop-kal_mal ;
++Orth/Colloq:ич PROP_ОШ_PATRMAL ;
+:евич PROP_ОШ_PATRMAL ;
+:евна PROP_КУДО_PATRFEM ;
+:й PROP_КАЛ_MAL ;
 
 LEXICON PropNameMaleDer-IJ-Y0Evich
-+Orth/Colloq:ьич Prop-osh_patrMal ;
-:ьевич Prop-osh_patrMal ;
-:ьевна Prop-kudo_patrFem ;
-:ий Prop-kal_mal ;
++Orth/Colloq:ьич PROP_ОШ_PATRMAL ;
+:ьевич PROP_ОШ_PATRMAL ;
+:ьевна PROP_КУДО_PATRFEM ;
+:ий PROP_КАЛ_MAL ;
 
 LEXICON PropNameMaleDer-IJ-I0Evich
-+Orth/Colloq:ьич Prop-osh_patrMal ;
-:иевич Prop-osh_patrMal ;
-:иевна Prop-kudo_patrFem ;
-:ий Prop-kal_mal ;
++Orth/Colloq:ьич PROP_ОШ_PATRMAL ;
+:иевич PROP_ОШ_PATRMAL ;
+:иевна PROP_КУДО_PATRFEM ;
+:ий PROP_КАЛ_MAL ;
 
 LEXICON PropNameMaleDer-Y-0Evich
-+Orth/Colloq:ич Prop-osh_patrMal ;
-:евич Prop-osh_patrMal ;
-:евна Prop-kudo_patrFem ;
-:ь Prop-kal_mal ;
++Orth/Colloq:ич PROP_ОШ_PATRMAL ;
+:евич PROP_ОШ_PATRMAL ;
+:евна PROP_КУДО_PATRFEM ;
+:ь PROP_КАЛ_MAL ;
 
 !! Вили:Вил
 LEXICON PropNameMaleDer-I-YEvich
-+Orth/Colloq:ич Prop-osh_patrMal ;
-:ьевич Prop-osh_patrMal ;
-:ьевна Prop-kudo_patrFem ;
-:и Prop-kal_mal ;
-
++Orth/Colloq:ич PROP_ОШ_PATRMAL ;
+:ьевич PROP_ОШ_PATRMAL ;
+:ьевна PROP_КУДО_PATRFEM ;
+:и PROP_КАЛ_MAL ;
 
 LEXICON PropNameMaleDer-Ovich
-+Orth/Colloq:ыч Prop-osh_patrMal ;
-:ович Prop-osh_patrMal ;
-:овна Prop-kudo_patrFem ;
- Prop-kal_mal ;
++Orth/Colloq:ыч PROP_ОШ_PATRMAL ;
+:ович PROP_ОШ_PATRMAL ;
+:овна PROP_КУДО_PATRFEM ;
+ PROP_КАЛ_MAL ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 !! Russian type Surnames 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 !! Абдеев:Абдеев
-LEXICON Deriv-RUS-V_surmal
-: Prop-kal_surmal ;
-:а Prop-kudo_surfem ;
+LEXICON Deriv-RUS-В_SURMAL
+: PROP_КАЛ_SURMAL ;
+:а PROP_КУДО_SURFEM ;
 
 !! Багрий:Багр
-LEXICON Deriv-RUS-IJ_surmal
-:ий Prop-kal_surmal ;
-:яя Prop-kudo_surfem ;
+LEXICON Deriv-RUS-ИЙ_SURMAL
+:ий PROP_КАЛ_SURMAL ;
+:яя PROP_КУДО_SURFEM ;
 
 !! Аморский:Аморск
-LEXICON Deriv-RUS-KIJ_surmal
-:ий Prop-kal_surmal ;
-:ая Prop-kudo_surfem ;
+LEXICON Deriv-RUS-КИЙ_SURMAL
+:ий PROP_КАЛ_SURMAL ;
+:ая PROP_КУДО_SURFEM ;
 
-LEXICON Deriv-RUS-OJ_surmal
-:ой Prop-kal_surmal ;
-:ая Prop-kudo_surfem ;
+LEXICON Deriv-RUS-ОЙ_SURMAL
+:ой PROP_КАЛ_SURMAL ;
+:ая PROP_КУДО_SURFEM ;
 
-LEXICON Deriv-RUS-YJ_surmal
-:ый Prop-kal_surmal ;
-:ая Prop-kudo_surfem ;
+LEXICON Deriv-RUS-ЫЙ_SURMAL
+:ый PROP_КАЛ_SURMAL ;
+:ая PROP_КУДО_SURFEM ;
 
-LEXICON Deriv-RUS-AN_surmal
- Deriv-RUS-V_surmal ;
+LEXICON Deriv-RUS-АН_SURMAL
+ Deriv-RUS-В_SURMAL ;
 
-LEXICON Deriv-RUS-IN_surmal
- Deriv-RUS-V_surmal ;
+LEXICON Deriv-RUS-ИН_SURMAL
+ Deriv-RUS-В_SURMAL ;
 
-
-LEXICON Prop-kal_surmal
+LEXICON PROP_КАЛ_SURMAL
 +N+Prop+Sur+Mal: N-kal_01 ;
 !+N+Prop+Sur+Mal: kal-N-Derivation ;
 !+N+Prop+Sur+Mal: kal-N-Def-Declension ;
 !+N+Prop+Sur+Mal: kal-Indef-Declension ;
 !+N+Prop+Sur+Mal: kal-N-Poss-Declension-CX ;
 
-LEXICON Prop-kudo_surfem
+LEXICON PROP_КУДО_SURFEM
 +N+Prop+Sur+Fem: N-ava_01 ;
 
-LEXICON CYRL-Cons_sur
- Prop-kal_sur ;
+LEXICON CYRL-CONS_SUR
+ PROP_КАЛ_SUR ;
 
-LEXICON Prop-kal_sur
+LEXICON PROP_КАЛ_SUR
 +N+Prop+Sur: N-kal_01 ;
 !+N+Prop+Sur: kal-N-Derivation ;
 !+N+Prop+Sur: kal-N-Def-Declension ;
 !+N+Prop+Sur: kal-Indef-Declension ;
 !+N+Prop+Sur: kal-N-Poss-Declension-CX ;
 
-LEXICON CYRL-T_sur
- Prop-kit_sur ;
+LEXICON CYRL-Т_SUR
+ PROP_КИТ_SUR ;
 
-LEXICON Prop-kit_sur
- Prop-kal_sur ;
+LEXICON PROP_КИТ_SUR
+ PROP_КАЛ_SUR ;
 
-LEXICON CYRL-K_sur
- Prop-lak_sur ;
+LEXICON CYRL-К_SUR
+ PROP_ЛАК_SUR ;
 
-LEXICON Prop-lak_sur
- Prop-kal_sur ;
+LEXICON PROP_ЛАК_SUR
+ PROP_КАЛ_SUR ;
 
-LEXICON CYRL-Sibilant_sur
- Prop-osh_sur ;
+LEXICON CYRL-SIBILANT_SUR
+ PROP_ОШ_SUR ;
 
-LEXICON Prop-osh_sur
+LEXICON PROP_ОШ_SUR
 +N+Prop+Sur: N-osh_01 ;
 !+N+Prop+Sur: osh-N-Derivation ;
 !+N+Prop+Sur: osh-N-Def-Declension ;
 !+N+Prop+Sur: osh-Indef-Declension ;
 !+N+Prop+Sur: osh-N-Poss-Declension-CX ;
 
-LEXICON CYRL-Vow_sur
- Prop-kudo_sur ;
+LEXICON CYRL-VOW_SUR
+ PROP_КУДО_SUR ;
 
-LEXICON CYRL-A_sur
- Prop-kudo_sur ;
+LEXICON CYRL-А_SUR
+ PROP_КУДО_SUR ;
 
-LEXICON Prop-kudo_sur
+LEXICON PROP_КУДО_SUR
 +N+Prop+Sur: N-ava_01 ;
 
-LEXICON Prop-kal_mal
+LEXICON PROP_КАЛ_MAL
 +N+Prop+Mal: N-kal_01 ;
 
-LEXICON Prop-lak_mal
+LEXICON PROP_ЛАК_MAL
 +N+Prop+Mal: N-kal_01 ;
 
-LEXICON Prop-kit_mal
+LEXICON PROP_КИТ_MAL
 +N+Prop+Mal: N-kal_01 ;
 
-LEXICON Prop-osh_mal
+LEXICON PROP_ОШ_MAL
 +N+Prop+Mal: N-osh_01 ;
 
-LEXICON Prop-kudo_mal
+LEXICON PROP_КУДО_MAL
 +N+Prop+Mal: N-ava_01 ;
 
 
-LEXICON Prop-osh_patrMal
+LEXICON PROP_ОШ_PATRMAL
 +N+Prop+Patr+Mal: N-osh_01 ;
 !+N+Prop+Patr+Mal: osh-N-Derivation ;
 !+N+Prop+Patr+Mal: osh-N-Def-Declension ;
 !+N+Prop+Patr+Mal: osh-Indef-Declension ;
 !+N+Prop+Patr+Mal: osh-N-Poss-Declension-CX ;
 
-LEXICON Prop-kudo_patrFem
+LEXICON PROP_КУДО_PATRFEM
 +N+Prop+Patr+Mal: N-ava_01 ;
 
 
-LEXICON Prop-kal_fem
+LEXICON PROP_КАЛ_FEM
 +N+Prop+Fem: N-kal_01 ;
 
-LEXICON Prop-lak_fem
+LEXICON PROP_ЛАК_FEM
 +N+Prop+Fem: N-kal_01 ;
 
-LEXICON Prop-kit_fem
+LEXICON PROP_КИТ_FEM
 +N+Prop+Fem: N-kal_01 ;
 
-LEXICON Prop-osh_fem
+LEXICON PROP_ОШ_FEM
 +N+Prop+Fem: N-osh_01 ;
 
-LEXICON Prop-teshte_fem
- Prop-pango_fem ;
+LEXICON PROP_ТЕШТЕ_FEM
+ PROP_ПАНГО_FEM ;
 
-LEXICON Prop-tinge_fem
- Prop-pango_fem ;
+LEXICON PROP_ТИНГЕ_FEM
+ PROP_ПАНГО_FEM ;
 
-LEXICON Prop-pango_fem
+LEXICON PROP_ПАНГО_FEM
 +N+Prop+Fem:%>О2 N-ava_01 ;
 
-LEXICON Prop-kudo_fem
+LEXICON PROP_КУДО_FEM
 +N+Prop+Fem: N-ava_01 ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON Prop-kal_plc
+LEXICON PROP_КАЛ_PLC
 +N+Prop+Plc: N-kal_01 ;
 
-LEXICON Prop-kit_plc
+LEXICON PROP_КИТ_PLC
 +N+Prop+Plc: N-kal_01 ;
 
-LEXICON Prop-osh_plc
+LEXICON PROP_ОШ_PLC
 +N+Prop+Plc: N-osh_01 ;
 
-LEXICON Prop-kudo_plc
+LEXICON PROP_КУДО_PLC
 +N+Prop+Plc: N-ava_01 ;
-
-
-
 
 
 !!!!!!!!!!!!!!!!
