@@ -6,10 +6,42 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
+      <l pos="CS">а</l>
+
+      <stg>
+        <st Contlex="CS_">а</st>
+      </stg>
+    </lg>
+
+    <pos>CS</pos>
+
+    <phonet>a</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>ja; mutta, vaan</t>
+      </tg>
+
+      <xg>
+        <x>мон молян куду, а сон театрав</x>
+
+        <phonet>mon moľan kudu a son ťeatrav</phonet>
+
+        <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="CC">афток</l>
 
       <stg>
-        <st Contlex="CcTag">афток</st>
+        <st Contlex="CC_">афток</st>
       </stg>
     </lg>
 
@@ -33,7 +65,7 @@
       <l pos="CS">бди</l>
 
       <stg>
-        <st Contlex="CsTag">бди</st>
+        <st Contlex="CS_">бди</st>
       </stg>
     </lg>
 
@@ -57,7 +89,7 @@
       <l pos="CS">бъта</l>
 
       <stg>
-        <st Contlex="CsTag">бъта</st>
+        <st Contlex="CS_">бъта</st>
       </stg>
     </lg>
 
@@ -83,7 +115,7 @@
       <l pos="CC">да</l>
 
       <stg>
-        <st Contlex="CcTag">да</st>
+        <st Contlex="CC_">да</st>
       </stg>
     </lg>
 
@@ -115,7 +147,7 @@
       <l pos="CC">и</l>
 
       <stg>
-        <st Contlex="CcTag">и</st>
+        <st Contlex="CC_">и</st>
       </stg>
     </lg>
 
@@ -147,7 +179,7 @@
       <l pos="CC">или</l>
 
       <stg>
-        <st Contlex="CcTag">или</st>
+        <st Contlex="CC_">или</st>
       </stg>
     </lg>
 
@@ -168,14 +200,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">каба</l>
+      <l pos="Conj">каба</l>
 
       <stg>
-        <st Contlex="ConjTag">каба</st>
+        <st Contlex="CONJ_">каба</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -195,7 +227,7 @@
       <l pos="CS">кати</l>
 
       <stg>
-        <st Contlex="CsTag">кати</st>
+        <st Contlex="CS_">кати</st>
       </stg>
     </lg>
 
@@ -224,10 +256,10 @@
 
   <e>
     <lg>
-      <l pos="CONJ">кодама</l>
+      <l pos="Conj">кодама</l>
 
       <stg>
-        <st Contlex="ConjTag">кодама</st>
+        <st Contlex="CONJ_">кодама</st>
       </stg>
     </lg>
 
@@ -307,7 +339,7 @@
       <l pos="CS">конашкава</l>
 
       <stg>
-        <st Contlex="CsTag">конашкава</st>
+        <st Contlex="CS_">конашкава</st>
       </stg>
     </lg>
 
@@ -328,14 +360,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">кува</l>
+      <l pos="Conj">кува</l>
 
       <stg>
-        <st Contlex="ConjTag">кува</st>
+        <st Contlex="CONJ_">кува</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -352,14 +384,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">къба</l>
+      <l pos="Conj">къба</l>
 
       <stg>
-        <st Contlex="ConjTag">къба</st>
+        <st Contlex="CONJ_">къба</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -376,14 +408,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">мес</l>
+      <l pos="Conj">мес</l>
 
       <stg>
-        <st Contlex="ConjTag">мес</st>
+        <st Contlex="CONJ_">мес</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <phonet>mes, mäs</phonet>
 
@@ -435,7 +467,7 @@
       <l pos="CC">мъзярс</l>
 
       <stg>
-        <st Contlex="CcTag">мъзярс</st>
+        <st Contlex="CC_">мъзярс</st>
       </stg>
     </lg>
 
@@ -447,9 +479,10 @@
 
         <defNative/>
       </m>
-     <tg xml:lang="fin">
-       <t>TÄSSÄ PUUTTUU KÄÄNNÖS</t>
-      <xt xml:lang="fin">niin kauan kuin</xt>
+
+      <tg xml:lang="fin">
+        <t>niin kauan kuin</t>
+
         <t/>
       </tg>
     </mg>
@@ -460,7 +493,7 @@
       <l pos="CC">мярьгат</l>
 
       <stg>
-        <st Contlex="CcTag">мярьгат</st>
+        <st Contlex="CC_">мярьгат</st>
       </stg>
     </lg>
 
@@ -481,14 +514,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">несак</l>
+      <l pos="Conj">несак</l>
 
       <stg>
-        <st Contlex="ConjTag">несак</st>
+        <st Contlex="CONJ_">несак</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -508,7 +541,7 @@
       <l pos="CC">но</l>
 
       <stg>
-        <st Contlex="CcTag">но</st>
+        <st Contlex="CC_">но</st>
       </stg>
     </lg>
 
@@ -529,14 +562,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">нул</l>
+      <l pos="Conj">нул</l>
 
       <stg>
-        <st Contlex="ConjTag">нул</st>
+        <st Contlex="CONJ_">нул</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -553,14 +586,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">пока</l>
+      <l pos="Conj">пока</l>
 
       <stg>
-        <st Contlex="ConjTag">пока</st>
+        <st Contlex="CONJ_">пока</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -580,7 +613,7 @@
       <l pos="CS">раз</l>
 
       <stg>
-        <st Contlex="CsTag">раз</st>
+        <st Contlex="CS_">раз</st>
       </stg>
     </lg>
 
@@ -604,7 +637,7 @@
       <l pos="CS">разе</l>
 
       <stg>
-        <st Contlex="CsTag">разе</st>
+        <st Contlex="CS_">разе</st>
       </stg>
     </lg>
 
@@ -628,7 +661,7 @@
       <l pos="CS">рас</l>
 
       <stg>
-        <st Contlex="CsTag">рас</st>
+        <st Contlex="CS_">рас</st>
       </stg>
     </lg>
 
@@ -652,7 +685,7 @@
       <l pos="CS">сясы</l>
 
       <stg>
-        <st Contlex="CsTag">сясы</st>
+        <st Contlex="CS_">сясы</st>
       </stg>
     </lg>
 
@@ -676,7 +709,7 @@
       <l pos="CS">так</l>
 
       <stg>
-        <st Contlex="CsTag">так</st>
+        <st Contlex="CS_">так</st>
       </stg>
     </lg>
 
@@ -700,7 +733,7 @@
       <l pos="CS">то</l>
 
       <stg>
-        <st Contlex="CsTag">то</st>
+        <st Contlex="CS_">то</st>
       </stg>
     </lg>
 
@@ -721,14 +754,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">тожа</l>
+      <l pos="Conj">тожа</l>
 
       <stg>
-        <st Contlex="ConjTag">тожа</st>
+        <st Contlex="CONJ_">тожа</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <mg>
       <m>
@@ -748,7 +781,7 @@
       <l pos="CS">хоть</l>
 
       <stg>
-        <st Contlex="CsTag">хоть</st>
+        <st Contlex="CS_">хоть</st>
       </stg>
     </lg>
 
@@ -772,7 +805,7 @@
       <l pos="CS">хотя</l>
 
       <stg>
-        <st Contlex="CsTag">хотя</st>
+        <st Contlex="CS_">хотя</st>
       </stg>
     </lg>
 
@@ -796,7 +829,7 @@
       <l pos="CS">хуть</l>
 
       <stg>
-        <st Contlex="CsTag">хуть</st>
+        <st Contlex="CS_">хуть</st>
       </stg>
     </lg>
 
@@ -820,7 +853,7 @@
       <l pos="CS">хуш</l>
 
       <stg>
-        <st Contlex="CsTag">хуш</st>
+        <st Contlex="CS_">хуш</st>
       </stg>
     </lg>
 
@@ -841,14 +874,14 @@
 
   <e>
     <lg>
-      <l pos="CONJ">цёк</l>
+      <l pos="Conj">цёк</l>
 
       <stg>
-        <st Contlex="ConjTag">цёк</st>
+        <st Contlex="CONJ_">цёк</st>
       </stg>
     </lg>
 
-    <pos>CONJ</pos>
+    <pos>Conj</pos>
 
     <phonet>ćok</phonet>
 
@@ -876,7 +909,7 @@
       <l pos="CS">што</l>
 
       <stg>
-        <st Contlex="CsTag">што</st>
+        <st Contlex="CS_">што</st>
       </stg>
     </lg>
 
@@ -900,7 +933,7 @@
       <l pos="CS">штоба</l>
 
       <stg>
-        <st Contlex="CsTag">штоба</st>
+        <st Contlex="CS_">штоба</st>
       </stg>
     </lg>
 
@@ -926,7 +959,7 @@
       <l pos="CS">эмбя</l>
 
       <stg>
-        <st Contlex="CsTag">эмбя</st>
+        <st Contlex="CS_">эмбя</st>
       </stg>
     </lg>
 
@@ -950,7 +983,7 @@
       <l pos="CS">ёт</l>
 
       <stg>
-        <st Contlex="Cs">ёт</st>
+        <st Contlex="CS_">ёт</st>
       </stg>
     </lg>
 
@@ -979,50 +1012,10 @@
 
   <e>
     <lg>
-      <l pos="ADV">ёфси</l>
-
-      <stg>
-        <st Contlex="AdvTag">ёфси</st>
-      </stg>
-    </lg>
-
-    <pos>ADV</pos>
-
-    <phonet>jofśi, ofśi, voxśu</phonet>
-
-    <mg>
-      <m>
-        <head/>
-      </m>
-
-      <tg xml:lang="fin">
-        <t>ollenkaan, lainkaan.</t>
-      </tg>
-
-      <xg>
-        <x>ёфси аф</x>
-
-        <phonet>jofśi af</phonet>
-
-        <xt xml:lang="fin">ei ollenkaan, ei lainkaan.</xt>
-      </xg>
-
-      <xg>
-        <x>ёфсикс аф</x>
-
-        <phonet>jofśiks af</phonet>
-
-        <xt xml:lang="fin">ei ollenkaan, ei lainkaan.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="CC">﻿а</l>
 
       <stg>
-        <st Contlex="CcTag">﻿а</st>
+        <st Contlex="CC_">﻿а</st>
       </stg>
     </lg>
 

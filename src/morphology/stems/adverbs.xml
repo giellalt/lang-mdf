@@ -35,6 +35,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">авал</l>
@@ -58,6 +59,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">авалкиге</l>
@@ -81,16 +83,17 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
-      <l pos="Adv">авардезь-кольгозь</l>
+      <l pos="Ger">авардезь-кольгозь</l>
 
       <stg>
-        <st Contlex="ADV_">авардезь-кольгозь</st>
+        <st Contlex="GER_">авардезь-кольгозь</st>
       </stg>
     </lg>
 
-    <pos>??ADV</pos>
+    <pos>Ger</pos>
 
     <mg>
       <m>
@@ -104,16 +107,17 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
-      <l pos="Adv">авардезь-рангозь</l>
+      <l pos="Ger">авардезь-рангозь</l>
 
       <stg>
-        <st Contlex="ADV_">авардезь-рангозь</st>
+        <st Contlex="GER_">авардезь-рангозь</st>
       </stg>
     </lg>
 
-    <pos>??ADV</pos>
+    <pos>Ger</pos>
 
     <mg>
       <m>
@@ -127,6 +131,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">авардембачк</l>
@@ -156,6 +161,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">авардемшка</l>
@@ -179,6 +185,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аекста</l>
@@ -202,6 +209,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аердафста</l>
@@ -225,6 +233,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ажалаконе</l>
@@ -244,10 +253,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen, asteittain, pikku hiljaa</t>
+        <t>hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen,
+        asteittain, pikku hiljaa</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ажане</l>
@@ -267,10 +278,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen, asteittain, pikku hiljaa</t>
+        <t>hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen,
+        asteittain, pikku hiljaa</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ажелняста</l>
@@ -290,10 +303,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>tiukasti, lujasti, kovasti, lujaa, kovaa, tiukkana, lujana, kovana</t>
+        <t>tiukasti, lujasti, kovasti, lujaa, kovaa, tiukkana, lujana,
+        kovana</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аймак</l>
@@ -317,6 +332,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">акор</l>
@@ -340,6 +356,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">акшеста</l>
@@ -363,6 +380,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ала</l>
@@ -386,6 +404,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алажга</l>
@@ -409,6 +428,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алажгаконя</l>
@@ -432,6 +452,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алга</l>
@@ -441,7 +462,9 @@
       </stg>
     </lg>
 
-    <pos>SPAT</pos>
+    <pos>Adv</pos>
+
+    <posDescr>SPAT</posDescr>
 
     <phonet>alga</phonet>
 
@@ -463,6 +486,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алда</l>
@@ -472,7 +496,9 @@
       </stg>
     </lg>
 
-    <pos>SPAT</pos>
+    <pos>Adv</pos>
+
+    <posDescr>SPAT</posDescr>
 
     <phonet>alda</phonet>
 
@@ -510,6 +536,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алняста</l>
@@ -533,6 +560,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алу</l>
@@ -604,6 +632,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алувармат</l>
@@ -627,6 +656,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алуветть</l>
@@ -650,6 +680,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алуда</l>
@@ -673,6 +704,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">алы-былы</l>
@@ -696,6 +728,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">альмуста</l>
@@ -719,6 +752,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аноклафста</l>
@@ -742,6 +776,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аноконди</l>
@@ -765,6 +800,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анокс</l>
@@ -788,6 +824,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анокскиге</l>
@@ -811,6 +848,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анокста</l>
@@ -834,6 +872,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анцяйняда</l>
@@ -865,6 +904,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анцяйнядонга</l>
@@ -888,6 +928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">анцяйняньпес</l>
@@ -911,6 +952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аньцек</l>
@@ -934,6 +976,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">апаксодак</l>
@@ -957,6 +1000,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">апряказь</l>
@@ -980,6 +1024,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аралайфтома</l>
@@ -1003,6 +1048,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ардозь</l>
@@ -1026,6 +1072,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">артельса</l>
@@ -1049,6 +1096,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ару</l>
@@ -1072,6 +1120,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аруста</l>
@@ -1091,10 +1140,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>puhtaana, siistinä, puuhtaasti, siististi; kirkkaasti, kirkkaana</t>
+        <t>puhtaana, siistinä, puuhtaasti, siististi; kirkkaasti,
+        kirkkaana</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">арьсезь</l>
@@ -1118,6 +1169,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">арьсефста</l>
@@ -1141,6 +1193,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">атношт</l>
@@ -1164,6 +1217,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аф_содамшка</l>
@@ -1187,6 +1241,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">аф_эсь_воля</l>
@@ -1210,6 +1265,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">афкукс</l>
@@ -1233,6 +1289,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">афотна</l>
@@ -1256,6 +1313,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">афъёру</l>
@@ -1279,6 +1337,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ацергодозь</l>
@@ -1302,6 +1361,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ашуста</l>
@@ -1325,6 +1385,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ащи</l>
@@ -1348,6 +1409,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">байкок</l>
@@ -1367,10 +1429,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>paljon, runsaasti, kauan </t>
+        <t>paljon, runsaasti, kauan</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">байтяк</l>
@@ -1402,6 +1465,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бач</l>
@@ -1425,6 +1489,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">башка</l>
@@ -1449,6 +1514,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">беглайста</l>
@@ -1472,6 +1538,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">безярдезь</l>
@@ -1491,10 +1558,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>halveksien, yliolkaisesti, välinpitämättömästi; inhoten, nirsosti</t>
+        <t>halveksien, yliolkaisesti, välinpitämättömästi; inhoten,
+        nirsosti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">беспегля</l>
@@ -1518,6 +1587,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бодрайста</l>
@@ -1541,6 +1611,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бойка</l>
@@ -1564,6 +1635,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бойкаста</l>
@@ -1583,10 +1655,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>reippaasti, terhakasti, tomerasti, topakasti; vilkkaasti, sukkelasti, nopeasti; eloisasti</t>
+        <t>reippaasti, terhakasti, tomerasti, topakasti; vilkkaasti,
+        sukkelasti, nopeasti; eloisasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бойкаста-бойкаста</l>
@@ -1610,6 +1684,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бокова</l>
@@ -1633,6 +1708,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">боком</l>
@@ -1652,10 +1728,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kyljellään, sivuttain; sairaana; kumoon, kumolleen, kumossa, kumollaan</t>
+        <t>kyljellään, sivuttain; sairaana; kumoon, kumolleen, kumossa,
+        kumollaan</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бокомне</l>
@@ -1679,6 +1757,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">боконь-боконь</l>
@@ -1702,6 +1781,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бокса</l>
@@ -1725,6 +1805,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бокста</l>
@@ -1748,6 +1829,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">боку</l>
@@ -1771,6 +1853,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">брезговазь</l>
@@ -1794,6 +1877,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">буквальна</l>
@@ -1817,6 +1901,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бульдердезь</l>
@@ -1840,6 +1925,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бульнязь</l>
@@ -1863,6 +1949,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бульфса</l>
@@ -1886,6 +1973,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">бли</l>
@@ -1909,6 +1997,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вадряста</l>
@@ -1932,6 +2021,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вадявста</l>
@@ -1955,6 +2045,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">важна</l>
@@ -1978,6 +2069,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вайгяльса</l>
@@ -2001,6 +2093,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймоса-мяльса</l>
@@ -2024,6 +2117,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймосезне</l>
@@ -2047,6 +2141,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймосезь</l>
@@ -2070,6 +2165,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймот-седихть</l>
@@ -2093,6 +2189,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймоть-седихть</l>
@@ -2116,6 +2213,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймязне</l>
@@ -2139,6 +2237,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваймязь</l>
@@ -2162,6 +2261,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вакска</l>
@@ -2185,6 +2285,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вакурат</l>
@@ -2208,6 +2309,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валазяста</l>
@@ -2231,6 +2333,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валаняста</l>
@@ -2254,6 +2357,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валда</l>
@@ -2285,6 +2389,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валдова</l>
@@ -2308,6 +2413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валдоняста</l>
@@ -2331,6 +2437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валдста</l>
@@ -2350,10 +2457,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>valoisalla, valoisan aikana; kiiltäväksi; vilpittömästi, sydämellisesti, sydämestään, ystävällisesti, lempeästi</t>
+        <t>valoisalla, valoisan aikana; kiiltäväksi; vilpittömästi,
+        sydämellisesti, sydämestään, ystävällisesti, lempeästi</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валком</l>
@@ -2373,10 +2482,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>hitaasti, vähitellen; hiljaa, vaimeasti, vähin äänin; varovaisesti</t>
+        <t>hitaasti, vähitellen; hiljaa, vaimeasti, vähin äänin;
+        varovaisesti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валняньпес</l>
@@ -2400,6 +2511,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валом</l>
@@ -2439,6 +2551,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">валфтома</l>
@@ -2462,6 +2575,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вандол-пиндол</l>
@@ -2485,6 +2599,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вандолдозь-пиндолдозь</l>
@@ -2508,6 +2623,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ванды</l>
@@ -2535,7 +2651,8 @@
 
         <phonet>ťäči-vandi</phonet>
 
-        <xt xml:lang="fin">tänään tai huomenna, pian, kohta, ennen pitkää, näinä päivinä</xt>
+        <xt xml:lang="fin">tänään tai huomenna, pian, kohta, ennen pitkää,
+        näinä päivinä</xt>
       </xg>
 
       <xg>
@@ -2579,6 +2696,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ванфтозь</l>
@@ -2598,10 +2716,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>huolellisesti, hellävaroin, varovasti; säässtäväisesti, taloudellisesti</t>
+        <t>huolellisesti, hellävaroin, varovasti; säässtäväisesti,
+        taloudellisesti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ванькс</l>
@@ -2625,6 +2745,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вараксазь</l>
@@ -2644,10 +2765,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>huolimattomasti, hutiloiden, leväperäisesti; epäsiististi, siivottomasti</t>
+        <t>huolimattomasti, hutiloiden, leväperäisesti; epäsiististi,
+        siivottomasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вархцодезь</l>
@@ -2671,6 +2794,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">варьхмодемшовор</l>
@@ -2694,6 +2818,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">варявста</l>
@@ -2717,6 +2842,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васе</l>
@@ -2736,10 +2862,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ensin, ensiksi, aluksi; aikaisemmin, ensi sijassa, ennen kaikkea</t>
+        <t>ensin, ensiksi, aluksi; aikaisemmin, ensi sijassa, ennen
+        kaikkea</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васенда</l>
@@ -2759,10 +2887,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ensin, ensiksi, aluksi; aikaisemmin, ensi sijassa, ennen kaikkea</t>
+        <t>ensin, ensiksi, aluksi; aikaisemmin, ensi sijassa, ennen
+        kaikkea</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васендакиге</l>
@@ -2786,6 +2916,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васенцеда</l>
@@ -2809,6 +2940,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васень_пингть</l>
@@ -2832,6 +2964,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васеньпервай</l>
@@ -2855,6 +2988,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">василядня</l>
@@ -2878,6 +3012,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васня</l>
@@ -2901,6 +3036,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васток-васток</l>
@@ -2924,6 +3060,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васця</l>
@@ -2947,6 +3084,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васьказь</l>
@@ -2970,6 +3108,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васькафнезь</l>
@@ -2989,10 +3128,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>epärehellisesti, vilpillisesti, epäoikeudenmukaisesti, väärin, petoksella, pettämällä</t>
+        <t>epärehellisesti, vilpillisesti, epäoikeudenmukaisesti, väärin,
+        petoksella, pettämällä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васькафтозь</l>
@@ -3016,6 +3157,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васькязь</l>
@@ -3039,6 +3181,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">васьцок</l>
@@ -3062,6 +3205,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ваткафста</l>
@@ -3085,6 +3229,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вафторнекомба</l>
@@ -3108,6 +3253,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вахлязь</l>
@@ -3127,10 +3273,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>likaisesti, likaisena; huolimattomasti, hutiloiden, leväperäisesti, epäsiististi, siivottomasti</t>
+        <t>likaisesti, likaisena; huolimattomasti, hutiloiden, leväperäisesti,
+        epäsiististi, siivottomasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вача_пект</l>
@@ -3154,6 +3302,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вача_сельме</l>
@@ -3177,6 +3326,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вачеда</l>
@@ -3240,6 +3390,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вачень_пект</l>
@@ -3263,6 +3414,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вачень_седи</l>
@@ -3286,6 +3438,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вачень_седихть</l>
@@ -3309,6 +3462,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вашуста</l>
@@ -3332,6 +3486,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вдруг</l>
@@ -3355,6 +3510,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ве-вешка</l>
@@ -3378,6 +3534,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вежливайняста</l>
@@ -3401,6 +3558,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вежливайста</l>
@@ -3424,6 +3582,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вежлявста</l>
@@ -3447,6 +3606,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">везде</l>
@@ -3470,6 +3630,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вейхксоксть</l>
@@ -3493,6 +3654,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вейхксоцеда</l>
@@ -3516,6 +3678,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веленнекс</l>
@@ -3539,6 +3702,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вельсезь</l>
@@ -3562,6 +3726,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вельф</l>
@@ -3617,6 +3782,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вельфке</l>
@@ -3648,6 +3814,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вельхкска</l>
@@ -3679,6 +3846,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">велязь</l>
@@ -3698,10 +3866,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vinosti, vinossa, vinoon; karsaasti, kierossa, kieroon, syrjäsilmällä, alta kulmain</t>
+        <t>vinosti, vinossa, vinoon; karsaasti, kierossa, kieroon,
+        syrjäsilmällä, alta kulmain</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">велязь-шарозь</l>
@@ -3725,6 +3895,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веляньбокста</l>
@@ -3748,6 +3919,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веляньбокт</l>
@@ -3771,6 +3943,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">велянькшнезь</l>
@@ -3794,6 +3967,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веляньпяльде</l>
@@ -3817,6 +3991,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веляньширде</l>
@@ -3840,6 +4015,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веляфста</l>
@@ -3859,10 +4035,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vinosti, vinossa, vinoon, kierosti, kierossa, kieroon, karsaasti, syrjäsilmin, alta kulmain</t>
+        <t>vinosti, vinossa, vinoon, kierosti, kierossa, kieroon, karsaasti,
+        syrjäsilmin, alta kulmain</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вень-вень</l>
@@ -3886,6 +4064,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вень_лангс</l>
@@ -3909,6 +4088,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">веньберьф</l>
@@ -3932,6 +4112,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">венькучкать</l>
@@ -3955,6 +4136,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верляйпотмоса</l>
@@ -3978,6 +4160,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верна</l>
@@ -4001,6 +4184,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верняньпес</l>
@@ -4024,6 +4208,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верокста</l>
@@ -4047,6 +4232,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верондазь</l>
@@ -4066,10 +4252,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>luottavaisesti, luottavaisena, herkkäuskoisesti, herkkäuskoisena; varmasti</t>
+        <t>luottavaisesti, luottavaisena, herkkäuskoisesti, herkkäuskoisena;
+        varmasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">верпотмоса</l>
@@ -4093,6 +4281,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вестевок</l>
@@ -4116,6 +4305,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вестевок аф</l>
@@ -4139,6 +4329,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вестеньге</l>
@@ -4162,6 +4353,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">весть</l>
@@ -4225,6 +4417,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вестёк</l>
@@ -4248,6 +4441,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">весцок</l>
@@ -4271,6 +4465,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ветексть</l>
@@ -4294,6 +4489,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ветень-ветень</l>
@@ -4317,6 +4513,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ветень-кърда</l>
@@ -4340,6 +4537,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ветецеда</l>
@@ -4363,6 +4561,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ветецексть</l>
@@ -4386,6 +4585,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вечна</l>
@@ -4409,6 +4609,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">виде_ваймот</l>
@@ -4432,6 +4633,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">видекс-ваймокс</l>
@@ -4451,10 +4653,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>tunnollisesti, hyvällä omallatunnolla, vilpittömästi, koko sydämestään</t>
+        <t>tunnollisesti, hyvällä omallatunnolla, vilpittömästi, koko
+        sydämestään</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">виденяста</l>
@@ -4478,6 +4682,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">видеса</l>
@@ -4517,6 +4722,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">видеста</l>
@@ -4557,6 +4763,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">видецек</l>
@@ -4580,6 +4787,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">виздезня</l>
@@ -4603,6 +4811,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">виздезь</l>
@@ -4626,6 +4835,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">виздезь-пелезь</l>
@@ -4649,6 +4859,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">визделгодозь</l>
@@ -4672,6 +4883,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">визькс</l>
@@ -4695,6 +4907,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вииста</l>
@@ -4718,6 +4931,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вийса-ливозьса</l>
@@ -4737,10 +4951,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kaikin voimin, töin tuskin, työllä ja tuskalla, hiellä ja vaivalla</t>
+        <t>kaikin voimin, töin tuskin, työllä ja tuskalla, hiellä ja
+        vaivalla</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вийфтома</l>
@@ -4764,6 +4980,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вирьге-шяйге</l>
@@ -4787,6 +5004,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вихца</l>
@@ -4830,7 +5048,8 @@
 
         <phonet>vixcə-važa</phonet>
 
-        <xt xml:lang="fin">vastahakoisesti, väkinäisesti; laiskasti, haluttomasti</xt>
+        <xt xml:lang="fin">vastahakoisesti, väkinäisesti; laiskasti,
+        haluttomasti</xt>
       </xg>
 
       <xg>
@@ -4842,6 +5061,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вихцода</l>
@@ -4865,6 +5085,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вихцок</l>
@@ -4888,6 +5109,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вихцок</l>
@@ -4911,6 +5133,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вишконяста</l>
@@ -4934,6 +5157,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вишкста</l>
@@ -4973,6 +5197,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вов-вов</l>
@@ -4996,6 +5221,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вольготна</l>
@@ -5019,6 +5245,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вольна</l>
@@ -5042,6 +5269,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">воравазь-колазь</l>
@@ -5065,6 +5293,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">воравазь-салазь</l>
@@ -5088,6 +5317,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">впритинь</l>
@@ -5111,6 +5341,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">враждебна</l>
@@ -5134,6 +5365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вредна</l>
@@ -5157,6 +5389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">времань-времань</l>
@@ -5180,6 +5413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">времафтома</l>
@@ -5203,6 +5437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">временна</l>
@@ -5226,6 +5461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">втуць</l>
@@ -5249,6 +5485,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вчёк</l>
@@ -5272,6 +5509,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вжголдозь</l>
@@ -5295,6 +5533,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вжназь</l>
@@ -5318,6 +5557,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вжфса</l>
@@ -5341,6 +5581,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">выразительна</l>
@@ -5364,6 +5605,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вяжедезь</l>
@@ -5387,6 +5629,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вякназь</l>
@@ -5410,6 +5653,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вярде</l>
@@ -5433,6 +5677,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вяре</l>
@@ -5464,6 +5709,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вяри</l>
@@ -5527,6 +5773,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вярьгак</l>
@@ -5558,6 +5805,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">вярьге</l>
@@ -5581,6 +5829,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайков</l>
@@ -5604,6 +5853,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайкола</l>
@@ -5627,6 +5877,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайколда</l>
@@ -5650,6 +5901,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайкуваня</l>
@@ -5673,6 +5925,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайнязь</l>
@@ -5696,6 +5949,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайтолда</l>
@@ -5719,6 +5973,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайту</l>
@@ -5742,6 +5997,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гайфса</l>
@@ -5765,6 +6021,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">галожста</l>
@@ -5788,6 +6045,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гальдерьфса</l>
@@ -5811,6 +6069,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гамозом</l>
@@ -5834,6 +6093,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">глухойста</l>
@@ -5857,6 +6117,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гожняста</l>
@@ -5880,6 +6141,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гожста</l>
@@ -5903,6 +6165,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">голай</l>
@@ -5926,6 +6189,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">голышом</l>
@@ -5949,6 +6213,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">голь</l>
@@ -5980,6 +6245,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гончкя</l>
@@ -6003,6 +6269,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гордайста</l>
@@ -6026,6 +6293,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">горень_горь</l>
@@ -6049,6 +6317,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">горнязь</l>
@@ -6072,6 +6341,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">горьфса-жольфса</l>
@@ -6095,6 +6365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">грабазь</l>
@@ -6118,6 +6389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гразязь</l>
@@ -6141,6 +6413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гривань-гривань</l>
@@ -6164,6 +6437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">грохиезь</l>
@@ -6187,6 +6461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">грубайста</l>
@@ -6206,10 +6481,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>karkeasti, epäkohteliaasti, törkeästi, kömpelösti, taitamattomasti</t>
+        <t>karkeasti, epäkohteliaasti, törkeästi, kömpelösti,
+        taitamattomasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">группань-группань</l>
@@ -6233,6 +6510,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">губол-габол</l>
@@ -6256,6 +6534,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гулток</l>
@@ -6279,6 +6558,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гуреняса</l>
@@ -6302,6 +6582,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гуртом</l>
@@ -6325,6 +6606,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гурьбаса</l>
@@ -6348,6 +6630,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гусем</l>
@@ -6371,6 +6654,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гжолом</l>
@@ -6394,6 +6678,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гзнязь</l>
@@ -6417,6 +6702,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">грнязь</l>
@@ -6440,6 +6726,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">гърон</l>
@@ -6463,6 +6750,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">давно</l>
@@ -6486,6 +6774,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">даман</l>
@@ -6509,6 +6798,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дарма</l>
@@ -6532,6 +6822,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">даром</l>
@@ -6555,6 +6846,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дасадяфта</l>
@@ -6578,6 +6870,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">действительна</l>
@@ -6601,6 +6894,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">деловойста</l>
@@ -6624,6 +6918,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дивандазь</l>
@@ -6647,6 +6942,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дивандафста</l>
@@ -6670,6 +6966,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дипломатична</l>
@@ -6693,6 +6990,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">добрайста</l>
@@ -6716,6 +7014,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">добровольна</l>
@@ -6739,6 +7038,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">добром</l>
@@ -6762,6 +7062,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">доволь</l>
@@ -6785,6 +7086,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дойн</l>
@@ -6808,6 +7110,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дополнительна</l>
@@ -6831,6 +7134,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">досадна</l>
@@ -6854,6 +7158,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">достойна</l>
@@ -6877,6 +7182,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">достойнаста</l>
@@ -6900,6 +7206,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">доходна</l>
@@ -6923,6 +7230,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дразнязь</l>
@@ -6946,6 +7254,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дружна</l>
@@ -6969,6 +7278,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дуборфса</l>
@@ -6988,10 +7298,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>meluisasti, hälinällä, jyskeellä, jyrinällä, jyminällä, ryskeellä, kapseella, kopinalla, töminällä</t>
+        <t>meluisasti, hälinällä, jyskeellä, jyrinällä, jyminällä, ryskeellä,
+        kapseella, kopinalla, töminällä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дубушком</l>
@@ -7015,6 +7327,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дурна</l>
@@ -7038,6 +7351,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дуром</l>
@@ -7061,6 +7375,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">душевна</l>
@@ -7084,6 +7399,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">душна</l>
@@ -7107,6 +7423,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">дёрста</l>
@@ -7130,6 +7447,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">единогласна</l>
@@ -7153,6 +7471,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ехидна</l>
@@ -7176,6 +7495,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жалатнаста</l>
@@ -7199,6 +7519,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жалназь</l>
@@ -7222,6 +7543,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жалназь-увназь</l>
@@ -7245,6 +7567,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жалносезь-увносезь</l>
@@ -7268,6 +7591,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жальдезь</l>
@@ -7291,6 +7615,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жарендафста</l>
@@ -7314,6 +7639,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">живняста</l>
@@ -7337,6 +7663,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">живойняста-эреконяста</l>
@@ -7360,6 +7687,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">живойста</l>
@@ -7383,6 +7711,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">живойста-эрекста</l>
@@ -7406,6 +7735,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">живста</l>
@@ -7429,6 +7759,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольдердезь</l>
@@ -7452,6 +7783,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольдердезь-кальдердезь</l>
@@ -7475,6 +7807,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольдерькшнезь-кальдерькшнезь</l>
@@ -7498,6 +7831,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольнязь</l>
@@ -7521,6 +7855,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольнязь-горнязь</l>
@@ -7544,6 +7879,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольфса</l>
@@ -7567,6 +7903,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жольфса-горьфса</l>
@@ -7590,6 +7927,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жуледезь-каледезь</l>
@@ -7613,6 +7951,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">жульничендазь</l>
@@ -7636,6 +7975,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">заботафтома</l>
@@ -7659,6 +7999,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">заботендазь</l>
@@ -7682,6 +8023,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">заботливайста</l>
@@ -7705,6 +8047,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">завильф</l>
@@ -7728,6 +8071,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">загодь</l>
@@ -7751,6 +8095,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">залпса</l>
@@ -7774,6 +8119,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">замоконек-мезнек</l>
@@ -7797,6 +8143,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">заочна</l>
@@ -7820,6 +8167,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">зойнязь</l>
@@ -7843,6 +8191,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">зойфкаса</l>
@@ -7866,6 +8215,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">зойфса</l>
@@ -7889,6 +8239,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">зря</l>
@@ -7936,6 +8287,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">зярнязь</l>
@@ -7955,10 +8307,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>jyskeellä, jyrinällä, jyminällä, jylinällä, jysähdyksellä, jymähdyksellä, ryskeellä</t>
+        <t>jyskeellä, jyrinällä, jyminällä, jylinällä, jysähdyksellä,
+        jymähdyksellä, ryskeellä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">идеальна</l>
@@ -7982,6 +8336,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иднек-ърьвянек</l>
@@ -8005,6 +8360,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иднотонга</l>
@@ -8028,6 +8384,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иженяста</l>
@@ -8051,6 +8408,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">изеря</l>
@@ -8074,6 +8432,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">измором</l>
@@ -8097,6 +8456,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иклендезь</l>
@@ -8120,6 +8480,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">икснезь-мъкснезь</l>
@@ -8143,6 +8504,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ила-шала</l>
@@ -8166,6 +8528,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илебежста</l>
@@ -8189,6 +8552,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илештень_кятть</l>
@@ -8212,6 +8576,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ильцек-пяльцек</l>
@@ -8235,6 +8600,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иляденьпяли</l>
@@ -8258,6 +8624,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илядыцеда</l>
@@ -8281,6 +8648,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илякс</l>
@@ -8304,6 +8672,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илямба</l>
@@ -8327,6 +8696,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иляста</l>
@@ -8350,6 +8720,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илятемба</l>
@@ -8389,6 +8760,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илятеня</l>
@@ -8412,6 +8784,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илять</l>
@@ -8435,6 +8808,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илять-илять</l>
@@ -8458,6 +8832,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">илятькиге</l>
@@ -8481,6 +8856,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">инголе</l>
@@ -8504,6 +8880,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">инголи</l>
@@ -8527,6 +8904,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">инголькиге</l>
@@ -8550,6 +8928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">инкогнито</l>
@@ -8573,6 +8952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">инци</l>
@@ -8596,6 +8976,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">иретьфоньпрят</l>
@@ -8619,6 +9000,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ирецта</l>
@@ -8650,6 +9032,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ирецтоньпрят</l>
@@ -8673,6 +9056,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">исяк</l>
@@ -8704,6 +9088,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ичкозде-ичкозде</l>
@@ -8727,6 +9112,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ичкозе</l>
@@ -8822,6 +9208,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ичкози</l>
@@ -8845,6 +9232,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ичкозьге</l>
@@ -8868,6 +9256,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">казямста</l>
@@ -8891,6 +9280,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайги_вайгяльхть</l>
@@ -8914,6 +9304,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайгиста</l>
@@ -8937,6 +9328,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайста</l>
@@ -8960,6 +9352,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайтваня</l>
@@ -8983,6 +9376,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайтень-кайтень</l>
@@ -9006,6 +9400,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайтса</l>
@@ -9029,6 +9424,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кайту</l>
@@ -9060,6 +9456,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кали</l>
@@ -9083,6 +9480,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кальдерьфса</l>
@@ -9106,6 +9504,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кальдявста</l>
@@ -9129,6 +9528,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кальцек</l>
@@ -9152,6 +9552,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">камажаста</l>
@@ -9175,6 +9576,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">карань-карша</l>
@@ -9198,6 +9600,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">карань-каршек</l>
@@ -9221,6 +9624,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">каршева</l>
@@ -9244,6 +9648,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">каршек</l>
@@ -9283,6 +9688,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">каршес</l>
@@ -9306,6 +9712,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">категорическяйста</l>
@@ -9329,6 +9736,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-ков</l>
@@ -9352,6 +9760,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-коса</l>
@@ -9375,6 +9784,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-коста</l>
@@ -9398,6 +9808,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-мезенди</l>
@@ -9421,6 +9832,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-менди</l>
@@ -9444,6 +9856,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-мес</l>
@@ -9467,6 +9880,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-местема</l>
@@ -9490,6 +9904,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-мъзяра</l>
@@ -9513,6 +9928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-мъзярда</l>
@@ -9536,6 +9952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кати-мъзярс</l>
@@ -9559,6 +9976,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафксова</l>
@@ -9582,6 +10000,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафксогемоньксть</l>
@@ -9605,6 +10024,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафксть</l>
@@ -9614,7 +10034,9 @@
       </stg>
     </lg>
 
-    <pos>ITER</pos>
+    <pos>Adv</pos>
+
+    <posDescr>ITER</posDescr>
 
     <phonet>kafkśť</phonet>
 
@@ -9644,6 +10066,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафоненьть</l>
@@ -9667,6 +10090,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафононтт</l>
@@ -9690,6 +10114,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафонот</l>
@@ -9713,6 +10138,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафоньнест</l>
@@ -9736,6 +10162,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафонянек</l>
@@ -9759,6 +10186,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафонянент</l>
@@ -9782,6 +10210,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафонянест</l>
@@ -9805,6 +10234,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтова</l>
@@ -9828,6 +10258,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтонек</l>
@@ -9851,6 +10282,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтоненк</l>
@@ -9874,6 +10306,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтонест</l>
@@ -9897,6 +10330,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтонза</l>
@@ -9920,6 +10354,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтонь-кърда</l>
@@ -9943,6 +10378,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафтошкаксть</l>
@@ -9966,6 +10402,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кафту</l>
@@ -9989,6 +10426,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кашанкс</l>
@@ -10012,6 +10450,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кашмазь</l>
@@ -10035,6 +10474,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">каязь</l>
@@ -10058,6 +10498,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">квит</l>
@@ -10081,6 +10522,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кеворезь</l>
@@ -10104,6 +10546,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келеда-келес</l>
@@ -10127,6 +10570,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келес</l>
@@ -10150,6 +10594,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келеса</l>
@@ -10173,6 +10618,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келесонок</l>
@@ -10196,6 +10642,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келесононт</l>
@@ -10219,6 +10666,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келесост</l>
@@ -10242,6 +10690,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">келиста</l>
@@ -10265,6 +10714,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кельгозня</l>
@@ -10288,6 +10738,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кельгозь</l>
@@ -10311,6 +10762,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кельгомга</l>
@@ -10334,6 +10786,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кельмоста</l>
@@ -10357,6 +10810,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кемгафтувоксть</l>
@@ -10380,6 +10834,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кеменьга</l>
@@ -10403,6 +10858,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кеменькст</l>
@@ -10426,6 +10882,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кемоста</l>
@@ -10457,6 +10914,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кенженянь-кенженя</l>
@@ -10480,6 +10938,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кенордазь</l>
@@ -10503,6 +10962,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кенярдезь</l>
@@ -10526,6 +10986,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кеняртьфста</l>
@@ -10549,6 +11010,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кержипяльде</l>
@@ -10572,6 +11034,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кигяня</l>
@@ -10595,6 +11058,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">киза-кизошка</l>
@@ -10618,6 +11082,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизефтезь</l>
@@ -10641,6 +11106,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизонда</l>
@@ -10664,6 +11130,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизонек-тялонек</l>
@@ -10687,6 +11154,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизоннекс</l>
@@ -10710,6 +11178,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизонь-киза</l>
@@ -10733,6 +11202,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизонь-кизонь</l>
@@ -10756,6 +11226,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизоньберьф</l>
@@ -10779,6 +11250,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кизу-тялу</l>
@@ -10802,6 +11274,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кильтьфста</l>
@@ -10825,6 +11298,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кинянь-кинянь</l>
@@ -10848,6 +11322,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кирдемшка</l>
@@ -10879,6 +11354,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кисцы</l>
@@ -10902,6 +11378,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кифтолдозь-кафтолдозь</l>
@@ -10925,6 +11402,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кичкор-мувор</l>
@@ -10948,6 +11426,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кичкор-мячкор</l>
@@ -10971,6 +11450,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кичкордозь</l>
@@ -10990,10 +11470,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ivallisesti, pilkallisesti, myrkyllisesti, pirullisesti, pisteliäästi</t>
+        <t>ivallisesti, pilkallisesti, myrkyllisesti, pirullisesti,
+        pisteliäästi</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кичкорста</l>
@@ -11013,10 +11495,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vinosti, kierosti, vinoon, kieroon, vinossa, kierossa, mutkitellen</t>
+        <t>vinosti, kierosti, vinoon, kieroon, vinossa, kierossa,
+        mutkitellen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кичкорязь</l>
@@ -11040,6 +11524,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">киштиньгойса</l>
@@ -11063,6 +11548,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">клишт</l>
@@ -11086,6 +11572,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ков-бъди</l>
@@ -11109,6 +11596,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ков-ков</l>
@@ -11132,6 +11620,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ковга</l>
@@ -11155,6 +11644,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коволда</l>
@@ -11194,6 +11684,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коволдонь</l>
@@ -11217,6 +11708,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ковонга</l>
@@ -11240,6 +11732,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ковшка</l>
@@ -11263,6 +11756,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кода</l>
@@ -11374,6 +11868,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кодгемоньксть</l>
@@ -11397,6 +11892,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кодякс</l>
@@ -11420,6 +11916,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коза</l>
@@ -11499,6 +11996,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">козк</l>
@@ -11538,6 +12036,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">козовок</l>
@@ -11561,6 +12060,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">козонга</l>
@@ -11584,6 +12084,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">козяста</l>
@@ -11607,6 +12108,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-как</l>
@@ -11630,6 +12132,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-ков</l>
@@ -11653,6 +12156,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-коса</l>
@@ -11676,6 +12180,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-коста</l>
@@ -11699,6 +12204,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-мъзяра</l>
@@ -11722,6 +12228,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-мъзярда</l>
@@ -11745,6 +12252,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кой-мъзярс</l>
@@ -11768,6 +12276,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коколь-коколь</l>
@@ -11791,6 +12300,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кокольдезь</l>
@@ -11814,6 +12324,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кокольфса</l>
@@ -11837,6 +12348,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кокшкодозь</l>
@@ -11860,6 +12372,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кокшкоткшнезь</l>
@@ -11883,6 +12396,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кокшкотфста</l>
@@ -11906,6 +12420,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колай</l>
@@ -11929,6 +12444,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колдонь</l>
@@ -11952,6 +12468,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колендезь</l>
@@ -11975,6 +12492,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмоксть</l>
@@ -11998,6 +12516,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмонза</l>
@@ -12021,6 +12540,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмонь-кьрда</l>
@@ -12044,6 +12564,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмоцеда</l>
@@ -12067,6 +12588,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмочесь</l>
@@ -12090,6 +12612,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">колмошкаксть</l>
@@ -12113,6 +12636,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коль</l>
@@ -12136,6 +12660,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кольгозь-авардезь</l>
@@ -12159,6 +12684,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комада</l>
@@ -12178,10 +12704,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
+        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комадонь</l>
@@ -12201,10 +12729,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
+        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комадоньпрят</l>
@@ -12224,10 +12754,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
+        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комадоня</l>
@@ -12247,10 +12779,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t>suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
+        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комазня</l>
@@ -12274,6 +12808,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комазь</l>
@@ -12297,6 +12832,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комафкаста</l>
@@ -12320,6 +12856,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комафста</l>
@@ -12343,6 +12880,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комлявняста</l>
@@ -12366,6 +12904,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комлявста</l>
@@ -12389,6 +12928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">комотнезь</l>
@@ -12412,6 +12952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">конашкава</l>
@@ -12435,6 +12976,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">конашкада</l>
@@ -12458,6 +13000,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">конашкаста</l>
@@ -12481,6 +13024,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">копорьгодозь</l>
@@ -12504,6 +13048,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">копылда</l>
@@ -12527,6 +13072,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">копылфца</l>
@@ -12550,6 +13096,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кородозь</l>
@@ -12573,6 +13120,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коса</l>
@@ -12652,6 +13200,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">косовок</l>
@@ -12675,6 +13224,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">косойста</l>
@@ -12698,6 +13248,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">косонга</l>
@@ -12721,6 +13272,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коста</l>
@@ -12772,7 +13324,8 @@
 
         <phonet>kostə-kosta</phonet>
 
-        <xt xml:lang="fin">1. jostakin. 2. joskus, silloin tällöin, toisinaan. 3. koskaan</xt>
+        <xt xml:lang="fin">1. jostakin. 2. joskus, silloin tällöin, toisinaan.
+        3. koskaan</xt>
       </xg>
 
       <xg>
@@ -12800,6 +13353,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">костонга</l>
@@ -12823,6 +13377,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">костонь</l>
@@ -12846,6 +13401,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коськоняста</l>
@@ -12869,6 +13425,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">коськста</l>
@@ -12892,6 +13449,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">котоксть</l>
@@ -12915,6 +13473,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">котонь-кърда</l>
@@ -12938,6 +13497,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кразою</l>
@@ -12961,6 +13521,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">край</l>
@@ -12992,6 +13553,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кругом</l>
@@ -13015,6 +13577,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кругонь-круг</l>
@@ -13038,6 +13601,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">крутаста</l>
@@ -13061,6 +13625,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">крёскакс</l>
@@ -13084,6 +13649,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кубышком</l>
@@ -13107,6 +13673,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кува</l>
@@ -13130,6 +13697,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кувакаста</l>
@@ -13153,6 +13721,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кувалмос</l>
@@ -13176,6 +13745,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куване</l>
@@ -13223,6 +13793,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куваня-бъди</l>
@@ -13246,6 +13817,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кувать</l>
@@ -13277,6 +13849,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куватьс</l>
@@ -13308,6 +13881,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куколендазь</l>
@@ -13331,6 +13905,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кулдордозь-калдордозь</l>
@@ -13354,6 +13929,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кулевиста</l>
@@ -13377,6 +13953,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кулемга</l>
@@ -13400,6 +13977,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куломшка</l>
@@ -13423,6 +14001,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кулоста</l>
@@ -13446,6 +14025,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кулофста</l>
@@ -13469,6 +14049,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кунара</l>
@@ -13500,6 +14081,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кунаркиге</l>
@@ -13523,6 +14105,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кунарста</l>
@@ -13546,6 +14129,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кунф</l>
@@ -13577,6 +14161,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">курмозень-курмозь</l>
@@ -13600,6 +14185,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">курок</l>
@@ -13639,6 +14225,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куроконе</l>
@@ -13662,6 +14249,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">курь-на-гурь</l>
@@ -13685,6 +14273,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">куря-кяши</l>
@@ -13708,6 +14297,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кучкава</l>
@@ -13731,6 +14321,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кучкаса</l>
@@ -13754,6 +14345,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кштизь</l>
@@ -13777,6 +14369,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кърганьпяльцек</l>
@@ -13800,6 +14393,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">къргацек</l>
@@ -13823,6 +14417,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кържа</l>
@@ -13846,6 +14441,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кърназь</l>
@@ -13869,6 +14465,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кърхкаста</l>
@@ -13892,6 +14489,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кърхтапа</l>
@@ -13915,6 +14513,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">къштяньгярь</l>
@@ -13938,6 +14537,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьваксса</l>
@@ -13961,6 +14561,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьвийса</l>
@@ -13984,6 +14585,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьса</l>
@@ -14007,6 +14609,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьса-сурса</l>
@@ -14030,6 +14633,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьста</l>
@@ -14053,6 +14657,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядьста_кядьс</l>
@@ -14076,6 +14681,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кядялда</l>
@@ -14099,6 +14705,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжда</l>
@@ -14122,6 +14729,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжень_ардомга</l>
@@ -14145,6 +14753,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжетта</l>
@@ -14168,6 +14777,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжиста</l>
@@ -14187,10 +14797,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vihaisesti, kiukkuisena, pahasti, ilkeästi, häijysti, kovasti, ankarasti</t>
+        <t>vihaisesti, kiukkuisena, pahasti, ilkeästi, häijysti, kovasti,
+        ankarasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжиямга</l>
@@ -14214,6 +14826,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяжияфста</l>
@@ -14237,6 +14850,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кялезь</l>
@@ -14260,6 +14874,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяпе</l>
@@ -14299,6 +14914,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кятавста</l>
@@ -14322,6 +14938,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кятьта</l>
@@ -14345,6 +14962,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кятьта-кятс</l>
@@ -14368,6 +14986,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяшезь-вешезь</l>
@@ -14391,6 +15010,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">кяшендезь</l>
@@ -14414,6 +15034,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лабордозь</l>
@@ -14437,6 +15058,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лавгазь-лабордозь</l>
@@ -14460,6 +15082,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лавгазь-мятькодезь</l>
@@ -14483,6 +15106,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лавксезь-лаборкшнезь</l>
@@ -14506,6 +15130,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лавксезь-мятькотькшнезь</l>
@@ -14529,6 +15154,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лагордозь</l>
@@ -14552,6 +15178,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лагордозь-дубордозь</l>
@@ -14575,6 +15202,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лагоркшнезь-дуборкшнезь</l>
@@ -14598,6 +15226,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лагорфса-дуборфса</l>
@@ -14617,10 +15246,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>räminällä, helinällä, meluisasti, jyminällä, risahtaen, rasahtaen</t>
+        <t>räminällä, helinällä, meluisasti, jyminällä, risahtaen,
+        rasahtaen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лад</l>
@@ -14685,6 +15316,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лажназь</l>
@@ -14708,6 +15340,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лажназь-пеняцязь</l>
@@ -14731,6 +15364,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лажназь-пичедезь</l>
@@ -14754,6 +15388,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лаказь</l>
@@ -14777,6 +15412,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лакштордозь</l>
@@ -14800,6 +15436,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лама</l>
@@ -14879,6 +15516,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламбамняста</l>
@@ -14902,6 +15540,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламбаста</l>
@@ -14925,6 +15564,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламня</l>
@@ -14948,6 +15588,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламода</l>
@@ -14971,6 +15612,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламоксть</l>
@@ -14994,6 +15636,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламонь</l>
@@ -15017,6 +15660,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламонь-кърда</l>
@@ -15040,6 +15684,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламоня</l>
@@ -15063,6 +15708,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламоняс</l>
@@ -15086,6 +15732,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламос</l>
@@ -15109,6 +15756,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ламошкада</l>
@@ -15132,6 +15780,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ланга</l>
@@ -15155,6 +15804,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ланга-ланцек</l>
@@ -15178,6 +15828,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ланга-лунга</l>
@@ -15197,10 +15848,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>pinnallisesti, ylimalkaisesti, joten kuten, summittaisesti, suunnilleen</t>
+        <t>pinnallisesti, ylimalkaisesti, joten kuten, summittaisesti,
+        suunnilleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лангань-ланцек</l>
@@ -15224,6 +15877,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лангок</l>
@@ -15247,6 +15901,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лангса</l>
@@ -15286,6 +15941,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лангу</l>
@@ -15309,6 +15965,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ланцек-ланцек</l>
@@ -15332,6 +15989,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лапшом</l>
@@ -15355,6 +16013,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ласкавняста</l>
@@ -15378,6 +16037,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ласковайста</l>
@@ -15401,6 +16061,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ластя</l>
@@ -15448,6 +16109,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ласькозь</l>
@@ -15471,6 +16133,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лафченяста</l>
@@ -15494,6 +16157,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лафчста</l>
@@ -15517,6 +16181,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лац</l>
@@ -15556,6 +16221,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лацкас</l>
@@ -15579,6 +16245,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лемс</l>
@@ -15602,6 +16269,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лемса</l>
@@ -15625,6 +16293,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лемса-валса</l>
@@ -15648,6 +16317,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лемса-пилеса</l>
@@ -15671,6 +16341,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">летнязь</l>
@@ -15694,6 +16365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">леш-кошь</l>
@@ -15717,6 +16389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лиезь</l>
@@ -15740,6 +16413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лиже</l>
@@ -15763,6 +16437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лийкстамста</l>
@@ -15786,6 +16461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лимокс-сюнекс</l>
@@ -15805,10 +16481,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>joten kuten, yks kaks, suit sait, huitaisten, hutiloiden; karkeasti, rivosti, siivottomasti, törkeästi, ruokottomasti</t>
+        <t>joten kuten, yks kaks, suit sait, huitaisten, hutiloiden;
+        karkeasti, rivosti, siivottomasti, törkeästi, ruokottomasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лисезь</l>
@@ -15832,6 +16510,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лифчек</l>
@@ -15855,6 +16534,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лихойста</l>
@@ -15878,6 +16558,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лична</l>
@@ -15901,6 +16582,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лиякс</l>
@@ -15924,6 +16606,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лияста</l>
@@ -15955,6 +16638,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лов_ланга</l>
@@ -15978,6 +16662,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ловкайста</l>
@@ -15997,10 +16682,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>näppärästi, ketterästi, taitavasti, nasevasti; nokkelasti, ovelasti</t>
+        <t>näppärästi, ketterästi, taitavasti, nasevasti; nokkelasti,
+        ovelasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лока</l>
@@ -16024,6 +16711,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ломанькс</l>
@@ -16047,6 +16735,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лопадемшка</l>
@@ -16070,6 +16759,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лоцазь</l>
@@ -16093,6 +16783,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лужаняста</l>
@@ -16116,6 +16807,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лунга-ланга</l>
@@ -16139,6 +16831,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лучи</l>
@@ -16162,6 +16855,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">люба</l>
@@ -16185,6 +16879,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">любопытна</l>
@@ -16208,6 +16903,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">любота</l>
@@ -16231,6 +16927,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">люнь</l>
@@ -16254,6 +16951,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лямбоняста</l>
@@ -16277,6 +16975,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">лямбоста</l>
@@ -16300,6 +16999,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ляпиякшнезь</l>
@@ -16323,6 +17023,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ляпоняста</l>
@@ -16346,6 +17047,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ляпоста</l>
@@ -16369,6 +17071,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ляхом</l>
@@ -16392,6 +17095,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мадозь</l>
@@ -16415,6 +17119,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мазиняста</l>
@@ -16438,6 +17143,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мазиста</l>
@@ -16461,6 +17167,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мазыста</l>
@@ -16484,6 +17191,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мала</l>
@@ -16659,6 +17367,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">малость</l>
@@ -16690,6 +17399,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">малaняс</l>
@@ -16713,6 +17423,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мана</l>
@@ -16768,6 +17479,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">манамба</l>
@@ -16791,6 +17503,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мани</l>
@@ -16830,6 +17543,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марнек</l>
@@ -16861,6 +17575,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марнянь-марнянь</l>
@@ -16884,6 +17599,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марняс</l>
@@ -16907,6 +17623,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марняса</l>
@@ -16930,6 +17647,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">маром</l>
@@ -16961,6 +17679,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">маронь-мар</l>
@@ -16984,6 +17703,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марс</l>
@@ -17007,6 +17727,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марса</l>
@@ -17038,6 +17759,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марявиста</l>
@@ -17069,6 +17791,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марязь</l>
@@ -17092,6 +17815,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">маряйста</l>
@@ -17115,6 +17839,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">марямга</l>
@@ -17134,10 +17859,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ääneen, kuuluvasti; (henkilön kanssa lauseenvastike:) tietääkse-</t>
+        <t>ääneen, kuuluvasti; (henkilön kanssa lauseenvastike:)
+        tietääkse-</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">маця</l>
@@ -17177,6 +17904,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">машнезь</l>
@@ -17200,6 +17928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">маштозь</l>
@@ -17223,6 +17952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меки</l>
@@ -17278,6 +18008,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меккятть</l>
@@ -17301,6 +18032,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мековасу</l>
@@ -17340,6 +18072,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меколанкт</l>
@@ -17371,6 +18104,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меколе</l>
@@ -17402,6 +18136,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меколи</l>
@@ -17441,6 +18176,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мекольцеда</l>
@@ -17464,6 +18200,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меколя</l>
@@ -17487,6 +18224,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мекпот</l>
@@ -17510,6 +18248,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мекпотазь</l>
@@ -17533,6 +18272,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мекпяли</l>
@@ -17556,6 +18296,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меле</l>
@@ -17595,6 +18336,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мелкайняста</l>
@@ -17618,6 +18360,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мелкайста</l>
@@ -17641,6 +18384,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мелоченьпес</l>
@@ -17664,6 +18408,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мельде</l>
@@ -17687,6 +18432,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мельде-пельде</l>
@@ -17710,6 +18456,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мельцек</l>
@@ -17749,6 +18496,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меля</l>
@@ -17836,6 +18584,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мелямба</l>
@@ -17867,6 +18616,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">менди</l>
@@ -17890,6 +18640,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ментом</l>
@@ -17913,6 +18664,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мес</l>
@@ -17968,6 +18720,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">метка</l>
@@ -17991,6 +18744,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">меткайста</l>
@@ -18014,6 +18768,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">механически</l>
@@ -18037,6 +18792,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">минди</l>
@@ -18060,6 +18816,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мирнаста</l>
@@ -18083,6 +18840,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">миром</l>
@@ -18106,6 +18864,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">миякс</l>
@@ -18129,6 +18888,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">миярдовок</l>
@@ -18152,6 +18912,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">миярс</l>
@@ -18175,6 +18936,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мокназь</l>
@@ -18198,6 +18960,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мокшекс</l>
@@ -18221,6 +18984,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">муворуста</l>
@@ -18244,6 +19008,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мудрайста</l>
@@ -18267,6 +19032,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мужественна</l>
@@ -18290,6 +19056,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзолдозь</l>
@@ -18313,6 +19080,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзолкшнезь</l>
@@ -18336,6 +19104,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзяра</l>
@@ -18359,6 +19128,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзяра-бъди</l>
@@ -18382,6 +19152,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзяра-мъзяра</l>
@@ -18405,6 +19176,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзяра_аф_мъзяра</l>
@@ -18428,6 +19200,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярда</l>
@@ -18451,6 +19224,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярда-бъди</l>
@@ -18474,6 +19248,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярда-мъзярда</l>
@@ -18497,6 +19272,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярда_аф_мъзярда</l>
@@ -18520,6 +19296,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярдовок</l>
@@ -18543,6 +19320,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярдонга</l>
@@ -18566,6 +19344,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярксть</l>
@@ -18589,6 +19368,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярксть-мъзярксть</l>
@@ -18612,6 +19392,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярксть_аф_мъзярксть</l>
@@ -18635,6 +19416,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярняс</l>
@@ -18654,10 +19436,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kauanko, pitkäänkö; toistaiseksi, joksikin aikaa; milloin, mihin aikaan</t>
+        <t>kauanko, pitkäänkö; toistaiseksi, joksikin aikaa; milloin, mihin
+        aikaan</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярода</l>
@@ -18681,6 +19465,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзяронза</l>
@@ -18704,6 +19489,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошка</l>
@@ -18727,6 +19513,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошка-мъзярошка</l>
@@ -18750,6 +19537,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошка_аф_мъзярошка</l>
@@ -18773,6 +19561,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошкавок</l>
@@ -18796,6 +19585,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошкада</l>
@@ -18819,6 +19609,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошканза</l>
@@ -18842,6 +19633,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярошкас</l>
@@ -18865,6 +19657,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярс</l>
@@ -18888,6 +19681,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярс-мъзярс</l>
@@ -18911,6 +19705,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярс_аф_мъзярс</l>
@@ -18934,6 +19729,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъзярска</l>
@@ -18957,6 +19753,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мъльни</l>
@@ -18980,6 +19777,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мяльса-кяльса</l>
@@ -19003,6 +19801,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мяра</l>
@@ -19026,6 +19825,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">мятярдезь</l>
@@ -19049,6 +19849,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">навибор</l>
@@ -19072,6 +19873,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нагла</l>
@@ -19095,6 +19897,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наголь</l>
@@ -19126,6 +19929,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">надёжна</l>
@@ -19149,6 +19953,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наизусть</l>
@@ -19172,6 +19977,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">най</l>
@@ -19211,6 +20017,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">накой</l>
@@ -19234,6 +20041,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">накось</l>
@@ -19257,6 +20065,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наложна</l>
@@ -19280,6 +20089,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наповал</l>
@@ -19303,6 +20113,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">напрокат</l>
@@ -19326,6 +20137,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">напролом</l>
@@ -19349,6 +20161,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нарошна</l>
@@ -19372,6 +20185,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наружи</l>
@@ -19395,6 +20209,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нарядуста</l>
@@ -19418,6 +20233,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наряжафста</l>
@@ -19441,6 +20257,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">насильна</l>
@@ -19464,6 +20281,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">настойчивайста</l>
@@ -19487,6 +20305,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">натащах</l>
@@ -19510,6 +20329,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">натла</l>
@@ -19533,6 +20353,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нахальна</l>
@@ -19556,6 +20377,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">наява</l>
@@ -19587,6 +20409,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">недяля-кафта</l>
@@ -19610,6 +20433,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">недяля_ёткть</l>
@@ -19633,6 +20457,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">недяляс-кафтс</l>
@@ -19656,6 +20481,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нежекснезь</l>
@@ -19679,6 +20505,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">незаконна</l>
@@ -19702,6 +20529,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нембонять</l>
@@ -19725,6 +20553,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">немнянь</l>
@@ -19748,6 +20577,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ненек</l>
@@ -19771,6 +20601,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ненекь</l>
@@ -19794,6 +20625,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">неряшлива</l>
@@ -19817,6 +20649,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">несколька</l>
@@ -19840,6 +20673,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нечаянна</l>
@@ -19863,6 +20697,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">никак</l>
@@ -19886,6 +20721,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилева</l>
@@ -19909,6 +20745,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилексть</l>
@@ -19932,6 +20769,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилексть-ветексть</l>
@@ -19955,6 +20793,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ниленза</l>
@@ -19978,6 +20817,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилень-ветень</l>
@@ -20001,6 +20841,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилень_кьрда</l>
@@ -20024,6 +20865,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нилепилькса</l>
@@ -20047,6 +20889,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нильгемоньксть</l>
@@ -20070,6 +20913,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нильхцек</l>
@@ -20093,6 +20937,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нинге</l>
@@ -20124,6 +20969,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ничаво</l>
@@ -20147,6 +20993,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нокласта</l>
@@ -20166,10 +21013,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vinossa, kierossa, väärässä, kallellaan, vinoon, kieroon, väärää, kallelleen</t>
+        <t>vinossa, kierossa, väärässä, kallellaan, vinoon, kieroon, väärää,
+        kallelleen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ноктанек-мезнек</l>
@@ -20193,6 +21042,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нолазь-палозь</l>
@@ -20216,6 +21066,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ноласта</l>
@@ -20239,6 +21090,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нолгадозь</l>
@@ -20262,6 +21114,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нолдань_пацяня</l>
@@ -20285,6 +21138,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нолданьнярьхть</l>
@@ -20308,6 +21162,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">норхцадезь</l>
@@ -20331,6 +21186,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нувазь</l>
@@ -20354,6 +21210,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нуловал</l>
@@ -20377,6 +21234,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нучк</l>
@@ -20424,6 +21282,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нюрь</l>
@@ -20447,6 +21306,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нюрьхкяняняста</l>
@@ -20470,6 +21330,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нюрьхкяняста</l>
@@ -20493,6 +21354,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">нюрязь-пупорязь</l>
@@ -20516,6 +21378,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">няевомга</l>
@@ -20539,6 +21402,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">няемга</l>
@@ -20562,6 +21426,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">няемозонк</l>
@@ -20585,6 +21450,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">няфтемга</l>
@@ -20608,6 +21474,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обедшкада</l>
@@ -20627,10 +21494,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>lähempänä lounasta t. puoltapäivää, lounaan aikoihin, puolilta päivin</t>
+        <t>lähempänä lounasta t. puoltapäivää, lounaan aikoihin, puolilta
+        päivin</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обжафста</l>
@@ -20654,6 +21523,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обидна</l>
@@ -20677,6 +21547,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обыкновенна</l>
@@ -20700,6 +21571,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обычна</l>
@@ -20723,6 +21595,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">обязательна</l>
@@ -20746,6 +21619,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">однек-сиренек</l>
@@ -20769,6 +21643,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">одняста</l>
@@ -20792,6 +21667,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">однястокиге</l>
@@ -20815,6 +21691,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">одста</l>
@@ -20838,6 +21715,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оду</l>
@@ -20877,6 +21755,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">озада</l>
@@ -20916,6 +21795,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">озаткя</l>
@@ -20939,6 +21819,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">озсезь</l>
@@ -20962,6 +21843,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">олажаста</l>
@@ -20985,6 +21867,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">олянтала</l>
@@ -21008,6 +21891,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">омбоку</l>
@@ -21039,6 +21923,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">омбонь-кърда</l>
@@ -21062,6 +21947,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">омботь</l>
@@ -21093,6 +21979,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">омбоцеда</l>
@@ -21116,6 +22003,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">омбоцемба</l>
@@ -21139,6 +22027,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оптом</l>
@@ -21162,6 +22051,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ордажста</l>
@@ -21185,6 +22075,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ордатфста</l>
@@ -21208,6 +22099,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ордашкофста</l>
@@ -21231,6 +22123,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оржаняста</l>
@@ -21254,6 +22147,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оржаста</l>
@@ -21277,6 +22171,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">осалста</l>
@@ -21300,6 +22195,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">особенна</l>
@@ -21319,10 +22215,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>erikoisesti, erityisesti, erikoisen, erityisen, erittäin; varsinkin, etenkin, eritoten</t>
+        <t>erikoisesti, erityisesti, erikoisen, erityisen, erittäin;
+        varsinkin, etenkin, eritoten</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">остаткада</l>
@@ -21346,6 +22244,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">осторожна</l>
@@ -21369,6 +22268,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">отважна</l>
@@ -21392,6 +22292,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">отвлечённа</l>
@@ -21415,6 +22316,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">отлична</l>
@@ -21434,10 +22336,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>erinomaisesti, erittäin hyvin, mainiosti, loistavasti, kiitettävästi</t>
+        <t>erinomaisesti, erittäin hyvin, mainiosti, loistavasti,
+        kiitettävästi</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">отькорьста</l>
@@ -21461,6 +22365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">официальна</l>
@@ -21484,6 +22389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">охотна</l>
@@ -21507,6 +22413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оцю_вайгяльхть</l>
@@ -21530,6 +22437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оцюнек-мезнек</l>
@@ -21553,6 +22461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оцюнек-ёмланек</l>
@@ -21576,6 +22485,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оцюняста</l>
@@ -21599,6 +22509,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">оцюста</l>
@@ -21622,6 +22533,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">очна</l>
@@ -21645,6 +22557,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">павазуняста</l>
@@ -21668,6 +22581,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">павазуста</l>
@@ -21691,6 +22605,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">павазфтома</l>
@@ -21714,6 +22629,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пакарнек-мезнек</l>
@@ -21737,6 +22653,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">паксява</l>
@@ -21760,6 +22677,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">паксява-лугава</l>
@@ -21783,6 +22701,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пакшень-пакш</l>
@@ -21806,6 +22725,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пакшень-пакшкя</l>
@@ -21829,6 +22749,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">палнянь-палнянь</l>
@@ -21852,6 +22773,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">паморьксонь-паморькс</l>
@@ -21875,6 +22797,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пангс-пяштьс</l>
@@ -21898,6 +22821,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пандень-пандень</l>
@@ -21921,6 +22845,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">панджемшка</l>
@@ -21944,6 +22869,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пандомда</l>
@@ -21967,6 +22893,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">панксонь-панкс</l>
@@ -21990,6 +22917,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">панксонь-панксонь</l>
@@ -22013,6 +22941,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пара</l>
@@ -22116,6 +23045,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">парняста</l>
@@ -22139,6 +23069,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">парняста-гожняста</l>
@@ -22162,6 +23093,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пароняста</l>
@@ -22185,6 +23117,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">парс</l>
@@ -22208,6 +23141,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">парста</l>
@@ -22231,6 +23165,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">парста-цебярьста</l>
@@ -22254,6 +23189,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">паслетку</l>
@@ -22277,6 +23213,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пачк</l>
@@ -22340,6 +23277,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">педа-пес</l>
@@ -22363,6 +23301,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пеедемга</l>
@@ -22386,6 +23325,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пеелемнек-граблянек</l>
@@ -22409,6 +23349,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пекста</l>
@@ -22432,6 +23373,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пелезь</l>
@@ -22455,6 +23397,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пелезь-тьрнатозь</l>
@@ -22478,6 +23421,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пеняцязь</l>
@@ -22501,6 +23445,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">перьф</l>
@@ -22532,6 +23477,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">песпегля</l>
@@ -22555,6 +23501,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">песта-пес</l>
@@ -22578,6 +23525,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пефтома</l>
@@ -22617,6 +23565,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пецек</l>
@@ -22672,6 +23621,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">печфонь-печф</l>
@@ -22695,6 +23645,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пиже_вайгяльса</l>
@@ -22718,6 +23669,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пиже_валдоняста</l>
@@ -22741,6 +23693,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пижеста</l>
@@ -22760,10 +23713,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vihreänä, raakana; hurjasti, epätoivoisesti, vimmatusti, sydäntäraastavasti</t>
+        <t>vihreänä, raakana; hurjasti, epätoivoisesti, vimmatusti,
+        sydäntäraastavasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пилень_пандомшка</l>
@@ -22787,6 +23742,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгесурпряса</l>
@@ -22810,6 +23766,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгонек-кяднек</l>
@@ -22829,10 +23786,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>käsineen ja jalkoineen; mielellään, mielihyvin, kernaasti; kokonaan, täysin, kerrassaan</t>
+        <t>käsineen ja jalkoineen; mielellään, mielihyvin, kernaasti;
+        kokonaan, täysin, kerrassaan</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгонек-прянек</l>
@@ -22856,6 +23815,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгопеса</l>
@@ -22879,6 +23839,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгосурпес</l>
@@ -22902,6 +23863,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пильгста-пряс</l>
@@ -22925,6 +23887,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пинге_ётазь</l>
@@ -22948,6 +23911,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пингонь-пингонь</l>
@@ -22971,6 +23935,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пингонь_ётазь</l>
@@ -22994,6 +23959,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пингстонза</l>
@@ -23017,6 +23983,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пингта_инголе</l>
@@ -23040,6 +24007,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пинекс-катокс</l>
@@ -23063,6 +24031,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">питнефтома</l>
@@ -23086,6 +24055,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">питниста</l>
@@ -23109,6 +24079,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пичедезь</l>
@@ -23132,6 +24103,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пичетькстозь</l>
@@ -23155,6 +24127,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пичефксуста</l>
@@ -23178,6 +24151,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">плодотворна</l>
@@ -23201,6 +24175,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">повадна</l>
@@ -23224,6 +24199,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">подряд</l>
@@ -23247,6 +24223,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">поздна</l>
@@ -23270,6 +24247,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">позна</l>
@@ -23293,6 +24271,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пока</l>
@@ -23316,6 +24295,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">поколень-поколь</l>
@@ -23339,6 +24319,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">полань-полань</l>
@@ -23362,6 +24343,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">полас-полас</l>
@@ -23385,6 +24367,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">полгонь-полга</l>
@@ -23408,6 +24391,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">полгонь-полгонь</l>
@@ -23431,6 +24415,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">полезна</l>
@@ -23454,6 +24439,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пользас</l>
@@ -23477,6 +24463,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пользафтома</l>
@@ -23500,6 +24487,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">постоянна</l>
@@ -23523,6 +24511,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">потазь</l>
@@ -23546,6 +24535,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">потмараняста</l>
@@ -23569,6 +24559,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">потмараста</l>
@@ -23592,6 +24583,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">потмоста</l>
@@ -23615,6 +24607,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">почесть</l>
@@ -23638,6 +24631,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">правильна</l>
@@ -23661,6 +24655,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">приметависта</l>
@@ -23684,6 +24679,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прокс</l>
@@ -23723,6 +24719,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">проста</l>
@@ -23746,6 +24743,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">простойста</l>
@@ -23769,6 +24767,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">противна</l>
@@ -23788,10 +24787,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>inhottavasti, iljettävästi, vastenmielisesti; inhottavaa, vastenmielistä</t>
+        <t>inhottavasti, iljettävästi, vastenmielisesti; inhottavaa,
+        vastenmielistä</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прява</l>
@@ -23815,6 +24816,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прявиста</l>
@@ -23838,6 +24840,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пряда</l>
@@ -23861,6 +24864,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прянек-ваймонек</l>
@@ -23884,6 +24888,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прянек-мезнек</l>
@@ -23907,6 +24912,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прянек-пильгонек</l>
@@ -23930,6 +24936,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прянек-пулонек</l>
@@ -23953,6 +24960,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">прянек-шаманек</l>
@@ -23976,6 +24984,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пряста-пильгс</l>
@@ -23999,6 +25008,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">псиста</l>
@@ -24022,6 +25032,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пувордазьня</l>
@@ -24045,6 +25056,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пувфтома</l>
@@ -24068,6 +25080,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пукшуста</l>
@@ -24091,6 +25104,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пулцек-пяльцек</l>
@@ -24110,10 +25124,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>epäjärjestyksessä, epäsiististi, sekaisin, sekavasti, sotkuisesti, huolimattomasti</t>
+        <t>epäjärjestyksessä, epäsiististi, sekaisin, sekavasti, sotkuisesti,
+        huolimattomasti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пульзяда</l>
@@ -24137,6 +25153,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пульхкозь</l>
@@ -24160,6 +25177,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пульхкозь-шарозь</l>
@@ -24183,6 +25201,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пульцком</l>
@@ -24206,6 +25225,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пуполязь</l>
@@ -24229,6 +25249,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пупорязь</l>
@@ -24252,6 +25273,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пупорязь-кучкорязь</l>
@@ -24275,6 +25297,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пусмонь-пусма</l>
@@ -24298,6 +25321,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пустас</l>
@@ -24321,6 +25345,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">путерьксонь-путерькс</l>
@@ -24344,6 +25369,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">путьксонь-путьксонь</l>
@@ -24367,6 +25393,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пъкштор</l>
@@ -24390,6 +25417,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пъцтай</l>
@@ -24413,6 +25441,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пяк</l>
@@ -24476,6 +25505,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пяконе</l>
@@ -24507,6 +25537,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пялева</l>
@@ -24530,6 +25561,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пялеветь</l>
@@ -24553,6 +25585,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пялень-пялень</l>
@@ -24576,6 +25609,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пялес</l>
@@ -24655,6 +25689,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пяльксонь-пялькс</l>
@@ -24674,10 +25709,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>puolikkaina, osina, paloina, viipaleina, puoliksi, osiksi, paloikis, viipaleiksi</t>
+        <t>puolikkaina, osina, paloina, viipaleina, puoliksi, osiksi,
+        paloikis, viipaleiksi</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пялязкс</l>
@@ -24701,6 +25738,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пярдаком</l>
@@ -24724,6 +25762,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пятнань-пятнань</l>
@@ -24747,6 +25786,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пяторфса</l>
@@ -24770,6 +25810,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">пяшксе</l>
@@ -24817,6 +25858,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">раднякс</l>
@@ -24840,6 +25882,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">радостна</l>
@@ -24863,6 +25906,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">радостнаня</l>
@@ -24886,6 +25930,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">радостнаста</l>
@@ -24909,6 +25954,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рана</l>
@@ -24918,7 +25964,9 @@
       </stg>
     </lg>
 
-    <pos>TEMP</pos>
+    <pos>Adv</pos>
+
+    <posDescr>TEMP</posDescr>
 
     <phonet>rana</phonet>
 
@@ -24940,6 +25988,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ранакиге</l>
@@ -24963,6 +26012,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахазь</l>
@@ -24986,6 +26036,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахазь-кенярдезь</l>
@@ -25009,6 +26060,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахазь-моразь</l>
@@ -25032,6 +26084,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахазь-пеедезь</l>
@@ -25055,6 +26108,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахазь-пеетькшнезь</l>
@@ -25078,6 +26132,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахсезь</l>
@@ -25101,6 +26156,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахсезь-пеетькшнезь</l>
@@ -25124,6 +26180,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахсекшнезь</l>
@@ -25147,6 +26204,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рахсемга</l>
@@ -25170,6 +26228,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">резнязь-лознязь</l>
@@ -25193,6 +26252,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ризназь</l>
@@ -25216,6 +26276,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ризназь-авардезь</l>
@@ -25239,6 +26300,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ризназь-горявазь</l>
@@ -25262,6 +26324,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ризназь-палондозь</l>
@@ -25285,6 +26348,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ризназь-пичедезь</l>
@@ -25308,6 +26372,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ровна</l>
@@ -25327,7 +26392,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti, samoin, tasan</t>
+        <t>yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti, samoin,
+        tasan</t>
       </tg>
 
       <xg>
@@ -25339,6 +26405,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">розна</l>
@@ -25362,6 +26429,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ронгонек-мезнек</l>
@@ -25385,6 +26453,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ротань-ротань</l>
@@ -25408,6 +26477,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">руднек</l>
@@ -25431,6 +26501,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рузавакс</l>
@@ -25454,6 +26525,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рузкс</l>
@@ -25477,6 +26549,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рядем</l>
@@ -25500,6 +26573,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ряднянь</l>
@@ -25523,6 +26597,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ряднянь-ряд</l>
@@ -25546,6 +26621,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рядняс</l>
@@ -25569,6 +26645,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рядонь-ряд</l>
@@ -25592,6 +26669,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рядонь-рядня</l>
@@ -25615,6 +26693,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рязозь-палозь</l>
@@ -25638,6 +26717,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рязондозь-коськондозь</l>
@@ -25661,6 +26741,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рятева</l>
@@ -25684,6 +26765,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ряц</l>
@@ -25723,6 +26805,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ряца</l>
@@ -25778,6 +26861,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ряцок</l>
@@ -25825,6 +26909,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рёвназь</l>
@@ -25844,10 +26929,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten, parkuen, vollottaen</t>
+        <t>kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten,
+        parkuen, vollottaen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">рёвфса</l>
@@ -25867,10 +26954,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten, parkuen, vollottaen</t>
+        <t>kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten,
+        parkuen, vollottaen</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">савор</l>
@@ -25910,6 +26999,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">саднек-паршинек</l>
@@ -25933,6 +27023,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">садса-панчфса</l>
@@ -25956,6 +27047,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">салава</l>
@@ -25995,6 +27087,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">самостоятельна</l>
@@ -26018,6 +27111,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">саста</l>
@@ -26041,6 +27135,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">састоня</l>
@@ -26064,6 +27159,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сатомшка</l>
@@ -26095,6 +27191,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сатышка</l>
@@ -26118,6 +27215,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сафсем</l>
@@ -26141,6 +27239,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сбором</l>
@@ -26164,6 +27263,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">свободна</l>
@@ -26187,6 +27287,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сдельна</l>
@@ -26210,6 +27311,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седиваймот</l>
@@ -26233,6 +27335,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седиге</l>
@@ -26256,6 +27359,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седиге-ваймова</l>
@@ -26279,6 +27383,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седикс-ваймокс</l>
@@ -26298,10 +27403,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>koko sydämestään ja sielustaan; avomielisesti, avoimesti, suoraan; selvästi, ilmeisesti</t>
+        <t>koko sydämestään ja sielustaan; avomielisesti, avoimesti, suoraan;
+        selvästi, ilmeisesti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сединек-ваймонек</l>
@@ -26325,6 +27432,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седиса-ваймоса</l>
@@ -26348,6 +27456,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седифтома</l>
@@ -26371,6 +27480,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седихть-ваймот</l>
@@ -26394,6 +27504,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">седишкава</l>
@@ -26417,6 +27528,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сей</l>
@@ -26456,6 +27568,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">секундашка-кафта</l>
@@ -26479,6 +27592,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сельгондезь</l>
@@ -26502,6 +27616,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сельминголе</l>
@@ -26525,6 +27640,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сельмодезь</l>
@@ -26548,6 +27664,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сельмонек-шаманек</l>
@@ -26571,6 +27688,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сельмос-шамас</l>
@@ -26594,6 +27712,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сембе</l>
@@ -26641,6 +27760,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">середеньпяли</l>
@@ -26664,6 +27784,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">середеньпяльхть</l>
@@ -26687,6 +27808,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сериста</l>
@@ -26710,6 +27832,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">серцек</l>
@@ -26733,6 +27856,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">серьс</l>
@@ -26756,6 +27880,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">серьцеконя</l>
@@ -26779,6 +27904,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">серьёзна</l>
@@ -26802,6 +27928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">серянь-берянь</l>
@@ -26825,6 +27952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сетьме</l>
@@ -26856,6 +27984,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сетьмоняста</l>
@@ -26879,6 +28008,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сетьмоста</l>
@@ -26902,6 +28032,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сидексть</l>
@@ -26925,6 +28056,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиденяста</l>
@@ -26948,6 +28080,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сидеста</l>
@@ -26971,6 +28104,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сидеста-сидеста</l>
@@ -26994,6 +28128,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сизефста</l>
@@ -27017,6 +28152,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">силком</l>
@@ -27040,6 +28176,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">силом</l>
@@ -27063,6 +28200,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">симметрична</l>
@@ -27086,6 +28224,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">симозь</l>
@@ -27109,6 +28248,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">симфкаста</l>
@@ -27132,6 +28272,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">симфста</l>
@@ -27155,6 +28296,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сингордазь</l>
@@ -27178,6 +28320,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сингорязь</l>
@@ -27201,6 +28344,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">синденьпрят</l>
@@ -27224,6 +28368,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">синяркс</l>
@@ -27247,6 +28392,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">синярксть</l>
@@ -27270,6 +28416,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиредембяльс</l>
@@ -27293,6 +28440,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиредемпяльхть</l>
@@ -27316,6 +28464,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиреденьпрят</l>
@@ -27339,6 +28488,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиреденьпяльхть</l>
@@ -27362,6 +28512,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиренек-однек</l>
@@ -27385,6 +28536,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиренек-шабанек</l>
@@ -27408,6 +28560,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиреннекс</l>
@@ -27431,6 +28584,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сиреста</l>
@@ -27454,6 +28608,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сисемге</l>
@@ -27477,6 +28632,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сисемгеня</l>
@@ -27500,6 +28656,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сисемгърда</l>
@@ -27523,6 +28680,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сисемксть</l>
@@ -27546,6 +28704,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сифтен</l>
@@ -27569,6 +28728,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сифтен-сяфтен</l>
@@ -27592,6 +28752,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сичас</l>
@@ -27615,6 +28776,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сияк</l>
@@ -27646,6 +28808,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сияне</l>
@@ -27669,6 +28832,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скареня</l>
@@ -27692,6 +28856,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">склень</l>
@@ -27715,6 +28880,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">склянь</l>
@@ -27738,6 +28904,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скопом</l>
@@ -27761,6 +28928,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скорей</l>
@@ -27784,6 +28952,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скосых</l>
@@ -27807,6 +28976,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скрось</l>
@@ -27826,10 +28996,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>täysin, aivan, kokonaan, (ei) lainkaan, (ei) ollenkaan; aina, tavallisesti</t>
+        <t>täysin, aivan, kokonaan, (ei) lainkaan, (ei) ollenkaan; aina,
+        tavallisesti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">скучна</l>
@@ -27853,6 +29025,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">слабайняста</l>
@@ -27872,10 +29045,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>heikonlaisesti, huononlaisesti; höllänlaisesti, löyhänlaisesti, löysänlaisesti</t>
+        <t>heikonlaisesti, huononlaisesti; höllänlaisesti, löyhänlaisesti,
+        löysänlaisesti</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">слабайста</l>
@@ -27899,6 +29074,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">слогонь-слогонь</l>
@@ -27922,6 +29098,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">слойса-слойса</l>
@@ -27945,6 +29122,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">случайна</l>
@@ -27968,6 +29146,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">смелста</l>
@@ -27991,6 +29170,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">смирна</l>
@@ -28014,6 +29194,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">смузьса-кядьса</l>
@@ -28037,6 +29218,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">смутявозь</l>
@@ -28060,6 +29242,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">смутявозь-пеедезь</l>
@@ -28083,6 +29266,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сняра</l>
@@ -28106,6 +29290,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">снярда</l>
@@ -28137,6 +29322,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сняроксть</l>
@@ -28160,6 +29346,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">снярошка</l>
@@ -28179,10 +29366,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin, noin) monta</t>
+        <t>sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin,
+        noin) monta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">снярошкань</l>
@@ -28202,10 +29391,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin, noin) monta</t>
+        <t>sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin,
+        noin) monta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">содамга</l>
@@ -28229,6 +29420,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сознательна</l>
@@ -28252,6 +29444,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сок-сок</l>
@@ -28275,6 +29468,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сокорста</l>
@@ -28298,6 +29492,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сомненияфтома</l>
@@ -28321,6 +29516,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">соморокта</l>
@@ -28344,6 +29540,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сортонь-сортонь</l>
@@ -28367,6 +29564,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сотнезь</l>
@@ -28390,6 +29588,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">специальна</l>
@@ -28413,6 +29612,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">спокойна</l>
@@ -28436,6 +29636,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">спокойна-спокойна</l>
@@ -28459,6 +29660,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">спорезь</l>
@@ -28482,6 +29684,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">справедливайста</l>
@@ -28505,6 +29708,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сразу</l>
@@ -28524,10 +29728,12 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>yhdellä kertaa, kerralla; yhtaikaa, samanaikaisesti; heti, kohta</t>
+        <t>yhdellä kertaa, kerralla; yhtaikaa, samanaikaisesti; heti,
+        kohta</t>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">срочна</l>
@@ -28551,6 +29757,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">срября</l>
@@ -28574,6 +29781,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стадонга</l>
@@ -28605,6 +29813,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стак</l>
@@ -28652,6 +29861,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стака</l>
@@ -28683,6 +29893,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стакащемда</l>
@@ -28706,6 +29917,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стаки</l>
@@ -28737,6 +29949,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стане</l>
@@ -28768,6 +29981,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">станя-станя</l>
@@ -28791,6 +30005,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">станявок</l>
@@ -28814,6 +30029,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">станяк</l>
@@ -28837,6 +30053,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">старандазь</l>
@@ -28860,6 +30077,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стерильна</l>
@@ -28883,6 +30101,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стирьпряса</l>
@@ -28906,6 +30125,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стойкаста</l>
@@ -28929,6 +30149,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">страх</l>
@@ -28952,6 +30173,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">страшна</l>
@@ -28975,6 +30197,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">строгайста</l>
@@ -28998,6 +30221,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">стяда</l>
@@ -29021,6 +30245,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сувозь</l>
@@ -29044,6 +30269,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">судорксса</l>
@@ -29067,6 +30293,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сумбраста</l>
@@ -29090,6 +30317,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сумораста</l>
@@ -29113,6 +30341,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">суркскянь-суркскянь</l>
@@ -29136,6 +30365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сурса-кядьса</l>
@@ -29159,6 +30389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сускомпейхть</l>
@@ -29182,6 +30413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сутканьпес</l>
@@ -29205,6 +30437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">съкназь</l>
@@ -29228,6 +30461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">съмбораста</l>
@@ -29251,6 +30485,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сънярс</l>
@@ -29274,6 +30509,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сювораста</l>
@@ -29297,6 +30533,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюворуста</l>
@@ -29320,6 +30557,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюдофста</l>
@@ -29343,6 +30581,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюконязь</l>
@@ -29366,6 +30605,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюлмокс</l>
@@ -29389,6 +30629,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюлмонянь-сюлмонянь</l>
@@ -29412,6 +30653,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюлонек-максонек</l>
@@ -29435,6 +30677,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюльхть-сяльхть</l>
@@ -29458,6 +30701,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюнеряста</l>
@@ -29481,6 +30725,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сюреняньпес</l>
@@ -29504,6 +30749,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяда_хужа</l>
@@ -29527,6 +30773,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сядоксть</l>
@@ -29550,6 +30797,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сядонга</l>
@@ -29573,6 +30821,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сядонголе</l>
@@ -29596,6 +30845,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сядоцексть</l>
@@ -29619,6 +30869,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сядынголе</l>
@@ -29642,6 +30893,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяка</l>
@@ -29713,6 +30965,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сякобасом</l>
@@ -29736,6 +30989,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сякокс</l>
@@ -29759,6 +31013,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяконьпес</l>
@@ -29782,6 +31037,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сялдазвидева</l>
@@ -29805,6 +31061,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сялондозь-сюцезь</l>
@@ -29828,6 +31085,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяльде</l>
@@ -29851,6 +31109,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сямольде</l>
@@ -29874,6 +31133,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сянкса</l>
@@ -29897,6 +31157,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяправду</l>
@@ -29920,6 +31181,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сярядезь</l>
@@ -29943,6 +31205,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сярядиста</l>
@@ -29966,6 +31229,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяс</l>
@@ -29997,6 +31261,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяськовомшка</l>
@@ -30020,6 +31285,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сятявняста</l>
@@ -30043,6 +31309,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сятявста</l>
@@ -30066,6 +31333,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяфта</l>
@@ -30089,6 +31357,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяфтане</l>
@@ -30112,6 +31381,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сяшкава</l>
@@ -30135,6 +31405,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёконь-сёконь</l>
@@ -30158,6 +31429,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёксенда</l>
@@ -30181,6 +31453,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёксенек-тунданек</l>
@@ -30204,6 +31477,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёксеньберьф</l>
@@ -30227,6 +31501,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёфтамазь</l>
@@ -30250,6 +31525,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёцераняста</l>
@@ -30273,6 +31549,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">сёцераста</l>
@@ -30296,6 +31573,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">та</l>
@@ -30319,6 +31597,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">табунонь-табунонь</l>
@@ -30342,6 +31621,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тага</l>
@@ -30365,6 +31645,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тазаста</l>
@@ -30388,6 +31669,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тайком</l>
@@ -30411,6 +31693,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таколдозь</l>
@@ -30434,6 +31717,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">такорста</l>
@@ -30457,6 +31741,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">талай</l>
@@ -30480,6 +31765,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">талайс</l>
@@ -30503,6 +31789,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">талантливайста</l>
@@ -30526,6 +31813,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">талой</l>
@@ -30549,6 +31837,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">танга</l>
@@ -30572,6 +31861,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">танцтиняста</l>
@@ -30595,6 +31885,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">танцтиста</l>
@@ -30618,6 +31909,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тапарякшнезь</l>
@@ -30641,6 +31933,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таргавозь</l>
@@ -30664,6 +31957,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таргазь</l>
@@ -30687,6 +31981,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таядоста</l>
@@ -30710,6 +32005,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таянаста</l>
@@ -30733,6 +32029,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таярдозь</l>
@@ -30756,6 +32053,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таяскодозь</l>
@@ -30779,6 +32077,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">таяскотфста</l>
@@ -30802,6 +32101,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">творческяйста</l>
@@ -30825,6 +32125,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тев_аф_тев</l>
@@ -30848,6 +32149,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тевлавнек-мезнек</l>
@@ -30871,6 +32173,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тевс-кис</l>
@@ -30894,6 +32197,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тевса-службаса</l>
@@ -30917,6 +32221,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тевса-шиса</l>
@@ -30940,6 +32245,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тей</l>
@@ -30963,6 +32269,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тейге</l>
@@ -30986,6 +32293,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тепонь-тяпонь</l>
@@ -31009,6 +32317,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">терьхконь-терьхконь</l>
@@ -31032,6 +32341,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тефтенянь</l>
@@ -31055,6 +32365,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тильхконь-тильхконь</l>
@@ -31078,6 +32389,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тирьхконь-тирьхконь</l>
@@ -31109,6 +32421,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тифтень</l>
@@ -31140,6 +32453,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тифтенянь</l>
@@ -31179,6 +32493,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тифтса-кафтса</l>
@@ -31202,6 +32517,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тифтю-кафту</l>
@@ -31225,6 +32541,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тифтя</l>
@@ -31248,6 +32565,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тихольдезне</l>
@@ -31271,6 +32589,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тихольдезь</l>
@@ -31294,6 +32613,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тишма</l>
@@ -31317,6 +32637,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тия</l>
@@ -31340,6 +32661,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тия-тува</l>
@@ -31363,6 +32685,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тияк</l>
@@ -31386,6 +32709,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тияне</l>
@@ -31409,6 +32733,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тияня-сияня</l>
@@ -31432,6 +32757,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тияня-туваня</l>
@@ -31455,6 +32781,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тняра</l>
@@ -31478,6 +32805,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тнярксть</l>
@@ -31501,6 +32829,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тняронь</l>
@@ -31524,6 +32853,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тнярцекс</l>
@@ -31547,6 +32877,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тняршка</l>
@@ -31570,6 +32901,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тов</l>
@@ -31579,7 +32911,9 @@
       </stg>
     </lg>
 
-    <pos>SPAT</pos>
+    <pos>Adv</pos>
+
+    <posDescr>SPAT</posDescr>
 
     <phonet>tov</phonet>
 
@@ -31633,6 +32967,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">товола</l>
@@ -31642,7 +32977,9 @@
       </stg>
     </lg>
 
-    <pos>SPAT</pos>
+    <pos>Adv</pos>
+
+    <posDescr>SPAT</posDescr>
 
     <phonet>tovəla</phonet>
 
@@ -31672,6 +33009,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тоза</l>
@@ -31695,6 +33033,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">този</l>
@@ -31718,6 +33057,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тозине</l>
@@ -31741,6 +33081,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тозк</l>
@@ -31804,6 +33145,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">токназь</l>
@@ -31827,6 +33169,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тола</l>
@@ -31850,6 +33193,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толвалдста</l>
@@ -31873,6 +33217,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толда</l>
@@ -31896,6 +33241,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толдоння</l>
@@ -31919,6 +33265,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толдонь</l>
@@ -31942,6 +33289,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толком</l>
@@ -31965,6 +33313,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толкфтома</l>
@@ -31988,6 +33337,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толомозь</l>
@@ -32011,6 +33361,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">толпань-толпань</l>
@@ -32034,6 +33385,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">томбаста</l>
@@ -32057,6 +33409,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">топодемняс</l>
@@ -32080,6 +33433,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">топодень_пект</l>
@@ -32103,6 +33457,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">топоцьта</l>
@@ -32126,6 +33481,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">торжественна</l>
@@ -32149,6 +33505,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тоса</l>
@@ -32180,6 +33537,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тосонга</l>
@@ -32203,6 +33561,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тоста</l>
@@ -32258,6 +33617,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">точна</l>
@@ -32281,6 +33641,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тошказне</l>
@@ -32304,6 +33665,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тошказь</l>
@@ -32327,6 +33689,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тревожафста</l>
@@ -32350,6 +33713,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тувак</l>
@@ -32373,6 +33737,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туване</l>
@@ -32396,6 +33761,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тувозгодозь</l>
@@ -32419,6 +33785,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туженяста</l>
@@ -32442,6 +33809,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тужеста</l>
@@ -32465,6 +33833,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тунда</l>
@@ -32488,6 +33857,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тунданнекс</l>
@@ -32511,6 +33881,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тундапяли</l>
@@ -32534,6 +33905,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тундашири</l>
@@ -32557,6 +33929,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тунь</l>
@@ -32580,6 +33953,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тупор-тапор</l>
@@ -32603,6 +33977,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тупорхт-тапорхт</l>
@@ -32626,6 +34001,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туркс-накось</l>
@@ -32649,6 +34025,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туркс_сельмот</l>
@@ -32672,6 +34049,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">турна</l>
@@ -32695,6 +34073,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туру</l>
@@ -32718,6 +34097,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тустста</l>
@@ -32741,6 +34121,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туткодозь</l>
@@ -32764,6 +34145,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">туфталфтома</l>
@@ -32787,6 +34169,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тъжназь</l>
@@ -32810,6 +34193,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тъзназь</l>
@@ -32833,6 +34217,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тънярос</l>
@@ -32856,6 +34241,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тънярс</l>
@@ -32879,6 +34265,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тъпор-тапор</l>
@@ -32902,6 +34289,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тъпорхт-тапорхт</l>
@@ -32925,6 +34313,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">търды-мърды</l>
@@ -32948,6 +34337,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">търмождозь</l>
@@ -32971,6 +34361,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">търназь-пелезь</l>
@@ -32994,6 +34385,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">търнатозь-пелезь</l>
@@ -33017,6 +34409,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюп-ляп</l>
@@ -33040,6 +34433,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюп-тяп</l>
@@ -33063,6 +34457,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюполь-тяполь</l>
@@ -33086,6 +34481,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюрезь-спорязь</l>
@@ -33109,6 +34505,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюрезь-сялондозь</l>
@@ -33132,6 +34529,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тюрендезь-сялондозь</l>
@@ -33155,6 +34553,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тядде</l>
@@ -33186,6 +34585,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяза</l>
@@ -33209,6 +34609,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тязк</l>
@@ -33232,6 +34633,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тякабасом</l>
@@ -33255,6 +34657,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тякомнянь</l>
@@ -33278,6 +34681,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяконьпес</l>
@@ -33301,6 +34705,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тялонек-кизонек</l>
@@ -33324,6 +34729,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тялоннекс</l>
@@ -33347,6 +34753,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тялоньберьф</l>
@@ -33370,6 +34777,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тялямба</l>
@@ -33393,6 +34801,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тянарса</l>
@@ -33416,6 +34825,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тянемс</l>
@@ -33439,6 +34849,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяни</l>
@@ -33494,6 +34905,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяникиге</l>
@@ -33517,6 +34929,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тянкса</l>
@@ -33540,6 +34953,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тянёк</l>
@@ -33563,6 +34977,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяп-ляп</l>
@@ -33586,6 +35001,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяса</l>
@@ -33609,6 +35025,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяста</l>
@@ -33632,6 +35049,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тятярьхть-мятярьхть</l>
@@ -33655,6 +35073,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяфта</l>
@@ -33678,6 +35097,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяфтак</l>
@@ -33701,6 +35121,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тячемняс</l>
@@ -33724,6 +35145,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тячемс</l>
@@ -33747,6 +35169,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тячи</l>
@@ -33794,6 +35217,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тячикиге</l>
@@ -33817,6 +35241,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяшкава</l>
@@ -33840,6 +35265,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяшкада</l>
@@ -33863,6 +35289,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяшканя</l>
@@ -33886,6 +35313,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тяшкас</l>
@@ -33909,6 +35337,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёждяняста</l>
@@ -33932,6 +35361,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёждяста</l>
@@ -33955,6 +35385,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёжянцеда</l>
@@ -33978,6 +35409,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёжянь-кърда</l>
@@ -34001,6 +35433,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёжяньксть</l>
@@ -34024,6 +35457,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">тёльки</l>
@@ -34047,6 +35481,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">увазь</l>
@@ -34070,6 +35505,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удивительна</l>
@@ -34093,6 +35529,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удивлённа</l>
@@ -34116,6 +35553,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удобна</l>
@@ -34139,6 +35577,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удозь-нувазь</l>
@@ -34162,6 +35601,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удомста</l>
@@ -34185,6 +35625,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">удяй</l>
@@ -34208,6 +35649,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ужанамста</l>
@@ -34231,6 +35673,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ужеста-ужес</l>
@@ -34254,6 +35697,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ужяль</l>
@@ -34293,6 +35737,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">улхка</l>
@@ -34316,6 +35761,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">улхкомба</l>
@@ -34339,6 +35785,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">улхконя</l>
@@ -34362,6 +35809,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">улхкотьсе</l>
@@ -34385,6 +35833,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">уназь</l>
@@ -34408,6 +35857,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">упрок</l>
@@ -34431,6 +35881,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">упрямста</l>
@@ -34454,6 +35905,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">уркснезь</l>
@@ -34477,6 +35929,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">уроштфста</l>
@@ -34500,6 +35953,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">урядна</l>
@@ -34523,6 +35977,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">устна</l>
@@ -34546,6 +36001,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">утор</l>
@@ -34617,6 +36073,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">уцезста</l>
@@ -34640,6 +36097,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">уш</l>
@@ -34663,6 +36121,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ушева</l>
@@ -34686,6 +36145,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ушоса</l>
@@ -34709,6 +36169,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ушу</l>
@@ -34732,6 +36193,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фактически</l>
@@ -34755,6 +36217,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">факультативна</l>
@@ -34778,6 +36241,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фалу</l>
@@ -34801,6 +36265,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фальбой</l>
@@ -34824,6 +36289,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фальшивайста</l>
@@ -34847,6 +36313,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фаста</l>
@@ -34870,6 +36337,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фастонь</l>
@@ -34893,6 +36361,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фастса</l>
@@ -34916,6 +36385,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фатнезь-кунтсезь</l>
@@ -34939,6 +36409,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фатнезь-сявондезь</l>
@@ -34962,6 +36433,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фатнезь-цопиезь</l>
@@ -34985,6 +36457,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фкава</l>
@@ -35008,6 +36481,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фкакс</l>
@@ -35047,6 +36521,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фкя-фкяньпес</l>
@@ -35070,6 +36545,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фкяняньпес</l>
@@ -35093,6 +36569,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фланкс</l>
@@ -35116,6 +36593,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">флаца</l>
@@ -35139,6 +36617,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">формальна</l>
@@ -35162,6 +36641,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">форсиндазь</l>
@@ -35185,6 +36665,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фпень</l>
@@ -35208,6 +36689,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фронтальна</l>
@@ -35231,6 +36713,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фтала</l>
@@ -35254,6 +36737,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фтингорда</l>
@@ -35277,6 +36761,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фтунь</l>
@@ -35300,6 +36785,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фчёк</l>
@@ -35331,6 +36817,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">фьють</l>
@@ -35354,6 +36841,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">хикстазь</l>
@@ -35377,6 +36865,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">хитрайста</l>
@@ -35400,6 +36889,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">хольняста</l>
@@ -35423,6 +36913,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">храбрайста</l>
@@ -35446,6 +36937,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цебярняста</l>
@@ -35469,6 +36961,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цебярняста-пароняста</l>
@@ -35492,6 +36985,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цебярьста</l>
@@ -35515,6 +37009,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цебярьста-парста</l>
@@ -35538,6 +37033,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">целайнек</l>
@@ -35561,6 +37057,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">целайста</l>
@@ -35584,6 +37081,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цикордозь</l>
@@ -35607,6 +37105,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цингордозь-канзердозь</l>
@@ -35630,6 +37129,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цитор</l>
@@ -35653,6 +37153,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цицелем-мецелем</l>
@@ -35676,6 +37177,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цювназь-цявназь</l>
@@ -35699,6 +37201,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цють</l>
@@ -35742,10 +37245,12 @@
 
         <phonet>ćuťkäńada tustəńä</phonet>
 
-        <xt xml:lang="fin">sakeahko, paksuhko; tiheänlainen, taaja, sankka.</xt>
+        <xt xml:lang="fin">sakeahko, paksuhko; tiheänlainen, taaja,
+        sankka.</xt>
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цюцелим</l>
@@ -35769,6 +37274,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цюцелондазь</l>
@@ -35792,6 +37298,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цятордозь</l>
@@ -35815,6 +37322,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цяторфса</l>
@@ -35838,6 +37346,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цёк</l>
@@ -35869,6 +37378,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цёт</l>
@@ -35892,6 +37402,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">цёфксокс</l>
@@ -35915,6 +37426,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чакордозь</l>
@@ -35938,6 +37450,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чакшт-покшт</l>
@@ -35961,6 +37474,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">частонь-част</l>
@@ -35984,6 +37498,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чванливайста</l>
@@ -36007,6 +37522,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чваньста</l>
@@ -36030,6 +37546,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">честна</l>
@@ -36053,6 +37570,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чикшт-пакшт</l>
@@ -36076,6 +37594,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чиста</l>
@@ -36099,6 +37618,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чистайста</l>
@@ -36122,6 +37642,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чохом</l>
@@ -36145,6 +37666,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чуванцта</l>
@@ -36168,6 +37690,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чуднойста</l>
@@ -36191,6 +37714,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чётка</l>
@@ -36214,6 +37738,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чёткайста</l>
@@ -36237,6 +37762,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">чёшазь</l>
@@ -36260,6 +37786,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шаба_пряса</l>
@@ -36283,6 +37810,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шабракс</l>
@@ -36306,6 +37834,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шавоста</l>
@@ -36329,6 +37858,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шала-вала</l>
@@ -36352,6 +37882,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шалакодозь</l>
@@ -36375,6 +37906,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шалтай-болтай</l>
@@ -36398,6 +37930,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шаманек-пиленек</l>
@@ -36421,6 +37954,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шанчк</l>
@@ -36452,6 +37986,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шапамнек-ламбамнек</l>
@@ -36475,6 +38010,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шапамняста</l>
@@ -36498,6 +38034,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шапамста</l>
@@ -36521,6 +38058,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шарьхкодевиста</l>
@@ -36544,6 +38082,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шемотом</l>
@@ -36567,6 +38106,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шечк</l>
@@ -36590,6 +38130,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ши-кафта</l>
@@ -36613,6 +38154,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ши-шишка</l>
@@ -36636,6 +38178,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шинек-венек</l>
@@ -36659,6 +38202,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шинь-ши</l>
@@ -36682,6 +38226,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шинь-шинь</l>
@@ -36705,6 +38250,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шинькучкада</l>
@@ -36728,6 +38274,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шинькучкать</l>
@@ -36751,6 +38298,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширем_сельмот</l>
@@ -36774,6 +38322,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширемняста</l>
@@ -36797,6 +38346,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширемста</l>
@@ -36820,6 +38370,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширеса</l>
@@ -36843,6 +38394,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширеста</l>
@@ -36866,6 +38418,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шири</l>
@@ -36889,6 +38442,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ширьге</l>
@@ -36912,6 +38466,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шиса-пароса</l>
@@ -36935,6 +38490,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шиста</l>
@@ -36958,6 +38514,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шистонь-ши</l>
@@ -36981,6 +38538,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шить</l>
@@ -37004,6 +38562,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шить-веть</l>
@@ -37027,6 +38586,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шобдава</l>
@@ -37074,6 +38634,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шобданяста</l>
@@ -37097,6 +38658,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шобдаста</l>
@@ -37120,6 +38682,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шовор</l>
@@ -37159,6 +38722,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шонгарста</l>
@@ -37182,6 +38746,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шоподема_ёткть</l>
@@ -37205,6 +38770,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шочконь-шочка</l>
@@ -37228,6 +38794,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шразласта</l>
@@ -37251,6 +38818,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">штадоньпрят</l>
@@ -37274,6 +38842,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">штадоня</l>
@@ -37297,6 +38866,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шуваняста</l>
@@ -37320,6 +38890,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шульхть-шяльхть</l>
@@ -37343,6 +38914,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шумбраняста</l>
@@ -37366,6 +38938,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шумбраняста-парняста</l>
@@ -37389,6 +38962,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шумбраста</l>
@@ -37412,6 +38986,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шуроняста</l>
@@ -37435,6 +39010,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шуроста</l>
@@ -37458,6 +39034,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шурьксть</l>
@@ -37481,6 +39058,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шутендазь</l>
@@ -37504,6 +39082,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шутендазь-пеедезь</l>
@@ -37527,6 +39106,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шутканди</l>
@@ -37550,6 +39130,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">шутя</l>
@@ -37573,6 +39154,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">щамнек-мезнек</l>
@@ -37596,6 +39178,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ърдазса-кяшеса</l>
@@ -37619,6 +39202,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ърьвянек-иднек</l>
@@ -37642,6 +39226,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эвотьфста</l>
@@ -37665,6 +39250,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эдок</l>
@@ -37688,6 +39274,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эза</l>
@@ -37711,6 +39298,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзгок</l>
@@ -37734,6 +39322,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзк</l>
@@ -37757,6 +39346,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзняньпес</l>
@@ -37780,6 +39370,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзьке</l>
@@ -37803,6 +39394,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзькиге</l>
@@ -37826,6 +39418,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзькомба</l>
@@ -37849,6 +39442,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эзярь-безярь</l>
@@ -37896,6 +39490,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">экономна</l>
@@ -37919,6 +39514,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эльцек</l>
@@ -37942,6 +39538,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">элякодозь</l>
@@ -37965,6 +39562,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эмботь</l>
@@ -37988,6 +39586,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эмяк</l>
@@ -38011,6 +39610,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эреклафста</l>
@@ -38034,6 +39634,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрекста</l>
@@ -38057,6 +39658,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрзякс</l>
@@ -38080,6 +39682,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрь-мезня</l>
@@ -38103,6 +39706,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрьвазакс</l>
@@ -38126,6 +39730,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрязда</l>
@@ -38149,6 +39754,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эряздоне</l>
@@ -38172,6 +39778,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрязста</l>
@@ -38195,6 +39802,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эрязста-эрязста</l>
@@ -38218,6 +39826,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эряскодозь</l>
@@ -38241,6 +39850,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эряскодомпяльхть</l>
@@ -38264,6 +39874,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эса</l>
@@ -38311,6 +39922,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсезонза</l>
@@ -38334,6 +39946,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эслек</l>
@@ -38357,6 +39970,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эста</l>
@@ -38380,6 +39994,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсток</l>
@@ -38403,6 +40018,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эстокиге</l>
@@ -38426,6 +40042,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эстоньбере</l>
@@ -38449,6 +40066,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсь_воля</l>
@@ -38472,6 +40090,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсьвидева</l>
@@ -38495,6 +40114,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эське</l>
@@ -38518,6 +40138,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсьотям</l>
@@ -38541,6 +40162,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эсьёткова</l>
@@ -38564,6 +40186,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эфтерь</l>
@@ -38587,6 +40210,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эфтяз</l>
@@ -38610,6 +40234,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">эхярь</l>
@@ -38642,6 +40267,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">юрнек</l>
@@ -38673,6 +40299,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">юронь-юр</l>
@@ -38696,6 +40323,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">яжняста</l>
@@ -38719,6 +40347,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">яла</l>
@@ -38728,7 +40357,9 @@
       </stg>
     </lg>
 
-    <pos>TEMP</pos>
+    <pos>Adv</pos>
+
+    <posDescr>TEMP</posDescr>
 
     <phonet>jala, jalan, jalań</phonet>
 
@@ -38758,6 +40389,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ялга</l>
@@ -38781,6 +40413,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ялгакс</l>
@@ -38804,6 +40437,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ярхцампингста</l>
@@ -38827,6 +40461,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">яса</l>
@@ -38850,6 +40485,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёжуста</l>
@@ -38873,6 +40509,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёколдозь</l>
@@ -38896,6 +40533,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёлманяста</l>
@@ -38919,6 +40557,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёлошкаста</l>
@@ -38942,6 +40581,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёмланек-мезнек</l>
@@ -38965,6 +40605,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёмланек-оцюнек</l>
@@ -38988,6 +40629,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёмластокиге</l>
@@ -39011,6 +40653,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёнцта</l>
@@ -39034,6 +40677,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёньфтома</l>
@@ -39057,6 +40701,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёньца-мяльса</l>
@@ -39080,6 +40725,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёньца-пряса</l>
@@ -39103,6 +40749,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёнюста</l>
@@ -39126,6 +40773,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёркаста</l>
@@ -39149,6 +40797,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёрокста</l>
@@ -39172,6 +40821,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёру</l>
@@ -39211,6 +40861,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёсопом</l>
@@ -39234,6 +40885,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёсопс</l>
@@ -39257,6 +40909,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ётконь_путозь</l>
@@ -39280,6 +40933,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёткса-шиса</l>
@@ -39303,6 +40957,7 @@
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёфси</l>
@@ -39342,6 +40997,7 @@
       </xg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Adv">ёфтардозня</l>
