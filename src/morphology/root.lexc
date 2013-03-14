@@ -378,6 +378,9 @@ LEXICON Ad-ATag !
 +AdA: # ;
 
 LEXICON AdvTag ! 
+	ADV_ ;
+
+LEXICON ADV_ ! 
 +Adv: K ;
 
 
