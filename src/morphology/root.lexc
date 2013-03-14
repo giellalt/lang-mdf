@@ -353,7 +353,7 @@ LEXICON R
 ! Interj lexica !
 ! ============ !
 
-LEXICON InterjTag
+LEXICON INTERJ_
 +Interj: K ;
 
 
@@ -400,13 +400,13 @@ LEXICON TempTag
 +Adv+Temp: K ;
 
 
-LEXICON ConjTag
+LEXICON CONJ_
 +Conj+TYÄ: #;
 
-LEXICON CcTag
+LEXICON CC_
 +CC: # ;
 
-LEXICON CsTag
+LEXICON CS_
 +CS: # ;
 
 
