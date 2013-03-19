@@ -17,12 +17,12 @@ LEXICON Gen_Adj
 
 LEXICON Adj-ava
 +A: K ;
-+A+Der/MWN: N-ava ;
++A+Der/MWN: N_АВА ;
 
 LEXICON Adj-ofta
 !офта:офт
 +A:%>О2 K ;
-+A+Der/MWN:%>О2 N-ofta ;
++A+Der/MWN:%>О2 N_ОФТА ;
 
 LEXICON Adj-pinge
 !пинге:пинг
@@ -37,12 +37,12 @@ LEXICON Adj-pula
 LEXICON Adj-osh
 !ош:ош
 +A: K ;
-+A+Der/MWN: N-osh ;
++A+Der/MWN: N_ОШ ;
 
 LEXICON Adj-kal
 !кал:кал
 +A: K ;
-+A+Der/MWN: N-kal ;
++A+Der/MWN: N_КАЛ ;
 
 LEXICON Adj-kelu
 !келу:келу
