@@ -10,12 +10,42 @@
 LEXICON NTag
 +N+Sg+Nom+Indef+TYÄ: #;
 
-LEXICON N-ava
+LEXICON N_АВА
 ! ава:ава
-+N: N-ava_01 ;
++N: NMN_АВА ;
 
-LEXICON N-ava_01
+LEXICON N_АВА-SG
+! ава:ава
++N: NMN_АВА-SG ;
+
+LEXICON N_АВА-PL
+! ава:ава
++N: NMN_АВА-PL ;
+
+LEXICON N_АВА-SG/PL
+! ава:ава
++N: NMN_АВА-SG/PL ;
+
+LEXICON NMN_АВА
+	NMN_АВА-SG	;
+	NMN_АВА-PL	;
+	NMN_АВА-SG/PL	;
+
+LEXICON NMN_АВА-SG
  SG-NOM ;
+!! Definite Sg
+ SGDEFCX ;
+!! Possessor Indices
+:%> PXSG1-Sg ;
+
+LEXICON NMN_АВА-PL
+:%> PL-NOM ;
+!! Definite Pl
+ PLDEFCX ;
+!! Possessor Indices
+:%> PXSG1-Pl ;
+
+LEXICON NMN_АВА-SG/PL
 :%> NOTDEF-GEN ;
 :%> NOTDEF-DAT ;
 :%> NOTDEF-ABL ;
@@ -27,14 +57,6 @@ LEXICON N-ava_01
 :%> NOTDEF-CMP ;
 :%> NOTDEF-PRL ;
 
-:%> PL-NOM ;
-!! Definite Sg
- SGDEFCX ;
-!! Definite Pl
- PLDEFCX ;
-!! Possessor Indices
-:%> PXSG1-Sg ;
-:%> PXSG1-Pl ;
 :%> PXSG2 ;
 :%> PXSG3 ;
 :%> PXPL1 ;
@@ -42,37 +64,58 @@ LEXICON N-ava_01
 :%> PXPL3 ;
 
 
-LEXICON N-ofta
+LEXICON N_ОФТА
 !офта:офт
-:%>О2 N-ava ;
- N-kal ;
+:%>О2 N_АВА ;
+ N_КАЛ ;
 
 LEXICON N-pinge
 !пинге:пинг
-:%>О2 N-ava ;
- N-kal ;
+:%>О2 N_АВА ;
+ N_КАЛ ;
 
 LEXICON N-pula
 !пула:пул
-:%>О2 N-ava ;
+:%>О2 N_АВА ;
 
-LEXICON N-osh
+LEXICON N_ОШ
 !ош:ош
-+N: N-osh_01 ;
++N: NMN_ОШ ;
 
-LEXICON N-osh_01
-!кал:кал
- N-kal_01 ;
+LEXICON N_ОШ-PL
+!ош:ош
++N: NMN_ОШ-PL ;
++N: NMN_ОШ-SG/PL ;
 
-LEXICON N-kal
-+N: N-kal_01 ;
+LEXICON N_КАЛ
++N: NMN_КАЛ ;
+
+LEXICON N_КАЛ-PL
++N: NMN_КАЛ-PL ;
++N: NMN_КАЛ-SG/PL ;
 
 LEXICON N-kelu
-+N: N-kal_01 ;
++N: NMN_КАЛ ;
 
-LEXICON N-kal_01
+LEXICON NMN_КАЛ
+	NMN_КАЛ-SG	;
+	NMN_КАЛ-PL	;
+	NMN_КАЛ-SG/PL	;
+
+LEXICON NMN_КАЛ-SG
 !! Indefinite
  SG-NOM ;
+!! Definite Sg
+ SGDEFCX ;
+:%>О1 PXSG1-Sg ;
+
+LEXICON NMN_КАЛ-PL
+!! Indefinite
+:%> PL-NOM ;
+!! Definite Pl
+ PLDEFCX ;
+
+LEXICON NMN_КАЛ-SG/PL
 :%>О1 NOTDEF-GEN ;
 :%>О1 NOTDEF-DAT ;
 :%> NOTDEF-ABL ;
@@ -84,22 +127,28 @@ LEXICON N-kal_01
 :%> NOTDEF-CMP ;
 :%> NOTDEF-PRL ;
 
-:%> PL-NOM ;
-
-!! Definite Sg
- SGDEFCX ;
-
-!! Definite Pl
- PLDEFCX ;
-
 !! Possessor Indices
-:%>О1 PXSG1-Sg ;
 :%> PXSG1-Pl ;
 :%> PXSG2 ;
 :%>О1 PXSG3 ;
 :%>О1 PXPL1 ;
 :%>О1 PXPL2 ;
 :%> PXPL3 ;
+
+LEXICON NMN_ОШ
+ 	NMN_КАЛ		;
+
+LEXICON NMN_ОШ-SG
+ 	NMN_КАЛ-SG	;
+
+LEXICON NMN_ОШ-PL
+ 	NMN_КАЛ-PL	;
+
+LEXICON NMN_ОШ-SG/PL
+ 	NMN_КАЛ-SG/PL	;
+
+
+
 
 LEXICON SGDEFCX
 +Sg+Nom+Def:%>сь K ;
