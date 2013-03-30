@@ -46,7 +46,7 @@ Alphabet
 
 ! devoicing
 Х1:х
-Х1:0
+!Х1:0
 
 ! clitic proto consonant
 Г1:г !
@@ -245,9 +245,11 @@ Rules
 
 !!! Consonant changes
 "Х1:0 after vowel"
-Х1:0 <=> Vows %>: _ ;
-!%> Х1:х т ;
-!
+Х1:0 <=> [ Vows | н: | д: ] %>: _ ;
+
+"н:т окун"
+н:т <=> _ %>: Х1: т н е ;
+
 
 !Changes in suffix consonants
 "v:0"
@@ -313,9 +315,9 @@ Rules
 Ь2:ь <=>  [[[ LFCS | :FTV | ь: ] %>: | О1:е | О1:э ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
 
 
-!!TLoss sloppy
+!! Plural before definite plural following a consonant
 "t:0"
-т:0 <=> [ [ т | К1:т ] ( Ь2: ) %>: TLoss:0 | т У2:0 %>: VLoss:0 TLoss:0 ] ( %>: ) _ ;
+т:0 <=> [ й | л ( ь: ) | р ( ь: ) ] %> Х1: _ н е ;
 
 !!SLoss s s > s = s 0 0 s
 "s:0"
@@ -330,6 +332,11 @@ Rules
 "d:t"
 д:т  <=> [ CnsVoiceless | д | г] (ь:0)  %>: _ [О1:е|О1:э|О1:о] ;
          т [ У2:0 | И2:0 ] %>: VLoss:0 _ [О1:е|О1:э|О1:о] ;
+!"д:т од:оттне definite plural"
+          _ %>: Х1: т н е ;
+
+
+
 !Word final Vowels
 
 
