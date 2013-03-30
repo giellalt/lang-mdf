@@ -8,6 +8,8 @@
 !!!!!!!!!
 
 LEXICON NTag
+ N_ ;
+LEXICON N_
 +N+Sg+Nom+Indef+TYÄ: #;
 
 LEXICON N_АВА
@@ -65,16 +67,20 @@ LEXICON NMN_АВА-SG/PL
 
 
 LEXICON N_ОФТА
-!офта:офт
+!!офта:офт
 :%>О2 N_АВА ;
  N_КАЛ ;
+
+LEXICON N_ПАНГА
+!!панга:панг
+ N_ОФТА ;
 
 LEXICON N-pinge
 !пинге:пинг
 :%>О2 N_АВА ;
  N_КАЛ ;
 
-LEXICON N-pula
+LEXICON N_ПУЛА
 !пула:пул
 :%>О2 N_АВА ;
 
