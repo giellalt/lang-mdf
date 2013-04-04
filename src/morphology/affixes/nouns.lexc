@@ -75,7 +75,7 @@ LEXICON N_ПАНГА
 !!панга:панг
  N_ОФТА ;
 
-LEXICON N-pinge
+LEXICON N_ПИНГЕ
 !пинге:пинг
 :%>О2 N_АВА ;
  N_КАЛ ;
@@ -198,11 +198,11 @@ LEXICON PXSG3
 
 LEXICON PXPL1
 +Sg+Nom+PxPl1:ньке K ;
-+Sg+Gen+PxPl1:ньке%>О1нь K ;
-+Sg+Dat+PxPl1:ньке%>О1нди K ;
++Sg+Gen+PxPl1:ньк%>О1нь K ;
++Sg+Dat+PxPl1:ньк%>О1нди K ;
 +Pl+Nom+PxPl1:ньке K ;
-+Pl+Gen+PxPl1:ньке%>О1нь K ;
-+Pl+Dat+PxPl1:ньке%>О1нди K ;
++Pl+Gen+PxPl1:ньк%>О1нь K ;
++Pl+Dat+PxPl1:ньк%>О1нди K ;
 
 LEXICON PXPL2
 +Sg+Nom+PxPl2:нте K ;
@@ -257,7 +257,7 @@ LEXICON NOTDEF-PRL
 
 !
 LEXICON PL-NOM
-+Pl+Nom+Indef:Х1т K ;
++Pl+Nom+Indef:Х1тЬ2 K ;
 
 
 
