@@ -15,7 +15,7 @@ LEXICON GenTag
 LEXICON Gen_Adj
 +Gen+Attr: K ;
 
-LEXICON Adj-ava
+LEXICON A_АВА
 +A: K ;
 +A+Der/MWN: N_АВА ;
 
@@ -24,10 +24,10 @@ LEXICON Adj-ofta
 +A:%>О2 K ;
 +A+Der/MWN:%>О2 N_ОФТА ;
 
-LEXICON Adj-pinge
+LEXICON A_ПИНГЕ
 !пинге:пинг
 +A:%>О2 K ;
-+A+Der/MWN:%>О2 N-pinge ;
++A+Der/MWN:%>О2 N_ПИНГЕ ;
 
 LEXICON Adj-pula
 !пула:пул
@@ -39,7 +39,7 @@ LEXICON Adj-osh
 +A: K ;
 +A+Der/MWN: N_ОШ ;
 
-LEXICON Adj-kal
+LEXICON A_КАЛ
 !кал:кал
 +A: K ;
 +A+Der/MWN: N_КАЛ ;

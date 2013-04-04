@@ -225,7 +225,9 @@ Multichar_Symbols
  Г2 ! Г2:г Г2:в Г2:к
  К1 ! К1:к К1:т
  О1 ! О1:о О1:а О1:0
+ О2 !! О1:о О1:а О1:е
  Х1 ! Х1:х Х1:0
+ Ь2 ! Ь2:ь Ь2:0
 
 !! And following triggers to control variation
  {front} {back}
