@@ -19,7 +19,7 @@ Alphabet
 
 
 !Suffix final variant vowel for hard vs soft
-Ь2:ь !
+!Ь2:ь !
 Ь2:0 !
 
 ! verbal stem consonant that appear in PretI 3sg
@@ -43,6 +43,11 @@ Alphabet
 ! Check these
 О1:е !
 О1:э !
+
+! пула, офта, пинге
+!О2:а
+О2:о
+!О2:е
 
 ! devoicing
 Х1:х
@@ -193,7 +198,7 @@ Rules
 Ы2:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %>: _ ;
 
 "O1:a"
- О1:а <=> _ [ #: | %> в о к ] ;
+ О1:а <=> _ [ #: ] ;
 
 
  "O1:o"
@@ -205,6 +210,14 @@ Rules
 "O1:0"
 О1:0 <=>  _  %>: [ А2:а | А2:я ] ; 
        :Vows %>: _ Cns: ;
+
+
+"O2:a"
+ О2:а <=> LBC _ [ #: ] ;
+
+"O2:е"
+ О2:е <=> LFC _ [ #: ] ;
+          [ ш | ч | ж ] _ %> ;
 
 
 !!Changes in the suffix vowels
@@ -245,11 +258,13 @@ Rules
 
 !!! Consonant changes
 "Х1:0 after vowel"
-Х1:0 <=> [ Vows | н: | д: ] %>: _ ;
+Х1:0 <=> [ Vows | н: ( ь: ) | д: ( ь: ) ] %>: _ ;
 
 "н:т окун"
-н:т <=> _ %>: Х1: т н е ;
+н:т <=> _  ( ь: ) %>: Х1: т  ;
 
+"с:ц ломань:ломанць"
+с:ц <=> н ( ь: ) %> _ [ ь | ( т ) О1: | н | %> | # ] ;
 
 !Changes in suffix consonants
 "v:0"
@@ -312,7 +327,8 @@ Rules
 ! Suffix final hard vs soft
 !Adding "И2:0" 18.04.2007
 "U4:y"
-Ь2:ь <=>  [[[ LFCS | :FTV | ь: ] %>: | О1:е | О1:э ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
+Ь2:ь <=>  ь: %> Х1: т _ ;
+[[[ LFCS | :FTV | ь: ] %>: | О1:е | О1:э ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
 
 
 !! Plural before definite plural following a consonant
@@ -341,8 +357,9 @@ Rules
 
 
 "y:0"
-ь:0 <=>        CnsDent  _  %>: [ А2:я | Ы2:и | О1:е [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
-              CnsDentNoL _ %>: [в:0 т О1:е м [О1:е|О1:0] | К1: | н | д: | т | с (т) [ ь: | е: ]] ;
+ь:0 <=>   [ н: | д: | т ] _ %> Х1: т ; !! plural
+        CnsDent  _  %>: [ А2:я | Ы2:и | О1:е [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
+              CnsDentNoL _ %>: [в:0 т О1:е м [О1:е|О1:0] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
 
 
 
