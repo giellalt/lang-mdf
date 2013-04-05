@@ -197,28 +197,19 @@ LEXICON PXSG3
 
 
 LEXICON PXPL1
-+Sg+Nom+PxPl1:ньке K ;
-+Sg+Gen+PxPl1:ньк%>О1нь K ;
-+Sg+Dat+PxPl1:ньк%>О1нди K ;
-+Pl+Nom+PxPl1:ньке K ;
-+Pl+Gen+PxPl1:ньк%>О1нь K ;
-+Pl+Dat+PxPl1:ньк%>О1нди K ;
++Nom+PxPl1:ньке K ;
++Gen+PxPl1:ньке%>О1нь K ;
++Dat+PxPl1:ньке%>О1нди K ;
 
 LEXICON PXPL2
-+Sg+Nom+PxPl2:нте K ;
-+Sg+Gen+PxPl2:нте%>О1нь K ;
-+Sg+Dat+PxPl2:нте%>О1нди K ;
-+Pl+Nom+PxPl2:нте K ;
-+Pl+Gen+PxPl2:нте%>О1нь K ;
-+Pl+Dat+PxPl2:нте%>О1нди K ;
++Nom+PxPl2:нте K ;
++Gen+PxPl2:нте%>О1нь K ;
++Dat+PxPl2:нте%>О1нди K ;
 
 LEXICON PXPL3
-+Sg+Nom+PxPl3:снО1 K ;
-+Sg+Gen+PxPl3:снО1%>О1н K ;
-+Sg+Dat+PxPl3:снО1%>О1нды K ;
-+Pl+Nom+PxPl3:снО1 K ;
-+Pl+Gen+PxPl3:снО1%>О1н K ;
-+Pl+Dat+PxPl3:снО1%>О1нды K ;
++Nom+PxPl3:снО1 K ;
++Gen+PxPl3:снО1%>О1н K ;
++Dat+PxPl3:снО1%>О1нды K ;
 
 
 LEXICON SG-NOM
