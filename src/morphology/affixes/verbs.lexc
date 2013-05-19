@@ -12,17 +12,17 @@ LEXICON VerbTag
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! OBJECT and SUBJECT VERBS 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON V-avoldams_ObjAll
-@P.CONJ.ObjAll@  V-avoldams ;
+LEXICON TV_АВОЛДАМС-ObjAll
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@  V0_АВОЛДАМС ;
 
-LEXICON V-andoms_ObjAll
-@P.CONJ.ObjAll@ V-andoms ;
+LEXICON TV_АНДОМС-ObjAll
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АНДОМС ;
 
-LEXICON V-njaftems_ObjAll
-@P.CONJ.ObjAll@ V-njaftems ;
+LEXICON TV_НЯФТЕМС-ObjAll
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_НЯФТЕМС ;
 
-LEXICON V-alyjaftoms_ObjAll
-@P.CONJ.ObjAll@ V-alyjaftoms ;
+LEXICON TV_АЛЫЯФТОМС-ObjAll
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АЛЫЯФТОМС ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!
@@ -30,49 +30,64 @@ LEXICON V-alyjaftoms_ObjAll
 !!!!!!!!!!!!!!!!!!!!!!
 
 
-LEXICON V-avoldams
+LEXICON IV_АВОЛДАМС
 ! аволдамс:аволда
-+V+Ind:%> PRS-SC ;
-+V+Ind+Prt1:%> INDPRT1-SC ;
-+V+Ind+Prt2:%> INDPRT2-SC ;
-+V+Imprt:%> IMP-SC ;
-+V+Opt:%> OPT-SC ;
++V+IV: V0_АВОЛДАМС ;
 
-+V:%> Non-Finite-Vws ;
-+V: Non-Finite-Cns ;
+LEXICON IV_АНДОМС
+!! андомс:анд
++V+IV: V0_АНДОМС ;
 
-LEXICON V-andoms
-+V+Ind:%> PRS-SC ;
-+V+Ind+Cond:ндярь%> PRS-SC ;
-+V+Ind+Prt1:%> INDPRT1-SC ;
-+V+Ind+Cond+Prt1:ндярь%> INDPRT1-SC ;
-+V+Imprt:%> IMP-SC ;
-+V+Opt:%> OPT-SC ;
-+V+Ind+Prt2:%> INDPRT2-SC ;
-+V+Conj:%> INDPRT2-SC ;
-+V+Cond-Conj:ндяря%> INDPRT2-SC ;
-+V+Des:лекс%> INDPRT2-SC ;
-+V: # ;
-+V:%>О1 Non-Finite-Vws ;
-+V: Non-Finite-Cns ;
+LEXICON IV_НЯФТЕМС
++V+IV: V0_НЯФТЕМС ;
 
-LEXICON V-njaftems
-+V+Ind:%> PRS-SC ;
-+V: # ;
-+V:%>О1 Non-Finite-Vws ;
-+V:%> Non-Finite-Cns ;
+LEXICON IV_АЛЫЯФТОМС
++V+IV: V0_АЛЫЯФТОМС ;
 
-LEXICON V-alyjaftoms
-+V+Ind:%> PRS-SC ;
-+V: # ;
-+V:%>О1 Non-Finite-Vws ;
-+V:%> Non-Finite-Cns ;
+LEXICON IV_АНДОВОМС
++V+IV: V0_АНДОВОМС ;
 
-LEXICON V-andovoms
-+V+Ind:%> PRS-SC ;
-+V: # ;
-+V:%>О1 Non-Finite-Vws ;
-+V:%> Non-Finite-Cns ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! VERBS MUTUAL FOR TV and IV !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON V0_АВОЛДАМС
++Ind:%> PRS-SC ;
++Ind+Prt1:%> INDPRT1-SC ;
++Ind+Prt2:%> INDPRT2-SC ;
++Imprt:%> IMP-SC ;
++Opt:%> OPT-SC ;
+:%> Non-Finite-Vws ;
+ Non-Finite-Cns ;
+
+LEXICON V0_АНДОМС
++Ind:%> PRS-SC ;
++Ind+Cond:ндярь%> PRS-SC ;
++Ind+Prt1:%> INDPRT1-SC ;
++Ind+Cond+Prt1:ндярь%> INDPRT1-SC ;
++Imprt:%> IMP-SC ;
++Opt:%> OPT-SC ;
++Ind+Prt2:%> INDPRT2-SC ;
++Conj:%> INDPRT2-SC ;
++Cond-Conj:ндяря%> INDPRT2-SC ;
++Des:лекс%> INDPRT2-SC ;
+:%>О1 Non-Finite-Vws ;
+ Non-Finite-Cns ;
+
+LEXICON V0_НЯФТЕМС
++Ind:%> PRS-SC ;
+:%>О1 Non-Finite-Vws ;
+:%> Non-Finite-Cns ;
+
+LEXICON V0_АЛЫЯФТОМС
++Ind:%> PRS-SC ;
+:%>О1 Non-Finite-Vws ;
+:%> Non-Finite-Cns ;
+
+LEXICON V0_АНДОВОМС
++Ind:%> PRS-SC ;
+:%>О1 Non-Finite-Vws ;
+:%> Non-Finite-Cns ;
 
 LEXICON Non-Finite-Vws
 +Inf:О1мс K ;
