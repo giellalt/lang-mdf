@@ -1,6 +1,6 @@
-!! ============================================== !
-!! The Moksha morphophonological/twolc rules file !
-!! ============================================== !
+
+!! The Moksha morphophonological/twolc rules file 
+
 
 
 Alphabet
@@ -172,6 +172,7 @@ Rules
 
 !Changes in the stem vowels before "10", "20", "30" and "60"
 "verbStemVowStrong:0"
+!! __@RULENAME@__  
  X:Y <=> [ Cns | Vows ] _  %>: [А2:я|А2:а [ н | т ]| Ы2:] ;
 !                   Cns  _ К4:0 %>:  Ы2: ;
           where X in (а о э ы у я ё е и ю)
@@ -192,12 +193,15 @@ Rules
 
 ! Deverbal noun in ОмА
 "A1:o"
+!! __@RULENAME@__  
 А1:о <=>  [ а |я ] %>:  м  _ ;
 
 "Y2:yi"
+!! __@RULENAME@__  
 Ы2:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %>: _ ;
 
 "O1:a"
+!! __@RULENAME@__  
  О1:а <=> _ [ #: ] ;
 
 
@@ -208,14 +212,17 @@ Rules
 
 
 "O1:0"
+!! __@RULENAME@__  
 О1:0 <=>  _  %>: [ А2:а | А2:я ] ; 
        :Vows %>: _ Cns: ;
 
 
 "O2:a"
+!! __@RULENAME@__  
  О2:а <=> LBC _ [ #: ] ;
 
 "O2:е"
+!! __@RULENAME@__  
  О2:е <=> LFC _ [ #: ] ;
           [ ш | ч | ж ] _ %> ;
 
@@ -228,12 +235,14 @@ Rules
 
 !HERE
 "A2:a"
+!! __@RULENAME@__  
 А2:а <=> [ :BTV | LBC ] %>:  т  _  [ д | н | м ] ;
          [CnsDent ( э:0 | ы:0 | О1:0 | а:0 | о:0 | у:0 )|  в: т О1: м  О1:0 | CnsNonDent ( Vows:0 | И2:0 ) | У2:0 | [ LBC ( :BTV ) %>:  |  О1:о ]  ((н) т Ь2:0 | н Ь2: )  ] %>:  _  [ т | н | м ] ;
 
 
 
 "j:0"
+!! __@RULENAME@__  
 й:0 <=> Vows _ [И2:е  | %>: Ы2:и| (И2:0)  %>: [А2:я | О1: [ :Cns | К3:0 ]] ] ;
 
 
@@ -241,33 +250,40 @@ Rules
 !18.04.2007 Adding "U2:" and contemplating environment "%>: т н _"
 !
 "ye:e always"
+!! __@RULENAME@__  
 е:э <=
           CnsDent (О1:0) %>:  н _ [[ #: | %-|%>: Г1:0 а:я]| н ь: | к] ;
           [[[Back - [:* Vows]] %>:| CnsDent]  %>:| У2:0 %>: VLoss:0 ( TLoss:0 ) ] т: н _ [ #: | %- |%>: [Г1:0 а:я |т| л|Г2:в а | в | д | к | н | с | ш ]];
 
 
 "ye:e sometimes"
+!! __@RULENAME@__  
 е:э =>
           [CnsDent|CnsNonDent] ( О1:0 ) %>:  н _ [[ #: | %-|%>: Г1:0 а:я]|н ь:|к ] ;
           [ CnsDent | CnsNonDent | м:0 ]  ( О1:0 | У2:0 ) %>: ( VLoss:0 ) ( TLoss:0 ) т: н _ [ #: | %- | %>: [Г1:0 а:я | т | л | Г2:в а | в | д | к | н | с | ш ]];
 
 
 "a:ya"
+!! __@RULENAME@__  
 а:я  <=> :Vows ((%>:) К3:0 )  %>: Г1:0 _  ;
 
 
 !!! Consonant changes
 "Х1:0 after vowel"
+!! __@RULENAME@__  
 Х1:0 <=> [ Vows | н: ( ь: ) | д: ( ь: ) ] %>: _ ;
 
 "н:т окун"
+!! __@RULENAME@__  
 н:т <=> _  ( ь: ) %>: Х1: т  ;
 
 "с:ц ломань:ломанць"
+!! __@RULENAME@__  
 с:ц <=> н ( ь: ) %> _ [ ь | ( т ) О1: | н | %> | # ] ;
 
 !Changes in suffix consonants
 "v:0"
+!! __@RULENAME@__  
 в:0 <=> [ :Cns  ( ь: ) ] %>: _ т [ О1: ] м [ О1: ] ;
         :Vows _ %>: WLoss:0 [ в О1: л | в л ] ;
 
@@ -276,17 +292,21 @@ Rules
 !!Solved in several contexts by declaring both lexical
 !!and surface forms in the alphabet.
 "G1:0"
+!! __@RULENAME@__  
 Г1:0 <=> [ :Vows ((%>:) К3:0 )  %>: | К1: Ь2:0 %>: KLoss:0 | :к %>: KLoss:0 ] _ а: ;
 
 "G1:g"
+!! __@RULENAME@__  
 Г1:г <=> [CnsVoicedDent (:ь|Ь2:0)| й | [ CnsVoicedNonDent - г ] ( :ь )] %>: _ а ;
 
 "G1:k"
+!! __@RULENAME@__  
 Г1:к <=>  [ CnsVoicelessDent ( :ь | Ь2:0 | Ь2:ь ) | CnsVoicelessNonDent | г | К1: Ь2: | К4:0 ] :0* %>: _ а  ;
           
 
 !Prolative
 "G2:g"
+!! __@RULENAME@__  
 Г2:г <=> [ CnsVoicedDent ( :ь )| [ CnsVoicedNonDent - г ] ( :ь ) ] %>: _ а ;
 
 "G2:v"! 
@@ -294,6 +314,7 @@ Rules
 
 
 "G2:k"
+!! __@RULENAME@__  
 Г2:к <=>  [ CnsVoicelessDent ( :ь )| CnsVoicelessNonDent ( :ь )| г ] %>: _ а ;
            Vows CnsVoiceless [У2:0 | И2:0 ] %>: VLoss:0 _ а ;
 
@@ -303,15 +324,18 @@ Rules
 
 
 "G4:0"
+!! __@RULENAME@__  
 Г4:0  <=>
            [ К1: Ь2: | к ] %>: _ а ;
   [О1: ] %>: _ а: ;
 
 "G4:k"
+!! __@RULENAME@__  
 Г4:к  <=>  #: [и л я|у ж о|а з ё|а д я|а й д а] %>: _ а  ;
 
 
-"m:0" 
+"m:0"
+!! __@RULENAME@__  
 м:0 <=> 
  BTV  _ У2:0  %>:  VLoss: [ т| т н е:э ] ;
         т (ь) _ [У2:|И2:]  %>:  VLoss: [с (т) О1: |с [#: | %-| %>: [Г1:0|Г1:к]]] ;
@@ -320,6 +344,7 @@ Rules
 
 !! imperative suffix
 "K1:t"
+!! __@RULENAME@__  
 К1:т <=>  [ Cns ( ь: ) ] %>: _  ;
 
 
@@ -327,16 +352,19 @@ Rules
 ! Suffix final hard vs soft
 !Adding "И2:0" 18.04.2007
 "U4:y"
+!! __@RULENAME@__  
 Ь2:ь <=>  ь: %> Х1: т _ ;
 [[[ LFCS | :FTV | ь: ] %>: | О1: ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
 
 
 !! Plural before definite plural following a consonant
 "t:0"
+!! __@RULENAME@__  
 т:0 <=> [ й | л ( ь: ) | р ( ь: ) ] %> Х1: _ н е ;
 
 !!SLoss s s > s = s 0 0 s
 "s:0"
+!! __@RULENAME@__  
 с:0 <=> с _ %>: SLoss:0 с ;
 
 !€ класс%>SLossс
@@ -346,6 +374,7 @@ Rules
 
 !Ablative d/t
 "d:t"
+!! __@RULENAME@__  
 д:т  <=> [ CnsVoiceless | д | г] (ь:0)  %>: _ [ О1: ] ;
          т [ У2:0 | И2:0 ] %>: VLoss:0 _ [ О1: ] ;
 !"д:т од:оттне definite plural"
@@ -357,6 +386,7 @@ Rules
 
 
 "y:0"
+!! __@RULENAME@__  
 ь:0 <=>   [ н: | д: | т ] _ %> Х1: т ; !! plural
         CnsDent  _  %>: [ А2:я | Ы2:и | О1: [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
               CnsDentNoL _ %>: [ф т О1: м [ О1: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
@@ -364,14 +394,17 @@ Rules
 
 
 "U2:0"
+!! __@RULENAME@__  
 У2:0 <=>  _ %>: VLoss:0 [ ( TLoss:0 ) т [ Ь2:0 | Ь2:ь | А2:а ] | ( TLoss:0 ) т: н е: |с (т) [ О1: ]| с [ %>: |  #: | %- ] ] ;
           _ %>: VLoss:0 д: [ О1: ] ;
 
 "U2:o"
+!! __@RULENAME@__  
 У2:о  <=>  _ [ %>: [ (н) т Ь2:0 | н Ь2:0 | т н е: | с ь: | с (т) О1:  | с [ %>: |  #: | %- ] | з %>: О1: | л  |  (н) з О1:  | ш к а | к с | н | в | Г2:в | д | с т [ %>: |  #: | %- ] ] | Г1:0|  #: | %-] ;
 
 
 "YI2:0 sometimes"
+!! __@RULENAME@__  
 И2:0 <=> Cns _ %>: VLoss:0 т [Ь2:0|Ь2:ь |н е: |А2:я [д|н]] ;
          CnsNonDent: _ %>: VLoss:0 [с (т) О1: | с [ %>: |  #: | %- ] ] ;
          [NPC|й:0] _ %>: [ А2:я|А2:а] ;
@@ -379,27 +412,34 @@ Rules
          Vows CnsVoiceless _ %>: (VLoss:0) Г2:к а ;
 
 "YI2:y"
+!! __@RULENAME@__  
 И2:ь  <=>  CnsDent _ %>: VLoss:0 [с (т) О1: | с [ %>: |  #: | %- ] ] ;
 
 
 "YI2:ye"
+!! __@RULENAME@__  
 И2:е  <=>   _ [ %>: [т [Ь2:0|Ь2:ь]|т н е|с ь:|с (т) О1:  |с (т) ь:| с [ %>: |  #: | %- ] | з %>: О1: | л  |  (н) з О1: | ш к а | к с | н | в | д | с т [ %>: |  #: | %- ]] |  Г1:0|  #: | %- ] ;
 
 
-!Disallow
+!! !!Disallow
 
 "Disallow TLoss after non-t"
+!! __@RULENAME@__  
 TLoss:0 /<= [[ :* Letters ] - [ :* :т ] ] %>: _ ;
 
 "Disallow KLoss after non-k"
+!! __@RULENAME@__  
 KLoss:0 /<= [[ :* Letters ] - [ :* :к ] ] %>: _ ;
 
 "Disallow SLoss after non-s"
+!! __@RULENAME@__  
 SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %>: _ ;
 
 "Disallow VLoss after non-U2I2"
+!! __@RULENAME@__  
 VLoss:0 /<= [[ :* [ Letters | А1: | А2: | Ы2: | К1: | О1: | Ь2: | Г1: | Г2: | К3:  ] ] - [ :* [ У2: | И2: ] ] ] %>: _ ;
 
 "Disallow WLoss after non-v"
+!! __@RULENAME@__  
 WLoss:0 /<= [[ :* Letters ] - [ :* [ в л | в О1: л ] ] ] %>: _ ;
 
