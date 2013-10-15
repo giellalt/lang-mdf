@@ -1,0 +1,296 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - панемс: # Verb 'to bake' - full paradigm
+     панемс+V+IV+Ind+Prs+ScSg1: панян
+     панемс+V+IV+Ind+Prs+ScSg2: панят
+     панемс+V+IV+Ind+Prs+ScSg3: пани
+     панемс+V+IV+Ind+Prs+ScPl1: панетама
+     панемс+V+IV+Ind+Prs+ScPl2: панетада
+     панемс+V+IV+Ind+Prs+ScPl3: панийхть
+
+     панемс+V+IV+Ind+Prt1+ScSg1: панень
+     панемс+V+IV+Ind+Prt1+ScSg2: панеть
+     панемс+V+IV+Ind+Prt1+ScSg3: пансь
+     панемс+V+IV+Ind+Prt1+ScPl1: панеме
+     панемс+V+IV+Ind+Prt1+ScPl2: панеде
+     панемс+V+IV+Ind+Prt1+ScPl3: пансть
+     
+     панемс+V+IV+Ind+Prt2+ScSg1: панелень
+     панемс+V+IV+Ind+Prt2+ScSg2: панелеть
+     панемс+V+IV+Ind+Prt2+ScSg3: панель
+     панемс+V+IV+Ind+Prt2+ScPl1: панелеме
+     панемс+V+IV+Ind+Prt2+ScPl2: панеледе
+     панемс+V+IV+Ind+Prt2+ScPl3: панельхть
+     
+     панемс+V+IV+Imprt+ScSg2: панть
+     панемс+V+IV+Imprt+ScPl2: панеда
+     
+     панемс+V+IV+Opt+ScSg1: панезан
+     панемс+V+IV+Opt+ScSg2: панезат
+     панемс+V+IV+Opt+ScSg3: панеза
+     панемс+V+IV+Opt+ScPl1: панестама
+     панемс+V+IV+Opt+ScPl2: панестада
+     панемс+V+IV+Opt+ScPl3: панест
+
+#
+     панемс+V+TV+Ind+Prs+ScSg2+OcSg1: пансамак
+     панемс+V+TV+Ind+Prs+ScSg3+OcSg1: пансамань
+     панемс+V+TV+Ind+Prs+ScPl2+OcSg1: пансамасть
+     панемс+V+TV+Ind+Prs+ScPl3+OcSg1: пансамазь
+#
+     панемс+V+TV+Ind+Prs+ScSg1+OcSg2: пантя
+     панемс+V+TV+Ind+Prs+ScSg3+OcSg2: пантанза
+     панемс+V+TV+Ind+Prs+ScPl1+OcSg2: пантядязь
+     панемс+V+TV+Ind+Prs+ScPl3+OcSg2: пантядязь
+#
+     панемс+V+TV+Ind+Prs+ScSg1+OcSg3: панса
+     панемс+V+TV+Ind+Prs+ScSg2+OcSg3: пансак
+     панемс+V+TV+Ind+Prs+ScSg3+OcSg3: пансы
+     панемс+V+TV+Ind+Prs+ScPl1+OcSg3: пансаськ
+     панемс+V+TV+Ind+Prs+ScPl2+OcSg3: пансасьт
+     панемс+V+TV+Ind+Prs+ScPl3+OcSg3: пансазь
+#
+     панемс+V+TV+Ind+Prs+ScSg2+OcPl1: пансамасть
+     панемс+V+TV+Ind+Prs+ScSg3+OcPl1: пансамазь
+     панемс+V+TV+Ind+Prs+ScPl2+OcPl1: пансамасть
+     панемс+V+TV+Ind+Prs+ScPl3+OcPl1: пансамазь
+#
+     панемс+V+TV+Ind+Prs+ScSg1+OcPl2: пантядязь
+     панемс+V+TV+Ind+Prs+ScSg3+OcPl2: пантядязь
+     панемс+V+TV+Ind+Prs+ScPl1+OcPl2: пантядязь
+     панемс+V+TV+Ind+Prs+ScPl3+OcPl2: пантядязь
+#
+     панемс+V+TV+Ind+Prs+ScSg1+OcPl3: пансайне
+     панемс+V+TV+Ind+Prs+ScSg2+OcPl3: пансайть
+     панемс+V+TV+Ind+Prs+ScSg3+OcPl3: пансыне
+     панемс+V+TV+Ind+Prs+ScPl1+OcPl3: пансаськ
+     панемс+V+TV+Ind+Prs+ScPl2+OcPl3: пансасьт
+     панемс+V+TV+Ind+Prs+ScPl3+OcPl3: пансазь
+#
+     панемс+V+TV+Ind+Prt1+ScSg2+OcSg1: панемайть
+     панемс+V+TV+Ind+Prt1+ScSg3+OcSg1: панемань
+     панемс+V+TV+Ind+Prt1+ScPl2+OcSg1: панемасть
+     панемс+V+TV+Ind+Prt1+ScPl3+OcSg1: панемазь
+#
+     панемс+V+TV+Ind+Prt1+ScSg1+OcSg2: панийхтень
+     панемс+V+TV+Ind+Prt1+ScSg3+OcSg2: панензе
+     панемс+V+TV+Ind+Prt1+ScPl1+OcSg2: панедязь
+     панемс+V+TV+Ind+Prt1+ScPl3+OcSg2: панедязь
+#
+     панемс+V+TV+Ind+Prt1+ScSg1+OcSg3: панине
+     панемс+V+TV+Ind+Prt1+ScSg2+OcSg3: панить
+     панемс+V+TV+Ind+Prt1+ScSg3+OcSg3: панезе
+     панемс+V+TV+Ind+Prt1+ScPl1+OcSg3: панеськ
+     панемс+V+TV+Ind+Prt1+ScPl2+OcSg3: панесьт
+     панемс+V+TV+Ind+Prt1+ScPl3+OcSg3: панезь
+#
+     панемс+V+TV+Ind+Prt1+ScSg2+OcPl1: панемасть
+     панемс+V+TV+Ind+Prt1+ScSg3+OcPl1: панемазь
+     панемс+V+TV+Ind+Prt1+ScPl2+OcPl1: панемасть
+     панемс+V+TV+Ind+Prt1+ScPl3+OcPl1: панемазь
+#
+     панемс+V+TV+Ind+Prt1+ScSg1+OcPl2: пандязь
+     панемс+V+TV+Ind+Prt1+ScSg3+OcPl2: пандязь
+     панемс+V+TV+Ind+Prt1+ScPl1+OcPl2: пандязь
+     панемс+V+TV+Ind+Prt1+ScPl3+OcPl2: пандязь
+#
+     панемс+V+TV+Ind+Prt1+ScSg1+OcPl3: панейне
+     панемс+V+TV+Ind+Prt1+ScSg2+OcPl3: панейть
+     панемс+V+TV+Ind+Prt1+ScSg3+OcPl3: панезень
+     панемс+V+TV+Ind+Prt1+ScPl1+OcPl3: панеськ
+     панемс+V+TV+Ind+Prt1+ScPl2+OcPl3: панесьт
+     панемс+V+TV+Ind+Prt1+ScPl3+OcPl3: панезь
+#
+     панемс+V+TV+Ind+Prt2+ScSg2+OcSg1: панелемайть
+     панемс+V+TV+Ind+Prt2+ScSg3+OcSg1: панелемань
+     панемс+V+TV+Ind+Prt2+ScPl2+OcSg1: панелемасть
+     панемс+V+TV+Ind+Prt2+ScPl3+OcSg1: панелемазь
+#
+     панемс+V+TV+Ind+Prt2+ScSg1+OcSg2: панелийхтень
+     панемс+V+TV+Ind+Prt2+ScSg3+OcSg2: панелензе
+     панемс+V+TV+Ind+Prt2+ScPl1+OcSg2: панеледязь
+     панемс+V+TV+Ind+Prt2+ScPl3+OcSg2: панеледязь
+#
+     панемс+V+TV+Ind+Prt2+ScSg1+OcSg3: панелине
+     панемс+V+TV+Ind+Prt2+ScSg2+OcSg3: панелить
+     панемс+V+TV+Ind+Prt2+ScSg3+OcSg3: панелезе
+     панемс+V+TV+Ind+Prt2+ScPl1+OcSg3: панелеськ
+     панемс+V+TV+Ind+Prt2+ScPl2+OcSg3: панелесьт
+     панемс+V+TV+Ind+Prt2+ScPl3+OcSg3: панелезь
+#
+     панемс+V+TV+Ind+Prt2+ScSg2+OcPl1: панелемасть
+     панемс+V+TV+Ind+Prt2+ScSg3+OcPl1: панелемазь
+     панемс+V+TV+Ind+Prt2+ScPl2+OcPl1: панелемасть
+     панемс+V+TV+Ind+Prt2+ScPl3+OcPl1: панелемазь
+#
+     панемс+V+TV+Ind+Prt2+ScSg1+OcPl2: панеледязь
+     панемс+V+TV+Ind+Prt2+ScSg3+OcPl2: панеледязь
+     панемс+V+TV+Ind+Prt2+ScPl1+OcPl2: панеледязь
+     панемс+V+TV+Ind+Prt2+ScPl3+OcPl2: панеледязь
+#
+     панемс+V+TV+Ind+Prt2+ScSg1+OcPl3: панелине
+     панемс+V+TV+Ind+Prt2+ScSg2+OcPl3: панелить
+     панемс+V+TV+Ind+Prt2+ScSg3+OcPl3: панелезень
+     панемс+V+TV+Ind+Prt2+ScPl1+OcPl3: панелеськ
+     панемс+V+TV+Ind+Prt2+ScPl2+OcPl3: панелесьт
+     панемс+V+TV+Ind+Prt2+ScPl3+OcPl3: панелезь
+#
+     панемс+V+TV+Imprt+ScSg2: панть
+     панемс+V+TV+Imprt+ScPl2: панеда
+#
+     панемс+V+TV+Imprt+ScSg2+OcSg1: панемак
+     панемс+V+TV+Imprt+ScPl2+OcSg1: панемасть
+     панемс+V+TV+Imprt+ScSg2+OcSg3: панть
+     панемс+V+TV+Imprt+ScPl2+OcSg3: панесть
+#
+     панемс+V+TV+Cond+ScSg2+OcSg1: панендярясамак
+     панемс+V+TV+Cond+ScSg3+OcSg1: панендярясамань
+     панемс+V+TV+Cond+ScPl2+OcSg1: панендярясамасть
+     панемс+V+TV+Cond+ScPl3+OcSg1: панендярясамазь
+#
+     панемс+V+TV+Cond+ScSg1+OcSg2: панендярятя
+     панемс+V+TV+Cond+ScSg3+OcSg2: панендярятанза
+     панемс+V+TV+Cond+ScPl1+OcSg2: панендярятядязь
+     панемс+V+TV+Cond+ScPl3+OcSg2: панендярятядязь
+#
+     панемс+V+TV+Cond+ScSg1+OcSg3: панендяряса
+     панемс+V+TV+Cond+ScSg2+OcSg3: панендярясак
+     панемс+V+TV+Cond+ScSg3+OcSg3: панендярясы
+     панемс+V+TV+Cond+ScPl1+OcSg3: панендярясаськ
+     панемс+V+TV+Cond+ScPl2+OcSg3: панендярясасьт
+     панемс+V+TV+Cond+ScPl3+OcSg3: панендярясазь
+#
+     панемс+V+TV+Cond+ScSg2+OcPl1: панендярясамасть
+     панемс+V+TV+Cond+ScSg3+OcPl1: панендярясамазь
+     панемс+V+TV+Cond+ScPl2+OcPl1: панендярясамасть
+     панемс+V+TV+Cond+ScPl3+OcPl1: панендярясамазь
+#
+     панемс+V+TV+Cond+ScSg1+OcPl2: панендярятядязь
+     панемс+V+TV+Cond+ScSg3+OcPl2: панендярятядязь
+     панемс+V+TV+Cond+ScPl1+OcPl2: панендярятядязь
+     панемс+V+TV+Cond+ScPl3+OcPl2: панендярятядязь
+#
+     панемс+V+TV+Cond+ScSg1+OcPl3: панендярясайне
+     панемс+V+TV+Cond+ScSg2+OcPl3: панендярясайть
+     панемс+V+TV+Cond+ScSg3+OcPl3: панендярясыне
+     панемс+V+TV+Cond+ScPl1+OcPl3: панендярясаськ
+     панемс+V+TV+Cond+ScPl2+OcPl3: панендярясасьт
+     панемс+V+TV+Cond+ScPl3+OcPl3: панендярясазь
+#
+     панемс+V+TV+Conj+ScSg2+OcSg1: панелемайть
+     панемс+V+TV+Conj+ScSg3+OcSg1: панелемань
+     панемс+V+TV+Conj+ScPl2+OcSg1: панелемасть
+     панемс+V+TV+Conj+ScPl3+OcSg1: панелемазь
+#
+     панемс+V+TV+Conj+ScSg1+OcSg2: панелийхтень
+     панемс+V+TV+Conj+ScSg3+OcSg2: панелензе
+     панемс+V+TV+Conj+ScPl1+OcSg2: панеледязь
+     панемс+V+TV+Conj+ScPl3+OcSg2: панеледязь
+#
+     панемс+V+TV+Conj+ScSg1+OcSg3: панелине
+     панемс+V+TV+Conj+ScSg2+OcSg3: панелить
+     панемс+V+TV+Conj+ScSg3+OcSg3: панелезе
+     панемс+V+TV+Conj+ScPl1+OcSg3: панелеськ
+     панемс+V+TV+Conj+ScPl2+OcSg3: панелесьт
+     панемс+V+TV+Conj+ScPl3+OcSg3: панелезь
+#
+     панемс+V+TV+Conj+ScSg2+OcPl1: панелемасть
+     панемс+V+TV+Conj+ScSg3+OcPl1: панелемазь
+     панемс+V+TV+Conj+ScPl2+OcPl1: панелемасть
+     панемс+V+TV+Conj+ScPl3+OcPl1: панелемазь
+#
+     панемс+V+TV+Conj+ScSg1+OcPl2: панеледязь
+     панемс+V+TV+Conj+ScSg3+OcPl2: панеледязь
+     панемс+V+TV+Conj+ScPl1+OcPl2: панеледязь
+     панемс+V+TV+Conj+ScPl3+OcPl2: панеледязь
+#
+     панемс+V+TV+Conj+ScSg1+OcPl3: панелине
+     панемс+V+TV+Conj+ScSg2+OcPl3: панелить
+     панемс+V+TV+Conj+ScSg3+OcPl3: панелезень
+     панемс+V+TV+Conj+ScPl1+OcPl3: панелеськ
+     панемс+V+TV+Conj+ScPl2+OcPl3: панелесьт
+     панемс+V+TV+Conj+ScPl3+OcPl3: панелезь
+#
+
+     панемс+V+TV+Cond+Conj:+ScSg2+OcSg1: панендярялемайть
+     панемс+V+TV+Cond+Conj+ScSg3+OcSg1: панендярялемань
+     панемс+V+TV+Cond+Conj+ScPl2+OcSg1: панендярялемасть
+     панемс+V+TV+Cond+Conj+ScPl3+OcSg1: панендярялемазь
+#
+     панемс+V+TV+Cond+Conj+ScSg1+OcSg2: панендярялийхтень
+     панемс+V+TV+Cond+Conj+ScSg3+OcSg2: панендярялензе
+     панемс+V+TV+Cond+Conj+ScPl1+OcSg2: панендяряледязь
+     панемс+V+TV+Cond+Conj+ScPl3+OcSg2: панендяряледязь
+#
+     панемс+V+TV+Cond+Conj+ScSg1+OcSg3: панендярялине
+     панемс+V+TV+Cond+Conj+ScSg2+OcSg3: панендярялить
+     панемс+V+TV+Cond+Conj+ScSg3+OcSg3: панендярялезе
+     панемс+V+TV+Cond+Conj+ScPl1+OcSg3: панендярялеськ
+     панемс+V+TV+Cond+Conj+ScPl2+OcSg3: панендярялесьт
+     панемс+V+TV+Cond+Conj+ScPl3+OcSg3: панендярялезь
+#
+     панемс+V+TV+Cond+Conj+ScSg2+OcPl1: панендярялемасть
+     панемс+V+TV+Cond+Conj+ScSg3+OcPl1: панендярялемазь
+     панемс+V+TV+Cond+Conj+ScPl2+OcPl1: панендярялемасть
+     панемс+V+TV+Cond+Conj+ScPl3+OcPl1: панендярялемазь
+#
+     панемс+V+TV+Cond+Conj+ScSg1+OcPl2: панендяряледязь
+     панемс+V+TV+Cond+Conj+ScSg3+OcPl2: панендяряледязь
+     панемс+V+TV+Cond+Conj+ScPl1+OcPl2: панендяряледязь
+     панемс+V+TV+Cond+Conj+ScPl3+OcPl2: панендяряледязь
+#
+     панемс+V+TV+Cond+Conj+ScSg1+OcPl3: панендярялине
+     панемс+V+TV+Cond+Conj+ScSg2+OcPl3: панендярялить
+     панемс+V+TV+Cond+Conj+ScSg3+OcPl3: панендярялезень
+     панемс+V+TV+Cond+Conj+ScPl1+OcPl3: панендярялеськ
+     панемс+V+TV+Cond+Conj+ScPl2+OcPl3: панендярялесьт
+     панемс+V+TV+Cond+Conj+ScPl3+OcPl3: панендярялезь
+#
+     панемс+V+TV+Des+ScSg2+OcSg1: панелексолемайть
+     панемс+V+TV+Des+ScSg3+OcSg1: панелексолемань
+     панемс+V+TV+Des+ScPl2+OcSg1: панелексолемасть
+     панемс+V+TV+Des+ScPl3+OcSg1: панелексолемазь
+#
+     панемс+V+TV+Des+ScSg1+OcSg2: панелексолийхтень
+     панемс+V+TV+Des+ScSg3+OcSg2: панелексолензе
+     панемс+V+TV+Des+ScPl1+OcSg2: панелексоледязь
+     панемс+V+TV+Des+ScPl3+OcSg2: панелексоледязь
+#
+     панемс+V+TV+Des+ScSg1+OcSg3: панелексолине
+     панемс+V+TV+Des+ScSg2+OcSg3: панелексолить
+     панемс+V+TV+Des+ScSg3+OcSg3: панелексолезе
+     панемс+V+TV+Des+ScPl1+OcSg3: панелексолеськ
+     панемс+V+TV+Des+ScPl2+OcSg3: панелексолесьт
+     панемс+V+TV+Des+ScPl3+OcSg3: панелексолезь
+#
+     панемс+V+TV+Des+ScSg2+OcPl1: панелексолемасть
+     панемс+V+TV+Des+ScSg3+OcPl1: панелексолемазь
+     панемс+V+TV+Des+ScPl2+OcPl1: панелексолемасть
+     панемс+V+TV+Des+ScPl3+OcPl1: панелексолемазь
+#
+     панемс+V+TV+Des+ScSg1+OcPl2: панелексоледязь
+     панемс+V+TV+Des+ScSg3+OcPl2: панелексоледязь
+     панемс+V+TV+Des+ScPl1+OcPl2: панелексоледязь
+     панемс+V+TV+Des+ScPl3+OcPl2: панелексоледязь
+#
+     панемс+V+TV+Des+ScSg1+OcPl3: панелексолине
+     панемс+V+TV+Des+ScSg2+OcPl3: панелексолить
+     панемс+V+TV+Des+ScSg3+OcPl3: панелексолезень
+     панемс+V+TV+Des+ScPl1+OcPl3: панелексолеськ
+     панемс+V+TV+Des+ScPl2+OcPl3: панелексолесьт
+     панемс+V+TV+Des+ScPl3+OcPl3: панелексолезь
+#
