@@ -1,0 +1,296 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - кандомс: # Verb 'to catch' - full paradigm
+     кандомс+V+IV+Ind+Prs+ScSg1: кандан
+     кандомс+V+IV+Ind+Prs+ScSg2: кандат
+     кандомс+V+IV+Ind+Prs+ScSg3: канды
+     кандомс+V+IV+Ind+Prs+ScPl1: канттама
+     кандомс+V+IV+Ind+Prs+ScPl2: канттада
+     кандомс+V+IV+Ind+Prs+ScPl3: кандыйхть
+
+     кандомс+V+IV+Ind+Prt1+ScSg1: кандонь
+     кандомс+V+IV+Ind+Prt1+ScSg2: кандоть
+     кандомс+V+IV+Ind+Prt1+ScSg3: кандсь
+     кандомс+V+IV+Ind+Prt1+ScPl1: кандоме
+     кандомс+V+IV+Ind+Prt1+ScPl2: кандоде
+     кандомс+V+IV+Ind+Prt1+ScPl3: кандсть
+     
+     кандомс+V+IV+Ind+Prt2+ScSg1: кандолень
+     кандомс+V+IV+Ind+Prt2+ScSg2: кандолеть
+     кандомс+V+IV+Ind+Prt2+ScSg3: кандоль
+     кандомс+V+IV+Ind+Prt2+ScPl1: кандолеме
+     кандомс+V+IV+Ind+Prt2+ScPl2: кандоледе
+     кандомс+V+IV+Ind+Prt2+ScPl3: кандольхть
+     
+     кандомс+V+IV+Imprt+ScSg2: кундак
+     кандомс+V+IV+Imprt+ScPl2: кандода
+     
+     кандомс+V+IV+Opt+ScSg1: кандозан
+     кандомс+V+IV+Opt+ScSg2: кандозат
+     кандомс+V+IV+Opt+ScSg3: кандоза
+     кандомс+V+IV+Opt+ScPl1: кандостама
+     кандомс+V+IV+Opt+ScPl2: кандостада
+     кандомс+V+IV+Opt+ScPl3: кандост
+
+#
+     кандомс+V+TV+Ind+Prs+ScSg2+OcSg1: кандсамак
+     кандомс+V+TV+Ind+Prs+ScSg3+OcSg1: кандсамань
+     кандомс+V+TV+Ind+Prs+ScPl2+OcSg1: кандсамасть
+     кандомс+V+TV+Ind+Prs+ScPl3+OcSg1: кандсамазь
+#
+     кандомс+V+TV+Ind+Prs+ScSg1+OcSg2: канття
+     кандомс+V+TV+Ind+Prs+ScSg3+OcSg2: канттанза
+     кандомс+V+TV+Ind+Prs+ScPl1+OcSg2: канттядязь
+     кандомс+V+TV+Ind+Prs+ScPl3+OcSg2: канттядязь
+#
+     кандомс+V+TV+Ind+Prs+ScSg1+OcSg3: кандса
+     кандомс+V+TV+Ind+Prs+ScSg2+OcSg3: кандсак
+     кандомс+V+TV+Ind+Prs+ScSg3+OcSg3: кандсы
+     кандомс+V+TV+Ind+Prs+ScPl1+OcSg3: кандсаськ
+     кандомс+V+TV+Ind+Prs+ScPl2+OcSg3: кандсасьт
+     кандомс+V+TV+Ind+Prs+ScPl3+OcSg3: кандсазь
+#
+     кандомс+V+TV+Ind+Prs+ScSg2+OcPl1: кандсамасть
+     кандомс+V+TV+Ind+Prs+ScSg3+OcPl1: кандсамазь
+     кандомс+V+TV+Ind+Prs+ScPl2+OcPl1: кандсамасть
+     кандомс+V+TV+Ind+Prs+ScPl3+OcPl1: кандсамазь
+#
+     кандомс+V+TV+Ind+Prs+ScSg1+OcPl2: канттядязь
+     кандомс+V+TV+Ind+Prs+ScSg3+OcPl2: канттядязь
+     кандомс+V+TV+Ind+Prs+ScPl1+OcPl2: канттядязь
+     кандомс+V+TV+Ind+Prs+ScPl3+OcPl2: канттядязь
+#
+     кандомс+V+TV+Ind+Prs+ScSg1+OcPl3: кандсайне
+     кандомс+V+TV+Ind+Prs+ScSg2+OcPl3: кандсайть
+     кандомс+V+TV+Ind+Prs+ScSg3+OcPl3: кандсыне
+     кандомс+V+TV+Ind+Prs+ScPl1+OcPl3: кандсаськ
+     кандомс+V+TV+Ind+Prs+ScPl2+OcPl3: кандсасьт
+     кандомс+V+TV+Ind+Prs+ScPl3+OcPl3: кандсазь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg2+OcSg1: кандомайть
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcSg1: кандомань
+     кандомс+V+TV+Ind+Prt1+ScPl2+OcSg1: кандомасть
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcSg1: кандомазь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg1+OcSg2: кандыхтень
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcSg2: кандонзе
+     кандомс+V+TV+Ind+Prt1+ScPl1+OcSg2: кандодязь
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcSg2: кандодязь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg1+OcSg3: кандыне
+     кандомс+V+TV+Ind+Prt1+ScSg2+OcSg3: кандыть
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcSg3: кандозе
+     кандомс+V+TV+Ind+Prt1+ScPl1+OcSg3: кандоськ
+     кандомс+V+TV+Ind+Prt1+ScPl2+OcSg3: кандосьт
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcSg3: кандозь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg2+OcPl1: кандомасть
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcPl1: кандомазь
+     кандомс+V+TV+Ind+Prt1+ScPl2+OcPl1: кандомасть
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcPl1: кандомазь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg1+OcPl2: кандодязь
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcPl2: кандодязь
+     кандомс+V+TV+Ind+Prt1+ScPl1+OcPl2: кандодязь
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcPl2: кандодязь
+#
+     кандомс+V+TV+Ind+Prt1+ScSg1+OcPl3: кандыне
+     кандомс+V+TV+Ind+Prt1+ScSg2+OcPl3: кандыть
+     кандомс+V+TV+Ind+Prt1+ScSg3+OcPl3: кандозень
+     кандомс+V+TV+Ind+Prt1+ScPl1+OcPl3: кандоськ
+     кандомс+V+TV+Ind+Prt1+ScPl2+OcPl3: кандосьт
+     кандомс+V+TV+Ind+Prt1+ScPl3+OcPl3: кандозь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg2+OcSg1: кандолемайть
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcSg1: кандолемань
+     кандомс+V+TV+Ind+Prt2+ScPl2+OcSg1: кандолемасть
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcSg1: кандолемазь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg1+OcSg2: кандолийхтень
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcSg2: кандолензе
+     кандомс+V+TV+Ind+Prt2+ScPl1+OcSg2: кандоледязь
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcSg2: кандоледязь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg1+OcSg3: кандолине
+     кандомс+V+TV+Ind+Prt2+ScSg2+OcSg3: кандолить
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcSg3: кандолезе
+     кандомс+V+TV+Ind+Prt2+ScPl1+OcSg3: кандолеськ
+     кандомс+V+TV+Ind+Prt2+ScPl2+OcSg3: кандолесьт
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcSg3: кандолезь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg2+OcPl1: кандолемасть
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcPl1: кандолемазь
+     кандомс+V+TV+Ind+Prt2+ScPl2+OcPl1: кандолемасть
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcPl1: кандолемазь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg1+OcPl2: кандоледязь
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcPl2: кандоледязь
+     кандомс+V+TV+Ind+Prt2+ScPl1+OcPl2: кандоледязь
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcPl2: кандоледязь
+#
+     кандомс+V+TV+Ind+Prt2+ScSg1+OcPl3: кандолине
+     кандомс+V+TV+Ind+Prt2+ScSg2+OcPl3: кандолить
+     кандомс+V+TV+Ind+Prt2+ScSg3+OcPl3: кандолезень
+     кандомс+V+TV+Ind+Prt2+ScPl1+OcPl3: кандолеськ
+     кандомс+V+TV+Ind+Prt2+ScPl2+OcPl3: кандолесьт
+     кандомс+V+TV+Ind+Prt2+ScPl3+OcPl3: кандолезь
+#
+     кандомс+V+TV+Imprt+ScSg2: кантк
+     кандомс+V+TV+Imprt+ScPl2: кандода
+#
+     кандомс+V+TV+Imprt+ScSg2+OcSg1: кандомак
+     кандомс+V+TV+Imprt+ScPl2+OcSg1: кандомасть
+     кандомс+V+TV+Imprt+ScSg2+OcSg3: кантк
+     кандомс+V+TV+Imprt+ScPl2+OcSg3: кандость
+#
+     кандомс+V+TV+Cond+ScSg2+OcSg1: кандондярясамак
+     кандомс+V+TV+Cond+ScSg3+OcSg1: кандондярясамань
+     кандомс+V+TV+Cond+ScPl2+OcSg1: кандондярясамасть
+     кандомс+V+TV+Cond+ScPl3+OcSg1: кандондярясамазь
+#
+     кандомс+V+TV+Cond+ScSg1+OcSg2: кандондярятя
+     кандомс+V+TV+Cond+ScSg3+OcSg2: кандондярятанза
+     кандомс+V+TV+Cond+ScPl1+OcSg2: кандондярятядязь
+     кандомс+V+TV+Cond+ScPl3+OcSg2: кандондярятядязь
+#
+     кандомс+V+TV+Cond+ScSg1+OcSg3: кандондяряса
+     кандомс+V+TV+Cond+ScSg2+OcSg3: кандондярясак
+     кандомс+V+TV+Cond+ScSg3+OcSg3: кандондярясы
+     кандомс+V+TV+Cond+ScPl1+OcSg3: кандондярясаськ
+     кандомс+V+TV+Cond+ScPl2+OcSg3: кандондярясасьт
+     кандомс+V+TV+Cond+ScPl3+OcSg3: кандондярясазь
+#
+     кандомс+V+TV+Cond+ScSg2+OcPl1: кандондярясамасть
+     кандомс+V+TV+Cond+ScSg3+OcPl1: кандондярясамазь
+     кандомс+V+TV+Cond+ScPl2+OcPl1: кандондярясамасть
+     кандомс+V+TV+Cond+ScPl3+OcPl1: кандондярясамазь
+#
+     кандомс+V+TV+Cond+ScSg1+OcPl2: кандондярятядязь
+     кандомс+V+TV+Cond+ScSg3+OcPl2: кандондярятядязь
+     кандомс+V+TV+Cond+ScPl1+OcPl2: кандондярятядязь
+     кандомс+V+TV+Cond+ScPl3+OcPl2: кандондярятядязь
+#
+     кандомс+V+TV+Cond+ScSg1+OcPl3: кандондярясайне
+     кандомс+V+TV+Cond+ScSg2+OcPl3: кандондярясайть
+     кандомс+V+TV+Cond+ScSg3+OcPl3: кандондярясыне
+     кандомс+V+TV+Cond+ScPl1+OcPl3: кандондярясаськ
+     кандомс+V+TV+Cond+ScPl2+OcPl3: кандондярясасьт
+     кандомс+V+TV+Cond+ScPl3+OcPl3: кандондярясазь
+#
+     кандомс+V+TV+Conj+ScSg2+OcSg1: кандолемайть
+     кандомс+V+TV+Conj+ScSg3+OcSg1: кандолемань
+     кандомс+V+TV+Conj+ScPl2+OcSg1: кандолемасть
+     кандомс+V+TV+Conj+ScPl3+OcSg1: кандолемазь
+#
+     кандомс+V+TV+Conj+ScSg1+OcSg2: кандолийхтень
+     кандомс+V+TV+Conj+ScSg3+OcSg2: кандолензе
+     кандомс+V+TV+Conj+ScPl1+OcSg2: кандоледязь
+     кандомс+V+TV+Conj+ScPl3+OcSg2: кандоледязь
+#
+     кандомс+V+TV+Conj+ScSg1+OcSg3: кандолине
+     кандомс+V+TV+Conj+ScSg2+OcSg3: кандолить
+     кандомс+V+TV+Conj+ScSg3+OcSg3: кандолезе
+     кандомс+V+TV+Conj+ScPl1+OcSg3: кандолеськ
+     кандомс+V+TV+Conj+ScPl2+OcSg3: кандолесьт
+     кандомс+V+TV+Conj+ScPl3+OcSg3: кандолезь
+#
+     кандомс+V+TV+Conj+ScSg2+OcPl1: кандолемасть
+     кандомс+V+TV+Conj+ScSg3+OcPl1: кандолемазь
+     кандомс+V+TV+Conj+ScPl2+OcPl1: кандолемасть
+     кандомс+V+TV+Conj+ScPl3+OcPl1: кандолемазь
+#
+     кандомс+V+TV+Conj+ScSg1+OcPl2: кандоледязь
+     кандомс+V+TV+Conj+ScSg3+OcPl2: кандоледязь
+     кандомс+V+TV+Conj+ScPl1+OcPl2: кандоледязь
+     кандомс+V+TV+Conj+ScPl3+OcPl2: кандоледязь
+#
+     кандомс+V+TV+Conj+ScSg1+OcPl3: кандолине
+     кандомс+V+TV+Conj+ScSg2+OcPl3: кандолить
+     кандомс+V+TV+Conj+ScSg3+OcPl3: кандолезень
+     кандомс+V+TV+Conj+ScPl1+OcPl3: кандолеськ
+     кандомс+V+TV+Conj+ScPl2+OcPl3: кандолесьт
+     кандомс+V+TV+Conj+ScPl3+OcPl3: кандолезь
+#
+
+     кандомс+V+TV+Cond+Conj:+ScSg2+OcSg1: кандондярялемайть
+     кандомс+V+TV+Cond+Conj+ScSg3+OcSg1: кандондярялемань
+     кандомс+V+TV+Cond+Conj+ScPl2+OcSg1: кандондярялемасть
+     кандомс+V+TV+Cond+Conj+ScPl3+OcSg1: кандондярялемазь
+#
+     кандомс+V+TV+Cond+Conj+ScSg1+OcSg2: кандондярялийхтень
+     кандомс+V+TV+Cond+Conj+ScSg3+OcSg2: кандондярялензе
+     кандомс+V+TV+Cond+Conj+ScPl1+OcSg2: кандондяряледязь
+     кандомс+V+TV+Cond+Conj+ScPl3+OcSg2: кандондяряледязь
+#
+     кандомс+V+TV+Cond+Conj+ScSg1+OcSg3: кандондярялине
+     кандомс+V+TV+Cond+Conj+ScSg2+OcSg3: кандондярялить
+     кандомс+V+TV+Cond+Conj+ScSg3+OcSg3: кандондярялезе
+     кандомс+V+TV+Cond+Conj+ScPl1+OcSg3: кандондярялеськ
+     кандомс+V+TV+Cond+Conj+ScPl2+OcSg3: кандондярялесьт
+     кандомс+V+TV+Cond+Conj+ScPl3+OcSg3: кандондярялезь
+#
+     кандомс+V+TV+Cond+Conj+ScSg2+OcPl1: кандондярялемасть
+     кандомс+V+TV+Cond+Conj+ScSg3+OcPl1: кандондярялемазь
+     кандомс+V+TV+Cond+Conj+ScPl2+OcPl1: кандондярялемасть
+     кандомс+V+TV+Cond+Conj+ScPl3+OcPl1: кандондярялемазь
+#
+     кандомс+V+TV+Cond+Conj+ScSg1+OcPl2: кандондяряледязь
+     кандомс+V+TV+Cond+Conj+ScSg3+OcPl2: кандондяряледязь
+     кандомс+V+TV+Cond+Conj+ScPl1+OcPl2: кандондяряледязь
+     кандомс+V+TV+Cond+Conj+ScPl3+OcPl2: кандондяряледязь
+#
+     кандомс+V+TV+Cond+Conj+ScSg1+OcPl3: кандондярялине
+     кандомс+V+TV+Cond+Conj+ScSg2+OcPl3: кандондярялить
+     кандомс+V+TV+Cond+Conj+ScSg3+OcPl3: кандондярялезень
+     кандомс+V+TV+Cond+Conj+ScPl1+OcPl3: кандондярялеськ
+     кандомс+V+TV+Cond+Conj+ScPl2+OcPl3: кандондярялесьт
+     кандомс+V+TV+Cond+Conj+ScPl3+OcPl3: кандондярялезь
+#
+     кандомс+V+TV+Des+ScSg2+OcSg1: кандолексолемайть
+     кандомс+V+TV+Des+ScSg3+OcSg1: кандолексолемань
+     кандомс+V+TV+Des+ScPl2+OcSg1: кандолексолемасть
+     кандомс+V+TV+Des+ScPl3+OcSg1: кандолексолемазь
+#
+     кандомс+V+TV+Des+ScSg1+OcSg2: кандолексолийхтень
+     кандомс+V+TV+Des+ScSg3+OcSg2: кандолексолензе
+     кандомс+V+TV+Des+ScPl1+OcSg2: кандолексоледязь
+     кандомс+V+TV+Des+ScPl3+OcSg2: кандолексоледязь
+#
+     кандомс+V+TV+Des+ScSg1+OcSg3: кандолексолине
+     кандомс+V+TV+Des+ScSg2+OcSg3: кандолексолить
+     кандомс+V+TV+Des+ScSg3+OcSg3: кандолексолезе
+     кандомс+V+TV+Des+ScPl1+OcSg3: кандолексолеськ
+     кандомс+V+TV+Des+ScPl2+OcSg3: кандолексолесьт
+     кандомс+V+TV+Des+ScPl3+OcSg3: кандолексолезь
+#
+     кандомс+V+TV+Des+ScSg2+OcPl1: кандолексолемасть
+     кандомс+V+TV+Des+ScSg3+OcPl1: кандолексолемазь
+     кандомс+V+TV+Des+ScPl2+OcPl1: кандолексолемасть
+     кандомс+V+TV+Des+ScPl3+OcPl1: кандолексолемазь
+#
+     кандомс+V+TV+Des+ScSg1+OcPl2: кандолексоледязь
+     кандомс+V+TV+Des+ScSg3+OcPl2: кандолексоледязь
+     кандомс+V+TV+Des+ScPl1+OcPl2: кандолексоледязь
+     кандомс+V+TV+Des+ScPl3+OcPl2: кандолексоледязь
+#
+     кандомс+V+TV+Des+ScSg1+OcPl3: кандолексолине
+     кандомс+V+TV+Des+ScSg2+OcPl3: кандолексолить
+     кандомс+V+TV+Des+ScSg3+OcPl3: кандолексолезень
+     кандомс+V+TV+Des+ScPl1+OcPl3: кандолексолеськ
+     кандомс+V+TV+Des+ScPl2+OcPl3: кандолексолесьт
+     кандомс+V+TV+Des+ScPl3+OcPl3: кандолексолезь
+#
