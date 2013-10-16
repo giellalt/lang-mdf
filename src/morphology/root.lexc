@@ -223,6 +223,7 @@ Multichar_Symbols
  {aä} {oö} {uü}
  %{ИЫЙ%}	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
  %{ОЕ%0%}	!!= @CODE@ for morphemes requiring a preceding vowel
+ %{АЯ%} 	!!= @CODE@ А2 in кундамс:кундан
 
  А2 ! А2:а А2:я
  Г2 ! Г2:г Г2:в Г2:к
@@ -257,6 +258,7 @@ Multichar_Symbols
 @U.CONJ-MX.DES@
 @U.CONJ-MX.CONJ@
 @U.CONJ-MX.COND@
+@U.CONJ-MX.CONDCONJ@
 
 ! CONNEG = negation
 @U.CONJ-CONNEG.YES@
