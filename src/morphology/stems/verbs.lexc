@@ -302,7 +302,7 @@ LEXICON verbs
 арьсекшнемс:арьсекшне IV_АВОЛДАМС  "ajatella" ;
 арьселгодомс:арьселгод IV_АНДОМС  "tasoittua" ;
 арьселгофтомс:арьселгофт TV_АЛЫЯФТОМС  "tasoittaa" ;
-арьсемс:арьсемс VerbTag  "ajatella" ;
+арьсемс:арьсе TV_АВОЛДАМС  "ajatella" ;
 арьсефтевомс:арьсефтев IV_АНДОВОМС  "ajatteluttaa" ;
 арьсямомс:арьсямомс VerbTag  "tasoittua" ;
 ассимилировандавомс:ассимилировандав IV_АНДОВОМС  "tulla assimiloiduksi" ;
@@ -2611,7 +2611,7 @@ LEXICON verbs
 карьксамс:карькса IV_АВОЛДАМС  "pujottaa nauhat virsuihin" ;
 карьксафнемс:карьксафне TV_АВОЛДАМС  "panna kengät jalkaansa" ;
 карьсекшнемс:карьсекшне IV_АВОЛДАМС  "panna kengät jalkaansa" ;
-карьсемс:карьсе VerbTag  "panna kengät jalkaansa" ;
+карьсемс:карьсе TV_АВОЛДАМС  "panna kengät jalkaansa" ;
 карьхцевомс:карьхцев IV_АНДОВОМС  "olla myötäjäisillä varustettu" ;
 карьхцекшнемс:карьхцекшне IV_АВОЛДАМС  "kuluttaa (rahaa)" ;
 карьхцемс:карьхце VerbTag  "varustaa myötäjäisillä" ;
@@ -4226,8 +4226,8 @@ LEXICON verbs
 липшекшнемс:липшекшне IV_АВОЛДАМС  "painella" ;
 липшемс:липше VerbTag  "painaa yhteen" ;
 лисевомс:лисев IV_АНДОВОМС  "1. voida kulkea, astua. 2. voida poistua, lähteä. 3. voida tulla, ilmestyä, sattua" ;
-лисемс:лись VerbTag  "1. lähteä; tulla/mennä ulos. 2. nousta; itää" ;
-лисендемс:лисендь VerbTag  "1. kulkea, astua. 2. poistua, lähteä. 3. tulla, ilmestyä, sattua. 4. olla lähtöisin" ;
+лисемс:лись IV_АНДОМС  "1. lähteä; tulla/mennä ulos. 2. nousta; itää" ;
+лисендемс:лисендь IV_АНДОМС  "1. kulkea, astua. 2. poistua, lähteä. 3. tulla, ilmestyä, sattua. 4. olla lähtöisin" ;
 лисенькшнемс:лисенькшне IV_АВОЛДАМС  "1. kulkea, astua. 2. poistua, lähteä. 3. tulla, ilmestyä, sattua. 4. olla lähtöisin" ;
 листелемс:листель VerbTag  "saada rakkoja" ;
 лисьфнемс:лисьфне TV_АВОЛДАМС  "panna lähtemään" ;
@@ -4509,7 +4509,7 @@ LEXICON verbs
 лябафнемс:лябафне TV_АВОЛДАМС  "panna kolhimaan" ;
 ляборьфтемс:ляборьфть IV_НЯФТЕМС  "heiluttaa siipiään" ;
 лядевомс:лядев IV_АНДОВОМС  "tulla niitetyksi" ;
-лядемс:лядь VerbTag  "niittää" ;
+лядемс:лядь IV_АНДОМС  "niittää" ;
 лядендемс:лядендь VerbTag  "niittää" ;
 ляденьтьфтемс:ляденьтьфть IV_НЯФТЕМС  "niitättää" ;
 лядерьгодомс:лядерьгод IV_АНДОМС  "karista, varista; hajaantua" ;
@@ -4706,7 +4706,7 @@ LEXICON verbs
 маршировандамс:маршированда IV_АВОЛДАМС  "marssia" ;
 маршировандафнемс:маршировандафне TV_АВОЛДАМС  "marssittaa" ;
 марьсевомс:марьсев IV_АНДОВОМС  "tulla kuulluksi" ;
-марьсемс:марьсе VerbTag  "kuulla" ;
+марьсемс:марьсе TV_АВОЛДАМС  "kuulla" ;
 марявомс:маряв IV_АНДОВОМС  "1. tuntua. 2. kuulua, kuulostaa" ;
 марямс:маря IV_АВОЛДАМС  "1. tuntea (kipua tms.), aistia. 2. kuulla" ;
 маряфнемс:маряфне TV_АВОЛДАМС  "saada kuulemaan" ;
@@ -5185,7 +5185,7 @@ LEXICON verbs
 мярцамс:мярца IV_АВОЛДАМС  "kitua" ;
 мярьговомс:мярьгов IV_АНДОВОМС  "tulla sanotuksi" ;
 мярьгомс:мярьг IV_АНДОМС  "sanoa" ;
-мярьгондемс:мярьгондь VerbTag  "hokea" ;
+мярьгондемс:мярьгондь TV_АНДОМС  "hokea" ;
 мярьгонькшнемс:мярьгонькшне IV_АВОЛДАМС  "hokea" ;
 мярьксемс:мярьксе VerbTag  "hokea" ;
 мярькшнемс:мярькшне IV_АВОЛДАМС  "hokea" ;
@@ -5685,7 +5685,7 @@ LEXICON verbs
 няфнекшнемс:няфнекшне IV_АВОЛДАМС  "XX" ;
 няфнемс:няфне TV_АВОЛДАМС  "näyttää, osoitella, esitellä" ;
 няфтевомс:няфтев IV_АНДОВОМС  "XX" ;
-няфтемс:няфть IV_НЯФТЕМС  "näyttää, osoittaa" ;
+няфтемс:няфть TV_НЯФТЕМС  "näyttää, osoittaa" ;
 няфтьфнемс:няфтьфне TV_АВОЛДАМС  "XX" ;
 няфтьфтемс:няфтьфть IV_НЯФТЕМС  "XX" ;
 обардовомс:обардов IV_АНДОВОМС  "XX" ;
@@ -8580,7 +8580,7 @@ LEXICON verbs
 сёрмавгодомс:сёрмавгод IV_АНДОМС  "kirjavoitua, värittyä" ;
 сёрмавгофтомс:сёрмавгофт TV_АЛЫЯФТОМС  "kirjavoittaa, värittää" ;
 сёрмадовомс:сёрмадов IV_АНДОВОМС  "XX" ;
-сёрмадомс:сёрмадомс VerbTag  "kirjoittaa; nauhoittaa" ;
+сёрмадомс:сёрмад TV_АНДОМС  "kirjoittaa; nauhoittaa" ;
 сёрматкшнемс:сёрматкшне IV_АВОЛДАМС  "kirjoittaa, kirjoitella" ;
 сёрматфтомс:сёрматфт TV_АЛЫЯФТОМС  "XX" ;
 сёрмаямс:сёрмая IV_АВОЛДАМС  "XX" ;
@@ -9984,7 +9984,7 @@ LEXICON verbs
 ушакстомс:ушакстомс VerbTag  "XX" ;
 ушардовомс:ушардов IV_АНДОВОМС  "XX" ;
 ушедовомс:ушедов IV_АНДОВОМС  "alkaa" ;
-ушедомс:ушедомс VerbTag  "aloittaa" ;
+ушедомс:ушед IV_АНДОМС  "aloittaa" ;
 ушемомс:ушемомс VerbTag  "XX" ;
 ушепневомс:ушепнев IV_АНДОВОМС  "alkaa" ;
 ушепнекшнемс:ушепнекшне IV_АВОЛДАМС  "XX" ;
@@ -10747,7 +10747,7 @@ LEXICON verbs
 шатфнемс:шатфне TV_АВОЛДАМС  "XX" ;
 шатфтомс:шатфт TV_АЛЫЯФТОМС  "keittää yli" ;
 шачевомс:шачев IV_АНДОВОМС  "XX" ;
-шачемс:шачемс VerbTag  "1. syntyä. 2. kasvaa, tuottaa (satoa)" ;
+шачемс:шач IV_АНДОМС  "1. syntyä. 2. kasvaa, tuottaa (satoa)" ;
 шачендомс:шачендомс VerbTag  "XX" ;
 шачфнемс:шачфне TV_АВОЛДАМС  "1. synnyttää. 2. kantaa hedelmää" ;
 шачфтовомс:шачфтов IV_АНДОВОМС  "XX" ;
