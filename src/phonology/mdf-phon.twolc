@@ -33,9 +33,11 @@ Alphabet
 !showing "a" vs "я" and "ы" vs "и" alternation
 !А2:а !А2
 А2:я !А2
-Ы2:и !
+!Ы2:и !
 Ы2:ы !
+ %{ИЫЙ%}:ы	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
 
+ %{ОЕ%0%}:0	!!= @CODE@ for morphemes requiring a preceding vowel
 ! derivational suffix protovowel  "mo" and "me"
 !О1:а !
 О1:о !
@@ -105,8 +107,9 @@ WLoss:0
 NoVLoss:0
 
  %- !Hyphen with constructions like "-buti"
- %>
- #
+ %> !!= @CODE@ conjugation/declension morpheme boundary suffix
+ » !!= @CODE@ derivation morpheme boundary suffix
+ # !!= @CODE@ word boundary
 
 ;
 
@@ -173,8 +176,8 @@ Rules
 !Changes in the stem vowels before "10", "20", "30" and "60"
 "verbStemVowStrong:0"
 !! __@RULENAME@__  
- X:Y <=> [ Cns | Vows ] _  %>: [А2:я|А2:а [ н | т ]| Ы2:] ;
-!                   Cns  _ К4:0 %>:  Ы2: ;
+ X:Y <=> [ Cns | Vows ] _  %>: [А2:я|А2:а [ н | т ]| %{ИЫЙ%}:] ;
+!                   Cns  _ К4:0 %>:  %{ИЫЙ%}: ;
           where X in (а о э ы у я ё е и ю)
                 Y in (0 0 0 0 0 0 0 0 0 0) matched ;
 
@@ -196,9 +199,13 @@ Rules
 !! __@RULENAME@__  
 А1:о <=>  [ а |я ] %>:  м  _ ;
 
-"Y2:yi"
+!!2013-10-16!"%{ИЫЙ%}:yi"
+!!2013-10-16!!! __@RULENAME@__  
+!!2013-10-16!%{ИЫЙ%}:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %>: _ ;
+
+"%{ИЫЙ%}:j"
 !! __@RULENAME@__  
-Ы2:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %>: _ ;
+%{ИЫЙ%}:й <=> [ я | е | а | о ]  %>: _ ;
 
 "O1:a"
 !! __@RULENAME@__  
@@ -243,7 +250,7 @@ Rules
 
 "j:0"
 !! __@RULENAME@__  
-й:0 <=> Vows _ [И2:е  | %>: Ы2:и| (И2:0)  %>: [А2:я | О1: [ :Cns | К3:0 ]] ] ;
+й:0 <=> Vows _ [И2:е  | %>: %{ИЫЙ%}:и| (И2:0)  %>: [А2:я | О1: [ :Cns | К3:0 ]] ] ;
 
 
 !
@@ -388,7 +395,7 @@ Rules
 "y:0"
 !! __@RULENAME@__  
 ь:0 <=>   [ н: | д: | т ] _ %> Х1: т ; !! plural
-        CnsDent  _  %>: [ А2:я | Ы2:и | О1: [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
+        CnsDent  _  %>: [ А2:я | %{ИЫЙ%}:и | О1: [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
               CnsDentNoL _ %>: [ф т О1: м [ О1: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
 
 
@@ -437,7 +444,7 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %>: _ ;
 
 "Disallow VLoss after non-U2I2"
 !! __@RULENAME@__  
-VLoss:0 /<= [[ :* [ Letters | А1: | А2: | Ы2: | К1: | О1: | Ь2: | Г1: | Г2: | К3:  ] ] - [ :* [ У2: | И2: ] ] ] %>: _ ;
+VLoss:0 /<= [[ :* [ Letters | А1: | А2: | %{ИЫЙ%}: | К1: | О1: | Ь2: | Г1: | Г2: | К3:  ] ] - [ :* [ У2: | И2: ] ] ] %>: _ ;
 
 "Disallow WLoss after non-v"
 !! __@RULENAME@__  
