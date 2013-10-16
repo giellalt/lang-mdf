@@ -15,36 +15,36 @@ Tests:
 
 
   Verb - кундамс: # Verb 'to catch' - full paradigm
-     кундамс+V+IV+Ind+Prs+ScSg1: кундан
-     кундамс+V+IV+Ind+Prs+ScSg2: кундат
-     кундамс+V+IV+Ind+Prs+ScSg3: кундай
-     кундамс+V+IV+Ind+Prs+ScPl1: кундатама
-     кундамс+V+IV+Ind+Prs+ScPl2: кундатада
-     кундамс+V+IV+Ind+Prs+ScPl3: кундайхть
+     кундамс+V+TV+Ind+Prs+ScSg1: кундан
+     кундамс+V+TV+Ind+Prs+ScSg2: кундат
+     кундамс+V+TV+Ind+Prs+ScSg3: кундай
+     кундамс+V+TV+Ind+Prs+ScPl1: кундатама
+     кундамс+V+TV+Ind+Prs+ScPl2: кундатада
+     кундамс+V+TV+Ind+Prs+ScPl3: кундайхть
 
-     кундамс+V+IV+Ind+Prt1+ScSg1: кундань
-     кундамс+V+IV+Ind+Prt1+ScSg2: кундать
-     кундамс+V+IV+Ind+Prt1+ScSg3: кундась
-     кундамс+V+IV+Ind+Prt1+ScPl1: кундаме
-     кундамс+V+IV+Ind+Prt1+ScPl2: кундаде
-     кундамс+V+IV+Ind+Prt1+ScPl3: кундасть
+     кундамс+V+TV+Ind+Prt1+ScSg1: кундань
+     кундамс+V+TV+Ind+Prt1+ScSg2: кундать
+     кундамс+V+TV+Ind+Prt1+ScSg3: кундась
+     кундамс+V+TV+Ind+Prt1+ScPl1: кундаме
+     кундамс+V+TV+Ind+Prt1+ScPl2: кундаде
+     кундамс+V+TV+Ind+Prt1+ScPl3: кундасть
      
-     кундамс+V+IV+Ind+Prt2+ScSg1: кундалень
-     кундамс+V+IV+Ind+Prt2+ScSg2: кундалеть
-     кундамс+V+IV+Ind+Prt2+ScSg3: кундаль
-     кундамс+V+IV+Ind+Prt2+ScPl1: кундалеме
-     кундамс+V+IV+Ind+Prt2+ScPl2: кундаледе
-     кундамс+V+IV+Ind+Prt2+ScPl3: кундальхть
+     кундамс+V+TV+Ind+Prt2+ScSg1: кундалень
+     кундамс+V+TV+Ind+Prt2+ScSg2: кундалеть
+     кундамс+V+TV+Ind+Prt2+ScSg3: кундаль
+     кундамс+V+TV+Ind+Prt2+ScPl1: кундалеме
+     кундамс+V+TV+Ind+Prt2+ScPl2: кундаледе
+     кундамс+V+TV+Ind+Prt2+ScPl3: кундальхть
      
-     кундамс+V+IV+Imprt+ScSg2: кундак
-     кундамс+V+IV+Imprt+ScPl2: кундада
+     кундамс+V+TV+Imprt+ScSg2: кундак
+     кундамс+V+TV+Imprt+ScPl2: кундада
      
-     кундамс+V+IV+Opt+ScSg1: кундазан
-     кундамс+V+IV+Opt+ScSg2: кундазат
-     кундамс+V+IV+Opt+ScSg3: кундаза
-     кундамс+V+IV+Opt+ScPl1: кундастама
-     кундамс+V+IV+Opt+ScPl2: кундастада
-     кундамс+V+IV+Opt+ScPl3: кундаст
+     кундамс+V+TV+Opt+ScSg1: кундазан
+     кундамс+V+TV+Opt+ScSg2: кундазат
+     кундамс+V+TV+Opt+ScSg3: кундаза
+     кундамс+V+TV+Opt+ScPl1: кундастама
+     кундамс+V+TV+Opt+ScPl2: кундастада
+     кундамс+V+TV+Opt+ScPl3: кундаст
 
 #
      кундамс+V+TV+Ind+Prs+ScSg2+OcSg1: кундасамак
@@ -61,7 +61,7 @@ Tests:
      кундамс+V+TV+Ind+Prs+ScSg2+OcSg3: кундасак
      кундамс+V+TV+Ind+Prs+ScSg3+OcSg3: кундасы
      кундамс+V+TV+Ind+Prs+ScPl1+OcSg3: кундасаськ
-     кундамс+V+TV+Ind+Prs+ScPl2+OcSg3: кундасасьт
+     кундамс+V+TV+Ind+Prs+ScPl2+OcSg3: кундасасть
      кундамс+V+TV+Ind+Prs+ScPl3+OcSg3: кундасазь
 #
      кундамс+V+TV+Ind+Prs+ScSg2+OcPl1: кундасамасть
@@ -78,7 +78,7 @@ Tests:
      кундамс+V+TV+Ind+Prs+ScSg2+OcPl3: кундасайть
      кундамс+V+TV+Ind+Prs+ScSg3+OcPl3: кундасыне
      кундамс+V+TV+Ind+Prs+ScPl1+OcPl3: кундасаськ
-     кундамс+V+TV+Ind+Prs+ScPl2+OcPl3: кундасасьт
+     кундамс+V+TV+Ind+Prs+ScPl2+OcPl3: кундасасть
      кундамс+V+TV+Ind+Prs+ScPl3+OcPl3: кундасазь
 #
      кундамс+V+TV+Ind+Prt1+ScSg2+OcSg1: кундамайть
@@ -95,7 +95,7 @@ Tests:
      кундамс+V+TV+Ind+Prt1+ScSg2+OcSg3: кундайть
      кундамс+V+TV+Ind+Prt1+ScSg3+OcSg3: кундазе
      кундамс+V+TV+Ind+Prt1+ScPl1+OcSg3: кундаськ
-     кундамс+V+TV+Ind+Prt1+ScPl2+OcSg3: кундасьт
+     кундамс+V+TV+Ind+Prt1+ScPl2+OcSg3: кундасть
      кундамс+V+TV+Ind+Prt1+ScPl3+OcSg3: кундазь
 #
      кундамс+V+TV+Ind+Prt1+ScSg2+OcPl1: кундамасть
@@ -112,7 +112,7 @@ Tests:
      кундамс+V+TV+Ind+Prt1+ScSg2+OcPl3: кундайть
      кундамс+V+TV+Ind+Prt1+ScSg3+OcPl3: кундазень
      кундамс+V+TV+Ind+Prt1+ScPl1+OcPl3: кундаськ
-     кундамс+V+TV+Ind+Prt1+ScPl2+OcPl3: кундасьт
+     кундамс+V+TV+Ind+Prt1+ScPl2+OcPl3: кундасть
      кундамс+V+TV+Ind+Prt1+ScPl3+OcPl3: кундазь
 #
      кундамс+V+TV+Ind+Prt2+ScSg2+OcSg1: кундалемайть
@@ -129,7 +129,7 @@ Tests:
      кундамс+V+TV+Ind+Prt2+ScSg2+OcSg3: кундалить
      кундамс+V+TV+Ind+Prt2+ScSg3+OcSg3: кундалезе
      кундамс+V+TV+Ind+Prt2+ScPl1+OcSg3: кундалеськ
-     кундамс+V+TV+Ind+Prt2+ScPl2+OcSg3: кундалесьт
+     кундамс+V+TV+Ind+Prt2+ScPl2+OcSg3: кундалесть
      кундамс+V+TV+Ind+Prt2+ScPl3+OcSg3: кундалезь
 #
      кундамс+V+TV+Ind+Prt2+ScSg2+OcPl1: кундалемасть
@@ -146,7 +146,7 @@ Tests:
      кундамс+V+TV+Ind+Prt2+ScSg2+OcPl3: кундалить
      кундамс+V+TV+Ind+Prt2+ScSg3+OcPl3: кундалезень
      кундамс+V+TV+Ind+Prt2+ScPl1+OcPl3: кундалеськ
-     кундамс+V+TV+Ind+Prt2+ScPl2+OcPl3: кундалесьт
+     кундамс+V+TV+Ind+Prt2+ScPl2+OcPl3: кундалесть
      кундамс+V+TV+Ind+Prt2+ScPl3+OcPl3: кундалезь
 #
      кундамс+V+TV+Imprt+ScSg2: кундак
@@ -171,7 +171,7 @@ Tests:
      кундамс+V+TV+Cond+ScSg2+OcSg3: кундандярясак
      кундамс+V+TV+Cond+ScSg3+OcSg3: кундандярясы
      кундамс+V+TV+Cond+ScPl1+OcSg3: кундандярясаськ
-     кундамс+V+TV+Cond+ScPl2+OcSg3: кундандярясасьт
+     кундамс+V+TV+Cond+ScPl2+OcSg3: кундандярясасть
      кундамс+V+TV+Cond+ScPl3+OcSg3: кундандярясазь
 #
      кундамс+V+TV+Cond+ScSg2+OcPl1: кундандярясамасть
@@ -188,7 +188,7 @@ Tests:
      кундамс+V+TV+Cond+ScSg2+OcPl3: кундандярясайть
      кундамс+V+TV+Cond+ScSg3+OcPl3: кундандярясыне
      кундамс+V+TV+Cond+ScPl1+OcPl3: кундандярясаськ
-     кундамс+V+TV+Cond+ScPl2+OcPl3: кундандярясасьт
+     кундамс+V+TV+Cond+ScPl2+OcPl3: кундандярясасть
      кундамс+V+TV+Cond+ScPl3+OcPl3: кундандярясазь
 #
      кундамс+V+TV+Conj+ScSg2+OcSg1: кундалемайть
@@ -205,7 +205,7 @@ Tests:
      кундамс+V+TV+Conj+ScSg2+OcSg3: кундалить
      кундамс+V+TV+Conj+ScSg3+OcSg3: кундалезе
      кундамс+V+TV+Conj+ScPl1+OcSg3: кундалеськ
-     кундамс+V+TV+Conj+ScPl2+OcSg3: кундалесьт
+     кундамс+V+TV+Conj+ScPl2+OcSg3: кундалесть
      кундамс+V+TV+Conj+ScPl3+OcSg3: кундалезь
 #
      кундамс+V+TV+Conj+ScSg2+OcPl1: кундалемасть
@@ -222,7 +222,7 @@ Tests:
      кундамс+V+TV+Conj+ScSg2+OcPl3: кундалить
      кундамс+V+TV+Conj+ScSg3+OcPl3: кундалезень
      кундамс+V+TV+Conj+ScPl1+OcPl3: кундалеськ
-     кундамс+V+TV+Conj+ScPl2+OcPl3: кундалесьт
+     кундамс+V+TV+Conj+ScPl2+OcPl3: кундалесть
      кундамс+V+TV+Conj+ScPl3+OcPl3: кундалезь
 #
 
@@ -240,7 +240,7 @@ Tests:
      кундамс+V+TV+Cond+Conj+ScSg2+OcSg3: кундандярялить
      кундамс+V+TV+Cond+Conj+ScSg3+OcSg3: кундандярялезе
      кундамс+V+TV+Cond+Conj+ScPl1+OcSg3: кундандярялеськ
-     кундамс+V+TV+Cond+Conj+ScPl2+OcSg3: кундандярялесьт
+     кундамс+V+TV+Cond+Conj+ScPl2+OcSg3: кундандярялесть
      кундамс+V+TV+Cond+Conj+ScPl3+OcSg3: кундандярялезь
 #
      кундамс+V+TV+Cond+Conj+ScSg2+OcPl1: кундандярялемасть
@@ -257,7 +257,7 @@ Tests:
      кундамс+V+TV+Cond+Conj+ScSg2+OcPl3: кундандярялить
      кундамс+V+TV+Cond+Conj+ScSg3+OcPl3: кундандярялезень
      кундамс+V+TV+Cond+Conj+ScPl1+OcPl3: кундандярялеськ
-     кундамс+V+TV+Cond+Conj+ScPl2+OcPl3: кундандярялесьт
+     кундамс+V+TV+Cond+Conj+ScPl2+OcPl3: кундандярялесть
      кундамс+V+TV+Cond+Conj+ScPl3+OcPl3: кундандярялезь
 #
      кундамс+V+TV+Des+ScSg2+OcSg1: кундалексолемайть
@@ -274,7 +274,7 @@ Tests:
      кундамс+V+TV+Des+ScSg2+OcSg3: кундалексолить
      кундамс+V+TV+Des+ScSg3+OcSg3: кундалексолезе
      кундамс+V+TV+Des+ScPl1+OcSg3: кундалексолеськ
-     кундамс+V+TV+Des+ScPl2+OcSg3: кундалексолесьт
+     кундамс+V+TV+Des+ScPl2+OcSg3: кундалексолесть
      кундамс+V+TV+Des+ScPl3+OcSg3: кундалексолезь
 #
      кундамс+V+TV+Des+ScSg2+OcPl1: кундалексолемасть
@@ -291,6 +291,6 @@ Tests:
      кундамс+V+TV+Des+ScSg2+OcPl3: кундалексолить
      кундамс+V+TV+Des+ScSg3+OcPl3: кундалексолезень
      кундамс+V+TV+Des+ScPl1+OcPl3: кундалексолеськ
-     кундамс+V+TV+Des+ScPl2+OcPl3: кундалексолесьт
+     кундамс+V+TV+Des+ScPl2+OcPl3: кундалексолесть
      кундамс+V+TV+Des+ScPl3+OcPl3: кундалексолезь
 #
