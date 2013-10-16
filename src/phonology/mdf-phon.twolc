@@ -21,13 +21,14 @@ Alphabet
 !Suffix final variant vowel for hard vs soft
 !Ь2:ь !
 Ь2:0 !
-
-! verbal stem consonant that appear in PretI 3sg
+ %{Ь%0%}:0	!!= @CODE@ after imperative Sg2
+! verbal stem consonant that appear in PretI Sg3
 !Т1:0 !
 
 ! derivational suffix protovowel with "o" and "a" 
 !realisation  in deverbal noun ending
 А1:а !
+
 
 ! conjugational suffix protovowels 
 !showing "a" vs "я" and "ы" vs "и" alternation
@@ -54,6 +55,7 @@ Alphabet
 ! devoicing
 Х1:х
 !Х1:0
+ %{Х%}:0	!!= @CODE@ This usually precedes the plural marker
 
 ! clitic proto consonant
 Г1:г !
@@ -82,6 +84,7 @@ Alphabet
 К1:к !
 !К1:т 
 !
+%{КТ%}:0	!!= @CODE@ used in imperative and connegative
 
 ! connegative suffix rendering vowel
 ! панемс пань>О1К3 : пан00е0
@@ -205,7 +208,7 @@ Rules
 
 "%{ИЫЙ%}:j"
 !! __@RULENAME@__  
-%{ИЫЙ%}:й <=> [ я | е | а | о ]  %>: _ [ # | » | %> в о к | %> х т [ ь | е ] | н е | т ь ] ;
+%{ИЫЙ%}:й <=> [ я | е | а | о ]  %>: _ [ # | » | %> в о к | %> х т  ь | х т е | н е | т ь ] ;
 
 "%{ИЫЙ%}:ы"
 !! __@RULENAME@__
@@ -264,13 +267,17 @@ Rules
 
 "%{АЯ%}:ya"
 !! __@RULENAME@__
-%{АЯ%}:я <=>     CnsDent [ я:0 | е:0 | ь ] %>:  _  [ т | н ] ;
+%{АЯ%}:я <=>     CnsDent: [ я:0 | е:0 | ь: ] %>:  _  [ т | н ] ;
 !€ пань>%{АЯ%}н
-!€ пан00ан
+!€ пан00ян
+   [ ь: | е ] %>: %{Х%}: т _ [ д | м | н ] ;
+!€ пань>%{Х%}т%{АЯ%}ма
+!€ пан000тяма
+
 
 "%{АЯ%}:a"
 !! __@RULENAME@__  
-%{АЯ%}:а <=> [ :BTV | LBC ] %>:  т  _  [ д | н | м ] ;
+%{АЯ%}:а <=> [ :BTV | LBC | CnsDent: ] %>:  %{Х%}: т  _  [ д | н | м ] ;
     [ CnsDent | CnsNonDent ] ( а:0 | о:0 ) %>:  _  [ т | н ] ;
 !!2013-10-16!         [CnsDent ( э:0 | ы:0 | О1:0 | а:0 | о:0 | у:0 )|  в: т О1: м  О1:0 | CnsNonDent ( Vows:0 | И2:0 ) | У2:0 | [ LBC ( :BTV ) %>:  |  О1:о ]  ((н) т Ь2:0 | н Ь2: )  ] %>:  _  [ т | н | м ] ;
 !€ канд>%{АЯ%}н
@@ -306,17 +313,17 @@ Rules
 
 
 !!! Consonant changes
-"Х1:0 after vowel"
+"Х1 %{Х%}:0 after vowel"
 !! __@RULENAME@__  
-Х1:0 <=> [ Vows | н: ( ь: ) | д: ( ь: ) ] %>: _ ;
+%{Х%}:0 <=> [ Vows | н: ( ь: ) | д: ( ь: ) ] %>: _ ;
 
 "н:т окун"
 !! __@RULENAME@__  
-н:т <=> _  ( ь: ) %>: Х1: т  ;
+н:т <=> _  ( ь: ) %>: %{Х%}: [ т | %{КТ%}: ]  ;
 
 "с:ц ломань:ломанць"
 !! __@RULENAME@__  
-с:ц <=> н ( ь: ) %> _ [ ь | ( т ) О1: | н | %> | # ] ;
+с:ц <=> н ( ь: ) %> _ [ ь | а | ы | ( т ) О1: | н | %> | # ] ;
 
 !Changes in suffix consonants
 "v:0"
@@ -379,19 +386,27 @@ Rules
 
 
 
-!! imperative suffix
-"K1:t"
+!! !imperative suffix
+"К1 %{КТ%}:t"
 !! __@RULENAME@__  
-К1:т <=>  [ Cns ( ь: ) ] %>: _  ;
+ %{КТ%}:т <=>  [ н: | д: ] ( ь: ) %>: %{Х%}: _  ;
+!€ канд>%{Х%}%{КТ%}%{Ь%0%}
+!€ кант00т0
+!€ пань>%{Х%}%{КТ%}%{Ь%0%}
+!€ пат000ть
 
-
+"К1 %{КТ%}:к"
+!! __@RULENAME@__  
+ %{КТ%}:к <=>  [ Vows ] %>: %{Х%}: _  ;! %> %{Х%}: [ т | %{КТ%}: ] 
+!€ кунда>%{Х%}%{КТ%}%{Ь%0%}
+!€ кунда00к0
 
 ! Suffix final hard vs soft
 !Adding "И2:0" 18.04.2007
-"U4:y"
+"%{Ь%0%}:ь"
 !! __@RULENAME@__  
-Ь2:ь <=>  ь: %> Х1: т _ ;
-[[[ LFCS | :FTV | ь: ] %>: | О1: ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
+%{Ь%0%}:ь <=>  ь: %> %{Х%}: [ т | %{КТ%}: ] _ ;
+![[[ LFCS | :FTV | ь: ] %>: | О1: ] [ н | ( н | в ) т ] | И2:0 %>: VLoss:0 т | [ LFCS | ь: | :FTV ] %>: К1:т ]  _  [ #: | %- | %>:  Г1: ] ;
 
 
 !! Plural before definite plural following a consonant
@@ -415,9 +430,11 @@ Rules
 д:т  <=> [ CnsVoiceless | д | г] (ь:0)  %>: _ [ О1: ] ;
          т [ У2:0 | И2:0 ] %>: VLoss:0 _ [ О1: ] ;
 !"д:т од:оттне definite plural"
-          _ %>: [ Х1: т н е | т я | т а | к ];
-!€ канд%>тя
-!€ кант0тя
+          _ %>: [ %{Х%}: [ т н е | т я | т %{АЯ%}: | %{КТ%}: ] | к ];
+!€ канд%>%{Х%}тя
+!€ кант00тя
+!€ канд>%{Х%}%{КТ%}%{Ь%0%}
+!€ кант00т0
 
 
 
@@ -426,9 +443,9 @@ Rules
 
 "y:0"
 !! __@RULENAME@__  
-ь:0 <=>   [ н: | д: | т ] _ %> Х1: т ; !! plural
-        CnsDent  _  %>: [ %{АЯ%}:я | %{ИЫЙ%}:и | О1: [ ( %>: ) SIVV | К3:0 | #: | %- | %>: [ Г1:0 | д О1: ] ] ];
-              CnsDentNoL _ %>: [ф т О1: м [ О1: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
+ь:0 <=>   [ н: | д: | т ] _ %> %{Х%}: [ т | %{КТ%}: ] ; !! plural
+        CnsDent:  _  %>: [ %{АЯ%}: | %{ИЫЙ%}: | %{ОЕ%0%}: ] ;
+        CnsDentNoL _ %>: [ф т %{ОЕ%0%}: м [ %{ОЕ%0%}: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
 
 
 
