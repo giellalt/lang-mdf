@@ -99,6 +99,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 DES-ALL     	;
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
+	 INF_ОМ		;
 
 !! !INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 LEXICON VERB-ZERO-ALL
@@ -393,7 +394,7 @@ LEXICON VERB-ZERO-56
 +ScPl2+OcPl30000@U.CONJ-PX.56@:%>састь@U.CONJ-PX.56@ VerbEnd ;
 
 LEXICON VERB-ZERO-60
-+ScPl30000@U.CONJ-PX.3%0@:%>%{ИЫЙ%}%>хть@U.CONJ-PX.3%0@ VerbEnd ;
++ScPl30000@U.CONJ-PX.3%0@:%>%{ИЫЙ%}хть@U.CONJ-PX.3%0@ VerbEnd ;
 
 LEXICON VERB-ZERO-61
 +ScPl3+OcSg100000@U.CONJ-PX.61@:%>самазь@U.CONJ-PX.61@ VerbEnd ;
@@ -1068,7 +1069,12 @@ LEXICON VerbEnd
 
 !! end of MYV BORROWING
 
+!!!!!!!!!!!!!!!!
+!! NON-FINITES 
+!!!!!!!!!!!!!!!!
 
+LEXICON INF_ОМ
++Inf+Ill:%>%{ОЕ%0%}мс K ;
 
 
 !!!!!!!!!!!
