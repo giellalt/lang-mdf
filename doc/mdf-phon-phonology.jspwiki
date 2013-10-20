@@ -7,6 +7,17 @@ The Moksha morphophonological/twolc rules file
 
 
 
+  %{Ь%0%}:0	 after imperative Sg2
+
+
+
+  %{АЯ%}:я  А2 in панемс:панян
+  %{ИЫЙ%}:0	 phasing out Ы2, eg кундамс:кундай, панемс:пани, кандомс:канды
+
+  %{ОЕ%0%}:0	 for morphemes requiring a preceding vowel
+
+
+  %{Х%}:0	 This usually precedes the plural marker
 
 
 
@@ -17,18 +28,16 @@ The Moksha morphophonological/twolc rules file
 
 
 
+ %{КТ%}:0	 used in imperative and connegative
 
 
 
 
 
 
-
-
-
-
-
-
+  %>  conjugation/declension morpheme boundary suffix
+  »  derivation morpheme boundary suffix
+  #  word boundary 
 
 
 
@@ -53,6 +62,7 @@ The Moksha morphophonological/twolc rules file
 
 
 __verbStemVowStrong:0__  
+                  Cns  _ К4:0 %>:  %{ИЫЙ%}: ;
 
 
 
@@ -60,7 +70,25 @@ __verbStemVowStrong:0__
 
 __A1:o__  
 
-__Y2:yi__  
+__A1:o__  
+
+__%{ИЫЙ%}:j__  
+
+__%{ИЫЙ%}:ы__
+
+__%{ИЫЙ%}:и__
+
+__%{ОЕ%0%}:о__
+
+__%{ОЕ%0%}:е__
+
+__%{ОЕ%0%}:0__
+
+__0:j__  
+
+__е:0__
+
+
 
 __O1:a__  
 
@@ -77,8 +105,10 @@ __O2:е__
 
 
 
+__%{АЯ%}:ya__
 
-__A2:a__  
+
+__%{АЯ%}:a__  
 
 
 
@@ -95,7 +125,7 @@ __a:ya__
 
 
 Consonant changes
-__Х1:0 after vowel__  
+__Х1 %{Х%}:0 after vowel__  
 
 __н:т окун__  
 
@@ -127,12 +157,12 @@ __m:0__
 
 
 
-imperative suffix
-__K1:t__  
+!imperative suffix
+__К1 %{КТ%}:t__  
 
+__К1 %{КТ%}:к__  
 
-
-__U4:y__  
+__%{Ь%0%}:ь__  
 
 
 Plural before definite plural following a consonant
@@ -144,6 +174,8 @@ __s:0__
 
 
 __d:t__  
+
+__г:к__
 
 
 
