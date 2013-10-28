@@ -7,13 +7,16 @@
 !! NUMBERS 
 !!!!!!!!!!!
 
-LEXICON NumTag
+LEXICON QNT_
++Qnt+TYÄ: K ;
+
+LEXICON NUM_
 +Num+TYÄ: K ;
 
-LEXICON NumCard
+LEXICON NUM-CARD_
 +Num+Card+TYÄ: K ;
 
-LEXICON NumOrd
+LEXICON NUM-ORD_
 +Num+Ord+TYÄ: K ;
 
 

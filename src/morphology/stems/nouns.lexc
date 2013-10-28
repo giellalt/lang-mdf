@@ -9,7 +9,7 @@ LEXICON nouns
 абхаз:абхаз N_ОШ  "" ;
 абхазецт:абхазец N_ОШ-PL  "" ;
 абхаст:абхас N_ОШ-PL  "" ;
-ава:ава N_АВА  "1. nainen, vaimo. 2. äiti; anoppi. 4. naaras. 5. (myt.) haltija, henki(olento)" ;
+ава:ава N_АВА  "nainen, vaimo" ;
 ававрьгаз:ававрьгаз N_ОШ  "naarassusi" ;
 авака:авака N_АВА  "naaras" ;
 авакспинге:авакспинг N_ПИНГЕ  "avioliitto, naimisissaolo" ;
@@ -124,7 +124,7 @@ LEXICON nouns
 акшу:акшу NTag  "" ;
 акшу(кс):акшу(кс) NTag  "haapa (Populus tremula)" ;
 акшукс:акшукс N_ОШ  "" ;
-ал:ал N_КАЛ  "1. muna. 2. munasolu. 3. kivekset" ;
+ал:ал N_КАЛ  "muna" ;
 ал:ал N_КАЛ  "alaosa, alusta, jonkin alla oleva paikka; pesä" ;
 ала:ала NTag  "1. alla. 2. alhaalla (oleva), ala-" ;
 алаба:алаба NTag  "(murt.) munakori" ;
@@ -884,6 +884,7 @@ LEXICON nouns
 взятка:взятка NTag  "" ;
 взяточник:взяточник N_КАЛ  "" ;
 вид:вид N_КАЛ  "" ;
+виде:виде AdjTag  "totuus" ;
 видема:видема NTag  "1. kylvö, kylväminen. 2. kylvökone" ;
 видембяль:видембяль N_КАЛ  "siemenvilja" ;
 видемома:видемома NTag  "" ;
@@ -920,7 +921,7 @@ LEXICON nouns
 виредема:виредема NTag  "" ;
 виреня:виреня NTag  "" ;
 вирняй:вирняй N_КАЛ  "(murt.) urpu, norkko" ;
-вирь:вирь N_КАЛ  "1. metsä. 2. tukki(puu)" ;
+вирь:вирь N_КАЛ  "metsä" ;
 вирьбука:вирьбука NTag  "turilas (Melolontha)" ;
 вирьбула:вирьбула NTag  "metsänreuna" ;
 вирьмаци:вирьмаци NTag  "villihanhi" ;
@@ -1762,7 +1763,7 @@ LEXICON nouns
 именина:именина NTag  "" ;
 именинник:именинник N_КАЛ  "" ;
 имения:имения N_АВА  "" ;
-имож:имож NTag  "1. marja. 2. hedelmä" ;
+имож:имож NTag  "marja" ;
 имоть:имоть NTag  "" ;
 имущества:имущества NTag  "" ;
 инголдама:инголдама NTag  "" ;
@@ -1958,6 +1959,7 @@ LEXICON nouns
 каль:каль N_КАЛ  "paju (Salix)" ;
 кальдердема:кальдердема NTag  "helistin" ;
 кальдерьф:кальдерьф N_КАЛ  "helinä, kilinä; soitto" ;
+кальдяв:кальдяв AdjTag  "suru, murhe, onnettomuus, hätä, pula" ;
 кальдявгодома:кальдявгодома NTag  "huonontuminen, pahentuminen" ;
 кальдявкст:кальдявкс N_ОШ-PL  "(mon.) vastoinkäymiset, vastukset, kova onni" ;
 кальнал:кальнал N_КАЛ  "pajukko" ;
@@ -2222,7 +2224,7 @@ LEXICON nouns
 келунал:келунал N_КАЛ  "koivikko" ;
 келупанга:келупанг N_ПАНГА  "lehmäntatti (Boletus bovinus)" ;
 кельгома:кельгома NTag  "rakkaus; rakas, rakastettu" ;
-кельме:кельме N_  "kylmä; pakkanen" ;
+кельме:кельме N_  "pakkanen" ;
 кельмовай:кельмовай N_КАЛ  "ihra, sisälmysrasva" ;
 кельмома:кельмома NTag  "vilustuminen, kylmettyminen" ;
 кемама:кемама NTag  "usko, luottamus" ;
@@ -2243,7 +2245,7 @@ LEXICON nouns
 кенерь:кенерь N_КАЛ  "1. kyynärpää. 2. kyynärä" ;
 кенжал:кенжал N_КАЛ  "kynnenalunen" ;
 кенжафкс:кенжафкс N_ОШ  "kynsinauha" ;
-кенже:кенж N_ПИНГЕ  "1. kynsi. 2. kavio, sorkka" ;
+кенже:кенж N_ПИНГЕ  "kynsi" ;
 кенкш:кенкш N_ОШ  "ovi" ;
 кенкшкундама:кенкшкундама NTag  "ovenkahva" ;
 кенкшланга:кенкшланга NTag  "eteinen" ;
@@ -2290,7 +2292,7 @@ LEXICON nouns
 ки:ки NTag  "tie, matka, reitti; jälki" ;
 ки:ки NTag  "koi(perhonen) (Tineidae)" ;
 киви:киви NTag  "1. lyijy, tina, valkometalli. 2. naisen puvun punainen, alin helma" ;
-киза:киз N_ПУЛА  "1. vuosi. 2. kesä" ;
+киза:киз N_ПУЛА  "vuosi" ;
 кизефкс:кизефкс N_ОШ  "kysymys" ;
 кизефнема:кизефнема NTag  "kysely, kuulustelu" ;
 кизик:кизик N_КАЛ  "polttolanta" ;
@@ -2819,7 +2821,7 @@ LEXICON nouns
 кълтадема:кълтадема NTag  "" ;
 кълштыема:кълштыема NTag  "" ;
 кълят-мълят:кълят-мълят N_КАЛ  "" ;
-кърга:кърга NTag  "" ;
+кърга:кърга NTag  "kaula" ;
 къргавкскя:къргавкскя N_АВА  "" ;
 къргакс:къргакс N_ОШ  "" ;
 къргакскя:къргакскя N_АВА  "" ;
@@ -3231,7 +3233,7 @@ LEXICON nouns
 лякстомома:лякстомома NTag  "" ;
 лякшаня:лякшаня N_АВА  "" ;
 лям:лям N_КАЛ  "keitto, liemi" ;
-лямбе:лямбе N_  "1. lämmin. 2. lämpö" ;
+лямбе:лямбе N_  "lämpö" ;
 лямболгодома:лямболгодома NTag  "suoja(sää)" ;
 лямцяра:лямцяра NTag  "syvä lautanen, keittolautanen, kulho" ;
 ляпа:ляпа NTag  "" ;
@@ -3712,7 +3714,7 @@ LEXICON nouns
 нация:нация N_АВА  "" ;
 начальник:начальник N_КАЛ  "päällikkö" ;
 начин:начин N_КАЛ  "" ;
-начка:начка NTag  "1. märkä, kostea. 2. märkyys, kosteus" ;
+начка:начка NTag  "märkyys, kosteus" ;
 начказа:начказа NTag  "kostea" ;
 начкома:начкома NTag  "" ;
 начёс:начёс N_ОШ  "" ;
@@ -3992,7 +3994,7 @@ LEXICON nouns
 орга:орга NTag  "hiiva" ;
 оргат:оргат N_КАЛ  "(mon.) hiiva" ;
 ордадома:ордадома NTag  "oikku" ;
-оржа:оржа NTag  "1. terävä. 2. terä" ;
+оржа:оржа NTag  "terä" ;
 оржаши:оржаши N_АВА  "terävyys" ;
 орта:орта NTag  "1. portti, veräjä. 2. aita" ;
 ортал:ортал N_КАЛ  "portinalus(lauta)" ;
@@ -4182,7 +4184,7 @@ LEXICON nouns
 папуас:папуас N_ОШ  "" ;
 папуаст:папуаст N_КАЛ  "" ;
 пар:пар N_КАЛ  "pari" ;
-пара:пара N_АВА  "1. hyvä. 2. omaisuus" ;
+пара:пара N_АВА  "omaisuus" ;
 парга:парга NTag  "tuohirove, tuokkonen" ;
 парна:парна NTag  "vuoden ikäinen orivarsa" ;
 парондома:парондома NTag  "hyväntekeväisyys, armeliaisuus" ;
@@ -4978,7 +4980,7 @@ LEXICON nouns
 ракетка:ракетка NTag  "" ;
 ракетчик:ракетчик N_КАЛ  "" ;
 раксема:раксема NTag  "" ;
-ракша:ракша NTag  "hevonen, eläin" ;
+ракша:ракша NTag  "hevonen" ;
 рама:рама NTag  "kehys, raami" ;
 рамама:рамама NTag  "ostos" ;
 рамка:рамка NTag  "" ;
@@ -6456,7 +6458,7 @@ LEXICON nouns
 тяфносема:тяфносема NTag  "" ;
 тяшкс:тяшкс N_ОШ  "merkki, merkintä" ;
 тяшнема:тяшнема NTag  "" ;
-тяште:тяшть N_ПИНГЕ  "1. tähti. 2. merkki" ;
+тяште:тяшть N_ПИНГЕ  "tähti" ;
 тяшти:тяшти NTag  "" ;
 тяштькс:тяштькс N_ОШ  "" ;
 тяштяльме:тяштяльме N_  "korsirehu" ;
@@ -7631,7 +7633,7 @@ LEXICON nouns
 юпадема:юпадема NTag  "vilahdus" ;
 юпиема:юпиема NTag  "" ;
 юпштыема:юпштыема NTag  "" ;
-юр:юр N_КАЛ  "1. juuri. 2. taimi" ;
+юр:юр N_КАЛ  "juuri" ;
 юром:юром N_КАЛ  "suku, sukujuuri" ;
 юроньбула:юроньбула NTag  "korte (Equisetum)" ;
 юрсюролда:юрсюролда N_АВА  "juurisäie" ;
@@ -7671,6 +7673,7 @@ LEXICON nouns
 якут:якут N_КАЛ  "" ;
 якутт:якут N_КАЛ-PL  "" ;
 якшам:якшам N_КАЛ  "kylmä, kylmyys" ;
+якшама:якшама AdjTag  "kylmyys, pakkanen" ;
 ялакс:ялакс N_ОШ  "" ;
 ялга:ялга NTag  "ystävä; toveri" ;
 ялгаксши:ялгаксши N_АВА  "ystävyys" ;
