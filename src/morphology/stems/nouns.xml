@@ -215,8 +215,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. nainen, vaimo. 2. äiti; anoppi. 4. naaras. 5. (myt.) haltija,
-        henki(olento)</t>
+        <t>nainen, vaimo</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">femme</t>
       </tg>
 
       <xg>
@@ -226,6 +229,16 @@
 
         <xt xml:lang="fin">minkä paikan naisia olet?</xt>
       </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>äiti; anoppi. 4. naaras. 5. (myt.) haltija, henki(olento)</t>
+      </tg>
     </mg>
   </e>
 
@@ -418,7 +431,6 @@
       <tg xml:lang="fin">
         <t>ennakko (maksu)</t>
       </tg>
-
     </mg>
   </e>
 
@@ -2884,7 +2896,6 @@
       <tg xml:lang="fin">
         <t>karvarousku (Lactarius torminosus)</t>
       </tg>
-
     </mg>
   </e>
 
@@ -3054,7 +3065,6 @@
       <tg xml:lang="fin">
         <t>hopearaha</t>
       </tg>
-
     </mg>
   </e>
 
@@ -3317,7 +3327,25 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. muna. 2. munasolu. 3. kivekset</t>
+        <t>muna</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">œuf</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>2. munasolu. 3. kivekset</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">œuf</t>
       </tg>
     </mg>
   </e>
@@ -3591,7 +3619,6 @@
       <tg xml:lang="fin">
         <t>aluspaita</t>
       </tg>
-
     </mg>
   </e>
 
@@ -4009,6 +4036,38 @@
       <tg xml:lang="fin">
         <t>1. mies. 2. isä. 3. ihminen. 4. urho</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">homme</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>isä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">père</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>ihminen. 4. urho</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">homme</t>
+      </tg>
     </mg>
   </e>
 
@@ -4129,7 +4188,6 @@
       <tg xml:lang="fin">
         <t>orpo</t>
       </tg>
-
     </mg>
   </e>
 
@@ -4874,7 +4932,6 @@
       <tg xml:lang="fin">
         <t>lomake</t>
       </tg>
-
     </mg>
   </e>
 
@@ -5473,7 +5530,6 @@
       <tg xml:lang="fin">
         <t>huhtikuu</t>
       </tg>
-
     </mg>
   </e>
 
@@ -5642,7 +5698,6 @@
       <tg xml:lang="fin">
         <t>suojaus, puolustus</t>
       </tg>
-
     </mg>
   </e>
 
@@ -8036,7 +8091,6 @@
       <tg xml:lang="fin">
         <t>kukko</t>
       </tg>
-
     </mg>
   </e>
 
@@ -9619,7 +9673,6 @@
       <tg xml:lang="fin">
         <t>keppi</t>
       </tg>
-
     </mg>
   </e>
 
@@ -10060,8 +10113,6 @@
       <tg xml:lang="fin">
         <t>sauna</t>
       </tg>
-
-
     </mg>
   </e>
 
@@ -12430,7 +12481,6 @@
       <tg xml:lang="fin">
         <t>side</t>
       </tg>
-
     </mg>
   </e>
 
@@ -13495,7 +13545,6 @@
       <tg xml:lang="fin">
         <t>sivu, syrjä, kylki, puoli</t>
       </tg>
-
     </mg>
   </e>
 
@@ -13544,7 +13593,6 @@
       <tg xml:lang="fin">
         <t>kylki, sivu</t>
       </tg>
-
     </mg>
   </e>
 
@@ -14033,7 +14081,6 @@
       <tg xml:lang="fin">
         <t>vako, uurre</t>
       </tg>
-
     </mg>
   </e>
 
@@ -14618,7 +14665,6 @@
       <tg xml:lang="fin">
         <t>veli</t>
       </tg>
-
     </mg>
   </e>
 
@@ -14667,7 +14713,6 @@
       <tg xml:lang="fin">
         <t>nuotta</t>
       </tg>
-
     </mg>
   </e>
 
@@ -17230,7 +17275,6 @@
         <t>myssy; (turkis)lakki, karvalakki</t>
       </tg>
 
-
       <xg>
         <x>вазьфтома</x>
 
@@ -17303,7 +17347,6 @@
         <xt xml:lang="fin">voisula.</xt>
       </xg>
 
-
       <xg>
         <x>ваень салай</x>
 
@@ -17367,7 +17410,6 @@
 
         <xt xml:lang="fin">basso; matala ääni.</xt>
       </xg>
-
 
       <xg>
         <x>вайгяленди права</x>
@@ -17569,7 +17611,6 @@
 
         <xt xml:lang="fin">halunsa mukaan, miten miellyttää.</xt>
       </xg>
-
 
       <xg>
         <x>ваймоса-мяльса</x>
@@ -17882,7 +17923,6 @@
       <tg xml:lang="fin">
         <t>(heinä)kasa, suova, auma</t>
       </tg>
-
     </mg>
   </e>
 
@@ -18596,7 +18636,6 @@
       <tg xml:lang="fin">
         <t>kylpyamme</t>
       </tg>
-
     </mg>
   </e>
 
@@ -19148,6 +19187,10 @@
 
       <tg xml:lang="fin">
         <t>tuuli</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">vent</t>
       </tg>
 
       <xg>
@@ -21022,6 +21065,10 @@
         <t>yö</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">nuit</t>
+      </tg>
+
       <xg>
         <x>ве-вешка</x>
 
@@ -21220,6 +21267,10 @@
 
       <tg xml:lang="fin">
         <t>vesi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">eau</t>
       </tg>
 
       <xg>
@@ -22380,7 +22431,6 @@
       <tg xml:lang="fin">
         <t>vene</t>
       </tg>
-
     </mg>
   </e>
 
@@ -22404,6 +22454,10 @@
 
       <tg xml:lang="fin">
         <t>veri</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">sang</t>
       </tg>
 
       <xg>
@@ -23098,6 +23152,46 @@
 
   <e>
     <lg>
+      <l pos="A">виде</l>
+
+      <stg>
+        <st Contlex="AdjTag">виде</st>
+      </stg>
+    </lg>
+
+    <pos>A</pos>
+
+    <phonet>viďä</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>totuus</t>
+      </tg>
+
+      <xg>
+        <x>видеце</x>
+
+        <phonet>viďəćä</phonet>
+
+        <xt xml:lang="fin">olet oikeassa.</xt>
+      </xg>
+
+      <xg>
+        <x>виденц азомс</x>
+
+        <phonet>viďənc azəms</phonet>
+
+        <xt xml:lang="fin">puhua totta.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">видема</l>
 
       <stg>
@@ -23340,6 +23434,10 @@
 
       <tg xml:lang="fin">
         <t>siemen, jyvä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">graine</t>
       </tg>
 
       <xg>
@@ -24139,7 +24237,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. metsä. 2. tukki(puu)</t>
+        <t>metsä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">forêt</t>
       </tg>
 
       <xg>
@@ -24159,14 +24261,6 @@
       </xg>
 
       <xg>
-        <x>аноклаф вирь</x>
-
-        <phonet>anəklaf viŕ</phonet>
-
-        <xt xml:lang="fin">tukkipino.</xt>
-      </xg>
-
-      <xg>
         <x>вирьс/вири</x>
 
         <phonet>viŕs/ viŕi</phonet>
@@ -24180,6 +24274,24 @@
         <phonet>viŕgä-šäjgä</phonet>
 
         <xt xml:lang="fin">metsissä ja soilla.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>tukki(puu)</t>
+      </tg>
+
+      <xg>
+        <x>аноклаф вирь</x>
+
+        <phonet>anəklaf viŕ</phonet>
+
+        <xt xml:lang="fin">tukkipino</xt>
       </xg>
     </mg>
   </e>
@@ -27117,7 +27229,6 @@
       <tg xml:lang="fin">
         <t>1. riimu; ohjas. 2. naru, nuora</t>
       </tg>
-
     </mg>
   </e>
 
@@ -31740,7 +31851,6 @@
       <tg xml:lang="fin">
         <t>influenssa, flunssa</t>
       </tg>
-
     </mg>
   </e>
 
@@ -31981,7 +32091,6 @@
       <tg xml:lang="fin">
         <t>ryhmä</t>
       </tg>
-
     </mg>
   </e>
 
@@ -37422,7 +37531,6 @@
       <tg xml:lang="fin">
         <t>ajatus, miete, tuuma</t>
       </tg>
-
     </mg>
   </e>
 
@@ -38535,7 +38643,6 @@
       <tg xml:lang="fin">
         <t>valitus</t>
       </tg>
-
     </mg>
   </e>
 
@@ -41304,7 +41411,6 @@
       <tg xml:lang="fin">
         <t>sarastus, koitto; hämärä</t>
       </tg>
-
     </mg>
   </e>
 
@@ -41769,7 +41875,6 @@
 
         <xt xml:lang="fin">metsästäjä, metsämies.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -41794,7 +41899,6 @@
       <tg xml:lang="fin">
         <t>1. (soitto)kello. 2. puhelu, soitto</t>
       </tg>
-
     </mg>
   </e>
 
@@ -42283,7 +42387,6 @@
       <tg xml:lang="fin">
         <t>vahinko</t>
       </tg>
-
     </mg>
   </e>
 
@@ -44604,7 +44707,6 @@
       <tg xml:lang="fin">
         <t>mäti</t>
       </tg>
-
     </mg>
   </e>
 
@@ -45091,7 +45193,25 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. marja. 2. hedelmä</t>
+        <t>marja</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">baie</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>hedelmä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">fruit</t>
       </tg>
     </mg>
   </e>
@@ -46053,7 +46173,6 @@
       <tg xml:lang="fin">
         <t>1. äestys. 2. äes, karhi</t>
       </tg>
-
     </mg>
   </e>
 
@@ -48014,7 +48133,6 @@
       <tg xml:lang="fin">
         <t>kainalo</t>
       </tg>
-
     </mg>
   </e>
 
@@ -48303,7 +48421,6 @@
       <tg xml:lang="fin">
         <t>paperi</t>
       </tg>
-
 
       <xg>
         <x>кода саразсь кагод ланга якай</x>
@@ -49545,6 +49662,10 @@
         <t>kala</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">poisson</t>
+      </tg>
+
       <xg>
         <x>туй кал мельге</x>
 
@@ -50015,6 +50136,46 @@
         <phonet>pajgəńäń kaľďəŕf maŕavi</phonet>
 
         <xt xml:lang="fin">kulkusten kilinä kuuluu.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="A">кальдяв</l>
+
+      <stg>
+        <st Contlex="AdjTag">кальдяв</st>
+      </stg>
+    </lg>
+
+    <pos>A</pos>
+
+    <phonet>kaľďav</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>suru, murhe, onnettomuus, hätä, pula</t>
+      </tg>
+
+      <xg>
+        <x>кальдявсь сазе</x>
+
+        <phonet>kaľďavś saźä</phonet>
+
+        <xt xml:lang="fin">häntä kohtasi onnettomuus.</xt>
+      </xg>
+
+      <xg>
+        <x>кальдявсь пильгалдот лиси</x>
+
+        <phonet>kaľďavś piľgaldət ľiśi</phonet>
+
+        <xt xml:lang="fin">vahinko ei tule kello kaulassa.</xt>
       </xg>
     </mg>
   </e>
@@ -52073,7 +52234,6 @@
       <tg xml:lang="fin">
         <t>lyijykynä</t>
       </tg>
-
     </mg>
   </e>
 
@@ -53098,7 +53258,6 @@
 
         <xt xml:lang="fin">pelaavat korttia.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -55459,6 +55618,10 @@
       <tg xml:lang="fin">
         <t>savu</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">fumée</t>
+      </tg>
     </mg>
   </e>
 
@@ -56020,6 +56183,10 @@
         <t>kivi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">pierre</t>
+      </tg>
+
       <xg>
         <x>яжама кев</x>
 
@@ -56274,6 +56441,10 @@
 
       <tg xml:lang="fin">
         <t>1. iho, nahka. 2. turkis, vuota. 3. kuori</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">peau</t>
       </tg>
 
       <xg>
@@ -56585,7 +56756,8 @@
 
         <phonet>keľəs</phonet>
 
-        <xt xml:lang="fin">levälleen, hajalleen, ympäriinsä, eri suuntiin.</xt>
+        <xt xml:lang="fin">levälleen, hajalleen, ympäriinsä, eri
+        suuntiin.</xt>
       </xg>
 
       <xg>
@@ -56953,7 +57125,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kylmä; pakkanen</t>
+        <t>pakkanen</t>
       </tg>
 
       <xg>
@@ -57473,7 +57645,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. kynsi. 2. kavio, sorkka</t>
+        <t>kynsi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">ongle</t>
       </tg>
 
       <xg>
@@ -57483,6 +57659,16 @@
 
         <xt xml:lang="fin">kissan kynnet.</xt>
       </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kavio, sorkka</t>
+      </tg>
     </mg>
   </e>
 
@@ -58564,6 +58750,10 @@
         <t>tie, matka, reitti; jälki</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">route</t>
+      </tg>
+
       <xg>
         <x>ки алу тусь</x>
 
@@ -58722,7 +58912,107 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. vuosi. 2. kesä</t>
+        <t>vuosi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">an</t>
+
+        <t gen="f" pos="N">année</t>
+      </tg>
+
+      <xg>
+        <x>Од киза</x>
+
+        <phonet>od kiza</phonet>
+
+        <xt xml:lang="fin">uusivuosi.</xt>
+      </xg>
+
+      <xg>
+        <x>тя/сай/ётай кизоть</x>
+
+        <phonet>ťä/saj/jotaj kizəť</phonet>
+
+        <xt xml:lang="fin">tänä/ ensi/ viime vuonna.</xt>
+      </xg>
+
+      <xg>
+        <x>кизоста кизос</x>
+
+        <phonet>kizəstə kizəs</phonet>
+
+        <xt xml:lang="fin">vuodesta toiseen.</xt>
+      </xg>
+
+      <xg>
+        <x>кизозонза весть</x>
+
+        <phonet>kizəzənʒə veśť</phonet>
+
+        <xt xml:lang="fin">kerran vuodessa.</xt>
+      </xg>
+
+      <xg>
+        <x>сяка кизоня</x>
+
+        <phonet>śakə kizəńä</phonet>
+
+        <xt xml:lang="fin">samana vuonna.</xt>
+      </xg>
+
+      <xg>
+        <x>мала кизотнень эзда</x>
+
+        <phonet>mala kizəťńəń ezda</phonet>
+
+        <xt xml:lang="fin">lähivuosina.</xt>
+      </xg>
+
+      <xg>
+        <x>ётась вете кизот</x>
+
+        <phonet>jotaś veťə kizət</phonet>
+
+        <xt xml:lang="fin">kului viisi vuotta.</xt>
+      </xg>
+
+      <xg>
+        <x>мзяра тонь кизодот?</x>
+
+        <phonet>məźara toń kizədət?</phonet>
+
+        <xt xml:lang="fin">kuinka vanha olet?</xt>
+      </xg>
+
+      <xg>
+        <x>кемонь кизоса идь</x>
+
+        <phonet>keməń kizəs(ə) iď</phonet>
+
+        <xt xml:lang="fin">kymmenvuotias lapsi.</xt>
+      </xg>
+
+      <xg>
+        <x>ков киза, тов касы</x>
+
+        <phonet>kov kizə, tov kasi</phonet>
+
+        <xt xml:lang="fin">kasvaa kasvamistaan.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kesä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">été</t>
       </tg>
 
       <xg>
@@ -59324,6 +59614,10 @@
       <tg xml:lang="fin">
         <t>nahka (ihmisen, eläimen)</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">peau</t>
+      </tg>
     </mg>
   </e>
 
@@ -59444,7 +59738,6 @@
       <tg xml:lang="fin">
         <t>1. viiva, viiru. 2. arpi</t>
       </tg>
-
     </mg>
   </e>
 
@@ -59973,7 +60266,6 @@
       <tg xml:lang="fin">
         <t>kiila</t>
       </tg>
-
     </mg>
   </e>
 
@@ -60663,6 +60955,48 @@
         <t>1. kuu. 2. kuukausi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">lune</t>
+      </tg>
+
+      <xg>
+        <x>ковонь</x>
+
+        <phonet>kovəń</phonet>
+
+        <xt xml:lang="fin">kuukausi­, kuukausittainen.</xt>
+      </xg>
+
+      <xg>
+        <x>ковонь кувалма</x>
+
+        <phonet>kovəń kuvalma</phonet>
+
+        <xt xml:lang="fin">kuukauden mittainen.</xt>
+      </xg>
+
+      <xg>
+        <x>ковонь кувалмоса ваймама</x>
+
+        <phonet>kovəń kuvalməsa vajmama</phonet>
+
+        <xt xml:lang="fin">kuukauden mittainen loma.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kuukausi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">mois</t>
+      </tg>
+
       <xg>
         <x>ковонь</x>
 
@@ -60885,6 +61219,10 @@
 
       <tg xml:lang="fin">
         <t>pilvi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">nuage</t>
       </tg>
     </mg>
   </e>
@@ -62910,7 +63248,6 @@
       <tg xml:lang="fin">
         <t>laukka, neli</t>
       </tg>
-
     </mg>
   </e>
 
@@ -64158,6 +64495,10 @@
 
       <tg xml:lang="fin">
         <t>1. selkä. 2. niska. 3. väärä, kiero, kumara</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">dos</t>
       </tg>
     </mg>
   </e>
@@ -67920,7 +68261,6 @@
       <tg xml:lang="fin">
         <t>risti</t>
       </tg>
-
     </mg>
   </e>
 
@@ -68321,7 +68661,6 @@
       <tg xml:lang="fin">
         <t>1. (leivän)kuori. 2. maankamara</t>
       </tg>
-
     </mg>
   </e>
 
@@ -69097,6 +69436,10 @@
 
       <tg xml:lang="fin">
         <t>käärme</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">serpent</t>
       </tg>
 
       <xg>
@@ -69892,6 +70235,9 @@
         <t>tuhka</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">cendre</t>
+      </tg>
     </mg>
   </e>
 
@@ -70082,7 +70428,8 @@
 
         <phonet>kupt-kumavat</phonet>
 
-        <xt xml:lang="fin">(mon.) kummisetä ja -täti, kummit, kummivanhemmat.</xt>
+        <xt xml:lang="fin">(mon.) kummisetä ja -täti, kummit,
+        kummivanhemmat.</xt>
       </xg>
     </mg>
   </e>
@@ -70517,6 +70864,10 @@
         <t>suu; kita</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">bouche</t>
+      </tg>
+
       <xg>
         <x>кели курга</x>
 
@@ -70548,7 +70899,6 @@
 
         <xt xml:lang="fin">töllistelijä.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -71845,6 +72195,10 @@
       <tg xml:lang="fin">
         <t>rasva, ihra</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">graisse</t>
+      </tg>
     </mg>
   </e>
 
@@ -72756,7 +73110,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t>kaula</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">cou</t>
       </tg>
     </mg>
   </e>
@@ -74175,6 +74533,10 @@
         <t>käsi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">main</t>
+      </tg>
+
       <xg>
         <x>види кядь</x>
 
@@ -74670,7 +75032,6 @@
 
         <xt xml:lang="fin">minua kiukuttaa, pistää vihaksi.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -74840,6 +75201,10 @@
         <t>kieli</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">langue</t>
+      </tg>
+
       <xg>
         <x>литературнай кяль</x>
 
@@ -74855,6 +75220,7 @@
 
         <xt xml:lang="fin">vieras kieli.</xt>
       </xg>
+
       <xg>
         <x>сонь кялец юмась</x>
 
@@ -76463,7 +76829,6 @@
       <tg xml:lang="fin">
         <t>rako, halkeama</t>
       </tg>
-
     </mg>
   </e>
 
@@ -77913,7 +78278,6 @@
       <tg xml:lang="fin">
         <t>hartia</t>
       </tg>
-
     </mg>
   </e>
 
@@ -78819,6 +79183,10 @@
         <t>nimi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">nom</t>
+      </tg>
+
       <xg>
         <x>алянь лем</x>
 
@@ -79410,7 +79778,6 @@
 
         <xt xml:lang="fin">kissanpentu, kissanpoika.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -80355,7 +80722,6 @@
 
         <xt xml:lang="fin">hän sairastaa rokkoa.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -80861,6 +81227,10 @@
         <t>lumi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">neige</t>
+      </tg>
+
       <xg>
         <x>моли лов</x>
 
@@ -81268,7 +81638,6 @@
       <tg xml:lang="fin">
         <t>piiska, ruoska</t>
       </tg>
-
     </mg>
   </e>
 
@@ -81340,6 +81709,10 @@
 
       <tg xml:lang="fin">
         <t>1. ihminen. 2. vieras ihminen, muukalainen. 3. mies</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">homme</t>
       </tg>
 
       <xg>
@@ -81444,6 +81817,10 @@
 
       <tg xml:lang="fin">
         <t>lehti</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">feuille</t>
       </tg>
 
       <xg>
@@ -83262,6 +83639,10 @@
         <t>joki</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">rivière</t>
+      </tg>
+
       <xg>
         <x>караф ляй</x>
 
@@ -83499,7 +83880,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. lämmin. 2. lämpö</t>
+        <t>lämpö</t>
       </tg>
     </mg>
   </e>
@@ -85039,6 +85420,10 @@
         <t>maksa</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">foie</t>
+      </tg>
+
       <xg>
         <x>максонь сярятькстома</x>
 
@@ -85389,6 +85774,10 @@
 
       <tg xml:lang="fin">
         <t>keppi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">bâton</t>
       </tg>
     </mg>
   </e>
@@ -88655,6 +89044,10 @@
         <t>taivas</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">ciel</t>
+      </tg>
+
       <xg>
         <x>тяшттне менельсот</x>
 
@@ -90023,6 +90416,12 @@
         <t>aviomies</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">mari</t>
+
+        <t gen="m" pos="N">époux</t>
+      </tg>
+
       <xg>
         <x>миртть-рьват</x>
 
@@ -90285,6 +90684,10 @@
 
       <tg xml:lang="fin">
         <t>maa</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">terre</t>
       </tg>
 
       <xg>
@@ -90750,7 +91153,6 @@
 
         <xt xml:lang="fin">löi nyrkillä.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -91356,6 +91758,10 @@
 
       <tg xml:lang="fin">
         <t>meri</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">mer</t>
       </tg>
     </mg>
   </e>
@@ -93662,6 +94068,12 @@
       <tg xml:lang="fin">
         <t>rinta</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">sein</t>
+
+        <t gen="f" pos="N">poitrine</t>
+      </tg>
     </mg>
   </e>
 
@@ -93990,7 +94402,6 @@
       <tg xml:lang="fin">
         <t>palkinto</t>
       </tg>
-
     </mg>
   </e>
 
@@ -95176,6 +95587,10 @@
         <t>lintu</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">oiseau</t>
+      </tg>
+
       <xg>
         <x>нармонень водяма</x>
 
@@ -95949,16 +96364,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. märkä, kostea. 2. märkyys, kosteus</t>
+        <t>märkyys, kosteus</t>
       </tg>
-
-      <xg>
-        <x>кода начка варси</x>
-
-        <phonet>koda načkə varsi</phonet>
-
-        <xt xml:lang="fin">kuin märkä varis.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -98783,7 +99190,6 @@
       <tg xml:lang="fin">
         <t>sammal</t>
       </tg>
-
     </mg>
   </e>
 
@@ -99144,7 +99550,6 @@
       <tg xml:lang="fin">
         <t>ruoko; ruokopilli</t>
       </tg>
-
     </mg>
   </e>
 
@@ -99505,7 +99910,6 @@
 
         <xt xml:lang="fin">koiranleuka, veijari, lurjus.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -102474,7 +102878,6 @@
       <tg xml:lang="fin">
         <t>tukahduttava, painostava</t>
       </tg>
-
     </mg>
   </e>
 
@@ -103025,40 +103428,15 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. terävä. 2. terä</t>
+        <t>terä</t>
       </tg>
-
-      <xg>
-        <x>оржа пе</x>
-
-        <phonet>orǯa pe</phonet>
-
-        <xt xml:lang="fin">terävä kärki.</xt>
-      </xg>
-
-      <xg>
-        <x>оржа ёнь</x>
-
-        <phonet>orǯa joń</phonet>
-
-        <xt xml:lang="fin">terävä äly.</xt>
-      </xg>
-
-      <xg>
-        <x>оржаста</x>
-
-        <phonet>orǯasta</phonet>
-
-        <xt xml:lang="fin">terävästi.</xt>
-      </xg>
 
       <xg>
         <x>оржаня</x>
 
         <phonet>orǯańä</phonet>
 
-        <xt xml:lang="fin">1. terävänlainen. 2. terä, terävyys. 3. oka, piikki,
-        pistin.</xt>
+        <xt xml:lang="fin">2. terä, terävyys. 3. oka, piikki, pistin.</xt>
       </xg>
 
       <xg>
@@ -105998,6 +106376,10 @@
         <t>luu</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">os</t>
+      </tg>
+
       <xg>
         <x>пакарь и киське</x>
 
@@ -106299,8 +106681,8 @@
 
         <phonet>pakškä</phonet>
 
-        <xt xml:lang="fin">1. pala, palanen. 2. pikkuinen (lapsi, koira, tm.). 3.
-        töyhtö, tupsu.</xt>
+        <xt xml:lang="fin">1. pala, palanen. 2. pikkuinen (lapsi, koira, tm.).
+        3. töyhtö, tupsu.</xt>
       </xg>
 
       <xg>
@@ -106333,6 +106715,10 @@
 
       <tg xml:lang="fin">
         <t>liha</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">viande</t>
       </tg>
 
       <xg>
@@ -106983,6 +107369,10 @@
         <t>mäki, vuori</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">montagne</t>
+      </tg>
+
       <xg>
         <x>вяри пантт</x>
 
@@ -107118,7 +107508,6 @@
       <tg xml:lang="fin">
         <t>(vihannes)penkki, kukkapenkki</t>
       </tg>
-
     </mg>
   </e>
 
@@ -107608,7 +107997,6 @@
       <tg xml:lang="fin">
         <t>1. paikka(tilkku). 2. tuke, tappi, tulppa</t>
       </tg>
-
     </mg>
   </e>
 
@@ -107776,6 +108164,10 @@
 
       <tg xml:lang="fin">
         <t>kukka, kukkanen</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">fleur</t>
       </tg>
 
       <xg>
@@ -108079,24 +108471,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. hyvä. 2. omaisuus</t>
+        <t>omaisuus</t>
       </tg>
-
-      <xg>
-        <x>пара вал</x>
-
-        <phonet>parə val</phonet>
-
-        <xt xml:lang="fin">tervehdys.</xt>
-      </xg>
-
-      <xg>
-        <x>пара уша</x>
-
-        <phonet>parə uša</phonet>
-
-        <xt xml:lang="fin">hyvä sää.</xt>
-      </xg>
 
       <xg>
         <x>пара канды</x>
@@ -108107,45 +108483,12 @@
       </xg>
 
       <xg>
-        <x>лангс ваномс аф пара</x>
-
-        <phonet>laŋks vanəms af para</phonet>
-
-        <xt xml:lang="fin">pahannäköinen.</xt>
-      </xg>
-
-      <xg>
-        <x>аф пара вайгяльса</x>
-
-        <phonet>af parə vajgäľsa</phonet>
-
-        <xt xml:lang="fin">kauhistuneena, pahalla äänellä.</xt>
-      </xg>
-
-      <xg>
-        <x>парста</x>
-
-        <phonet>parsta, parəsta</phonet>
-
-        <xt xml:lang="fin">hyvin.</xt>
-      </xg>
-
-      <xg>
-        <x>аф парста</x>
-
-        <phonet>af parsta</phonet>
-
-        <xt xml:lang="fin">huonosti, kelvottomasti.</xt>
-      </xg>
-
-      <xg>
         <x>паронь пандома</x>
 
         <phonet>parəń pandəma</phonet>
 
         <xt xml:lang="fin">tehdä vastapalvelus.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -109036,20 +109379,16 @@
         <t>siipi, evä</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">aile</t>
+      </tg>
+
       <xg>
         <x>паця алон</x>
 
         <phonet>pać(ä) alən</phonet>
 
-        <xt xml:lang="fin">siipeni alla.</xt>
-      </xg>
-
-      <xg>
-        <x>калонь паця</x>
-
-        <phonet>kaləń paćä</phonet>
-
-        <xt xml:lang="fin">evä.</xt>
+        <xt xml:lang="fin">siipeni alla</xt>
       </xg>
 
       <xg>
@@ -109066,6 +109405,24 @@
         <phonet>paćäńat</phonet>
 
         <xt xml:lang="fin">(mon.) räikkä.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>evä</t>
+      </tg>
+
+      <xg>
+        <x>калонь паця</x>
+
+        <phonet>kaləń paćä</phonet>
+
+        <xt xml:lang="fin">evä.</xt>
       </xg>
     </mg>
   </e>
@@ -109740,6 +110097,10 @@
         <t>hammas</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">dent</t>
+      </tg>
+
       <xg>
         <x>лофцонь пей</x>
 
@@ -109779,7 +110140,6 @@
 
         <xt xml:lang="fin">hampaaton.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -109853,6 +110213,10 @@
         <t>1. maha, vatsa. 2. puun vääntymä, mutka</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">ventre</t>
+      </tg>
+
       <xg>
         <x>вазонь пеке</x>
 
@@ -109892,6 +110256,16 @@
 
         <xt xml:lang="fin">tiineys (eläimen), raskaus (naisen).</xt>
       </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>puun vääntymä, mutka</t>
+      </tg>
     </mg>
   </e>
 
@@ -110540,7 +110914,6 @@
       <tg xml:lang="fin">
         <t>leima</t>
       </tg>
-
     </mg>
   </e>
 
@@ -111326,6 +111699,10 @@
         <t>sade</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">pluie</t>
+      </tg>
+
       <xg>
         <x>пиземсь путькси</x>
 
@@ -111510,6 +111887,10 @@
         <t>köysi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">corde</t>
+      </tg>
+
       <xg>
         <x>пикскя</x>
 
@@ -111613,6 +111994,10 @@
 
       <tg xml:lang="fin">
         <t>korva</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">oreille</t>
       </tg>
 
       <xg>
@@ -111829,6 +112214,12 @@
 
       <tg xml:lang="fin">
         <t>jalka</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">pied</t>
+
+        <t gen="m" pos="N">jambe</t>
       </tg>
 
       <xg>
@@ -112134,7 +112525,6 @@
       <tg xml:lang="fin">
         <t>1. korvakoru. 2. (heinän) kukinto</t>
       </tg>
-
     </mg>
   </e>
 
@@ -112470,6 +112860,10 @@
 
       <tg xml:lang="fin">
         <t>koira</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">chien</t>
       </tg>
 
       <xg>
@@ -114311,7 +114705,6 @@
       <tg xml:lang="fin">
         <t>(sota)vankeus</t>
       </tg>
-
     </mg>
   </e>
 
@@ -114503,6 +114896,10 @@
 
       <tg xml:lang="fin">
         <t>polvi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">genou</t>
       </tg>
 
       <xg>
@@ -115160,7 +115557,6 @@
       <tg xml:lang="fin">
         <t>allekirjoitus</t>
       </tg>
-
     </mg>
   </e>
 
@@ -115209,7 +115605,6 @@
       <tg xml:lang="fin">
         <t>tulipalo</t>
       </tg>
-
     </mg>
   </e>
 
@@ -115546,7 +115941,6 @@
       <tg xml:lang="fin">
         <t>rauha</t>
       </tg>
-
     </mg>
   </e>
 
@@ -116613,7 +117007,6 @@
       <tg xml:lang="fin">
         <t>(murt.) metsästys</t>
       </tg>
-
     </mg>
   </e>
 
@@ -116854,7 +117247,6 @@
       <tg xml:lang="fin">
         <t>järjestys</t>
       </tg>
-
     </mg>
   </e>
 
@@ -121944,6 +122336,10 @@
         <t>1. pää; tähkä. 2. itse. 3. yläosa; laki, huippu, latva</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">tête</t>
+      </tg>
+
       <xg>
         <x>калгода пря</x>
 
@@ -122599,7 +122995,6 @@
 
         <xt xml:lang="fin">kuumasti.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -123257,6 +123652,10 @@
         <t>1. häntä. 2. (pitkä) palmikko, letti. 3. verkon pohjukka</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">queue</t>
+      </tg>
+
       <xg>
         <x>рашку пула</x>
 
@@ -123552,7 +123951,6 @@
 
         <xt xml:lang="fin">kauralyhde.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -123576,6 +123974,10 @@
 
       <tg xml:lang="fin">
         <t>pöly, tomu</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">poussière</t>
       </tg>
     </mg>
   </e>
@@ -123625,7 +124027,6 @@
       <tg xml:lang="fin">
         <t>kuula, luoti</t>
       </tg>
-
     </mg>
   </e>
 
@@ -128362,7 +128763,6 @@
       <tg xml:lang="fin">
         <t>radio</t>
       </tg>
-
     </mg>
   </e>
 
@@ -128993,7 +129393,21 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>hevonen, eläin</t>
+        <t>hevonen</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>eläin</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">animal</t>
       </tg>
     </mg>
   </e>
@@ -129371,7 +129785,6 @@
       <tg xml:lang="fin">
         <t>taimi</t>
       </tg>
-
     </mg>
   </e>
 
@@ -130060,7 +130473,6 @@
       <tg xml:lang="fin">
         <t>tarkastus, revisio</t>
       </tg>
-
     </mg>
   </e>
 
@@ -134638,6 +135050,10 @@
         <t>suola</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">sel</t>
+      </tg>
+
       <xg>
         <x>керы сал сельмоведь</x>
 
@@ -136111,7 +136527,6 @@
 
         <xt xml:lang="fin">puute, puutos, vajaus.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -136656,7 +137071,6 @@
       <tg xml:lang="fin">
         <t>todistaja</t>
       </tg>
-
     </mg>
   </e>
 
@@ -137146,6 +137560,10 @@
         <t>sydän</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">cœur</t>
+      </tg>
+
       <xg>
         <x>седи вакска</x>
 
@@ -137241,7 +137659,6 @@
 
         <xt xml:lang="fin">hänen tekee mieli.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -138058,7 +138475,6 @@
       <tg xml:lang="fin">
         <t>silmäterä, pupilli</t>
       </tg>
-
     </mg>
   </e>
 
@@ -138106,6 +138522,10 @@
 
       <tg xml:lang="fin">
         <t>silmä</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">œil</t>
       </tg>
 
       <xg>
@@ -140412,6 +140832,10 @@
         <t>täi (Pediculus)</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">pou</t>
+      </tg>
+
       <xg>
         <x>лаймонь си</x>
 
@@ -140490,6 +140914,10 @@
 
       <tg xml:lang="fin">
         <t>liha</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">viande</t>
       </tg>
 
       <xg>
@@ -141379,7 +141807,6 @@
       <tg xml:lang="fin">
         <t>(mon.) sulkeet, sulkumerkit</t>
       </tg>
-
     </mg>
   </e>
 
@@ -142076,7 +142503,6 @@
       <tg xml:lang="fin">
         <t>tavu</t>
       </tg>
-
     </mg>
   </e>
 
@@ -148238,7 +148664,6 @@
       <tg xml:lang="fin">
         <t>seisten, seisoen</t>
       </tg>
-
     </mg>
   </e>
 
@@ -148630,6 +149055,10 @@
 
       <tg xml:lang="fin">
         <t>kuori</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">écorce</t>
       </tg>
     </mg>
   </e>
@@ -149048,6 +149477,10 @@
         <t>1. mato. 2. toukka</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">ver</t>
+      </tg>
+
       <xg>
         <x>пиземонь сукс</x>
 
@@ -149255,7 +149688,6 @@
 
         <xt xml:lang="fin">huolimattomasti.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -151353,6 +151785,10 @@
         <t>sarvi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">corne</t>
+      </tg>
+
       <xg>
         <x>вардонь сюра</x>
 
@@ -153409,7 +153845,6 @@
       <tg xml:lang="fin">
         <t>tupakka</t>
       </tg>
-
     </mg>
   </e>
 
@@ -158210,6 +158645,10 @@
       <tg xml:lang="fin">
         <t>ruoho, heinä; kasvi</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">herbe</t>
+      </tg>
     </mg>
   </e>
 
@@ -158843,6 +159282,10 @@
         <t>tuli</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">feu</t>
+      </tg>
+
       <xg>
         <x>якстерь тол</x>
 
@@ -158858,7 +159301,6 @@
 
         <xt xml:lang="fin">tulirokko.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -158906,6 +159348,10 @@
 
       <tg xml:lang="fin">
         <t>sulka</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">plume</t>
       </tg>
 
       <xg>
@@ -158987,7 +159433,6 @@
       <tg xml:lang="fin">
         <t>järki, tolkku; hyöty</t>
       </tg>
-
     </mg>
   </e>
 
@@ -162852,6 +163297,10 @@
       <tg xml:lang="fin">
         <t>sumu, usva</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">brouillard</t>
+      </tg>
     </mg>
   </e>
 
@@ -165382,6 +165831,10 @@
         <t>äiti</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">mère</t>
+      </tg>
+
       <xg>
         <x>алянень-тядянень ульсть колма идьсна</x>
 
@@ -166422,12 +166875,20 @@
     <phonet>ťäšťä</phonet>
 
     <mg>
+      <semantics>
+        <sem/>
+      </semantics>
+
       <m>
         <head/>
       </m>
 
       <tg xml:lang="fin">
-        <t>1. tähti. 2. merkki</t>
+        <t>tähti</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">étoile</t>
       </tg>
 
       <xg>
@@ -166455,14 +166916,6 @@
       </xg>
 
       <xg>
-        <x>павазонь тяште</x>
-
-        <phonet>pavazəń ťäšťä</phonet>
-
-        <xt xml:lang="fin">syntymämerkki.</xt>
-      </xg>
-
-      <xg>
         <x>тяшттне менельсот</x>
 
         <phonet>ťäšťťńə meńəľsət</phonet>
@@ -166476,6 +166929,24 @@
         <phonet>ťäšťəńä</phonet>
 
         <xt xml:lang="fin">tähtönen.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>merkki</t>
+      </tg>
+
+      <xg>
+        <x>павазонь тяште</x>
+
+        <phonet>pavazəń ťäšťä</phonet>
+
+        <xt xml:lang="fin">syntymämerkki.</xt>
       </xg>
     </mg>
   </e>
@@ -183607,6 +184078,12 @@
         <t>lapsi</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">enfant</t>
+
+        <t gen="f" pos="N">enfant</t>
+      </tg>
+
       <xg>
         <x>пиже шаба</x>
 
@@ -184134,6 +184611,10 @@
       <tg xml:lang="fin">
         <t>nenä</t>
       </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">nez</t>
+      </tg>
     </mg>
   </e>
 
@@ -184158,7 +184639,6 @@
       <tg xml:lang="fin">
         <t>nenänalus</t>
       </tg>
-
     </mg>
   </e>
 
@@ -184463,7 +184943,6 @@
       <tg xml:lang="fin">
         <t>naamio</t>
       </tg>
-
     </mg>
   </e>
 
@@ -184928,7 +185407,6 @@
       <tg xml:lang="fin">
         <t>hapate, käyte</t>
       </tg>
-
     </mg>
   </e>
 
@@ -185097,7 +185575,6 @@
       <tg xml:lang="fin">
         <t>kuula</t>
       </tg>
-
     </mg>
   </e>
 
@@ -186339,6 +186816,10 @@
         <t>1. päivä. 2. aurinko</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">jour</t>
+      </tg>
+
       <xg>
         <x>пяле ши</x>
 
@@ -186385,22 +186866,6 @@
         <phonet>šiń kučkasta</phonet>
 
         <xt xml:lang="fin">keskipäivällä.</xt>
-      </xg>
-
-      <xg>
-        <x>шинь пидеф</x>
-
-        <phonet>šiń piďəf</phonet>
-
-        <xt xml:lang="fin">ruskettunut, päivettynyt.</xt>
-      </xg>
-
-      <xg>
-        <x>шинь стяма</x>
-
-        <phonet>šiń śťama</phonet>
-
-        <xt xml:lang="fin">auringonnousu.</xt>
       </xg>
 
       <xg>
@@ -186481,6 +186946,44 @@
         <phonet>šidə-kaftədə meľä</phonet>
 
         <xt xml:lang="fin">parin päivän kuluttua.</xt>
+      </xg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>aurinko</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">soleil</t>
+      </tg>
+
+      <xg>
+        <x>шинь пидеф</x>
+
+        <phonet>šiń piďəf</phonet>
+
+        <xt xml:lang="fin">ruskettunut, päivettynyt.</xt>
+      </xg>
+
+      <xg>
+        <x>шинь стяма</x>
+
+        <phonet>šiń śťama</phonet>
+
+        <xt xml:lang="fin">auringonnousu.</xt>
+      </xg>
+
+      <xg>
+        <x>шинь стяма шире</x>
+
+        <phonet>šiń śťamə šiŕä</phonet>
+
+        <xt xml:lang="fin">itä</xt>
       </xg>
     </mg>
   </e>
@@ -187242,7 +187745,6 @@
       <tg xml:lang="fin">
         <t>koulu</t>
       </tg>
-
     </mg>
   </e>
 
@@ -188491,7 +188993,6 @@
       <tg xml:lang="fin">
         <t>tukki, hirsi, parru</t>
       </tg>
-
     </mg>
   </e>
 
@@ -188860,7 +189361,6 @@
       <tg xml:lang="fin">
         <t>alaston, paljas</t>
       </tg>
-
     </mg>
   </e>
 
@@ -189324,6 +189824,10 @@
 
       <tg xml:lang="fin">
         <t>hiekka</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">sable</t>
       </tg>
     </mg>
   </e>
@@ -190316,6 +190820,10 @@
 
       <tg xml:lang="fin">
         <t>puu</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">arbre</t>
       </tg>
 
       <xg>
@@ -191534,6 +192042,10 @@
         <t>karva, hius</t>
       </tg>
 
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">cheveux</t>
+      </tg>
+
       <xg>
         <x>сельмокунонь шяярь</x>
 
@@ -192174,7 +192686,6 @@
       <tg xml:lang="fin">
         <t>kasvot, naama</t>
       </tg>
-
     </mg>
   </e>
 
@@ -192412,8 +192923,14 @@
         <defNative/>
       </m>
 
-      <tg xml:lang="fin">
-        <t/>
+      <tg xml:lang="eng">
+        <t>wife</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">femme</t>
+
+        <t gen="f" pos="N">épouse</t>
       </tg>
     </mg>
   </e>
@@ -193214,6 +193731,10 @@
 
       <tg xml:lang="fin">
         <t>jää</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">glace</t>
       </tg>
 
       <xg>
@@ -194780,6 +195301,10 @@
 
       <tg xml:lang="fin">
         <t>järvi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="m" pos="N">lac</t>
       </tg>
     </mg>
   </e>
@@ -196551,7 +197076,25 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>1. juuri. 2. taimi</t>
+        <t>juuri</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">racine</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>taimi</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t gen="f" pos="N">racine</t>
       </tg>
 
       <xg>
@@ -197566,6 +198109,66 @@
 
   <e>
     <lg>
+      <l pos="A">якшама</l>
+
+      <stg>
+        <st Contlex="AdjTag">якшама</st>
+      </stg>
+    </lg>
+
+    <pos>A</pos>
+
+    <phonet>jakšama</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t>kylmyys, pakkanen</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t pos="A">froid</t>
+      </tg>
+
+      <xg>
+        <x>тейнек якшама</x>
+
+        <phonet>ťejńək jakšama</phonet>
+
+        <xt xml:lang="fin">meidän on kylmä.</xt>
+      </xg>
+
+      <xg>
+        <x>прась якшамсь</x>
+
+        <phonet>praś jakšamś</phonet>
+
+        <xt xml:lang="fin">pakkanen tuli.</xt>
+      </xg>
+
+      <xg>
+        <x>тяфтама якшамня</x>
+
+        <phonet>ťaftam(ə) jakšamńä</phonet>
+
+        <xt xml:lang="fin">näin kylmällä.</xt>
+      </xg>
+
+      <xg>
+        <x>якшамста</x>
+
+        <phonet>jakšamsta</phonet>
+
+        <xt xml:lang="fin">kylmästi.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N">ялакс</l>
 
       <stg>
@@ -197617,7 +198220,6 @@
 
         <xt xml:lang="fin">ystävien kesken.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -198792,7 +199394,6 @@
 
         <xt xml:lang="fin">pyörtyminen.</xt>
       </xg>
-
     </mg>
   </e>
 
@@ -199577,7 +200178,6 @@
 
         <xt xml:lang="fin">tuli hulluksi, meni järjiltään.</xt>
       </xg>
-
     </mg>
   </e>
 
