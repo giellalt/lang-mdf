@@ -5,2131 +5,2980 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
-      <lg>
-         <l>а</l>
-         <stg>
-            <st Contlex="PcleTag">а</st>
-         </stg>
-      </lg>
-      <pos>CC</pos>
-      <phonet>a</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ja; mutta, vaan.</t>
-         </tg>
-         <xg>
-            <x>мон молян куду, а сон театрав</x>
-            <phonet>mon moľan kudu a son ťeatrav</phonet>
-            <xt lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>али</l>
-         <stg>
-            <st Contlex="PcleTag">али</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>aľi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>tai, vai.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>аньцек</l>
-         <stg>
-            <st Contlex="PcleTag">аньцек</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ańćək</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>vain, ainoastaan.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>апак</l>
-         <stg>
-            <st Contlex="PcleTag">апак</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>apak</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kieltopartikkeli.</t>
-         </tg>
-         <xg>
-            <x>пересь нинге апак сокак</x>
-            <phonet>peŕəś ńińg(ä) apak sokak</phonet>
-            <xt lang="fin">kasvimaa on vielä kääntämättä.</xt>
-         </xg>
-         <xg>
-            <x>куду апак сувсек</x>
-            <phonet>kudu apak suvśək</phonet>
-            <xt lang="fin">menemättä kotiin.</xt>
-         </xg>
-         <xg>
-            <x>апак сизек</x>
-            <phonet>apak śiźək</phonet>
-            <xt lang="fin">väsymättä.</xt>
-         </xg>
-         <xg>
-            <x>апак арьсек</x>
-            <phonet>apak aŕśək</phonet>
-            <xt lang="fin">ajattelematta, ajattelemattomasti, harkitsemattomasti.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>аф</l>
-         <stg>
-            <st Contlex="Pcle-Neg">аф</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>af</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ei.</t>
-         </tg>
-         <xg>
-            <x>мон тоза аф молян</x>
-            <phonet>mon toza af moľan</phonet>
-            <xt lang="fin">minä en sinne mene.</xt>
-         </xg>
-         <xg>
-            <x>аньцяйняда аф сембе</x>
-            <phonet>ańćäjńad(ə) af śembä</phonet>
-            <xt lang="fin">melkein jokainen, melkein kaikki.</xt>
-         </xg>
-         <xg>
-            <x>кафта шифтома аф недяля</x>
-            <phonet>kafta šiftəm(ə) af ńeďäľä</phonet>
-            <xt lang="fin">kahta päivää vaille viikko.</xt>
-         </xg>
-         <xg>
-            <x>аф азовомшка оцю</x>
-            <phonet>af azəvəmška oću</phonet>
-            <xt lang="fin">uskomattoman suuri.</xt>
-         </xg>
-         <xg>
-            <x>аф ёру</x>
-            <phonet>af joru</phonet>
-            <xt lang="fin">vakavissaan, tosissaan.</xt>
-         </xg>
-         <xg>
-            <x>аф ичкозе</x>
-            <phonet>af ičkəźä</phonet>
-            <xt lang="fin">lähellä.</xt>
-         </xg>
-         <xg>
-            <x>аф кода</x>
-            <phonet>af koda</phonet>
-            <xt lang="fin">toisin kuin, toisenlainen kuin.</xt>
-         </xg>
-         <xg>
-            <x>аф мани</x>
-            <phonet>af mańi</phonet>
-            <xt lang="fin">ruma ilma.</xt>
-         </xg>
-         <xg>
-            <x>аф мярьгомс</x>
-            <phonet>af mäŕgəms</phonet>
-            <xt lang="fin">kieltää.</xt>
-         </xg>
-         <xg>
-            <x>аф олай</x>
-            <phonet>af olaj</phonet>
-            <xt lang="fin">haalistumaton.</xt>
-         </xg>
-         <xg>
-            <x>аф оцю</x>
-            <phonet>af oću</phonet>
-            <xt lang="fin">pieni.</xt>
-         </xg>
-         <xg>
-            <x>аф цебярь</x>
-            <phonet>af ćebäŕ</phonet>
-            <xt lang="fin">huono.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>афи</l>
-         <stg>
-            <st Contlex="PcleTag">афи</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>afi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>eikä.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>афоли</l>
-         <stg>
-            <st Contlex="PcleTag">афоли</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>afoľi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kuulemma.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>аш</l>
-         <stg>
-            <st Contlex="Pcle-Neg">аш</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>aš</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ei ole.</t>
-         </tg>
-         <xg>
-            <x>аш кода молемс</x>
-            <phonet>aš koda moľəms</phonet>
-            <xt lang="fin">ei voi mennä.</xt>
-         </xg>
-         <xg>
-            <x>ашель месть</x>
-            <phonet>ašəľ meśť</phonet>
-            <xt lang="fin">ei ollut syytä.</xt>
-         </xg>
-         <xg>
-            <x>ашель мзярда</x>
-            <phonet>ašəľ məźarda</phonet>
-            <xt lang="fin">ei ollut aikaa.</xt>
-         </xg>
-         <xg>
-            <x>ашень пяшксе</x>
-            <phonet>ašəń päškśä</phonet>
-            <xt lang="fin">rutiköyhä.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>бди</l>
-         <stg>
-            <st Contlex="PcleTag">бди</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>bəďi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. ehkä. 2. jos.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>бъльшем</l>
-         <stg>
-            <st Contlex="PcleTag">бъльшем</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>вага</l>
-         <stg>
-            <st Contlex="PcleTag">вага</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>vaga</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kas, kas tässä.</t>
-         </tg>
-         <xg>
-            <x>вага вдь</x>
-            <phonet>vagə vəď</phonet>
-            <xt lang="fin">kylläpä.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>вельф</l>
-         <stg>
-            <st Contlex="PcleTag">вельф</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>виде</l>
-         <stg>
-            <st Contlex="PcleTag">виде</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>viďä</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. oikea, tosi, suora, rehellinen. 2.yhtäläinen, sama, samanlainen, tasainen. 3. totuus.</t>
-         </tg>
-         <xg>
-            <x>шуфтсь виде</x>
-            <phonet>šufć viďə</phonet>
-            <xt lang="fin">puu on suora.</xt>
-         </xg>
-         <xg>
-            <x>сон виде ломанць</x>
-            <phonet>son viďə lomańć</phonet>
-            <xt lang="fin">hän on rehellinen ihminen.</xt>
-         </xg>
-         <xg>
-            <x>виде кядь</x>
-            <phonet>viďə käď</phonet>
-            <xt lang="fin">oikea käsi.</xt>
-         </xg>
-         <xg>
-            <x>виде пяль</x>
-            <phonet>viďə päľ</phonet>
-            <xt lang="fin">oikea puoli.</xt>
-         </xg>
-         <xg>
-            <x>виде пяли</x>
-            <phonet>viďə päľi</phonet>
-            <xt lang="fin">oikealle.</xt>
-         </xg>
-         <xg>
-            <x>виде сельмоса</x>
-            <phonet>viďə śeľməsa</phonet>
-            <xt lang="fin">paljaalla silmällä, paljain silmin.</xt>
-         </xg>
-         <xg>
-            <x>виде вайме</x>
-            <phonet>viďə vajmä</phonet>
-            <xt lang="fin">suoraluontoinen.</xt>
-         </xg>
-         <xg>
-            <x>виде ваймот</x>
-            <phonet>viďə vajmət</phonet>
-            <xt lang="fin">suoraan, kaartelematta.</xt>
-         </xg>
-         <xg>
-            <x>виде ваймокс</x>
-            <phonet>viďə vajməks</phonet>
-            <xt lang="fin">tunnollisesti, hyvällä omallatunnolla.</xt>
-         </xg>
-         <xg>
-            <x>видеце</x>
-            <phonet>viďəćä</phonet>
-            <xt lang="fin">olet oikeassa.</xt>
-         </xg>
-         <xg>
-            <x>виденц азомс</x>
-            <phonet>viďənc azəms</phonet>
-            <xt lang="fin">puhua totta.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>видекс</l>
-         <stg>
-            <st Contlex="PcleTag">видекс</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>viďəks</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>totta kyllä, todellakin.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>вов</l>
-         <stg>
-            <st Contlex="PcleTag">вов</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>vov</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>no, kas, kappas, katsos.</t>
-         </tg>
-         <xg>
-            <x>вов вдь</x>
-            <phonet>vov vəď</phonet>
-            <xt lang="fin">kylläpä.</xt>
-         </xg>
-         <xg>
-            <x>вов ни эста</x>
-            <phonet>vov ńi esta</phonet>
-            <xt lang="fin">kas silloinpa.</xt>
-         </xg>
-         <xg>
-            <x>вов сась кизось</x>
-            <phonet>vov saś kizəś</phonet>
-            <xt lang="fin">niin tuli kesä.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ворьть</l>
-         <stg>
-            <st Contlex="PcleTag">ворьть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ворьхть</l>
-         <stg>
-            <st Contlex="PcleTag">ворьхть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>вот</l>
-         <stg>
-            <st Contlex="PcleTag">вот</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>въдь</l>
-         <stg>
-            <st Contlex="PcleTag">въдь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>голь</l>
-         <stg>
-            <st Contlex="PcleTag">голь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>да</l>
-         <stg>
-            <st Contlex="PcleTag">да</st>
-         </stg>
-      </lg>
-      <pos>FORMULAIC</pos>
-      <phonet>da</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kyllä, niin.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>да</l>
-         <stg>
-            <st Contlex="PcleTag">да</st>
-         </stg>
-      </lg>
-      <pos>CC</pos>
-      <phonet>də</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ja, sekä, ynnä.</t>
-         </tg>
-         <xg>
-            <x>мон да сон</x>
-            <phonet>mon də son</phonet>
-            <xt lang="fin">minä ja hän.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>дель</l>
-         <stg>
-            <st Contlex="PcleTag">дель</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>деряй</l>
-         <stg>
-            <st Contlex="PcleTag">деряй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>дряй</l>
-         <stg>
-            <st Contlex="PcleTag">дряй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>дяряй</l>
-         <stg>
-            <st Contlex="PcleTag">дяряй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ďäŕäj</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ehkäpä, jospas.</t>
-         </tg>
-         <xg>
-            <x>дяряй сят аф сёрмадовихть</x>
-            <phonet>ďäŕäj śat af śormadəvixť</phonet>
-            <xt lang="fin">ehkä niistä ei voi kirjoittaa.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>жа</l>
-         <stg>
-            <st Contlex="PcleTag">жа</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ža</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. juuri, aivan. 2. sama.</t>
-         </tg>
-         <xg>
-            <x>някот жа</x>
-            <phonet>ńakət ža</phonet>
-            <xt lang="fin">juuri nämä.</xt>
-         </xg>
-         <xg>
-            <x>сяка жа</x>
-            <phonet>śakə ža</phonet>
-            <xt lang="fin">samanlainen.</xt>
-         </xg>
-         <xg>
-            <x>сияк жа</x>
-            <phonet>śijak ža</phonet>
-            <xt lang="fin">samalla tavalla.</xt>
-         </xg>
-         <xg>
-            <x>тякокс жа</x>
-            <phonet>ťakəks ža</phonet>
-            <xt lang="fin">juuri niin.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>жо</l>
-         <stg>
-            <st Contlex="PcleTag">жо</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>и</l>
-         <stg>
-            <st Contlex="PcleTag">и</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>i</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ja, myös.</t>
-         </tg>
-         <xg>
-            <x>и мянь</x>
-            <phonet>i mäń</phonet>
-            <xt lang="fin">suorastaan.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ина</l>
-         <stg>
-            <st Contlex="PcleTag">ина</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ina, əna, na</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>siis, niinpä.</t>
-         </tg>
-         <xg>
-            <x>молят ина?</x>
-            <phonet>moľat ina</phonet>
-            <xt lang="fin">lähdetkö siis?</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>инь</l>
-         <stg>
-            <st Contlex="PcleTag">инь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>iń, eń</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>superlatiivin apusana; korkein, ylin, pää-.</t>
-         </tg>
-         <xg>
-            <x>инь клёк эрявикс тев</x>
-            <phonet>iń kľok eŕaviks ťev</phonet>
-            <xt lang="fin">tärkein asia, pääasia.</xt>
-         </xg>
-         <xg>
-            <x>инь оцю</x>
-            <phonet>iń oću</phonet>
-            <xt lang="fin">suurin.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>кати</l>
-         <stg>
-            <st Contlex="PcleTag">кати</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>kaťi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kenties, noinkohan, ehkäpä.</t>
-         </tg>
-         <xg>
-            <x>кати лац, кати аф</x>
-            <phonet>kaťi lac, kaťi af</phonet>
-            <xt lang="fin">ehkä se on hyvä, ehkä ei.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>катк</l>
-         <stg>
-            <st Contlex="PcleTag">катк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>katk</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>imperatiivinen partikkeli.</t>
-         </tg>
-         <xg>
-            <x>катк моли</x>
-            <phonet>katk moľi</phonet>
-            <xt lang="fin">menköön.</xt>
-         </xg>
-         <xg>
-            <x>катк сай</x>
-            <phonet>katk saj</phonet>
-            <xt lang="fin">tulkoon.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>кепшт</l>
-         <stg>
-            <st Contlex="PcleTag">кепшт</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>клёк</l>
-         <stg>
-            <st Contlex="PcleTag">клёк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>kľok</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ihan, oikein; kaikkein.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>конешна</l>
-         <stg>
-            <st Contlex="PcleTag">конешна</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>kańešna</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>tietysti, totta kai.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>къле</l>
-         <stg>
-            <st Contlex="PcleTag">къле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>меколанкт</l>
-         <stg>
-            <st Contlex="PcleTag">меколанкт</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>mekəlaŋkt</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>päinvastoin; nurinpäin; kääntäen.</t>
-         </tg>
-         <xg>
-            <x>сон прокс тиенди меколанкть</x>
-            <phonet>son proks ťijəńďi mekəlaŋkt</phonet>
-            <xt lang="fin">hän tekee aina päinvastoin.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>можботь</l>
-         <stg>
-            <st Contlex="PcleTag">можботь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>может</l>
-         <stg>
-            <st Contlex="PcleTag">может</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>мъле</l>
-         <stg>
-            <st Contlex="PcleTag">мъле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>мяк</l>
-         <stg>
-            <st Contlex="PcleTag">мяк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>mäk</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>jopa, vieläpä.</t>
-         </tg>
-         <xg>
-            <x>минь мяк вири пачкотькшнеме</x>
-            <phonet>miń mäk viŕi pačkəťkšńəmä</phonet>
-            <xt lang="fin">lähdimme jopa metsäänkin.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>мяле</l>
-         <stg>
-            <st Contlex="PcleTag">мяле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>мянь</l>
-         <stg>
-            <st Contlex="PcleTag">мянь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>mäń</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>vieläpä, jopa, suorastaan.</t>
-         </tg>
-         <xg>
-            <x>мянь тянемс</x>
-            <phonet>mäń ťäńəms/ťäńims</phonet>
-            <xt lang="fin">aina tähän päivään asti.</xt>
-         </xg>
-         <xg>
-            <x>мянь тяшкава</x>
-            <phonet>mäń ťäškava/ťaškava</phonet>
-            <xt lang="fin">tähän asti.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>мярьк</l>
-         <stg>
-            <st Contlex="PcleTag">мярьк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>на</l>
-         <stg>
-            <st Contlex="PcleTag">на</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>na</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>no.</t>
-         </tg>
-         <xg>
-            <x>на, сявк марьть</x>
-            <phonet>na, śävk maŕť</phonet>
-            <xt lang="fin">no, otahan omenaa.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>най</l>
-         <stg>
-            <st Contlex="PcleTag">най</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>naj</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>aina.</t>
-         </tg>
-         <xg>
-            <x>аф най</x>
-            <phonet>af naj</phonet>
-            <xt lang="fin">ei aina.</xt>
-         </xg>
-         <xg>
-            <x>най корхтат</x>
-            <phonet>naj korxtat</phonet>
-            <xt lang="fin">puhut jatkuvasti.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>начас</l>
-         <stg>
-            <st Contlex="PcleTag">начас</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>načas, načəs</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. ehkä, mahdollisesti. 2. äkkiä, yhtäkkiä. 3. kunpa ei.</t>
-         </tg>
-         <xg>
-            <x>мон, начас, саян</x>
-            <phonet>mon načəs sajan</phonet>
-            <xt lang="fin">ehkäpä tulen.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>небось</l>
-         <stg>
-            <st Contlex="PcleTag">небось</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>незьля</l>
-         <stg>
-            <st Contlex="PcleTag">незьля</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>нетоком</l>
-         <stg>
-            <st Contlex="PcleTag">нетоком</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ни</l>
-         <stg>
-            <st Contlex="PcleTag">ни</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ńi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>jo.</t>
-         </tg>
-         <xg>
-            <x>нормазень мон пяшкодине ни</x>
-            <phonet>normaźəń mon päškəďińə ńi</phonet>
-            <xt lang="fin">olen jo täyttänyt normini.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ну</l>
-         <stg>
-            <st Contlex="PcleTag">ну</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>nu</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>no, siispä, kylläpä.</t>
-         </tg>
-         <xg>
-            <x>ну и сизень!</x>
-            <phonet>nu i śiźəń</phonet>
-            <xt lang="fin">kylläpä väsyttää!</xt>
-         </xg>
-         <xg>
-            <x>ну, куроконе!</x>
-            <phonet>nu kurəkəńä</phonet>
-            <xt lang="fin">pian nyt!</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>нъльне</l>
-         <stg>
-            <st Contlex="PcleTag">нъльне</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>няк</l>
-         <stg>
-            <st Contlex="PcleTag">няк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ожу</l>
-         <stg>
-            <st Contlex="PcleTag">ожу</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>пади</l>
-         <stg>
-            <st Contlex="PcleTag">пади</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>paďi</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ehkä.</t>
-         </tg>
-         <xg>
-            <x>тон, пади, ваймат?</x>
-            <phonet>ton paďi vajmat</phonet>
-            <xt lang="fin">lepäämässäkö olet?</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>пожалуйста</l>
-         <stg>
-            <st Contlex="PcleTag">пожалуйста</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>pažaləsta</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ole hyvä, olkaa hyvä(t).</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>пъчкяль</l>
-         <stg>
-            <st Contlex="PcleTag">пъчкяль</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>пъчкясь</l>
-         <stg>
-            <st Contlex="PcleTag">пъчкясь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>рьъстей</l>
-         <stg>
-            <st Contlex="PcleTag">рьъстей</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>рязей</l>
-         <stg>
-            <st Contlex="PcleTag">рязей</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>саты</l>
-         <stg>
-            <st Contlex="PcleTag">саты</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>sati</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>riittää.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>сембоц</l>
-         <stg>
-            <st Contlex="PcleTag">сембоц</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>śembəc</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>yhteensä.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>сюкпря</l>
-         <stg>
-            <st Contlex="PcleTag">сюкпря</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>śukpŕä</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. kiitos. 2. tervehdys, kumarrus; terveiset.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>сяда</l>
-         <stg>
-            <st Contlex="PcleTag">сяда</st>
-         </stg>
-      </lg>
-      <pos>PCLE_COMPAR-STND</pos>
-      <phonet>śada</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>komparatiivin apusana.</t>
-         </tg>
-         <xg>
-            <x>сяда касыхть</x>
-            <phonet>śadə kasixť</phonet>
-            <xt lang="fin">kasvavat paremmin.</xt>
-         </xg>
-         <xg>
-            <x>сяда ламолгофтомс</x>
-            <phonet>śadə laməlgəftəms/laməlgaftəms</phonet>
-            <xt lang="fin">lisätä, enentää.</xt>
-         </xg>
-         <xg>
-            <x>сядонга оцю</x>
-            <phonet>śadəŋg(a) oću</phonet>
-            <xt lang="fin">isompi</xt>
-         </xg>
-         <xg>
-            <x>сядонга тёждя</x>
-            <phonet>śadəŋgə ťožďä</phonet>
-            <xt lang="fin">kevyempi, helpompi.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>таки</l>
-         <stg>
-            <st Contlex="PcleTag">таки</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>taki, təki, ťəki</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>kuitenkin, silti.</t>
-         </tg>
-         <xg>
-            <x>танга-таки</x>
-            <phonet>taŋgə-ťəki</phonet>
-            <xt lang="fin">kuitenkin, silti.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>тейне-арам</l>
-         <stg>
-            <st Contlex="PcleTag">тейне-арам</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ťejń(ä)-aram</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>minusta, (minun) mielestäni.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>теконь</l>
-         <stg>
-            <st Contlex="PcleTag">теконь</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>туй</l>
-         <stg>
-            <st Contlex="PcleTag">туй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>тък</l>
-         <stg>
-            <st Contlex="PcleTag">тък</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>тык</l>
-         <stg>
-            <st Contlex="PcleTag">тык</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>тя</l>
-         <stg>
-            <st Contlex="PcleTag">тя</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ťä</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>tämä, se; (mon.) nämä, ne.</t>
-         </tg>
-         <xg>
-            <x>тя ломаттне</x>
-            <phonet>ťä lomaťťńä</phonet>
-            <xt lang="fin">(mon.) nämä/ne ihmiset.</xt>
-         </xg>
-         <xg>
-            <x>тя веня</x>
-            <phonet>ťä veńä</phonet>
-            <xt lang="fin">tänä yönä.</xt>
-         </xg>
-         <xg>
-            <x>тя пяленге</x>
-            <phonet>ťä päľəńgä</phonet>
-            <xt lang="fin">tälläkin puolella.</xt>
-         </xg>
-         <xg>
-            <x>тя пяли</x>
-            <phonet>ťä päľi</phonet>
-            <xt lang="fin">tännepäin.</xt>
-         </xg>
-         <xg>
-            <x>тя пялинге</x>
-            <phonet>ťä päľiŋgä</phonet>
-            <xt lang="fin">tällekin puolelle.</xt>
-         </xg>
-         <xg>
-            <x>тя пяльде</x>
-            <phonet>ťä päľďä</phonet>
-            <xt lang="fin">täältä.</xt>
-         </xg>
-         <xg>
-            <x>тя пингс</x>
-            <phonet>ťä piŋks</phonet>
-            <xt lang="fin">tähän (aikaan) asti.</xt>
-         </xg>
-         <xg>
-            <x>тя шиса ... тона шиса</x>
-            <phonet>ťä šisa … tona šisa</phonet>
-            <xt lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
-         </xg>
-         <xg>
-            <x>тя шитнень</x>
-            <phonet>ťä šiťńəń</phonet>
-            <xt lang="fin">tämänpäiväinen.</xt>
-         </xg>
-         <xg>
-            <x>тят</x>
-            <phonet>ťat</phonet>
-            <xt lang="fin">(mon.) nämä, ne.</xt>
-         </xg>
-         <xg>
-            <x>тянкса</x>
-            <phonet>ťaŋksa</phonet>
-            <xt lang="fin">juuri täällä.</xt>
-         </xg>
-         <xg>
-            <x>тяза</x>
-            <phonet>ťaza</phonet>
-            <xt lang="fin">tänne.</xt>
-         </xg>
-         <xg>
-            <x>тяса</x>
-            <phonet>ťasa</phonet>
-            <xt lang="fin">täällä, tässä.</xt>
-         </xg>
-         <xg>
-            <x>тяса-тоса</x>
-            <phonet>ťasa-tosa</phonet>
-            <xt lang="fin">siellä täällä.</xt>
-         </xg>
-         <xg>
-            <x>тязк</x>
-            <phonet>ťazk</phonet>
-            <xt lang="fin">1. tänne. 2. heti.</xt>
-         </xg>
-         <xg>
-            <x>илядомс тязк</x>
-            <phonet>iľadəms ťazk</phonet>
-            <xt lang="fin">jäädä tänne.</xt>
-         </xg>
-         <xg>
-            <x>кодак ... тязк</x>
-            <phonet>kodak … ťazk</phonet>
-            <xt lang="fin">sitten kun … niin heti.</xt>
-         </xg>
-         <xg>
-            <x>тяста</x>
-            <phonet>ťasta</phonet>
-            <xt lang="fin">täältä.</xt>
-         </xg>
-         <xg>
-            <x>тястотне</x>
-            <phonet>ťastəťńä</phonet>
-            <xt lang="fin">(mon.) täkäläiset.</xt>
-         </xg>
-         <xg>
-            <x>тястонь</x>
-            <phonet>ťastəń</phonet>
-            <xt lang="fin">täkäläinen.</xt>
-         </xg>
-         <xg>
-            <x>тяда башка</x>
-            <phonet>ťadə baška</phonet>
-            <xt lang="fin">sitä paitsi, sen lisäksi.</xt>
-         </xg>
-         <xg>
-            <x>тянкса</x>
-            <phonet>ťäŋksa</phonet>
-            <xt lang="fin">tämän, sen takia.</xt>
-         </xg>
-         <xg>
-            <x>тянди-тонанди</x>
-            <phonet>ťäńďi-tonańďi</phonet>
-            <xt lang="fin">sille ja tälle.</xt>
-         </xg>
-         <xg>
-            <x>тяшкава</x>
-            <phonet>ťäškava, ťaškava</phonet>
-            <xt lang="fin">näin paljon.</xt>
-         </xg>
-         <xg>
-            <x>мянь тяшкамс</x>
-            <phonet>mäń ťäškams</phonet>
-            <xt lang="fin">tähän asti.</xt>
-         </xg>
-         <xg>
-            <x>тяшкас</x>
-            <phonet>ťäškas</phonet>
-            <xt lang="fin">tähän asti.</xt>
-         </xg>
-         <xg>
-            <x>мянь тяшкас</x>
-            <phonet>mäń ťäškas</phonet>
-            <xt lang="fin">tähän asti.</xt>
-         </xg>
-         <xg>
-            <x>тяшкань</x>
-            <phonet>ťäškań</phonet>
-            <xt lang="fin">tämän kokoinen.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>улема</l>
-         <stg>
-            <st Contlex="PcleTag">улема</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>uľəma</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>varmaan, ilmeisesti, nähtävästi.</t>
-         </tg>
-         <xg>
-            <x>сон, улема, аф сай</x>
-            <phonet>son uľəma af saj</phonet>
-            <xt lang="fin">hän ei varmaan tule.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>утль</l>
-         <stg>
-            <st Contlex="PcleTag">утль</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>уш</l>
-         <stg>
-            <st Contlex="PcleTag">уш</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>хоть</l>
-         <stg>
-            <st Contlex="PcleTag">хоть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>хуть</l>
-         <stg>
-            <st Contlex="PcleTag">хуть</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>xuť, xəť, kuť</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>vaikka, joskin.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>хуш</l>
-         <stg>
-            <st Contlex="PcleTag">хуш</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>це</l>
-         <stg>
-            <st Contlex="PcleTag">це</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>ця</l>
-         <stg>
-            <st Contlex="PcleTag">ця</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>цёк</l>
-         <stg>
-            <st Contlex="PcleTag">цёк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>ćok</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>melkein, miltei, lähes.</t>
-         </tg>
-         <xg>
-            <x>сон цёк сембонь тиезень</x>
-            <phonet>son ćok śembəń ťijəźəń</phonet>
-            <xt lang="fin">hän teki melkein kaiken.</xt>
-         </xg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>чай</l>
-         <stg>
-            <st Contlex="PcleTag">чай</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>čäj</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>1. näet, nimittäin, kyllä, -han, -pa. 2. ehkä.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>чяй</l>
-         <stg>
-            <st Contlex="PcleTag">чяй</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>штоба</l>
-         <stg>
-            <st Contlex="PcleTag">штоба</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>štoba</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>jotta, että.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>шять</l>
-         <stg>
-            <st Contlex="PcleTag">шять</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <phonet>šäť</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>ehkä, mahdollisesti.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>эбять</l>
-         <stg>
-            <st Contlex="PcleTag">эбять</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>эвон</l>
-         <stg>
-            <st Contlex="PcleTag">эвон</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>эк</l>
-         <stg>
-            <st Contlex="PcleTag">эк</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>эле</l>
-         <stg>
-            <st Contlex="PcleTag">эле</st>
-         </stg>
-      </lg>
-      <pos>PCLE</pos>
-      <mg>
-         <m>
-            <head/>
-            <defNative/>
-         </m>
-         <tg lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l>эрь</l>
-         <stg>
-            <st Contlex="PcleTag">эрь</st>
-         </stg>
-      </lg>
-      <pos>QNT-UNIV</pos>
-      <phonet>äŕ</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg lang="fin">
-            <t>jokainen.</t>
-         </tg>
-         <xg>
-            <x>эрь шинь</x>
-            <phonet>äŕ šiń</phonet>
-            <xt lang="fin">jokapäiväinen.</xt>
-         </xg>
-         <xg>
-            <x>эрь мезне</x>
-            <phonet>äŕ meźńä</phonet>
-            <xt lang="fin">joka kerta, aina, alituiseen.</xt>
-         </xg>
-      </mg>
-   </e>
+    <lg>
+      <l>а</l>
+
+      <stg>
+        <st Contlex="PcleTag">а</st>
+      </stg>
+    </lg>
+
+    <pos>CC</pos>
+
+    <phonet>a</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ja; mutta, vaan.</t>
+      </tg>
+
+      <xg>
+        <x>мон молян куду, а сон театрав</x>
+
+        <phonet>mon moľan kudu a son ťeatrav</phonet>
+
+        <xt lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>али</l>
+
+      <stg>
+        <st Contlex="PcleTag">али</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>aľi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>tai, vai.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>аньцек</l>
+
+      <stg>
+        <st Contlex="PcleTag">аньцек</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ańćək</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>vain, ainoastaan.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>апак</l>
+
+      <stg>
+        <st Contlex="PcleTag">апак</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>apak</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kieltopartikkeli.</t>
+      </tg>
+
+      <xg>
+        <x>пересь нинге апак сокак</x>
+
+        <phonet>peŕəś ńińg(ä) apak sokak</phonet>
+
+        <xt lang="fin">kasvimaa on vielä kääntämättä.</xt>
+      </xg>
+
+      <xg>
+        <x>куду апак сувсек</x>
+
+        <phonet>kudu apak suvśək</phonet>
+
+        <xt lang="fin">menemättä kotiin.</xt>
+      </xg>
+
+      <xg>
+        <x>апак сизек</x>
+
+        <phonet>apak śiźək</phonet>
+
+        <xt lang="fin">väsymättä.</xt>
+      </xg>
+
+      <xg>
+        <x>апак арьсек</x>
+
+        <phonet>apak aŕśək</phonet>
+
+        <xt lang="fin">ajattelematta, ajattelemattomasti,
+        harkitsemattomasti.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>аф</l>
+
+      <stg>
+        <st Contlex="Pcle-Neg">аф</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>af</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ei</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t pos="Pcle">ne_pas</t>
+      </tg>
+
+      <xg>
+        <x>мон тоза аф молян</x>
+
+        <phonet>mon toza af moľan</phonet>
+
+        <xt lang="fin">minä en sinne mene.</xt>
+      </xg>
+
+      <xg>
+        <x>аньцяйняда аф сембе</x>
+
+        <phonet>ańćäjńad(ə) af śembä</phonet>
+
+        <xt lang="fin">melkein jokainen, melkein kaikki.</xt>
+      </xg>
+
+      <xg>
+        <x>кафта шифтома аф недяля</x>
+
+        <phonet>kafta šiftəm(ə) af ńeďäľä</phonet>
+
+        <xt lang="fin">kahta päivää vaille viikko.</xt>
+      </xg>
+
+      <xg>
+        <x>аф азовомшка оцю</x>
+
+        <phonet>af azəvəmška oću</phonet>
+
+        <xt lang="fin">uskomattoman suuri.</xt>
+      </xg>
+
+      <xg>
+        <x>аф ёру</x>
+
+        <phonet>af joru</phonet>
+
+        <xt lang="fin">vakavissaan, tosissaan.</xt>
+      </xg>
+
+      <xg>
+        <x>аф ичкозе</x>
+
+        <phonet>af ičkəźä</phonet>
+
+        <xt lang="fin">lähellä.</xt>
+      </xg>
+
+      <xg>
+        <x>аф кода</x>
+
+        <phonet>af koda</phonet>
+
+        <xt lang="fin">toisin kuin, toisenlainen kuin.</xt>
+      </xg>
+
+      <xg>
+        <x>аф мани</x>
+
+        <phonet>af mańi</phonet>
+
+        <xt lang="fin">ruma ilma.</xt>
+      </xg>
+
+      <xg>
+        <x>аф мярьгомс</x>
+
+        <phonet>af mäŕgəms</phonet>
+
+        <xt lang="fin">kieltää.</xt>
+      </xg>
+
+      <xg>
+        <x>аф олай</x>
+
+        <phonet>af olaj</phonet>
+
+        <xt lang="fin">haalistumaton.</xt>
+      </xg>
+
+      <xg>
+        <x>аф оцю</x>
+
+        <phonet>af oću</phonet>
+
+        <xt lang="fin">pieni.</xt>
+      </xg>
+
+      <xg>
+        <x>аф цебярь</x>
+
+        <phonet>af ćebäŕ</phonet>
+
+        <xt lang="fin">huono.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>афи</l>
+
+      <stg>
+        <st Contlex="PcleTag">афи</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>afi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>eikä.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>афоли</l>
+
+      <stg>
+        <st Contlex="PcleTag">афоли</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>afoľi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kuulemma.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>аш</l>
+
+      <stg>
+        <st Contlex="Pcle-Neg">аш</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>aš</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ei ole.</t>
+      </tg>
+
+      <xg>
+        <x>аш кода молемс</x>
+
+        <phonet>aš koda moľəms</phonet>
+
+        <xt lang="fin">ei voi mennä.</xt>
+      </xg>
+
+      <xg>
+        <x>ашель месть</x>
+
+        <phonet>ašəľ meśť</phonet>
+
+        <xt lang="fin">ei ollut syytä.</xt>
+      </xg>
+
+      <xg>
+        <x>ашель мзярда</x>
+
+        <phonet>ašəľ məźarda</phonet>
+
+        <xt lang="fin">ei ollut aikaa.</xt>
+      </xg>
+
+      <xg>
+        <x>ашень пяшксе</x>
+
+        <phonet>ašəń päškśä</phonet>
+
+        <xt lang="fin">rutiköyhä.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>бди</l>
+
+      <stg>
+        <st Contlex="PcleTag">бди</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>bəďi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. ehkä. 2. jos.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>бъльшем</l>
+
+      <stg>
+        <st Contlex="PcleTag">бъльшем</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вага</l>
+
+      <stg>
+        <st Contlex="PcleTag">вага</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>vaga</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kas, kas tässä.</t>
+      </tg>
+
+      <xg>
+        <x>вага вдь</x>
+
+        <phonet>vagə vəď</phonet>
+
+        <xt lang="fin">kylläpä.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вельф</l>
+
+      <stg>
+        <st Contlex="PcleTag">вельф</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>виде</l>
+
+      <stg>
+        <st Contlex="PcleTag">виде</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>viďä</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. oikea, tosi, suora, rehellinen. 2.yhtäläinen, sama, samanlainen,
+        tasainen. 3. totuus.</t>
+      </tg>
+
+      <xg>
+        <x>шуфтсь виде</x>
+
+        <phonet>šufć viďə</phonet>
+
+        <xt lang="fin">puu on suora.</xt>
+      </xg>
+
+      <xg>
+        <x>сон виде ломанць</x>
+
+        <phonet>son viďə lomańć</phonet>
+
+        <xt lang="fin">hän on rehellinen ihminen.</xt>
+      </xg>
+
+      <xg>
+        <x>виде кядь</x>
+
+        <phonet>viďə käď</phonet>
+
+        <xt lang="fin">oikea käsi.</xt>
+      </xg>
+
+      <xg>
+        <x>виде пяль</x>
+
+        <phonet>viďə päľ</phonet>
+
+        <xt lang="fin">oikea puoli.</xt>
+      </xg>
+
+      <xg>
+        <x>виде пяли</x>
+
+        <phonet>viďə päľi</phonet>
+
+        <xt lang="fin">oikealle.</xt>
+      </xg>
+
+      <xg>
+        <x>виде сельмоса</x>
+
+        <phonet>viďə śeľməsa</phonet>
+
+        <xt lang="fin">paljaalla silmällä, paljain silmin.</xt>
+      </xg>
+
+      <xg>
+        <x>виде вайме</x>
+
+        <phonet>viďə vajmä</phonet>
+
+        <xt lang="fin">suoraluontoinen.</xt>
+      </xg>
+
+      <xg>
+        <x>виде ваймот</x>
+
+        <phonet>viďə vajmət</phonet>
+
+        <xt lang="fin">suoraan, kaartelematta.</xt>
+      </xg>
+
+      <xg>
+        <x>виде ваймокс</x>
+
+        <phonet>viďə vajməks</phonet>
+
+        <xt lang="fin">tunnollisesti, hyvällä omallatunnolla.</xt>
+      </xg>
+
+      <xg>
+        <x>видеце</x>
+
+        <phonet>viďəćä</phonet>
+
+        <xt lang="fin">olet oikeassa.</xt>
+      </xg>
+
+      <xg>
+        <x>виденц азомс</x>
+
+        <phonet>viďənc azəms</phonet>
+
+        <xt lang="fin">puhua totta.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>видекс</l>
+
+      <stg>
+        <st Contlex="PcleTag">видекс</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>viďəks</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>totta kyllä, todellakin.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вов</l>
+
+      <stg>
+        <st Contlex="PcleTag">вов</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>vov</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>no, kas, kappas, katsos.</t>
+      </tg>
+
+      <xg>
+        <x>вов вдь</x>
+
+        <phonet>vov vəď</phonet>
+
+        <xt lang="fin">kylläpä.</xt>
+      </xg>
+
+      <xg>
+        <x>вов ни эста</x>
+
+        <phonet>vov ńi esta</phonet>
+
+        <xt lang="fin">kas silloinpa.</xt>
+      </xg>
+
+      <xg>
+        <x>вов сась кизось</x>
+
+        <phonet>vov saś kizəś</phonet>
+
+        <xt lang="fin">niin tuli kesä.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ворьть</l>
+
+      <stg>
+        <st Contlex="PcleTag">ворьть</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ворьхть</l>
+
+      <stg>
+        <st Contlex="PcleTag">ворьхть</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>вот</l>
+
+      <stg>
+        <st Contlex="PcleTag">вот</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>въдь</l>
+
+      <stg>
+        <st Contlex="PcleTag">въдь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>голь</l>
+
+      <stg>
+        <st Contlex="PcleTag">голь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>да</l>
+
+      <stg>
+        <st Contlex="PcleTag">да</st>
+      </stg>
+    </lg>
+
+    <pos>FORMULAIC</pos>
+
+    <phonet>da</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kyllä, niin.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>да</l>
+
+      <stg>
+        <st Contlex="PcleTag">да</st>
+      </stg>
+    </lg>
+
+    <pos>CC</pos>
+
+    <phonet>də</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ja, sekä, ynnä.</t>
+      </tg>
+
+      <xg>
+        <x>мон да сон</x>
+
+        <phonet>mon də son</phonet>
+
+        <xt lang="fin">minä ja hän.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дель</l>
+
+      <stg>
+        <st Contlex="PcleTag">дель</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>деряй</l>
+
+      <stg>
+        <st Contlex="PcleTag">деряй</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дряй</l>
+
+      <stg>
+        <st Contlex="PcleTag">дряй</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>дяряй</l>
+
+      <stg>
+        <st Contlex="PcleTag">дяряй</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ďäŕäj</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ehkäpä, jospas.</t>
+      </tg>
+
+      <tg xml:lang="fra">
+        <t pos="Cs">si</t>
+      </tg>
+
+      <xg>
+        <x>дяряй сят аф сёрмадовихть</x>
+
+        <phonet>ďäŕäj śat af śormadəvixť</phonet>
+
+        <xt lang="fin">ehkä niistä ei voi kirjoittaa.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жа</l>
+
+      <stg>
+        <st Contlex="PcleTag">жа</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ža</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. juuri, aivan. 2. sama.</t>
+      </tg>
+
+      <xg>
+        <x>някот жа</x>
+
+        <phonet>ńakət ža</phonet>
+
+        <xt lang="fin">juuri nämä.</xt>
+      </xg>
+
+      <xg>
+        <x>сяка жа</x>
+
+        <phonet>śakə ža</phonet>
+
+        <xt lang="fin">samanlainen.</xt>
+      </xg>
+
+      <xg>
+        <x>сияк жа</x>
+
+        <phonet>śijak ža</phonet>
+
+        <xt lang="fin">samalla tavalla.</xt>
+      </xg>
+
+      <xg>
+        <x>тякокс жа</x>
+
+        <phonet>ťakəks ža</phonet>
+
+        <xt lang="fin">juuri niin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>жо</l>
+
+      <stg>
+        <st Contlex="PcleTag">жо</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>и</l>
+
+      <stg>
+        <st Contlex="PcleTag">и</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>i</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ja, myös.</t>
+      </tg>
+
+      <xg>
+        <x>и мянь</x>
+
+        <phonet>i mäń</phonet>
+
+        <xt lang="fin">suorastaan.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ина</l>
+
+      <stg>
+        <st Contlex="PcleTag">ина</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ina, əna, na</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>siis, niinpä.</t>
+      </tg>
+
+      <xg>
+        <x>молят ина?</x>
+
+        <phonet>moľat ina</phonet>
+
+        <xt lang="fin">lähdetkö siis?</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>инь</l>
+
+      <stg>
+        <st Contlex="PcleTag">инь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>iń, eń</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>superlatiivin apusana; korkein, ylin, pää-.</t>
+      </tg>
+
+      <xg>
+        <x>инь клёк эрявикс тев</x>
+
+        <phonet>iń kľok eŕaviks ťev</phonet>
+
+        <xt lang="fin">tärkein asia, pääasia.</xt>
+      </xg>
+
+      <xg>
+        <x>инь оцю</x>
+
+        <phonet>iń oću</phonet>
+
+        <xt lang="fin">suurin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>кати</l>
+
+      <stg>
+        <st Contlex="PcleTag">кати</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>kaťi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kenties, noinkohan, ehkäpä.</t>
+      </tg>
+
+      <xg>
+        <x>кати лац, кати аф</x>
+
+        <phonet>kaťi lac, kaťi af</phonet>
+
+        <xt lang="fin">ehkä se on hyvä, ehkä ei.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>катк</l>
+
+      <stg>
+        <st Contlex="PcleTag">катк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>katk</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>imperatiivinen partikkeli.</t>
+      </tg>
+
+      <xg>
+        <x>катк моли</x>
+
+        <phonet>katk moľi</phonet>
+
+        <xt lang="fin">menköön.</xt>
+      </xg>
+
+      <xg>
+        <x>катк сай</x>
+
+        <phonet>katk saj</phonet>
+
+        <xt lang="fin">tulkoon.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>кепшт</l>
+
+      <stg>
+        <st Contlex="PcleTag">кепшт</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>клёк</l>
+
+      <stg>
+        <st Contlex="PcleTag">клёк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>kľok</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ihan, oikein; kaikkein.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>конешна</l>
+
+      <stg>
+        <st Contlex="PcleTag">конешна</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>kańešna</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>tietysti, totta kai.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>къле</l>
+
+      <stg>
+        <st Contlex="PcleTag">къле</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>меколанкт</l>
+
+      <stg>
+        <st Contlex="PcleTag">меколанкт</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>mekəlaŋkt</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>päinvastoin; nurinpäin; kääntäen.</t>
+      </tg>
+
+      <xg>
+        <x>сон прокс тиенди меколанкть</x>
+
+        <phonet>son proks ťijəńďi mekəlaŋkt</phonet>
+
+        <xt lang="fin">hän tekee aina päinvastoin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>можботь</l>
+
+      <stg>
+        <st Contlex="PcleTag">можботь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>может</l>
+
+      <stg>
+        <st Contlex="PcleTag">может</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мъле</l>
+
+      <stg>
+        <st Contlex="PcleTag">мъле</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мяк</l>
+
+      <stg>
+        <st Contlex="PcleTag">мяк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>mäk</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>jopa, vieläpä.</t>
+      </tg>
+
+      <xg>
+        <x>минь мяк вири пачкотькшнеме</x>
+
+        <phonet>miń mäk viŕi pačkəťkšńəmä</phonet>
+
+        <xt lang="fin">lähdimme jopa metsäänkin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мяле</l>
+
+      <stg>
+        <st Contlex="PcleTag">мяле</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мянь</l>
+
+      <stg>
+        <st Contlex="PcleTag">мянь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>mäń</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>vieläpä, jopa, suorastaan.</t>
+      </tg>
+
+      <xg>
+        <x>мянь тянемс</x>
+
+        <phonet>mäń ťäńəms/ťäńims</phonet>
+
+        <xt lang="fin">aina tähän päivään asti.</xt>
+      </xg>
+
+      <xg>
+        <x>мянь тяшкава</x>
+
+        <phonet>mäń ťäškava/ťaškava</phonet>
+
+        <xt lang="fin">tähän asti.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>мярьк</l>
+
+      <stg>
+        <st Contlex="PcleTag">мярьк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>на</l>
+
+      <stg>
+        <st Contlex="PcleTag">на</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>na</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>no.</t>
+      </tg>
+
+      <xg>
+        <x>на, сявк марьть</x>
+
+        <phonet>na, śävk maŕť</phonet>
+
+        <xt lang="fin">no, otahan omenaa.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>най</l>
+
+      <stg>
+        <st Contlex="PcleTag">най</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>naj</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>aina.</t>
+      </tg>
+
+      <xg>
+        <x>аф най</x>
+
+        <phonet>af naj</phonet>
+
+        <xt lang="fin">ei aina.</xt>
+      </xg>
+
+      <xg>
+        <x>най корхтат</x>
+
+        <phonet>naj korxtat</phonet>
+
+        <xt lang="fin">puhut jatkuvasti.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>начас</l>
+
+      <stg>
+        <st Contlex="PcleTag">начас</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>načas, načəs</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. ehkä, mahdollisesti. 2. äkkiä, yhtäkkiä. 3. kunpa ei.</t>
+      </tg>
+
+      <xg>
+        <x>мон, начас, саян</x>
+
+        <phonet>mon načəs sajan</phonet>
+
+        <xt lang="fin">ehkäpä tulen.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>небось</l>
+
+      <stg>
+        <st Contlex="PcleTag">небось</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>незьля</l>
+
+      <stg>
+        <st Contlex="PcleTag">незьля</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>нетоком</l>
+
+      <stg>
+        <st Contlex="PcleTag">нетоком</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ни</l>
+
+      <stg>
+        <st Contlex="PcleTag">ни</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ńi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>jo.</t>
+      </tg>
+
+      <xg>
+        <x>нормазень мон пяшкодине ни</x>
+
+        <phonet>normaźəń mon päškəďińə ńi</phonet>
+
+        <xt lang="fin">olen jo täyttänyt normini.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ну</l>
+
+      <stg>
+        <st Contlex="PcleTag">ну</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>nu</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>no, siispä, kylläpä.</t>
+      </tg>
+
+      <xg>
+        <x>ну и сизень!</x>
+
+        <phonet>nu i śiźəń</phonet>
+
+        <xt lang="fin">kylläpä väsyttää!</xt>
+      </xg>
+
+      <xg>
+        <x>ну, куроконе!</x>
+
+        <phonet>nu kurəkəńä</phonet>
+
+        <xt lang="fin">pian nyt!</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>нъльне</l>
+
+      <stg>
+        <st Contlex="PcleTag">нъльне</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>няк</l>
+
+      <stg>
+        <st Contlex="PcleTag">няк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ожу</l>
+
+      <stg>
+        <st Contlex="PcleTag">ожу</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пади</l>
+
+      <stg>
+        <st Contlex="PcleTag">пади</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>paďi</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ehkä.</t>
+      </tg>
+
+      <xg>
+        <x>тон, пади, ваймат?</x>
+
+        <phonet>ton paďi vajmat</phonet>
+
+        <xt lang="fin">lepäämässäkö olet?</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пожалуйста</l>
+
+      <stg>
+        <st Contlex="PcleTag">пожалуйста</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>pažaləsta</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ole hyvä, olkaa hyvä(t).</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пъчкяль</l>
+
+      <stg>
+        <st Contlex="PcleTag">пъчкяль</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>пъчкясь</l>
+
+      <stg>
+        <st Contlex="PcleTag">пъчкясь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>рьъстей</l>
+
+      <stg>
+        <st Contlex="PcleTag">рьъстей</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>рязей</l>
+
+      <stg>
+        <st Contlex="PcleTag">рязей</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>саты</l>
+
+      <stg>
+        <st Contlex="PcleTag">саты</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>sati</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>riittää.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>сембоц</l>
+
+      <stg>
+        <st Contlex="PcleTag">сембоц</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>śembəc</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>yhteensä.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>сюкпря</l>
+
+      <stg>
+        <st Contlex="PcleTag">сюкпря</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>śukpŕä</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. kiitos. 2. tervehdys, kumarrus; terveiset.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>сяда</l>
+
+      <stg>
+        <st Contlex="PcleTag">сяда</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE_COMPAR-STND</pos>
+
+    <phonet>śada</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>komparatiivin apusana.</t>
+      </tg>
+
+      <xg>
+        <x>сяда касыхть</x>
+
+        <phonet>śadə kasixť</phonet>
+
+        <xt lang="fin">kasvavat paremmin.</xt>
+      </xg>
+
+      <xg>
+        <x>сяда ламолгофтомс</x>
+
+        <phonet>śadə laməlgəftəms/laməlgaftəms</phonet>
+
+        <xt lang="fin">lisätä, enentää.</xt>
+      </xg>
+
+      <xg>
+        <x>сядонга оцю</x>
+
+        <phonet>śadəŋg(a) oću</phonet>
+
+        <xt lang="fin">isompi</xt>
+      </xg>
+
+      <xg>
+        <x>сядонга тёждя</x>
+
+        <phonet>śadəŋgə ťožďä</phonet>
+
+        <xt lang="fin">kevyempi, helpompi.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>таки</l>
+
+      <stg>
+        <st Contlex="PcleTag">таки</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>taki, təki, ťəki</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>kuitenkin, silti.</t>
+      </tg>
+
+      <xg>
+        <x>танга-таки</x>
+
+        <phonet>taŋgə-ťəki</phonet>
+
+        <xt lang="fin">kuitenkin, silti.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тейне-арам</l>
+
+      <stg>
+        <st Contlex="PcleTag">тейне-арам</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ťejń(ä)-aram</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>minusta, (minun) mielestäni.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>теконь</l>
+
+      <stg>
+        <st Contlex="PcleTag">теконь</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>туй</l>
+
+      <stg>
+        <st Contlex="PcleTag">туй</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тък</l>
+
+      <stg>
+        <st Contlex="PcleTag">тък</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тык</l>
+
+      <stg>
+        <st Contlex="PcleTag">тык</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>тя</l>
+
+      <stg>
+        <st Contlex="PcleTag">тя</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ťä</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>tämä, se; (mon.) nämä, ne.</t>
+      </tg>
+
+      <xg>
+        <x>тя ломаттне</x>
+
+        <phonet>ťä lomaťťńä</phonet>
+
+        <xt lang="fin">(mon.) nämä/ne ihmiset.</xt>
+      </xg>
+
+      <xg>
+        <x>тя веня</x>
+
+        <phonet>ťä veńä</phonet>
+
+        <xt lang="fin">tänä yönä.</xt>
+      </xg>
+
+      <xg>
+        <x>тя пяленге</x>
+
+        <phonet>ťä päľəńgä</phonet>
+
+        <xt lang="fin">tälläkin puolella.</xt>
+      </xg>
+
+      <xg>
+        <x>тя пяли</x>
+
+        <phonet>ťä päľi</phonet>
+
+        <xt lang="fin">tännepäin.</xt>
+      </xg>
+
+      <xg>
+        <x>тя пялинге</x>
+
+        <phonet>ťä päľiŋgä</phonet>
+
+        <xt lang="fin">tällekin puolelle.</xt>
+      </xg>
+
+      <xg>
+        <x>тя пяльде</x>
+
+        <phonet>ťä päľďä</phonet>
+
+        <xt lang="fin">täältä.</xt>
+      </xg>
+
+      <xg>
+        <x>тя пингс</x>
+
+        <phonet>ťä piŋks</phonet>
+
+        <xt lang="fin">tähän (aikaan) asti.</xt>
+      </xg>
+
+      <xg>
+        <x>тя шиса ... тона шиса</x>
+
+        <phonet>ťä šisa … tona šisa</phonet>
+
+        <xt lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
+      </xg>
+
+      <xg>
+        <x>тя шитнень</x>
+
+        <phonet>ťä šiťńəń</phonet>
+
+        <xt lang="fin">tämänpäiväinen.</xt>
+      </xg>
+
+      <xg>
+        <x>тят</x>
+
+        <phonet>ťat</phonet>
+
+        <xt lang="fin">(mon.) nämä, ne.</xt>
+      </xg>
+
+      <xg>
+        <x>тянкса</x>
+
+        <phonet>ťaŋksa</phonet>
+
+        <xt lang="fin">juuri täällä.</xt>
+      </xg>
+
+      <xg>
+        <x>тяза</x>
+
+        <phonet>ťaza</phonet>
+
+        <xt lang="fin">tänne.</xt>
+      </xg>
+
+      <xg>
+        <x>тяса</x>
+
+        <phonet>ťasa</phonet>
+
+        <xt lang="fin">täällä, tässä.</xt>
+      </xg>
+
+      <xg>
+        <x>тяса-тоса</x>
+
+        <phonet>ťasa-tosa</phonet>
+
+        <xt lang="fin">siellä täällä.</xt>
+      </xg>
+
+      <xg>
+        <x>тязк</x>
+
+        <phonet>ťazk</phonet>
+
+        <xt lang="fin">1. tänne. 2. heti.</xt>
+      </xg>
+
+      <xg>
+        <x>илядомс тязк</x>
+
+        <phonet>iľadəms ťazk</phonet>
+
+        <xt lang="fin">jäädä tänne.</xt>
+      </xg>
+
+      <xg>
+        <x>кодак ... тязк</x>
+
+        <phonet>kodak … ťazk</phonet>
+
+        <xt lang="fin">sitten kun … niin heti.</xt>
+      </xg>
+
+      <xg>
+        <x>тяста</x>
+
+        <phonet>ťasta</phonet>
+
+        <xt lang="fin">täältä.</xt>
+      </xg>
+
+      <xg>
+        <x>тястотне</x>
+
+        <phonet>ťastəťńä</phonet>
+
+        <xt lang="fin">(mon.) täkäläiset.</xt>
+      </xg>
+
+      <xg>
+        <x>тястонь</x>
+
+        <phonet>ťastəń</phonet>
+
+        <xt lang="fin">täkäläinen.</xt>
+      </xg>
+
+      <xg>
+        <x>тяда башка</x>
+
+        <phonet>ťadə baška</phonet>
+
+        <xt lang="fin">sitä paitsi, sen lisäksi.</xt>
+      </xg>
+
+      <xg>
+        <x>тянкса</x>
+
+        <phonet>ťäŋksa</phonet>
+
+        <xt lang="fin">tämän, sen takia.</xt>
+      </xg>
+
+      <xg>
+        <x>тянди-тонанди</x>
+
+        <phonet>ťäńďi-tonańďi</phonet>
+
+        <xt lang="fin">sille ja tälle.</xt>
+      </xg>
+
+      <xg>
+        <x>тяшкава</x>
+
+        <phonet>ťäškava, ťaškava</phonet>
+
+        <xt lang="fin">näin paljon.</xt>
+      </xg>
+
+      <xg>
+        <x>мянь тяшкамс</x>
+
+        <phonet>mäń ťäškams</phonet>
+
+        <xt lang="fin">tähän asti.</xt>
+      </xg>
+
+      <xg>
+        <x>тяшкас</x>
+
+        <phonet>ťäškas</phonet>
+
+        <xt lang="fin">tähän asti.</xt>
+      </xg>
+
+      <xg>
+        <x>мянь тяшкас</x>
+
+        <phonet>mäń ťäškas</phonet>
+
+        <xt lang="fin">tähän asti.</xt>
+      </xg>
+
+      <xg>
+        <x>тяшкань</x>
+
+        <phonet>ťäškań</phonet>
+
+        <xt lang="fin">tämän kokoinen.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>улема</l>
+
+      <stg>
+        <st Contlex="PcleTag">улема</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>uľəma</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>varmaan, ilmeisesti, nähtävästi.</t>
+      </tg>
+
+      <xg>
+        <x>сон, улема, аф сай</x>
+
+        <phonet>son uľəma af saj</phonet>
+
+        <xt lang="fin">hän ei varmaan tule.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>утль</l>
+
+      <stg>
+        <st Contlex="PcleTag">утль</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>уш</l>
+
+      <stg>
+        <st Contlex="PcleTag">уш</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>хоть</l>
+
+      <stg>
+        <st Contlex="PcleTag">хоть</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>хуть</l>
+
+      <stg>
+        <st Contlex="PcleTag">хуть</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>xuť, xəť, kuť</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>vaikka, joskin.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>хуш</l>
+
+      <stg>
+        <st Contlex="PcleTag">хуш</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>це</l>
+
+      <stg>
+        <st Contlex="PcleTag">це</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>ця</l>
+
+      <stg>
+        <st Contlex="PcleTag">ця</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>цёк</l>
+
+      <stg>
+        <st Contlex="PcleTag">цёк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>ćok</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>melkein, miltei, lähes.</t>
+      </tg>
+
+      <xg>
+        <x>сон цёк сембонь тиезень</x>
+
+        <phonet>son ćok śembəń ťijəźəń</phonet>
+
+        <xt lang="fin">hän teki melkein kaiken.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>чай</l>
+
+      <stg>
+        <st Contlex="PcleTag">чай</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>čäj</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>1. näet, nimittäin, kyllä, -han, -pa. 2. ehkä.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>чяй</l>
+
+      <stg>
+        <st Contlex="PcleTag">чяй</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>штоба</l>
+
+      <stg>
+        <st Contlex="PcleTag">штоба</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>štoba</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>jotta, että.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>шять</l>
+
+      <stg>
+        <st Contlex="PcleTag">шять</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>šäť</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>ehkä, mahdollisesti.</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эбять</l>
+
+      <stg>
+        <st Contlex="PcleTag">эбять</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эвон</l>
+
+      <stg>
+        <st Contlex="PcleTag">эвон</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эк</l>
+
+      <stg>
+        <st Contlex="PcleTag">эк</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эле</l>
+
+      <stg>
+        <st Contlex="PcleTag">эле</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <mg>
+      <m>
+        <head/>
+
+        <defNative/>
+      </m>
+
+      <tg lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l>эрь</l>
+
+      <stg>
+        <st Contlex="PcleTag">эрь</st>
+      </stg>
+    </lg>
+
+    <pos>QNT-UNIV</pos>
+
+    <phonet>äŕ</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg lang="fin">
+        <t>jokainen.</t>
+      </tg>
+
+      <xg>
+        <x>эрь шинь</x>
+
+        <phonet>äŕ šiń</phonet>
+
+        <xt lang="fin">jokapäiväinen.</xt>
+      </xg>
+
+      <xg>
+        <x>эрь мезне</x>
+
+        <phonet>äŕ meźńä</phonet>
+
+        <xt lang="fin">joka kerta, aina, alituiseen.</xt>
+      </xg>
+    </mg>
+  </e>
 </r>

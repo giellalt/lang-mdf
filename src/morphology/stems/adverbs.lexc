@@ -462,7 +462,6 @@ LEXICON adverbs
 коволдонь:коволдонь ADV_  "mistä" ;
 ковонга:ковонга ADV_  "jonnekin; (ei) minnekään" ;
 ковшка:ковшка ADV_  "kuukauden verran, noin kuukausi" ;
-кода:кода ADV_  "kuinka, miten" ;
 кодгемоньксть:кодгемоньксть ADV_  "kuusikymmentä kertaa" ;
 кодякс:кодякс ADV_  "kaltaiseksi, samanlaiseksi" ;
 коза:коза ADV_  "1. minne, mihin. 2. missä" ;
@@ -512,12 +511,7 @@ LEXICON adverbs
 копылда:копылда ADV_  "selin, takaperin" ;
 копылфца:копылфца ADV_  "(juosta) laukkaa" ;
 кородозь:кородозь ADV_  "hellävaroen, varovasti" ;
-коса:коса ADV_  "missä" ;
-косовок:косовок ADV_  "ei missään; jossakin" ;
 косойста:косойста ADV_  "vinosti, vinoon, viistoon; karsaasti, kieroon, kierosti" ;
-косонга:косонга ADV_  "ei missään; jossakin" ;
-коста:коста ADV_  "mistä; koska, milloin" ;
-костонга:костонга ADV_  "jostakin; (ei) mistään; (ei) milloinkaan, (ei) koskaan" ;
 костонь:костонь ADV_  "mistä kotoisin (oleva)" ;
 коськоняста:коськоняста ADV_  "kuivaksi; kuivasti; kuivalla säällä" ;
 коськста:коськста ADV_  "kuivaksi; kuivasti; kuivalla säällä" ;
@@ -558,7 +552,6 @@ LEXICON adverbs
 кштизь:кштизь ADV_  "tanssien, hetkuen, nytkyen" ;
 кърганьпяльцек:кърганьпяльцек ADV_  "kaulakkain, kaulatusten, kaulatuksin" ;
 къргацек:къргацек ADV_  "kaulakkain, kaulatusten, kaulatuksin" ;
-кържа:кържа ADV_  "vähän; vähemmän" ;
 кърназь:кърназь ADV_  "kuorsaten, koristen" ;
 кърхкаста:кърхкаста ADV_  "syvältä, syvästi" ;
 кърхтапа:кърхтапа ADV_  "alasti, paljaana" ;
@@ -598,7 +591,6 @@ LEXICON adverbs
 лажназь-пичедезь:лажназь-пичедезь ADV_  "valittavasti, surkeasti, surullisesti" ;
 лаказь:лаказь ADV_  "keimaillen; kiehuen; huolestuneesti" ;
 лакштордозь:лакштордозь ADV_  "risahtaen, rasahtaen, rutisten" ;
-лама:лама ADV_  "paljon, monta, moni-" ;
 ламбамняста:ламбамняста ADV_  "makeasti, maukkaasti; äitelästi" ;
 ламбаста:ламбаста ADV_  "makeasti, maukkaasti, äitelästi" ;
 ламня:ламня ADV_  "paljon, monta, moni-" ;
@@ -666,7 +658,7 @@ LEXICON adverbs
 мазиняста:мазиняста ADV_  "kauniisti" ;
 мазиста:мазиста ADV_  "kauniisti" ;
 мазыста:мазыста ADV_  "kauniisti" ;
-мала:мала ADV_  "läheinen, lähi-" ;
+маласа:маласа ADV_  "lähellä, läheisyydessä" ;
 малость:малость ADV_  "hiukan, hieman, vähän" ;
 малaняс:малaняс ADV_  "vähän lähemmäksi" ;
 мана:мана ADV_  "toissa vuonna, kaksi vuotta sitten" ;
@@ -730,8 +722,6 @@ LEXICON adverbs
 мъзяра-бъди:мъзяра-бъди ADV_  "jonkin verran" ;
 мъзяра-мъзяра:мъзяра-мъзяра ADV_  "jonkin verran" ;
 мъзяра_аф_мъзяра:мъзяра_аф_мъзяра ADV_  "jonkin verran" ;
-мъзярда:мъзярда ADV_  "milloin, koska, mihin aikaan" ;
-мъзярда-бъди:мъзярда-бъди ADV_  "joskus" ;
 мъзярда-мъзярда:мъзярда-мъзярда ADV_  "jolloinkin" ;
 мъзярда_аф_мъзярда:мъзярда_аф_мъзярда ADV_  "jolloinkin" ;
 мъзярдовок:мъзярдовок ADV_  "(ei) koskaan, (ei) ikinä, (ei) milloinkaan" ;
@@ -742,7 +732,6 @@ LEXICON adverbs
 мъзярняс:мъзярняс ADV_  "kauanko, pitkäänkö; toistaiseksi, joksikin aikaa; milloin, mihin aikaan" ;
 мъзярода:мъзярода ADV_  "paljonko, kuinka paljon; paljonko, minkä verran" ;
 мъзяронза:мъзяронза ADV_  "paljonko, montako (elollisista)" ;
-мъзярошка:мъзярошка ADV_  "kuinka paljon suunnilleen; jonkin verran, muutama" ;
 мъзярошка-мъзярошка:мъзярошка-мъзярошка ADV_  "jonkin verran, jokin määrä" ;
 мъзярошка_аф_мъзярошка:мъзярошка_аф_мъзярошка ADV_  "jonkin verran, jokin määrä" ;
 мъзярошкавок:мъзярошкавок ADV_  "muutama, jonkin verran" ;
@@ -1060,7 +1049,7 @@ LEXICON adverbs
 сельмодезь:сельмодезь ADV_  "kateellisena, kadehtien, kademielin" ;
 сельмонек-шаманек:сельмонек-шаманек ADV_  "koko kasvoillaan" ;
 сельмос-шамас:сельмос-шамас ADV_  "vilpittömästi, avoimesti; ulkonäöltään, ulkomuodoltaan" ;
-сембе:сембе ADV_  "kaikki; superlatiivin apusana" ;
+сембе:сембе ADV_  "superlatiivin apusana" ;
 середеньпяли:середеньпяли ADV_  "vanhoilla päivillään" ;
 середеньпяльхть:середеньпяльхть ADV_  "vanhoilla päivillään" ;
 сериста:сериста ADV_  "korkealla, korkealle" ;
@@ -1289,7 +1278,7 @@ LEXICON adverbs
 топодень_пект:топодень_пект ADV_  "täydellä vatsalla, kylläisenä" ;
 топоцьта:топоцьта ADV_  "kylläinen; kylläisenä" ;
 торжественна:торжественна ADV_  "juhlallisesti" ;
-тоса:тоса ADV_  "1. siellä, tuolla. 2. silloin" ;
+тоса:тоса ADV_  "1. siellä, tuolla" ;
 тосонга:тосонга ADV_  "sielläkin" ;
 тоста:тоста ADV_  "1. sieltä. 2. silloin" ;
 точна:точна ADV_  "täsmällisesti, ajoissa; oikein, tarkasti, itse asiassa" ;
