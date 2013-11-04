@@ -15,7 +15,8 @@ TENST ;			! 30000-99999,10000-10999
 TWEENST ;		! 21000-29999
 TEENST ;		! 11000-19999
 ONEST ;			! 2000-9999
-тёжань:1 THOUSAND ;	! 1000-1999
+тёжань:1 THOUSAND-PLUS ;	! 1001-1999
+тёжан:1 THOUSAND ;	! 1000
 UNDERTHOUSAND ;		! 100-999
 TENS ;			! 30-99
 TWEENS ;		! 20-29 ! not just Hobbits
@@ -113,7 +114,7 @@ HUNDREDST ;		! x00.000.000
 :%0 TWEENST ;		!  20.000.000
 :%0 TEENST ;		!  10.000.000
 :%0%0 ONEST ;		!   2.000.000
-тёжань:%0%01 THOUSAND ;	!   1.000.000
+тёжань:%0%01 THOUSAND-PLUS ;	!   1.000.000
 :%0%0%0 UNDERTHOUSAND ;	
 :%0%0%0%0 TENS ;
 :%0%0%0%0 TWEENS ;
@@ -201,17 +202,21 @@ LEXICON ONEST
 вейхкса% :9 THOUSANDS ;
 
 LEXICON THOUSANDS      ! x > 1
-% тёжань: THOUSAND ;
+% тёжань: THOUSAND-PLUS ;
 % тёжань% :%0%0%0 COMMA ;	   ! 1000
+% тёжанце% :%0%0%0%+це COMMA ;	   ! 1000
+% тёжанце+Use/SpellNoSugg% :%0%0%0 COMMA ;	   ! 1000
 
 
-LEXICON THOUSAND
+LEXICON THOUSAND-PLUS
 % : UNDERTHOUSAND ;	   ! 1100-1999
 % :%0 TENS ;	   ! 1030-1099
 % :%0 TEENS ;	   ! 1010-1019
 % :%0 TWEENS ;	   ! 1020-1029
 % :%0%0 ONES ;	   ! 1001-1009
-:%0%0%0 COMMA ;	   !!= @CODE@ 
+
+LEXICON THOUSAND
+ь:%0%0%0 COMMA ;	   !!= @CODE@ 
 це% :%0%0%0%-це COMMA ;	   !!= @CODE@ 
 це+Use/SpellNoSugg% :%0%0%0 COMMA ;	   !!= @CODE@ Sometimes there is no marking
 !===========================
