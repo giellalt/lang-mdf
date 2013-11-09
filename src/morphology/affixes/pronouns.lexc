@@ -10,8 +10,10 @@
 LEXICON PRON_
 +Pron+TYÄ: #;
 
-LEXICON PersSg1
+LEXICON PERS-SG1
 !мон:мон
++Pron+Pers+Sg1+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Sg1+Der/MWN+N+SP+Abe+Indef:нефтома K ;
 +Pron+Pers+Sg1+Nom: K ;
 +Pron+Pers+Sg1+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg1+Gen:ь K ;
@@ -28,8 +30,10 @@ LEXICON PersSg1
 +Pron+Pers+Sg1+Intensive+Gen+Foc/Ге:ценьге K ;
 +Pron+Pers+Sg1+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
-LEXICON PersSg2
+LEXICON PERS-SG2
 ! тон:тон
++Pron+Pers+Sg2+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Sg2+Der/MWN+N+SP+Abe+Indef:нефтома K ;
 +Pron+Pers+Sg2+Nom: K ;
 +Pron+Pers+Sg2+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg2+Gen:ь K ;
@@ -46,8 +50,10 @@ LEXICON PersSg2
 +Pron+Pers+Sg2+Intensive+Gen+Foc/Ге:ценьге K ;
 +Pron+Pers+Sg2+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
-LEXICON PersSg3
+LEXICON PERS-SG3
 ! сон:сон
++Pron+Pers+Sg3+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Sg3+Der/MWN+N+SP+Abe+Indef:нефтома K ;
 +Pron+Pers+Sg3+Nom: K ;
 +Pron+Pers+Sg3+Nom+Foc/Ге:га K ;
 +Pron+Pers+Sg3+Gen:ь K ;
@@ -64,8 +70,10 @@ LEXICON PersSg3
 +Pron+Pers+Sg3+Intensive+Gen+Foc/Ге:ценьге K ;
 +Pron+Pers+Sg3+Intensive+Gen+Der/не+Pl+Nom:ценнеть K ;
 
-LEXICON PersPl1
+LEXICON PERS-PL1
 !минь:мин
++Pron+Pers+Pl1+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Pl1+Der/MWN+N+SP+Abe+Indef:нефтоманк K ;
 +Pron+Pers+Pl1+Nom:ь K ;
 +Pron+Pers+Pl1+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl1+Gen:ь K ;
@@ -76,8 +84,10 @@ LEXICON PersPl1
 +Pron+Pers+Pl1+Intensive+Nom+Foc/Ге:цьке K ;
 +Pron+Pers+Pl1+Intensive+Gen:цень K ;
 
-LEXICON PersPl2
+LEXICON PERS-PL2
 !тинь:тин
++Pron+Pers+Pl2+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Pl2+Der/MWN+N+SP+Abe+Indef:нефтомант K ;
 +Pron+Pers+Pl2+Nom:ь K ;
 +Pron+Pers+Pl2+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl2+Gen:ь K ;
@@ -87,8 +97,10 @@ LEXICON PersPl2
 +Pron+Pers+Pl2+Intensive+Nom+Foc/Ге:цьке K ;
 +Pron+Pers+Pl2+Intensive+Gen:цень K ;
 
-LEXICON PersPl3
-!синь:син
+LEXICON PERS-PL3
+!!синь:син
++Pron+Pers+Pl3+Der/MWN+N: PERS-POSSESSA ; 
++Pron+Pers+Pl3+Der/MWN+N+SP+Abe+Indef:нефтомаст K ; !
 +Pron+Pers+Pl3+Nom:ь K ;
 +Pron+Pers+Pl3+Nom+Foc/Ге:ьге K ;
 +Pron+Pers+Pl3+Gen:ь K ;
@@ -97,8 +109,49 @@ LEXICON PersPl3
 +Pron+Pers+Pl3+Intensive+Nom:ць K ;
 +Pron+Pers+Pl3+Intensive+Nom+Foc/Ге:цьке K ;
 +Pron+Pers+Pl3+Intensive+Gen:цень K ;
+!!
 
+LEXICON PERS-POSSESSA
+!! !Indefinite
++Intensive+SP+Abe+Indef:ценнефтома K ;
++SP+Abl+Indef:неда K ;
++Intensive+SP+Abl+Indef:ценнеда K ;
++SP+Cau+Indef:ненкса K ;
++Intensive+SP+Cau+Indef:ценненкса K ;
++SP+Comp/Sh+Indef:нешка K ;
++Intensive+SP+Comp/Sh+Indef:ценнешка K ;
++SP+Ela+Indef:неста K ;
++Intensive+SP+Ela+Indef:ценнеста K ;
++SP+Ill+Indef:нес K ;
++Intensive+SP+Ill+Indef:ценнес K ;
++SP+Ine+Indef:неса K ;
++Intensive+SP+Ine+Indef:ценнеса K ;
++SP+Prl+Indef:нева K ;
++Intensive+SP+Prl+Indef:ценнева K ;
++SP+Tra+Indef:некс K ;
++Intensive+SP+Tra+Indef:ценнекс K ;
 
+!! !Definite
++Sg+Nom+Def:несь K ;
++Intensive+Sg+Nom+Def:ценнесь K ;
++Sg+Gen+Def:неть K ;
++Intensive+Sg+Gen+Def:ценнеть K ;
++Sg+Dat+Def:нети K ;
++Intensive+Sg+Dat+Def:ценнети K ;
+
+!! !NON-STRESSED DATIVE PRONOUNS
+LEXICON PERS-SG1-IS-DAT
++Pron+Pers+Sg1+Dat: # ;
+LEXICON PERS-SG2-IS-DAT
++Pron+Pers+Sg2+Dat: # ;
+LEXICON PERS-SG3-IS-DAT
++Pron+Pers+Sg3+Dat: # ;
+LEXICON PERS-PL1-IS-DAT
++Pron+Pers+Pl1+Dat: # ;
+LEXICON PERS-PL2-IS-DAT
++Pron+Pers+Pl2+Dat: # ;
+LEXICON PERS-PL3-IS-DAT
++Pron+Pers+Pl3+Dat: # ;
 
 ! vim: set ft=xfst-lexc:
 
