@@ -23,45 +23,45 @@ Multichar_Symbols
 !! The morphological analyses of wordforms of UNDEFINED language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
-+TYÄ ! Underdeveloped.
++TYÄ 	!!= @CODE@ Underdeveloped.
 
 !! The parts-of-speech are:
- +A ! adjective
- +Adv ! adverb
- +CS ! subordinating conjunction
- +CC ! coordinating conjunction
- +Interj ! interjection
- +N ! noun
- +Pcle ! particle
- +Po ! postposition
- +Pron ! pronoun
- +Qnt ! Quantifier
- +V ! verb
+ +A 	!!= @CODE@ adjective
+ +Adv 	!!= @CODE@ adverb
+ +CS 	!!= @CODE@ subordinating conjunction
+ +CC 	!!= @CODE@ coordinating conjunction
+ +Interj 	!!= @CODE@ interjection
+ +N 	!!= @CODE@ noun
+ +Pcle 	!!= @CODE@ particle
+ +Po 	!!= @CODE@ postposition
+ +Pron 	!!= @CODE@ pronoun
+ +Qnt 	!!= @CODE@ Quantifier
+ +V 	!!= @CODE@ verb
 
 !! The parts of speech are further split up into:
 ! Nouns
- +Prop ! proper
- +CollN ! used with paired nouns _collective nouns_
+ +Prop 	!!= @CODE@ proper
+ +CollN 	!!= @CODE@ used with paired nouns _collective nouns_
 ! Pronouns
- +Dem ! demonstrative
- +Indef ! indefinite
- +Dep ! dependent word requiring the presence of another, e.g. _мень_
- +Intensive ! intensive pronoun
- +Interr ! interrogative
- +Pers ! personal
- +Recipr ! reciprocal
- +Refl ! reflexive
- +Rel ! relative
+ +Dem 	!!= @CODE@ demonstrative
+ +Indef 	!!= @CODE@ indefinite
+ +Dep 	!!= @CODE@ dependent word requiring the presence of another, e.g. _мень_
+ +Intensive 	!!= @CODE@ intensive pronoun
+ +Interr 	!!= @CODE@ interrogative
+ +Pers 	!!= @CODE@ personal
+ +Recipr 	!!= @CODE@ reciprocal
+ +Refl 	!!= @CODE@ reflexive
+ +Rel 	!!= @CODE@ relative
 ! personal pronouns use additional tags Sg1
  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
 
 ! Adverbs
- +Adv-Ideoph ! These are ideophonic descriptors used to modify the verb
-            ! вырк ливтясь '_flit_ and it flew off'
- +AdA ! Ad-adjective
- +Manner ! with reference to type of adverb
- +Spat ! spatial
- +Temp ! temporal
+ +Adv-Ideoph 	!!= @CODE@ These are ideophonic descriptors used to modify the verb
+            	!!= @CODE@ вырк ливтясь '_flit_ and it flew off'
+ +AdA 	!!= @CODE@ Ad-adjective
+ +Manner 	!!= @CODE@ with reference to type of adverb
+ +Spat 	!!= @CODE@ spatial
+ +Temp 	!!= @CODE@ temporal
 
 ! Postpositions
 ! _+ Spat_, _+ Temp_
@@ -75,106 +75,108 @@ Multichar_Symbols
 
 !! The nominals are inflected in the following Case and Number
 ! number
- +Sg ! singular
- +Pl ! plural
+ +Sg 	!!= @CODE@ singular
+ +Pl 	!!= @CODE@ plural
 ! case
- +Abe ! abessive
- +Abl ! ablative
- +Acc ! accusative Not really necessary
- +Com ! comitative
+ +Abe 	!!= @CODE@ abessive
+ +Abl 	!!= @CODE@ ablative
+ +Acc 	!!= @CODE@ accusative Not really necessary
+ +Cau 	!!= @CODE@ causatative
+ +Com 	!!= @CODE@ comitative
+ +Comp/Sh 	!!= @CODE@ comparative -шка
  +Com/Sh
- +Dat ! dative
- +Ela ! elative
- +Gen ! genitive
- +Ill ! illative
- +Ine ! inessive
- +Loc ! locative 
- +Nom ! nominative
- +Prl ! prolative
- +Tra ! translative
- +Voc ! Vocative
+ +Dat 	!!= @CODE@ dative
+ +Ela 	!!= @CODE@ elative
+ +Gen 	!!= @CODE@ genitive
+ +Ill 	!!= @CODE@ illative
+ +Ine 	!!= @CODE@ inessive
+ +Loc 	!!= @CODE@ locative 
+ +Nom 	!!= @CODE@ nominative
+ +Prl 	!!= @CODE@ prolative
+ +Tra 	!!= @CODE@ translative
+ +Voc 	!!= @CODE@ Vocative
  
 !! The possession is marked as such:
- +PxSg1 ! first person singular
- +PxSg2 ! second person singular
- +PxSg3 ! third person singular
- +PxPl1 ! first person plural
- +PxPl2 ! second person plural
- +PxPl3 ! third person plural
+ +PxSg1 	!!= @CODE@ first person singular
+ +PxSg2 	!!= @CODE@ second person singular
+ +PxSg3 	!!= @CODE@ third person singular
+ +PxPl1 	!!= @CODE@ first person plural
+ +PxPl2 	!!= @CODE@ second person plural
+ +PxPl3 	!!= @CODE@ third person plural
 
  ! + InDef This has been changed to +Indef
- +Def ! Definite
+ +Def 	!!= @CODE@ Definite
 
 !! The comparative forms are:
- +Comp ! comparative as opposed to superlative
- +Superl ! superlative
+ +Comp 	!!= @CODE@ comparative as opposed to superlative
+ +Superl 	!!= @CODE@ superlative
 
 !! Quantifiers and Numerals are classified under:
 ! Quantifiers (numerals)
- +Num ! numeral
- +Appr ! Approximative numeral кафта-колма, колмошка 'two or three'
- +AssocColl ! -ne- ; avide-
+ +Num 	!!= @CODE@ numeral
+ +Appr 	!!= @CODE@ Approximative numeral кафта-колма, колмошка 'two or three'
+ +AssocColl 	!!= @CODE@ -ne- ; avide-
 !?? +Assoc ! +месть
- +Coll ! Collective
- +Card ! cardinal
- +Distr ! Distributive
- +Iter ! Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
- +Ord ! ordinal
- +Attr ! attribute, premodifier
+ +Coll 	!!= @CODE@ Collective
+ +Card 	!!= @CODE@ cardinal
+ +Distr 	!!= @CODE@ Distributive
+ +Iter 	!!= @CODE@ Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
+ +Ord 	!!= @CODE@ ordinal
+ +Attr 	!!= @CODE@ attribute, premodifier
 
 !! Verb voice:
- +Act ! active
- +Pss ! passive
+ +Act 	!!= @CODE@ active
+ +Pss 	!!= @CODE@ passive
 !! Verb moods are:
- +Cond ! conditional ндяря- 
- +Conj ! conjunctional "Оль"
- +Des ! desiderative ксоль 'was about to; wanted to'
- +Ind ! indicative
- +Imprt ! imperative
- +Opt ! optative
+ +Cond 	!!= @CODE@ conditional ндяря- 
+ +Conj 	!!= @CODE@ conjunctional "Оль"
+ +Des 	!!= @CODE@ desiderative ксоль 'was about to; wanted to'
+ +Ind 	!!= @CODE@ indicative
+ +Imprt 	!!= @CODE@ imperative
+ +Opt 	!!= @CODE@ optative
 
 !! Verb tenses are
- +Prs ! present and future ! nominal	conjugation as well
- +Prt1 ! preterite I ! only finite verbal
- +Prt2 ! preterite II ! nominal conjugation as well
+ +Prs 	!!= @CODE@ present and future ! nominal	conjugation as well
+ +Prt1 	!!= @CODE@ preterite I ! only finite verbal
+ +Prt2 	!!= @CODE@ preterite II ! nominal conjugation as well
 !! Verb personal forms are:
 ! subject conjugation
 ! Subject conjugation
- +ScSg1 ! subject conjugation first person singular
- +ScSg2 ! subject conjugation second person singular
- +ScSg3 ! subject conjugation third person singular
- +ScPl1 ! subject conjugation first person plural
- +ScPl2 ! subject conjugation second person plural
- +ScPl3 ! subject conjugation third person plural
+ +ScSg1 	!!= @CODE@ subject conjugation first person singular
+ +ScSg2 	!!= @CODE@ subject conjugation second person singular
+ +ScSg3 	!!= @CODE@ subject conjugation third person singular
+ +ScPl1 	!!= @CODE@ subject conjugation first person plural
+ +ScPl2 	!!= @CODE@ subject conjugation second person plural
+ +ScPl3 	!!= @CODE@ subject conjugation third person plural
 
 ! Object conjugation
- +OcSg1 ! objject conjugation first person singular
- +OcSg2 ! objject conjugation second person singular
- +OcSg3 ! objject conjugation third person singular
- +OcPl1 ! objject conjugation first person plural
- +OcPl2 ! objject conjugation second person plural
- +OcPl3 ! objject conjugation third person plural
+ +OcSg1 	!!= @CODE@ objject conjugation first person singular
+ +OcSg2 	!!= @CODE@ objject conjugation second person singular
+ +OcSg3 	!!= @CODE@ objject conjugation third person singular
+ +OcPl1 	!!= @CODE@ objject conjugation first person plural
+ +OcPl2 	!!= @CODE@ objject conjugation second person plural
+ +OcPl3 	!!= @CODE@ objject conjugation third person plural
 
 !! Other verb forms are
-  +ConNeg ! connegative, main verb complement to Neg, 
-  +Ger ! gerund This is used with Der/Озь and VAbl
-  +Inf    ! infinitive
-  +Neg    ! verb of negation эзь, аволь, иля
-  +Prc ! participle
-  +VGen   ! Verb Genitive, genitive form participle
-  +VAbl   ! Verb Ablative "озадо"
+  +ConNeg 	!!= @CODE@ connegative, main verb complement to Neg, 
+  +Ger 	!!= @CODE@ gerund This is used with Der/Озь and VAbl
+  +Inf    	!!= @CODE@ infinitive
+  +Neg    	!!= @CODE@ verb of negation эзь, аволь, иля
+  +Prc 	!!= @CODE@ participle
+  +VGen   	!!= @CODE@ Verb Genitive, genitive form participle
+  +VAbl   	!!= @CODE@ Verb Ablative "озадо"
  +PrsPrc !
  +PrfPrc
 
 ! Abbreviated words are classified with:
- +ABBR ! Abbreviation
- +ACR  ! Acronym
+ +ABBR 	!!= @CODE@ Abbreviation
+ +ACR  	!!= @CODE@ Acronym
 
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
- +TV ! transitive verb
- +IV ! intransitive verb
+ +TV 	!!= @CODE@ transitive verb
+ +IV 	!!= @CODE@ intransitive verb
 !! Special multiword units are analysed with:
  +Multi
 !! Non-dictionary words can be recognised with:
@@ -227,14 +229,15 @@ Multichar_Symbols
  %{Х%}		!!= @CODE@ This usually precedes the plural marker
  %{КТ%}		!!= @CODE@ used in imperative and connegative
  %{Ь%0%}	!!= @CODE@ after imperative Sg2
+ %{DIM%}	!!= @CODE@ This will be for diminutive initial consonant
 
- А2 ! А2:а А2:я
- Г2 ! Г2:г Г2:в Г2:к
- К1 ! К1:к К1:т
- О1 ! О1:о О1:а О1:0
+ А2 	!!= @CODE@ А2:а А2:я
+ Г2 	!!= @CODE@ Г2:г Г2:в Г2:к
+ К1 	!!= @CODE@ К1:к К1:т
+ О1 	!!= @CODE@ О1:о О1:а О1:0
  О2 !! О1:о О1:а О1:е
- Х1 ! Х1:х Х1:0
- Ь2 ! Ь2:ь Ь2:0
+ Х1 	!!= @CODE@ Х1:х Х1:0
+ Ь2 	!!= @CODE@ Ь2:ь Ь2:0
 
 !! And following triggers to control variation
  {front} {back}
@@ -255,7 +258,7 @@ Multichar_Symbols
 
 ! MX = mood
 @U.CONJ-MX.IND@
-@D.CONJ-MX.IND@ ! 2012-11-04 should this be _D_ or _N_
+@D.CONJ-MX.IND@ 	!!= @CODE@ 2012-11-04 should this be _D_ or _N_
 @U.CONJ-MX.IMP@
 @U.CONJ-MX.OPT@
 @U.CONJ-MX.DES@
@@ -348,6 +351,7 @@ LEXICON Root
   Abbreviation		;
   Punctuation	;
  urj-Cyrl-ProperNouns ;
+  EXCEPTIONS	      ;
 
 ! ======================================================= !
 ! These lexica are for parts of speech without morphology !
@@ -384,17 +388,17 @@ LEXICON PostpTag
 ! ==================================== !
 
 
-LEXICON Ad-ATag ! 
+LEXICON Ad-ATag 	!!= @CODE@ 
 +AdA: # ;
 
-LEXICON AdvTag ! 
+LEXICON AdvTag 	!!= @CODE@ 
 	ADV_ ;
 
-LEXICON ADV_ ! 
+LEXICON ADV_ 	!!= @CODE@ 
 +Adv: K ;
 
 
-LEXICON AdvTemp ! 
+LEXICON AdvTemp 	!!= @CODE@ 
 +Adv+Temp: K ;
 
 
@@ -443,7 +447,7 @@ LEXICON N-Voc-Px1Sg
 +N+Px1Sg+Interj+Voc: # ;
 
 !LEXICON EndNeg 
-!+CC+Neg: # ; ! ни
+!+CC+Neg: # ; 	!!= @CODE@ ни
 
 !LEXICON EndQST
 !+Qst: # ;

@@ -57,6 +57,8 @@ Alphabet
 !Х1:0
  %{Х%}:0	!!= @CODE@ This usually precedes the plural marker
 
+ %{DIM%}:0		!!= @CODE@ This will be for diminutive initial consonant
+
 ! clitic proto consonant
 Г1:г !
 Г1:к !
@@ -490,6 +492,19 @@ Rules
 !! __@RULENAME@__  
 И2:е  <=>   _ [ %>: [т [Ь2:0|Ь2:ь]|т н е|с ь:|с (т) О1:  |с (т) ь:| с [ %>: |  #: | %- ] | з %>: О1: | л  |  (н) з О1: | ш к а | к с | н | в | д | с т [ %>: |  #: | %- ]] |  Г1:0|  #: | %- ] ;
 
+
+!! !DIMINUTIVES
+"%{DIM%}:н"
+!! __@RULENAME@__
+ %{DIM%}:н <=> [ Vows: | м  | в | н | д | л | р  | з | й] (ь:)  %> _ я ;
+!€ ши>%{DIM%}я
+!€ ши0ня
+
+"%{DIM%}:к"
+!! __@RULENAME@__
+ %{DIM%}:к <=> [ ф | т | ц | ч | с | ш | х ] (ь) %> _ я ;
+!€ пикс>%{DIM%}я
+!€ пикс0кя
 
 !! !!Disallow
 
