@@ -1179,10 +1179,16 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>viisitoista.</t>
+      <tg xml:lang="eng">
+	<t pos="Num">fifteen</t>
       </tg>
 
+      <tg lang="fin">
+	<t pos="Num">viisitoista</t>
+      </tg>
+      <tg xml:lang="fra">
+        <t pos="Num">quinze</t>
+      </tg>
       <xg>
         <x>кеветие минутафтома кемонь частт</x>
 
@@ -1346,9 +1352,15 @@
       <m>
         <head/>
       </m>
+      <tg xml:lang="eng">
+        <t pos="Num">twelve</t>
+      </tg>
 
       <tg lang="fin">
-        <t>kaksitoista.</t>
+        <t pos="Num">kaksitoista</t>
+      </tg>
+      <tg xml:lang="fra">
+        <t pos="Num">douze</t>
       </tg>
 
       <xg>
@@ -1427,8 +1439,14 @@
         <head/>
       </m>
 
+      <tg xml:lang="eng">
+        <t pos="Num">thirteen</t>
+      </tg>
       <tg lang="fin">
-        <t>kolmetoista.</t>
+        <t pos="Num">kolmetoista</t>
+      </tg>
+      <tg xml:lang="fra">
+	<t pos="Num">treize</t>
       </tg>
 
       <xg>
@@ -1562,9 +1580,15 @@
       <m>
         <head/>
       </m>
+      <tg xml:lang="eng">
+        <t pos="Num">sixteen</t>
+      </tg>
 
       <tg lang="fin">
-        <t>kuusitoista.</t>
+        <t pos="Num">kuusitoista</t>
+      </tg>
+      <tg xml:lang="fra">
+	<t pos="Num">seize</t>
       </tg>
 
       <xg>
@@ -1746,9 +1770,15 @@
       <m>
         <head/>
       </m>
+      <tg xml:lang="eng">
+	<t pos="Num">fourteen</t>
+      </tg>
 
       <tg lang="fin">
-        <t>neljätoista.</t>
+	<t pos="Num">neljätoista</t>
+      </tg>
+      <tg xml:lang="fra">
+        <t pos="Num">quatorze</t>
       </tg>
 
       <xg>
@@ -1922,9 +1952,14 @@
       <m>
         <head/>
       </m>
-
+      <tg xml:lang="eng">
+        <t pos="Num">eleven</t>
+      </tg>
       <tg lang="fin">
-        <t>yksitoista.</t>
+        <t>yksitoista</t>
+      </tg>
+      <tg xml:lang="fra">
+        <t pos="Num">onze</t>
       </tg>
 
       <xg>
