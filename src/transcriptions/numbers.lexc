@@ -145,40 +145,37 @@ TEENST ;		! X1XYYY
 
 LEXICON TWEENST
 комсь% :2   TWEENT ;
-комсь% :2%0 THOUSANDS ;
+комсь:2%0 THOUSANDS ;
 
 LEXICON TWEENT
-фкие% :1     LOHKAIT ;
-кафтува% :2   LOHKAIT ;
-колмува% :3    LOHKAIT ;
-нилие% :4 LOHKAIT ;
-ветие% :5   LOHKAIT ;
-котува% :6   LOHKAIT ;
-сисемге% :7 LOHKAIT ;
-кафксува% :8 LOHKAIT ;
-вейхксые% :9   LOHKAIT ;
+фкие:1     THOUSANDS ;
+кафтува:2   THOUSANDS ;
+колмува:3    THOUSANDS ;
+нилие:4 THOUSANDS ;
+ветие:5   THOUSANDS ;
+котува:6   THOUSANDS ;
+сисемге:7 THOUSANDS ;
+кафксува:8 THOUSANDS ;
+вейхксые:9   THOUSANDS ;
 
 LEXICON TEENST
 ке:1   TEENT ;
 кемонь:1%0 THOUSANDS ;
 
 LEXICON TEENT
-фкие% :1     LOHKAIT ;
-мгафтува% :2   LOHKAIT ;
-мголмува% :3    LOHKAIT ;
-мнилие% :4 LOHKAIT ;
-ветие% :5   LOHKAIT ;
-мготува% :6   LOHKAIT ;
-мзисемге% :7 LOHKAIT ;
-мгафксува% :8 LOHKAIT ;
-вейхксые% :9   LOHKAIT ;
-
-LEXICON LOHKAIT
-THOUSANDS ;
+фкие:1     THOUSANDS ;
+мгафтува:2   THOUSANDS ;
+мголмува:3    THOUSANDS ;
+мнилие:4 THOUSANDS ;
+ветие:5   THOUSANDS ;
+мготува:6   THOUSANDS ;
+мзисемге:7 THOUSANDS ;
+мгафксува:8 THOUSANDS ;
+вейхксые:9   THOUSANDS ;
 
 LEXICON TENST
-комсь:2   LUHKIET ;
-колмогемонь% :3    LUHKIET ;
+!комсь:2   LUHKIET ;
+колмогемонь:3    LUHKIET ;
 нилегемонь:4 LUHKIET ;
 ведьгемонь:5   LUHKIET ;
 кодгемонь:6   LUHKIET ;
@@ -188,18 +185,18 @@ LEXICON TENST
 
 LEXICON LUHKIET
 :%0 THOUSANDS ;
-фкя% :1 THOUSANDS ;
-ONEST ;
+% фкя:1 THOUSANDS ;
+% : ONEST ;
 
 LEXICON ONEST
-кафта% :2 THOUSANDS ;
-колма% :3 THOUSANDS ;
-ниле% :4 THOUSANDS ;
-вете% :5 THOUSANDS ;
-кота% :6 THOUSANDS ;
-сисем% :7 THOUSANDS ;
-кафкса% :8 THOUSANDS ;
-вейхкса% :9 THOUSANDS ;
+кафта:2 THOUSANDS ;
+колма:3 THOUSANDS ;
+ниле:4 THOUSANDS ;
+вете:5 THOUSANDS ;
+кота:6 THOUSANDS ;
+сисем:7 THOUSANDS ;
+кафкса:8 THOUSANDS ;
+вейхкса:9 THOUSANDS ;
 
 LEXICON THOUSANDS      ! x > 1
 % тёжань: THOUSAND-PLUS ;
@@ -239,8 +236,8 @@ LEXICON HUNDREDS
 вейхкса:9   CUODI ;
 
 LEXICON CUODI
-сятт% :   HUNDRED ;
-сядоце:  CUODAAT ;
+% сятт% :   HUNDRED ;
+% сядоце:  CUODAAT ;
 
 
 LEXICON HUNDRED
