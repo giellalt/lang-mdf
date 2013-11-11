@@ -1,0 +1,16 @@
+!! Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+!! else. This file contains all enumerated word forms that cannot reasonably be
+!! created from lexical data by regular inflection. Usually there should be next
+!! to none exceptions, it's always better to have a paradigm that covers only
+!! one or few words than an exception since these will not work nicely with e.g.
+!! compounding scheme or possibly many end applications.
+
+LEXICON EXCEPTIONS
+!!
+тейне:тейне PERS-SG1-IS-DAT ;
+тейть:тейть PERS-SG2-IS-DAT ;
+тейнза:тейнза PERS-SG3-IS-DAT ;
+тейнек:тейнек PERS-PL1-IS-DAT ;
+тейнть:тейнть PERS-PL2-IS-DAT ;
+тейст:тейст PERS-PL3-IS-DAT ;
+
