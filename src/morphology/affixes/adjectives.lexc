@@ -7,6 +7,8 @@
 !!!!!!!!!!!!!!
 
 LEXICON AdjTag
+	A_ ;
+LEXICON A_
 +Adj+TYÄ: K ;
 
 
@@ -34,8 +36,8 @@ LEXICON Adj-pula
 +A:%>О2 K ;
 +A+Der/MWN:%>О2 N_ПУЛА ;
 
-LEXICON Adj-osh
-!ош:ош
+LEXICON A_ОШ
+!! ош:ош
 +A: K ;
 +A+Der/MWN: N_ОШ ;
 
@@ -44,10 +46,10 @@ LEXICON A_КАЛ
 +A: K ;
 +A+Der/MWN: N_КАЛ ;
 
-LEXICON Adj-kelu
-!келу:келу
+LEXICON A_КЕЛУ
+!! келу:келу
 +A: K ;
-+A+Der/MWN: N-kelu ;
++A+Der/MWN: N_КЕЛУ ;
 
 
 
