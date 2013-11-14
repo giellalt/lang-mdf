@@ -1029,9 +1029,14 @@
 
         <defNative/>
       </m>
-
+         <tg xml:lang="eng">
+            <t>thank you</t>
+         </tg>
       <tg xml:lang="fin">
-        <t/>
+        <t pos="Interj">kiitos</t>
+      </tg>
+      <tg xml:lang="fra">
+        <t pos="Interj">merci</t>
       </tg>
     </mg>
   </e>
