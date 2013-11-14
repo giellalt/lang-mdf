@@ -84,7 +84,7 @@ LEXICON verbs
 азовомс:азов IV_АНДОВОМС  "1. voida/osata sanoa /ääntää/lausua. 2. ilmetä. 3. tuntua, vaikuttaa" ;
 азомс:азомс V_  "sanoa, puhua" ;
 азондовомс:азондов IV_АНДОВОМС  "tulla kerrotuksi" ;
-азондомс:азонд V_  "1. kertoa, puhua. 2. selittää. 3. kuiskata. 4. ilmiantaa" ;
+азондомс:азонд TV_АНДОМС  "1. kertoa, puhua. 2. selittää. 3. kuiskata. 4. ilmiantaa" ;
 азонкшневомс:азонкшнев IV_АНДОВОМС  "tulla kerrotuksi" ;
 азонкшнемс:азонкшне IV_АВОЛДАМС  "puhella" ;
 азонфнемс:азонфне TV_АВОЛДАМС  "kerrottaa" ;
@@ -826,7 +826,7 @@ LEXICON verbs
 валаськофтомс:валаськофт TV_АЛЫЯФТОМС  "tehdä liukkaaksi" ;
 валацямс:валаця IV_АВОЛДАМС  "houkutella sanoilla" ;
 валговомс:валгов IV_АНДОВОМС  "tulla laskeudutuksi" ;
-валгомс:валгомс V_  "laskeutua" ;
+валгомс:валг IV_АНДОМС  "laskeutua" ;
 валгондомс:валгондомс V_  "laskeutua" ;
 валгонкшнемс:валгонкшне IV_АВОЛДАМС  "laskeutua" ;
 валдашкодомс:валдашкодомс V_  "valjeta" ;
@@ -864,7 +864,7 @@ LEXICON verbs
 валхнемс:валхне IV_АВОЛДАМС  "ottaa pois" ;
 валхнефтемс:валхнефть IV_НЯФТЕМС  "riisua" ;
 валхтовомс:валхтов IV_АНДОВОМС  "tulla otetuksi pois" ;
-валхтомс:валхтомс V_  "ottaa pois" ;
+валхтомс:валхт TV_НЯФТЕМС  "ottaa pois" ;
 валхтфтомс:валхтфт TV_АЛЫЯФТОМС  "otattaa pois" ;
 вальсевомс:вальсев IV_АНДОВОМС  "tulla luoduksi umpeen" ;
 вальсекшнемс:вальсекшне IV_АВОЛДАМС  "luoda umpeen" ;
@@ -903,9 +903,9 @@ LEXICON verbs
 ваннекшнемс:ваннекшне IV_АВОЛДАМС  "hoidella" ;
 ваннемс:ванне IV_АВОЛДАМС  "hoitaa" ;
 вановомс:ванов IV_АНДОВОМС  "tulla katsotuksi" ;
-ваномс:ваномс V_  "katsoa" ;
+ваномс:ван TV_АНДОМС  "katsoa" ;
 ванондовомс:ванондов IV_АНДОВОМС  "tulla katselluksi" ;
-ванондомс:ванондомс V_  "katsella" ;
+ванондомс:ванонд IV_АНДОМС  "katsella" ;
 ванонкшнемс:ванонкшне IV_АВОЛДАМС  "katsella" ;
 вантфнемс:вантфне TV_АВОЛДАМС  "vahtia" ;
 ванфневомс:ванфнев IV_АНДОВОМС  "tulla vahdituksi" ;
@@ -1103,7 +1103,7 @@ LEXICON verbs
 венемовомс:венемов IV_АНДОВОМС  "venyä" ;
 венемомс:венемомс V_  "venyä" ;
 венемфтемс:венемфть IV_НЯФТЕМС  "venyttää" ;
-венепнемс:венепне IV_АВОЛДАМС  "ojennella" ;
+венепнемс:венепне TV_АВОЛДАМС  "ojennella" ;
 венептевомс:венептев IV_АНДОВОМС  "tulla ojennetuksi" ;
 венептемс:венептемс V_  "ojentaa" ;
 венептьфнемс:венептьфне TV_АВОЛДАМС  "ojennutella" ;
@@ -2637,7 +2637,7 @@ LEXICON verbs
 каряфнемс:каряфне TV_АВОЛДАМС  "puettaa" ;
 каряфтомс:каряфт TV_АЛЫЯФТОМС  "puettaa" ;
 касовомс:касов IV_АНДОВОМС  "voida kasvaa" ;
-касомс:кас V_  "kasvaa" ;
+касомс:кас IV_АНДОМС  "kasvaa" ;
 касондомс:касонд V_  "kasvaa, kehittyä" ;
 касонкшнемс:касонкшне IV_АВОЛДАМС  "kasvaa" ;
 касонтфнемс:касонтфне TV_АВОЛДАМС  "kasvattaa" ;
@@ -2780,7 +2780,7 @@ LEXICON verbs
 келепнекшнемс:келепнекшне IV_АВОЛДАМС  "levennellä" ;
 келепнемс:келепне IV_АВОЛДАМС  "levitellä, aukoa" ;
 келептевомс:келептев IV_АНДОВОМС  "tulla levennetyksi" ;
-келептемс:келепть V_  "leventää, levittää, laajentaa" ;
+келептемс:келепть TV_НЯФТЕМС  "leventää, levittää, laajentaa" ;
 келептьфнемс:келептьфне TV_АВОЛДАМС  "laajennuttaa" ;
 келептьфтемс:келептьфть IV_НЯФТЕМС  "laajennuttaa" ;
 келецякшнемс:келецякшне IV_АВОЛДАМС  "rauhoittaa joku viekkailla sanoilla" ;
@@ -3549,7 +3549,7 @@ LEXICON verbs
 кулендемс:кулендь V_  "kuulla" ;
 куловомс:кулов IV_АНДОВОМС  "voida kuolla" ;
 кулокшнемс:кулокшне IV_АВОЛДАМС  "olla kuolemaisillaan" ;
-куломс:куло V_  "kuolla" ;
+куломс:куло IV_АВОЛДАМС  "kuolla" ;
 кулофневомс:кулофнев IV_АНДОВОМС  "tulla tapetuksi" ;
 кулофнемс:кулофне TV_АВОЛДАМС  "tappaa, tuhota" ;
 кулофтовомс:кулофтов IV_АНДОВОМС  "tulla tapetuksi" ;
@@ -3955,7 +3955,7 @@ LEXICON verbs
 ладкстомовомс:ладкстомов IV_АНДОВОМС  "voida tuntea tyydytystä" ;
 ладкстомомс:ладкстом V_  "tuntea tyydytystä" ;
 ладявомс:ладяв IV_АНДОВОМС  "tulla järjestetyksi" ;
-ладямс:ладя IV_АВОЛДАМС  "1. järjestää, korjata, panna kuntoon. 2. kihlata. 3. saada kaupaksi. 4. elää ystävinä, olla sovussa. 5. sopia, käydä. 6. virittää soitin" ;
+ладямс:ладя TV_АВОЛДАМС  "1. järjestää, korjata, panna kuntoon. 2. kihlata. 3. saada kaupaksi. 4. elää ystävinä, olla sovussa. 5. sopia, käydä. 6. virittää soitin" ;
 ладяфнемс:ладяфне TV_АВОЛДАМС  "järjestellä" ;
 ладяфтомс:ладяфт TV_АЛЫЯФТОМС  "sovitella (riitaa tms.)" ;
 лажадомс:лажад V_  "kyllästyä, ikävystyä, pitkästyä" ;
@@ -4114,7 +4114,7 @@ LEXICON verbs
 ледоргофнемс:ледоргофне TV_АВОЛДАМС  "karistella" ;
 ледоргофтомс:ледоргофт TV_АЛЫЯФТОМС  "karistella" ;
 лездовомс:лездов IV_АНДОВОМС  "voida auttaa" ;
-лездомс:лезд V_  "auttaa" ;
+лездомс:лезд IV_АНДОМС  "auttaa" ;
 лезнекшнемс:лезнекшне IV_АВОЛДАМС  "auttaa, avustaa, autella" ;
 лезнемс:лезне IV_АВОЛДАМС  "auttaa, autella" ;
 лезтфтомс:лезтфт TV_АЛЫЯФТОМС  "käskeä/panna auttamaan" ;
@@ -4203,7 +4203,7 @@ LEXICON verbs
 лиевомс:лиев IV_АНДОВОМС  "voida lentää" ;
 лиеждемс:лиеждь V_  "lepattaa (vaateet tuulessa)" ;
 лиемс:ли IV_АВОЛДАМС  "1. lentää. 2. luoda (kangasta)" ;
-лиендемс:лиендь V_  "lennellä, lennähdellä" ;
+лиендемс:лиендь IV_АНДОМС  "lennellä, lennähdellä" ;
 лиенкшнемс:лиенкшне IV_АВОЛДАМС  "lennellä" ;
 лиентьфнемс:лиентьфне TV_АВОЛДАМС  "lennättää" ;
 лижедемс:лижедь V_  "leijua" ;
@@ -4600,7 +4600,7 @@ LEXICON verbs
 магничендафнемс:магничендафне TV_АВОЛДАМС  "panna magnetoimaan" ;
 маддовокшнемс:маддовокшне IV_АВОЛДАМС  "nukahtaa nopeasti" ;
 мадовомс:мадов IV_АНДОВОМС  "voida käydä pitkäkseen/nukkumaan" ;
-мадомс:мад V_  "1. käydä pitkäkseen /nukkumaan. 2. sammua (tuli). 3. laskea (aurinko)" ;
+мадомс:мад IV_АНДОМС  "1. käydä pitkäkseen /nukkumaan. 2. sammua (tuli). 3. laskea (aurinko)" ;
 мадондовомс:мадондов IV_АНДОВОМС  "käydä pitkäkseen" ;
 мадондомс:мадондомс V_  "käydä pitkäkseen/makuulle" ;
 мадонкшнемс:мадонкшне IV_АВОЛДАМС  "käydä pitkäkseen/makuulle" ;
@@ -5006,7 +5006,7 @@ LEXICON verbs
 мунямс-касьтямс:муня-касьтя IV_АВОЛДАМС  "tehdä taikoja" ;
 мусколямс:мусколя IV_АВОЛДАМС  "pilkata" ;
 муськовомс:муськов IV_АНДОВОМС  "tulla pestyksi" ;
-муськомс:муськ V_  "pestä pyykkiä" ;
+муськомс:муськ TV_АНДОМС  "pestä pyykkiä" ;
 муськондемс:муськондь V_  "pestä, peseskellä" ;
 муськонкшнемс:муськонкшне IV_АВОЛДАМС  "peseskellä" ;
 муськоньтьфнемс:муськоньтьфне TV_АВОЛДАМС  "pesetellä" ;
@@ -5270,7 +5270,7 @@ LEXICON verbs
 налхконкшнемс:налхконкшне IV_АВОЛДАМС  "leikkiä" ;
 налхксезевомс:налхксезев IV_АНДОВОМС  "aloittaa leikki" ;
 налхксекшнемс:налхксекшне IV_АВОЛДАМС  "leikitellä, lyödä leikkiä" ;
-налхксемс:налхксе V_  "leikitellä, leikkiä" ;
+налхксемс:налхксе IV_АВОЛДАМС  "leikitellä, leikkiä" ;
 налхксефтемс:налхксефть IV_НЯФТЕМС  "leikkiä, leikitellä" ;
 налхкфнемс:налхкфне TV_АВОЛДАМС  "leikittää" ;
 налхкфтомс:налхкфт TV_АЛЫЯФТОМС  "hauskuttaa, huvittaa" ;
@@ -5495,7 +5495,7 @@ LEXICON verbs
 нолгодовомс:нолгодов IV_АНДОВОМС  "voida laiskotella" ;
 нолгодомс:нолгод IV_АНДОМС  "laiskotella" ;
 нолдавомс:нолдав IV_АНДОВОМС  "tulla päästetyksi" ;
-нолдамс:нолда IV_АВОЛДАМС  "laskea, päästää, sallia; antaa anteeksi" ;
+нолдамс:нолда TV_АВОЛДАМС  "laskea, päästää, sallia; antaa anteeksi" ;
 нолдафнемс:нолдафне TV_АВОЛДАМС  "päästellä (pois)" ;
 нолдафтомс:нолдафт TV_АЛЫЯФТОМС  "1. päästää (pois), laskea menemään. 2. antaa (synnit) anteeksi" ;
 нолнекшнемс:нолнекшне IV_АВОЛДАМС  "päästää, laskea pois" ;
@@ -5865,7 +5865,7 @@ LEXICON verbs
 ориентировандамс:ориентированда IV_АВОЛДАМС  "orientoitua" ;
 ормаськодомс:ормаськод V_  "jähmettyä" ;
 орхкадевомс:орхкадев IV_АНДОВОМС  "tulla tuupituksi" ;
-орхкадемс:орхкадь V_  "tuupata, tönäistä; tökätä, pistää" ;
+орхкадемс:орхкадь TV_АНДОМС  "tuupata, tönäistä; tökätä, pistää" ;
 орхкатькшневомс:орхкатькшнев IV_АНДОВОМС  "liikkua" ;
 орхкиемс:орхкие IV_АВОЛДАМС  "tuuppia, töniä; tökkiä, pistellä" ;
 оршамс:орша IV_АВОЛДАМС  "pukea jtak" ;
@@ -6022,7 +6022,7 @@ LEXICON verbs
 паненкшнемс:паненкшне IV_АВОЛДАМС  "leipoa leipää" ;
 паненьдемс:паненьдь V_  "leipoa leipää" ;
 панжевомс:панжев IV_АНДОВОМС  "aueta, avautua" ;
-панжемс:панчь V_  "1. avata, aukaista. 2. aueta, avautua" ;
+панжемс:панж TV_АНДОМС  "1. avata, aukaista. 2. aueta, avautua" ;
 панксыямс:панксыя IV_АВОЛДАМС  "aukoa" ;
 паннекшнемс:паннекшне IV_АВОЛДАМС  "maksaa" ;
 паннемс:панне IV_АВОЛДАМС  "1. sulkea, tukkia. 2. paikata" ;
@@ -6199,7 +6199,7 @@ LEXICON verbs
 пестядемс:пестядь V_  "lyödä" ;
 петевомс:петев IV_АНДОВОМС  "tulla korjatuksi" ;
 петемс:петь V_  "1. korjata. 2. parantaa" ;
-петемс:петь V_  "kuohita" ;
+петемс:петь TV_АНДОМС  "kuohita" ;
 петневомс:петнев IV_АНДОВОМС  "tulla korjatuksi" ;
 петнекшнемс:петнекшне IV_АВОЛДАМС  "korjata" ;
 петнемс:петне IV_АВОЛДАМС  "korjailla, paikkailla" ;
@@ -7857,7 +7857,7 @@ LEXICON verbs
 сивфнемс:сивфне TV_АВОЛДАМС  "XX" ;
 сивфтемс:сивфть IV_НЯФТЕМС  "syöttää" ;
 сидекстомомс:сидекстомомс V_  "tihentyä" ;
-сиземс:сиземс V_  "väsyä" ;
+сиземс:сизе IV_АВОЛДАМС  "väsyä" ;
 сизендемс:сизендемс V_  "XX" ;
 сизенкшнемс:сизенкшне IV_АВОЛДАМС  "XX" ;
 сизефнемс:сизефне TV_АВОЛДАМС  "XX" ;
@@ -7888,7 +7888,7 @@ LEXICON verbs
 сингоряфнемс:сингоряфне TV_АВОЛДАМС  "XX" ;
 сингоряфтомс:сингоряфт TV_АЛЫЯФТОМС  "XX" ;
 синдевомс:синдев IV_АНДОВОМС  "särkyä, rikkoutua, murtua" ;
-синдемс:синдемс V_  "rikkoa, särkeä" ;
+синдемс:синдь TV_АНДОМС  "rikkoa, särkeä" ;
 синдеревомс:синдерев IV_АНДОВОМС  "XX" ;
 синдеремс:синдеремс V_  "rikkoa, särkeä paloiksi" ;
 синдрендемс:синдрендемс V_  "XX" ;
@@ -8097,11 +8097,11 @@ LEXICON verbs
 сотамс:сота IV_АВОЛДАМС  "XX" ;
 сотневомс:сотнев IV_АНДОВОМС  "XX" ;
 сотнекшневомс:сотнекшнев IV_АНДОВОМС  "XX" ;
-сотнемс:сотне IV_АВОЛДАМС  "1. sitoa. 2. kirota" ;
+сотнемс:сотне TV_АВОЛДАМС  "1. sitoa. 2. kirota" ;
 сотнефнекшнемс:сотнефнекшне IV_АВОЛДАМС  "XX" ;
 сотнефтомс:сотнефт TV_АЛЫЯФТОМС  "XX" ;
 сотовомс:сотов IV_АНДОВОМС  "1. mennä solmuun; olla solmittavissa. 2. sidottaa" ;
-сотомс:сотомс V_  "1. sitoa, solmia. 2. kirota" ;
+сотомс:сот TV_АНДОМС  "1. sitoa, solmia. 2. kirota" ;
 сотфнекшнемс:сотфнекшне IV_АВОЛДАМС  "XX" ;
 сотфнемс:сотфне TV_АВОЛДАМС  "XX" ;
 сотфтомс:сотфт TV_АЛЫЯФТОМС  "XX" ;
@@ -8250,7 +8250,7 @@ LEXICON verbs
 стяфнемс:стяфне TV_АВОЛДАМС  "1. pysäyttää. 2. herättää" ;
 стяфтовомс:стяфтов IV_АНДОВОМС  "XX" ;
 стяфтомс:стяфт TV_АЛЫЯФТОМС  "1. seisauttaa, pysäyttää. 2. herättää" ;
-стяшендомс:стяшендомс V_  "XX" ;
+стяшендомс:стяшенд IV_АНДОМС  "XX" ;
 стяшентфнемс:стяшентфне TV_АВОЛДАМС  "XX" ;
 стяшентфтомс:стяшентфт TV_АЛЫЯФТОМС  "XX" ;
 сувавомс:сував IV_АНДОВОМС  "XX" ;
@@ -8326,7 +8326,7 @@ LEXICON verbs
 сутендафнемс:сутендафне TV_АВОЛДАМС  "XX" ;
 сутномс:сутномс V_  "XX" ;
 сутямкшнемс:сутямкшне IV_АВОЛДАМС  "XX" ;
-сутямомс:сутямомс V_  "1. rauhoittaa, lievittaa. 2. rauhoittua, lientyä, tyyntyä" ;
+сутямомс:сутям IV_АНДОМС  "1. rauhoittaa, lievittaa. 2. rauhoittua, lientyä, tyyntyä" ;
 суфнекшнемс:суфнекшне IV_АВОЛДАМС  "XX" ;
 суфнемс:суфне TV_АВОЛДАМС  "XX" ;
 суфтавомс:суфтав IV_АНДОВОМС  "XX" ;
@@ -8343,7 +8343,7 @@ LEXICON verbs
 съмборготфнемс:съмборготфне TV_АВОЛДАМС  "XX" ;
 съмборгофтомс:съмборгофт TV_АЛЫЯФТОМС  "XX" ;
 съргозевомс:съргозев IV_АНДОВОМС  "XX" ;
-съргоземс:съргоземс V_  "XX" ;
+съргоземс:съргозь IV_АНДОМС  "XX" ;
 съргозькшнемс:съргозькшне IV_АВОЛДАМС  "XX" ;
 съргозьфнемс:съргозьфне TV_АВОЛДАМС  "XX" ;
 съргозьфтемс:съргозьфть IV_НЯФТЕМС  "XX" ;
@@ -8928,7 +8928,7 @@ LEXICON verbs
 токназевомс:токназев IV_АНДОВОМС  "XX" ;
 токнамс:токна IV_АВОЛДАМС  "XX" ;
 токсекшнемс:токсекшне IV_АВОЛДАМС  "XX" ;
-токсемс:токсемс V_  "1. kosketella. 2. loukata" ;
+токсемс:токсе TV_АВОЛДАМС  "1. kosketella. 2. loukata" ;
 токштадевомс:токштадев IV_АНДОВОМС  "XX" ;
 токштадемс:токштадемс V_  "XX" ;
 токштатьфнемс:токштатьфне TV_АВОЛДАМС  "XX" ;
@@ -9635,7 +9635,7 @@ LEXICON verbs
 удяфтомс:удяфт TV_АЛЫЯФТОМС  "XX" ;
 уевомс:уев IV_АНДОВОМС  "1. voida uida. 2. voida soutaa" ;
 уемс:уемс V_  "1. uida. 2. soutaa, kulkea veneellä" ;
-уендемс:уендемс V_  "1. uiskennella. 2. kulkea veneellä" ;
+уендемс:уендь IV_АНДОМС  "1. uiskennella. 2. kulkea veneellä" ;
 уенкшнемс:уенкшне IV_АВОЛДАМС  "XX" ;
 уентькшнемс:уентькшне IV_АВОЛДАМС  "1. uiskennella. 2. kulkea veneellä" ;
 уентьфтемс:уентьфть IV_НЯФТЕМС  "uittaa" ;
@@ -10738,7 +10738,7 @@ LEXICON verbs
 шарфтомс:шарфт TV_АЛЫЯФТОМС  "pyörittää, kierittää" ;
 шарчкодомс:шарчкодомс V_  "XX" ;
 шарьхкодевомс:шарьхкодев IV_АНДОВОМС  "olla ymmärrettävää" ;
-шарьхкодемс:шарьхкодемс V_  "ymmärtää" ;
+шарьхкодемс:шарьхкодь IV_АНДОМС  "ymmärtää" ;
 шарьхкотькшнемс:шарьхкотькшне IV_АВОЛДАМС  "XX" ;
 шарямс:шаря IV_АВОЛДАМС  "XX" ;
 шатандакшнемс:шатандакшне IV_АВОЛДАМС  "XX" ;
