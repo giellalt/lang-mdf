@@ -1,0 +1,30 @@
+!! Interjections
+
+!! The MOKSHA language interjections
+
+!!!!!!!!!!!!!!
+!! INTERJECTIONS 
+!!!!!!!!!!!!!!
+
+! ============ !
+! Interj lexica !
+! ============ !
+
+LEXICON INTERJ_
++Interj: K ;
+
+LEXICON Interj-Imp !!= @CODE@ орхт
++Interj+Imprt+ScSg2: K ;
++Interj+Imprt+ScPl2:%>дО1 K ;
+
+LEXICON FORMULAIC_
++Interj+Formulaic: K ;
+
+LEXICON VOCATIVE_
++Interj+Voc: K ;
+
+
+
+
+! vim: set ft=xfst-lexc:
+
