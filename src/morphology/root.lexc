@@ -381,32 +381,6 @@ LEXICON PostpTag
 ! ==================================== !
 
 
-LEXICON Ad-ATag 	!!= @CODE@ 
-+AdA: # ;
-
-LEXICON AdvTag 	!!= @CODE@ 
-	ADV_ ;
-
-LEXICON ADV_ 	!!= @CODE@ 
-+Adv: K ;
-
-
-LEXICON AdvTemp 	!!= @CODE@ 
-+Adv+Temp: K ;
-
-
-LEXICON GER_
-+Ger: K ;
-
-LEXICON SpatTag
-+Spat: K ;
-
-
-!!Temporal tags with cases
-LEXICON TempTag
-+Adv+Temp: K ;
-
-
 LEXICON CONJ_
 +Conj+TYÄ: #;
 
@@ -416,24 +390,6 @@ LEXICON CC_
 LEXICON CS_
 +CS: # ;
 
-
-LEXICON Pcle-Compar-Stnd
-+Pcle+Compar: # ;
-
-LEXICON Pcle-Epist
-+Pcle+Epist: # ;
-
-LEXICON Pcle-Neg-Contrast
-+Pcle+Neg+Intensive: # ;
-
-LEXICON Pcle-Neg
-+Pcle+Neg: # ;
-
-LEXICON Pcle-Superl
-+Pcle+Superl: # ;
-
-LEXICON PcleTag
-+Pcle: # ;
 
 
 LEXICON N-Voc-Px1Sg
@@ -456,11 +412,6 @@ LEXICON DescrTag
 ! ======= !
 ! Ks !
 ! ======= !
-
-
-LEXICON K
-+Foc/вок:%>вок  # ; 
-       # ; 
 
 
 
