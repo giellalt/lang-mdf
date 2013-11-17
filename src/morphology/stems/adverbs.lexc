@@ -19,7 +19,7 @@ LEXICON adverbs
 ала:ала ADV_  "alhaalla (oleva), ala-" ;
 алажга:алажга ADV_  "hiljaa, huomaamatta, vähin äänin, varovaisesti" ;
 алажгаконя:алажгаконя ADV_  "hyvin hiljaa, ääneti, hyvin varovaisesti" ;
-алга:алга ADV_  "alla, alhaalla, syvällä; alitse; ala­, alus-" ;
+алга:алга ADV-SPAT_  "alla, alhaalla, syvällä; alitse; ala­, alus-" ;
 алда:алда ADV_  "alta, alhaalta" ;
 алняста:алняста ADV_  "matalalla, matalalta" ;
 алу:алу ADV_  "1. alle. 2. alas" ;
@@ -982,7 +982,7 @@ LEXICON adverbs
 радостна:радостна ADV_  "iloisesti, riemukkaasti" ;
 радостнаня:радостнаня ADV_  "iloisesti, riemukkaasti" ;
 радостнаста:радостнаста ADV_  "iloisesti, riemukkaasti" ;
-рана:рана ADV_  "varhain, aikaisin" ;
+рана:рана ADV-TEMP  "varhain, aikaisin" ;
 ранакиге:ранакиге ADV_  "jo aikaisin aamulla, anivarhain" ;
 рахазь:рахазь ADV_  "ivallisesti, pilkallisesti; nauraen" ;
 рахазь-кенярдезь:рахазь-кенярдезь ADV_  "iloisesti" ;
@@ -1549,7 +1549,7 @@ LEXICON adverbs
 юрнек:юрнек ADV_  "täysin, kokonaan; juurineen" ;
 юронь-юр:юронь-юр ADV_  "juuria myöten" ;
 яжняста:яжняста ADV_  "??" ;
-яла:яла ADV_  "aina" ;
+яла:яла ADV-TEMP  "aina" ;
 ялга:ялга ADV_  "jalan, jalkaisin" ;
 ялгакс:ялгакс ADV_  "ystävän tavoin, ystävällisesti" ;
 ярхцампингста:ярхцампингста ADV_  "syödessä, ruokailun aikaan/aikana" ;

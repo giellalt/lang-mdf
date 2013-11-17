@@ -1,0 +1,32 @@
+!! Particles
+
+!! The MOKSHA language particles ...
+
+!!!!!!!!!!!!!!
+!! PARTICLES 
+!!!!!!!!!!!!!!
+
+LEXICON PCLE_
++Pcle: # ;
+
+
+LEXICON Pcle-Compar-Stnd
++Pcle+Compar: # ;
+
+LEXICON Pcle-Epist
++Pcle+Epist: # ;
+
+LEXICON Pcle-Neg-Contrast
++Pcle+Neg+Intensive: # ;
+
+LEXICON Pcle-Neg
++Pcle+Neg: # ;
+
+LEXICON Pcle-Superl
++Pcle+Superl: # ;
+
+
+
+
+! vim: set ft=xfst-lexc:
+

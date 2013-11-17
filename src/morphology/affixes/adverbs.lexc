@@ -1,0 +1,42 @@
+!! Adverbs
+
+!! The MOKSHA language adverbs
+
+!!!!!!!!!!!!!!
+!! ADVERBS 
+!!!!!!!!!!!!!!
+
+
+LEXICON Ad-ATag 	!!= @CODE@ 
++AdA: # ;
+
+LEXICON AdvTag 	!!= @CODE@ 
+	ADV_ ;
+
+LEXICON ADV_ 	!!= @CODE@ 
++Adv: K ;
+
+
+LEXICON ADV-TEMP 	!!= @CODE@ 
++Adv+Temp: K ;
+
+LEXICON GER_
++Ger: K ;
+
+LEXICON ADV-SPAT_
++Adv+Spat: K ;
+
+LEXICON SpatTag
++Spat: K ;
+
+
+!!Temporal tags with cases
+!LEXICON TempTag
+!+Adv+Temp: K ;
+
+
+
+
+
+! vim: set ft=xfst-lexc:
+

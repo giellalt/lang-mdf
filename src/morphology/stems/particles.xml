@@ -6,10 +6,10 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
-      <l>а</l>
+      <l pos="Pcle">а</l>
 
       <stg>
-        <st Contlex="PcleTag">а</st>
+        <st Contlex="PCLE_">а</st>
       </stg>
     </lg>
 
@@ -38,10 +38,10 @@
 
   <e>
     <lg>
-      <l>али</l>
+      <l pos="Cc">али</l>
 
       <stg>
-        <st Contlex="PcleTag">али</st>
+        <st Contlex="CC_">али</st>
       </stg>
     </lg>
 
@@ -55,7 +55,7 @@
       </m>
 
       <tg lang="fin">
-        <t>tai, vai.</t>
+        <t pos="Cc">tai, vai.</t>
       </tg>
     </mg>
   </e>
@@ -65,7 +65,7 @@
       <l>аньцек</l>
 
       <stg>
-        <st Contlex="PcleTag">аньцек</st>
+        <st Contlex="PCLE_">аньцек</st>
       </stg>
     </lg>
 
@@ -89,7 +89,7 @@
       <l>апак</l>
 
       <stg>
-        <st Contlex="PcleTag">апак</st>
+        <st Contlex="PCLE_">апак</st>
       </stg>
     </lg>
 
@@ -270,7 +270,7 @@
       <l>афи</l>
 
       <stg>
-        <st Contlex="PcleTag">афи</st>
+        <st Contlex="PCLE_">афи</st>
       </stg>
     </lg>
 
@@ -294,7 +294,7 @@
       <l>афоли</l>
 
       <stg>
-        <st Contlex="PcleTag">афоли</st>
+        <st Contlex="PCLE_">афоли</st>
       </stg>
     </lg>
 
@@ -374,7 +374,7 @@
       <l>бди</l>
 
       <stg>
-        <st Contlex="PcleTag">бди</st>
+        <st Contlex="PCLE_">бди</st>
       </stg>
     </lg>
 
@@ -398,7 +398,7 @@
       <l>бъльшем</l>
 
       <stg>
-        <st Contlex="PcleTag">бъльшем</st>
+        <st Contlex="PCLE_">бъльшем</st>
       </stg>
     </lg>
 
@@ -422,7 +422,7 @@
       <l>вага</l>
 
       <stg>
-        <st Contlex="PcleTag">вага</st>
+        <st Contlex="PCLE_">вага</st>
       </stg>
     </lg>
 
@@ -454,7 +454,7 @@
       <l>вельф</l>
 
       <stg>
-        <st Contlex="PcleTag">вельф</st>
+        <st Contlex="PCLE_">вельф</st>
       </stg>
     </lg>
 
@@ -478,7 +478,7 @@
       <l>виде</l>
 
       <stg>
-        <st Contlex="PcleTag">виде</st>
+        <st Contlex="PCLE_">виде</st>
       </stg>
     </lg>
 
@@ -591,7 +591,7 @@
       <l>видекс</l>
 
       <stg>
-        <st Contlex="PcleTag">видекс</st>
+        <st Contlex="PCLE_">видекс</st>
       </stg>
     </lg>
 
@@ -615,7 +615,7 @@
       <l>вов</l>
 
       <stg>
-        <st Contlex="PcleTag">вов</st>
+        <st Contlex="PCLE_">вов</st>
       </stg>
     </lg>
 
@@ -663,7 +663,7 @@
       <l>ворьть</l>
 
       <stg>
-        <st Contlex="PcleTag">ворьть</st>
+        <st Contlex="PCLE_">ворьть</st>
       </stg>
     </lg>
 
@@ -687,7 +687,7 @@
       <l>ворьхть</l>
 
       <stg>
-        <st Contlex="PcleTag">ворьхть</st>
+        <st Contlex="PCLE_">ворьхть</st>
       </stg>
     </lg>
 
@@ -711,7 +711,7 @@
       <l>вот</l>
 
       <stg>
-        <st Contlex="PcleTag">вот</st>
+        <st Contlex="PCLE_">вот</st>
       </stg>
     </lg>
 
@@ -735,7 +735,7 @@
       <l>въдь</l>
 
       <stg>
-        <st Contlex="PcleTag">въдь</st>
+        <st Contlex="PCLE_">въдь</st>
       </stg>
     </lg>
 
@@ -759,7 +759,7 @@
       <l>голь</l>
 
       <stg>
-        <st Contlex="PcleTag">голь</st>
+        <st Contlex="PCLE_">голь</st>
       </stg>
     </lg>
 
@@ -783,7 +783,7 @@
       <l>да</l>
 
       <stg>
-        <st Contlex="PcleTag">да</st>
+        <st Contlex="PCLE_">да</st>
       </stg>
     </lg>
 
@@ -807,7 +807,7 @@
       <l>да</l>
 
       <stg>
-        <st Contlex="PcleTag">да</st>
+        <st Contlex="PCLE_">да</st>
       </stg>
     </lg>
 
@@ -839,7 +839,7 @@
       <l>дель</l>
 
       <stg>
-        <st Contlex="PcleTag">дель</st>
+        <st Contlex="PCLE_">дель</st>
       </stg>
     </lg>
 
@@ -863,7 +863,7 @@
       <l>деряй</l>
 
       <stg>
-        <st Contlex="PcleTag">деряй</st>
+        <st Contlex="PCLE_">деряй</st>
       </stg>
     </lg>
 
@@ -887,7 +887,7 @@
       <l>дряй</l>
 
       <stg>
-        <st Contlex="PcleTag">дряй</st>
+        <st Contlex="PCLE_">дряй</st>
       </stg>
     </lg>
 
@@ -911,7 +911,7 @@
       <l>дяряй</l>
 
       <stg>
-        <st Contlex="PcleTag">дяряй</st>
+        <st Contlex="PCLE_">дяряй</st>
       </stg>
     </lg>
 
@@ -947,7 +947,7 @@
       <l>жа</l>
 
       <stg>
-        <st Contlex="PcleTag">жа</st>
+        <st Contlex="PCLE_">жа</st>
       </stg>
     </lg>
 
@@ -1003,7 +1003,7 @@
       <l>жо</l>
 
       <stg>
-        <st Contlex="PcleTag">жо</st>
+        <st Contlex="PCLE_">жо</st>
       </stg>
     </lg>
 
@@ -1027,7 +1027,7 @@
       <l>и</l>
 
       <stg>
-        <st Contlex="PcleTag">и</st>
+        <st Contlex="PCLE_">и</st>
       </stg>
     </lg>
 
@@ -1059,7 +1059,7 @@
       <l>ина</l>
 
       <stg>
-        <st Contlex="PcleTag">ина</st>
+        <st Contlex="PCLE_">ина</st>
       </stg>
     </lg>
 
@@ -1091,7 +1091,7 @@
       <l>инь</l>
 
       <stg>
-        <st Contlex="PcleTag">инь</st>
+        <st Contlex="PCLE_">инь</st>
       </stg>
     </lg>
 
@@ -1131,7 +1131,7 @@
       <l>кати</l>
 
       <stg>
-        <st Contlex="PcleTag">кати</st>
+        <st Contlex="PCLE_">кати</st>
       </stg>
     </lg>
 
@@ -1163,7 +1163,7 @@
       <l>катк</l>
 
       <stg>
-        <st Contlex="PcleTag">катк</st>
+        <st Contlex="PCLE_">катк</st>
       </stg>
     </lg>
 
@@ -1203,7 +1203,7 @@
       <l>кепшт</l>
 
       <stg>
-        <st Contlex="PcleTag">кепшт</st>
+        <st Contlex="PCLE_">кепшт</st>
       </stg>
     </lg>
 
@@ -1227,7 +1227,7 @@
       <l>клёк</l>
 
       <stg>
-        <st Contlex="PcleTag">клёк</st>
+        <st Contlex="PCLE_">клёк</st>
       </stg>
     </lg>
 
@@ -1251,7 +1251,7 @@
       <l>конешна</l>
 
       <stg>
-        <st Contlex="PcleTag">конешна</st>
+        <st Contlex="PCLE_">конешна</st>
       </stg>
     </lg>
 
@@ -1275,7 +1275,7 @@
       <l>къле</l>
 
       <stg>
-        <st Contlex="PcleTag">къле</st>
+        <st Contlex="PCLE_">къле</st>
       </stg>
     </lg>
 
@@ -1299,7 +1299,7 @@
       <l>меколанкт</l>
 
       <stg>
-        <st Contlex="PcleTag">меколанкт</st>
+        <st Contlex="PCLE_">меколанкт</st>
       </stg>
     </lg>
 
@@ -1331,7 +1331,7 @@
       <l>можботь</l>
 
       <stg>
-        <st Contlex="PcleTag">можботь</st>
+        <st Contlex="PCLE_">можботь</st>
       </stg>
     </lg>
 
@@ -1355,7 +1355,7 @@
       <l>может</l>
 
       <stg>
-        <st Contlex="PcleTag">может</st>
+        <st Contlex="PCLE_">может</st>
       </stg>
     </lg>
 
@@ -1379,7 +1379,7 @@
       <l>мъле</l>
 
       <stg>
-        <st Contlex="PcleTag">мъле</st>
+        <st Contlex="PCLE_">мъле</st>
       </stg>
     </lg>
 
@@ -1403,7 +1403,7 @@
       <l>мяк</l>
 
       <stg>
-        <st Contlex="PcleTag">мяк</st>
+        <st Contlex="PCLE_">мяк</st>
       </stg>
     </lg>
 
@@ -1435,7 +1435,7 @@
       <l>мяле</l>
 
       <stg>
-        <st Contlex="PcleTag">мяле</st>
+        <st Contlex="PCLE_">мяле</st>
       </stg>
     </lg>
 
@@ -1459,7 +1459,7 @@
       <l>мянь</l>
 
       <stg>
-        <st Contlex="PcleTag">мянь</st>
+        <st Contlex="PCLE_">мянь</st>
       </stg>
     </lg>
 
@@ -1499,7 +1499,7 @@
       <l>мярьк</l>
 
       <stg>
-        <st Contlex="PcleTag">мярьк</st>
+        <st Contlex="PCLE_">мярьк</st>
       </stg>
     </lg>
 
@@ -1523,7 +1523,7 @@
       <l>на</l>
 
       <stg>
-        <st Contlex="PcleTag">на</st>
+        <st Contlex="PCLE_">на</st>
       </stg>
     </lg>
 
@@ -1555,7 +1555,7 @@
       <l>най</l>
 
       <stg>
-        <st Contlex="PcleTag">най</st>
+        <st Contlex="PCLE_">най</st>
       </stg>
     </lg>
 
@@ -1595,7 +1595,7 @@
       <l>начас</l>
 
       <stg>
-        <st Contlex="PcleTag">начас</st>
+        <st Contlex="PCLE_">начас</st>
       </stg>
     </lg>
 
@@ -1627,7 +1627,7 @@
       <l>небось</l>
 
       <stg>
-        <st Contlex="PcleTag">небось</st>
+        <st Contlex="PCLE_">небось</st>
       </stg>
     </lg>
 
@@ -1651,7 +1651,7 @@
       <l>незьля</l>
 
       <stg>
-        <st Contlex="PcleTag">незьля</st>
+        <st Contlex="PCLE_">незьля</st>
       </stg>
     </lg>
 
@@ -1675,7 +1675,7 @@
       <l>нетоком</l>
 
       <stg>
-        <st Contlex="PcleTag">нетоком</st>
+        <st Contlex="PCLE_">нетоком</st>
       </stg>
     </lg>
 
@@ -1696,15 +1696,12 @@
 
   <e>
     <lg>
-      <l>ни</l>
+      <l pos="Adv">ни</l>
 
       <stg>
-        <st Contlex="PcleTag">ни</st>
+        <st Contlex="ADV-TEMP">ни</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
-
     <phonet>ńi</phonet>
 
     <mg>
@@ -1728,10 +1725,10 @@
 
   <e>
     <lg>
-      <l>ну</l>
+      <l pos="Pcle">ну</l>
 
       <stg>
-        <st Contlex="PcleTag">ну</st>
+        <st Contlex="PCLE_">ну</st>
       </stg>
     </lg>
 
@@ -1771,7 +1768,7 @@
       <l>нъльне</l>
 
       <stg>
-        <st Contlex="PcleTag">нъльне</st>
+        <st Contlex="PCLE_">нъльне</st>
       </stg>
     </lg>
 
@@ -1795,7 +1792,7 @@
       <l>няк</l>
 
       <stg>
-        <st Contlex="PcleTag">няк</st>
+        <st Contlex="PCLE_">няк</st>
       </stg>
     </lg>
 
@@ -1816,15 +1813,12 @@
 
   <e>
     <lg>
-      <l>ожу</l>
+      <l pos="Interj">ожу</l>
 
       <stg>
-        <st Contlex="PcleTag">ожу</st>
+        <st Contlex="INTERJ_">ожу</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
-
     <mg>
       <m>
         <head/>
@@ -1840,10 +1834,10 @@
 
   <e>
     <lg>
-      <l>пади</l>
+      <l pos="Pcle">пади</l>
 
       <stg>
-        <st Contlex="PcleTag">пади</st>
+        <st Contlex="PCLE_">пади</st>
       </stg>
     </lg>
 
@@ -1857,7 +1851,7 @@
       </m>
 
       <tg lang="fin">
-        <t>ehkä.</t>
+        <t>ehkä</t>
       </tg>
 
       <xg>
@@ -1872,15 +1866,12 @@
 
   <e>
     <lg>
-      <l>пожалуйста</l>
+      <l pos="Interj">пожалуйста</l>
 
       <stg>
-        <st Contlex="PcleTag">пожалуйста</st>
+        <st Contlex="FORMULAIC_">пожалуйста</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
-
     <phonet>pažaləsta</phonet>
 
     <mg>
@@ -1899,7 +1890,7 @@
       <l>пъчкяль</l>
 
       <stg>
-        <st Contlex="PcleTag">пъчкяль</st>
+        <st Contlex="PCLE_">пъчкяль</st>
       </stg>
     </lg>
 
@@ -1923,7 +1914,7 @@
       <l>пъчкясь</l>
 
       <stg>
-        <st Contlex="PcleTag">пъчкясь</st>
+        <st Contlex="PCLE_">пъчкясь</st>
       </stg>
     </lg>
 
@@ -1947,7 +1938,7 @@
       <l>рьъстей</l>
 
       <stg>
-        <st Contlex="PcleTag">рьъстей</st>
+        <st Contlex="PCLE_">рьъстей</st>
       </stg>
     </lg>
 
@@ -1971,7 +1962,7 @@
       <l>рязей</l>
 
       <stg>
-        <st Contlex="PcleTag">рязей</st>
+        <st Contlex="PCLE_">рязей</st>
       </stg>
     </lg>
 
@@ -1995,7 +1986,7 @@
       <l>саты</l>
 
       <stg>
-        <st Contlex="PcleTag">саты</st>
+        <st Contlex="PCLE_">саты</st>
       </stg>
     </lg>
 
@@ -2019,7 +2010,7 @@
       <l>сембоц</l>
 
       <stg>
-        <st Contlex="PcleTag">сембоц</st>
+        <st Contlex="PCLE_">сембоц</st>
       </stg>
     </lg>
 
@@ -2043,7 +2034,7 @@
       <l>сюкпря</l>
 
       <stg>
-        <st Contlex="PcleTag">сюкпря</st>
+        <st Contlex="PCLE_">сюкпря</st>
       </stg>
     </lg>
 
@@ -2067,7 +2058,7 @@
       <l>сяда</l>
 
       <stg>
-        <st Contlex="PcleTag">сяда</st>
+        <st Contlex="PCLE_">сяда</st>
       </stg>
     </lg>
 
@@ -2123,7 +2114,7 @@
       <l>таки</l>
 
       <stg>
-        <st Contlex="PcleTag">таки</st>
+        <st Contlex="PCLE_">таки</st>
       </stg>
     </lg>
 
@@ -2155,7 +2146,7 @@
       <l>тейне-арам</l>
 
       <stg>
-        <st Contlex="PcleTag">тейне-арам</st>
+        <st Contlex="PCLE_">тейне-арам</st>
       </stg>
     </lg>
 
@@ -2179,7 +2170,7 @@
       <l>теконь</l>
 
       <stg>
-        <st Contlex="PcleTag">теконь</st>
+        <st Contlex="PCLE_">теконь</st>
       </stg>
     </lg>
 
@@ -2203,7 +2194,7 @@
       <l>туй</l>
 
       <stg>
-        <st Contlex="PcleTag">туй</st>
+        <st Contlex="PCLE_">туй</st>
       </stg>
     </lg>
 
@@ -2227,7 +2218,7 @@
       <l>тък</l>
 
       <stg>
-        <st Contlex="PcleTag">тък</st>
+        <st Contlex="PCLE_">тък</st>
       </stg>
     </lg>
 
@@ -2251,7 +2242,7 @@
       <l>тык</l>
 
       <stg>
-        <st Contlex="PcleTag">тык</st>
+        <st Contlex="PCLE_">тык</st>
       </stg>
     </lg>
 
@@ -2272,14 +2263,12 @@
 
   <e>
     <lg>
-      <l>тя</l>
+      <l pos="Pron">тя</l>
 
       <stg>
-        <st Contlex="PcleTag">тя</st>
+        <st Contlex="PRON_">тя</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>ťä</phonet>
 
@@ -2520,10 +2509,10 @@
 
   <e>
     <lg>
-      <l>улема</l>
+      <l pos="Pcle">улема</l>
 
       <stg>
-        <st Contlex="PcleTag">улема</st>
+        <st Contlex="PCLE_">улема</st>
       </stg>
     </lg>
 
@@ -2555,7 +2544,7 @@
       <l>утль</l>
 
       <stg>
-        <st Contlex="PcleTag">утль</st>
+        <st Contlex="PCLE_">утль</st>
       </stg>
     </lg>
 
@@ -2579,7 +2568,7 @@
       <l>уш</l>
 
       <stg>
-        <st Contlex="PcleTag">уш</st>
+        <st Contlex="PCLE_">уш</st>
       </stg>
     </lg>
 
@@ -2603,7 +2592,7 @@
       <l>хоть</l>
 
       <stg>
-        <st Contlex="PcleTag">хоть</st>
+        <st Contlex="PCLE_">хоть</st>
       </stg>
     </lg>
 
@@ -2624,15 +2613,12 @@
 
   <e>
     <lg>
-      <l>хуть</l>
+      <l pos="Cs">хуть</l>
 
       <stg>
-        <st Contlex="PcleTag">хуть</st>
+        <st Contlex="CS_">хуть</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
-
     <phonet>xuť, xəť, kuť</phonet>
 
     <mg>
@@ -2641,7 +2627,7 @@
       </m>
 
       <tg lang="fin">
-        <t>vaikka, joskin.</t>
+        <t pos="Cs">vaikka, joskin.</t>
       </tg>
     </mg>
   </e>
@@ -2651,7 +2637,7 @@
       <l>хуш</l>
 
       <stg>
-        <st Contlex="PcleTag">хуш</st>
+        <st Contlex="PCLE_">хуш</st>
       </stg>
     </lg>
 
@@ -2675,7 +2661,7 @@
       <l>це</l>
 
       <stg>
-        <st Contlex="PcleTag">це</st>
+        <st Contlex="PCLE_">це</st>
       </stg>
     </lg>
 
@@ -2699,7 +2685,7 @@
       <l>ця</l>
 
       <stg>
-        <st Contlex="PcleTag">ця</st>
+        <st Contlex="PCLE_">ця</st>
       </stg>
     </lg>
 
@@ -2720,15 +2706,12 @@
 
   <e>
     <lg>
-      <l>цёк</l>
+      <l pos="Adv">цёк</l>
 
       <stg>
-        <st Contlex="PcleTag">цёк</st>
+        <st Contlex="ADV_">цёк</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
-
     <phonet>ćok</phonet>
 
     <mg>
@@ -2752,14 +2735,12 @@
 
   <e>
     <lg>
-      <l>чай</l>
+      <l pos="Pcle">чай</l>
 
       <stg>
-        <st Contlex="PcleTag">чай</st>
+        <st Contlex="PCLE_">чай</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>čäj</phonet>
 
@@ -2776,10 +2757,10 @@
 
   <e>
     <lg>
-      <l>чяй</l>
+      <l pos="Pcle">чяй</l>
 
       <stg>
-        <st Contlex="PcleTag">чяй</st>
+        <st Contlex="PCLE_">чяй</st>
       </stg>
     </lg>
 
@@ -2800,14 +2781,12 @@
 
   <e>
     <lg>
-      <l>штоба</l>
+      <l pos="Cs">штоба</l>
 
       <stg>
-        <st Contlex="PcleTag">штоба</st>
+        <st Contlex="CS_">штоба</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>štoba</phonet>
 
@@ -2824,10 +2803,10 @@
 
   <e>
     <lg>
-      <l>шять</l>
+      <l pos="Pcle">шять</l>
 
       <stg>
-        <st Contlex="PcleTag">шять</st>
+        <st Contlex="PCLE_">шять</st>
       </stg>
     </lg>
 
@@ -2851,7 +2830,7 @@
       <l>эбять</l>
 
       <stg>
-        <st Contlex="PcleTag">эбять</st>
+        <st Contlex="PCLE_">эбять</st>
       </stg>
     </lg>
 
@@ -2875,7 +2854,7 @@
       <l>эвон</l>
 
       <stg>
-        <st Contlex="PcleTag">эвон</st>
+        <st Contlex="PCLE_">эвон</st>
       </stg>
     </lg>
 
@@ -2899,7 +2878,7 @@
       <l>эк</l>
 
       <stg>
-        <st Contlex="PcleTag">эк</st>
+        <st Contlex="PCLE_">эк</st>
       </stg>
     </lg>
 
@@ -2923,7 +2902,7 @@
       <l>эле</l>
 
       <stg>
-        <st Contlex="PcleTag">эле</st>
+        <st Contlex="PCLE_">эле</st>
       </stg>
     </lg>
 
@@ -2944,10 +2923,10 @@
 
   <e>
     <lg>
-      <l>эрь</l>
+      <l pos="Qnt">эрь</l>
 
       <stg>
-        <st Contlex="PcleTag">эрь</st>
+        <st Contlex="QNT_">эрь</st>
       </stg>
     </lg>
 
