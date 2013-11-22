@@ -23,18 +23,18 @@ LEXICON A_АВА
 
 LEXICON Adj-ofta
 !офта:офт
-+A:%>О2 K ;
-+A+Der/MWN:%>О2 N_ОФТА ;
++A:%>%{АОЕ%} K ;
++A+Der/MWN:%>%{АОЕ%} N_ОФТА ;
 
 LEXICON A_ПИНГЕ
 !пинге:пинг
-+A:%>О2 K ;
-+A+Der/MWN:%>О2 N_ПИНГЕ ;
++A:%>%{АОЕ%} K ;
++A+Der/MWN:%>%{АОЕ%} N_ПИНГЕ ;
 
 LEXICON Adj-pula
 !пула:пул
-+A:%>О2 K ;
-+A+Der/MWN:%>О2 N_ПУЛА ;
++A:%>%{АОЕ%} K ;
++A+Der/MWN:%>%{АОЕ%} N_ПУЛА ;
 
 LEXICON A_ОШ
 !! ош:ош
