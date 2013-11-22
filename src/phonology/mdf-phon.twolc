@@ -127,9 +127,9 @@ verbStemVows = а о э я ё е ;                                            !!
 verbStemVowStrong = а о э я ё е ;                                       !!= @CODE@
 noGlideVow = а о у ы э ;                                                !!= @CODE@
 glideVow = я ё ю и е ;                                                  !!= @CODE@
-BTV = а о у я ё ю ; ! Back Trigger Vowels                               !!= @CODE@
-FTV = ы и е э ; ! Front Trigger Vowels                                  !!= @CODE@
-                                                                        !!= @CODE@
+BTV = а о у я ё ю ;                                !!= @CODE@ ! Back Trigger Vowels
+FTV = ы и е э ;                                   !!= @CODE@ ! Front Trigger Vowels
+
 Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       !!= @CODE@
 NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants !!= @CODE@
 CnsVoiced = б в г д ж з й л м н р ;                                     !!= @CODE@
@@ -141,7 +141,7 @@ CnsVoicelessNonDent = к п ф х ч ш щ ;                                   !
 CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  !!= @CODE@
 CnsDent = д з л н р с т ц  ;                                            !!= @CODE@
 CnsDentNoL = д з н р с т ц  ;                                           !!= @CODE@
-                                                                        !!= @CODE@
+
 Letters = Vows Cns ь ъ ;                                                !!= @CODE@
 !! }}}
 
@@ -162,7 +162,7 @@ LFCS = [ [ FTV AC* [ Cns - CnsDent ] ] | FTV AC* FTC | [ BTV FTC [ AC* [ Cns - C
 LFCH =[ [ :FTV AC* CnsDent ] | [ BTV FTC [ AC* CnsDent ]+ ] | [ BTV л ь [ к с ] ] ] ;
 
 ! Left Back Context
-LBC = [ [ BTV ( %>: ) NPC+ ] | [ BTV л ь [[ NPC* NPC ] - [ :* к с ] ] ] ] ;
+LBC = [ [ BTV ( %>: ) NPC:+ ] | [ BTV л ь [[ NPC* NPC ] - [ :* к с ] ] ] ] ;
 
 PossX = [ м | н Ь2: | т Ь2: | н т Ь2: | н О1: к | н к | с т ] ;
 
@@ -268,7 +268,7 @@ Rules !!≈ !!The @CODE@
 
 "%{АОЕ%}:е"
 !! __@RULENAME@__  
- %{АОЕ%}:е <=> LFC _ [ #: ] ;
+ %{АОЕ%}:е <=> [ LFC | FTV Cns:* CnsNonDent ] _ [ #: ] ;
           [ ш | ч | ж ] _ %> ;
 
 
@@ -506,7 +506,7 @@ Rules !!≈ !!The @CODE@
 !! !DIMINUTIVES
 "%{DIM%}:н"
 !! __@RULENAME@__
- %{DIM%}:н <=> [ Vows: | м  | в | н | д | л | р  | з | й] (ь:)  %> _ я ;
+ %{DIM%}:н <=> [ Vows: | :Vows | м  | в | н | д | л | р  | з | й] (ь:)  %> _ я ;
 !€ ши>%{DIM%}я
 !€ ши0ня
 

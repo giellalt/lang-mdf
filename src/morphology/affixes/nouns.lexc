@@ -67,28 +67,28 @@ LEXICON NMN_АВА-SG/PL
 :%> PXPL3 ;
 
 
-LEXICON N_ОФТА
+LEXICON N_ОФТА !!= @CODE@ 
 !!офта:офт
-:%>%{АОЕ%} N_АВА ;
+:%{АОЕ%} N_АВА ;
  N_КАЛ ;
-+N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
-LEXICON N_ПАНГА
+LEXICON N_ПАНГА !!= @CODE@
 !!панга:панг
  N_ОФТА ;
 
-LEXICON N_ПИНГЕ
+LEXICON N_ПИНГЕ !!= @CODE@
 !пинге:пинг
-:%>%{АОЕ%} N_АВА ;
- N_КАЛ ;
-+N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N:%{АОЕ%} NMN_АВА ;
+ N_КАЛ ; !!= @CODE@ Ela, Ill, Ine, Par 
++N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
-LEXICON N_ПУЛА
+LEXICON N_ПУЛА !!= @CODE@
 !пула:пул
-:%>%{АОЕ%} N_АВА ;
-+N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N:%{АОЕ%} NMN_АВА ;
++N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
-LEXICON N_ОШ
+LEXICON N_ОШ !!= @CODE@
 !ош:ош
 +N: NMN_ОШ ;
 +N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
@@ -98,7 +98,7 @@ LEXICON N_ОШ-PL
 +N: NMN_ОШ-PL ;
 +N: NMN_ОШ-SG/PL ;
 
-LEXICON N_КАЛ
+LEXICON N_КАЛ !!= @CODE@
 +N: NMN_КАЛ ;
 +N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
@@ -106,7 +106,7 @@ LEXICON N_КАЛ-PL
 +N: NMN_КАЛ-PL ;
 +N: NMN_КАЛ-SG/PL ;
 
-LEXICON N_КЕЛУ
+LEXICON N_КЕЛУ !!= @CODE@
 +N: NMN_КАЛ ;
 
 LEXICON NMN_КАЛ
