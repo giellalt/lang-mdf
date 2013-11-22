@@ -34280,25 +34280,34 @@
 
   <e>
     <lg>
-      <l pos="Adv">тянемс</l>
+      <l pos="V">тянемс</l>
 
       <stg>
-        <st Contlex="ADV_">тянемс</st>
+        <st Contlex="ADV-TEMP">тянемс</st>
       </stg>
     </lg>
 
     <pos>Adv</pos>
 
+    <phonet>ťäńəms, ťäńims</phonet>
+
     <mg>
       <m>
         <head/>
-
-        <defNative/>
       </m>
 
       <tg xml:lang="fin">
+        <t>tähän saakka, näihin asti</t>
         <t>tähän mennessä, tähän asti</t>
       </tg>
+
+      <xg>
+        <x>мянь тянемс</x>
+
+        <phonet>mäń ťäńəms</phonet>
+
+        <xt xml:lang="fin">tähän päivään asti.</xt>
+      </xg>
     </mg>
   </e>
 

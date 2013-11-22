@@ -44,8 +44,8 @@ LEXICON IV_НЯФТЕМС
 LEXICON IV_АЛЫЯФТОМС
 +V+IV: V0_АЛЫЯФТОМС ;
 
-LEXICON IV_АНДОВОМС
-+V+IV: V0_АНДОВОМС ;
+LEXICON IV_КУНДАМС
++V+IV: V0_КУНДАМС ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! VERBS MUTUAL FOR TV and IV !!
@@ -71,7 +71,7 @@ LEXICON V0_АЛЫЯФТОМС
 :%>О1 Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
 
-LEXICON V0_АНДОВОМС
+LEXICON V0_КУНДАМС
  VERBAL-CONJUGATIONS-ALL ;
 :%>О1 Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
@@ -803,7 +803,7 @@ LEXICON CNJ-21
 +Conj+ScSg2+OcSg1000000@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.21@:%>%{ОЕ%0%}лемайть@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.21@ VerbEnd ;
 
 LEXICON CNJ-23
-+Conj+ScSg2+OcSg300@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.23@:%>%{ОЕ%0%}лить@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.23@ VerbEnd ;
++Conj+ScSg2+OcSg3000@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.23@:%>%{ОЕ%0%}лить@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.23@ VerbEnd ;
 
 LEXICON CNJ-24
 +Conj+ScSg2+OcPl1000000@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.24@:%>%{ОЕ%0%}лемасть@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.24@ VerbEnd ;
