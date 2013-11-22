@@ -12,135 +12,142 @@
 ! Other licensing options are available upon request, please contact
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
-!! Morphology
-!! ----------
-!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+!! !!!Morphology
+!!
+!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE __UNDEFINED__ LANGUAGE.
 
 
-Multichar_Symbols
-!! Analysis symbols
-!! ----------------
-!! The morphological analyses of wordforms of UNDEFINED language are presented
+Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
+!! 
+!! The morphological analyses of wordforms of the __UNDEFINED__ language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 +TYÄ 	!!= @CODE@ Underdeveloped.
 
 !! The parts-of-speech are:
- +A 	!!= @CODE@ adjective
- +Adv 	!!= @CODE@ adverb
- +CS 	!!= @CODE@ subordinating conjunction
- +CC 	!!= @CODE@ coordinating conjunction
- +Interj 	!!= @CODE@ interjection
- +N 	!!= @CODE@ noun
- +Pcle 	!!= @CODE@ particle
- +Po 	!!= @CODE@ postposition
- +Pron 	!!= @CODE@ pronoun
- +Qnt 	!!= @CODE@ Quantifier
- +V 	!!= @CODE@ verb
+ +A 		!!≈ ;@CODE@: adjective
+ +Adv 		!!≈ ;@CODE@: adverb
+ +CS 		!!≈ ;@CODE@: subordinating conjunction
+ +CC 		!!≈ ;@CODE@: coordinating conjunction
+ +Interj 	!!≈ ;@CODE@: interjection
+ +N 		!!≈ ;@CODE@: noun
+ +Pcle 		!!≈ ;@CODE@: particle
+ +Po 		!!≈ ;@CODE@: postposition
+ +Pron 		!!≈ ;@CODE@: pronoun
+ +Qnt 		!!≈ ;@CODE@: Quantifier
+ +V 		!!≈ ;@CODE@: verb
 
 !! The parts of speech are further split up into:
-! Nouns
- +Prop 	!!= @CODE@ proper
- +CollN 	!!= @CODE@ used with paired nouns _collective nouns_
-! Pronouns
- +Dem 	!!= @CODE@ demonstrative
- +Indef 	!!= @CODE@ indefinite
- +Dep 	!!= @CODE@ dependent word requiring the presence of another, e.g. _мень_
- +Intensive 	!!= @CODE@ intensive pronoun
- +Interr 	!!= @CODE@ interrogative
- +Pers 	!!= @CODE@ personal
- +Recipr 	!!= @CODE@ reciprocal
- +Refl 	!!= @CODE@ reflexive
- +Rel 	!!= @CODE@ relative
-! personal pronouns use additional tags Sg1
- +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3
-
-! Adverbs
- +Adv-Ideoph 	!!= @CODE@ These are ideophonic descriptors used to modify the verb
-            	!!= @CODE@ вырк ливтясь '_flit_ and it flew off'
- +AdA 	!!= @CODE@ Ad-adjective
- +Manner 	!!= @CODE@ with reference to type of adverb
- +Spat 	!!= @CODE@ spatial
- +Temp 	!!= @CODE@ temporal
+!! 
+!! __Nouns:__
+ +Prop 		!!≈ ;@CODE@: proper
+ +CollN 	!!≈ ;@CODE@: used with paired nouns __collective nouns__
+!! 
+!! __Pronouns:__
+ +Dem 		!!≈ ;@CODE@: demonstrative
+ +Indef 	!!≈ ;@CODE@: indefinite
+ +Dep 		!!≈ ;@CODE@: dependent word requiring the presence of another, e.g. __мень__
+ +Intensive !!≈ ;@CODE@: intensive pronoun
+ +Interr 	!!≈ ;@CODE@: interrogative
+ +Pers 		!!≈ ;@CODE@: personal
+ +Recipr 	!!≈ ;@CODE@: reciprocal
+ +Refl 		!!≈ ;@CODE@: reflexive
+ +Rel 		!!≈ ;@CODE@: relative
+!! 
+!! personal pronouns use additional tags:
+!! {{{
+ +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 !!= @CODE@
+!! }}}
+!! 
+!! Adverbs:
+ +Adv-Ideoph 	!!= ;@CODE@: These are ideophonic descriptors used to modify the verb:
+            	!!           ''вырк ливтясь''  "__flit__ and it flew off"
+ +AdA 			!!= ;@CODE@: Ad-adjective
+ +Manner 		!!= ;@CODE@: with reference to type of adverb
+ +Spat 			!!= ;@CODE@: spatial
+ +Temp 			!!= ;@CODE@: temporal
 
 ! Postpositions
-! _+ Spat_, _+ Temp_
-
-! Interjections
- +Formulaic
-
+! __+Spat__, __+Temp__
+!! 
+!! Interjections:
+ +Formulaic  !!= ;@CODE@: ???
+!! 
 !! The Usage extents are marked using following tags:
- +Use/Sub   
- +Use/-Spell 
-
+ +Use/Sub    !!= ;@CODE@: substandard / outside the written norm
+ +Use/-Spell !!= ;@CODE@: do not include in speller
+!! 
 !! The nominals are inflected in the following Case and Number
 ! number
- +Sg 	!!= @CODE@ singular
- +Pl 	!!= @CODE@ plural
+ +Sg 		!!= ;@CODE@: singular
+ +Pl 		!!= ;@CODE@: plural
 ! case
- +Abe 	!!= @CODE@ abessive
- +Abl 	!!= @CODE@ ablative
- +Acc 	!!= @CODE@ accusative Not really necessary
- +Cau 	!!= @CODE@ causatative
- +Com 	!!= @CODE@ comitative
- +Comp/Sh 	!!= @CODE@ comparative -шка
- +Com/Sh
- +Dat 	!!= @CODE@ dative
- +Ela 	!!= @CODE@ elative
- +Gen 	!!= @CODE@ genitive
- +Ill 	!!= @CODE@ illative
- +Ine 	!!= @CODE@ inessive
- +Loc 	!!= @CODE@ locative 
- +Nom 	!!= @CODE@ nominative
- +Prl 	!!= @CODE@ prolative
- +Tra 	!!= @CODE@ translative
- +Voc 	!!= @CODE@ Vocative
+ +Abe 		!!= ;@CODE@: abessive
+ +Abl 		!!= ;@CODE@: ablative
+ +Acc 		!!= ;@CODE@: accusative Not really necessary
+ +Cau 		!!= ;@CODE@: causatative
+ +Com 		!!= ;@CODE@: comitative
+ +Comp/Sh 	!!= ;@CODE@: comparative -шка
+ +Com/Sh 	!!= ;@CODE@: = ???
+ +Dat 		!!= ;@CODE@: dative
+ +Ela 		!!= ;@CODE@: elative
+ +Gen 		!!= ;@CODE@: genitive
+ +Ill 		!!= ;@CODE@: illative
+ +Ine 		!!= ;@CODE@: inessive
+ +Loc 		!!= ;@CODE@: locative 
+ +Nom 		!!= ;@CODE@: nominative
+ +Prl 		!!= ;@CODE@: prolative
+ +Tra 		!!= ;@CODE@: translative
+ +Voc 		!!= ;@CODE@: Vocative
  
 !! The possession is marked as such:
- +PxSg1 	!!= @CODE@ first person singular
- +PxSg2 	!!= @CODE@ second person singular
- +PxSg3 	!!= @CODE@ third person singular
- +PxPl1 	!!= @CODE@ first person plural
- +PxPl2 	!!= @CODE@ second person plural
- +PxPl3 	!!= @CODE@ third person plural
+ +PxSg1 	!!= ;@CODE@: first person singular
+ +PxSg2 	!!= ;@CODE@: second person singular
+ +PxSg3 	!!= ;@CODE@: third person singular
+ +PxPl1 	!!= ;@CODE@: first person plural
+ +PxPl2 	!!= ;@CODE@: second person plural
+ +PxPl3 	!!= ;@CODE@: third person plural
 
- ! + InDef This has been changed to +Indef
- +Def 	!!= @CODE@ Definite
-
+!! 
+! + InDef This has been changed to +Indef
+ +Def 	!!= ;@CODE@: Definite
+!! 
 !! The comparative forms are:
- +Comp 	!!= @CODE@ comparative as opposed to superlative
- +Superl 	!!= @CODE@ superlative
-
+ +Comp 		!!= ;@CODE@: comparative as opposed to superlative
+ +Superl 	!!= ;@CODE@: superlative
+!! 
 !! Quantifiers and Numerals are classified under:
-! Quantifiers (numerals)
- +Num 	!!= @CODE@ numeral
- +Appr 	!!= @CODE@ Approximative numeral кафта-колма, колмошка 'two or three'
- +AssocColl 	!!= @CODE@ -ne- ; avide-
+ +Num 		!!= ;@CODE@: numeral
+ +Appr 		!!= ;@CODE@: Approximative numeral кафта-колма, колмошка "two or three"
+ +AssocColl !!= ;@CODE@: -ne- ; avide-
+ +Coll 		!!= ;@CODE@: Collective
+ +Card 		!!= ;@CODE@: cardinal
+ +Distr 	!!= ;@CODE@: Distributive
+ +Iter 		!!= ;@CODE@: Iterative form expressing number of times (myv: кавксть, kpv: кыкысь)
+ +Ord 		!!= ;@CODE@: ordinal
+ +Attr 		!!= ;@CODE@: attribute, premodifier
 !?? +Assoc ! +месть
- +Coll 	!!= @CODE@ Collective
- +Card 	!!= @CODE@ cardinal
- +Distr 	!!= @CODE@ Distributive
- +Iter 	!!= @CODE@ Iterative form expressing number of times [myv: кавксть] [kpv: кыкысь]
- +Ord 	!!= @CODE@ ordinal
- +Attr 	!!= @CODE@ attribute, premodifier
 
+!! 
 !! Verb voice:
- +Act 	!!= @CODE@ active
- +Pss 	!!= @CODE@ passive
+ +Act 	!!= ;@CODE@: active
+ +Pss 	!!= ;@CODE@: passive
+!! 
 !! Verb moods are:
- +Cond 	!!= @CODE@ conditional ндяря- 
- +Conj 	!!= @CODE@ conjunctional "Оль"
- +Des 	!!= @CODE@ desiderative ксоль 'was about to; wanted to'
- +Ind 	!!= @CODE@ indicative
- +Imprt 	!!= @CODE@ imperative
- +Opt 	!!= @CODE@ optative
+ +Cond 	!!= ;@CODE@: conditional ндяря- 
+ +Conj 	!!= ;@CODE@: conjunctional "Оль"
+ +Des 	!!= ;@CODE@: desiderative ксоль "was about to; wanted to"
+ +Ind 	!!= ;@CODE@: indicative
+ +Imprt !!= ;@CODE@: imperative
+ +Opt 	!!= ;@CODE@: optative
 
 !! Verb tenses are
  +Prs 	!!= @CODE@ present and future ! nominal	conjugation as well
  +Prt1 	!!= @CODE@ preterite I ! only finite verbal
  +Prt2 	!!= @CODE@ preterite II ! nominal conjugation as well
+
 !! Verb personal forms are:
-! subject conjugation
+
 ! Subject conjugation
  +ScSg1 	!!= @CODE@ subject conjugation first person singular
  +ScSg2 	!!= @CODE@ subject conjugation second person singular
@@ -258,7 +265,7 @@ Multichar_Symbols
 
 ! MX = mood
 @U.CONJ-MX.IND@
-@D.CONJ-MX.IND@ 	!!= @CODE@ 2012-11-04 should this be _D_ or _N_
+@D.CONJ-MX.IND@ 	!!= @CODE@ 2012-11-04 should this be __D__ or __N__
 @U.CONJ-MX.IMP@
 @U.CONJ-MX.OPT@
 @U.CONJ-MX.DES@
@@ -396,7 +403,7 @@ LEXICON N-Voc-Px1Sg
 +N+Px1Sg+Interj+Voc: # ;
 
 !LEXICON EndNeg 
-!+CC+Neg: # ; 	!!= @CODE@ ни
+!+CC+Neg: # ; 	!= @CODE@ ни
 
 !LEXICON EndQST
 !+Qst: # ;
