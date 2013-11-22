@@ -17,6 +17,7 @@
 
   %{ОЕ%0%}:0	 for morphemes requiring a preceding vowel
 
+ %{АОЕ%}:о	  пула, офта, пинге
 
   %{Х%}:0	 This usually precedes the plural marker
 
@@ -53,9 +54,9 @@
  verbStemVowStrong = а о э я ё е ;                                       
  noGlideVow = а о у ы э ;                                                
  glideVow = я ё ю и е ;                                                  
- BTV = а о у я ё ю ; ! Back Trigger Vowels                               
- FTV = ы и е э ; ! Front Trigger Vowels                                  
-                                                                         
+ BTV = а о у я ё ю ;                                 ! Back Trigger Vowels
+ FTV = ы и е э ;                                    ! Front Trigger Vowels
+
  Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       
  NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants 
  CnsVoiced = б в г д ж з й л м н р ;                                     
@@ -67,7 +68,7 @@
  CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  
  CnsDent = д з л н р с т ц  ;                                            
  CnsDentNoL = д з н р с т ц  ;                                           
-                                                                         
+
  Letters = Vows Cns ь ъ ;                                                
 }}}
 
@@ -127,9 +128,9 @@ __O1:a__
 __O1:0__  
 
 
-__O2:a__  
+__%{АОЕ%}:a__  
 
-__O2:е__  
+__%{АОЕ%}:е__  
 
 
 
