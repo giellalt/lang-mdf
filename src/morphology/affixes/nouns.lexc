@@ -15,7 +15,7 @@ LEXICON N_
 LEXICON N_АВА
 ! ава:ава
 +N: NMN_АВА ;
-+N+Der/Dim+N:%>%{DIM%} NMN_АВА ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_АВА-SG
 ! ава:ава
@@ -71,6 +71,7 @@ LEXICON N_ОФТА
 !!офта:офт
 :%>О2 N_АВА ;
  N_КАЛ ;
++N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПАНГА
 !!панга:панг
@@ -80,15 +81,17 @@ LEXICON N_ПИНГЕ
 !пинге:пинг
 :%>О2 N_АВА ;
  N_КАЛ ;
++N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПУЛА
 !пула:пул
 :%>О2 N_АВА ;
++N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ
 !ош:ош
 +N: NMN_ОШ ;
-+N+Der/Dim+N:%>%{DIM%} NMN_ОШ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ-PL
 !ош:ош
@@ -97,7 +100,7 @@ LEXICON N_ОШ-PL
 
 LEXICON N_КАЛ
 +N: NMN_КАЛ ;
-+N+Der/Dim+N:%>%{DIM%} NMN_КАЛ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КАЛ-PL
 +N: NMN_КАЛ-PL ;
