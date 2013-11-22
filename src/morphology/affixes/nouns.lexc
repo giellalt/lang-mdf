@@ -69,9 +69,9 @@ LEXICON NMN_АВА-SG/PL
 
 LEXICON N_ОФТА
 !!офта:офт
-:%>О2 N_АВА ;
+:%>%{АОЕ%} N_АВА ;
  N_КАЛ ;
-+N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
++N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПАНГА
 !!панга:панг
@@ -79,14 +79,14 @@ LEXICON N_ПАНГА
 
 LEXICON N_ПИНГЕ
 !пинге:пинг
-:%>О2 N_АВА ;
+:%>%{АОЕ%} N_АВА ;
  N_КАЛ ;
-+N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
++N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПУЛА
 !пула:пул
-:%>О2 N_АВА ;
-+N+Der/Dim+N:%>О2%>%{DIM%}я NMN_АВА ;
+:%>%{АОЕ%} N_АВА ;
++N+Der/Dim+N:%>%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ
 !ош:ош
