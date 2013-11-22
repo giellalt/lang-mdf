@@ -1,9 +1,10 @@
-
-The Moksha morphophonological/twolc rules file 
-
+!!!The Moksha morphophonological/twolc rules file 
 
 
-
+{{{
+ а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+ А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
+}}}
 
 
 
@@ -18,6 +19,8 @@ The Moksha morphophonological/twolc rules file
 
 
   %{Х%}:0	 This usually precedes the plural marker
+
+ %{DIM%}:н		 This will be for diminutive initial consonant
 
 
 
@@ -35,9 +38,40 @@ The Moksha morphophonological/twolc rules file
 
 
 
-  %>  conjugation/declension morpheme boundary suffix
-  »  derivation morpheme boundary suffix
-  #  word boundary 
+ * {{ %- }} – Hyphen with constructions like "-buti"
+ * {{ %> }} – conjugation/declension morpheme boundary suffix
+ * {{ »  }} – derivation morpheme boundary suffix
+ * {{ #  }} – word boundary 
+
+
+
+ !!The Sets
+
+{{{
+ Vows = а о у ы э я ё ю и е ;                                            
+ verbStemVows = а о э я ё е ;                                            
+ verbStemVowStrong = а о э я ё е ;                                       
+ noGlideVow = а о у ы э ;                                                
+ glideVow = я ё ю и е ;                                                  
+ BTV = а о у я ё ю ; ! Back Trigger Vowels                               
+ FTV = ы и е э ; ! Front Trigger Vowels                                  
+                                                                         
+ Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       
+ NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants 
+ CnsVoiced = б в г д ж з й л м н р ;                                     
+ CnsVoicedDent = д з л н р ;                                             
+ CnsVoicedNonDent = б в г ж й м ;                                        
+ CnsVoiceless = к п с т ф х ц ч ш щ ;                                    
+ CnsVoicelessDent = с т ц ;                                              
+ CnsVoicelessNonDent = к п ф х ч ш щ ;                                   
+ CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  
+ CnsDent = д з л н р с т ц  ;                                            
+ CnsDentNoL = д з н р с т ц  ;                                           
+                                                                         
+ Letters = Vows Cns ь ъ ;                                                
+}}}
+
+ !!The Definitions
 
 
 
@@ -52,13 +86,7 @@ The Moksha morphophonological/twolc rules file
 
 
 
-
-
-
-
-
-
-
+ !!The Rules
 
 
 __verbStemVowStrong:0__  
@@ -124,10 +152,18 @@ __ye:e sometimes__
 __a:ya__  
 
 
-Consonant changes
+!CONSONANT CHANGES
 __Х1 %{Х%}:0 after vowel__  
 
 __н:т окун__  
+
+__d:t__  
+
+__ж:ч панчсь__
+
+
+__г:к__
+
 
 __с:ц ломань:ломанць__  
 
@@ -173,10 +209,6 @@ __s:0__
 
 
 
-__d:t__  
-
-__г:к__
-
 
 
 
@@ -197,6 +229,13 @@ __YI2:y__
 
 
 __YI2:ye__  
+
+
+!DIMINUTIVES
+__%{DIM%}:н__
+
+__%{DIM%}:к__
+
 
 
 !!Disallow

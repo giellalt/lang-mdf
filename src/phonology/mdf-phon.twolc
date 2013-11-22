@@ -1,12 +1,11 @@
-
-!! The Moksha morphophonological/twolc rules file 
-
+!! !!!The Moksha morphophonological/twolc rules file 
 
 
-Alphabet
-а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я  
-А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я
-
+Alphabet !!≈!!The base @CODE@
+!! {{{
+а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я !!= @CODE@
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я !!= @CODE@
+!! }}}
 
 ! Nominal stem vowels that alternate 
 ! work with "+VLoss" and "+NoVLoss" tags
@@ -111,39 +110,41 @@ VLoss:0
 WLoss:0
 NoVLoss:0
 
- %- !Hyphen with constructions like "-buti"
- %> !!= @CODE@ conjugation/declension morpheme boundary suffix
- » !!= @CODE@ derivation morpheme boundary suffix
- # !!= @CODE@ word boundary 
+ %- !!= * {{@CODE@}} – Hyphen with constructions like "-buti"
+ %> !!= * {{@CODE@}} – conjugation/declension morpheme boundary suffix
+ »  !!= * {{@CODE@}} – derivation morpheme boundary suffix
+ #  !!= * {{@CODE@}} – word boundary 
 
 ;
 
 
-Sets
+Sets !!≈ !!The @CODE@
 
-Vows = а о у ы э я ё ю и е ;
-verbStemVows = а о э я ё е ;
-verbStemVowStrong = а о э я ё е ;
-noGlideVow = а о у ы э ;
-glideVow = я ё ю и е ;
-BTV = а о у я ё ю ; ! Back Trigger Vowels
-FTV = ы и е э ; ! Front Trigger Vowels
+!! {{{
+Vows = а о у ы э я ё ю и е ;                                            !!= @CODE@
+verbStemVows = а о э я ё е ;                                            !!= @CODE@
+verbStemVowStrong = а о э я ё е ;                                       !!= @CODE@
+noGlideVow = а о у ы э ;                                                !!= @CODE@
+glideVow = я ё ю и е ;                                                  !!= @CODE@
+BTV = а о у я ё ю ; ! Back Trigger Vowels                               !!= @CODE@
+FTV = ы и е э ; ! Front Trigger Vowels                                  !!= @CODE@
+                                                                        !!= @CODE@
+Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       !!= @CODE@
+NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants !!= @CODE@
+CnsVoiced = б в г д ж з й л м н р ;                                     !!= @CODE@
+CnsVoicedDent = д з л н р ;                                             !!= @CODE@
+CnsVoicedNonDent = б в г ж й м ;                                        !!= @CODE@
+CnsVoiceless = к п с т ф х ц ч ш щ ;                                    !!= @CODE@
+CnsVoicelessDent = с т ц ;                                              !!= @CODE@
+CnsVoicelessNonDent = к п ф х ч ш щ ;                                   !!= @CODE@
+CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  !!= @CODE@
+CnsDent = д з л н р с т ц  ;                                            !!= @CODE@
+CnsDentNoL = д з н р с т ц  ;                                           !!= @CODE@
+                                                                        !!= @CODE@
+Letters = Vows Cns ь ъ ;                                                !!= @CODE@
+!! }}}
 
-Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;
-NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants
-CnsVoiced = б в г д ж з й л м н р ;
-CnsVoicedDent = д з л н р ;
-CnsVoicedNonDent = б в г ж й м ;
-CnsVoiceless = к п с т ф х ц ч ш щ ;
-CnsVoicelessDent = с т ц ;
-CnsVoicelessNonDent = к п ф х ч ш щ ;
-CnsNonDent = б в г ж к м п ф х ч ш щ ;
-CnsDent = д з л н р с т ц  ;
-CnsDentNoL = д з н р с т ц  ;
-
-Letters = Vows Cns ь ъ ;
-
-Definitions
+Definitions !!≈ !!The @CODE@
 
 CnsNotCliticVok = [ [Cns - в] | в [ Vws - о ] | в о [ Cns - к] ] ;
 
@@ -174,7 +175,7 @@ Back =  :* [SubseqBackHarm \[ :FTV | :й | :ь | И2: ]* ( л ь ) [NPC]]  ;
 
 
 
-Rules
+Rules !!≈ !!The @CODE@
 
 !!!Vowel changes
 

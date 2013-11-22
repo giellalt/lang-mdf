@@ -1,45 +1,162 @@
 
-Morphology
-----------
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+!!!Morphology
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE __UNDEFINED__ LANGUAGE.
 
 
-Analysis symbols
-----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+
+The morphological analyses of wordforms of the __UNDEFINED__ language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
+ +TYÄ 	 Underdeveloped.
 
 The parts-of-speech are:
+ ;+A 		: adjective
+ ;+Adv 		: adverb
+ ;+CS 		: subordinating conjunction
+ ;+CC 		: coordinating conjunction
+ ;+Interj 	: interjection
+ ;+N 		: noun
+ ;+Pcle 		: particle
+ ;+Po 		: postposition
+ ;+Pron 		: pronoun
+ ;+Qnt 		: Quantifier
+ ;+V 		: verb
 
 The parts of speech are further split up into:
 
+__Nouns:__
+ ;+Prop 		: proper
+ ;+CollN 	: used with paired nouns __collective nouns__
+
+__Pronouns:__
+ ;+Dem 		: demonstrative
+ ;+Indef 	: indefinite
+ ;+Dep 		: dependent word requiring the presence of another, e.g. __мень__
+ ;+Intensive: intensive pronoun
+ ;+Interr 	: interrogative
+ ;+Pers 		: personal
+ ;+Recipr 	: reciprocal
+ ;+Refl 		: reflexive
+ ;+Rel 		: relative
+
+personal pronouns use additional tags:
+{{{
+  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
+}}}
+
+Adverbs:
+ ; +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb:
+          ''вырк ливтясь''  "__flit__ and it flew off"
+ ; +AdA 			: Ad-adjective
+ ; +Manner 		: with reference to type of adverb
+ ; +Spat 			: spatial
+ ; +Temp 			: temporal
 
 
+Interjections:
+ ; +Formulaic  : ???
 
 The Usage extents are marked using following tags:
+ ; +Use/Sub    : substandard / outside the written norm
+ ; +Use/-Spell : do not include in speller
 
 The nominals are inflected in the following Case and Number
+ ; +Sg 		: singular
+ ; +Pl 		: plural
+ ; +Abe 		: abessive
+ ; +Abl 		: ablative
+ ; +Acc 		: accusative Not really necessary
+ ; +Cau 		: causatative
+ ; +Com 		: comitative
+ ; +Comp/Sh 	: comparative -шка
+ ; +Com/Sh 	: = ???
+ ; +Dat 		: dative
+ ; +Ela 		: elative
+ ; +Gen 		: genitive
+ ; +Ill 		: illative
+ ; +Ine 		: inessive
+ ; +Loc 		: locative 
+ ; +Nom 		: nominative
+ ; +Prl 		: prolative
+ ; +Tra 		: translative
+ ; +Voc 		: Vocative
 
 The possession is marked as such:
+ ; +PxSg1 	: first person singular
+ ; +PxSg2 	: second person singular
+ ; +PxSg3 	: third person singular
+ ; +PxPl1 	: first person plural
+ ; +PxPl2 	: second person plural
+ ; +PxPl3 	: third person plural
 
+
+ ; +Def 	: Definite
 
 The comparative forms are:
+ ; +Comp 		: comparative as opposed to superlative
+ ; +Superl 	: superlative
 
 Quantifiers and Numerals are classified under:
+ ; +Num 		: numeral
+ ; +Appr 		: Approximative numeral кафта-колма, колмошка "two or three"
+ ; +AssocColl : -ne- ; avide-
+ ; +Coll 		: Collective
+ ; +Card 		: cardinal
+ ; +Distr 	: Distributive
+ ; +Iter 		: Iterative form expressing number of times (myv: кавксть, kpv: кыкысь)
+ ; +Ord 		: ordinal
+ ; +Attr 		: attribute, premodifier
+
 
 Verb voice:
+ ; +Act 	: active
+ ; +Pss 	: passive
+
 Verb moods are:
+ ; +Cond 	: conditional ндяря- 
+ ; +Conj 	: conjunctional "Оль"
+ ; +Des 	: desiderative ксоль "was about to; wanted to"
+ ; +Ind 	: indicative
+ ; +Imprt : imperative
+ ; +Opt 	: optative
 
 Verb tenses are
+  +Prs 	 present and future ! nominal	conjugation as well
+  +Prt1 	 preterite I ! only finite verbal
+  +Prt2 	 preterite II ! nominal conjugation as well
+
 Verb personal forms are:
 
+  +ScSg1 	 subject conjugation first person singular
+  +ScSg2 	 subject conjugation second person singular
+  +ScSg3 	 subject conjugation third person singular
+  +ScPl1 	 subject conjugation first person plural
+  +ScPl2 	 subject conjugation second person plural
+  +ScPl3 	 subject conjugation third person plural
+
+  +OcSg1 	 objject conjugation first person singular
+  +OcSg2 	 objject conjugation second person singular
+  +OcSg3 	 objject conjugation third person singular
+  +OcPl1 	 objject conjugation first person plural
+  +OcPl2 	 objject conjugation second person plural
+  +OcPl3 	 objject conjugation third person plural
 
 Other verb forms are
+   +ConNeg 	 connegative, main verb complement to Neg, 
+   +Ger 	 gerund This is used with Der/Озь and VAbl
+   +Inf    	 infinitive
+   +Neg    	 verb of negation эзь, аволь, иля
+   +Prc 	 participle
+   +VGen   	 Verb Genitive, genitive form participle
+   +VAbl   	 Verb Ablative "озадо"
 
+  +ABBR 	 Abbreviation
+  +ACR  	 Acronym
 
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
+  +TV 	 transitive verb
+  +IV 	 intransitive verb
 Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
@@ -50,7 +167,7 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
+  +Der/Dim	 diminutive markers in ня and кя seem to be subject of complementary distribution
 
 Morphophonology
 ---------------
@@ -62,8 +179,15 @@ symbols in the lexicon files:
   %{Х%}		 This usually precedes the plural marker
   %{КТ%}		 used in imperative and connegative
   %{Ь%0%}	 after imperative Sg2
+  %{DIM%}	 This will be for diminutive initial consonant
 
+  А2 	 А2:а А2:я
+  Г2 	 Г2:г Г2:в Г2:к
+  К1 	 К1:к К1:т
+  О1 	 О1:о О1:а О1:0
 О1:о О1:а О1:е
+  Х1 	 Х1:х Х1:0
+  Ь2 	 Ь2:ь Ь2:0
 
 And following triggers to control variation
 
@@ -72,6 +196,7 @@ flag diacritics to restrict morhpological combinatorics:
 Flags used with serial verbs
 
 
+ @D.CONJ-MX.IND@ 	 2012-11-04 should this be __D__ or __N__
 
 
 
@@ -85,27 +210,6 @@ Flags used with serial verbs
 
 The word forms in UNDEFINED language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
