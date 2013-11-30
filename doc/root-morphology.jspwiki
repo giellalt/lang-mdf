@@ -23,17 +23,6 @@ The parts-of-speech are:
  ;+V 		: verb
 
 The parts of speech are further split up into:
-  +Prop 	 proper
-  +CollN 	 used with paired nouns _collective nouns_
-  +Dem 	 demonstrative
-  +Indef 	 indefinite
-  +Dep 	 dependent word requiring the presence of another, e.g. _мень_
-  +Intensive 	 intensive pronoun
-  +Interr 	 interrogative
-  +Pers 	 personal
-  +Recipr 	 reciprocal
-  +Refl 	 reflexive
-  +Rel 	 relative
 
 __Nouns:__
  ;+Prop 		: proper
@@ -100,7 +89,6 @@ The possession is marked as such:
  ; +PxPl2 	: second person plural
  ; +PxPl3 	: third person plural
 
-  +Def 	 Definite
 
  ; +Def 	: Definite
 
@@ -138,12 +126,6 @@ Verb tenses are
   +Prt2 	 preterite II ! nominal conjugation as well
 
 Verb personal forms are:
-  +ScSg1 	 subject conjugation first person singular
-  +ScSg2 	 subject conjugation second person singular
-  +ScSg3 	 subject conjugation third person singular
-  +ScPl1 	 subject conjugation first person plural
-  +ScPl2 	 subject conjugation second person plural
-  +ScPl3 	 subject conjugation third person plural
 
   +ScSg1 	 subject conjugation first person singular
   +ScSg2 	 subject conjugation second person singular
@@ -203,6 +185,7 @@ symbols in the lexicon files:
   Г2 	 Г2:г Г2:в Г2:к
   К1 	 К1:к К1:т
   О1 	 О1:о О1:а О1:0
+ %{АОЕ%}	  пула, офта, пинге  О2 !! О1:о О1:а О1:е
 О1:о О1:а О1:е
   Х1 	 Х1:х Х1:0
   Ь2 	 Ь2:ь Ь2:0
@@ -244,14 +227,6 @@ word classes, or optionally from prefixes:
 
 
 
- LEXICON Ad-ATag 	 
-
- LEXICON AdvTag 	 
-
- LEXICON ADV_ 	 
-
-
- LEXICON AdvTemp 	 
 
 
 
@@ -271,7 +246,10 @@ word classes, or optionally from prefixes:
 
 
 
- !+CC+Neg: # ; 	 ни
+
+
+
+
 
 
 
