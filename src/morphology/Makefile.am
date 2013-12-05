@@ -28,6 +28,7 @@ GT_LEXC_SRCS=\
 			 affixes/adjectives.lexc \
 			 affixes/adverbs.lexc \
 			 affixes/clitics.lexc \
+			 affixes/conjunctions.lexc \
 			 affixes/interjections.lexc \
 			 affixes/nouns.lexc \
 			 affixes/particles.lexc \

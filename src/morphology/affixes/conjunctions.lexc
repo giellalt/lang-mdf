@@ -1,0 +1,25 @@
+!! Conjunctions
+
+!! The MOKSHA language conjunctions
+
+!!!!!!!!!!!!!!
+!! CONJUNCTIONS
+!!!!!!!!!!!!!!
+
+LEXICON CONJ_
++Conj+TYÄ: #;
+
+LEXICON CC_
++CC:  # ; 
+
+LEXICON CS_
++CS:  # ; 
+
+!LEXICON EndNeg 
+!+CC+Neg: # ; 	!= @CODE@ ни
+
+
+
+
+! vim: set ft=xfst-lexc:
+

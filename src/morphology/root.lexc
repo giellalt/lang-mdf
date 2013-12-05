@@ -387,22 +387,9 @@ LEXICON PostpTag
 ! ==================================== !
 
 
-LEXICON CONJ_
-+Conj+TYÄ: #;
-
-LEXICON CC_
-+CC: # ;
-
-LEXICON CS_
-+CS: # ;
-
-
 
 LEXICON N-Voc-Px1Sg
 +N+Px1Sg+Interj+Voc: # ;
-
-!LEXICON EndNeg 
-!+CC+Neg: # ; 	!= @CODE@ ни
 
 !LEXICON EndQST
 !+Qst: # ;
