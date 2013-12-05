@@ -9,11 +9,12 @@
 LEXICON V_
 +V: # ;
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! OBJECT and SUBJECT VERBS 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON TV_АВОЛДАМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@  V0_АВОЛДАМС ;
+LEXICON TV_КУНДАМС
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@  V0_КУНДАМС ;
 
 LEXICON TV_АНДОМС
 +V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АНДОМС ;
@@ -30,9 +31,9 @@ LEXICON TV_АЛЫЯФТОМС
 !!!!!!!!!!!!!!!!!!!!!!
 
 
-LEXICON IV_АВОЛДАМС
-! аволдамс:аволда
-+V+IV: V0_АВОЛДАМС ;
+LEXICON IV_КУНДАМС
+! кундамс:кунда
++V+IV: V0_КУНДАМС ;
 
 LEXICON IV_АНДОМС
 !! андомс:анд
@@ -44,14 +45,11 @@ LEXICON IV_НЯФТЕМС
 LEXICON IV_АЛЫЯФТОМС
 +V+IV: V0_АЛЫЯФТОМС ;
 
-LEXICON IV_КУНДАМС
-+V+IV: V0_КУНДАМС ;
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! VERBS MUTUAL FOR TV and IV !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON V0_АВОЛДАМС
+LEXICON V0_КУНДАМС
  VERBAL-CONJUGATIONS-ALL ;
 :%> Non-Finite-Vws ;
  Non-Finite-Cns ;
@@ -71,11 +69,6 @@ LEXICON V0_АЛЫЯФТОМС
 :%>О1 Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
 
-LEXICON V0_КУНДАМС
- VERBAL-CONJUGATIONS-ALL ;
-:%>О1 Non-Finite-Vws ;
-:%> Non-Finite-Cns ;
-
 LEXICON Non-Finite-Vws
 +Inf:О1мс K ;
 +Ger:О1зь K ;
@@ -83,6 +76,9 @@ LEXICON Non-Finite-Vws
 LEXICON Non-Finite-Cns
 +PrtPrc:%^Devoice%>ф K ;
 
+
+LEXICON V-AUX-NEG-PRT1
++V+Neg+Ind+Prt1+ScSg3: # ;
 
 ! Finite forms
 
