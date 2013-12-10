@@ -73,7 +73,7 @@
       <l pos="A">авалдонь</l>
 
       <stg>
-        <st Contlex="A_">авалдонь</st>
+        <st Contlex="A-IS-GEN">авалдонь</st>
       </stg>
     </lg>
 
@@ -179,7 +179,7 @@
       <l pos="A">авань-алянь</l>
 
       <stg>
-        <st Contlex="A_">авань-алянь</st>
+        <st Contlex="A-IS-GEN">авань-алянь</st>
       </stg>
     </lg>
     <mg>
@@ -195,7 +195,7 @@
       <l pos="A">авардемань</l>
 
       <stg>
-        <st Contlex="A_">авардемань</st>
+        <st Contlex="A-IS-GEN">авардемань</st>
       </stg>
     </lg>
     <mg>
@@ -270,7 +270,7 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
       <l pos="A">авафтома-аляфтома</l>
 
@@ -307,7 +307,7 @@
       <l pos="A">августонь</l>
 
       <stg>
-        <st Contlex="A_">августонь</st>
+        <st Contlex="A-IS-GEN">августонь</st>
       </stg>
     </lg>
     <mg>
@@ -403,7 +403,7 @@
       <l pos="A">автобусонь</l>
 
       <stg>
-        <st Contlex="A_">автобусонь</st>
+        <st Contlex="A-IS-GEN">автобусонь</st>
       </stg>
     </lg>
     <mg>
@@ -627,7 +627,7 @@
       <l pos="A">адерька</l>
 
       <stg>
-        <st Contlex="A_">адерька</st>
+        <st Contlex="A_АВА">адерька</st>
       </stg>
     </lg>
     <mg>
@@ -691,7 +691,7 @@
       <l pos="A">адъютантонь</l>
 
       <stg>
-        <st Contlex="A_">адъютантонь</st>
+        <st Contlex="A-IS-GEN">адъютантонь</st>
       </stg>
     </lg>
     <mg>
@@ -723,7 +723,7 @@
       <l pos="A">аера</l>
 
       <stg>
-        <st Contlex="A_">аера</st>
+        <st Contlex="A_АВА">аера</st>
       </stg>
     </lg>
     <phonet>ajəra, ajra</phonet>
@@ -760,7 +760,7 @@
       <l pos="A">аердама</l>
 
       <stg>
-        <st Contlex="A_">аердама</st>
+        <st Contlex="A_АВА">аердама</st>
       </stg>
     </lg>
     <mg>
@@ -797,7 +797,7 @@
       <l pos="A">ажаздень</l>
 
       <stg>
-        <st Contlex="A_">ажаздень</st>
+        <st Contlex="A-IS-GEN">ажаздень</st>
       </stg>
     </lg>
     <mg>
@@ -946,7 +946,7 @@
       <l pos="A">азоронь</l>
 
       <stg>
-        <st Contlex="A_">азоронь</st>
+        <st Contlex="A-IS-GEN">азоронь</st>
       </stg>
     </lg>
     <mg>
@@ -962,7 +962,7 @@
       <l pos="A">азорфтома</l>
 
       <stg>
-        <st Contlex="A_">азорфтома</st>
+        <st Contlex="A_ПУЛА">азорфтом</st>
       </stg>
     </lg>
     <mg>
@@ -994,7 +994,7 @@
       <l pos="A">айвань</l>
 
       <stg>
-        <st Contlex="A_">айвань</st>
+        <st Contlex="A-IS-GEN">айвань</st>
       </stg>
     </lg>
     <mg>
@@ -1010,7 +1010,7 @@
       <l pos="A">айгоронь</l>
 
       <stg>
-        <st Contlex="A_">айгоронь</st>
+        <st Contlex="A-IS-GEN">айгоронь</st>
       </stg>
     </lg>
     <mg>
@@ -1370,7 +1370,7 @@
       <l pos="A">алашань</l>
 
       <stg>
-        <st Contlex="A_">алашань</st>
+        <st Contlex="A-IS-GEN">алашань</st>
       </stg>
     </lg>
     <mg>
@@ -1402,7 +1402,7 @@
       <l pos="A">алгань</l>
 
       <stg>
-        <st Contlex="A_">алгань</st>
+        <st Contlex="A-IS-GEN">алгань</st>
       </stg>
     </lg>
     <mg>
@@ -1482,7 +1482,7 @@
       <l pos="A">алдонь</l>
 
       <stg>
-        <st Contlex="A_">алдонь</st>
+        <st Contlex="A-IS-GEN">алдонь</st>
       </stg>
     </lg>
 
@@ -1692,7 +1692,7 @@
       <l pos="A">алудонь</l>
 
       <stg>
-        <st Contlex="A_">алудонь</st>
+        <st Contlex="A-IS-GEN">алудонь</st>
       </stg>
     </lg>
     <mg>
@@ -1900,7 +1900,7 @@
       <l pos="A">алянь</l>
 
       <stg>
-        <st Contlex="A_">алянь</st>
+        <st Contlex="A-IS-GEN">алянь</st>
       </stg>
     </lg>
     <mg>
@@ -1916,7 +1916,7 @@
       <l pos="A">алянь-авань</l>
 
       <stg>
-        <st Contlex="A_">алянь-авань</st>
+        <st Contlex="A-IS-GEN">алянь-авань</st>
       </stg>
     </lg>
     <mg>
@@ -1996,7 +1996,7 @@
       <l pos="A">ангелонь</l>
 
       <stg>
-        <st Contlex="A_">ангелонь</st>
+        <st Contlex="A-IS-GEN">ангелонь</st>
       </stg>
     </lg>
     <mg>
@@ -2443,7 +2443,7 @@
       <l pos="A">апельсинонь</l>
 
       <stg>
-        <st Contlex="A_">апельсинонь</st>
+        <st Contlex="A-IS-GEN">апельсинонь</st>
       </stg>
     </lg>
     <mg>
@@ -2491,7 +2491,7 @@
       <l pos="A">апрелень</l>
 
       <stg>
-        <st Contlex="A_">апрелень</st>
+        <st Contlex="A-IS-GEN">апрелень</st>
       </stg>
     </lg>
     <mg>
@@ -2523,7 +2523,7 @@
       <l pos="A">аптекань</l>
 
       <stg>
-        <st Contlex="A_">аптекань</st>
+        <st Contlex="A-IS-GEN">аптекань</st>
       </stg>
     </lg>
     <mg>
@@ -2571,7 +2571,7 @@
       <l pos="A">арбузонь</l>
 
       <stg>
-        <st Contlex="A_">арбузонь</st>
+        <st Contlex="A-IS-GEN">арбузонь</st>
       </stg>
     </lg>
     <mg>
@@ -2793,7 +2793,7 @@
       <l pos="A">артелень</l>
 
       <stg>
-        <st Contlex="A_">артелень</st>
+        <st Contlex="A-IS-GEN">артелень</st>
       </stg>
     </lg>
     <mg>
@@ -2963,10 +2963,10 @@
 
   <e>
     <lg>
-      <l pos="A">аськолдамань-аськолдамань</l>
+      <l pos="ADV">аськолдамань-аськолдамань</l>
 
       <stg>
-        <st Contlex="A_">аськолдамань-аськолдамань</st>
+        <st Contlex="ADV_">аськолдамань-аськолдамань</st>
       </stg>
     </lg>
     <mg>
@@ -3158,7 +3158,7 @@
       <l pos="A">атямонь</l>
 
       <stg>
-        <st Contlex="A_">атямонь</st>
+        <st Contlex="A-IS-GEN">атямонь</st>
       </stg>
     </lg>
     <mg>
@@ -3190,7 +3190,7 @@
       <l pos="A">атянь</l>
 
       <stg>
-        <st Contlex="A_">атянь</st>
+        <st Contlex="A-IS-GEN">атянь</st>
       </stg>
     </lg>
     <mg>
@@ -3206,7 +3206,7 @@
       <l pos="A">атянь-авань</l>
 
       <stg>
-        <st Contlex="A_">атянь-авань</st>
+        <st Contlex="A-IS-GEN">атянь-авань</st>
       </stg>
     </lg>
     <mg>
@@ -3275,7 +3275,7 @@
       <l pos="A">афкуксонь</l>
 
       <stg>
-        <st Contlex="A_">афкуксонь</st>
+        <st Contlex="A-IS-GEN">афкуксонь</st>
       </stg>
     </lg>
     <mg>
@@ -3344,7 +3344,7 @@
       <l pos="A">бабань</l>
 
       <stg>
-        <st Contlex="A_">бабань</st>
+        <st Contlex="A-IS-GEN">бабань</st>
       </stg>
     </lg>
     <mg>
@@ -3360,7 +3360,7 @@
       <l pos="A">багажень</l>
 
       <stg>
-        <st Contlex="A_">багажень</st>
+        <st Contlex="A-IS-GEN">багажень</st>
       </stg>
     </lg>
     <mg>
@@ -3440,7 +3440,7 @@
       <l pos="A">баклажанонь</l>
 
       <stg>
-        <st Contlex="A_">баклажанонь</st>
+        <st Contlex="A-IS-GEN">баклажанонь</st>
       </stg>
     </lg>
     <mg>
@@ -3600,7 +3600,7 @@
       <l pos="A">банянь</l>
 
       <stg>
-        <st Contlex="A_">банянь</st>
+        <st Contlex="A-IS-GEN">банянь</st>
       </stg>
     </lg>
     <mg>
@@ -3712,7 +3712,7 @@
       <l pos="A">барсуконь</l>
 
       <stg>
-        <st Contlex="A_">барсуконь</st>
+        <st Contlex="A-IS-GEN">барсуконь</st>
       </stg>
     </lg>
     <mg>
@@ -3744,7 +3744,7 @@
       <l pos="A">бархатонь</l>
 
       <stg>
-        <st Contlex="A_">бархатонь</st>
+        <st Contlex="A-IS-GEN">бархатонь</st>
       </stg>
     </lg>
     <mg>
@@ -3760,7 +3760,7 @@
       <l pos="A">баскетболонь</l>
 
       <stg>
-        <st Contlex="A_">баскетболонь</st>
+        <st Contlex="A-IS-GEN">баскетболонь</st>
       </stg>
     </lg>
     <mg>
@@ -3776,7 +3776,7 @@
       <l pos="A">басмачень</l>
 
       <stg>
-        <st Contlex="A_">басмачень</st>
+        <st Contlex="A-IS-GEN">басмачень</st>
       </stg>
     </lg>
     <mg>
@@ -3997,7 +3997,7 @@
       <l pos="A">бекасонь</l>
 
       <stg>
-        <st Contlex="A_">бекасонь</st>
+        <st Contlex="A-IS-GEN">бекасонь</st>
       </stg>
     </lg>
     <mg>
@@ -4046,22 +4046,6 @@
 
       <stg>
         <st Contlex="A_">беленаня</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="fin">
-        <t>XX</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="A">белкань</l>
-
-      <stg>
-        <st Contlex="A_">белкань</st>
       </stg>
     </lg>
     <mg>
@@ -4221,7 +4205,7 @@
       <l pos="A">бетононь</l>
 
       <stg>
-        <st Contlex="A_">бетононь</st>
+        <st Contlex="A-IS-GEN">бетононь</st>
       </stg>
     </lg>
     <mg>
@@ -4253,7 +4237,7 @@
       <l pos="A">библиотекань</l>
 
       <stg>
-        <st Contlex="A_">библиотекань</st>
+        <st Contlex="A-IS-GEN">библиотекань</st>
       </stg>
     </lg>
     <mg>
@@ -4381,7 +4365,7 @@
       <l pos="A">бобрань</l>
 
       <stg>
-        <st Contlex="A_">бобрань</st>
+        <st Contlex="A-IS-GEN">бобрань</st>
       </stg>
     </lg>
     <mg>
@@ -4413,7 +4397,7 @@
       <l pos="A">богатырень</l>
 
       <stg>
-        <st Contlex="A_">богатырень</st>
+        <st Contlex="A-IS-GEN">богатырень</st>
       </stg>
     </lg>
     <mg>
@@ -4519,7 +4503,7 @@
       <l pos="A">бокоширдень</l>
 
       <stg>
-        <st Contlex="A_">бокоширдень</st>
+        <st Contlex="A-IS-GEN">бокоширдень</st>
       </stg>
     </lg>
     <mg>
@@ -4535,7 +4519,7 @@
       <l pos="A">бокстонь</l>
 
       <stg>
-        <st Contlex="A_">бокстонь</st>
+        <st Contlex="A-IS-GEN">бокстонь</st>
       </stg>
     </lg>
 
@@ -4559,7 +4543,7 @@
       <l pos="A">боксёронь</l>
 
       <stg>
-        <st Contlex="A_">боксёронь</st>
+        <st Contlex="A-IS-GEN">боксёронь</st>
       </stg>
     </lg>
     <mg>
@@ -4570,12 +4554,12 @@
     </mg>
   </e>
 
-  <e>
+  <e exclude="fst">
     <lg>
-      <l pos="A">болдара_сельме</l>
+      <l pos="A">болдара сельме</l>
 
       <stg>
-        <st Contlex="A_">болдара_сельме</st>
+        <st Contlex="A_ПИНГЕ">болдара сельм</st>
       </stg>
     </lg>
     <mg>
@@ -4639,7 +4623,7 @@
       <l pos="A">больницянь</l>
 
       <stg>
-        <st Contlex="A_">больницянь</st>
+        <st Contlex="A-IS-GEN">больницянь</st>
       </stg>
     </lg>
     <mg>
@@ -4655,7 +4639,7 @@
       <l pos="A">большевиконь</l>
 
       <stg>
-        <st Contlex="A_">большевиконь</st>
+        <st Contlex="A-IS-GEN">большевиконь</st>
       </stg>
     </lg>
     <mg>
@@ -4783,7 +4767,7 @@
       <l pos="A">брадонь</l>
 
       <stg>
-        <st Contlex="A_">брадонь</st>
+        <st Contlex="A-IS-GEN">брадонь</st>
       </stg>
     </lg>
     <mg>
@@ -4831,7 +4815,7 @@
       <l pos="A">бредямань</l>
 
       <stg>
-        <st Contlex="A_">бредямань</st>
+        <st Contlex="A-IS-GEN">бредямань</st>
       </stg>
     </lg>
     <mg>
@@ -4975,7 +4959,7 @@
       <l pos="A">букань</l>
 
       <stg>
-        <st Contlex="A_">букань</st>
+        <st Contlex="A-IS-GEN">букань</st>
       </stg>
     </lg>
     <mg>
@@ -5315,7 +5299,7 @@
       <l pos="A">вагононь</l>
 
       <stg>
-        <st Contlex="A_">вагононь</st>
+        <st Contlex="A-IS-GEN">вагононь</st>
       </stg>
     </lg>
     <mg>
@@ -5971,7 +5955,7 @@
       <l pos="A">вальмянь</l>
 
       <stg>
-        <st Contlex="A_">вальмянь</st>
+        <st Contlex="A-IS-GEN">вальмянь</st>
       </stg>
     </lg>
     <mg>
@@ -6051,7 +6035,7 @@
       <l pos="A">вандыень</l>
 
       <stg>
-        <st Contlex="A_">вандыень</st>
+        <st Contlex="A-IS-GEN">вандыень</st>
       </stg>
     </lg>
     <mg>
@@ -6083,7 +6067,7 @@
       <l pos="A">ваномань</l>
 
       <stg>
-        <st Contlex="A_">ваномань</st>
+        <st Contlex="A-IS-GEN">ваномань</st>
       </stg>
     </lg>
     <mg>
@@ -6147,7 +6131,7 @@
       <l pos="A">варсиень</l>
 
       <stg>
-        <st Contlex="A_">варсиень</st>
+        <st Contlex="A-IS-GEN">варсиень</st>
       </stg>
     </lg>
     <mg>
@@ -6163,7 +6147,7 @@
       <l pos="A">варьдувонь</l>
 
       <stg>
-        <st Contlex="A_">варьдувонь</st>
+        <st Contlex="A-IS-GEN">варьдувонь</st>
       </stg>
     </lg>
     <mg>
@@ -6248,7 +6232,7 @@
       <l pos="A">васень</l>
 
       <stg>
-        <st Contlex="A_">васень</st>
+        <st Contlex="A-IS-GEN">васень</st>
       </stg>
     </lg>
 
@@ -6304,7 +6288,7 @@
       <l pos="A">василядень</l>
 
       <stg>
-        <st Contlex="A_">василядень</st>
+        <st Contlex="A-IS-GEN">василядень</st>
       </stg>
     </lg>
     <mg>
@@ -6357,7 +6341,7 @@
       <l pos="A">вастонь</l>
 
       <stg>
-        <st Contlex="A_">вастонь</st>
+        <st Contlex="A-IS-GEN">вастонь</st>
       </stg>
     </lg>
     <mg>
@@ -6373,7 +6357,7 @@
       <l pos="A">вастрогонь</l>
 
       <stg>
-        <st Contlex="A_">вастрогонь</st>
+        <st Contlex="A-IS-GEN">вастрогонь</st>
       </stg>
     </lg>
     <mg>
@@ -6389,7 +6373,7 @@
       <l pos="A">васькафнемань</l>
 
       <stg>
-        <st Contlex="A_">васькафнемань</st>
+        <st Contlex="A-IS-GEN">васькафнемань</st>
       </stg>
     </lg>
     <mg>
@@ -6405,7 +6389,7 @@
       <l pos="A">васькафтомань</l>
 
       <stg>
-        <st Contlex="A_">васькафтомань</st>
+        <st Contlex="A-IS-GEN">васькафтомань</st>
       </stg>
     </lg>
     <mg>
@@ -6421,7 +6405,7 @@
       <l pos="A">ватань</l>
 
       <stg>
-        <st Contlex="A_">ватань</st>
+        <st Contlex="A-IS-GEN">ватань</st>
       </stg>
     </lg>
 
@@ -6461,7 +6445,7 @@
       <l pos="A">ваткань</l>
 
       <stg>
-        <st Contlex="A_">ваткань</st>
+        <st Contlex="A-IS-GEN">ваткань</st>
       </stg>
     </lg>
     <mg>
@@ -6493,7 +6477,7 @@
       <l pos="A">ватракшень</l>
 
       <stg>
-        <st Contlex="A_">ватракшень</st>
+        <st Contlex="A-IS-GEN">ватракшень</st>
       </stg>
     </lg>
     <mg>
@@ -6673,7 +6657,7 @@
       <l pos="A">вдавойнь</l>
 
       <stg>
-        <st Contlex="A_">вдавойнь</st>
+        <st Contlex="A-IS-GEN">вдавойнь</st>
       </stg>
     </lg>
     <mg>
@@ -6721,7 +6705,7 @@
       <l pos="A">ведавамань</l>
 
       <stg>
-        <st Contlex="A_">ведавамань</st>
+        <st Contlex="A-IS-GEN">ведавамань</st>
       </stg>
     </lg>
     <mg>
@@ -6753,7 +6737,7 @@
       <l pos="A">ведень</l>
 
       <stg>
-        <st Contlex="A_">ведень</st>
+        <st Contlex="A-IS-GEN">ведень</st>
       </stg>
     </lg>
     <mg>
@@ -6817,7 +6801,7 @@
       <l pos="A">ведражень</l>
 
       <stg>
-        <st Contlex="A_">ведражень</st>
+        <st Contlex="A-IS-GEN">ведражень</st>
       </stg>
     </lg>
     <mg>
@@ -6833,7 +6817,7 @@
       <l pos="A">ведунонь</l>
 
       <stg>
-        <st Contlex="A_">ведунонь</st>
+        <st Contlex="A-IS-GEN">ведунонь</st>
       </stg>
     </lg>
     <mg>
@@ -6865,7 +6849,7 @@
       <l pos="A">ведькатонь</l>
 
       <stg>
-        <st Contlex="A_">ведькатонь</st>
+        <st Contlex="A-IS-GEN">ведькатонь</st>
       </stg>
     </lg>
     <mg>
@@ -6881,7 +6865,7 @@
       <l pos="A">ведьналонь</l>
 
       <stg>
-        <st Contlex="A_">ведьналонь</st>
+        <st Contlex="A-IS-GEN">ведьналонь</st>
       </stg>
     </lg>
     <mg>
@@ -6897,7 +6881,7 @@
       <l pos="A">ведьпинень</l>
 
       <stg>
-        <st Contlex="A_">ведьпинень</st>
+        <st Contlex="A-IS-GEN">ведьпинень</st>
       </stg>
     </lg>
     <mg>
@@ -6942,7 +6926,7 @@
       <l pos="A">ведялдонь</l>
 
       <stg>
-        <st Contlex="A_">ведялдонь</st>
+        <st Contlex="A-IS-GEN">ведялдонь</st>
       </stg>
     </lg>
     <mg>
@@ -7067,7 +7051,7 @@
       <l pos="A">велень</l>
 
       <stg>
-        <st Contlex="A_">велень</st>
+        <st Contlex="A-IS-GEN">велень</st>
       </stg>
     </lg>
     <mg>
@@ -7099,7 +7083,7 @@
       <l pos="A">великанонь</l>
 
       <stg>
-        <st Contlex="A_">великанонь</st>
+        <st Contlex="A-IS-GEN">великанонь</st>
       </stg>
     </lg>
     <mg>
@@ -7147,7 +7131,7 @@
       <l pos="A">велосипедонь</l>
 
       <stg>
-        <st Contlex="A_">велосипедонь</st>
+        <st Contlex="A-IS-GEN">велосипедонь</st>
       </stg>
     </lg>
     <mg>
@@ -7179,7 +7163,7 @@
       <l pos="A">венань</l>
 
       <stg>
-        <st Contlex="A_">венань</st>
+        <st Contlex="A-IS-GEN">венань</st>
       </stg>
     </lg>
     <mg>
@@ -7195,7 +7179,7 @@
       <l pos="A">венцянь</l>
 
       <stg>
-        <st Contlex="A_">венцянь</st>
+        <st Contlex="A-IS-GEN">венцянь</st>
       </stg>
     </lg>
     <mg>
@@ -7211,7 +7195,7 @@
       <l pos="A">вень</l>
 
       <stg>
-        <st Contlex="A_">вень</st>
+        <st Contlex="A-IS-GEN">вень</st>
       </stg>
     </lg>
     <mg>
@@ -7243,7 +7227,7 @@
       <l pos="A">верблюдонь</l>
 
       <stg>
-        <st Contlex="A_">верблюдонь</st>
+        <st Contlex="A-IS-GEN">верблюдонь</st>
       </stg>
     </lg>
     <mg>
@@ -7275,7 +7259,7 @@
       <l pos="A">вермишелень</l>
 
       <stg>
-        <st Contlex="A_">вермишелень</st>
+        <st Contlex="A-IS-GEN">вермишелень</st>
       </stg>
     </lg>
     <mg>
@@ -7386,7 +7370,7 @@
       <l pos="A">веронь</l>
 
       <stg>
-        <st Contlex="A_">веронь</st>
+        <st Contlex="A-IS-GEN">веронь</st>
       </stg>
     </lg>
     <mg>
@@ -7434,7 +7418,7 @@
       <l pos="A">вершиннь</l>
 
       <stg>
-        <st Contlex="A_">вершиннь</st>
+        <st Contlex="A-IS-GEN">вершиннь</st>
       </stg>
     </lg>
     <mg>
@@ -7920,7 +7904,7 @@
       <l pos="A">виздемань</l>
 
       <stg>
-        <st Contlex="A_">виздемань</st>
+        <st Contlex="A-IS-GEN">виздемань</st>
       </stg>
     </lg>
     <mg>
@@ -8034,7 +8018,7 @@
       <l pos="A">винань</l>
 
       <stg>
-        <st Contlex="A_">винань</st>
+        <st Contlex="A-IS-GEN">винань</st>
       </stg>
     </lg>
     <mg>
@@ -8050,7 +8034,7 @@
       <l pos="A">виндерьнь</l>
 
       <stg>
-        <st Contlex="A_">виндерьнь</st>
+        <st Contlex="A-IS-GEN">виндерьнь</st>
       </stg>
     </lg>
     <mg>
@@ -8151,7 +8135,7 @@
       <l pos="A">вирень</l>
 
       <stg>
-        <st Contlex="A_">вирень</st>
+        <st Contlex="A-IS-GEN">вирень</st>
       </stg>
     </lg>
 
@@ -8308,7 +8292,7 @@
       <l pos="A">вихца-важань</l>
 
       <stg>
-        <st Contlex="A_">вихца-важань</st>
+        <st Contlex="A-IS-GEN">вихца-важань</st>
       </stg>
     </lg>
     <mg>
@@ -8324,7 +8308,7 @@
       <l pos="A">вихцонь</l>
 
       <stg>
-        <st Contlex="A_">вихцонь</st>
+        <st Contlex="A-IS-GEN">вихцонь</st>
       </stg>
     </lg>
     <mg>
@@ -8446,7 +8430,7 @@
       <l pos="A">вишнянь</l>
 
       <stg>
-        <st Contlex="A_">вишнянь</st>
+        <st Contlex="A-IS-GEN">вишнянь</st>
       </stg>
     </lg>
     <mg>
@@ -8803,7 +8787,7 @@
       <l pos="A">вокзалонь</l>
 
       <stg>
-        <st Contlex="A_">вокзалонь</st>
+        <st Contlex="A-IS-GEN">вокзалонь</st>
       </stg>
     </lg>
     <mg>
@@ -8963,7 +8947,7 @@
       <l pos="A">воронь</l>
 
       <stg>
-        <st Contlex="A_">воронь</st>
+        <st Contlex="A-IS-GEN">воронь</st>
       </stg>
     </lg>
     <mg>
@@ -9136,7 +9120,7 @@
       <l pos="A">врачень</l>
 
       <stg>
-        <st Contlex="A_">врачень</st>
+        <st Contlex="A-IS-GEN">врачень</st>
       </stg>
     </lg>
     <mg>
@@ -9365,7 +9349,7 @@
       <l pos="A">върьгазонь</l>
 
       <stg>
-        <st Contlex="A_">върьгазонь</st>
+        <st Contlex="A-IS-GEN">върьгазонь</st>
       </stg>
     </lg>
     <mg>
@@ -9477,7 +9461,7 @@
       <l pos="A">выставкань</l>
 
       <stg>
-        <st Contlex="A_">выставкань</st>
+        <st Contlex="A-IS-GEN">выставкань</st>
       </stg>
     </lg>
     <mg>
@@ -9610,7 +9594,7 @@
       <l pos="A">вярдень</l>
 
       <stg>
-        <st Contlex="A_">вярдень</st>
+        <st Contlex="A-IS-GEN">вярдень</st>
       </stg>
     </lg>
 
@@ -9860,7 +9844,7 @@
       <l pos="A">газонь</l>
 
       <stg>
-        <st Contlex="A_">газонь</st>
+        <st Contlex="A-IS-GEN">газонь</st>
       </stg>
     </lg>
     <mg>
@@ -10116,7 +10100,7 @@
       <l pos="A">генералонь</l>
 
       <stg>
-        <st Contlex="A_">генералонь</st>
+        <st Contlex="A-IS-GEN">генералонь</st>
       </stg>
     </lg>
     <mg>
@@ -10260,7 +10244,7 @@
       <l pos="A">гигантонь</l>
 
       <stg>
-        <st Contlex="A_">гигантонь</st>
+        <st Contlex="A-IS-GEN">гигантонь</st>
       </stg>
     </lg>
     <mg>
@@ -10579,7 +10563,7 @@
       <l pos="A">горажень</l>
 
       <stg>
-        <st Contlex="A_">горажень</st>
+        <st Contlex="A-IS-GEN">горажень</st>
       </stg>
     </lg>
     <mg>
@@ -10895,7 +10879,7 @@
       <l pos="A">грацень</l>
 
       <stg>
-        <st Contlex="A_">грацень</st>
+        <st Contlex="A-IS-GEN">грацень</st>
       </stg>
     </lg>
     <mg>
@@ -11396,7 +11380,7 @@
       <l pos="A">декабрянь</l>
 
       <stg>
-        <st Contlex="A_">декабрянь</st>
+        <st Contlex="A-IS-GEN">декабрянь</st>
       </stg>
     </lg>
     <mg>
@@ -12448,22 +12432,6 @@
 
   <e>
     <lg>
-      <l pos="A">доскнь</l>
-
-      <stg>
-        <st Contlex="A_">доскнь</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-      <tg xml:lang="fin">
-        <t>XX</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">достойнай</l>
 
       <stg>
@@ -12776,7 +12744,7 @@
       <l pos="A">дюрьмень</l>
 
       <stg>
-        <st Contlex="A_">дюрьмень</st>
+        <st Contlex="A-IS-GEN">дюрьмень</st>
       </stg>
     </lg>
     <mg>
@@ -12872,7 +12840,7 @@
       <l pos="A">ерлюконь</l>
 
       <stg>
-        <st Contlex="A_">ерлюконь</st>
+        <st Contlex="A-IS-GEN">ерлюконь</st>
       </stg>
     </lg>
     <mg>
@@ -12920,7 +12888,7 @@
       <l pos="A">ефрейторонь</l>
 
       <stg>
-        <st Contlex="A_">ефрейторонь</st>
+        <st Contlex="A-IS-GEN">ефрейторонь</st>
       </stg>
     </lg>
     <mg>
@@ -13053,7 +13021,7 @@
       <l pos="A">жасминонь</l>
 
       <stg>
-        <st Contlex="A_">жасминонь</st>
+        <st Contlex="A-IS-GEN">жасминонь</st>
       </stg>
     </lg>
     <mg>
@@ -13117,7 +13085,7 @@
       <l pos="A">жестень</l>
 
       <stg>
-        <st Contlex="A_">жестень</st>
+        <st Contlex="A-IS-GEN">жестень</st>
       </stg>
     </lg>
     <mg>
@@ -13597,7 +13565,7 @@
       <l pos="A">замоконь</l>
 
       <stg>
-        <st Contlex="A_">замоконь</st>
+        <st Contlex="A-IS-GEN">замоконь</st>
       </stg>
     </lg>
     <mg>
@@ -14114,7 +14082,7 @@
       <l pos="A">золодонь</l>
 
       <stg>
-        <st Contlex="A_">золодонь</st>
+        <st Contlex="A-IS-GEN">золодонь</st>
       </stg>
     </lg>
 
@@ -14146,7 +14114,7 @@
       <l pos="A">золотань</l>
 
       <stg>
-        <st Contlex="A_">золотань</st>
+        <st Contlex="A-IS-GEN">золотань</st>
       </stg>
     </lg>
     <mg>
@@ -14271,7 +14239,7 @@
       <l pos="A">зърнянь</l>
 
       <stg>
-        <st Contlex="A_">зърнянь</st>
+        <st Contlex="A-IS-GEN">зърнянь</st>
       </stg>
     </lg>
     <mg>
@@ -14335,7 +14303,7 @@
       <l pos="A">идень</l>
 
       <stg>
-        <st Contlex="A_">идень</st>
+        <st Contlex="A-IS-GEN">идень</st>
       </stg>
     </lg>
     <mg>
@@ -14428,7 +14396,7 @@
       <l pos="A">ижельдень</l>
 
       <stg>
-        <st Contlex="A_">ижельдень</st>
+        <st Contlex="A-IS-GEN">ижельдень</st>
       </stg>
     </lg>
     <mg>
@@ -14460,7 +14428,7 @@
       <l pos="A">известень</l>
 
       <stg>
-        <st Contlex="A_">известень</st>
+        <st Contlex="A-IS-GEN">известень</st>
       </stg>
     </lg>
     <mg>
@@ -14652,7 +14620,7 @@
       <l pos="A">илиень</l>
 
       <stg>
-        <st Contlex="A_">илиень</st>
+        <st Contlex="A-IS-GEN">илиень</st>
       </stg>
     </lg>
     <mg>
@@ -14705,7 +14673,7 @@
       <l pos="A">илядень</l>
 
       <stg>
-        <st Contlex="A_">илядень</st>
+        <st Contlex="A-IS-GEN">илядень</st>
       </stg>
     </lg>
     <mg>
@@ -14721,7 +14689,7 @@
       <l pos="A">иляденьпялень</l>
 
       <stg>
-        <st Contlex="A_">иляденьпялень</st>
+        <st Contlex="A-IS-GEN">иляденьпялень</st>
       </stg>
     </lg>
     <mg>
@@ -14774,7 +14742,7 @@
       <l pos="A">иляназонь</l>
 
       <stg>
-        <st Contlex="A_">иляназонь</st>
+        <st Contlex="A-IS-GEN">иляназонь</st>
       </stg>
     </lg>
     <mg>
@@ -14790,7 +14758,7 @@
       <l pos="A">илянь</l>
 
       <stg>
-        <st Contlex="A_">илянь</st>
+        <st Contlex="A-IS-GEN">илянь</st>
       </stg>
     </lg>
     <mg>
@@ -14950,7 +14918,7 @@
       <l pos="A">ингольдень</l>
 
       <stg>
-        <st Contlex="A_">ингольдень</st>
+        <st Contlex="A-IS-GEN">ингольдень</st>
       </stg>
     </lg>
     <mg>
@@ -14966,7 +14934,7 @@
       <l pos="A">ингольпялень</l>
 
       <stg>
-        <st Contlex="A_">ингольпялень</st>
+        <st Contlex="A-IS-GEN">ингольпялень</st>
       </stg>
     </lg>
     <mg>
@@ -15062,7 +15030,7 @@
       <l pos="A">инезиень</l>
 
       <stg>
-        <st Contlex="A_">инезиень</st>
+        <st Contlex="A-IS-GEN">инезиень</st>
       </stg>
     </lg>
     <mg>
@@ -15110,7 +15078,7 @@
       <l pos="A">инжиень</l>
 
       <stg>
-        <st Contlex="A_">инжиень</st>
+        <st Contlex="A-IS-GEN">инжиень</st>
       </stg>
     </lg>
     <mg>
@@ -15387,7 +15355,7 @@
       <l pos="A">ирдезъётконь</l>
 
       <stg>
-        <st Contlex="A_">ирдезъётконь</st>
+        <st Contlex="A-IS-GEN">ирдезъётконь</st>
       </stg>
     </lg>
     <mg>
@@ -15464,7 +15432,7 @@
       <l pos="A">исань</l>
 
       <stg>
-        <st Contlex="A_">исань</st>
+        <st Contlex="A-IS-GEN">исань</st>
       </stg>
     </lg>
     <mg>
@@ -15608,7 +15576,7 @@
       <l pos="A">исяконь</l>
 
       <stg>
-        <st Contlex="A_">исяконь</st>
+        <st Contlex="A-IS-GEN">исяконь</st>
       </stg>
     </lg>
     <mg>
@@ -15656,7 +15624,7 @@
       <l pos="A">исякцень</l>
 
       <stg>
-        <st Contlex="A_">исякцень</st>
+        <st Contlex="A-IS-GEN">исякцень</st>
       </stg>
     </lg>
     <mg>
@@ -15672,7 +15640,7 @@
       <l pos="A">исятень</l>
 
       <stg>
-        <st Contlex="A_">исятень</st>
+        <st Contlex="A-IS-GEN">исятень</st>
       </stg>
     </lg>
     <mg>
@@ -15720,7 +15688,7 @@
       <l pos="A">ичкоздень</l>
 
       <stg>
-        <st Contlex="A_">ичкоздень</st>
+        <st Contlex="A-IS-GEN">ичкоздень</st>
       </stg>
     </lg>
     <mg>
@@ -15768,7 +15736,7 @@
       <l pos="A">июлень</l>
 
       <stg>
-        <st Contlex="A_">июлень</st>
+        <st Contlex="A-IS-GEN">июлень</st>
       </stg>
     </lg>
     <mg>
@@ -15800,7 +15768,7 @@
       <l pos="A">июнень</l>
 
       <stg>
-        <st Contlex="A_">июнень</st>
+        <st Contlex="A-IS-GEN">июнень</st>
       </stg>
     </lg>
     <mg>
@@ -15864,7 +15832,7 @@
       <l pos="A">кабанонь</l>
 
       <stg>
-        <st Contlex="A_">кабанонь</st>
+        <st Contlex="A-IS-GEN">кабанонь</st>
       </stg>
     </lg>
     <mg>
@@ -15880,7 +15848,7 @@
       <l pos="A">кабачконь</l>
 
       <stg>
-        <st Contlex="A_">кабачконь</st>
+        <st Contlex="A-IS-GEN">кабачконь</st>
       </stg>
     </lg>
     <mg>
@@ -16008,7 +15976,7 @@
       <l pos="A">кагодонь</l>
 
       <stg>
-        <st Contlex="A_">кагодонь</st>
+        <st Contlex="A-IS-GEN">кагодонь</st>
       </stg>
     </lg>
 
@@ -16040,7 +16008,7 @@
       <l pos="A">кадонь</l>
 
       <stg>
-        <st Contlex="A_">кадонь</st>
+        <st Contlex="A-IS-GEN">кадонь</st>
       </stg>
     </lg>
     <mg>
@@ -16260,7 +16228,7 @@
       <l pos="A">калганонь</l>
 
       <stg>
-        <st Contlex="A_">калганонь</st>
+        <st Contlex="A-IS-GEN">калганонь</st>
       </stg>
     </lg>
     <mg>
@@ -16350,7 +16318,7 @@
       <l pos="A">календарень</l>
 
       <stg>
-        <st Contlex="A_">календарень</st>
+        <st Contlex="A-IS-GEN">календарень</st>
       </stg>
     </lg>
     <mg>
@@ -16398,7 +16366,7 @@
       <l pos="A">калмамань</l>
 
       <stg>
-        <st Contlex="A_">калмамань</st>
+        <st Contlex="A-IS-GEN">калмамань</st>
       </stg>
     </lg>
     <mg>
@@ -16414,7 +16382,7 @@
       <l pos="A">калмонь</l>
 
       <stg>
-        <st Contlex="A_">калмонь</st>
+        <st Contlex="A-IS-GEN">калмонь</st>
       </stg>
     </lg>
     <mg>
@@ -16430,7 +16398,7 @@
       <l pos="A">калмыконь</l>
 
       <stg>
-        <st Contlex="A_">калмыконь</st>
+        <st Contlex="A-IS-GEN">калмыконь</st>
       </stg>
     </lg>
     <mg>
@@ -16446,7 +16414,7 @@
       <l pos="A">калонь</l>
 
       <stg>
-        <st Contlex="A_">калонь</st>
+        <st Contlex="A-IS-GEN">калонь</st>
       </stg>
     </lg>
 
@@ -17158,7 +17126,7 @@
       <l pos="A">карелонь</l>
 
       <stg>
-        <st Contlex="A_">карелонь</st>
+        <st Contlex="A-IS-GEN">карелонь</st>
       </stg>
     </lg>
     <mg>
@@ -17206,7 +17174,7 @@
       <l pos="A">картинань</l>
 
       <stg>
-        <st Contlex="A_">картинань</st>
+        <st Contlex="A-IS-GEN">картинань</st>
       </stg>
     </lg>
     <mg>
@@ -17222,7 +17190,7 @@
       <l pos="A">картононь</l>
 
       <stg>
-        <st Contlex="A_">картононь</st>
+        <st Contlex="A-IS-GEN">картононь</st>
       </stg>
     </lg>
 
@@ -17331,7 +17299,7 @@
       <l pos="A">карьолгонь</l>
 
       <stg>
-        <st Contlex="A_">карьолгонь</st>
+        <st Contlex="A-IS-GEN">карьолгонь</st>
       </stg>
     </lg>
     <mg>
@@ -17347,7 +17315,7 @@
       <l pos="A">карьхциганонь</l>
 
       <stg>
-        <st Contlex="A_">карьхциганонь</st>
+        <st Contlex="A-IS-GEN">карьхциганонь</st>
       </stg>
     </lg>
     <mg>
@@ -17475,7 +17443,7 @@
       <l pos="A">катонь</l>
 
       <stg>
-        <st Contlex="A_">катонь</st>
+        <st Contlex="A-IS-GEN">катонь</st>
       </stg>
     </lg>
     <mg>
@@ -17857,7 +17825,7 @@
       <l pos="A">кевгоронь</l>
 
       <stg>
-        <st Contlex="A_">кевгоронь</st>
+        <st Contlex="A-IS-GEN">кевгоронь</st>
       </stg>
     </lg>
     <mg>
@@ -17905,7 +17873,7 @@
       <l pos="A">кевонь</l>
 
       <stg>
-        <st Contlex="A_">кевонь</st>
+        <st Contlex="A-IS-GEN">кевонь</st>
       </stg>
     </lg>
 
@@ -17990,7 +17958,7 @@
       <l pos="A">кедень</l>
 
       <stg>
-        <st Contlex="A_">кедень</st>
+        <st Contlex="A-IS-GEN">кедень</st>
       </stg>
     </lg>
 
@@ -18030,7 +17998,7 @@
       <l pos="A">кедрань</l>
 
       <stg>
-        <st Contlex="A_">кедрань</st>
+        <st Contlex="A-IS-GEN">кедрань</st>
       </stg>
     </lg>
     <mg>
@@ -18142,7 +18110,7 @@
       <l pos="A">келазень</l>
 
       <stg>
-        <st Contlex="A_">келазень</st>
+        <st Contlex="A-IS-GEN">келазень</st>
       </stg>
     </lg>
     <mg>
@@ -18239,7 +18207,7 @@
       <l pos="A">келувонь</l>
 
       <stg>
-        <st Contlex="A_">келувонь</st>
+        <st Contlex="A-IS-GEN">келувонь</st>
       </stg>
     </lg>
     <mg>
@@ -18308,7 +18276,7 @@
       <l pos="A">кельгомань</l>
 
       <stg>
-        <st Contlex="A_">кельгомань</st>
+        <st Contlex="A-IS-GEN">кельгомань</st>
       </stg>
     </lg>
     <mg>
@@ -18490,7 +18458,7 @@
       <l pos="A">кендень</l>
 
       <stg>
-        <st Contlex="A_">кендень</st>
+        <st Contlex="A-IS-GEN">кендень</st>
       </stg>
     </lg>
     <mg>
@@ -18522,7 +18490,7 @@
       <l pos="A">кендиень</l>
 
       <stg>
-        <st Contlex="A_">кендиень</st>
+        <st Contlex="A-IS-GEN">кендиень</st>
       </stg>
     </lg>
     <mg>
@@ -18734,7 +18702,7 @@
       <l pos="A">керонь</l>
 
       <stg>
-        <st Contlex="A_">керонь</st>
+        <st Contlex="A-IS-GEN">керонь</st>
       </stg>
     </lg>
     <mg>
@@ -18819,7 +18787,7 @@
       <l pos="A">кивиень</l>
 
       <stg>
-        <st Contlex="A_">кивиень</st>
+        <st Contlex="A-IS-GEN">кивиень</st>
       </stg>
     </lg>
     <mg>
@@ -18851,7 +18819,7 @@
       <l pos="A">кизонь</l>
 
       <stg>
-        <st Contlex="A_">кизонь</st>
+        <st Contlex="A-IS-GEN">кизонь</st>
       </stg>
     </lg>
 
@@ -19016,7 +18984,7 @@
       <l pos="A">кинь</l>
 
       <stg>
-        <st Contlex="A_">кинь</st>
+        <st Contlex="A-IS-GEN">кинь</st>
       </stg>
     </lg>
     <mg>
@@ -19093,7 +19061,7 @@
       <l pos="A">кирпицень</l>
 
       <stg>
-        <st Contlex="A_">кирпицень</st>
+        <st Contlex="A-IS-GEN">кирпицень</st>
       </stg>
     </lg>
     <mg>
@@ -19189,7 +19157,7 @@
       <l pos="A">китървань</l>
 
       <stg>
-        <st Contlex="A_">китървань</st>
+        <st Contlex="A-IS-GEN">китървань</st>
       </stg>
     </lg>
     <mg>
@@ -19282,7 +19250,7 @@
       <l pos="A">киянь</l>
 
       <stg>
-        <st Contlex="A_">киянь</st>
+        <st Contlex="A-IS-GEN">киянь</st>
       </stg>
     </lg>
     <mg>
@@ -19394,7 +19362,7 @@
       <l pos="A">клюквань</l>
 
       <stg>
-        <st Contlex="A_">клюквань</st>
+        <st Contlex="A-IS-GEN">клюквань</st>
       </stg>
     </lg>
     <mg>
@@ -19410,7 +19378,7 @@
       <l pos="A">клянцеконь</l>
 
       <stg>
-        <st Contlex="A_">клянцеконь</st>
+        <st Contlex="A-IS-GEN">клянцеконь</st>
       </stg>
     </lg>
     <mg>
@@ -19426,7 +19394,7 @@
       <l pos="A">клянцень</l>
 
       <stg>
-        <st Contlex="A_">клянцень</st>
+        <st Contlex="A-IS-GEN">клянцень</st>
       </stg>
     </lg>
     <mg>
@@ -19522,7 +19490,7 @@
       <l pos="A">князень</l>
 
       <stg>
-        <st Contlex="A_">князень</st>
+        <st Contlex="A-IS-GEN">князень</st>
       </stg>
     </lg>
     <mg>
@@ -19554,7 +19522,7 @@
       <l pos="A">ковонь</l>
 
       <stg>
-        <st Contlex="A_">ковонь</st>
+        <st Contlex="A-IS-GEN">ковонь</st>
       </stg>
     </lg>
     <mg>
@@ -19586,7 +19554,7 @@
       <l pos="A">кожфонь</l>
 
       <stg>
-        <st Contlex="A_">кожфонь</st>
+        <st Contlex="A-IS-GEN">кожфонь</st>
       </stg>
     </lg>
     <mg>
@@ -19751,7 +19719,7 @@
       <l pos="A">колмонзань</l>
 
       <stg>
-        <st Contlex="A_">колмонзань</st>
+        <st Contlex="A-IS-GEN">колмонзань</st>
       </stg>
     </lg>
     <mg>
@@ -19831,7 +19799,7 @@
       <l pos="A">колхозонь</l>
 
       <stg>
-        <st Contlex="A_">колхозонь</st>
+        <st Contlex="A-IS-GEN">колхозонь</st>
       </stg>
     </lg>
     <mg>
@@ -20455,7 +20423,7 @@
       <l pos="A">коренень</l>
 
       <stg>
-        <st Contlex="A_">коренень</st>
+        <st Contlex="A-IS-GEN">коренень</st>
       </stg>
     </lg>
     <mg>
@@ -20519,7 +20487,7 @@
       <l pos="A">корожень</l>
 
       <stg>
-        <st Contlex="A_">корожень</st>
+        <st Contlex="A-IS-GEN">корожень</st>
       </stg>
     </lg>
     <mg>
@@ -20847,7 +20815,7 @@
       <l pos="A">крахмалонь</l>
 
       <stg>
-        <st Contlex="A_">крахмалонь</st>
+        <st Contlex="A-IS-GEN">крахмалонь</st>
       </stg>
     </lg>
     <mg>
@@ -21250,7 +21218,7 @@
       <l pos="A">кудонь</l>
 
       <stg>
-        <st Contlex="A_">кудонь</st>
+        <st Contlex="A-IS-GEN">кудонь</st>
       </stg>
     </lg>
     <mg>
@@ -21287,7 +21255,7 @@
       <l pos="A">кудъётконь</l>
 
       <stg>
-        <st Contlex="A_">кудъётконь</st>
+        <st Contlex="A-IS-GEN">кудъётконь</st>
       </stg>
     </lg>
 
@@ -21311,7 +21279,7 @@
       <l pos="A">кузонь</l>
 
       <stg>
-        <st Contlex="A_">кузонь</st>
+        <st Contlex="A-IS-GEN">кузонь</st>
       </stg>
     </lg>
     <mg>
@@ -21359,7 +21327,7 @@
       <l pos="A">кукурузань</l>
 
       <stg>
-        <st Contlex="A_">кукурузань</st>
+        <st Contlex="A-IS-GEN">кукурузань</st>
       </stg>
     </lg>
     <mg>
@@ -21407,7 +21375,7 @@
       <l pos="A">куломань</l>
 
       <stg>
-        <st Contlex="A_">куломань</st>
+        <st Contlex="A-IS-GEN">куломань</st>
       </stg>
     </lg>
     <mg>
@@ -21471,7 +21439,7 @@
       <l pos="A">кулувонь</l>
 
       <stg>
-        <st Contlex="A_">кулувонь</st>
+        <st Contlex="A-IS-GEN">кулувонь</st>
       </stg>
     </lg>
     <mg>
@@ -21503,7 +21471,7 @@
       <l pos="A">кунардонь</l>
 
       <stg>
-        <st Contlex="A_">кунардонь</st>
+        <st Contlex="A-IS-GEN">кунардонь</st>
       </stg>
     </lg>
 
@@ -21647,7 +21615,7 @@
       <l pos="A">купецонь</l>
 
       <stg>
-        <st Contlex="A_">купецонь</st>
+        <st Contlex="A-IS-GEN">купецонь</st>
       </stg>
     </lg>
     <mg>
@@ -21743,7 +21711,7 @@
       <l pos="A">курынь</l>
 
       <stg>
-        <st Contlex="A_">курынь</st>
+        <st Contlex="A-IS-GEN">курынь</st>
       </stg>
     </lg>
     <mg>
@@ -21844,7 +21812,7 @@
       <l pos="A">кшинь</l>
 
       <stg>
-        <st Contlex="A_">кшинь</st>
+        <st Contlex="A-IS-GEN">кшинь</st>
       </stg>
     </lg>
     <mg>
@@ -21876,7 +21844,7 @@
       <l pos="A">кшнинь</l>
 
       <stg>
-        <st Contlex="A_">кшнинь</st>
+        <st Contlex="A-IS-GEN">кшнинь</st>
       </stg>
     </lg>
     <mg>
@@ -21892,7 +21860,7 @@
       <l pos="A">кштирдемань</l>
 
       <stg>
-        <st Contlex="A_">кштирдемань</st>
+        <st Contlex="A-IS-GEN">кштирдемань</st>
       </stg>
     </lg>
     <mg>
@@ -22004,7 +21972,7 @@
       <l pos="A">къстынь</l>
 
       <stg>
-        <st Contlex="A_">къстынь</st>
+        <st Contlex="A-IS-GEN">къстынь</st>
       </stg>
     </lg>
     <mg>
@@ -22020,7 +21988,7 @@
       <l pos="A">къщяльнянь</l>
 
       <stg>
-        <st Contlex="A_">къщяльнянь</st>
+        <st Contlex="A-IS-GEN">къщяльнянь</st>
       </stg>
     </lg>
     <mg>
@@ -22036,7 +22004,7 @@
       <l pos="A">кядень</l>
 
       <stg>
-        <st Contlex="A_">кядень</st>
+        <st Contlex="A-IS-GEN">кядень</st>
       </stg>
     </lg>
     <mg>
@@ -22052,7 +22020,7 @@
       <l pos="A">кядьпень</l>
 
       <stg>
-        <st Contlex="A_">кядьпень</st>
+        <st Contlex="A-IS-GEN">кядьпень</st>
       </stg>
     </lg>
     <mg>
@@ -22068,7 +22036,7 @@
       <l pos="A">кядьпрянь</l>
 
       <stg>
-        <st Contlex="A_">кядьпрянь</st>
+        <st Contlex="A-IS-GEN">кядьпрянь</st>
       </stg>
     </lg>
     <mg>
@@ -22100,7 +22068,7 @@
       <l pos="A">кяждонь</l>
 
       <stg>
-        <st Contlex="A_">кяждонь</st>
+        <st Contlex="A-IS-GEN">кяждонь</st>
       </stg>
     </lg>
     <mg>
@@ -22182,7 +22150,7 @@
       <l pos="A">кялень</l>
 
       <stg>
-        <st Contlex="A_">кялень</st>
+        <st Contlex="A-IS-GEN">кялень</st>
       </stg>
     </lg>
 
@@ -22214,7 +22182,7 @@
       <l pos="A">кяль-валонь</l>
 
       <stg>
-        <st Contlex="A_">кяль-валонь</st>
+        <st Contlex="A-IS-GEN">кяль-валонь</st>
       </stg>
     </lg>
     <mg>
@@ -22413,7 +22381,7 @@
       <l pos="A">лавкань</l>
 
       <stg>
-        <st Contlex="A_">лавкань</st>
+        <st Contlex="A-IS-GEN">лавкань</st>
       </stg>
     </lg>
     <mg>
@@ -22514,7 +22482,7 @@
       <l pos="A">лагерень</l>
 
       <stg>
-        <st Contlex="A_">лагерень</st>
+        <st Contlex="A-IS-GEN">лагерень</st>
       </stg>
     </lg>
     <mg>
@@ -22562,7 +22530,7 @@
       <l pos="A">лажадонь</l>
 
       <stg>
-        <st Contlex="A_">лажадонь</st>
+        <st Contlex="A-IS-GEN">лажадонь</st>
       </stg>
     </lg>
     <mg>
@@ -22626,7 +22594,7 @@
       <l pos="A">лаймарень</l>
 
       <stg>
-        <st Contlex="A_">лаймарень</st>
+        <st Contlex="A-IS-GEN">лаймарень</st>
       </stg>
     </lg>
     <mg>
@@ -22642,7 +22610,7 @@
       <l pos="A">лаймарьксонь</l>
 
       <stg>
-        <st Contlex="A_">лаймарьксонь</st>
+        <st Contlex="A-IS-GEN">лаймарьксонь</st>
       </stg>
     </lg>
     <mg>
@@ -22658,7 +22626,7 @@
       <l pos="A">лаймонь</l>
 
       <stg>
-        <st Contlex="A_">лаймонь</st>
+        <st Contlex="A-IS-GEN">лаймонь</st>
       </stg>
     </lg>
     <mg>
@@ -22706,7 +22674,7 @@
       <l pos="A">лакштамарень</l>
 
       <stg>
-        <st Contlex="A_">лакштамарень</st>
+        <st Contlex="A-IS-GEN">лакштамарень</st>
       </stg>
     </lg>
     <mg>
@@ -22831,7 +22799,7 @@
       <l pos="A">лампань</l>
 
       <stg>
-        <st Contlex="A_">лампань</st>
+        <st Contlex="A-IS-GEN">лампань</st>
       </stg>
     </lg>
     <mg>
@@ -22863,7 +22831,7 @@
       <l pos="A">лангонь</l>
 
       <stg>
-        <st Contlex="A_">лангонь</st>
+        <st Contlex="A-IS-GEN">лангонь</st>
       </stg>
     </lg>
     <mg>
@@ -22908,7 +22876,7 @@
       <l pos="A">лангстонь</l>
 
       <stg>
-        <st Contlex="A_">лангстонь</st>
+        <st Contlex="A-IS-GEN">лангстонь</st>
       </stg>
     </lg>
     <mg>
@@ -23150,7 +23118,7 @@
       <l pos="A">лафтупрянь</l>
 
       <stg>
-        <st Contlex="A_">лафтупрянь</st>
+        <st Contlex="A-IS-GEN">лафтупрянь</st>
       </stg>
     </lg>
     <mg>
@@ -23227,7 +23195,7 @@
       <l pos="A">лашмонь</l>
 
       <stg>
-        <st Contlex="A_">лашмонь</st>
+        <st Contlex="A-IS-GEN">лашмонь</st>
       </stg>
     </lg>
     <mg>
@@ -23284,7 +23252,7 @@
       <l pos="A">левожень</l>
 
       <stg>
-        <st Contlex="A_">левожень</st>
+        <st Contlex="A-IS-GEN">левожень</st>
       </stg>
     </lg>
     <mg>
@@ -23364,7 +23332,7 @@
       <l pos="A">лейтенантонь</l>
 
       <stg>
-        <st Contlex="A_">лейтенантонь</st>
+        <st Contlex="A-IS-GEN">лейтенантонь</st>
       </stg>
     </lg>
     <mg>
@@ -23380,7 +23348,7 @@
       <l pos="A">лекарствань</l>
 
       <stg>
-        <st Contlex="A_">лекарствань</st>
+        <st Contlex="A-IS-GEN">лекарствань</st>
       </stg>
     </lg>
     <mg>
@@ -23444,7 +23412,7 @@
       <l pos="A">лекциянь</l>
 
       <stg>
-        <st Contlex="A_">лекциянь</st>
+        <st Contlex="A-IS-GEN">лекциянь</st>
       </stg>
     </lg>
     <mg>
@@ -23460,7 +23428,7 @@
       <l pos="A">ленгаксонь</l>
 
       <stg>
-        <st Contlex="A_">ленгаксонь</st>
+        <st Contlex="A-IS-GEN">ленгаксонь</st>
       </stg>
     </lg>
     <mg>
@@ -23476,7 +23444,7 @@
       <l pos="A">ленгянь</l>
 
       <stg>
-        <st Contlex="A_">ленгянь</st>
+        <st Contlex="A-IS-GEN">ленгянь</st>
       </stg>
     </lg>
     <mg>
@@ -23524,7 +23492,7 @@
       <l pos="A">лепонь</l>
 
       <stg>
-        <st Contlex="A_">лепонь</st>
+        <st Contlex="A-IS-GEN">лепонь</st>
       </stg>
     </lg>
     <mg>
@@ -23768,7 +23736,7 @@
       <l pos="A">лимононь</l>
 
       <stg>
-        <st Contlex="A_">лимононь</st>
+        <st Contlex="A-IS-GEN">лимононь</st>
       </stg>
     </lg>
     <mg>
@@ -23848,7 +23816,7 @@
       <l pos="A">литературань</l>
 
       <stg>
-        <st Contlex="A_">литературань</st>
+        <st Contlex="A-IS-GEN">литературань</st>
       </stg>
     </lg>
     <mg>
@@ -23880,7 +23848,7 @@
       <l pos="A">литрань</l>
 
       <stg>
-        <st Contlex="A_">литрань</st>
+        <st Contlex="A-IS-GEN">литрань</st>
       </stg>
     </lg>
     <mg>
@@ -24026,7 +23994,7 @@
       <l pos="A">лихтипрянь</l>
 
       <stg>
-        <st Contlex="A_">лихтипрянь</st>
+        <st Contlex="A-IS-GEN">лихтипрянь</st>
       </stg>
     </lg>
     <mg>
@@ -24058,7 +24026,7 @@
       <l pos="A">лишмонь</l>
 
       <stg>
-        <st Contlex="A_">лишмонь</st>
+        <st Contlex="A-IS-GEN">лишмонь</st>
       </stg>
     </lg>
     <mg>
@@ -24095,7 +24063,7 @@
       <l pos="A">лиянь</l>
 
       <stg>
-        <st Contlex="A_">лиянь</st>
+        <st Contlex="A-IS-GEN">лиянь</st>
       </stg>
     </lg>
     <mg>
@@ -24127,7 +24095,7 @@
       <l pos="A">ловонь</l>
 
       <stg>
-        <st Contlex="A_">ловонь</st>
+        <st Contlex="A-IS-GEN">ловонь</st>
       </stg>
     </lg>
     <mg>
@@ -24228,7 +24196,7 @@
       <l pos="A">локстиень</l>
 
       <stg>
-        <st Contlex="A_">локстиень</st>
+        <st Contlex="A-IS-GEN">локстиень</st>
       </stg>
     </lg>
     <mg>
@@ -24260,7 +24228,7 @@
       <l pos="A">ломанень</l>
 
       <stg>
-        <st Contlex="A_">ломанень</st>
+        <st Contlex="A-IS-GEN">ломанень</st>
       </stg>
     </lg>
 
@@ -24334,7 +24302,7 @@
       <l pos="A">лосень</l>
 
       <stg>
-        <st Contlex="A_">лосень</st>
+        <st Contlex="A-IS-GEN">лосень</st>
       </stg>
     </lg>
     <mg>
@@ -24498,7 +24466,7 @@
       <l pos="A">лофцонь</l>
 
       <stg>
-        <st Contlex="A_">лофцонь</st>
+        <st Contlex="A-IS-GEN">лофцонь</st>
       </stg>
     </lg>
     <mg>
@@ -24559,7 +24527,7 @@
       <l pos="A">лугалангонь</l>
 
       <stg>
-        <st Contlex="A_">лугалангонь</st>
+        <st Contlex="A-IS-GEN">лугалангонь</st>
       </stg>
     </lg>
     <mg>
@@ -24575,7 +24543,7 @@
       <l pos="A">лугань</l>
 
       <stg>
-        <st Contlex="A_">лугань</st>
+        <st Contlex="A-IS-GEN">лугань</st>
       </stg>
     </lg>
     <mg>
@@ -24964,7 +24932,7 @@
       <l pos="A">люкшянь</l>
 
       <stg>
-        <st Contlex="A_">люкшянь</st>
+        <st Contlex="A-IS-GEN">люкшянь</st>
       </stg>
     </lg>
     <mg>
@@ -25012,7 +24980,7 @@
       <l pos="A">ляень</l>
 
       <stg>
-        <st Contlex="A_">ляень</st>
+        <st Contlex="A-IS-GEN">ляень</st>
       </stg>
     </lg>
     <mg>
@@ -25239,7 +25207,7 @@
       <l pos="A">лётчиконь</l>
 
       <stg>
-        <st Contlex="A_">лётчиконь</st>
+        <st Contlex="A-IS-GEN">лётчиконь</st>
       </stg>
     </lg>
     <mg>
@@ -25399,7 +25367,7 @@
       <l pos="A">маень</l>
 
       <stg>
-        <st Contlex="A_">маень</st>
+        <st Contlex="A-IS-GEN">маень</st>
       </stg>
     </lg>
 
@@ -25572,7 +25540,7 @@
       <l pos="A">маконь</l>
 
       <stg>
-        <st Contlex="A_">маконь</st>
+        <st Contlex="A-IS-GEN">маконь</st>
       </stg>
     </lg>
     <mg>
@@ -25588,7 +25556,7 @@
       <l pos="A">максакань</l>
 
       <stg>
-        <st Contlex="A_">максакань</st>
+        <st Contlex="A-IS-GEN">максакань</st>
       </stg>
     </lg>
     <mg>
@@ -25718,7 +25686,7 @@
       <l pos="A">маляронь</l>
 
       <stg>
-        <st Contlex="A_">маляронь</st>
+        <st Contlex="A-IS-GEN">маляронь</st>
       </stg>
     </lg>
     <mg>
@@ -25750,7 +25718,7 @@
       <l pos="A">мандаринонь</l>
 
       <stg>
-        <st Contlex="A_">мандаринонь</st>
+        <st Contlex="A-IS-GEN">мандаринонь</st>
       </stg>
     </lg>
     <mg>
@@ -25835,7 +25803,7 @@
       <l pos="A">манкань</l>
 
       <stg>
-        <st Contlex="A_">манкань</st>
+        <st Contlex="A-IS-GEN">манкань</st>
       </stg>
     </lg>
 
@@ -25904,7 +25872,7 @@
       <l pos="A">маразень</l>
 
       <stg>
-        <st Contlex="A_">маразень</st>
+        <st Contlex="A-IS-GEN">маразень</st>
       </stg>
     </lg>
     <mg>
@@ -25936,7 +25904,7 @@
       <l pos="A">маралонь</l>
 
       <stg>
-        <st Contlex="A_">маралонь</st>
+        <st Contlex="A-IS-GEN">маралонь</st>
       </stg>
     </lg>
     <mg>
@@ -26000,7 +25968,7 @@
       <l pos="A">марень</l>
 
       <stg>
-        <st Contlex="A_">марень</st>
+        <st Contlex="A-IS-GEN">марень</st>
       </stg>
     </lg>
     <mg>
@@ -26064,7 +26032,7 @@
       <l pos="A">маркизетонь</l>
 
       <stg>
-        <st Contlex="A_">маркизетонь</st>
+        <st Contlex="A-IS-GEN">маркизетонь</st>
       </stg>
     </lg>
     <mg>
@@ -26080,7 +26048,7 @@
       <l pos="A">марлянь</l>
 
       <stg>
-        <st Contlex="A_">марлянь</st>
+        <st Contlex="A-IS-GEN">марлянь</st>
       </stg>
     </lg>
     <mg>
@@ -26117,7 +26085,7 @@
       <l pos="A">марстонь</l>
 
       <stg>
-        <st Contlex="A_">марстонь</st>
+        <st Contlex="A-IS-GEN">марстонь</st>
       </stg>
     </lg>
 
@@ -26157,7 +26125,7 @@
       <l pos="A">мартонь</l>
 
       <stg>
-        <st Contlex="A_">мартонь</st>
+        <st Contlex="A-IS-GEN">мартонь</st>
       </stg>
     </lg>
 
@@ -26181,7 +26149,7 @@
       <l pos="A">маршалонь</l>
 
       <stg>
-        <st Contlex="A_">маршалонь</st>
+        <st Contlex="A-IS-GEN">маршалонь</st>
       </stg>
     </lg>
     <mg>
@@ -26258,7 +26226,7 @@
       <l pos="A">маскарадонь</l>
 
       <stg>
-        <st Contlex="A_">маскарадонь</st>
+        <st Contlex="A-IS-GEN">маскарадонь</st>
       </stg>
     </lg>
     <mg>
@@ -26338,7 +26306,7 @@
       <l pos="A">масторлангонь</l>
 
       <stg>
-        <st Contlex="A_">масторлангонь</st>
+        <st Contlex="A-IS-GEN">масторлангонь</st>
       </stg>
     </lg>
     <mg>
@@ -26354,7 +26322,7 @@
       <l pos="A">мастяронь</l>
 
       <stg>
-        <st Contlex="A_">мастяронь</st>
+        <st Contlex="A-IS-GEN">мастяронь</st>
       </stg>
     </lg>
     <mg>
@@ -26450,7 +26418,7 @@
       <l pos="A">мациень</l>
 
       <stg>
-        <st Contlex="A_">мациень</st>
+        <st Contlex="A-IS-GEN">мациень</st>
       </stg>
     </lg>
     <mg>
@@ -26519,7 +26487,7 @@
       <l pos="A">машинань</l>
 
       <stg>
-        <st Contlex="A_">машинань</st>
+        <st Contlex="A-IS-GEN">машинань</st>
       </stg>
     </lg>
     <mg>
@@ -26636,7 +26604,7 @@
       <l pos="A">маштыксонь</l>
 
       <stg>
-        <st Contlex="A_">маштыксонь</st>
+        <st Contlex="A-IS-GEN">маштыксонь</st>
       </stg>
     </lg>
     <mg>
@@ -26737,7 +26705,7 @@
       <l pos="A">мекольдень</l>
 
       <stg>
-        <st Contlex="A_">мекольдень</st>
+        <st Contlex="A-IS-GEN">мекольдень</st>
       </stg>
     </lg>
     <mg>
@@ -26782,7 +26750,7 @@
       <l pos="A">меленцянь</l>
 
       <stg>
-        <st Contlex="A_">меленцянь</st>
+        <st Contlex="A-IS-GEN">меленцянь</st>
       </stg>
     </lg>
     <mg>
@@ -26859,7 +26827,7 @@
       <l pos="A">мельгяньпаниень</l>
 
       <stg>
-        <st Contlex="A_">мельгяньпаниень</st>
+        <st Contlex="A-IS-GEN">мельгяньпаниень</st>
       </stg>
     </lg>
     <mg>
@@ -26875,7 +26843,7 @@
       <l pos="A">мельдень</l>
 
       <stg>
-        <st Contlex="A_">мельдень</st>
+        <st Contlex="A-IS-GEN">мельдень</st>
       </stg>
     </lg>
     <mg>
@@ -26923,7 +26891,7 @@
       <l pos="A">мелямбань</l>
 
       <stg>
-        <st Contlex="A_">мелямбань</st>
+        <st Contlex="A-IS-GEN">мелямбань</st>
       </stg>
     </lg>
     <mg>
@@ -26971,7 +26939,7 @@
       <l pos="A">мелянь</l>
 
       <stg>
-        <st Contlex="A_">мелянь</st>
+        <st Contlex="A-IS-GEN">мелянь</st>
       </stg>
     </lg>
     <mg>
@@ -27003,7 +26971,7 @@
       <l pos="A">меляцень</l>
 
       <stg>
-        <st Contlex="A_">меляцень</st>
+        <st Contlex="A-IS-GEN">меляцень</st>
       </stg>
     </lg>
     <mg>
@@ -27051,7 +27019,7 @@
       <l pos="A">менелень</l>
 
       <stg>
-        <st Contlex="A_">менелень</st>
+        <st Contlex="A-IS-GEN">менелень</st>
       </stg>
     </lg>
     <mg>
@@ -27088,7 +27056,7 @@
       <l pos="A">мерань</l>
 
       <stg>
-        <st Contlex="A_">мерань</st>
+        <st Contlex="A-IS-GEN">мерань</st>
       </stg>
     </lg>
     <mg>
@@ -27120,7 +27088,7 @@
       <l pos="A">мерлушкань</l>
 
       <stg>
-        <st Contlex="A_">мерлушкань</st>
+        <st Contlex="A-IS-GEN">мерлушкань</st>
       </stg>
     </lg>
     <mg>
@@ -27200,7 +27168,7 @@
       <l pos="A">метеоритонь</l>
 
       <stg>
-        <st Contlex="A_">метеоритонь</st>
+        <st Contlex="A-IS-GEN">метеоритонь</st>
       </stg>
     </lg>
     <mg>
@@ -27280,7 +27248,7 @@
       <l pos="A">мечень</l>
 
       <stg>
-        <st Contlex="A_">мечень</st>
+        <st Contlex="A-IS-GEN">мечень</st>
       </stg>
     </lg>
     <mg>
@@ -27312,7 +27280,7 @@
       <l pos="A">мешень</l>
 
       <stg>
-        <st Contlex="A_">мешень</st>
+        <st Contlex="A-IS-GEN">мешень</st>
       </stg>
     </lg>
     <mg>
@@ -27536,7 +27504,7 @@
       <l pos="A">миронь-шяхярень</l>
 
       <stg>
-        <st Contlex="A_">миронь-шяхярень</st>
+        <st Contlex="A-IS-GEN">миронь-шяхярень</st>
       </stg>
     </lg>
     <mg>
@@ -27696,7 +27664,7 @@
       <l pos="A">мокшалянь</l>
 
       <stg>
-        <st Contlex="A_">мокшалянь</st>
+        <st Contlex="A-IS-GEN">мокшалянь</st>
       </stg>
     </lg>
     <mg>
@@ -27712,7 +27680,7 @@
       <l pos="A">мокшень</l>
 
       <stg>
-        <st Contlex="A_">мокшень</st>
+        <st Contlex="A-IS-GEN">мокшень</st>
       </stg>
     </lg>
     <mg>
@@ -28170,7 +28138,7 @@
       <l pos="A">мушконь</l>
 
       <stg>
-        <st Contlex="A_">мушконь</st>
+        <st Contlex="A-IS-GEN">мушконь</st>
       </stg>
     </lg>
     <mg>
@@ -28540,7 +28508,7 @@
       <l pos="A">надобьянь</l>
 
       <stg>
-        <st Contlex="A_">надобьянь</st>
+        <st Contlex="A-IS-GEN">надобьянь</st>
       </stg>
     </lg>
     <mg>
@@ -28757,7 +28725,7 @@
       <l pos="A">налхксемань</l>
 
       <stg>
-        <st Contlex="A_">налхксемань</st>
+        <st Contlex="A-IS-GEN">налхксемань</st>
       </stg>
     </lg>
     <mg>
@@ -28946,7 +28914,7 @@
       <l pos="A">нармонень</l>
 
       <stg>
-        <st Contlex="A_">нармонень</st>
+        <st Contlex="A-IS-GEN">нармонень</st>
       </stg>
     </lg>
     <mg>
@@ -29213,7 +29181,7 @@
       <l pos="A">недляшинь</l>
 
       <stg>
-        <st Contlex="A_">недляшинь</st>
+        <st Contlex="A-IS-GEN">недляшинь</st>
       </stg>
     </lg>
     <mg>
@@ -29511,7 +29479,7 @@
       <l pos="A">нилензань</l>
 
       <stg>
-        <st Contlex="A_">нилензань</st>
+        <st Contlex="A-IS-GEN">нилензань</st>
       </stg>
     </lg>
     <mg>
@@ -29612,7 +29580,7 @@
       <l pos="A">ногаень</l>
 
       <stg>
-        <st Contlex="A_">ногаень</st>
+        <st Contlex="A-IS-GEN">ногаень</st>
       </stg>
     </lg>
     <mg>
@@ -29859,7 +29827,7 @@
       <l pos="A">норкань</l>
 
       <stg>
-        <st Contlex="A_">норкань</st>
+        <st Contlex="A-IS-GEN">норкань</st>
       </stg>
     </lg>
     <mg>
@@ -29875,7 +29843,7 @@
       <l pos="A">нормалень</l>
 
       <stg>
-        <st Contlex="A_">нормалень</st>
+        <st Contlex="A-IS-GEN">нормалень</st>
       </stg>
     </lg>
     <mg>
@@ -30097,7 +30065,7 @@
       <l pos="A">нумолонь</l>
 
       <stg>
-        <st Contlex="A_">нумолонь</st>
+        <st Contlex="A-IS-GEN">нумолонь</st>
       </stg>
     </lg>
     <mg>
@@ -30385,7 +30353,7 @@
       <l pos="A">нярьхкамазонь</l>
 
       <stg>
-        <st Contlex="A_">нярьхкамазонь</st>
+        <st Contlex="A-IS-GEN">нярьхкамазонь</st>
       </stg>
     </lg>
     <mg>
@@ -30417,7 +30385,7 @@
       <l pos="A">обедонь</l>
 
       <stg>
-        <st Contlex="A_">обедонь</st>
+        <st Contlex="A-IS-GEN">обедонь</st>
       </stg>
     </lg>
     <mg>
@@ -30641,7 +30609,7 @@
       <l pos="A">общинань</l>
 
       <stg>
-        <st Contlex="A_">общинань</st>
+        <st Contlex="A-IS-GEN">общинань</st>
       </stg>
     </lg>
     <mg>
@@ -30753,7 +30721,7 @@
       <l pos="A">овощань</l>
 
       <stg>
-        <st Contlex="A_">овощань</st>
+        <st Contlex="A-IS-GEN">овощань</st>
       </stg>
     </lg>
     <mg>
@@ -30970,7 +30938,7 @@
       <l pos="A">ожалангонь</l>
 
       <stg>
-        <st Contlex="A_">ожалангонь</st>
+        <st Contlex="A-IS-GEN">ожалангонь</st>
       </stg>
     </lg>
     <mg>
@@ -31018,7 +30986,7 @@
       <l pos="A">озимонь</l>
 
       <stg>
-        <st Contlex="A_">озимонь</st>
+        <st Contlex="A-IS-GEN">озимонь</st>
       </stg>
     </lg>
     <mg>
@@ -31034,7 +31002,7 @@
       <l pos="A">озонь</l>
 
       <stg>
-        <st Contlex="A_">озонь</st>
+        <st Contlex="A-IS-GEN">озонь</st>
       </stg>
     </lg>
     <mg>
@@ -31050,7 +31018,7 @@
       <l pos="A">озянь</l>
 
       <stg>
-        <st Contlex="A_">озянь</st>
+        <st Contlex="A-IS-GEN">озянь</st>
       </stg>
     </lg>
     <mg>
@@ -31082,7 +31050,7 @@
       <l pos="A">округонь</l>
 
       <stg>
-        <st Contlex="A_">округонь</st>
+        <st Contlex="A-IS-GEN">округонь</st>
       </stg>
     </lg>
     <mg>
@@ -31303,7 +31271,7 @@
       <l pos="A">омбоконь</l>
 
       <stg>
-        <st Contlex="A_">омбоконь</st>
+        <st Contlex="A-IS-GEN">омбоконь</st>
       </stg>
     </lg>
     <mg>
@@ -31781,7 +31749,7 @@
       <l pos="A">орёлонь</l>
 
       <stg>
-        <st Contlex="A_">орёлонь</st>
+        <st Contlex="A-IS-GEN">орёлонь</st>
       </stg>
     </lg>
     <mg>
@@ -32287,7 +32255,7 @@
       <l pos="A">офтонь</l>
 
       <stg>
-        <st Contlex="A_">офтонь</st>
+        <st Contlex="A-IS-GEN">офтонь</st>
       </stg>
     </lg>
     <mg>
@@ -32303,7 +32271,7 @@
       <l pos="A">охотниконь</l>
 
       <stg>
-        <st Contlex="A_">охотниконь</st>
+        <st Contlex="A-IS-GEN">охотниконь</st>
       </stg>
     </lg>
     <mg>
@@ -32469,7 +32437,7 @@
       <l pos="A">оцязоронь</l>
 
       <stg>
-        <st Contlex="A_">оцязоронь</st>
+        <st Contlex="A-IS-GEN">оцязоронь</st>
       </stg>
     </lg>
     <mg>
@@ -32485,7 +32453,7 @@
       <l pos="A">очижинь</l>
 
       <stg>
-        <st Contlex="A_">очижинь</st>
+        <st Contlex="A-IS-GEN">очижинь</st>
       </stg>
     </lg>
     <mg>
@@ -32517,7 +32485,7 @@
       <l pos="A">ошень</l>
 
       <stg>
-        <st Contlex="A_">ошень</st>
+        <st Contlex="A-IS-GEN">ошень</st>
       </stg>
     </lg>
     <mg>
@@ -32533,7 +32501,7 @@
       <l pos="A">ошъётконь</l>
 
       <stg>
-        <st Contlex="A_">ошъётконь</st>
+        <st Contlex="A-IS-GEN">ошъётконь</st>
       </stg>
     </lg>
     <mg>
@@ -32690,7 +32658,7 @@
       <l pos="A">пайгонь</l>
 
       <stg>
-        <st Contlex="A_">пайгонь</st>
+        <st Contlex="A-IS-GEN">пайгонь</st>
       </stg>
     </lg>
     <mg>
@@ -32722,7 +32690,7 @@
       <l pos="A">пакарень</l>
 
       <stg>
-        <st Contlex="A_">пакарень</st>
+        <st Contlex="A-IS-GEN">пакарень</st>
       </stg>
     </lg>
     <mg>
@@ -32791,7 +32759,7 @@
       <l pos="A">паксянь</l>
 
       <stg>
-        <st Contlex="A_">паксянь</st>
+        <st Contlex="A-IS-GEN">паксянь</st>
       </stg>
     </lg>
     <mg>
@@ -32807,7 +32775,7 @@
       <l pos="A">паксянь-кудонь</l>
 
       <stg>
-        <st Contlex="A_">паксянь-кудонь</st>
+        <st Contlex="A-IS-GEN">паксянь-кудонь</st>
       </stg>
     </lg>
     <mg>
@@ -32876,7 +32844,7 @@
       <l pos="A">пальмань</l>
 
       <stg>
-        <st Contlex="A_">пальмань</st>
+        <st Contlex="A-IS-GEN">пальмань</st>
       </stg>
     </lg>
     <mg>
@@ -33041,7 +33009,7 @@
       <l pos="A">панжадонь</l>
 
       <stg>
-        <st Contlex="A_">панжадонь</st>
+        <st Contlex="A-IS-GEN">панжадонь</st>
       </stg>
     </lg>
     <mg>
@@ -33126,7 +33094,7 @@
       <l pos="A">панчфонь</l>
 
       <stg>
-        <st Contlex="A_">панчфонь</st>
+        <st Contlex="A-IS-GEN">панчфонь</st>
       </stg>
     </lg>
     <mg>
@@ -33377,7 +33345,7 @@
       <l pos="A">паркетонь</l>
 
       <stg>
-        <st Contlex="A_">паркетонь</st>
+        <st Contlex="A-IS-GEN">паркетонь</st>
       </stg>
     </lg>
     <mg>
@@ -33457,7 +33425,7 @@
       <l pos="A">паровозонь</l>
 
       <stg>
-        <st Contlex="A_">паровозонь</st>
+        <st Contlex="A-IS-GEN">паровозонь</st>
       </stg>
     </lg>
     <mg>
@@ -33585,7 +33553,7 @@
       <l pos="A">парьхциень</l>
 
       <stg>
-        <st Contlex="A_">парьхциень</st>
+        <st Contlex="A-IS-GEN">парьхциень</st>
       </stg>
     </lg>
     <mg>
@@ -33862,7 +33830,7 @@
       <l pos="A">пейнь</l>
 
       <stg>
-        <st Contlex="A_">пейнь</st>
+        <st Contlex="A-IS-GEN">пейнь</st>
       </stg>
     </lg>
     <mg>
@@ -34149,7 +34117,7 @@
       <l pos="A">перень</l>
 
       <stg>
-        <st Contlex="A_">перень</st>
+        <st Contlex="A-IS-GEN">перень</st>
       </stg>
     </lg>
     <mg>
@@ -34229,7 +34197,7 @@
       <l pos="A">персиконь</l>
 
       <stg>
-        <st Contlex="A_">персиконь</st>
+        <st Contlex="A-IS-GEN">персиконь</st>
       </stg>
     </lg>
     <mg>
@@ -34261,7 +34229,7 @@
       <l pos="A">перьфпяльдень</l>
 
       <stg>
-        <st Contlex="A_">перьфпяльдень</st>
+        <st Contlex="A-IS-GEN">перьфпяльдень</st>
       </stg>
     </lg>
     <mg>
@@ -34314,7 +34282,7 @@
       <l pos="A">петружиннь</l>
 
       <stg>
-        <st Contlex="A_">петружиннь</st>
+        <st Contlex="A-IS-GEN">петружиннь</st>
       </stg>
     </lg>
     <mg>
@@ -34399,7 +34367,7 @@
       <l pos="A">пещерань</l>
 
       <stg>
-        <st Contlex="A_">пещерань</st>
+        <st Contlex="A-IS-GEN">пещерань</st>
       </stg>
     </lg>
     <mg>
@@ -34591,7 +34559,7 @@
       <l pos="A">пизелонь</l>
 
       <stg>
-        <st Contlex="A_">пизелонь</st>
+        <st Contlex="A-IS-GEN">пизелонь</st>
       </stg>
     </lg>
     <mg>
@@ -34623,7 +34591,7 @@
       <l pos="A">пиземонь</l>
 
       <stg>
-        <st Contlex="A_">пиземонь</st>
+        <st Contlex="A-IS-GEN">пиземонь</st>
       </stg>
     </lg>
     <mg>
@@ -34788,7 +34756,7 @@
       <l pos="A">пинемонь</l>
 
       <stg>
-        <st Contlex="A_">пинемонь</st>
+        <st Contlex="A-IS-GEN">пинемонь</st>
       </stg>
     </lg>
     <mg>
@@ -34804,7 +34772,7 @@
       <l pos="A">пинень</l>
 
       <stg>
-        <st Contlex="A_">пинень</st>
+        <st Contlex="A-IS-GEN">пинень</st>
       </stg>
     </lg>
     <mg>
@@ -34873,7 +34841,7 @@
       <l pos="A">пирьфонь</l>
 
       <stg>
-        <st Contlex="A_">пирьфонь</st>
+        <st Contlex="A-IS-GEN">пирьфонь</st>
       </stg>
     </lg>
 
@@ -34995,7 +34963,7 @@
       <l pos="A">пичемарень</l>
 
       <stg>
-        <st Contlex="A_">пичемарень</st>
+        <st Contlex="A-IS-GEN">пичемарень</st>
       </stg>
     </lg>
     <mg>
@@ -35011,7 +34979,7 @@
       <l pos="A">пичень</l>
 
       <stg>
-        <st Contlex="A_">пичень</st>
+        <st Contlex="A-IS-GEN">пичень</st>
       </stg>
     </lg>
     <mg>
@@ -35128,7 +35096,7 @@
       <l pos="A">пластмассань</l>
 
       <stg>
-        <st Contlex="A_">пластмассань</st>
+        <st Contlex="A-IS-GEN">пластмассань</st>
       </stg>
     </lg>
     <mg>
@@ -35144,7 +35112,7 @@
       <l pos="A">платинань</l>
 
       <stg>
-        <st Contlex="A_">платинань</st>
+        <st Contlex="A-IS-GEN">платинань</st>
       </stg>
     </lg>
     <mg>
@@ -35160,7 +35128,7 @@
       <l pos="A">плащень</l>
 
       <stg>
-        <st Contlex="A_">плащень</st>
+        <st Contlex="A-IS-GEN">плащень</st>
       </stg>
     </lg>
     <mg>
@@ -35240,7 +35208,7 @@
       <l pos="A">плотниконь</l>
 
       <stg>
-        <st Contlex="A_">плотниконь</st>
+        <st Contlex="A-IS-GEN">плотниконь</st>
       </stg>
     </lg>
     <mg>
@@ -35368,7 +35336,7 @@
       <l pos="A">погань</l>
 
       <stg>
-        <st Contlex="A_">погань</st>
+        <st Contlex="A-IS-GEN">погань</st>
       </stg>
     </lg>
     <mg>
@@ -35469,7 +35437,7 @@
       <l pos="A">поймань</l>
 
       <stg>
-        <st Contlex="A_">поймань</st>
+        <st Contlex="A-IS-GEN">поймань</st>
       </stg>
     </lg>
     <mg>
@@ -35627,7 +35595,7 @@
       <l pos="A">поладонь</l>
 
       <stg>
-        <st Contlex="A_">поладонь</st>
+        <st Contlex="A-IS-GEN">поладонь</st>
       </stg>
     </lg>
     <mg>
@@ -35659,7 +35627,7 @@
       <l pos="A">полань</l>
 
       <stg>
-        <st Contlex="A_">полань</st>
+        <st Contlex="A-IS-GEN">полань</st>
       </stg>
     </lg>
     <mg>
@@ -36061,7 +36029,7 @@
       <l pos="A">помещиконь</l>
 
       <stg>
-        <st Contlex="A_">помещиконь</st>
+        <st Contlex="A-IS-GEN">помещиконь</st>
       </stg>
     </lg>
     <mg>
@@ -36077,7 +36045,7 @@
       <l pos="A">пона_сельгонь</l>
 
       <stg>
-        <st Contlex="A_">пона_сельгонь</st>
+        <st Contlex="A-IS-GEN">пона_сельгонь</st>
       </stg>
     </lg>
     <mg>
@@ -36114,7 +36082,7 @@
       <l pos="A">понань</l>
 
       <stg>
-        <st Contlex="A_">понань</st>
+        <st Contlex="A-IS-GEN">понань</st>
       </stg>
     </lg>
 
@@ -36191,7 +36159,7 @@
       <l pos="A">попонь</l>
 
       <stg>
-        <st Contlex="A_">попонь</st>
+        <st Contlex="A-IS-GEN">попонь</st>
       </stg>
     </lg>
     <mg>
@@ -36529,7 +36497,7 @@
       <l pos="A">почфонь</l>
 
       <stg>
-        <st Contlex="A_">почфонь</st>
+        <st Contlex="A-IS-GEN">почфонь</st>
       </stg>
     </lg>
 
@@ -36601,7 +36569,7 @@
       <l pos="A">поювонь</l>
 
       <stg>
-        <st Contlex="A_">поювонь</st>
+        <st Contlex="A-IS-GEN">поювонь</st>
       </stg>
     </lg>
     <mg>
@@ -36697,7 +36665,7 @@
       <l pos="A">праздниконь</l>
 
       <stg>
-        <st Contlex="A_">праздниконь</st>
+        <st Contlex="A-IS-GEN">праздниконь</st>
       </stg>
     </lg>
     <mg>
@@ -36713,7 +36681,7 @@
       <l pos="A">праздникшинь</l>
 
       <stg>
-        <st Contlex="A_">праздникшинь</st>
+        <st Contlex="A-IS-GEN">праздникшинь</st>
       </stg>
     </lg>
     <mg>
@@ -36905,7 +36873,7 @@
       <l pos="A">приискань</l>
 
       <stg>
-        <st Contlex="A_">приискань</st>
+        <st Contlex="A-IS-GEN">приискань</st>
       </stg>
     </lg>
     <mg>
@@ -37193,7 +37161,7 @@
       <l pos="A">прокстонь</l>
 
       <stg>
-        <st Contlex="A_">прокстонь</st>
+        <st Contlex="A-IS-GEN">прокстонь</st>
       </stg>
     </lg>
     <mg>
@@ -37225,7 +37193,7 @@
       <l pos="A">пролопонь</l>
 
       <stg>
-        <st Contlex="A_">пролопонь</st>
+        <st Contlex="A-IS-GEN">пролопонь</st>
       </stg>
     </lg>
     <mg>
@@ -37724,7 +37692,7 @@
       <l pos="A">пумагань</l>
 
       <stg>
-        <st Contlex="A_">пумагань</st>
+        <st Contlex="A-IS-GEN">пумагань</st>
       </stg>
     </lg>
     <mg>
@@ -37788,7 +37756,7 @@
       <l pos="A">пурдань</l>
 
       <stg>
-        <st Contlex="A_">пурдань</st>
+        <st Contlex="A-IS-GEN">пурдань</st>
       </stg>
     </lg>
     <mg>
@@ -37820,7 +37788,7 @@
       <l pos="A">пуронь</l>
 
       <stg>
-        <st Contlex="A_">пуронь</st>
+        <st Contlex="A-IS-GEN">пуронь</st>
       </stg>
     </lg>
     <mg>
@@ -38006,7 +37974,7 @@
       <l pos="A">пухонь</l>
 
       <stg>
-        <st Contlex="A_">пухонь</st>
+        <st Contlex="A-IS-GEN">пухонь</st>
       </stg>
     </lg>
     <mg>
@@ -38182,7 +38150,7 @@
       <l pos="A">пялеломань</l>
 
       <stg>
-        <st Contlex="A_">пялеломань</st>
+        <st Contlex="A-IS-GEN">пялеломань</st>
       </stg>
     </lg>
     <mg>
@@ -38506,7 +38474,7 @@
       <l pos="A">пяшень</l>
 
       <stg>
-        <st Contlex="A_">пяшень</st>
+        <st Contlex="A-IS-GEN">пяшень</st>
       </stg>
     </lg>
     <mg>
@@ -38603,7 +38571,7 @@
       <l pos="A">пяштень</l>
 
       <stg>
-        <st Contlex="A_">пяштень</st>
+        <st Contlex="A-IS-GEN">пяштень</st>
       </stg>
     </lg>
     <mg>
@@ -38889,7 +38857,7 @@
       <l pos="A">разбойниконь</l>
 
       <stg>
-        <st Contlex="A_">разбойниконь</st>
+        <st Contlex="A-IS-GEN">разбойниконь</st>
       </stg>
     </lg>
     <mg>
@@ -39102,7 +39070,7 @@
       <l pos="A">рахсемань</l>
 
       <stg>
-        <st Contlex="A_">рахсемань</st>
+        <st Contlex="A-IS-GEN">рахсемань</st>
       </stg>
     </lg>
     <mg>
@@ -39543,7 +39511,7 @@
       <l pos="A">решёткань</l>
 
       <stg>
-        <st Contlex="A_">решёткань</st>
+        <st Contlex="A-IS-GEN">решёткань</st>
       </stg>
     </lg>
     <mg>
@@ -39748,7 +39716,7 @@
       <l pos="A">розень</l>
 
       <stg>
-        <st Contlex="A_">розень</st>
+        <st Contlex="A-IS-GEN">розень</st>
       </stg>
     </lg>
     <mg>
@@ -39796,7 +39764,7 @@
       <l pos="A">розьпанчфонь</l>
 
       <stg>
-        <st Contlex="A_">розьпанчфонь</st>
+        <st Contlex="A-IS-GEN">розьпанчфонь</st>
       </stg>
     </lg>
     <mg>
@@ -39812,7 +39780,7 @@
       <l pos="A">ромашкань</l>
 
       <stg>
-        <st Contlex="A_">ромашкань</st>
+        <st Contlex="A-IS-GEN">ромашкань</st>
       </stg>
     </lg>
     <mg>
@@ -39860,7 +39828,7 @@
       <l pos="A">ротань</l>
 
       <stg>
-        <st Contlex="A_">ротань</st>
+        <st Contlex="A-IS-GEN">ротань</st>
       </stg>
     </lg>
     <mg>
@@ -39876,7 +39844,7 @@
       <l pos="A">роштувань</l>
 
       <stg>
-        <st Contlex="A_">роштувань</st>
+        <st Contlex="A-IS-GEN">роштувань</st>
       </stg>
     </lg>
     <mg>
@@ -39961,7 +39929,7 @@
       <l pos="A">руболень</l>
 
       <stg>
-        <st Contlex="A_">руболень</st>
+        <st Contlex="A-IS-GEN">руболень</st>
       </stg>
     </lg>
     <mg>
@@ -39977,7 +39945,7 @@
       <l pos="A">рудань</l>
 
       <stg>
-        <st Contlex="A_">рудань</st>
+        <st Contlex="A-IS-GEN">рудань</st>
       </stg>
     </lg>
     <mg>
@@ -40025,7 +39993,7 @@
       <l pos="A">рузавань</l>
 
       <stg>
-        <st Contlex="A_">рузавань</st>
+        <st Contlex="A-IS-GEN">рузавань</st>
       </stg>
     </lg>
     <mg>
@@ -40041,7 +40009,7 @@
       <l pos="A">рузонь</l>
 
       <stg>
-        <st Contlex="A_">рузонь</st>
+        <st Contlex="A-IS-GEN">рузонь</st>
       </stg>
     </lg>
     <mg>
@@ -40137,7 +40105,7 @@
       <l pos="A">рыбаконь</l>
 
       <stg>
-        <st Contlex="A_">рыбаконь</st>
+        <st Contlex="A-IS-GEN">рыбаконь</st>
       </stg>
     </lg>
     <mg>
@@ -40190,7 +40158,7 @@
       <l pos="A">рынкань</l>
 
       <stg>
-        <st Contlex="A_">рынкань</st>
+        <st Contlex="A-IS-GEN">рынкань</st>
       </stg>
     </lg>
     <mg>
@@ -40206,7 +40174,7 @@
       <l pos="A">рыцарень</l>
 
       <stg>
-        <st Contlex="A_">рыцарень</st>
+        <st Contlex="A-IS-GEN">рыцарень</st>
       </stg>
     </lg>
     <mg>
@@ -40437,7 +40405,7 @@
       <l pos="A">салавань</l>
 
       <stg>
-        <st Contlex="A_">салавань</st>
+        <st Contlex="A-IS-GEN">салавань</st>
       </stg>
     </lg>
     <mg>
@@ -40681,7 +40649,7 @@
       <l pos="A">санонь</l>
 
       <stg>
-        <st Contlex="A_">санонь</st>
+        <st Contlex="A-IS-GEN">санонь</st>
       </stg>
     </lg>
     <mg>
@@ -40755,7 +40723,7 @@
       <l pos="A">саразонь</l>
 
       <stg>
-        <st Contlex="A_">саразонь</st>
+        <st Contlex="A-IS-GEN">саразонь</st>
       </stg>
     </lg>
     <mg>
@@ -40787,7 +40755,7 @@
       <l pos="A">сардонянь</l>
 
       <stg>
-        <st Contlex="A_">сардонянь</st>
+        <st Contlex="A-IS-GEN">сардонянь</st>
       </stg>
     </lg>
     <mg>
@@ -40819,7 +40787,7 @@
       <l pos="A">сатинонь</l>
 
       <stg>
-        <st Contlex="A_">сатинонь</st>
+        <st Contlex="A-IS-GEN">сатинонь</st>
       </stg>
     </lg>
     <mg>
@@ -40917,7 +40885,7 @@
       <l pos="A">сафьянонь</l>
 
       <stg>
-        <st Contlex="A_">сафьянонь</st>
+        <st Contlex="A-IS-GEN">сафьянонь</st>
       </stg>
     </lg>
     <mg>
@@ -40981,7 +40949,7 @@
       <l pos="A">свадьбань</l>
 
       <stg>
-        <st Contlex="A_">свадьбань</st>
+        <st Contlex="A-IS-GEN">свадьбань</st>
       </stg>
     </lg>
     <mg>
@@ -41143,7 +41111,7 @@
       <l pos="A">седень</l>
 
       <stg>
-        <st Contlex="A_">седень</st>
+        <st Contlex="A-IS-GEN">седень</st>
       </stg>
     </lg>
     <mg>
@@ -41183,7 +41151,7 @@
       <l pos="A">седиваксстонь</l>
 
       <stg>
-        <st Contlex="A_">седиваксстонь</st>
+        <st Contlex="A-IS-GEN">седиваксстонь</st>
       </stg>
     </lg>
     <mg>
@@ -41231,7 +41199,7 @@
       <l pos="A">сединь-ваймонь</l>
 
       <stg>
-        <st Contlex="A_">сединь-ваймонь</st>
+        <st Contlex="A-IS-GEN">сединь-ваймонь</st>
       </stg>
     </lg>
     <mg>
@@ -41268,7 +41236,7 @@
       <l pos="A">седишкавань</l>
 
       <stg>
-        <st Contlex="A_">седишкавань</st>
+        <st Contlex="A-IS-GEN">седишкавань</st>
       </stg>
     </lg>
     <mg>
@@ -41300,7 +41268,7 @@
       <l pos="A">сеелень</l>
 
       <stg>
-        <st Contlex="A_">сеелень</st>
+        <st Contlex="A-IS-GEN">сеелень</st>
       </stg>
     </lg>
     <mg>
@@ -41545,7 +41513,7 @@
       <l pos="A">сендиень</l>
 
       <stg>
-        <st Contlex="A_">сендиень</st>
+        <st Contlex="A-IS-GEN">сендиень</st>
       </stg>
     </lg>
     <mg>
@@ -41667,7 +41635,7 @@
       <l pos="A">сентябрянь</l>
 
       <stg>
-        <st Contlex="A_">сентябрянь</st>
+        <st Contlex="A-IS-GEN">сентябрянь</st>
       </stg>
     </lg>
     <mg>
@@ -41715,7 +41683,7 @@
       <l pos="A">сень</l>
 
       <stg>
-        <st Contlex="A_">сень</st>
+        <st Contlex="A-IS-GEN">сень</st>
       </stg>
     </lg>
     <mg>
@@ -41784,7 +41752,7 @@
       <l pos="A">серень</l>
 
       <stg>
-        <st Contlex="A_">серень</st>
+        <st Contlex="A-IS-GEN">серень</st>
       </stg>
     </lg>
     <mg>
@@ -41800,7 +41768,7 @@
       <l pos="A">сержантонь</l>
 
       <stg>
-        <st Contlex="A_">сержантонь</st>
+        <st Contlex="A-IS-GEN">сержантонь</st>
       </stg>
     </lg>
     <mg>
@@ -41893,7 +41861,7 @@
       <l pos="A">серьмагонь</l>
 
       <stg>
-        <st Contlex="A_">серьмагонь</st>
+        <st Contlex="A-IS-GEN">серьмагонь</st>
       </stg>
     </lg>
     <mg>
@@ -41941,7 +41909,7 @@
       <l pos="A">сетень</l>
 
       <stg>
-        <st Contlex="A_">сетень</st>
+        <st Contlex="A-IS-GEN">сетень</st>
       </stg>
     </lg>
 
@@ -42026,7 +41994,7 @@
       <l pos="A">сиволень</l>
 
       <stg>
-        <st Contlex="A_">сиволень</st>
+        <st Contlex="A-IS-GEN">сиволень</st>
       </stg>
     </lg>
     <mg>
@@ -42225,7 +42193,7 @@
       <l pos="A">силосонь</l>
 
       <stg>
-        <st Contlex="A_">силосонь</st>
+        <st Contlex="A-IS-GEN">силосонь</st>
       </stg>
     </lg>
     <mg>
@@ -42482,7 +42450,7 @@
       <l pos="A">сиротань</l>
 
       <stg>
-        <st Contlex="A_">сиротань</st>
+        <st Contlex="A-IS-GEN">сиротань</st>
       </stg>
     </lg>
     <mg>
@@ -42567,7 +42535,7 @@
       <l pos="A">ситень</l>
 
       <stg>
-        <st Contlex="A_">ситень</st>
+        <st Contlex="A-IS-GEN">ситень</st>
       </stg>
     </lg>
     <mg>
@@ -42615,7 +42583,7 @@
       <l pos="A">сиянь</l>
 
       <stg>
-        <st Contlex="A_">сиянь</st>
+        <st Contlex="A-IS-GEN">сиянь</st>
       </stg>
     </lg>
     <mg>
@@ -42631,7 +42599,7 @@
       <l pos="A">сиянь-золотань</l>
 
       <stg>
-        <st Contlex="A_">сиянь-золотань</st>
+        <st Contlex="A-IS-GEN">сиянь-золотань</st>
       </stg>
     </lg>
     <mg>
@@ -42679,7 +42647,7 @@
       <l pos="A">скипидаронь</l>
 
       <stg>
-        <st Contlex="A_">скипидаронь</st>
+        <st Contlex="A-IS-GEN">скипидаронь</st>
       </stg>
     </lg>
     <mg>
@@ -42695,7 +42663,7 @@
       <l pos="A">скобань</l>
 
       <stg>
-        <st Contlex="A_">скобань</st>
+        <st Contlex="A-IS-GEN">скобань</st>
       </stg>
     </lg>
     <mg>
@@ -42818,7 +42786,7 @@
       <l pos="A">скульптурань</l>
 
       <stg>
-        <st Contlex="A_">скульптурань</st>
+        <st Contlex="A-IS-GEN">скульптурань</st>
       </stg>
     </lg>
     <mg>
@@ -42999,7 +42967,7 @@
       <l pos="A">сливань</l>
 
       <stg>
-        <st Contlex="A_">сливань</st>
+        <st Contlex="A-IS-GEN">сливань</st>
       </stg>
     </lg>
     <mg>
@@ -43031,7 +42999,7 @@
       <l pos="A">слононь</l>
 
       <stg>
-        <st Contlex="A_">слононь</st>
+        <st Contlex="A-IS-GEN">слононь</st>
       </stg>
     </lg>
     <mg>
@@ -43047,7 +43015,7 @@
       <l pos="A">службань</l>
 
       <stg>
-        <st Contlex="A_">службань</st>
+        <st Contlex="A-IS-GEN">службань</st>
       </stg>
     </lg>
     <mg>
@@ -43260,7 +43228,7 @@
       <l pos="A">снавонь</l>
 
       <stg>
-        <st Contlex="A_">снавонь</st>
+        <st Contlex="A-IS-GEN">снавонь</st>
       </stg>
     </lg>
     <mg>
@@ -43308,7 +43276,7 @@
       <l pos="A">соболень</l>
 
       <stg>
-        <st Contlex="A_">соболень</st>
+        <st Contlex="A-IS-GEN">соболень</st>
       </stg>
     </lg>
     <mg>
@@ -43518,7 +43486,7 @@
       <l pos="A">созякань</l>
 
       <stg>
-        <st Contlex="A_">созякань</st>
+        <st Contlex="A-IS-GEN">созякань</st>
       </stg>
     </lg>
     <mg>
@@ -43619,7 +43587,7 @@
       <l pos="A">соксонь</l>
 
       <stg>
-        <st Contlex="A_">соксонь</st>
+        <st Contlex="A-IS-GEN">соксонь</st>
       </stg>
     </lg>
     <mg>
@@ -43680,7 +43648,7 @@
       <l pos="A">соладонь</l>
 
       <stg>
-        <st Contlex="A_">соладонь</st>
+        <st Contlex="A-IS-GEN">соладонь</st>
       </stg>
     </lg>
     <mg>
@@ -43712,7 +43680,7 @@
       <l pos="A">солдатонь</l>
 
       <stg>
-        <st Contlex="A_">солдатонь</st>
+        <st Contlex="A-IS-GEN">солдатонь</st>
       </stg>
     </lg>
     <mg>
@@ -43773,7 +43741,7 @@
       <l pos="A">соронь</l>
 
       <stg>
-        <st Contlex="A_">соронь</st>
+        <st Contlex="A-IS-GEN">соронь</st>
       </stg>
     </lg>
     <mg>
@@ -43994,7 +43962,7 @@
       <l pos="A">спиртонь</l>
 
       <stg>
-        <st Contlex="A_">спиртонь</st>
+        <st Contlex="A-IS-GEN">спиртонь</st>
       </stg>
     </lg>
     <mg>
@@ -44219,7 +44187,7 @@
       <l pos="A">стакшинь</l>
 
       <stg>
-        <st Contlex="A_">стакшинь</st>
+        <st Contlex="A-IS-GEN">стакшинь</st>
       </stg>
     </lg>
     <mg>
@@ -44235,7 +44203,7 @@
       <l pos="A">сталень</l>
 
       <stg>
-        <st Contlex="A_">сталень</st>
+        <st Contlex="A-IS-GEN">сталень</st>
       </stg>
     </lg>
     <mg>
@@ -44333,7 +44301,7 @@
       <l pos="A">стандартонь</l>
 
       <stg>
-        <st Contlex="A_">стандартонь</st>
+        <st Contlex="A-IS-GEN">стандартонь</st>
       </stg>
     </lg>
     <mg>
@@ -44365,7 +44333,7 @@
       <l pos="A">станциянь</l>
 
       <stg>
-        <st Contlex="A_">станциянь</st>
+        <st Contlex="A-IS-GEN">станциянь</st>
       </stg>
     </lg>
     <mg>
@@ -44477,7 +44445,7 @@
       <l pos="A">стенастонь</l>
 
       <stg>
-        <st Contlex="A_">стенастонь</st>
+        <st Contlex="A-IS-GEN">стенастонь</st>
       </stg>
     </lg>
     <mg>
@@ -44541,7 +44509,7 @@
       <l pos="A">степонь</l>
 
       <stg>
-        <st Contlex="A_">степонь</st>
+        <st Contlex="A-IS-GEN">степонь</st>
       </stg>
     </lg>
     <mg>
@@ -44621,7 +44589,7 @@
       <l pos="A">стирень</l>
 
       <stg>
-        <st Contlex="A_">стирень</st>
+        <st Contlex="A-IS-GEN">стирень</st>
       </stg>
     </lg>
     <mg>
@@ -44637,7 +44605,7 @@
       <l pos="A">стирьшабань</l>
 
       <stg>
-        <st Contlex="A_">стирьшабань</st>
+        <st Contlex="A-IS-GEN">стирьшабань</st>
       </stg>
     </lg>
     <mg>
@@ -44802,7 +44770,7 @@
       <l pos="A">страусонь</l>
 
       <stg>
-        <st Contlex="A_">страусонь</st>
+        <st Contlex="A-IS-GEN">страусонь</st>
       </stg>
     </lg>
     <mg>
@@ -44978,7 +44946,7 @@
       <l pos="A">студентонь</l>
 
       <stg>
-        <st Contlex="A_">студентонь</st>
+        <st Contlex="A-IS-GEN">студентонь</st>
       </stg>
     </lg>
     <mg>
@@ -45010,7 +44978,7 @@
       <l pos="A">стядозень</l>
 
       <stg>
-        <st Contlex="A_">стядозень</st>
+        <st Contlex="A-IS-GEN">стядозень</st>
       </stg>
     </lg>
     <mg>
@@ -45106,7 +45074,7 @@
       <l pos="A">сувамань</l>
 
       <stg>
-        <st Contlex="A_">сувамань</st>
+        <st Contlex="A-IS-GEN">сувамань</st>
       </stg>
     </lg>
     <mg>
@@ -45138,7 +45106,7 @@
       <l pos="A">сувозинь</l>
 
       <stg>
-        <st Contlex="A_">сувозинь</st>
+        <st Contlex="A-IS-GEN">сувозинь</st>
       </stg>
     </lg>
     <mg>
@@ -45218,7 +45186,7 @@
       <l pos="A">сузинь</l>
 
       <stg>
-        <st Contlex="A_">сузинь</st>
+        <st Contlex="A-IS-GEN">сузинь</st>
       </stg>
     </lg>
     <mg>
@@ -45364,7 +45332,7 @@
       <l pos="A">сукнань</l>
 
       <stg>
-        <st Contlex="A_">сукнань</st>
+        <st Contlex="A-IS-GEN">сукнань</st>
       </stg>
     </lg>
     <mg>
@@ -45593,7 +45561,7 @@
       <l pos="A">суронь</l>
 
       <stg>
-        <st Contlex="A_">суронь</st>
+        <st Contlex="A-IS-GEN">суронь</st>
       </stg>
     </lg>
     <mg>
@@ -46040,7 +46008,7 @@
       <l pos="A">сюронь</l>
 
       <stg>
-        <st Contlex="A_">сюронь</st>
+        <st Contlex="A-IS-GEN">сюронь</st>
       </stg>
     </lg>
     <mg>
@@ -46141,7 +46109,7 @@
       <l pos="A">сюцемань-похерямань</l>
 
       <stg>
-        <st Contlex="A_">сюцемань-похерямань</st>
+        <st Contlex="A-IS-GEN">сюцемань-похерямань</st>
       </stg>
     </lg>
     <mg>
@@ -46173,7 +46141,7 @@
       <l pos="A">сявань</l>
 
       <stg>
-        <st Contlex="A_">сявань</st>
+        <st Contlex="A-IS-GEN">сявань</st>
       </stg>
     </lg>
     <mg>
@@ -46237,7 +46205,7 @@
       <l pos="A">сядонгольдень</l>
 
       <stg>
-        <st Contlex="A_">сядонгольдень</st>
+        <st Contlex="A-IS-GEN">сядонгольдень</st>
       </stg>
     </lg>
 
@@ -46261,7 +46229,7 @@
       <l pos="A">сядынгольдень</l>
 
       <stg>
-        <st Contlex="A_">сядынгольдень</st>
+        <st Contlex="A-IS-GEN">сядынгольдень</st>
       </stg>
     </lg>
     <mg>
@@ -46293,7 +46261,7 @@
       <l pos="A">сязьгатань</l>
 
       <stg>
-        <st Contlex="A_">сязьгатань</st>
+        <st Contlex="A-IS-GEN">сязьгатань</st>
       </stg>
     </lg>
     <mg>
@@ -46495,7 +46463,7 @@
       <l pos="A">сяправдувонь</l>
 
       <stg>
-        <st Contlex="A_">сяправдувонь</st>
+        <st Contlex="A-IS-GEN">сяправдувонь</st>
       </stg>
     </lg>
     <mg>
@@ -46543,7 +46511,7 @@
       <l pos="A">сярдонь</l>
 
       <stg>
-        <st Contlex="A_">сярдонь</st>
+        <st Contlex="A-IS-GEN">сярдонь</st>
       </stg>
     </lg>
     <mg>
@@ -46683,7 +46651,7 @@
       <l pos="A">сёвонень</l>
 
       <stg>
-        <st Contlex="A_">сёвонень</st>
+        <st Contlex="A-IS-GEN">сёвонень</st>
       </stg>
     </lg>
     <mg>
@@ -46720,7 +46688,7 @@
       <l pos="A">сёксень</l>
 
       <stg>
-        <st Contlex="A_">сёксень</st>
+        <st Contlex="A-IS-GEN">сёксень</st>
       </stg>
     </lg>
     <mg>
@@ -46736,7 +46704,7 @@
       <l pos="A">сёксень-тялонь</l>
 
       <stg>
-        <st Contlex="A_">сёксень-тялонь</st>
+        <st Contlex="A-IS-GEN">сёксень-тялонь</st>
       </stg>
     </lg>
     <mg>
@@ -46768,7 +46736,7 @@
       <l pos="A">сёркань</l>
 
       <stg>
-        <st Contlex="A_">сёркань</st>
+        <st Contlex="A-IS-GEN">сёркань</st>
       </stg>
     </lg>
     <mg>
@@ -46821,7 +46789,7 @@
       <l pos="A">сёронь</l>
 
       <stg>
-        <st Contlex="A_">сёронь</st>
+        <st Contlex="A-IS-GEN">сёронь</st>
       </stg>
     </lg>
     <mg>
@@ -46980,7 +46948,7 @@
       <l pos="A">тайгань</l>
 
       <stg>
-        <st Contlex="A_">тайгань</st>
+        <st Contlex="A-IS-GEN">тайгань</st>
       </stg>
     </lg>
     <mg>
@@ -47276,7 +47244,7 @@
       <l pos="A">тапонь</l>
 
       <stg>
-        <st Contlex="A_">тапонь</st>
+        <st Contlex="A-IS-GEN">тапонь</st>
       </stg>
     </lg>
     <mg>
@@ -47433,7 +47401,7 @@
       <l pos="A">татаронь</l>
 
       <stg>
-        <st Contlex="A_">татаронь</st>
+        <st Contlex="A-IS-GEN">татаронь</st>
       </stg>
     </lg>
     <mg>
@@ -47582,7 +47550,7 @@
       <l pos="A">тевлавонь</l>
 
       <stg>
-        <st Contlex="A_">тевлавонь</st>
+        <st Contlex="A-IS-GEN">тевлавонь</st>
       </stg>
     </lg>
     <mg>
@@ -47691,7 +47659,7 @@
       <l pos="A">телефононь</l>
 
       <stg>
-        <st Contlex="A_">телефононь</st>
+        <st Contlex="A-IS-GEN">телефононь</st>
       </stg>
     </lg>
     <mg>
@@ -47771,7 +47739,7 @@
       <l pos="A">терликонь</l>
 
       <stg>
-        <st Contlex="A_">терликонь</st>
+        <st Contlex="A-IS-GEN">терликонь</st>
       </stg>
     </lg>
     <mg>
@@ -47824,7 +47792,7 @@
       <l pos="A">тетьконь</l>
 
       <stg>
-        <st Contlex="A_">тетьконь</st>
+        <st Contlex="A-IS-GEN">тетьконь</st>
       </stg>
     </lg>
     <mg>
@@ -47888,7 +47856,7 @@
       <l pos="A">тигрань</l>
 
       <stg>
-        <st Contlex="A_">тигрань</st>
+        <st Contlex="A-IS-GEN">тигрань</st>
       </stg>
     </lg>
     <mg>
@@ -47904,7 +47872,7 @@
       <l pos="A">тиклань</l>
 
       <stg>
-        <st Contlex="A_">тиклань</st>
+        <st Contlex="A-IS-GEN">тиклань</st>
       </stg>
     </lg>
     <mg>
@@ -47920,7 +47888,7 @@
       <l pos="A">тингонь</l>
 
       <stg>
-        <st Contlex="A_">тингонь</st>
+        <st Contlex="A-IS-GEN">тингонь</st>
       </stg>
     </lg>
     <mg>
@@ -48064,7 +48032,7 @@
       <l pos="A">тифтень-кърдань</l>
 
       <stg>
-        <st Contlex="A_">тифтень-кърдань</st>
+        <st Contlex="A-IS-GEN">тифтень-кърдань</st>
       </stg>
     </lg>
     <mg>
@@ -48096,7 +48064,7 @@
       <l pos="A">тишень</l>
 
       <stg>
-        <st Contlex="A_">тишень</st>
+        <st Contlex="A-IS-GEN">тишень</st>
       </stg>
     </lg>
     <mg>
@@ -48144,7 +48112,7 @@
       <l pos="A">тналонь</l>
 
       <stg>
-        <st Contlex="A_">тналонь</st>
+        <st Contlex="A-IS-GEN">тналонь</st>
       </stg>
     </lg>
     <mg>
@@ -48176,7 +48144,7 @@
       <l pos="A">тнярдонь</l>
 
       <stg>
-        <st Contlex="A_">тнярдонь</st>
+        <st Contlex="A-IS-GEN">тнярдонь</st>
       </stg>
     </lg>
     <mg>
@@ -48192,7 +48160,7 @@
       <l pos="A">тнярстонь</l>
 
       <stg>
-        <st Contlex="A_">тнярстонь</st>
+        <st Contlex="A-IS-GEN">тнярстонь</st>
       </stg>
     </lg>
     <mg>
@@ -48301,7 +48269,7 @@
       <l pos="A">товолдонь</l>
 
       <stg>
-        <st Contlex="A_">товолдонь</st>
+        <st Contlex="A-IS-GEN">товолдонь</st>
       </stg>
     </lg>
     <mg>
@@ -48349,7 +48317,7 @@
       <l pos="A">тозеронь</l>
 
       <stg>
-        <st Contlex="A_">тозеронь</st>
+        <st Contlex="A-IS-GEN">тозеронь</st>
       </stg>
     </lg>
     <mg>
@@ -48466,7 +48434,7 @@
       <l pos="A">толнарфонь</l>
 
       <stg>
-        <st Contlex="A_">толнарфонь</st>
+        <st Contlex="A-IS-GEN">толнарфонь</st>
       </stg>
     </lg>
     <mg>
@@ -48482,7 +48450,7 @@
       <l pos="A">толонь</l>
 
       <stg>
-        <st Contlex="A_">толонь</st>
+        <st Contlex="A-IS-GEN">толонь</st>
       </stg>
     </lg>
     <mg>
@@ -48596,7 +48564,7 @@
       <l pos="A">тонашинь</l>
 
       <stg>
-        <st Contlex="A_">тонашинь</st>
+        <st Contlex="A-IS-GEN">тонашинь</st>
       </stg>
     </lg>
     <mg>
@@ -48612,7 +48580,7 @@
       <l pos="A">тонаширдень</l>
 
       <stg>
-        <st Contlex="A_">тонаширдень</st>
+        <st Contlex="A-IS-GEN">тонаширдень</st>
       </stg>
     </lg>
     <mg>
@@ -48748,7 +48716,7 @@
       <l pos="A">тополень</l>
 
       <stg>
-        <st Contlex="A_">тополень</st>
+        <st Contlex="A-IS-GEN">тополень</st>
       </stg>
     </lg>
     <mg>
@@ -48796,7 +48764,7 @@
       <l pos="A">торгашань</l>
 
       <stg>
-        <st Contlex="A_">торгашань</st>
+        <st Contlex="A-IS-GEN">торгашань</st>
       </stg>
     </lg>
     <mg>
@@ -48865,7 +48833,7 @@
       <l pos="A">торлань</l>
 
       <stg>
-        <st Contlex="A_">торлань</st>
+        <st Contlex="A-IS-GEN">торлань</st>
       </stg>
     </lg>
     <mg>
@@ -48897,7 +48865,7 @@
       <l pos="A">торфонь</l>
 
       <stg>
-        <st Contlex="A_">торфонь</st>
+        <st Contlex="A-IS-GEN">торфонь</st>
       </stg>
     </lg>
     <mg>
@@ -48934,7 +48902,7 @@
       <l pos="A">тостонь</l>
 
       <stg>
-        <st Contlex="A_">тостонь</st>
+        <st Contlex="A-IS-GEN">тостонь</st>
       </stg>
     </lg>
     <mg>
@@ -49072,7 +49040,7 @@
       <l pos="A">траксонь</l>
 
       <stg>
-        <st Contlex="A_">траксонь</st>
+        <st Contlex="A-IS-GEN">траксонь</st>
       </stg>
     </lg>
     <mg>
@@ -49104,7 +49072,7 @@
       <l pos="A">тракторонь</l>
 
       <stg>
-        <st Contlex="A_">тракторонь</st>
+        <st Contlex="A-IS-GEN">тракторонь</st>
       </stg>
     </lg>
     <mg>
@@ -49328,7 +49296,7 @@
       <l pos="A">троллейбусонь</l>
 
       <stg>
-        <st Contlex="A_">троллейбусонь</st>
+        <st Contlex="A-IS-GEN">троллейбусонь</st>
       </stg>
     </lg>
     <mg>
@@ -49392,7 +49360,7 @@
       <l pos="A">трубань</l>
 
       <stg>
-        <st Contlex="A_">трубань</st>
+        <st Contlex="A-IS-GEN">трубань</st>
       </stg>
     </lg>
     <mg>
@@ -49424,7 +49392,7 @@
       <l pos="A">трянь</l>
 
       <stg>
-        <st Contlex="A_">трянь</st>
+        <st Contlex="A-IS-GEN">трянь</st>
       </stg>
     </lg>
     <mg>
@@ -49440,7 +49408,7 @@
       <l pos="A">тряпкань</l>
 
       <stg>
-        <st Contlex="A_">тряпкань</st>
+        <st Contlex="A-IS-GEN">тряпкань</st>
       </stg>
     </lg>
     <mg>
@@ -49536,7 +49504,7 @@
       <l pos="A">трёшниконь</l>
 
       <stg>
-        <st Contlex="A_">трёшниконь</st>
+        <st Contlex="A-IS-GEN">трёшниконь</st>
       </stg>
     </lg>
     <mg>
@@ -49568,7 +49536,7 @@
       <l pos="A">тувонь</l>
 
       <stg>
-        <st Contlex="A_">тувонь</st>
+        <st Contlex="A-IS-GEN">тувонь</st>
       </stg>
     </lg>
     <mg>
@@ -49664,7 +49632,7 @@
       <l pos="A">тумонь</l>
 
       <stg>
-        <st Contlex="A_">тумонь</st>
+        <st Contlex="A-IS-GEN">тумонь</st>
       </stg>
     </lg>
     <mg>
@@ -49696,7 +49664,7 @@
       <l pos="A">тундань</l>
 
       <stg>
-        <st Contlex="A_">тундань</st>
+        <st Contlex="A-IS-GEN">тундань</st>
       </stg>
     </lg>
     <mg>
@@ -49744,7 +49712,7 @@
       <l pos="A">турбинань</l>
 
       <stg>
-        <st Contlex="A_">турбинань</st>
+        <st Contlex="A-IS-GEN">турбинань</st>
       </stg>
     </lg>
     <mg>
@@ -49808,7 +49776,7 @@
       <l pos="A">туристонь</l>
 
       <stg>
-        <st Contlex="A_">туристонь</st>
+        <st Contlex="A-IS-GEN">туристонь</st>
       </stg>
     </lg>
     <mg>
@@ -49969,7 +49937,7 @@
       <l pos="A">туткотксонь</l>
 
       <stg>
-        <st Contlex="A_">туткотксонь</st>
+        <st Contlex="A-IS-GEN">туткотксонь</st>
       </stg>
     </lg>
     <mg>
@@ -50038,7 +50006,7 @@
       <l pos="A">тървастонь</l>
 
       <stg>
-        <st Contlex="A_">тървастонь</st>
+        <st Contlex="A-IS-GEN">тървастонь</st>
       </stg>
     </lg>
     <mg>
@@ -50070,7 +50038,7 @@
       <l pos="A">тыквань</l>
 
       <stg>
-        <st Contlex="A_">тыквань</st>
+        <st Contlex="A-IS-GEN">тыквань</st>
       </stg>
     </lg>
     <mg>
@@ -50102,7 +50070,7 @@
       <l pos="A">тылонь</l>
 
       <stg>
-        <st Contlex="A_">тылонь</st>
+        <st Contlex="A-IS-GEN">тылонь</st>
       </stg>
     </lg>
     <mg>
@@ -50293,7 +50261,7 @@
       <l pos="A">тюштянь</l>
 
       <stg>
-        <st Contlex="A_">тюштянь</st>
+        <st Contlex="A-IS-GEN">тюштянь</st>
       </stg>
     </lg>
     <mg>
@@ -50309,7 +50277,7 @@
       <l pos="A">тяддень</l>
 
       <stg>
-        <st Contlex="A_">тяддень</st>
+        <st Contlex="A-IS-GEN">тяддень</st>
       </stg>
     </lg>
     <mg>
@@ -50357,7 +50325,7 @@
       <l pos="A">тядингельдень</l>
 
       <stg>
-        <st Contlex="A_">тядингельдень</st>
+        <st Contlex="A-IS-GEN">тядингельдень</st>
       </stg>
     </lg>
     <mg>
@@ -50373,7 +50341,7 @@
       <l pos="A">тядянь</l>
 
       <stg>
-        <st Contlex="A_">тядянь</st>
+        <st Contlex="A-IS-GEN">тядянь</st>
       </stg>
     </lg>
     <mg>
@@ -50389,7 +50357,7 @@
       <l pos="A">тядянь-авань</l>
 
       <stg>
-        <st Contlex="A_">тядянь-авань</st>
+        <st Contlex="A-IS-GEN">тядянь-авань</st>
       </stg>
     </lg>
     <mg>
@@ -50405,7 +50373,7 @@
       <l pos="A">тядянь-алянь</l>
 
       <stg>
-        <st Contlex="A_">тядянь-алянь</st>
+        <st Contlex="A-IS-GEN">тядянь-алянь</st>
       </stg>
     </lg>
     <mg>
@@ -50437,7 +50405,7 @@
       <l pos="A">тязконь</l>
 
       <stg>
-        <st Contlex="A_">тязконь</st>
+        <st Contlex="A-IS-GEN">тязконь</st>
       </stg>
     </lg>
     <mg>
@@ -50574,7 +50542,7 @@
       <l pos="A">тялонь</l>
 
       <stg>
-        <st Contlex="A_">тялонь</st>
+        <st Contlex="A-IS-GEN">тялонь</st>
       </stg>
     </lg>
     <mg>
@@ -50606,7 +50574,7 @@
       <l pos="A">тяниень</l>
 
       <stg>
-        <st Contlex="A_">тяниень</st>
+        <st Contlex="A-IS-GEN">тяниень</st>
       </stg>
     </lg>
     <mg>
@@ -50670,7 +50638,7 @@
       <l pos="A">тярянь</l>
 
       <stg>
-        <st Contlex="A_">тярянь</st>
+        <st Contlex="A-IS-GEN">тярянь</st>
       </stg>
     </lg>
     <mg>
@@ -50686,7 +50654,7 @@
       <l pos="A">тярянь-алянь</l>
 
       <stg>
-        <st Contlex="A_">тярянь-алянь</st>
+        <st Contlex="A-IS-GEN">тярянь-алянь</st>
       </stg>
     </lg>
     <mg>
@@ -50718,7 +50686,7 @@
       <l pos="A">тястоконь</l>
 
       <stg>
-        <st Contlex="A_">тястоконь</st>
+        <st Contlex="A-IS-GEN">тястоконь</st>
       </stg>
     </lg>
 
@@ -50758,7 +50726,7 @@
       <l pos="A">тястонь</l>
 
       <stg>
-        <st Contlex="A_">тястонь</st>
+        <st Contlex="A-IS-GEN">тястонь</st>
       </stg>
     </lg>
     <mg>
@@ -50790,7 +50758,7 @@
       <l pos="A">тячиень</l>
 
       <stg>
-        <st Contlex="A_">тячиень</st>
+        <st Contlex="A-IS-GEN">тячиень</st>
       </stg>
     </lg>
     <mg>
@@ -50822,7 +50790,7 @@
       <l pos="A">тяштень</l>
 
       <stg>
-        <st Contlex="A_">тяштень</st>
+        <st Contlex="A-IS-GEN">тяштень</st>
       </stg>
     </lg>
     <mg>
@@ -50960,7 +50928,7 @@
       <l pos="A">тёсонь</l>
 
       <stg>
-        <st Contlex="A_">тёсонь</st>
+        <st Contlex="A-IS-GEN">тёсонь</st>
       </stg>
     </lg>
     <mg>
@@ -51253,7 +51221,7 @@
       <l pos="A">удомань</l>
 
       <stg>
-        <st Contlex="A_">удомань</st>
+        <st Contlex="A-IS-GEN">удомань</st>
       </stg>
     </lg>
     <mg>
@@ -51306,7 +51274,7 @@
       <l pos="A">уездонь</l>
 
       <stg>
-        <st Contlex="A_">уездонь</st>
+        <st Contlex="A-IS-GEN">уездонь</st>
       </stg>
     </lg>
     <mg>
@@ -51487,7 +51455,7 @@
       <l pos="A">укладонь</l>
 
       <stg>
-        <st Contlex="A_">укладонь</st>
+        <st Contlex="A-IS-GEN">укладонь</st>
       </stg>
     </lg>
     <mg>
@@ -51535,7 +51503,7 @@
       <l pos="A">уксусонь</l>
 
       <stg>
-        <st Contlex="A_">уксусонь</st>
+        <st Contlex="A-IS-GEN">уксусонь</st>
       </stg>
     </lg>
     <mg>
@@ -51636,7 +51604,7 @@
       <l pos="A">ульцянь</l>
 
       <stg>
-        <st Contlex="A_">ульцянь</st>
+        <st Contlex="A-IS-GEN">ульцянь</st>
       </stg>
     </lg>
     <mg>
@@ -51684,7 +51652,7 @@
       <l pos="A">умбравонь</l>
 
       <stg>
-        <st Contlex="A_">умбравонь</st>
+        <st Contlex="A-IS-GEN">умбравонь</st>
       </stg>
     </lg>
     <mg>
@@ -52133,7 +52101,7 @@
       <l pos="A">утань</l>
 
       <stg>
-        <st Contlex="A_">утань</st>
+        <st Contlex="A-IS-GEN">утань</st>
       </stg>
     </lg>
     <mg>
@@ -52165,7 +52133,7 @@
       <l pos="A">утомонь</l>
 
       <stg>
-        <st Contlex="A_">утомонь</st>
+        <st Contlex="A-IS-GEN">утомонь</st>
       </stg>
     </lg>
     <mg>
@@ -52274,7 +52242,7 @@
       <l pos="A">учань</l>
 
       <stg>
-        <st Contlex="A_">учань</st>
+        <st Contlex="A-IS-GEN">учань</st>
       </stg>
     </lg>
     <mg>
@@ -52322,7 +52290,7 @@
       <l pos="A">учениконь</l>
 
       <stg>
-        <st Contlex="A_">учениконь</st>
+        <st Contlex="A-IS-GEN">учениконь</st>
       </stg>
     </lg>
     <mg>
@@ -52354,7 +52322,7 @@
       <l pos="A">учень</l>
 
       <stg>
-        <st Contlex="A_">учень</st>
+        <st Contlex="A-IS-GEN">учень</st>
       </stg>
     </lg>
     <mg>
@@ -52455,7 +52423,7 @@
       <l pos="A">ушторонь</l>
 
       <stg>
-        <st Contlex="A_">ушторонь</st>
+        <st Contlex="A-IS-GEN">ушторонь</st>
       </stg>
     </lg>
     <mg>
@@ -52519,7 +52487,7 @@
       <l pos="A">фазанонь</l>
 
       <stg>
-        <st Contlex="A_">фазанонь</st>
+        <st Contlex="A-IS-GEN">фазанонь</st>
       </stg>
     </lg>
     <mg>
@@ -52615,7 +52583,7 @@
       <l pos="A">фанерань</l>
 
       <stg>
-        <st Contlex="A_">фанерань</st>
+        <st Contlex="A-IS-GEN">фанерань</st>
       </stg>
     </lg>
     <mg>
@@ -52695,7 +52663,7 @@
       <l pos="A">фасолень</l>
 
       <stg>
-        <st Contlex="A_">фасолень</st>
+        <st Contlex="A-IS-GEN">фасолень</st>
       </stg>
     </lg>
     <mg>
@@ -52743,7 +52711,7 @@
       <l pos="A">февралень</l>
 
       <stg>
-        <st Contlex="A_">февралень</st>
+        <st Contlex="A-IS-GEN">февралень</st>
       </stg>
     </lg>
     <mg>
@@ -52855,7 +52823,7 @@
       <l pos="A">фиалкань</l>
 
       <stg>
-        <st Contlex="A_">фиалкань</st>
+        <st Contlex="A-IS-GEN">фиалкань</st>
       </stg>
     </lg>
     <mg>
@@ -52951,7 +52919,7 @@
       <l pos="A">физкультурниконь</l>
 
       <stg>
-        <st Contlex="A_">физкультурниконь</st>
+        <st Contlex="A-IS-GEN">физкультурниконь</st>
       </stg>
     </lg>
     <mg>
@@ -53444,7 +53412,7 @@
       <l pos="A">фосфоронь</l>
 
       <stg>
-        <st Contlex="A_">фосфоронь</st>
+        <st Contlex="A-IS-GEN">фосфоронь</st>
       </stg>
     </lg>
     <mg>
@@ -53588,7 +53556,7 @@
       <l pos="A">фронтонь</l>
 
       <stg>
-        <st Contlex="A_">фронтонь</st>
+        <st Contlex="A-IS-GEN">фронтонь</st>
       </stg>
     </lg>
     <mg>
@@ -53604,7 +53572,7 @@
       <l pos="A">фруктань</l>
 
       <stg>
-        <st Contlex="A_">фруктань</st>
+        <st Contlex="A-IS-GEN">фруктань</st>
       </stg>
     </lg>
     <mg>
@@ -53652,7 +53620,7 @@
       <l pos="A">фталпяльдень</l>
 
       <stg>
-        <st Contlex="A_">фталпяльдень</st>
+        <st Contlex="A-IS-GEN">фталпяльдень</st>
       </stg>
     </lg>
     <mg>
@@ -53700,7 +53668,7 @@
       <l pos="A">фтингордань</l>
 
       <stg>
-        <st Contlex="A_">фтингордань</st>
+        <st Contlex="A-IS-GEN">фтингордань</st>
       </stg>
     </lg>
     <mg>
@@ -53748,7 +53716,7 @@
       <l pos="A">футболонь</l>
 
       <stg>
-        <st Contlex="A_">футболонь</st>
+        <st Contlex="A-IS-GEN">футболонь</st>
       </stg>
     </lg>
     <mg>
@@ -53971,7 +53939,7 @@
       <l pos="A">хозяйствань</l>
 
       <stg>
-        <st Contlex="A_">хозяйствань</st>
+        <st Contlex="A-IS-GEN">хозяйствань</st>
       </stg>
     </lg>
     <mg>
@@ -54163,7 +54131,7 @@
       <l pos="A">хрусталень</l>
 
       <stg>
-        <st Contlex="A_">хрусталень</st>
+        <st Contlex="A-IS-GEN">хрусталень</st>
       </stg>
     </lg>
     <mg>
@@ -54216,7 +54184,7 @@
       <l pos="A">хулиганонь</l>
 
       <stg>
-        <st Contlex="A_">хулиганонь</st>
+        <st Contlex="A-IS-GEN">хулиганонь</st>
       </stg>
     </lg>
     <mg>
@@ -54248,7 +54216,7 @@
       <l pos="A">цалковаень</l>
 
       <stg>
-        <st Contlex="A_">цалковаень</st>
+        <st Contlex="A-IS-GEN">цалковаень</st>
       </stg>
     </lg>
     <mg>
@@ -54602,7 +54570,7 @@
       <l pos="A">церькавонь</l>
 
       <stg>
-        <st Contlex="A_">церькавонь</st>
+        <st Contlex="A-IS-GEN">церькавонь</st>
       </stg>
     </lg>
     <mg>
@@ -54618,7 +54586,7 @@
       <l pos="A">церькунь</l>
 
       <stg>
-        <st Contlex="A_">церькунь</st>
+        <st Contlex="A-IS-GEN">церькунь</st>
       </stg>
     </lg>
     <mg>
@@ -54794,7 +54762,7 @@
       <l pos="A">цыганонь</l>
 
       <stg>
-        <st Contlex="A_">цыганонь</st>
+        <st Contlex="A-IS-GEN">цыганонь</st>
       </stg>
     </lg>
     <mg>
@@ -54826,7 +54794,7 @@
       <l pos="A">цюлкань</l>
 
       <stg>
-        <st Contlex="A_">цюлкань</st>
+        <st Contlex="A-IS-GEN">цюлкань</st>
       </stg>
     </lg>
     <mg>
@@ -54970,7 +54938,7 @@
       <l pos="A">цятконь</l>
 
       <stg>
-        <st Contlex="A_">цятконь</st>
+        <st Contlex="A-IS-GEN">цятконь</st>
       </stg>
     </lg>
     <mg>
@@ -55018,7 +54986,7 @@
       <l pos="A">цяцянь</l>
 
       <stg>
-        <st Contlex="A_">цяцянь</st>
+        <st Contlex="A-IS-GEN">цяцянь</st>
       </stg>
     </lg>
     <mg>
@@ -55103,7 +55071,7 @@
       <l pos="A">цёрашабань</l>
 
       <stg>
-        <st Contlex="A_">цёрашабань</st>
+        <st Contlex="A-IS-GEN">цёрашабань</st>
       </stg>
     </lg>
     <mg>
@@ -55119,7 +55087,7 @@
       <l pos="A">цёфксонь</l>
 
       <stg>
-        <st Contlex="A_">цёфксонь</st>
+        <st Contlex="A-IS-GEN">цёфксонь</st>
       </stg>
     </lg>
     <mg>
@@ -55210,7 +55178,7 @@
       <l pos="A">частниконь</l>
 
       <stg>
-        <st Contlex="A_">частниконь</st>
+        <st Contlex="A-IS-GEN">частниконь</st>
       </stg>
     </lg>
     <mg>
@@ -55306,7 +55274,7 @@
       <l pos="A">чвань</l>
 
       <stg>
-        <st Contlex="A_">чвань</st>
+        <st Contlex="A-IS-GEN">чвань</st>
       </stg>
     </lg>
     <mg>
@@ -55322,7 +55290,7 @@
       <l pos="A">черникань</l>
 
       <stg>
-        <st Contlex="A_">черникань</st>
+        <st Contlex="A-IS-GEN">черникань</st>
       </stg>
     </lg>
     <mg>
@@ -55338,7 +55306,7 @@
       <l pos="A">чернилань</l>
 
       <stg>
-        <st Contlex="A_">чернилань</st>
+        <st Contlex="A-IS-GEN">чернилань</st>
       </stg>
     </lg>
     <mg>
@@ -55455,7 +55423,7 @@
       <l pos="A">чивгонь</l>
 
       <stg>
-        <st Contlex="A_">чивгонь</st>
+        <st Contlex="A-IS-GEN">чивгонь</st>
       </stg>
     </lg>
     <mg>
@@ -55748,7 +55716,7 @@
       <l pos="A">чёфксонь</l>
 
       <stg>
-        <st Contlex="A_">чёфксонь</st>
+        <st Contlex="A-IS-GEN">чёфксонь</st>
       </stg>
     </lg>
     <mg>
@@ -55828,7 +55796,7 @@
       <l pos="A">шабрань</l>
 
       <stg>
-        <st Contlex="A_">шабрань</st>
+        <st Contlex="A-IS-GEN">шабрань</st>
       </stg>
     </lg>
     <mg>
@@ -55961,7 +55929,7 @@
       <l pos="A">шавшинь</l>
 
       <stg>
-        <st Contlex="A_">шавшинь</st>
+        <st Contlex="A-IS-GEN">шавшинь</st>
       </stg>
     </lg>
     <mg>
@@ -55977,7 +55945,7 @@
       <l pos="A">шадонь</l>
 
       <stg>
-        <st Contlex="A_">шадонь</st>
+        <st Contlex="A-IS-GEN">шадонь</st>
       </stg>
     </lg>
     <mg>
@@ -56121,7 +56089,7 @@
       <l pos="A">шамастонь</l>
 
       <stg>
-        <st Contlex="A_">шамастонь</st>
+        <st Contlex="A-IS-GEN">шамастонь</st>
       </stg>
     </lg>
     <mg>
@@ -56296,7 +56264,7 @@
       <l pos="A">шапонь</l>
 
       <stg>
-        <st Contlex="A_">шапонь</st>
+        <st Contlex="A-IS-GEN">шапонь</st>
       </stg>
     </lg>
     <mg>
@@ -56413,7 +56381,7 @@
       <l pos="A">шарыень</l>
 
       <stg>
-        <st Contlex="A_">шарыень</st>
+        <st Contlex="A-IS-GEN">шарыень</st>
       </stg>
     </lg>
     <mg>
@@ -56477,7 +56445,7 @@
       <l pos="A">шахтёронь</l>
 
       <stg>
-        <st Contlex="A_">шахтёронь</st>
+        <st Contlex="A-IS-GEN">шахтёронь</st>
       </stg>
     </lg>
     <mg>
@@ -56573,7 +56541,7 @@
       <l pos="A">шееронь</l>
 
       <stg>
-        <st Contlex="A_">шееронь</st>
+        <st Contlex="A-IS-GEN">шееронь</st>
       </stg>
     </lg>
     <mg>
@@ -56589,7 +56557,7 @@
       <l pos="A">шефонь</l>
 
       <stg>
-        <st Contlex="A_">шефонь</st>
+        <st Contlex="A-IS-GEN">шефонь</st>
       </stg>
     </lg>
     <mg>
@@ -56653,7 +56621,7 @@
       <l pos="A">шинжаромань</l>
 
       <stg>
-        <st Contlex="A_">шинжаромань</st>
+        <st Contlex="A-IS-GEN">шинжаромань</st>
       </stg>
     </lg>
     <mg>
@@ -56707,7 +56675,7 @@
       <l pos="A">шинь</l>
 
       <stg>
-        <st Contlex="A_">шинь</st>
+        <st Contlex="A-IS-GEN">шинь</st>
       </stg>
     </lg>
     <mg>
@@ -56829,7 +56797,7 @@
       <l pos="A">шистонь</l>
 
       <stg>
-        <st Contlex="A_">шистонь</st>
+        <st Contlex="A-IS-GEN">шистонь</st>
       </stg>
     </lg>
     <mg>
@@ -56845,7 +56813,7 @@
       <l pos="A">шичань</l>
 
       <stg>
-        <st Contlex="A_">шичань</st>
+        <st Contlex="A-IS-GEN">шичань</st>
       </stg>
     </lg>
     <mg>
@@ -56861,7 +56829,7 @@
       <l pos="A">шкабавазонь</l>
 
       <stg>
-        <st Contlex="A_">шкабавазонь</st>
+        <st Contlex="A-IS-GEN">шкабавазонь</st>
       </stg>
     </lg>
     <mg>
@@ -56877,7 +56845,7 @@
       <l pos="A">шкаень</l>
 
       <stg>
-        <st Contlex="A_">шкаень</st>
+        <st Contlex="A-IS-GEN">шкаень</st>
       </stg>
     </lg>
     <mg>
@@ -56946,7 +56914,7 @@
       <l pos="A">шнань</l>
 
       <stg>
-        <st Contlex="A_">шнань</st>
+        <st Contlex="A-IS-GEN">шнань</st>
       </stg>
     </lg>
     <mg>
@@ -57139,7 +57107,7 @@
       <l pos="A">шоколадонь</l>
 
       <stg>
-        <st Contlex="A_">шоколадонь</st>
+        <st Contlex="A-IS-GEN">шоколадонь</st>
       </stg>
     </lg>
     <mg>
@@ -57301,7 +57269,7 @@
       <l pos="A">шралангонь</l>
 
       <stg>
-        <st Contlex="A_">шралангонь</st>
+        <st Contlex="A-IS-GEN">шралангонь</st>
       </stg>
     </lg>
 
@@ -57341,7 +57309,7 @@
       <l pos="A">штабонь</l>
 
       <stg>
-        <st Contlex="A_">штабонь</st>
+        <st Contlex="A-IS-GEN">штабонь</st>
       </stg>
     </lg>
     <mg>
@@ -57373,7 +57341,7 @@
       <l pos="A">штадонь</l>
 
       <stg>
-        <st Contlex="A_">штадонь</st>
+        <st Contlex="A-IS-GEN">штадонь</st>
       </stg>
     </lg>
     <mg>
@@ -57405,7 +57373,7 @@
       <l pos="A">штань</l>
 
       <stg>
-        <st Contlex="A_">штань</st>
+        <st Contlex="A-IS-GEN">штань</st>
       </stg>
     </lg>
     <mg>
@@ -57667,7 +57635,7 @@
       <l pos="A">шуваронь</l>
 
       <stg>
-        <st Contlex="A_">шуваронь</st>
+        <st Contlex="A-IS-GEN">шуваронь</st>
       </stg>
     </lg>
     <mg>
@@ -57720,7 +57688,7 @@
       <l pos="A">шужярень</l>
 
       <stg>
-        <st Contlex="A_">шужярень</st>
+        <st Contlex="A-IS-GEN">шужярень</st>
       </stg>
     </lg>
     <mg>
@@ -57757,7 +57725,7 @@
       <l pos="A">шукшторувонь</l>
 
       <stg>
-        <st Contlex="A_">шукшторувонь</st>
+        <st Contlex="A-IS-GEN">шукшторувонь</st>
       </stg>
     </lg>
     <mg>
@@ -57773,7 +57741,7 @@
       <l pos="A">шулянь</l>
 
       <stg>
-        <st Contlex="A_">шулянь</st>
+        <st Contlex="A-IS-GEN">шулянь</st>
       </stg>
     </lg>
     <mg>
@@ -57805,7 +57773,7 @@
       <l pos="A">шумбазонь</l>
 
       <stg>
-        <st Contlex="A_">шумбазонь</st>
+        <st Contlex="A-IS-GEN">шумбазонь</st>
       </stg>
     </lg>
     <mg>
@@ -58079,7 +58047,7 @@
       <l pos="A">шурьхкянь</l>
 
       <stg>
-        <st Contlex="A_">шурьхкянь</st>
+        <st Contlex="A-IS-GEN">шурьхкянь</st>
       </stg>
     </lg>
     <mg>
@@ -58095,7 +58063,7 @@
       <l pos="A">шутендамань</l>
 
       <stg>
-        <st Contlex="A_">шутендамань</st>
+        <st Contlex="A-IS-GEN">шутендамань</st>
       </stg>
     </lg>
     <mg>
@@ -58111,7 +58079,7 @@
       <l pos="A">шуткань</l>
 
       <stg>
-        <st Contlex="A_">шуткань</st>
+        <st Contlex="A-IS-GEN">шуткань</st>
       </stg>
     </lg>
     <mg>
@@ -58127,7 +58095,7 @@
       <l pos="A">шутонь</l>
 
       <stg>
-        <st Contlex="A_">шутонь</st>
+        <st Contlex="A-IS-GEN">шутонь</st>
       </stg>
     </lg>
     <mg>
@@ -58159,7 +58127,7 @@
       <l pos="A">шуфтонь</l>
 
       <stg>
-        <st Contlex="A_">шуфтонь</st>
+        <st Contlex="A-IS-GEN">шуфтонь</st>
       </stg>
     </lg>
     <mg>
@@ -58191,7 +58159,7 @@
       <l pos="A">шяймарень</l>
 
       <stg>
-        <st Contlex="A_">шяймарень</st>
+        <st Contlex="A-IS-GEN">шяймарень</st>
       </stg>
     </lg>
     <mg>
@@ -58207,7 +58175,7 @@
       <l pos="A">шяйтанонь</l>
 
       <stg>
-        <st Contlex="A_">шяйтанонь</st>
+        <st Contlex="A-IS-GEN">шяйтанонь</st>
       </stg>
     </lg>
     <mg>
@@ -58223,7 +58191,7 @@
       <l pos="A">шякшатань</l>
 
       <stg>
-        <st Contlex="A_">шякшатань</st>
+        <st Contlex="A-IS-GEN">шякшатань</st>
       </stg>
     </lg>
     <mg>
@@ -58398,7 +58366,7 @@
       <l pos="A">щетинань</l>
 
       <stg>
-        <st Contlex="A_">щетинань</st>
+        <st Contlex="A-IS-GEN">щетинань</st>
       </stg>
     </lg>
     <mg>
@@ -58510,7 +58478,7 @@
       <l pos="A">эвотьксонь</l>
 
       <stg>
-        <st Contlex="A_">эвотьксонь</st>
+        <st Contlex="A-IS-GEN">эвотьксонь</st>
       </stg>
     </lg>
     <mg>
@@ -58558,7 +58526,7 @@
       <l pos="A">эень</l>
 
       <stg>
-        <st Contlex="A_">эень</st>
+        <st Contlex="A-IS-GEN">эень</st>
       </stg>
     </lg>
 
@@ -58643,7 +58611,7 @@
       <l pos="A">эзьконь</l>
 
       <stg>
-        <st Contlex="A_">эзьконь</st>
+        <st Contlex="A-IS-GEN">эзьконь</st>
       </stg>
     </lg>
     <mg>
@@ -58741,7 +58709,7 @@
       <l pos="A">эйнь</l>
 
       <stg>
-        <st Contlex="A_">эйнь</st>
+        <st Contlex="A-IS-GEN">эйнь</st>
       </stg>
     </lg>
     <mg>
@@ -58954,7 +58922,7 @@
       <l pos="A">эльдень</l>
 
       <stg>
-        <st Contlex="A_">эльдень</st>
+        <st Contlex="A-IS-GEN">эльдень</st>
       </stg>
     </lg>
     <mg>
@@ -59167,7 +59135,7 @@
       <l pos="A">эрзянь</l>
 
       <stg>
-        <st Contlex="A_">эрзянь</st>
+        <st Contlex="A-IS-GEN">эрзянь</st>
       </stg>
     </lg>
 
@@ -59276,7 +59244,7 @@
       <l pos="A">эрьшинь</l>
 
       <stg>
-        <st Contlex="A_">эрьшинь</st>
+        <st Contlex="A-IS-GEN">эрьшинь</st>
       </stg>
     </lg>
     <mg>
@@ -59338,7 +59306,7 @@
       <l pos="A">эряень</l>
 
       <stg>
-        <st Contlex="A_">эряень</st>
+        <st Contlex="A-IS-GEN">эряень</st>
       </stg>
     </lg>
     <mg>
@@ -59396,7 +59364,7 @@
       <l pos="A">эряфонь</l>
 
       <stg>
-        <st Contlex="A_">эряфонь</st>
+        <st Contlex="A-IS-GEN">эряфонь</st>
       </stg>
     </lg>
     <mg>
@@ -59460,7 +59428,7 @@
       <l pos="A">эсь_пингонь</l>
 
       <stg>
-        <st Contlex="A_">эсь_пингонь</st>
+        <st Contlex="A-IS-GEN">эсь_пингонь</st>
       </stg>
     </lg>
     <mg>
@@ -59812,7 +59780,7 @@
       <l pos="A">ювонь</l>
 
       <stg>
-        <st Contlex="A_">ювонь</st>
+        <st Contlex="A-IS-GEN">ювонь</st>
       </stg>
     </lg>
     <mg>
@@ -59953,7 +59921,7 @@
       <l pos="A">юронь</l>
 
       <stg>
-        <st Contlex="A_">юронь</st>
+        <st Contlex="A-IS-GEN">юронь</st>
       </stg>
     </lg>
     <mg>
@@ -60214,7 +60182,7 @@
       <l pos="A">яксяргонь</l>
 
       <stg>
-        <st Contlex="A_">яксяргонь</st>
+        <st Contlex="A-IS-GEN">яксяргонь</st>
       </stg>
     </lg>
     <mg>
@@ -60300,7 +60268,7 @@
       <l pos="A">ялгаксшинь</l>
 
       <stg>
-        <st Contlex="A_">ялгаксшинь</st>
+        <st Contlex="A-IS-GEN">ялгаксшинь</st>
       </stg>
     </lg>
     <mg>
@@ -60316,7 +60284,7 @@
       <l pos="A">ялгань</l>
 
       <stg>
-        <st Contlex="A_">ялгань</st>
+        <st Contlex="A-IS-GEN">ялгань</st>
       </stg>
     </lg>
     <mg>
@@ -60348,7 +60316,7 @@
       <l pos="A">январень</l>
 
       <stg>
-        <st Contlex="A_">январень</st>
+        <st Contlex="A-IS-GEN">январень</st>
       </stg>
     </lg>
     <mg>
@@ -60417,7 +60385,7 @@
       <l pos="A">ярмаконь</l>
 
       <stg>
-        <st Contlex="A_">ярмаконь</st>
+        <st Contlex="A-IS-GEN">ярмаконь</st>
       </stg>
     </lg>
     <mg>
@@ -60725,7 +60693,7 @@
       <l pos="A">ёлкань</l>
 
       <stg>
-        <st Contlex="A_">ёлкань</st>
+        <st Contlex="A-IS-GEN">ёлкань</st>
       </stg>
     </lg>
     <mg>
@@ -60925,7 +60893,7 @@
       <l pos="A">ёрдань</l>
 
       <stg>
-        <st Contlex="A_">ёрдань</st>
+        <st Contlex="A-IS-GEN">ёрдань</st>
       </stg>
     </lg>
     <mg>
@@ -60973,7 +60941,7 @@
       <l pos="A">ёронь</l>
 
       <stg>
-        <st Contlex="A_">ёронь</st>
+        <st Contlex="A-IS-GEN">ёронь</st>
       </stg>
     </lg>
     <mg>
@@ -61021,7 +60989,7 @@
       <l pos="A">ёрувонь</l>
 
       <stg>
-        <st Contlex="A_">ёрувонь</st>
+        <st Contlex="A-IS-GEN">ёрувонь</st>
       </stg>
     </lg>
     <mg>
@@ -61098,7 +61066,7 @@
       <l pos="A">ёфксонь</l>
 
       <stg>
-        <st Contlex="A_">ёфксонь</st>
+        <st Contlex="A-IS-GEN">ёфксонь</st>
       </stg>
     </lg>
     <mg>
