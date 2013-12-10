@@ -6,8 +6,6 @@
 !! ADJECTIVES 
 !!!!!!!!!!!!!!
 
-LEXICON AdjTag
-	A_ ;
 LEXICON A_
 +Adj+TYÄ: K ;
 
@@ -19,7 +17,7 @@ LEXICON A_АВА
 +A: K ;
 +A+Der/MWN: N_АВА ;
 
-LEXICON Adj-ofta
+LEXICON A_ОФТА
 !офта:офт
 +A:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ОФТА ;
@@ -29,7 +27,7 @@ LEXICON A_ПИНГЕ
 +A:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ПИНГЕ ;
 
-LEXICON Adj-pula
+LEXICON A_ПУЛА
 !пула:пул
 +A:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ПУЛА ;
