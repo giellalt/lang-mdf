@@ -81,18 +81,14 @@
       <l pos="V">абазламс</l>
 
       <stg>
-        <st Contlex="IV_КУНДАМС">абазла</st>
+        <st Contlex="TV_КУНДАМС">абазла</st>
       </stg>
     </lg>
 
     <phonet>abazlams, abəzlams</phonet>
 
     <mg>
-      <m>
-        <head>
-          <isa/>
-        </head>
-      </m>
+          <defNative/>
 
       <tg xml:lang="fin">
         <t pos="TV">solvata</t>
@@ -18582,15 +18578,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="V">ваймяй</l>
+      <l pos="Prc">ваймяй</l>
 
       <stg>
-        <st Contlex="V_">ваймяй</st>
+        <st Contlex="PRC_">ваймяй</st>
       </stg>
     </lg>
-
-    <pos>Prc</pos>
-
     <phonet>vajmäj</phonet>
 
     <mg>
@@ -45429,7 +45422,7 @@
       <l pos="V">идемс</l>
 
       <stg>
-        <st Contlex="V_">идемс</st>
+        <st Contlex="TV_КУНДАМС">идемс</st>
       </stg>
     </lg>
 
@@ -45465,7 +45458,7 @@
       <l pos="V">идендемс</l>
 
       <stg>
-        <st Contlex="V_">идендь</st>
+        <st Contlex="TV_АНДОМС">идендь</st>
       </stg>
     </lg>
 
@@ -45609,7 +45602,7 @@
       <l pos="V">ижелдомс</l>
 
       <stg>
-        <st Contlex="V_">ижелд</st>
+        <st Contlex="IV_АНДОМС">ижелд</st>
       </stg>
     </lg>
 
@@ -45699,7 +45692,7 @@
       <l pos="V">ижельдемс</l>
 
       <stg>
-        <st Contlex="V_">ижельдь</st>
+        <st Contlex="TV_АНДОМС">ижельдь</st>
       </stg>
     </lg>
 
@@ -45735,7 +45728,7 @@
       <l pos="V">ижмордомс</l>
 
       <stg>
-        <st Contlex="V_">ижморд</st>
+        <st Contlex="IV_АНДОМС">ижморд</st>
       </stg>
     </lg>
 
@@ -45807,7 +45800,7 @@
       <l pos="V">изгордомс</l>
 
       <stg>
-        <st Contlex="V_">изгорд</st>
+        <st Contlex="IV_АНДОМС">изгорд</st>
       </stg>
     </lg>
 
@@ -45905,7 +45898,7 @@
       <l pos="V">изердемс</l>
 
       <stg>
-        <st Contlex="V_">изердь</st>
+        <st Contlex="TV_АНДОМС">изердь</st>
       </stg>
     </lg>
 
@@ -46033,7 +46026,7 @@
       <l pos="V">изь</l>
 
       <stg>
-        <st Contlex="V_">изь</st>
+        <st Contlex="V-AUX-NEG-PRT1">изь</st>
       </stg>
     </lg>
 
@@ -124523,15 +124516,12 @@
 
   <e>
     <lg>
-      <l pos="V">пакфтомс</l>
+      <l pos="V" type="T">пакфтомс</l>
 
       <stg>
         <st Contlex="TV_АЛЫЯФТОМС">пакфт</st>
       </stg>
     </lg>
-
-    <pos>Vl</pos>
-
     <mg>
       <defNative/>
 
