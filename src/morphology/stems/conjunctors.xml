@@ -6,10 +6,10 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
   <e>
     <lg>
-      <l pos="CS">а</l>
+      <l pos="CC">а</l>
 
       <stg>
-        <st Contlex="CS_">а</st>
+        <st Contlex="CC_">а</st>
       </stg>
     </lg>
     <phonet>a</phonet>
@@ -19,7 +19,14 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja; mutta, vaan</t>
+        <t pos="CC">ja</t>
+      </tg></mg>
+<mg>
+
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">mutta, vaan</t>
       </tg>
 
       <xg>
@@ -47,7 +54,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. eli, tai, vai. 2. muuten, muutoin</t>
+        <t pos="CC">1. eli, tai, vai. 2. muuten, muutoin</t>
       </tg>
     </mg>
   </e>
@@ -67,7 +74,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>jos</t>
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
@@ -107,7 +114,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja, sekä, ynnä</t>
+        <t pos="CC">ja, sekä, ynnä</t>
       </tg>
 
       <xg>
@@ -135,7 +142,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja, myös</t>
+        <t pos="CC">ja, myös</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -167,7 +174,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>tai, vai</t>
+        <t pos="CC">tai, vai</t>
       </tg>
     </mg>
   </e>
@@ -620,7 +627,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin, siinä tapauksessa että; mutta</t>
+        <t>niin, siinä tapauksessa että</t>
+      </tg>
+    </mg>
+    <mg>
+
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t>mutta</t>
       </tg>
     </mg>
   </e>
@@ -638,7 +653,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>milloin, väliin, välistä; niin</t>
+        <t>milloin, väliin, välistä</t>
+      </tg>
+    </mg>
+    <mg>
+
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t>niin</t>
       </tg>
     </mg>
   </e>
@@ -674,7 +697,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka, siitä huolimatta, että; kuin</t>
+        <t>vaikka, siitä huolimatta, että</t>
+      </tg>
+    </mg>
+    <mg>
+
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t>kuin</t>
       </tg>
     </mg>
   </e>
@@ -692,7 +723,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka; siitä huolimatta, että</t>
+        <t>vaikka</t>
+      </tg>
+    </mg>
+    <mg>
+
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t>siitä huolimatta, että</t>
       </tg>
     </mg>
   </e>
@@ -853,10 +892,10 @@
 
   <e>
     <lg>
-      <l pos="CC">﻿а</l>
+      <l pos="CC">а</l>
 
       <stg>
-        <st Contlex="CC_">﻿а</st>
+        <st Contlex="CC_">а</st>
       </stg>
     </lg>
     <mg>
@@ -864,7 +903,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t pos="CC">mutta</t>
       </tg>
     </mg>
   </e>

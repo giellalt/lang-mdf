@@ -1,7 +1,7 @@
 
-LEXICON conjunctions
+LEXICON conjunctors
 
-а:а CS_  "ja; mutta, vaan" ;
+а:а CC_  "ja" ;
 афток:афток CC_  "1. eli, tai, vai. 2. muuten, muutoin" ;
 бъди:бъди CS_  "jos" ;
 бъта:бъта CS_  "muka" ;
@@ -26,11 +26,11 @@ LEXICON conjunctions
 разе:разе CS_  "ellei, jos ei" ;
 рас:рас CS_  "jos" ;
 сясы:сясы CS_  "siksi, sen takia" ;
-так:так CS_  "niin, siinä tapauksessa että; mutta" ;
-то:то CS_  "milloin, väliin, välistä; niin" ;
+так:так CS_  "niin, siinä tapauksessa että" ;
+то:то CS_  "milloin, väliin, välistä" ;
 тожа:тожа CONJ_  "" ;
-хоть:хоть CS_  "vaikka, siitä huolimatta, että; kuin" ;
-хотя:хотя CS_  "vaikka; siitä huolimatta, että" ;
+хоть:хоть CS_  "vaikka, siitä huolimatta, että" ;
+хотя:хотя CS_  "vaikka" ;
 хуть:хуть CS_  "vaikka, joskin" ;
 хуш:хуш CS_  "vaikka; siitä huolimatta, että" ;
 цёк:цёк CONJ_  "melkein, miltei, lähes" ;
@@ -38,4 +38,4 @@ LEXICON conjunctions
 штоба:штоба CS_  "jotta" ;
 эмбя:эмбя CS_  "jos, kun, vaikka" ;
 ёт:ёт CS_  "siitä, kun" ;
-﻿а:﻿а CC_  "mutta" ;
+а:а CC_  "mutta" ;
