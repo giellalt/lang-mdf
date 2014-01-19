@@ -6,55 +6,43 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
   <e>
     <lg>
-      <l>аймак</l>
+      <l pos="Po">аймак</l>
 
       <stg>
         <st Contlex="PostpTag">аймак</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ала</l>
+      <l pos="Po">ала</l>
 
       <stg>
-        <st Contlex="PostpTag">ала</st>
+        <st Contlex="POSTP-SPAT_">ала</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po">alla</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>алда</l>
+      <l pos="Po">алда</l>
 
       <stg>
         <st Contlex="PostpTag">алда</st>
@@ -102,38 +90,30 @@
 
   <e>
     <lg>
-      <l>алу</l>
+      <l pos="Po">алу</l>
 
       <stg>
         <st Contlex="PostpTag">алу</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>башка</l>
+      <l pos="Po">башка</l>
 
       <stg>
         <st Contlex="PostpTag">башка</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>baška</phonet>
 
@@ -151,14 +131,12 @@
 
   <e>
     <lg>
-      <l>бокова</l>
+      <l pos="Po">бокова</l>
 
       <stg>
         <st Contlex="PostpTag">бокова</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>bokəva</phonet>
 
@@ -175,14 +153,12 @@
 
   <e>
     <lg>
-      <l>бокс</l>
+      <l pos="Po">бокс</l>
 
       <stg>
         <st Contlex="PostpTag">бокс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>boks</phonet>
 
@@ -199,14 +175,12 @@
 
   <e>
     <lg>
-      <l>бокса</l>
+      <l pos="Po">бокса</l>
 
       <stg>
         <st Contlex="PostpTag">бокса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>boksa</phonet>
 
@@ -223,14 +197,12 @@
 
   <e>
     <lg>
-      <l>бокста</l>
+      <l pos="Po">бокста</l>
 
       <stg>
         <st Contlex="PostpTag">бокста</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>boksta</phonet>
 
@@ -247,38 +219,30 @@
 
   <e>
     <lg>
-      <l>боку</l>
+      <l pos="Po">боку</l>
 
       <stg>
         <st Contlex="PostpTag">боку</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>вакска</l>
+      <l pos="Po">вакска</l>
 
       <stg>
         <st Contlex="PostpTag">вакска</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>vakska</phonet>
 
@@ -295,14 +259,12 @@
 
   <e>
     <lg>
-      <l>ваксс</l>
+      <l pos="Po">ваксс</l>
 
       <stg>
         <st Contlex="PostpTag">ваксс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>vakss</phonet>
 
@@ -359,14 +321,12 @@
 
   <e>
     <lg>
-      <l>ваксса</l>
+      <l pos="Po">ваксса</l>
 
       <stg>
         <st Contlex="PostpTag">ваксса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>vakssa</phonet>
 
@@ -387,14 +347,12 @@
 
   <e>
     <lg>
-      <l>вастс</l>
+      <l pos="Po">вастс</l>
 
       <stg>
         <st Contlex="PostpTag">вастс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>vasc</phonet>
 
@@ -419,14 +377,12 @@
 
   <e>
     <lg>
-      <l>вельде</l>
+      <l pos="Po">вельде</l>
 
       <stg>
         <st Contlex="PostpTag">вельде</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>veľďä</phonet>
 
@@ -475,62 +431,48 @@
 
   <e>
     <lg>
-      <l>вельксса</l>
+      <l pos="Po">вельксса</l>
 
       <stg>
         <st Contlex="PostpTag">вельксса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>вельф</l>
+      <l pos="Po">вельф</l>
 
       <stg>
         <st Contlex="PostpTag">вельф</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>вельфке</l>
+      <l pos="Po">вельфке</l>
 
       <stg>
         <st Contlex="PostpTag">вельфке</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>veľfkä, veľfka</phonet>
 
@@ -555,38 +497,30 @@
 
   <e>
     <lg>
-      <l>вельфкяня</l>
+      <l pos="Po">вельфкяня</l>
 
       <stg>
         <st Contlex="PostpTag">вельфкяня</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>вельхкска</l>
+      <l pos="Po">вельхкска</l>
 
       <stg>
         <st Contlex="PostpTag">вельхкска</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>veľxkska</phonet>
 
@@ -611,14 +545,12 @@
 
   <e>
     <lg>
-      <l>вельхксс</l>
+      <l pos="Po">вельхксс</l>
 
       <stg>
         <st Contlex="PostpTag">вельхксс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>veľxkss</phonet>
 
@@ -643,14 +575,12 @@
 
   <e>
     <lg>
-      <l>видева</l>
+      <l pos="Po">видева</l>
 
       <stg>
         <st Contlex="PostpTag">видева</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>viďəva</phonet>
 
@@ -691,14 +621,12 @@
 
   <e>
     <lg>
-      <l>видес</l>
+      <l pos="Po">видес</l>
 
       <stg>
         <st Contlex="PostpTag">видес</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>viďəs</phonet>
 
@@ -771,14 +699,12 @@
 
   <e>
     <lg>
-      <l>видеса</l>
+      <l pos="Po">видеса</l>
 
       <stg>
         <st Contlex="PostpTag">видеса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>viďəsa</phonet>
 
@@ -811,14 +737,12 @@
 
   <e>
     <lg>
-      <l>видьге</l>
+      <l pos="Po">видьге</l>
 
       <stg>
         <st Contlex="PostpTag">видьге</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>viďgä</phonet>
 
@@ -835,134 +759,102 @@
 
   <e>
     <lg>
-      <l>ес</l>
+      <l pos="Po">ес</l>
 
       <stg>
         <st Contlex="PostpTag">ес</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>инголе</l>
+      <l pos="Po">инголе</l>
 
       <stg>
         <st Contlex="PostpTag">инголе</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>инголи</l>
+      <l pos="Po">инголи</l>
 
       <stg>
         <st Contlex="PostpTag">инголи</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ингольге</l>
+      <l pos="Po">ингольге</l>
 
       <stg>
         <st Contlex="PostpTag">ингольге</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ингольде</l>
+      <l pos="Po">ингольде</l>
 
       <stg>
         <st Contlex="PostpTag">ингольде</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>инкса</l>
+      <l pos="Po">инкса</l>
 
       <stg>
         <st Contlex="PostpTag">инкса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>iŋksa</phonet>
 
@@ -987,110 +879,84 @@
 
   <e>
     <lg>
-      <l>каршес</l>
+      <l pos="Po">каршес</l>
 
       <stg>
         <st Contlex="PostpTag">каршес</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>каршеса</l>
+      <l pos="Po">каршеса</l>
 
       <stg>
         <st Contlex="PostpTag">каршеса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>келева</l>
+      <l pos="Po">келева</l>
 
       <stg>
         <st Contlex="PostpTag">келева</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>келес</l>
+      <l pos="Po">келес</l>
 
       <stg>
         <st Contlex="PostpTag">келес</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кодяма</l>
+      <l pos="Po">кодяма</l>
 
       <stg>
         <st Contlex="PostpTag">кодяма</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>koďama, końďama</phonet>
 
@@ -1123,14 +989,12 @@
 
   <e>
     <lg>
-      <l>колга</l>
+      <l pos="Po">колга</l>
 
       <stg>
         <st Contlex="PostpTag">колга</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>kolga</phonet>
 
@@ -1155,38 +1019,30 @@
 
   <e>
     <lg>
-      <l>коре</l>
+      <l pos="Po">коре</l>
 
       <stg>
         <st Contlex="PostpTag">коре</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>корява</l>
+      <l pos="Po">корява</l>
 
       <stg>
         <st Contlex="PostpTag">корява</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>koŕava</phonet>
 
@@ -1203,14 +1059,12 @@
 
   <e>
     <lg>
-      <l>коряс</l>
+      <l pos="Po">коряс</l>
 
       <stg>
         <st Contlex="PostpTag">коряс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>koŕas</phonet>
 
@@ -1243,110 +1097,84 @@
 
   <e>
     <lg>
-      <l>кругом</l>
+      <l pos="Po">кругом</l>
 
       <stg>
         <st Contlex="PostpTag">кругом</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кувалга</l>
+      <l pos="Po">кувалга</l>
 
       <stg>
         <st Contlex="PostpTag">кувалга</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кувалма</l>
+      <l pos="Po">кувалма</l>
 
       <stg>
         <st Contlex="PostpTag">кувалма</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кувалмова</l>
+      <l pos="Po">кувалмова</l>
 
       <stg>
         <st Contlex="PostpTag">кувалмова</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кувалмос</l>
+      <l pos="Po">кувалмос</l>
 
       <stg>
         <st Contlex="PostpTag">кувалмос</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>kuvalməs</phonet>
 
@@ -1363,206 +1191,156 @@
 
   <e>
     <lg>
-      <l>кучкас</l>
+      <l pos="Po">кучкас</l>
 
       <stg>
         <st Contlex="PostpTag">кучкас</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кучкаса</l>
+      <l pos="Po">кучкаса</l>
 
       <stg>
         <st Contlex="PostpTag">кучкаса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кядьса</l>
+      <l pos="Po">кядьса</l>
 
       <stg>
         <st Contlex="PostpTag">кядьса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кядьста</l>
+      <l pos="Po">кядьста</l>
 
       <stg>
         <st Contlex="PostpTag">кядьста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кядяла</l>
+      <l pos="Po">кядяла</l>
 
       <stg>
         <st Contlex="PostpTag">кядяла</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кядялда</l>
+      <l pos="Po">кядялда</l>
 
       <stg>
         <st Contlex="PostpTag">кядялда</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>кяц</l>
+      <l pos="Po">кяц</l>
 
       <stg>
         <st Contlex="PostpTag">кяц</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ланга</l>
+      <l pos="Po">ланга</l>
 
       <stg>
         <st Contlex="PostpTag">ланга</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>лангс</l>
+      <l pos="Po">лангс</l>
 
       <stg>
         <st Contlex="PostpTag">лангс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>laŋks</phonet>
 
@@ -1611,14 +1389,12 @@
 
   <e>
     <lg>
-      <l>лангса</l>
+      <l pos="Po">лангса</l>
 
       <stg>
         <st Contlex="PostpTag">лангса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>laŋksa</phonet>
 
@@ -1651,14 +1427,12 @@
 
   <e>
     <lg>
-      <l>лангста</l>
+      <l pos="Po">лангста</l>
 
       <stg>
         <st Contlex="PostpTag">лангста</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>laŋksta</phonet>
 
@@ -1683,38 +1457,30 @@
 
   <e>
     <lg>
-      <l>лангу</l>
+      <l pos="Po">лангу</l>
 
       <stg>
         <st Contlex="PostpTag">лангу</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>лаца</l>
+      <l pos="Po">лаца</l>
 
       <stg>
         <st Contlex="PostpTag">лаца</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>laca</phonet>
 
@@ -1763,278 +1529,210 @@
 
   <e>
     <lg>
-      <l>малав</l>
+      <l pos="Po">малав</l>
 
       <stg>
         <st Contlex="PostpTag">малав</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>малава</l>
+      <l pos="Po">малава</l>
 
       <stg>
         <st Contlex="PostpTag">малава</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>маланяса</l>
+      <l pos="Po">маланяса</l>
 
       <stg>
         <st Contlex="PostpTag">маланяса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>малас</l>
+      <l pos="Po">малас</l>
 
       <stg>
         <st Contlex="PostpTag">малас</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>маласа</l>
+      <l pos="Po">маласа</l>
 
       <stg>
         <st Contlex="PostpTag">маласа</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>маласта</l>
+      <l pos="Po">маласта</l>
 
       <stg>
         <st Contlex="PostpTag">маласта</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>малати</l>
+      <l pos="Po">малати</l>
 
       <stg>
         <st Contlex="PostpTag">малати</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>малать</l>
+      <l pos="Po">малать</l>
 
       <stg>
         <st Contlex="PostpTag">малать</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>малашкада</l>
+      <l pos="Po">малашкада</l>
 
       <stg>
         <st Contlex="PostpTag">малашкада</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>маляняс</l>
+      <l pos="Po">маляняс</l>
 
       <stg>
         <st Contlex="PostpTag">маляняс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>мара</l>
+      <l pos="Po">мара</l>
 
       <stg>
         <st Contlex="PostpTag">мара</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>мархта</l>
+      <l pos="Po">мархта</l>
 
       <stg>
         <st Contlex="PostpTag">мархта</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>marxta</phonet>
 
@@ -2079,14 +1777,12 @@
 
   <e>
     <lg>
-      <l>меле</l>
+      <l pos="Po">меле</l>
 
       <stg>
         <st Contlex="PostpTag">меле</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>meľä</phonet>
 
@@ -2119,14 +1815,12 @@
 
   <e>
     <lg>
-      <l>мельге</l>
+      <l pos="Po">мельге</l>
 
       <stg>
         <st Contlex="PostpTag">мельге</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>meľgä</phonet>
 
@@ -2183,14 +1877,12 @@
 
   <e>
     <lg>
-      <l>пачк</l>
+      <l pos="Po">пачк</l>
 
       <stg>
         <st Contlex="PostpTag">пачк</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pačk</phonet>
 
@@ -2247,14 +1939,12 @@
 
   <e>
     <lg>
-      <l>пачка</l>
+      <l pos="Po">пачка</l>
 
       <stg>
         <st Contlex="PostpTag">пачка</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pačka</phonet>
 
@@ -2271,14 +1961,12 @@
 
   <e>
     <lg>
-      <l>пе</l>
+      <l pos="Po">пе</l>
 
       <stg>
         <st Contlex="PostpTag">пе</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pe</phonet>
 
@@ -2359,182 +2047,138 @@
 
   <e>
     <lg>
-      <l>пингова</l>
+      <l pos="Po">пингова</l>
 
       <stg>
         <st Contlex="PostpTag">пингова</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>потмова</l>
+      <l pos="Po">потмова</l>
 
       <stg>
         <st Contlex="PostpTag">потмова</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>потмос</l>
+      <l pos="Po">потмос</l>
 
       <stg>
         <st Contlex="PostpTag">потмос</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>потмоса</l>
+      <l pos="Po">потмоса</l>
 
       <stg>
         <st Contlex="PostpTag">потмоса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>потмоста</l>
+      <l pos="Po">потмоста</l>
 
       <stg>
         <st Contlex="PostpTag">потмоста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>потму</l>
+      <l pos="Po">потму</l>
 
       <stg>
         <st Contlex="PostpTag">потму</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>пряв</l>
+      <l pos="Po">пряв</l>
 
       <stg>
         <st Contlex="PostpTag">пряв</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>прява</l>
+      <l pos="Po">прява</l>
 
       <stg>
         <st Contlex="PostpTag">прява</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pŕava</phonet>
 
@@ -2551,14 +2195,12 @@
 
   <e>
     <lg>
-      <l>пряса</l>
+      <l pos="Po">пряса</l>
 
       <stg>
         <st Contlex="PostpTag">пряса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pŕasa</phonet>
 
@@ -2575,14 +2217,12 @@
 
   <e>
     <lg>
-      <l>пряста</l>
+      <l pos="Po">пряста</l>
 
       <stg>
         <st Contlex="PostpTag">пряста</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>pŕasta</phonet>
 
@@ -2599,14 +2239,12 @@
 
   <e>
     <lg>
-      <l>пяле</l>
+      <l pos="Po">пяле</l>
 
       <stg>
         <st Contlex="PostpTag">пяле</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>päľä</phonet>
 
@@ -2719,14 +2357,12 @@
 
   <e>
     <lg>
-      <l>пяли</l>
+      <l pos="Po">пяли</l>
 
       <stg>
         <st Contlex="PostpTag">пяли</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>päľi</phonet>
 
@@ -2775,7 +2411,7 @@
 
   <e>
     <lg>
-      <l>пяльге</l>
+      <l pos="Po">пяльге</l>
 
       <stg>
         <st Contlex="PostpTag">пяльге</st>
@@ -2807,110 +2443,84 @@
 
   <e>
     <lg>
-      <l>пяльде</l>
+      <l pos="Po">пяльде</l>
 
       <stg>
         <st Contlex="PostpTag">пяльде</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>серьс</l>
+      <l pos="Po">серьс</l>
 
       <stg>
         <st Contlex="PostpTag">серьс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>серьса</l>
+      <l pos="Po">серьса</l>
 
       <stg>
         <st Contlex="PostpTag">серьса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>сиви</l>
+      <l pos="Po">сиви</l>
 
       <stg>
         <st Contlex="PostpTag">сиви</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>сюнеда</l>
+      <l pos="Po">сюнеда</l>
 
       <stg>
         <st Contlex="PostpTag">сюнеда</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>śuńəda</phonet>
 
@@ -2935,86 +2545,66 @@
 
   <e>
     <lg>
-      <l>тезга</l>
+      <l pos="Po">тезга</l>
 
       <stg>
         <st Contlex="PostpTag">тезга</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>тезда</l>
+      <l pos="Po">тезда</l>
 
       <stg>
         <st Contlex="PostpTag">тезда</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>тейга</l>
+      <l pos="Po">тейга</l>
 
       <stg>
         <st Contlex="PostpTag">тейга</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>тейге</l>
+      <l pos="Po">тейге</l>
 
       <stg>
         <st Contlex="PostpTag">тейге</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>ťejgä</phonet>
 
@@ -3031,134 +2621,102 @@
 
   <e>
     <lg>
-      <l>тейс</l>
+      <l pos="Po">тейс</l>
 
       <stg>
         <st Contlex="PostpTag">тейс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>тейса</l>
+      <l pos="Po">тейса</l>
 
       <stg>
         <st Contlex="PostpTag">тейса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>тейста</l>
+      <l pos="Po">тейста</l>
 
       <stg>
         <st Contlex="PostpTag">тейста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>томбале</l>
+      <l pos="Po">томбале</l>
 
       <stg>
         <st Contlex="PostpTag">томбале</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>томбальде</l>
+      <l pos="Po">томбальде</l>
 
       <stg>
         <st Contlex="PostpTag">томбальде</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>туркс</l>
+      <l pos="Po">туркс</l>
 
       <stg>
         <st Contlex="PostpTag">туркс</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>turks</phonet>
 
@@ -3207,14 +2765,12 @@
 
   <e>
     <lg>
-      <l>утор</l>
+      <l pos="Po">утор</l>
 
       <stg>
         <st Contlex="PostpTag">утор</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>utər</phonet>
 
@@ -3279,110 +2835,84 @@
 
   <e>
     <lg>
-      <l>фтала</l>
+      <l pos="Po">фтала</l>
 
       <stg>
         <st Contlex="PostpTag">фтала</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>фталга</l>
+      <l pos="Po">фталга</l>
 
       <stg>
         <st Contlex="PostpTag">фталга</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>фталу</l>
+      <l pos="Po">фталу</l>
 
       <stg>
         <st Contlex="PostpTag">фталу</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>фталуня</l>
+      <l pos="Po">фталуня</l>
 
       <stg>
         <st Contlex="PostpTag">фталуня</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ширде</l>
+      <l pos="Po">ширде</l>
 
       <stg>
         <st Contlex="PostpTag">ширде</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>šiŕďä</phonet>
 
@@ -3399,110 +2929,84 @@
 
   <e>
     <lg>
-      <l>ширес</l>
+      <l pos="Po">ширес</l>
 
       <stg>
         <st Contlex="PostpTag">ширес</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ширеса</l>
+      <l pos="Po">ширеса</l>
 
       <stg>
         <st Contlex="PostpTag">ширеса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ширеста</l>
+      <l pos="Po">ширеста</l>
 
       <stg>
         <st Contlex="PostpTag">ширеста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>шири</l>
+      <l pos="Po">шири</l>
 
       <stg>
         <st Contlex="PostpTag">шири</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ширьге</l>
+      <l pos="Po">ширьге</l>
 
       <stg>
         <st Contlex="PostpTag">ширьге</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>šiŕgä</phonet>
 
@@ -3519,14 +3023,12 @@
 
   <e>
     <lg>
-      <l>шумбаз</l>
+      <l pos="Po">шумбаз</l>
 
       <stg>
         <st Contlex="PostpTag">шумбаз</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>šumbas</phonet>
 
@@ -3551,14 +3053,12 @@
 
   <e>
     <lg>
-      <l>эзга</l>
+      <l pos="Po">эзга</l>
 
       <stg>
         <st Contlex="PostpTag">эзга</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>ezga</phonet>
 
@@ -3591,14 +3091,12 @@
 
   <e>
     <lg>
-      <l>эзда</l>
+      <l pos="Po">эзда</l>
 
       <stg>
         <st Contlex="PostpTag">эзда</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>ezda</phonet>
 
@@ -3623,62 +3121,48 @@
 
   <e>
     <lg>
-      <l>эздода</l>
+      <l pos="Po">эздода</l>
 
       <stg>
         <st Contlex="PostpTag">эздода</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>эземс</l>
+      <l pos="Po">эземс</l>
 
       <stg>
         <st Contlex="PostpTag">эземс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>эрьгава</l>
+      <l pos="Po">эрьгава</l>
 
       <stg>
         <st Contlex="PostpTag">эрьгава</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>eŕgava</phonet>
 
@@ -3695,38 +3179,30 @@
 
   <e>
     <lg>
-      <l>эс</l>
+      <l pos="Po">эс</l>
 
       <stg>
         <st Contlex="PostpTag">эс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>эса</l>
+      <l pos="Po">эса</l>
 
       <stg>
         <st Contlex="PostpTag">эса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>esa</phonet>
 
@@ -3767,14 +3243,12 @@
 
   <e>
     <lg>
-      <l>эшка</l>
+      <l pos="Po">эшка</l>
 
       <stg>
         <st Contlex="PostpTag">эшка</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>eška</phonet>
 
@@ -3807,86 +3281,66 @@
 
   <e>
     <lg>
-      <l>эшксс</l>
+      <l pos="Po">эшксс</l>
 
       <stg>
         <st Contlex="PostpTag">эшксс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>эшксса</l>
+      <l pos="Po">эшксса</l>
 
       <stg>
         <st Contlex="PostpTag">эшксса</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>эшксста</l>
+      <l pos="Po">эшксста</l>
 
       <stg>
         <st Contlex="PostpTag">эшксста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ёжес</l>
+      <l pos="Po">ёжес</l>
 
       <stg>
         <st Contlex="PostpTag">ёжес</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>jožəs</phonet>
 
@@ -3911,14 +3365,12 @@
 
   <e>
     <lg>
-      <l>ёжеса</l>
+      <l pos="Po">ёжеса</l>
 
       <stg>
         <st Contlex="PostpTag">ёжеса</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>jožəsa</phonet>
 
@@ -3943,14 +3395,12 @@
 
   <e>
     <lg>
-      <l>ёжеста</l>
+      <l pos="Po">ёжеста</l>
 
       <stg>
         <st Contlex="PostpTag">ёжеста</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>jožəsta</phonet>
 
@@ -3975,14 +3425,12 @@
 
   <e>
     <lg>
-      <l>ёнга</l>
+      <l pos="Po">ёнга</l>
 
       <stg>
         <st Contlex="PostpTag">ёнга</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>joŋga</phonet>
 
@@ -3999,38 +3447,30 @@
 
   <e>
     <lg>
-      <l>ёну</l>
+      <l pos="Po">ёну</l>
 
       <stg>
         <st Contlex="PostpTag">ёну</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ёнца</l>
+      <l pos="Po">ёнца</l>
 
       <stg>
         <st Contlex="PostpTag">ёнца</st>
       </stg>
     </lg>
-
-    <pos>POSTP</pos>
 
     <phonet>jonca</phonet>
 
@@ -4047,72 +3487,54 @@
 
   <e>
     <lg>
-      <l>ёткова</l>
+      <l pos="Po">ёткова</l>
 
       <stg>
         <st Contlex="PostpTag">ёткова</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ёткс</l>
+      <l pos="Po">ёткс</l>
 
       <stg>
         <st Contlex="PostpTag">ёткс</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>ёткста</l>
+      <l pos="Po">ёткста</l>
 
       <stg>
         <st Contlex="PostpTag">ёткста</st>
       </stg>
     </lg>
 
-    <pos>POSTP</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg lang="fin">
-        <t/>
+        <t pos="Po"/>
       </tg>
     </mg>
   </e>
