@@ -386,11 +386,9 @@
       <l pos="Adv">ала</l>
 
       <stg>
-        <st Contlex="ADV_">ала</st>
+        <st Contlex="ADV-SPAT_">ала</st>
       </stg>
     </lg>
-
-    <pos>Adv</pos>
 
     <mg>
       <m>
@@ -400,7 +398,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">alhaalla (oleva), ala-</t>
+        <t pos="Adv">alhaalla</t>
       </tg>
     </mg>
   </e>
