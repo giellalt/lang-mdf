@@ -196,11 +196,11 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
   %{ИЫЙ%}	 phasing out Ы2, eg кундамс:кундай
-  %{ОЕ%0%}	 for morphemes requiring a preceding vowel
+  %{ОЕØ%}	 for morphemes requiring a preceding vowel
   %{АЯ%} 	 А2 in кундамс:кундан
   %{Х%}		 This usually precedes the plural marker
   %{КТ%}		 used in imperative and connegative
-  %{Ь%0%}	 after imperative Sg2
+  %{ЬØ%}	 after imperative Sg2
   %{DIM%}	 This will be for diminutive initial consonant
 
   А2 	 А2:а А2:я
