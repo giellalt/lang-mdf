@@ -8,14 +8,14 @@
 
 
 
-  %{Ь%0%}:0	 after imperative Sg2
+  %{ЬØ%}:0	 after imperative Sg2
 
 
 
   %{АЯ%}:я  А2 in панемс:панян
   %{ИЫЙ%}:0	 phasing out Ы2, eg кундамс:кундай, панемс:пани, кандомс:канды
 
-  %{ОЕ%0%}:0	 for morphemes requiring a preceding vowel
+  %{ОЕØ%}:0	 for morphemes requiring a preceding vowel
 
  %{АОЕ%}:о	  пула, офта, пинге
 
@@ -107,11 +107,11 @@ __%{ИЫЙ%}:ы__
 
 __%{ИЫЙ%}:и__
 
-__%{ОЕ%0%}:о__
+__%{ОЕØ%}:о__
 
-__%{ОЕ%0%}:е__
+__%{ОЕØ%}:е__
 
-__%{ОЕ%0%}:0__
+__%{ОЕØ%}:0__
 
 __0:j__  
 
@@ -199,7 +199,7 @@ __К1 %{КТ%}:t__
 
 __К1 %{КТ%}:к__  
 
-__%{Ь%0%}:ь__  
+__%{ЬØ%}:ь__  
 
 
 Plural before definite plural following a consonant
