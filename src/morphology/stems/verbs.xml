@@ -177019,7 +177019,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">käydä onkeen</t>
+
+        <t pos="V">syödä (kalasta)</t>
       </tg>
     </mg>
   </e>
@@ -177037,7 +177039,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna käymään pyydykseen</t>
       </tg>
     </mg>
   </e>
@@ -177055,7 +177057,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna käymään pyydykseen</t>
       </tg>
     </mg>
   </e>
@@ -177075,7 +177077,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">olla suljettava, suljettavissa</t>
+        <t pos="V">tulla suljetuksi</t>
+
+        <t pos="V">sulkeutua</t>
+
+        <t pos="V">olla suljettava t. suljettavissa</t>
+
+        <t pos="V">voida sulkea</t>
       </tg>
     </mg>
   </e>
@@ -177085,7 +177093,7 @@
       <l pos="V" val="V">сёлгомс</l>
 
       <stg>
-        <st Contlex="V_">сёлгомс</st>
+        <st Contlex="V_">сёлг</st>
       </stg>
     </lg>
 
@@ -177113,7 +177121,7 @@
       <l pos="V" val="V">сёлгондомс</l>
 
       <stg>
-        <st Contlex="V_">сёлгондомс</st>
+        <st Contlex="V_">сёлгонд</st>
       </stg>
     </lg>
 
@@ -177141,7 +177149,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">suljeskella</t>
       </tg>
     </mg>
   </e>
@@ -177159,7 +177167,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">suljettaa</t>
       </tg>
     </mg>
   </e>
@@ -177177,7 +177185,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">suljettaa</t>
       </tg>
     </mg>
   </e>
@@ -177197,7 +177205,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
+        <t pos="V">tulla salatuksi</t>
+
         <t pos="V">pysyä salassa</t>
+
+        <t pos="V">voida salata</t>
       </tg>
     </mg>
   </e>
@@ -177207,7 +177219,7 @@
       <l pos="V" val="V">сёпомс</l>
 
       <stg>
-        <st Contlex="V_">сёпомс</st>
+        <st Contlex="V_">сёп</st>
       </stg>
     </lg>
 
@@ -177243,7 +177255,7 @@
       <l pos="V" val="V">сёпондомс</l>
 
       <stg>
-        <st Contlex="V_">сёпондомс</st>
+        <st Contlex="V_">сёпонд</st>
       </stg>
     </lg>
 
@@ -177254,6 +177266,8 @@
 
       <tg xml:lang="fin">
         <t pos="V">salata</t>
+
+        <t pos="V">salailla</t>
       </tg>
     </mg>
   </e>
@@ -177271,7 +177285,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">salailla</t>
       </tg>
     </mg>
   </e>
@@ -177289,7 +177303,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna salaamaan</t>
       </tg>
     </mg>
   </e>
@@ -177307,7 +177321,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna salaamaan</t>
       </tg>
     </mg>
   </e>
@@ -177365,7 +177379,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla kirjoitetuksi</t>
+
+        <t pos="V">kirjoittautua</t>
+
+        <t pos="V">voida kirjoittaa</t>
       </tg>
     </mg>
   </e>
@@ -177431,7 +177449,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kirjoituttaa</t>
       </tg>
     </mg>
   </e>
@@ -177449,7 +177467,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla kirjavaksi</t>
       </tg>
     </mg>
   </e>
@@ -177467,7 +177485,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä kirjavaksi</t>
       </tg>
     </mg>
   </e>
@@ -177485,7 +177503,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">piereskellä</t>
+
+        <t pos="V">kärsiä ilmavaivoista</t>
       </tg>
     </mg>
   </e>
@@ -177495,7 +177515,7 @@
       <l pos="V" val="V">сёрносемс</l>
 
       <stg>
-        <st Contlex="V_">сёрносемс</st>
+        <st Contlex="V_">сёрносе</st>
       </stg>
     </lg>
 
@@ -177503,7 +177523,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">piereskellä</t>
+
+        <t pos="V">kärsiä ilmavaivoista</t>
       </tg>
     </mg>
   </e>
@@ -177521,7 +177543,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hankkia itselleen viljaa (jyviä)</t>
       </tg>
     </mg>
   </e>
@@ -177531,7 +177553,7 @@
       <l pos="V" val="V">сёфтамомс</l>
 
       <stg>
-        <st Contlex="V_">сёфтамомс</st>
+        <st Contlex="V_">сёфтамо</st>
       </stg>
     </lg>
 
@@ -177539,7 +177561,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">rauhoittua</t>
       </tg>
     </mg>
   </e>
@@ -177557,7 +177579,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hankkia</t>
       </tg>
     </mg>
   </e>
@@ -177575,7 +177597,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hankituttaa</t>
       </tg>
     </mg>
   </e>
@@ -177593,7 +177615,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla kerätyksi laumaan (hevosista)</t>
+
+        <t pos="V">kerääntyä laumaan (hevosista)</t>
+
+        <t pos="V">voida kerätä laumaan (hevosia)</t>
       </tg>
     </mg>
   </e>
@@ -177611,7 +177637,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">kerätä laumaan (hevosia)</t>
       </tg>
     </mg>
   </e>
@@ -177631,7 +177657,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">peitättää</t>
+        <t pos="V">tulla peitetyksi</t>
+
+        <t pos="V">peittyä</t>
+
+        <t pos="V">voida peittää</t>
       </tg>
     </mg>
   </e>
@@ -177641,7 +177671,7 @@
       <l pos="V" val="V">тавадомс</l>
 
       <stg>
-        <st Contlex="V_">тавадомс</st>
+        <st Contlex="V_">тавад</st>
       </stg>
     </lg>
 
@@ -177651,7 +177681,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">1. peittää. 2. piiloutua. 3. (murt.) täydentää</t>
+        <t pos="V">1. peittää. 2. piiloutua. 3. (murt.) täydentää, täyttää</t>
       </tg>
     </mg>
   </e>
@@ -177671,7 +177701,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">peitättää</t>
+        <t pos="V">tulla peitetyksi</t>
+
+        <t pos="V">peittyä</t>
+
+        <t pos="V">voida peittää</t>
       </tg>
     </mg>
   </e>
@@ -177689,7 +177723,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peitellä</t>
       </tg>
     </mg>
   </e>
@@ -177727,7 +177761,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peitättää</t>
+
+        <t pos="V">katattaa</t>
       </tg>
     </mg>
   </e>
@@ -177745,7 +177781,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peitättää</t>
       </tg>
     </mg>
   </e>
@@ -177763,7 +177799,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">peitellä</t>
       </tg>
     </mg>
   </e>
@@ -177781,7 +177817,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">puhdistua</t>
       </tg>
     </mg>
   </e>
@@ -177799,7 +177835,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">puhdistaa</t>
       </tg>
     </mg>
   </e>
@@ -177817,7 +177853,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">puhdistaa</t>
       </tg>
     </mg>
   </e>
@@ -177878,6 +177914,8 @@
 
       <tg xml:lang="fin">
         <t pos="V">tulla syyhyiseksi, kapiseksi</t>
+
+        <t pos="V">ruvettua</t>
       </tg>
     </mg>
   </e>
@@ -177898,6 +177936,8 @@
 
       <tg xml:lang="fin">
         <t pos="V">tulla syyhyiseksi, kapiseksi</t>
+
+        <t pos="V">ruvettua</t>
       </tg>
     </mg>
   </e>
@@ -177915,7 +177955,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä syyhyiseksi t. kapiseksi t. rupiseksi</t>
       </tg>
     </mg>
   </e>
@@ -177933,7 +177973,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä syyhyiseksi, kapiseksi t. rupiseksi</t>
       </tg>
     </mg>
   </e>
@@ -177951,7 +177991,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">selittää</t>
       </tg>
     </mg>
   </e>
@@ -177969,7 +178009,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida ällistyä</t>
+
+        <t pos="V">voida tyrmistyä</t>
       </tg>
     </mg>
   </e>
@@ -178007,7 +178049,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">ällistyä</t>
+
+        <t pos="V">tyrmistyä</t>
       </tg>
     </mg>
   </e>
@@ -178025,7 +178069,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hämmästyttää</t>
+
+        <t pos="V">tyrmistyttää</t>
       </tg>
     </mg>
   </e>
@@ -178043,7 +178089,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hämmästyttää</t>
+
+        <t pos="V">tyrmistyttää</t>
       </tg>
     </mg>
   </e>
@@ -178061,7 +178109,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tulla lyödyksi</t>
+
+        <t pos="V">voida lyödä</t>
       </tg>
     </mg>
   </e>
@@ -178071,7 +178121,7 @@
       <l pos="V" val="V">тайстадемс</l>
 
       <stg>
-        <st Contlex="V_">тайстадемс</st>
+        <st Contlex="V_">тайстадь</st>
       </stg>
     </lg>
 
@@ -178079,7 +178129,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lyödä</t>
+
+        <t pos="V">tönäistä</t>
       </tg>
     </mg>
   </e>
@@ -178097,7 +178149,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">lyödä</t>
+
+        <t pos="V">töniä</t>
       </tg>
     </mg>
   </e>
@@ -178115,7 +178169,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna lyömään</t>
       </tg>
     </mg>
   </e>
@@ -178133,7 +178187,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna lyömään</t>
       </tg>
     </mg>
   </e>
@@ -178151,7 +178205,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa tulla rauhattomaksi</t>
+
+        <t pos="V">alkaa tulla levottomaksi</t>
       </tg>
     </mg>
   </e>
@@ -178161,7 +178217,7 @@
       <l pos="V" val="V">таколдомс</l>
 
       <stg>
-        <st Contlex="V_">таколдомс</st>
+        <st Contlex="V_">таколд</st>
       </stg>
     </lg>
 
@@ -178172,6 +178228,8 @@
 
       <tg xml:lang="fin">
         <t pos="V">tulla rauhattomaksi, levottomaksi</t>
+
+        <t pos="V">olla huolissaan</t>
       </tg>
 
       <xg>
@@ -178197,7 +178255,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">hermoilla</t>
       </tg>
     </mg>
   </e>
@@ -178215,7 +178273,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä rauhattomaksi</t>
+
+        <t pos="V">tehdä levottomaksi</t>
       </tg>
     </mg>
   </e>
@@ -178233,7 +178293,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä rauhattomaksi</t>
+
+        <t pos="V">tehdä levottomaksi</t>
       </tg>
     </mg>
   </e>
@@ -178251,7 +178313,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tehdä rauhattomaksi</t>
+
+        <t pos="V">tehdä levottomaksi</t>
       </tg>
     </mg>
   </e>
@@ -178289,7 +178353,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tasoittua</t>
+
+        <t pos="V">silitä</t>
       </tg>
     </mg>
   </e>
@@ -178307,7 +178373,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">tasoittaa</t>
+
+        <t pos="V">siloittaa</t>
       </tg>
     </mg>
   </e>
