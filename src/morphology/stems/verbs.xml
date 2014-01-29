@@ -182503,7 +182503,7 @@
 
         <t pos="V">voida pitää lystiä</t>
 
-        <t pos="V">voida teeskennellä </t>
+        <t pos="V">voida teeskennellä</t>
       </tg>
     </mg>
   </e>
@@ -183250,7 +183250,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">syntyä</t>
+
+        <t pos="V">ilmestyä</t>
       </tg>
     </mg>
   </e>
@@ -183268,7 +183270,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">synnyttää</t>
+
+        <t pos="V">panna alulle</t>
+
+        <t pos="V">toteuttaa</t>
       </tg>
     </mg>
   </e>
@@ -183286,7 +183292,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">synnyttää</t>
+
+        <t pos="V">panna alulle</t>
+
+        <t pos="V">toteuttaa</t>
       </tg>
     </mg>
   </e>
@@ -183304,7 +183314,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida alkaa itkeä</t>
       </tg>
     </mg>
   </e>
@@ -183322,7 +183332,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa itkeä</t>
       </tg>
     </mg>
   </e>
@@ -183340,7 +183350,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa itkeskellä</t>
       </tg>
     </mg>
   </e>
@@ -183358,7 +183368,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa itkettää</t>
       </tg>
     </mg>
   </e>
@@ -183376,7 +183386,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa itkettää</t>
       </tg>
     </mg>
   </e>
@@ -183394,7 +183404,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida nyyhkyttää</t>
       </tg>
     </mg>
   </e>
@@ -183412,7 +183422,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">alkaa nyyhkyttää</t>
       </tg>
     </mg>
   </e>
@@ -183422,7 +183432,7 @@
       <l pos="V" val="V">тихольдемс</l>
 
       <stg>
-        <st Contlex="V_">тихольдемс</st>
+        <st Contlex="V_">тихольдь</st>
       </stg>
     </lg>
 
@@ -183450,7 +183460,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">nyyhkytellä</t>
+
+        <t pos="V">valitella</t>
       </tg>
     </mg>
   </e>
@@ -183468,7 +183480,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">nyyhkytyttää</t>
       </tg>
     </mg>
   </e>
@@ -183486,7 +183498,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">nyyhkytyttää</t>
       </tg>
     </mg>
   </e>
@@ -183504,7 +183516,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida heikentyä</t>
       </tg>
     </mg>
   </e>
@@ -183522,7 +183534,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">heikentyä</t>
       </tg>
     </mg>
   </e>
@@ -183540,7 +183552,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">heikentyä</t>
       </tg>
     </mg>
   </e>
@@ -183558,7 +183570,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">heikentää</t>
       </tg>
     </mg>
   </e>
@@ -183576,7 +183588,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida syntyä</t>
+
+        <t pos="V">voida saada alkunsa</t>
+
+        <t pos="V">voida ilmestyä</t>
+
+        <t pos="V">voida toteutua</t>
+
+        <t pos="V">voida tulla valmiiksi</t>
       </tg>
     </mg>
   </e>
@@ -183586,7 +183606,7 @@
       <l pos="V" val="V">тихтедемс</l>
 
       <stg>
-        <st Contlex="V_">тихтедемс</st>
+        <st Contlex="V_">тихтедь</st>
       </stg>
     </lg>
 
@@ -183615,7 +183635,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">syntyä</t>
+
+        <t pos="V">saada alkunsa</t>
+
+        <t pos="V">ilmestyä</t>
+
+        <t pos="V">toteutua</t>
+
+        <t pos="V">tulla valmiiksi</t>
       </tg>
     </mg>
   </e>
@@ -183633,7 +183661,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">synnyttää</t>
+
+        <t pos="V">saattaa alkuun</t>
+
+        <t pos="V">toteuttaa</t>
+
+        <t pos="V">tehdä valmiiksi</t>
       </tg>
     </mg>
   </e>
@@ -183651,7 +183685,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">synnyttää</t>
+
+        <t pos="V">saattaa alkuun</t>
+
+        <t pos="V">toteuttaa</t>
+
+        <t pos="V">tehdä valmiiksi</t>
       </tg>
     </mg>
   </e>
@@ -183669,7 +183709,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">voida telmiä</t>
+
+        <t pos="V">voida elämöidä</t>
       </tg>
     </mg>
   </e>
@@ -183687,7 +183729,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">telmiä</t>
+
+        <t pos="V">elämöidä</t>
       </tg>
     </mg>
   </e>
@@ -183705,7 +183749,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">telmiä</t>
+
+        <t pos="V">elämöidä</t>
       </tg>
     </mg>
   </e>
@@ -183723,7 +183769,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">panna telmimään</t>
+
+        <t pos="V">panna elämöimään</t>
       </tg>
     </mg>
   </e>
@@ -183741,7 +183789,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">nurmettua</t>
+
+        <t pos="V">ruohottua</t>
       </tg>
     </mg>
   </e>
@@ -183779,7 +183829,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V"/>
+        <t pos="V">nurmettaa</t>
+
+        <t pos="V">tehdä nurmikoksi</t>
       </tg>
     </mg>
   </e>
@@ -183809,7 +183861,7 @@
       <l pos="V" val="V">тналкстомомс</l>
 
       <stg>
-        <st Contlex="V_">тналкстомомс</st>
+        <st Contlex="V_">тналкстом</st>
       </stg>
     </lg>
 
