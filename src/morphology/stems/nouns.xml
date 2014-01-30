@@ -3277,12 +3277,19 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">1. mies. 2. isä. 3. ihminen. 4. urho</t>
+        <t pos="N">mies</t>
       </tg>
 
       <tg xml:lang="fra">
         <t gen="m" pos="N">homme</t>
       </tg>
+      <xg>
+        <x>вов сон так аля</x>
+
+        <phonet>vov son tak aľä</phonet>
+
+        <xt xml:lang="fin">kylläpä hän onkin melkoinen mies.</xt>
+      </xg>
     </mg>
 
     <mg>
@@ -3301,33 +3308,14 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">ihminen. 4. urho</t>
-      </tg>
-
-      <tg xml:lang="fra">
-        <t gen="m" pos="N">homme</t>
+        <t pos="N">ihminen</t>
       </tg>
     </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">аля</l>
-
-      <stg>
-        <st Contlex="N_АВА">аля</st>
-      </stg>
-    </lg>
-
-    <pos>PCLE</pos>
-
-    <phonet>aľä</phonet>
-
     <mg>
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">kyllä, kylläpä</t>
+        <t pos="N">urho</t>
       </tg>
     </mg>
   </e>
@@ -5675,13 +5663,6 @@
         <t pos="N">sulhaspoika</t>
       </tg>
 
-      <xg>
-        <x>вов сон так аля</x>
-
-        <phonet>vov son tak aľä</phonet>
-
-        <xt xml:lang="fin">kylläpä hän onkin melkoinen mies.</xt>
-      </xg>
     </mg>
   </e>
 
