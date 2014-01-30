@@ -6,6 +6,9 @@
 !! PARTICLES 
 !!!!!!!!!!!!!!
 
+LEXICON PCLE_АВА !!= @CODE@ Is a model word necessary here?
++Pcle: # ;
+
 LEXICON PCLE_
 +Pcle: # ;
 
@@ -13,7 +16,7 @@ LEXICON PCLE_
 LEXICON Pcle-Compar-Stnd
 +Pcle+Compar: # ;
 
-LEXICON Pcle-Epist
+LEXICON PCLE-EPIST
 +Pcle+Epist: # ;
 
 LEXICON Pcle-Neg-Contrast
@@ -22,7 +25,7 @@ LEXICON Pcle-Neg-Contrast
 LEXICON Pcle-Neg
 +Pcle+Neg: # ;
 
-LEXICON Pcle-Superl
+LEXICON PCLE-SUPERL
 +Pcle+Superl: # ;
 
 

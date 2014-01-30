@@ -62,6 +62,28 @@
 
   <e>
     <lg>
+      <l pos="Pcle">аля</l>
+
+      <stg>
+        <st Contlex="PCLE_АВА">аля</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>aľä</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pcle">kyllä, kylläpä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l>аньцек</l>
 
       <stg>
@@ -2007,6 +2029,50 @@
 
   <e>
     <lg>
+      <l pos="Pcle" type="Superl">сембода</l>
+
+      <stg>
+        <st Contlex="PCLE-SUPERL">сембода</st>
+      </stg>
+    </lg>
+
+    <phonet>śembəda</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <te>superlatiivin apusana</te>
+      </tg>
+
+      <xg>
+        <x>сембода оцю</x>
+
+        <phonet>śembəd(a) oću</phonet>
+
+        <xt xml:lang="fin">suurin</xt>
+      </xg>
+
+      <xg>
+        <x>сембодонга оцю</x>
+
+        <phonet>śembədəŋg(a) oću</phonet>
+
+        <xt xml:lang="fin">suurin</xt>
+      </xg>
+
+      <xg>
+        <x>сембода осал</x>
+
+        <phonet>śembəd(a) osal</phonet>
+
+        <xt xml:lang="fin">huonoin</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l>сембоц</l>
 
       <stg>
@@ -2024,7 +2090,7 @@
       </m>
 
       <tg lang="fin">
-        <t>yhteensä.</t>
+        <t>yhteensä</t>
       </tg>
     </mg>
   </e>
@@ -2512,7 +2578,7 @@
       <l pos="Pcle">улема</l>
 
       <stg>
-        <st Contlex="PCLE_">улема</st>
+        <st Contlex="PCLE-EPIST">улема</st>
       </stg>
     </lg>
 

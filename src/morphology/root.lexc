@@ -116,6 +116,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Comp 		!!= ;@CODE@: comparative as opposed to superlative
  +Superl 	!!= ;@CODE@: superlative
 !! 
+
+!! Particles
++Epist		!!= ;@CODE@: epistemic
 !! Quantifiers and Numerals are classified under:
  +Num 		!!= ;@CODE@: numeral
  +Appr 		!!= ;@CODE@: Approximative numeral кафта-колма, колмошка "two or three"
@@ -338,7 +341,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 @P.TLOSS.ON@
 @R.TLOSS.ON@
 
-
+! Testing
++CmpTest
 
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
@@ -398,7 +402,7 @@ LEXICON POSTP-SPAT_
 
 
 LEXICON N-Voc-Px1Sg
-+N+Px1Sg+Interj+Voc: # ;
++N+PxSg1+Interj+Voc: # ;
 
 !LEXICON EndQST
 !+Qst: # ;
@@ -432,16 +436,16 @@ LEXICON DescrTag
 !+Adv+Superl: # ;
 
 
-LEXICON TESTINGTESTING
-
-Ыджыд TESTCOMP ;
-син TESTCOMP ;
-официал TESTCOMP ;
-радиоактив TESTCOMP ;
-
-LEXICON TESTCOMP
-
-+CmpTest: # ;
+!LEXICON TESTINGTESTING
+!
+!Ыджыд TESTCOMP ;
+!син TESTCOMP ;
+!официал TESTCOMP ;
+!радиоактив TESTCOMP ;
+!
+!LEXICON TESTCOMP
+!
+!+CmpTest: # ;
 
 
 !!!
