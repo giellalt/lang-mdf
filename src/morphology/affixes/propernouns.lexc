@@ -188,16 +188,16 @@ LEXICON PROP_КУДО_FEM
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON PROP_КАЛ_PLC
+LEXICON PROP-PLC_КАЛ !!= * @CODE@ ending in other consonant
 +N+Prop+Sem/Plc: NMN_КАЛ ;
 
-LEXICON PROP_КИТ_PLC
+LEXICON PROP-PLC_КИТ !!= * @CODE@ ending in t
 +N+Prop+Sem/Plc: NMN_КАЛ ;
 
-LEXICON PROP_ОШ_PLC
+LEXICON PROP-PLC_ОШ !!= * @CODE@ ending in shibilant
 +N+Prop+Sem/Plc: NMN_ОШ ;
 
-LEXICON PROP_КУДО_PLC
+LEXICON PROP-PLC_КУДО !!= * @CODE@ ending in vowel
 +N+Prop+Sem/Plc: NMN_АВА ;
 
 
