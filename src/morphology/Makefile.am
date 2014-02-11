@@ -75,6 +75,6 @@ $(srcdir)/stems/urj-Cyrl-propernouns.lexc: \
 	$(GTCORE)/gtdshared/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
 	$(AM_V_GEN)cp -f $< $@
 
-include $(top_srcdir)/am-shared/lexc-include.am
+include $(top_srcdir)/am-shared/src-morphology-dir-include.am
 
 # vim: set ft=automake:
