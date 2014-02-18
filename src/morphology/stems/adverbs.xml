@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Adv">абон</l>
@@ -18,7 +18,7 @@
     <phonet>abən</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">turhaan, suotta</t>
@@ -53,7 +53,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kauan sitten, aikaa sitten, aikoja sitten, ammoin, muinoin</t>
+        <t pos="Adv">kauan sitten, aikaa sitten, aikoja sitten, ammoin,
+        muinoin</t>
       </tg>
     </mg>
   </e>
@@ -77,7 +78,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">hyvin kauan aikaa sitten, ammoin, muinoin, ennen muinoin</t>
+        <t pos="Adv">hyvin kauan aikaa sitten, ammoin, muinoin, ennen
+        muinoin</t>
       </tg>
     </mg>
   </e>
@@ -142,7 +144,7 @@
     <pos>Adv</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kyynelten läpi, itkun lomasta</t>
@@ -249,8 +251,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen,
-        asteittain, pikku hiljaa</t>
+        <t pos="Adv">hitaasti, kiirehtimättä; hiljaa, rauhallisesti;
+        vähitellen, asteittain, pikku hiljaa</t>
       </tg>
     </mg>
   </e>
@@ -274,8 +276,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">hitaasti, kiirehtimättä; hiljaa, rauhallisesti; vähitellen,
-        asteittain, pikku hiljaa</t>
+        <t pos="Adv">hitaasti, kiirehtimättä; hiljaa, rauhallisesti;
+        vähitellen, asteittain, pikku hiljaa</t>
       </tg>
     </mg>
   </e>
@@ -299,8 +301,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">tiukasti, lujasti, kovasti, lujaa, kovaa, tiukkana, lujana,
-        kovana</t>
+        <t pos="Adv">tiukasti, lujasti, kovasti, lujaa, kovaa, tiukkana,
+        lujana, kovana</t>
       </tg>
     </mg>
   </e>
@@ -455,13 +457,14 @@
         <st Contlex="ADV-SPAT_">алга</st>
       </stg>
     </lg>
+
     <phonet>alga</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">alla, alhaalla, syvällä; alitse; ala­, alus-</t>
+        <t pos="Adv">alla, alhaalla, syvällä; alitse</t>
       </tg>
 
       <xg>
@@ -490,7 +493,7 @@
     <phonet>alda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">alta, alhaalta</t>
@@ -560,7 +563,7 @@
     <phonet>alu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. alle. 2. alas</t>
@@ -630,7 +633,7 @@
     <phonet>aluvarmat</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">myötätuuleen</t>
@@ -652,7 +655,7 @@
     <phonet>aluveťť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">myötävirtaan</t>
@@ -674,7 +677,7 @@
     <phonet>aluda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">alta</t>
@@ -768,7 +771,7 @@
     <phonet>anəkəńďi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ennakolta, etukäteen</t>
@@ -862,7 +865,7 @@
     <phonet>ańćäjńada</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">pikkuisen, pikkuriikkisen</t>
@@ -940,7 +943,7 @@
     <phonet>ańćək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vain, ainoastaan</t>
@@ -1034,7 +1037,7 @@
     <phonet>ardəź</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">juosten, laukaten, kiirehtien</t>
@@ -1249,7 +1252,7 @@
     <phonet>afkuks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vakavasti, tosissaan, todella</t>
@@ -1295,7 +1298,7 @@
     <phonet>afjoru</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">todella, tosissaan, vakavissaan</t>
@@ -1322,7 +1325,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">hermostuneesti, harmistuneesti, hermostuneena, harmistuneena</t>
+        <t pos="Adv">hermostuneesti, harmistuneesti, hermostuneena,
+        harmistuneena</t>
       </tg>
     </mg>
   </e>
@@ -1413,7 +1417,7 @@
     <phonet>bajťak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">paljon, runsaasti; kauan sitten; kauan, pitkään</t>
@@ -1467,11 +1471,10 @@
     <phonet>baška</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin lisäksi,
-        ylimääräisesti</t>
+        <t pos="Adv">jonkin lisäksi, ylimääräisesti</t>
       </tg>
     </mg>
   </e>
@@ -1660,7 +1663,7 @@
     <phonet>bokəva</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ohi, sivuitse, vieritse</t>
@@ -1687,8 +1690,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kyljellään, sivuttain; sairaana; kumoon, kumolleen, kumossa,
-        kumollaan</t>
+        <t pos="Adv">kyljellään, sivuttain; sairaana; kumoon, kumolleen,
+        kumossa, kumollaan</t>
       </tg>
     </mg>
   </e>
@@ -1755,7 +1758,7 @@
     <phonet>boksa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sivulla, sivussa, syrjässä, vierellä, vieressä</t>
@@ -1777,7 +1780,7 @@
     <phonet>boksta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sivulta, sivusta, syrjästä, viereltä, vierestä</t>
@@ -2231,7 +2234,7 @@
     <phonet>vakska</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ohi(tse), vieritse</t>
@@ -2325,7 +2328,7 @@
     <phonet>valda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aina, jatkuvasti; vain, yksinomaan</t>
@@ -2477,7 +2480,7 @@
     <phonet>valom</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hitaasti, vähitellen</t>
@@ -2587,7 +2590,7 @@
     <phonet>vandi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">huominen, huomenna</t>
@@ -2712,8 +2715,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">huolimattomasti, hutiloiden, leväperäisesti; epäsiististi,
-        siivottomasti</t>
+        <t pos="Adv">huolimattomasti, hutiloiden, leväperäisesti;
+        epäsiististi, siivottomasti</t>
       </tg>
     </mg>
   </e>
@@ -2737,7 +2740,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">nykien, nykimällä, riuhtaisten, riuhtaisemalla, katkonaisesti</t>
+        <t pos="Adv">nykien, nykimällä, riuhtaisten, riuhtaisemalla,
+        katkonaisesti</t>
       </tg>
     </mg>
   </e>
@@ -2756,7 +2760,7 @@
     <phonet>vaŕxməďəmšovər</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aamunkoitteessa</t>
@@ -2827,7 +2831,7 @@
     <phonet>vaśənda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ensin, ensiksi, aluksi; aikaisemmin, ensi sijassa, ennen
@@ -2850,7 +2854,7 @@
     <phonet>vaśəndakigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ensinnä, ensi sijassa</t>
@@ -3045,7 +3049,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">huolettomasti, suruttomasti; jouten, joutilaana, toimettomana</t>
+        <t pos="Adv">huolettomasti, suruttomasti; jouten, joutilaana,
+        toimettomana</t>
       </tg>
     </mg>
   </e>
@@ -3069,8 +3074,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">epärehellisesti, vilpillisesti, epäoikeudenmukaisesti, väärin,
-        petoksella, pettämällä</t>
+        <t pos="Adv">epärehellisesti, vilpillisesti, epäoikeudenmukaisesti,
+        väärin, petoksella, pettämällä</t>
       </tg>
     </mg>
   </e>
@@ -3214,8 +3219,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">likaisesti, likaisena; huolimattomasti, hutiloiden, leväperäisesti,
-        epäsiististi, siivottomasti</t>
+        <t pos="Adv">likaisesti, likaisena; huolimattomasti, hutiloiden,
+        leväperäisesti, epäsiististi, siivottomasti</t>
       </tg>
     </mg>
   </e>
@@ -3282,7 +3287,7 @@
     <phonet>vačəda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nälkäisenä, nälissään</t>
@@ -3541,7 +3546,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">reippaasti, sukkelasti, vikkelästi, nopsasti; kohteliaasti</t>
+        <t pos="Adv">reippaasti, sukkelasti, vikkelästi, nopsasti;
+        kohteliaasti</t>
       </tg>
     </mg>
   </e>
@@ -3680,7 +3686,7 @@
     <phonet>veľf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yli, läpi; liikaa, liiaksi</t>
@@ -3734,7 +3740,7 @@
     <phonet>veľfkä, veľfka</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yli, läpi; liian</t>
@@ -3764,7 +3770,7 @@
     <phonet>veľxkska</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ylitse</t>
@@ -3824,7 +3830,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">nurin niskoin, kuperkeikkaa, häränpyllyä, mukkelis makkelis</t>
+        <t pos="Adv">nurin niskoin, kuperkeikkaa, häränpyllyä, mukkelis
+        makkelis</t>
       </tg>
     </mg>
   </e>
@@ -3843,7 +3850,7 @@
     <phonet>veľäńboksta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nurin (­päin), nurinkurisesti</t>
@@ -3966,8 +3973,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vinosti, vinossa, vinoon, kierosti, kierossa, kieroon, karsaasti,
-        syrjäsilmin, alta kulmain</t>
+        <t pos="Adv">vinosti, vinossa, vinoon, kierosti, kierossa, kieroon,
+        karsaasti, syrjäsilmin, alta kulmain</t>
       </tg>
     </mg>
   </e>
@@ -4034,7 +4041,7 @@
     <phonet>vembeŕf, veńbeŕf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">koko yön</t>
@@ -4181,8 +4188,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">luottavaisesti, luottavaisena, herkkäuskoisesti, herkkäuskoisena;
-        varmasti</t>
+        <t pos="Adv">luottavaisesti, luottavaisena, herkkäuskoisesti,
+        herkkäuskoisena; varmasti</t>
       </tg>
     </mg>
   </e>
@@ -4249,7 +4256,7 @@
     <phonet>veśťəvək af</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ei kertaakaan</t>
@@ -4295,7 +4302,7 @@
     <phonet>veśť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kerran</t>
@@ -4525,7 +4532,7 @@
     <phonet>večna</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ikuisesti</t>
@@ -4576,8 +4583,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">tunnollisesti, hyvällä omallatunnolla, vilpittömästi, koko
-        sydämestään</t>
+        <t pos="Adv">tunnollisesti, hyvällä omallatunnolla, vilpittömästi,
+        koko sydämestään</t>
       </tg>
     </mg>
   </e>
@@ -4620,7 +4627,7 @@
     <phonet>viďəsa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">luona, vieressä, vierellä</t>
@@ -4658,7 +4665,7 @@
     <phonet>viďəsta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. suoraan, rehellisesti. 2. yhtäläisesti, tasan. 3.
@@ -4841,7 +4848,7 @@
     <phonet>vijista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">voimakkaasti, vahvasti</t>
@@ -4936,7 +4943,7 @@
     <phonet>vixca</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">väkisin, väkivalloin, pakolla</t>
@@ -5015,7 +5022,7 @@
     <phonet>vixcək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">väkisin, väkipakolla</t>
@@ -5037,7 +5044,7 @@
     <phonet>vixcək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yhdessä, kanssa</t>
@@ -5083,7 +5090,7 @@
     <phonet>višksta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">voimakkaasti, lujaa, kovaa</t>
@@ -5198,7 +5205,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kunniattomasti, epärehellisesti, vilpillisesti, varastamalla</t>
+        <t pos="Adv">kunniattomasti, epärehellisesti, vilpillisesti,
+        varastamalla</t>
       </tg>
     </mg>
   </e>
@@ -5222,7 +5230,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kunniattomasti, epärehellisesti, vilpillisesti, varastamalla</t>
+        <t pos="Adv">kunniattomasti, epärehellisesti, vilpillisesti,
+        varastamalla</t>
       </tg>
     </mg>
   </e>
@@ -5409,7 +5418,7 @@
     <phonet>fčok</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sopivasti, juuri parahiksi</t>
@@ -5436,7 +5445,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">huolimattomasti, epätäsmällisesti, kiireisesti, häthätää</t>
+        <t pos="Adv">huolimattomasti, epätäsmällisesti, kiireisesti,
+        häthätää</t>
       </tg>
     </mg>
   </e>
@@ -5484,7 +5494,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kahinalla, havinalla, rahinalla, ropinalla, meluisasti</t>
+        <t pos="Adv">kahinalla, havinalla, rahinalla, ropinalla,
+        meluisasti</t>
       </tg>
     </mg>
   </e>
@@ -5575,7 +5586,7 @@
     <phonet>väŕďä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">päältä(päin), ylhäältä(­päin)</t>
@@ -5597,7 +5608,7 @@
     <phonet>väŕä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ylhäällä, korkealla</t>
@@ -5627,7 +5638,7 @@
     <phonet>väŕi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ylös, ylhäälle, korkealle</t>
@@ -5689,7 +5700,7 @@
     <phonet>väŕgak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. ylhäällä. 2. penger, valli ??</t>
@@ -5719,7 +5730,7 @@
     <phonet>väŕgä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ylhäällä, ylitse</t>
@@ -5885,7 +5896,7 @@
     <phonet>gajtu, kajtu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sinne, tuonne</t>
@@ -5931,7 +5942,7 @@
     <phonet>galəžsta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">alasti</t>
@@ -5977,7 +5988,7 @@
     <phonet>gaməzəm</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yhdessä, joukolla</t>
@@ -6071,7 +6082,7 @@
     <phonet>golaj</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jatkuvasti, aina, loputtomasti</t>
@@ -6117,7 +6128,7 @@
     <phonet>goľ</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jatkuvasti, tuon tuostakin</t>
@@ -6224,8 +6235,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">helisten, kilisten, solisten, soristen; äänekkäästi, hälisevästi,
-        meluavasti</t>
+        <t pos="Adv">helisten, kilisten, solisten, soristen; äänekkäästi,
+        hälisevästi, meluavasti</t>
       </tg>
     </mg>
   </e>
@@ -6345,8 +6356,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">jyskien, jymisten, jyristen, meluten; jyskeellä, jyminällä,
-        jyrinällä, meluisasti</t>
+        <t pos="Adv">jyskien, jymisten, jyristen, meluten; jyskeellä,
+        jyminällä, jyrinällä, meluisasti</t>
       </tg>
     </mg>
   </e>
@@ -6419,7 +6430,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">huolimattomasti, hutiloimalla, leväperäisesti, sekavasti</t>
+        <t pos="Adv">huolimattomasti, hutiloimalla, leväperäisesti,
+        sekavasti</t>
       </tg>
     </mg>
   </e>
@@ -6587,8 +6599,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">sihisten, pihisten, humisten; sihinällä, pihinällä, huminalla;
-        leikkisästi, kujeilevasti</t>
+        <t pos="Adv">sihisten, pihisten, humisten; sihinällä, pihinällä,
+        huminalla; leikkisästi, kujeilevasti</t>
       </tg>
     </mg>
   </e>
@@ -6612,8 +6624,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, hälisten, naristen, kitisten; meluisasti, hälinällä,
-        narisemalla, kitisemällä</t>
+        <t pos="Adv">meluten, hälisten, naristen, kitisten; meluisasti,
+        hälinällä, narisemalla, kitisemällä</t>
       </tg>
     </mg>
   </e>
@@ -6656,7 +6668,7 @@
     <phonet>davno</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauan sitten, muinoin</t>
@@ -6942,7 +6954,7 @@
     <phonet>dabrom</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">suosiolla, kernaasti, mielellään</t>
@@ -7137,8 +7149,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">härnäten, kiusoitellen; veikeästi, leikkisästi, houkuttelevasti,
-        viekoittelevasti</t>
+        <t pos="Adv">härnäten, kiusoitellen; veikeästi, leikkisästi,
+        houkuttelevasti, viekoittelevasti</t>
       </tg>
     </mg>
   </e>
@@ -7186,8 +7198,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluisasti, hälinällä, jyskeellä, jyrinällä, jyminällä, ryskeellä,
-        kapseella, kopinalla, töminällä</t>
+        <t pos="Adv">meluisasti, hälinällä, jyskeellä, jyrinällä, jyminällä,
+        ryskeellä, kapseella, kopinalla, töminällä</t>
       </tg>
     </mg>
   </e>
@@ -7302,7 +7314,7 @@
     <phonet>dušna</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kuuma, painostava</t>
@@ -7449,8 +7461,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, suhisten, kohisten, humisten; melulla, suhinalla,
-        kohinalla, huminalla</t>
+        <t pos="Adv">meluten, suhisten, kohisten, humisten; melulla,
+        suhinalla, kohinalla, huminalla</t>
       </tg>
     </mg>
   </e>
@@ -7474,7 +7486,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, kohisten, litisten; melulla, kohinalla, litinällä</t>
+        <t pos="Adv">meluten, kohisten, litisten; melulla, kohinalla,
+        litinällä</t>
       </tg>
     </mg>
   </e>
@@ -7637,7 +7650,7 @@
     <phonet>živsta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">elävältä, elossa, eloon, hengissä, henkiin</t>
@@ -7664,7 +7677,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">liristen, loristen, solisten; lirinällä, lorinalla, solinalla</t>
+        <t pos="Adv">liristen, loristen, solisten; lirinällä, lorinalla,
+        solinalla</t>
       </tg>
     </mg>
   </e>
@@ -7688,8 +7702,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, solisten, helisten; meluisasti, äänekkäästi, solinalla,
-        helinällä</t>
+        <t pos="Adv">meluten, solisten, helisten; meluisasti, äänekkäästi,
+        solinalla, helinällä</t>
       </tg>
     </mg>
   </e>
@@ -7713,8 +7727,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, solisten, helisten; meluisasti, äänekkäästi, solinalla,
-        helinällä</t>
+        <t pos="Adv">meluten, solisten, helisten; meluisasti, äänekkäästi,
+        solinalla, helinällä</t>
       </tg>
     </mg>
   </e>
@@ -7738,7 +7752,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">loristen, liristen, solisten; lorinalla, lirinällä, solinalla</t>
+        <t pos="Adv">loristen, liristen, solisten; lorinalla, lirinällä,
+        solinalla</t>
       </tg>
     </mg>
   </e>
@@ -7762,8 +7777,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">solisten, kuohuen, kiehuen, ryöpyten; solinalla, kuohumalla,
-        kiehumalla, ryöppyämällä</t>
+        <t pos="Adv">solisten, kuohuen, kiehuen, ryöpyten; solinalla,
+        kuohumalla, kiehumalla, ryöppyämällä</t>
       </tg>
     </mg>
   </e>
@@ -8144,7 +8159,7 @@
     <phonet>źŕä, źəŕä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">huonosti ??; turhaan, suotta</t>
@@ -8195,9 +8210,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">jyskien, jyristen, jymisten, jylisten, jysähtäen, jymähtäen,
-        ryskyen; jyskeellä, jyrinällä, jyminällä, jylinällä, jysähdyksellä,
-        jymähdyksellä, ryskeellä</t>
+        <t pos="Adv">jyskien, jyristen, jymisten, jylisten, jysähtäen,
+        jymähtäen, ryskyen; jyskeellä, jyrinällä, jyminällä, jylinällä,
+        jysähdyksellä, jymähdyksellä, ryskeellä</t>
       </tg>
     </mg>
   </e>
@@ -8408,7 +8423,7 @@
     <phonet>ila-šala</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jotenkuten, mitenkuten, huolimattomasti</t>
@@ -8550,7 +8565,7 @@
     <phonet>iľaks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toisin</t>
@@ -8596,7 +8611,7 @@
     <phonet>iľasta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">joskus, toisinaan</t>
@@ -8618,7 +8633,7 @@
     <phonet>iľäťəmba</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">illalla</t>
@@ -8728,7 +8743,7 @@
     <phonet>iľäťkigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vielä sinä iltana</t>
@@ -8798,7 +8813,7 @@
     <phonet>iŋgəľkiģä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aiemmin, sitä ennen, ennen tätä</t>
@@ -8873,7 +8888,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">juovuksissa, humalassa, juovuspäissään, humalapäissään</t>
+        <t pos="Adv">juovuksissa, humalassa, juovuspäissään,
+        humalapäissään</t>
       </tg>
     </mg>
   </e>
@@ -8892,7 +8908,7 @@
     <phonet>iŕəcta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">juovuksissa, humalassa; juopunut, humalainen</t>
@@ -8927,7 +8943,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">juovuksissa, humalassa, juovuspäissään, humalapäissään</t>
+        <t pos="Adv">juovuksissa, humalassa, juovuspäissään,
+        humalapäissään</t>
       </tg>
     </mg>
   </e>
@@ -8946,7 +8963,7 @@
     <phonet>iśak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">eilen</t>
@@ -9000,7 +9017,7 @@
     <phonet>ičkəźä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kaukana, etäällä</t>
@@ -9194,7 +9211,7 @@
     <phonet>kajgista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">helisten, soinnukkaasti</t>
@@ -9288,7 +9305,7 @@
     <phonet>kajca</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siellä, tuolla</t>
@@ -9310,7 +9327,7 @@
     <phonet>kajtu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sinne, tuonne</t>
@@ -9388,7 +9405,7 @@
     <phonet>kaľďavsta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. huonosti. 2. kauheasti, hirveästi</t>
@@ -9482,7 +9499,7 @@
     <phonet>karań-karšək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vastakkain, vastatusten</t>
@@ -9528,7 +9545,7 @@
     <phonet>karšək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vastakkain, vastatusten</t>
@@ -9614,7 +9631,7 @@
     <phonet>kaťi-kov</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jonnekin, johonkin</t>
@@ -9636,7 +9653,7 @@
     <phonet>kaťi-kosa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jossakin</t>
@@ -9658,7 +9675,7 @@
     <phonet>kaťi-kosta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jostakin</t>
@@ -9680,7 +9697,7 @@
     <phonet>kaťi-meźəńďi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jonkin vuoksi/tähden</t>
@@ -9726,7 +9743,7 @@
     <phonet>kaťi-mes/-mäs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jostain syystä</t>
@@ -9748,7 +9765,7 @@
     <phonet>kaťi-meśťəma</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jotain varten</t>
@@ -9892,7 +9909,7 @@
     <phonet>kafkśť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kahdesti, kaksi kertaa</t>
@@ -10098,7 +10115,7 @@
     <phonet>kaftəva</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kahtia, kahteen osaan; kahdella tavalla</t>
@@ -10552,7 +10569,7 @@
     <phonet>keľista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">laajasti, leveästi</t>
@@ -10742,7 +10759,7 @@
     <phonet>keməsta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kovaa, kovasti, lujasti, vahvasti</t>
@@ -10796,7 +10813,7 @@
     <phonet>kenərdaź</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kiireessä, kiireisesti</t>
@@ -11082,7 +11099,7 @@
     <phonet>kizəńbeŕf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">koko kesän (ajan)</t>
@@ -11176,7 +11193,7 @@
     <phonet>kiŕďəmška</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siedettävä</t>
@@ -11460,6 +11477,108 @@
 
   <e>
     <lg>
+      <l pos="Adv">ков</l>
+
+      <stg>
+        <st Contlex="ADV-SPAT_">ков</st>
+      </stg>
+    </lg>
+
+    <pos>SPAT</pos>
+
+    <phonet>kov</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">minne, mihin</t>
+      </tg>
+
+      <xg>
+        <x>ков молят?</x>
+
+        <phonet>kov moľat</phonet>
+
+        <xt xml:lang="fin">minne menet?</xt>
+      </xg>
+
+      <xg>
+        <x>ковгак</x>
+
+        <phonet>kovgak</phonet>
+
+        <xt xml:lang="fin">jonnekin.</xt>
+      </xg>
+
+      <xg>
+        <x>ков-бди</x>
+
+        <phonet>kov-bəďi</phonet>
+
+        <xt xml:lang="fin">jonnekin.</xt>
+      </xg>
+
+      <xg>
+        <x>ков-ков</x>
+
+        <phonet>kov-kov</phonet>
+
+        <xt xml:lang="fin">jonnekin.</xt>
+      </xg>
+
+      <xg>
+        <x>ковга аф кондястихть</x>
+
+        <phonet>kovg(ə) af końďäśťixť</phonet>
+
+        <xt xml:lang="fin">eivät kelpaa mihinkään.</xt>
+      </xg>
+
+      <xg>
+        <x>аш ков</x>
+
+        <phonet>aš kov</phonet>
+
+        <xt xml:lang="fin">ei minnekään.</xt>
+      </xg>
+
+      <xg>
+        <x>ков ащи</x>
+
+        <phonet>kov ašči</phonet>
+
+        <xt xml:lang="fin">yhä (enemmän).</xt>
+      </xg>
+
+      <xg>
+        <x>ков ши тов</x>
+
+        <phonet>kov ši tov</phonet>
+
+        <xt xml:lang="fin">päivästä toiseen.</xt>
+      </xg>
+
+      <xg>
+        <x>ков ... тов</x>
+
+        <phonet>kov … tov</phonet>
+
+        <xt xml:lang="fin">mitä … sitä.</xt>
+      </xg>
+
+      <xg>
+        <x>ков киза, тов касы</x>
+
+        <phonet>kov kiza, tov kasi</phonet>
+
+        <xt xml:lang="fin">kasvaa vuodesta toiseen.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">ковга</l>
 
       <stg>
@@ -11496,7 +11615,7 @@
     <phonet>kovəlda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">mistä</t>
@@ -11654,7 +11773,7 @@
     <phonet>koza</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. minne, mihin. 2. missä</t>
@@ -11732,7 +11851,7 @@
     <phonet>kozk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">heti kun; mihin</t>
@@ -11842,7 +11961,7 @@
     <phonet>koj-kak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jotenkin</t>
@@ -11864,7 +11983,7 @@
     <phonet>koj-kov</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jonnekin</t>
@@ -11886,7 +12005,7 @@
     <phonet>koj-kosa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jossakin</t>
@@ -11908,7 +12027,7 @@
     <phonet>koj-kosta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jostakin</t>
@@ -12314,7 +12433,7 @@
     <phonet>kolməčəś</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toissapäivänä</t>
@@ -12413,8 +12532,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
-        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään,
+        kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon,
+        kumolleen</t>
       </tg>
     </mg>
   </e>
@@ -12438,8 +12558,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
-        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään,
+        kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon,
+        kumolleen</t>
       </tg>
     </mg>
   </e>
@@ -12463,8 +12584,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
-        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään,
+        kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon,
+        kumolleen</t>
       </tg>
     </mg>
   </e>
@@ -12488,8 +12610,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään, kumossa,
-        kumollaan; suulleen, vatsalleen, rähmälleen, kumoon, kumolleen</t>
+        <t pos="Adv">suullaan, kasvot alaspäin, vatsallaan, rähmällään,
+        kumossa, kumollaan; suulleen, vatsalleen, rähmälleen, kumoon,
+        kumolleen</t>
       </tg>
     </mg>
   </e>
@@ -12849,7 +12972,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vinosti, vinoon, viistoon; karsaasti, kieroon, kierosti</t>
+        <t pos="Adv">vinosti, vinoon, viistoon; karsaasti, kieroon,
+        kierosti</t>
       </tg>
     </mg>
   </e>
@@ -13012,7 +13136,7 @@
     <phonet>kraj</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. seutu, alue. 2. jonkin reuna</t>
@@ -13210,7 +13334,7 @@
     <phonet>kuvalməs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">pitkin, pitkittäin, pituussuuntaan</t>
@@ -13232,7 +13356,7 @@
     <phonet>kuvańä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">missä; minne päin</t>
@@ -13302,7 +13426,7 @@
     <phonet>kuvať</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauan, pitkään</t>
@@ -13332,7 +13456,7 @@
     <phonet>kuvaťs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauan, pitkästi</t>
@@ -13411,7 +13535,7 @@
     <phonet>kuľəvista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kuuluvasti, äänekkäästi</t>
@@ -13529,7 +13653,7 @@
     <phonet>kunara</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauan sitten, aiemmin, ennen</t>
@@ -13559,7 +13683,7 @@
     <phonet>kunarkigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ammoisista ajoista</t>
@@ -13605,7 +13729,7 @@
     <phonet>kunf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">selällään, selälleen</t>
@@ -13659,7 +13783,7 @@
     <phonet>kurək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nopeasti, pian, kohta</t>
@@ -13697,7 +13821,7 @@
     <phonet>kurəkəńä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nopeasti, pian</t>
@@ -14007,7 +14131,7 @@
     <phonet>käďvijsa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">käsin, käsivoimin</t>
@@ -14226,8 +14350,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vihaisesti, kiukkuisena, pahasti, ilkeästi, häijysti, kovasti,
-        ankarasti</t>
+        <t pos="Adv">vihaisesti, kiukkuisena, pahasti, ilkeästi, häijysti,
+        kovasti, ankarasti</t>
       </tg>
     </mg>
   </e>
@@ -14318,7 +14442,7 @@
     <phonet>käpä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">paljain jaloin, avojaloin</t>
@@ -14601,7 +14725,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, meluisasti, äänekkäästi, hälisten, kolisten, kolinalla</t>
+        <t pos="Adv">meluten, meluisasti, äänekkäästi, hälisten, kolisten,
+        kolinalla</t>
       </tg>
     </mg>
   </e>
@@ -14625,8 +14750,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, jyskien, kopisten, koputtaen; meluisasti, jyskeellä,
-        kopinalla, koputuksella</t>
+        <t pos="Adv">meluten, jyskien, kopisten, koputtaen; meluisasti,
+        jyskeellä, kopinalla, koputuksella</t>
       </tg>
     </mg>
   </e>
@@ -14650,8 +14775,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">meluten, jyskien, kopisten, koputtaen; meluisasti, jyskeellä,
-        kopinalla, koputuksella</t>
+        <t pos="Adv">meluten, jyskien, kopisten, koputtaen; meluisasti,
+        jyskeellä, kopinalla, koputuksella</t>
       </tg>
     </mg>
   </e>
@@ -14695,11 +14820,11 @@
     <phonet>lad</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. sopu, sovinto. 2. hyvä, mukava. 3. hyvin, mukavasti, mukavaa,
-        kivaa</t>
+        <t pos="Adv">1. sopu, sovinto. 2. hyvä, mukava. 3. hyvin, mukavasti,
+        mukavaa, kivaa</t>
       </tg>
 
       <xg>
@@ -14764,7 +14889,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">surullisesti, surullisena, murheellisesti, murheellisena</t>
+        <t pos="Adv">surullisesti, surullisena, murheellisesti,
+        murheellisena</t>
       </tg>
     </mg>
   </e>
@@ -14975,7 +15101,7 @@
     <phonet>laməkśť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">monta kertaa, monesti, usein</t>
@@ -15069,7 +15195,7 @@
     <phonet>laməńas</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauemmin, pitempään</t>
@@ -15091,7 +15217,7 @@
     <phonet>laməs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kauan, pitkän aikaa</t>
@@ -15190,8 +15316,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">pinnallisesti, ylimalkaisesti, joten kuten, summittaisesti,
-        suunnilleen</t>
+        <t pos="Adv">pinnallisesti, ylimalkaisesti, joten kuten,
+        summittaisesti, suunnilleen</t>
       </tg>
     </mg>
   </e>
@@ -15258,7 +15384,7 @@
     <phonet>laŋksa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">päällä, -lla</t>
@@ -15296,7 +15422,7 @@
     <phonet>laŋgu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">päälle, -lle</t>
@@ -15414,7 +15540,7 @@
     <phonet>laśťä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. ratsain, hevosella. 2. ajaen laukkaa</t>
@@ -15532,7 +15658,7 @@
     <phonet>lac</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hyvin, oikein</t>
@@ -15570,7 +15696,7 @@
     <phonet>lackas</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hyvin</t>
@@ -15929,7 +16055,7 @@
     <phonet>ľijaks, iľaks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toisin</t>
@@ -15951,7 +16077,7 @@
     <phonet>ľijasta, iľasta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">joskus, toisinaan</t>
@@ -16010,8 +16136,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">näppärästi, ketterästi, taitavasti, nasevasti; nokkelasti,
-        ovelasti</t>
+        <t pos="Adv">näppärästi, ketterästi, taitavasti, nasevasti;
+        nokkelasti, ovelasti</t>
       </tg>
     </mg>
   </e>
@@ -16534,7 +16660,7 @@
     <phonet>malasa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">lähellä, läheisyydessä</t>
@@ -16648,7 +16774,7 @@
     <phonet>maləśť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hiukan, hieman, vähän</t>
@@ -16702,7 +16828,7 @@
     <phonet>mana</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toissa vuonna, kaksi vuotta sitten</t>
@@ -16756,7 +16882,7 @@
     <phonet>manamba</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toissa vuonna, kaksi vuotta sitten</t>
@@ -16778,7 +16904,7 @@
     <phonet>mańi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kaunis ilma, pouta; kirkkaasti, selvästi</t>
@@ -16816,7 +16942,7 @@
     <phonet>marńək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kaikki, koko joukko; kokonaan, täysin, kaikkineen</t>
@@ -16918,7 +17044,7 @@
     <phonet>marəm</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. (kaikki) yhdessä, jokaikinen. 2. kokonaan, täysin</t>
@@ -16972,7 +17098,7 @@
     <phonet>mars</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yhteen, kokoon</t>
@@ -16994,7 +17120,7 @@
     <phonet>marsa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yhdessä</t>
@@ -17024,7 +17150,7 @@
     <phonet>maŕavista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ääneen, äänekkäästi</t>
@@ -17127,7 +17253,7 @@
     <phonet>maćä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">matala (vesi), matalikko</t>
@@ -17170,7 +17296,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">haluttomasti, vastentahtoisesti, kyllästyneeti,ikävystyneesti</t>
+        <t pos="Adv">haluttomasti, vastentahtoisesti,
+        kyllästyneeti,ikävystyneesti</t>
       </tg>
     </mg>
   </e>
@@ -17213,7 +17340,7 @@
     <phonet>meki</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">takaisin</t>
@@ -17267,7 +17394,7 @@
     <phonet>mekkäťť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jälkikäteen</t>
@@ -17289,7 +17416,7 @@
     <phonet>mekəvasu, mekuvasu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">edestakaisin</t>
@@ -17327,7 +17454,7 @@
     <phonet>mekəlaŋkt</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">päinvastoin; nurinpäin; kääntäen</t>
@@ -17357,7 +17484,7 @@
     <phonet>mekəľä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">perässä, jäljessä</t>
@@ -17387,7 +17514,7 @@
     <phonet>mekəľi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. perään, jälkeen. 2. sitten, myöhemmin, lopulta</t>
@@ -17521,10 +17648,11 @@
     <phonet>mekpäľi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">viimeksi, viimeisen kerran, viimeiseksi, lopuksi, lopulta</t>
+        <t pos="Adv">viimeksi, viimeisen kerran, viimeiseksi, lopuksi,
+        lopulta</t>
       </tg>
     </mg>
   </e>
@@ -17543,7 +17671,7 @@
     <phonet>meľä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sitten, (sen) jälkeen, myöhemmin</t>
@@ -17701,7 +17829,7 @@
     <phonet>meľćək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">peräkkäin</t>
@@ -17739,7 +17867,7 @@
     <phonet>meľä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. viime vuonna. 2. jälkeen</t>
@@ -17825,7 +17953,7 @@
     <phonet>meľamba</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">viime vuonna</t>
@@ -17903,7 +18031,7 @@
     <phonet>mes, mäs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">miksi</t>
@@ -18610,8 +18738,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kauanko, pitkäänkö; toistaiseksi, joksikin aikaa; milloin, mihin
-        aikaan</t>
+        <t pos="Adv">kauanko, pitkäänkö; toistaiseksi, joksikin aikaa;
+        milloin, mihin aikaan</t>
       </tg>
     </mg>
   </e>
@@ -19043,7 +19171,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">julkeasti, häikäilemättömästi, röyhkeästi, hävyttömästi</t>
+        <t pos="Adv">julkeasti, häikäilemättömästi, röyhkeästi,
+        hävyttömästi</t>
       </tg>
     </mg>
   </e>
@@ -19062,7 +19191,7 @@
     <phonet>nagoľ</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jatkuvasti, aina</t>
@@ -19140,7 +19269,7 @@
     <phonet>naj</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aina</t>
@@ -19538,7 +19667,7 @@
     <phonet>najava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">avoimesti</t>
@@ -20096,7 +20225,7 @@
     <phonet>ńiŋgä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vielä</t>
@@ -20155,8 +20284,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vinossa, kierossa, väärässä, kallellaan, vinoon, kieroon, väärää,
-        kallelleen</t>
+        <t pos="Adv">vinossa, kierossa, väärässä, kallellaan, vinoon, kieroon,
+        väärää, kallelleen</t>
       </tg>
     </mg>
   </e>
@@ -20391,7 +20520,7 @@
     <phonet>nučk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. suoraan. 2. puoliksi, kahtia</t>
@@ -20634,8 +20763,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">lähempänä lounasta t. puoltapäivää, lounaan aikoihin, puolilta
-        päivin</t>
+        <t pos="Adv">lähempänä lounasta t. puoltapäivää, lounaan aikoihin,
+        puolilta päivin</t>
       </tg>
     </mg>
   </e>
@@ -20846,7 +20975,7 @@
     <phonet>octa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. uudelleen. 2. nuorena</t>
@@ -20868,7 +20997,7 @@
     <phonet>odu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jälleen, uudelleen; ensiksi, aluksi</t>
@@ -20906,7 +21035,7 @@
     <phonet>ozada</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">istuen, istumassa, istualla(an)</t>
@@ -21040,7 +21169,7 @@
     <phonet>omboku</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">toiselle puolelle</t>
@@ -21094,7 +21223,7 @@
     <phonet>ombəť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ylihuominen, ylihuomenna</t>
@@ -21297,7 +21426,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">terävästi, teräväksi, terävänä; huolellisesti, tarkkaavaisesti</t>
+        <t pos="Adv">terävästi, teräväksi, terävänä; huolellisesti,
+        tarkkaavaisesti</t>
       </tg>
     </mg>
   </e>
@@ -22086,7 +22216,7 @@
     <phonet>para</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. hyvä. 2. omaisuus</t>
@@ -22356,7 +22486,7 @@
     <phonet>pačk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. puoliksi, kahtia. 2. läpi, lävitse; puhki</t>
@@ -22586,10 +22716,11 @@
     <phonet>peŕf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. ympäri, ympärillä. 2. läpi, kautta. 3. aidattu piha</t>
+        <t pos="Adv">1. ympäri, ympärillä. 2. läpi, kautta. 3. aidattu
+        piha</t>
       </tg>
 
       <xg>
@@ -22664,7 +22795,7 @@
     <phonet>peftəma, pefťəma</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">loputon, ääretön, rajaton</t>
@@ -22702,10 +22833,11 @@
     <phonet>pećək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">peräkkäin, perätysten, peräkanaa, yksi toisensa jälkeen</t>
+        <t pos="Adv">peräkkäin, perätysten, peräkanaa, yksi toisensa
+        jälkeen</t>
       </tg>
 
       <xg>
@@ -22858,7 +22990,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">korvia huumaavasti/vihlovasti/särkevästi, hyvin äänekkäästi</t>
+        <t pos="Adv">korvia huumaavasti/vihlovasti/särkevästi, hyvin
+        äänekkäästi</t>
       </tg>
     </mg>
   </e>
@@ -22906,8 +23039,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">käsineen ja jalkoineen; mielellään, mielihyvin, kernaasti;
-        kokonaan, täysin, kerrassaan</t>
+        <t pos="Adv">käsineen ja jalkoineen; mielellään, mielihyvin,
+        kernaasti; kokonaan, täysin, kerrassaan</t>
       </tg>
     </mg>
   </e>
@@ -22926,7 +23059,7 @@
     <phonet>piľgəńək-pŕäńək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kiireestä kantapäähän</t>
@@ -23164,7 +23297,7 @@
     <phonet>piťńəftəma, piťńəfťəma</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ilmainen</t>
@@ -23474,7 +23607,7 @@
     <phonet>polas-polas</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vuorotellen, vaihdellen</t>
@@ -23621,7 +23754,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">alinomaa, alituiseen, yhtenään, vakituisesti, pysyvästi</t>
+        <t pos="Adv">alinomaa, alituiseen, yhtenään, vakituisesti,
+        pysyvästi</t>
       </tg>
     </mg>
   </e>
@@ -23808,7 +23942,7 @@
     <phonet>proks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. täysin, aivan. 2. aina</t>
@@ -23851,7 +23985,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">yksinkertaisesti; suorastaan, kerrassaan, kerta kaikkiaan</t>
+        <t pos="Adv">yksinkertaisesti; suorastaan, kerrassaan, kerta
+        kaikkiaan</t>
       </tg>
     </mg>
   </e>
@@ -23919,7 +24054,7 @@
     <phonet>pŕava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">pintapuolisesti, pinnallisesti</t>
@@ -24234,8 +24369,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">epäjärjestyksessä, epäsiististi, sekaisin, sekavasti, sotkuisesti,
-        huolimattomasti</t>
+        <t pos="Adv">epäjärjestyksessä, epäsiististi, sekaisin, sekavasti,
+        sotkuisesti, huolimattomasti</t>
       </tg>
     </mg>
   </e>
@@ -24564,7 +24699,7 @@
     <phonet>päk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hyvin, oikein, kovin, erittäin</t>
@@ -24626,7 +24761,7 @@
     <phonet>päkəńä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hyvin, kunnolla</t>
@@ -24656,7 +24791,7 @@
     <phonet>päľəva</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">puoliksi, kahtia, kahteen osaan</t>
@@ -24726,7 +24861,7 @@
     <phonet>päľəs</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">puoliksi, puoleksi</t>
@@ -24809,8 +24944,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">puolikkaina, osina, paloina, viipaleina, puoliksi, osiksi,
-        paloikis, viipaleiksi</t>
+        <t pos="Adv">puolikkaina, osina, paloina, viipaleina, puoliksi,
+        osiksi, paloikis, viipaleiksi</t>
       </tg>
     </mg>
   </e>
@@ -24925,7 +25060,7 @@
     <phonet>päškśä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">täynnä</t>
@@ -25061,10 +25196,11 @@
         <st Contlex="ADV-TEMP">рана</st>
       </stg>
     </lg>
+
     <phonet>rana</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">varhain, aikaisin</t>
@@ -25094,7 +25230,7 @@
     <phonet>ranakigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jo aikaisin aamulla, anivarhain</t>
@@ -25308,7 +25444,7 @@
     <phonet>raxśəmga</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">piloillaan</t>
@@ -25474,11 +25610,11 @@
     <phonet>rovna</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti, samoin,
-        tasan</t>
+        <t pos="Adv">yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti,
+        samoin, tasan</t>
       </tg>
 
       <xg>
@@ -25505,7 +25641,7 @@
     <phonet>rozna</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">erikseen, erillään; eri tavoin</t>
@@ -25796,7 +25932,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kuihtuneena ja riutuneena (kun on sairastanut pitkään)</t>
+        <t pos="Adv">kuihtuneena ja riutuneena (kun on sairastanut
+        pitkään)</t>
       </tg>
     </mg>
   </e>
@@ -25863,7 +26000,7 @@
     <phonet>ŕäc</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">järjestykseen</t>
@@ -25901,7 +26038,7 @@
     <phonet>ŕäca</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">järjestyksessä</t>
@@ -25955,7 +26092,7 @@
     <phonet>ŕäcək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">peräkkäin; vierekkäin, rinnakkain</t>
@@ -26006,8 +26143,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten,
-        parkuen, vollottaen</t>
+        <t pos="Adv">kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen,
+        jylisten, parkuen, vollottaen</t>
       </tg>
     </mg>
   </e>
@@ -26031,8 +26168,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen, jylisten,
-        parkuen, vollottaen</t>
+        <t pos="Adv">kiljuen, karjuen, ärjyen, mölisten, ulvoen, vonkuen,
+        jylisten, parkuen, vollottaen</t>
       </tg>
     </mg>
   </e>
@@ -26051,7 +26188,7 @@
     <phonet>savər</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hitaasti</t>
@@ -26137,7 +26274,7 @@
     <phonet>salava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">salaa, salassa, vaivihkaa</t>
@@ -26199,7 +26336,7 @@
     <phonet>sasta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hiljaisesti, rauhallisesti</t>
@@ -26245,7 +26382,7 @@
     <phonet>satəmška</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">riittävä; riittävästi</t>
@@ -26328,7 +26465,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">rypytetty, poimutettu (esim. [sarka]viitta tai turkki)</t>
+        <t pos="Adv">rypytetty, poimutettu (esim. [sarka]viitta tai
+        turkki)</t>
       </tg>
     </mg>
   </e>
@@ -26472,8 +26610,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">koko sydämestään ja sielustaan; avomielisesti, avoimesti, suoraan;
-        selvästi, ilmeisesti</t>
+        <t pos="Adv">koko sydämestään ja sielustaan; avomielisesti, avoimesti,
+        suoraan; selvästi, ilmeisesti</t>
       </tg>
     </mg>
   </e>
@@ -26540,7 +26678,7 @@
     <phonet>śeďiftəma</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sydämetön, säälimätön</t>
@@ -26610,7 +26748,7 @@
     <phonet>śej</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tänne, tähän</t>
@@ -26677,7 +26815,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">leväperäisesti, piittaamattomasti, välinpitämättömästi</t>
+        <t pos="Adv">leväperäisesti, piittaamattomasti,
+        välinpitämättömästi</t>
       </tg>
     </mg>
   </e>
@@ -26773,7 +26912,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vilpittömästi, avoimesti; ulkonäöltään, ulkomuodoltaan</t>
+        <t pos="Adv">vilpittömästi, avoimesti; ulkonäöltään,
+        ulkomuodoltaan</t>
       </tg>
     </mg>
   </e>
@@ -26792,7 +26932,7 @@
     <phonet>śembä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">superlatiivin apusana</t>
@@ -26910,7 +27050,7 @@
     <phonet>śeŕćək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vieressä; vierekkäin</t>
@@ -27028,7 +27168,7 @@
     <phonet>śeťmä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hiljainen, tyyni, rauhallinen</t>
@@ -27850,7 +27990,7 @@
     <phonet>śijak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">samalla tavalla, juuri noin</t>
@@ -27880,7 +28020,7 @@
     <phonet>śijäńä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siellä, tuolla, sillä paikalla, siinä paikassa</t>
@@ -28051,8 +28191,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">täysin, aivan, kokonaan, (ei) lainkaan, (ei) ollenkaan; aina,
-        tavallisesti</t>
+        <t pos="Adv">täysin, aivan, kokonaan, (ei) lainkaan, (ei) ollenkaan;
+        aina, tavallisesti</t>
       </tg>
     </mg>
   </e>
@@ -28100,8 +28240,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">heikonlaisesti, huononlaisesti; höllänlaisesti, löyhänlaisesti,
-        löysänlaisesti</t>
+        <t pos="Adv">heikonlaisesti, huononlaisesti; höllänlaisesti,
+        löyhänlaisesti, löysänlaisesti</t>
       </tg>
     </mg>
   </e>
@@ -28336,7 +28476,7 @@
     <phonet>śəńara</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">niin paljon</t>
@@ -28358,7 +28498,7 @@
     <phonet>śəńarda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">silloin</t>
@@ -28388,7 +28528,7 @@
     <phonet>śəńarəkśť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">niin monta kertaa</t>
@@ -28415,8 +28555,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin,
-        noin) monta</t>
+        <t pos="Adv">sen (tämän, tuon) verran, niin (näin, noin) paljon, niin
+        (näin, noin) monta</t>
       </tg>
     </mg>
   </e>
@@ -28440,8 +28580,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">sen (tämän, tuon) verran, niin (näin, noin) paljon, niin (näin,
-        noin) monta</t>
+        <t pos="Adv">sen (tämän, tuon) verran, niin (näin, noin) paljon, niin
+        (näin, noin) monta</t>
       </tg>
     </mg>
   </e>
@@ -28465,7 +28605,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">tiettävästi, tietääkse(en); tahallisesti, tarkoituksella</t>
+        <t pos="Adv">tiettävästi, tietääkse(en); tahallisesti,
+        tarkoituksella</t>
       </tg>
     </mg>
   </e>
@@ -28777,8 +28918,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">yhdellä kertaa, kerralla; yhtaikaa, samanaikaisesti; heti,
-        kohta</t>
+        <t pos="Adv">yhdellä kertaa, kerralla; yhtaikaa, samanaikaisesti;
+        heti, kohta</t>
       </tg>
     </mg>
   </e>
@@ -28845,7 +28986,7 @@
     <phonet>stadəŋga</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sitä ilmankin, sitäkin paitsi</t>
@@ -28875,7 +29016,7 @@
     <phonet>stak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">syyttä, suotta, turhaan; ilmaiseksi</t>
@@ -28921,7 +29062,7 @@
     <phonet>staka</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vaikea, hankala; raskas, painava</t>
@@ -28951,7 +29092,7 @@
     <phonet>stakaščəmda</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">turhaan, turhan/tyhjän tähden</t>
@@ -28973,7 +29114,7 @@
     <phonet>staki</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yhä, vielä, edelleen, aina vain</t>
@@ -29003,7 +29144,7 @@
     <phonet>stańä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sillä/tuolla tavalla</t>
@@ -29206,7 +29347,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">erittäin, erikoisen, tavattoman, tavattomasti; kamalan, hirveän</t>
+        <t pos="Adv">erittäin, erikoisen, tavattoman, tavattomasti; kamalan,
+        hirveän</t>
       </tg>
     </mg>
   </e>
@@ -29734,7 +29876,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">epäselvästi, varjoja, ääriviivoja (huonosta näkökyvystä)</t>
+        <t pos="Adv">epäselvästi, varjoja, ääriviivoja (huonosta
+        näkökyvystä)</t>
       </tg>
     </mg>
   </e>
@@ -29873,10 +30016,11 @@
     <phonet>śadəŋgəľä, śadiŋgəľä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">aikaisemmin, aiemmin, ennen, entisaikaan, ennenvanhaan</t>
+        <t pos="Adv">aikaisemmin, aiemmin, ennen, entisaikaan,
+        ennenvanhaan</t>
       </tg>
     </mg>
   </e>
@@ -29943,7 +30087,7 @@
     <phonet>śaka</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sama</t>
@@ -30018,7 +30162,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv"></t>
+        <t pos="Adv"/>
       </tg>
     </mg>
   </e>
@@ -30042,7 +30186,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv"></t>
+        <t pos="Adv"/>
       </tg>
     </mg>
   </e>
@@ -30133,7 +30277,7 @@
     <phonet>śäľďä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sitten, sen jälkeen</t>
@@ -30155,7 +30299,7 @@
     <phonet>śaməľďä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sitten, sen jälkeen</t>
@@ -30177,7 +30321,7 @@
     <phonet>śaŋksa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siksi, sen tähden</t>
@@ -30271,7 +30415,7 @@
     <phonet>śas</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siksi, sen takia</t>
@@ -30301,7 +30445,7 @@
     <phonet>śäśkəvəmška</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">voimien mukainen</t>
@@ -30419,7 +30563,7 @@
     <phonet>śäškava, śeškava, śaškava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sen verran, niin paljon, siinä määrin</t>
@@ -30513,7 +30657,7 @@
     <phonet>śokśəmbeŕf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">koko syksyn (ajan)</t>
@@ -30655,7 +30799,7 @@
     <phonet>taga, taŋga</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">taas, jälleen</t>
@@ -31301,7 +31445,7 @@
     <phonet>ťejgä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tätä kautta</t>
@@ -31419,7 +31563,7 @@
     <phonet>ťiŕxkəń-ťiŕxkəń</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">palasiksi, paloiksi</t>
@@ -31449,7 +31593,7 @@
     <phonet>ťifťəń</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yksitellen</t>
@@ -31479,7 +31623,7 @@
     <phonet>ťifťəńäń</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">yksitellen</t>
@@ -31709,7 +31853,7 @@
     <phonet>ťijak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">(mennä) täältä; tähän suuntaan, tänne(päin)</t>
@@ -31731,7 +31875,7 @@
     <phonet>ťijäńä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">(mennä) täältä; tänne, tännepäin, tähän suuntaan</t>
@@ -31801,7 +31945,7 @@
     <phonet>ťəńara</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tämän verran</t>
@@ -31921,7 +32065,7 @@
     <phonet>tov</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tuonne, sinne; eteenpäin</t>
@@ -31985,7 +32129,7 @@
     <phonet>tovəla</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siellä, tuolla</t>
@@ -32023,7 +32167,7 @@
     <phonet>toza</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sinne, tuonne</t>
@@ -32093,7 +32237,7 @@
     <phonet>tozk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. sinne, tuonne. 2. siellä, sillä paikalla</t>
@@ -32208,8 +32352,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">iltahämärissä, pimeän tullen, aamuhämärissä (sananmuk. kun
-        sytytetään valot)</t>
+        <t pos="Adv">iltahämärissä, pimeän tullen, aamuhämärissä (sananmuk.
+        kun sytytetään valot)</t>
       </tg>
     </mg>
   </e>
@@ -32329,7 +32473,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">järjettömästi, tolkuttomasti, käsittämättömästi; turhaan</t>
+        <t pos="Adv">järjettömästi, tolkuttomasti, käsittämättömästi;
+        turhaan</t>
       </tg>
     </mg>
   </e>
@@ -32468,7 +32613,7 @@
     <phonet>topəćta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kylläinen; kylläisenä</t>
@@ -32518,7 +32663,7 @@
         <sem/>
       </semantics>
 
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. siellä, tuolla</t>
@@ -32542,7 +32687,7 @@
         <sem semClass="TIME"/>
       </semantics>
 
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">silloin</t>
@@ -32588,7 +32733,7 @@
     <phonet>tosta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. sieltä. 2. silloin</t>
@@ -32647,7 +32792,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">täsmällisesti, ajoissa; oikein, tarkasti, itse asiassa</t>
+        <t pos="Adv">täsmällisesti, ajoissa; oikein, tarkasti, itse
+        asiassa</t>
       </tg>
     </mg>
   </e>
@@ -33223,7 +33369,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">sihisten, ritisten (märkä puu palaessaan, samovaari, pata)</t>
+        <t pos="Adv">sihisten, ritisten (märkä puu palaessaan, samovaari,
+        pata)</t>
       </tg>
     </mg>
   </e>
@@ -33295,7 +33442,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">joten kuten, sinnepäin, hutiloiden, suit sait, hätäisesti</t>
+        <t pos="Adv">joten kuten, sinnepäin, hutiloiden, suit sait,
+        hätäisesti</t>
       </tg>
     </mg>
   </e>
@@ -33319,7 +33467,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">joten kuten, sinnepäin, hutiloiden, suit sait, hätäisesti</t>
+        <t pos="Adv">joten kuten, sinnepäin, hutiloiden, suit sait,
+        hätäisesti</t>
       </tg>
     </mg>
   </e>
@@ -33578,7 +33727,7 @@
     <phonet>ťadďä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tänä vuonna</t>
@@ -33680,7 +33829,7 @@
     <phonet>ťakəmńäń</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aikoja sitten</t>
@@ -33774,7 +33923,7 @@
     <phonet>ťaləńbeŕf</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">koko talven</t>
@@ -33844,10 +33993,11 @@
     <phonet>ťäńəms, ťäńims</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tähän saakka, näihin asti</t>
+
         <t pos="Adv">tähän mennessä, tähän asti</t>
       </tg>
 
@@ -33875,7 +34025,7 @@
     <phonet>ťäńi</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nyt</t>
@@ -33929,7 +34079,7 @@
     <phonet>ťäńikigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">nyt heti</t>
@@ -34099,7 +34249,7 @@
     <phonet>ťafta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">näin, niin</t>
@@ -34121,7 +34271,7 @@
     <phonet>ťaftak</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. näin, niin. 2. ilmaiseksi</t>
@@ -34191,7 +34341,7 @@
     <phonet>ťäči</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tänään</t>
@@ -34237,7 +34387,7 @@
     <phonet>ťäčikigä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">vielä tänään</t>
@@ -34259,7 +34409,7 @@
     <phonet>ťäškava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">niin, noin, sillä tavoin</t>
@@ -34281,7 +34431,7 @@
     <phonet>ťäškada</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">niin aikaisin/varhain</t>
@@ -34524,7 +34674,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">ihmeellisesti, ihmeteltävästi, kummallisesti, merkillisesti</t>
+        <t pos="Adv">ihmeellisesti, ihmeteltävästi, kummallisesti,
+        merkillisesti</t>
       </tg>
     </mg>
   </e>
@@ -34711,7 +34862,7 @@
     <phonet>užäľ</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. valitettavasti. 2. sääli</t>
@@ -34749,7 +34900,7 @@
     <phonet>ulxka</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">äskettäin</t>
@@ -34771,7 +34922,7 @@
     <phonet>ulxkəmba</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">äskettäin</t>
@@ -35009,7 +35160,7 @@
     <phonet>utər</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">(murt.) vastassa, vastapäätä</t>
@@ -35204,8 +35355,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">tosiasiallisesti, tosiasiassa, itse asiassa, todellisuudessa,
-        faktisesti</t>
+        <t pos="Adv">tosiasiallisesti, tosiasiassa, itse asiassa,
+        todellisuudessa, faktisesti</t>
       </tg>
     </mg>
   </e>
@@ -35248,7 +35399,7 @@
     <phonet>falu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aina, jatkuvasti</t>
@@ -35299,7 +35450,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vilpillisesti, teennäisesti, nolosti, väärin, virheellisesti</t>
+        <t pos="Adv">vilpillisesti, teennäisesti, nolosti, väärin,
+        virheellisesti</t>
       </tg>
     </mg>
   </e>
@@ -35486,10 +35638,11 @@
     <phonet>fkaks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. yhtäläisesti, samalla lailla. 2. rinnan, rinnalla, vierellä</t>
+        <t pos="Adv">1. yhtäläisesti, samalla lailla. 2. rinnan, rinnalla,
+        vierellä</t>
       </tg>
 
       <xg>
@@ -35572,7 +35725,7 @@
     <phonet>flaŋks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">järjestään, peräkkäin</t>
@@ -35594,7 +35747,7 @@
     <phonet>flaca</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">samoin, samalla tavalla</t>
@@ -35784,7 +35937,7 @@
     <phonet>fčok</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aivan, aivan niin</t>
@@ -36030,7 +36183,7 @@
     <phonet>ćelajńək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">kokonaan</t>
@@ -36196,7 +36349,7 @@
     <phonet>ćuť</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hiukkasen, vähäsen, hädin tuskin</t>
@@ -36320,8 +36473,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">paukkuen, ryskien, rytisten, räiskien, narskuen, rasahdellen,
-        risahdellen</t>
+        <t pos="Adv">paukkuen, ryskien, rytisten, räiskien, narskuen,
+        rasahdellen, risahdellen</t>
       </tg>
     </mg>
   </e>
@@ -36340,7 +36493,7 @@
     <phonet>ćok</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">melkein, miltei, lähes</t>
@@ -36370,7 +36523,7 @@
     <phonet>ćot</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">parittain</t>
@@ -36493,7 +36646,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi, mahtailevasti</t>
+        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi,
+        mahtailevasti</t>
       </tg>
     </mg>
   </e>
@@ -36517,7 +36671,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi, mahtailevasti</t>
+        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi,
+        mahtailevasti</t>
       </tg>
     </mg>
   </e>
@@ -36661,7 +36816,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi, mahtailevasti</t>
+        <t pos="Adv">rehentelevästi, rehvastelevasti, pöyhkeilevästi,
+        mahtailevasti</t>
       </tg>
     </mg>
   </e>
@@ -36944,7 +37100,7 @@
     <phonet>šančk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">laukka, neli</t>
@@ -37430,7 +37586,7 @@
     <phonet>šiŕgä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sivussa, syrjässä</t>
@@ -37476,7 +37632,7 @@
     <phonet>šista</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">hereillä, valveilla; todellisuudessa</t>
@@ -37570,7 +37726,7 @@
     <phonet>šobdava</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aamu, aamulla</t>
@@ -37664,7 +37820,7 @@
     <phonet>šovər</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">sekaisin, yhdessä, samanaikaisesti</t>
@@ -37899,7 +38055,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä, suotuisasti</t>
+        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä,
+        suotuisasti</t>
       </tg>
     </mg>
   </e>
@@ -37923,7 +38080,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä, suotuisasti</t>
+        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä,
+        suotuisasti</t>
       </tg>
     </mg>
   </e>
@@ -37947,7 +38105,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä, suotuisasti</t>
+        <t pos="Adv">terveesti, terveellisesti; rauhassa, ystävyydessä,
+        suotuisasti</t>
       </tg>
     </mg>
   </e>
@@ -38254,7 +38413,7 @@
     <phonet>eza</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">tuonne</t>
@@ -38300,7 +38459,7 @@
     <phonet>ezk</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. äsken, vastikään. 2. tuonne</t>
@@ -38418,7 +38577,7 @@
     <phonet>eźäŕ-beźäŕ, eźəŕ-beźəŕ</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">typeryys, tylsyys ??</t>
@@ -38848,7 +39007,7 @@
     <phonet>esa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">1. siellä. 2. -ssa; -lla</t>
@@ -38894,7 +39053,7 @@
     <phonet>eśezənʒa</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">itsekseen</t>
@@ -38916,7 +39075,7 @@
     <phonet>eśľək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">itsestään</t>
@@ -38938,7 +39097,7 @@
     <phonet>esta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">silloin</t>
@@ -38960,7 +39119,7 @@
     <phonet>estək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siinä samassa, tuossa tuokiossa</t>
@@ -38982,7 +39141,7 @@
     <phonet>estəkiģä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">heti; kerralla</t>
@@ -39004,7 +39163,7 @@
     <phonet>estəńbeŕä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">siitä lähtien, siitä asti</t>
@@ -39074,7 +39233,7 @@
     <phonet>äśkä</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">viimeksi, taannoin; äsken</t>
@@ -39192,11 +39351,11 @@
     <phonet>äxäŕ</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. oikea, aito; silkka, pelkkä, sula, paljas; täysi. 2. jokainen.
-        3. aina, jatkuvasti</t>
+        <t pos="Adv">1. oikea, aito; silkka, pelkkä, sula, paljas; täysi. 2.
+        jokainen. 3. aina, jatkuvasti</t>
       </tg>
 
       <xg>
@@ -39223,7 +39382,7 @@
     <phonet>jurńək</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">täysin, kokonaan; juurineen</t>
@@ -39295,10 +39454,11 @@
         <st Contlex="ADV-TEMP">яла</st>
       </stg>
     </lg>
+
     <phonet>jala, jalan, jalań</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">aina</t>
@@ -39336,7 +39496,7 @@
     <phonet>jalga</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">jalan, jalkaisin</t>
@@ -39358,7 +39518,7 @@
     <phonet>jalgaks</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ystävän tavoin, ystävällisesti</t>
@@ -39596,7 +39756,7 @@
     <phonet>joncta</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">suunnalta, taholta</t>
@@ -39762,7 +39922,7 @@
     <phonet>joru</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">leikisti, leikillään</t>
@@ -39896,7 +40056,7 @@
     <phonet>jofśi, ofśi, voxśu</phonet>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Adv">ollenkaan, lainkaan</t>
