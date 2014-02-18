@@ -42,7 +42,7 @@ LEXICON NMN_АВА-SG
 :%> PXSG1-Sg ;
 
 LEXICON NMN_АВА-PL
-:%> PL-NOM ;
+ PL-NOM ;
 !! Definite Pl
  PLDEFCX ;
 !! Possessor Indices
@@ -146,7 +146,7 @@ LEXICON NMN_КАЛ-SG
 
 LEXICON NMN_КАЛ-PL
 !! Indefinite
-:%> PL-NOM ;
+ PL-NOM ;
 !! Definite Pl
  PLDEFCX ;
 
@@ -227,8 +227,8 @@ LEXICON PXSG3
 
 LEXICON PXPL1
 +Nom+PxPl1:ньке K ;
-+Gen+PxPl1:ньке%>О1нь K ;
-+Dat+PxPl1:ньке%>О1нди K ;
++Gen+PxPl1:ньконь K ;
++Dat+PxPl1:ньконди K ;
 
 LEXICON PXPL2
 +Nom+PxPl2:нте K ;
