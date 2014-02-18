@@ -192,9 +192,9 @@ LEXICON SGDEFCX
 
 
 LEXICON PLDEFCX
-+Pl+Nom+Def:%>Х1тне K ;
-+Pl+Gen+Def:%>Х1тне%>О1нь K ;
-+Pl+Dat+Def:%>Х1тне%>О1нди K ;
++Pl+Nom+Def:%>%{Х%}тне K ;
++Pl+Gen+Def:%>%{Х%}тне%>О1нь K ;
++Pl+Dat+Def:%>%{Х%}тне%>О1нди K ;
 
 
 LEXICON PXSG1-Sg
@@ -277,7 +277,7 @@ LEXICON NOTDEF-PRL
 
 !
 LEXICON PL-NOM
-+Pl+Nom+Indef:Х1тЬ2 K ;
++Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K ;
 
 
 
