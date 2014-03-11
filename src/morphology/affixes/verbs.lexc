@@ -19,6 +19,9 @@ LEXICON TV_КУНДАМС
 LEXICON TV_АНДОМС
 +V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АНДОМС ;
 
+LEXICON TV_ТИЕМС
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ТИЕМС ;
+
 LEXICON TV_НЯФТЕМС
 +V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_НЯФТЕМС ;
 
@@ -56,6 +59,23 @@ LEXICON V0_КУНДАМС
 
 LEXICON V0_АНДОМС
  VERBAL-CONJUGATIONS-ALL ;
+:%>О1 Non-Finite-Vws ;
+ Non-Finite-Cns ;
+
+LEXICON V0_ТИЕМС
++Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-ALL ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+	 IND-PRT1-ALL ; 
+:й	 IND-PRT2-ALL ; 
++Cond0000000@U.CONJ-MX.COND@:й%>%{ОЕØ%}ндяря@U.CONJ-MX.COND@ VERB-ZERO-ALL ; !! COND-ALL
++Cond:й%>%{ОЕØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+
+:й	 CONJ-ALL     	;
+:й	 DES-ALL     	;
+	 IMPRT-ALL   	;
+:й	 OPT-ALL       	;
+:й	 INF_ОМ		;
+
+! VERBAL-CONJUGATIONS-ALL ;
 :%>О1 Non-Finite-Vws ;
  Non-Finite-Cns ;
 
