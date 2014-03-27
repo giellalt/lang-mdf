@@ -12,6 +12,15 @@ LEXICON NTag
 LEXICON N_
 +N+Sg+Nom+Indef+TYÄ: #;
 
+LEXICON N_АВА_DIAL
++Dial+Use/Sub: N_АВА ;
+LEXICON N_ОШ_DIAL
++Dial+Use/Sub: N_ОШ ;
+LEXICON N_ОФТА_DIAL
++Dial+Use/Sub: N_ОФТА ;
+LEXICON N_КАЛ_DIAL
++Dial+Use/Sub: N_КАЛ ;
+
 LEXICON N_АВА
 ! ава:ава
 +N: NMN_АВА ;
