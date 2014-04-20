@@ -85,24 +85,14 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>avaldəń</phonet>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">(vanh.) 1. entinen, entisaikainen, muinainen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> aikainen,
-        varhainen</t>
+        <t pos="A">(vanh.) 1. entinen, entisaikainen, muinainen</t>
       </tg>
-
       <xg>
         <x>авалдонь мора</x>
 
@@ -110,6 +100,15 @@
 
         <xt xml:lang="fin">entisaikainen laulu.</xt>
       </xg>
+
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">aikainen, varhainen</t>
+      </tg>
 
       <xg>
         <x>стямс авалдонь шобдава</x>
@@ -1674,8 +1673,6 @@
         <st Contlex="A-IS-GEN">алдонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>aldəń</phonet>
 
@@ -5017,8 +5014,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>bokstəń</phonet>
 
     <mg>
@@ -5957,14 +5952,6 @@
       </tg>
 
       <xg>
-        <x>вадявста</x>
-
-        <phonet>vaďavsta</phonet>
-
-        <xt xml:lang="fin">tasaisesti, tasaiseksi; sujuvasti, sulavasti.</xt>
-      </xg>
-
-      <xg>
         <x>вадяв доска</x>
 
         <phonet>vaďav doska</phonet>
@@ -6220,8 +6207,6 @@
         <st Contlex="A-IS-GEN">ваксонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <mg>
       <defNative/>
@@ -7068,8 +7053,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>vatań</phonet>
 
     <mg>
@@ -7216,30 +7199,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. nälkäisesti, nälissään. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> nälkäinen</t>
+        <t pos="A">nälkäinen</t>
       </tg>
-
-      <xg>
-        <x>куломс вачеда</x>
-
-        <phonet>kuləms vačəda</phonet>
-
-        <xt xml:lang="fin">kuolla nälkään.</xt>
-      </xg>
-
-      <xg>
-        <x>ащемс вачеда</x>
-
-        <phonet>aščəms vačəda</phonet>
-
-        <xt xml:lang="fin">olla nälkäinen/nälissään.</xt>
-      </xg>
 
       <xg>
         <x>пялес вачеда</x>
@@ -8239,13 +8200,6 @@
         <t pos="A">iloinen</t>
       </tg>
 
-      <xg>
-        <x>весяласта</x>
-
-        <phonet>veśalasta</phonet>
-
-        <xt xml:lang="fin">iloisesti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -8466,14 +8420,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. oikea, tosi, suora, rehellinen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A">yhtäläinen, sama,
-        samanlainen, tasainen</t>
+        <t pos="A">1. oikea, tosi, suora, rehellinen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">yhtäläinen, sama, samanlainen, tasainen</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -8601,13 +8556,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. oikealle. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> oikeanpuoleinen</t>
+        <t pos="A">1. oikealle.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">oikeanpuoleinen</t>
       </tg>
 
       <xg>
@@ -8927,8 +8884,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>viŕəń</phonet>
 
     <mg>
@@ -9156,13 +9111,6 @@
         <xt xml:lang="fin">vahvin mahdollinen.</xt>
       </xg>
 
-      <xg>
-        <x>вишконяста</x>
-
-        <phonet>viškəńasta</phonet>
-
-        <xt xml:lang="fin">vahvasti, voimakkaasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -9193,30 +9141,12 @@
       </stg>
     </lg>
 
-    <phonet>višksta</phonet>
-
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">voimakkaasti, lujaa, kovaa</t>
+        <t pos="A"></t>
       </tg>
-
-      <xg>
-        <x>вишкста корхтай</x>
-
-        <phonet>viškstə korxtaj</phonet>
-
-        <xt xml:lang="fin">puhuu kovaa.</xt>
-      </xg>
-
-      <xg>
-        <x>киге вишкста ардсь машина</x>
-
-        <phonet>kigä viškst(ə) arć mašina</phonet>
-
-        <xt xml:lang="fin">tietä pitkin ajoi lujaa auto.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -10021,13 +9951,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. ilkeä, pahanilkinen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> epäterveellinen</t>
+        <t pos="A">1. ilkeä, pahanilkinen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">epäterveellinen</t>
       </tg>
     </mg>
   </e>
@@ -10528,8 +10460,6 @@
         <st Contlex="A-IS-GEN">вярдень</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>väŕďəń</phonet>
 
@@ -11617,14 +11547,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. kiero, kyttyräinen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> kumarainen, kyttyräinen
-        ihminen</t>
+        <t pos="A">1. kiero, kyttyräinen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">kumarainen, kyttyräinen ihminen</t>
       </tg>
 
       <xg>
@@ -15512,8 +15443,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>zolədəń</phonet>
 
     <mg>
@@ -17606,8 +17535,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>kagədəń</phonet>
 
     <mg>
@@ -17719,13 +17646,6 @@
         <t pos="A">karkea</t>
       </tg>
 
-      <xg>
-        <x>казямста</x>
-
-        <phonet>kaźamsta</phonet>
-
-        <xt xml:lang="fin">karkeasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -17762,13 +17682,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. tiuku, kulkunen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> soinnukas, soiva, helkkyvä</t>
+        <t pos="A">1. tiuku, kulkunen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">soinnukas, soiva, helkkyvä</t>
       </tg>
     </mg>
   </e>
@@ -17918,14 +17840,6 @@
       </xg>
 
       <xg>
-        <x>калгодоста</x>
-
-        <phonet>kalgədəsta, kalgəcta</phonet>
-
-        <xt xml:lang="fin">kovaa, kovasti.</xt>
-      </xg>
-
-      <xg>
         <x>калготкя</x>
 
         <phonet>kalgətkä</phonet>
@@ -18071,8 +17985,6 @@
         <st Contlex="A-IS-GEN">калонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>kaləń</phonet>
 
@@ -18914,8 +18826,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>kartonəń</phonet>
 
     <mg>
@@ -19648,8 +19558,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>kevəń</phonet>
 
     <mg>
@@ -19731,8 +19639,6 @@
         <st Contlex="A-IS-GEN">кедень</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>keďəń</phonet>
 
@@ -20655,21 +20561,21 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>kizəń</phonet>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. kesäinen, kesä-. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> vuosi-</t>
+        <t pos="A">1. kesäinen, kesä-.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">vuosi-</t>
       </tg>
 
       <xg>
@@ -21514,14 +21420,6 @@
         <phonet>koźadəŋgə koźä</phonet>
 
         <xt xml:lang="fin">rikkain.</xt>
-      </xg>
-
-      <xg>
-        <x>козяста</x>
-
-        <phonet>koźasta</phonet>
-
-        <xt xml:lang="fin">rikkaana, rikkaasti.</xt>
       </xg>
     </mg>
   </e>
@@ -22661,13 +22559,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. kuivahko; kuivaska. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> laiha</t>
+        <t pos="A">1. kuivahko; kuivaska.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">laiha</t>
       </tg>
     </mg>
   </e>
@@ -23341,8 +23241,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>kudjotkəń</phonet>
 
     <mg>
@@ -23578,8 +23476,6 @@
         <st Contlex="A-IS-GEN">кунардонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>kunardəń</phonet>
 
@@ -24304,13 +24200,6 @@
         <xt xml:lang="fin">vihaisesti.</xt>
       </xg>
 
-      <xg>
-        <x>кяжиста</x>
-
-        <phonet>käžista</phonet>
-
-        <xt xml:lang="fin">vihaisesti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -24322,8 +24211,6 @@
         <st Contlex="A-IS-GEN">кялень</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>käľəń</phonet>
 
@@ -25183,13 +25070,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. sileä, tasainen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> matala. 3. laakea. 4. avara</t>
+        <t pos="A">1. sileä, tasainen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">matala. 3. laakea. 4. avara</t>
       </tg>
 
       <xg>
@@ -25861,13 +25750,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. neste. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> kostea</t>
+        <t pos="A">1. neste.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">kostea</t>
       </tg>
     </mg>
   </e>
@@ -26305,13 +26196,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. huimapäinen, uhkarohkea. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> paha, ilkeä</t>
+        <t pos="A">1. huimapäinen, uhkarohkea.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">paha, ilkeä</t>
       </tg>
 
       <xg>
@@ -26586,8 +26479,6 @@
         <st Contlex="A-IS-GEN">ломанень</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>lomańəń</phonet>
 
@@ -27482,13 +27373,6 @@
         <t pos="A">lämmin</t>
       </tg>
 
-      <xg>
-        <x>лямбоняста</x>
-
-        <phonet>ľämbəńasta</phonet>
-
-        <xt xml:lang="fin">lämpimästi.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -27554,21 +27438,6 @@
         <xt xml:lang="fin">1. aukile, fontanelli. 2. nivuset.</xt>
       </xg>
 
-      <xg>
-        <x>ляпоста</x>
-
-        <phonet>ľäpəsta, ľäpsta</phonet>
-
-        <xt xml:lang="fin">pehmeästi.</xt>
-      </xg>
-
-      <xg>
-        <x>ляпоста ацамс</x>
-
-        <phonet>ľäpəsta acams</phonet>
-
-        <xt xml:lang="fin">silittää hyvin.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -27814,8 +27683,6 @@
         <st Contlex="A-IS-GEN">маень</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>majəń</phonet>
 
@@ -28269,8 +28136,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>mankań, maŋkań</phonet>
 
     <mg>
@@ -28573,8 +28438,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>marstəń</phonet>
 
     <mg>
@@ -28612,8 +28475,6 @@
         <st Contlex="A-IS-GEN">мартонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>martəń</phonet>
 
@@ -30535,13 +30396,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. syy, syyllisyys. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> syyllinen</t>
+        <t pos="A">1. syy, syyllisyys.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">syyllinen</t>
       </tg>
 
       <xg>
@@ -30616,13 +30479,6 @@
         <t pos="A">viisas</t>
       </tg>
 
-      <xg>
-        <x>мудрайста</x>
-
-        <phonet>mudrajsta</phonet>
-
-        <xt xml:lang="fin">viisaasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -32565,13 +32421,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. liukas. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> jatkuvasti hikoava</t>
+        <t pos="A">1. liukas.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">jatkuvasti hikoava</t>
       </tg>
 
       <xg>
@@ -33761,13 +33619,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. uusi. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> nuori</t>
+        <t pos="A">1. uusi.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">nuori</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -34211,13 +34071,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. muu, toinen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> (num.) toinen</t>
+        <t pos="A">1. muu, toinen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">(num.) toinen</t>
       </tg>
 
       <xg>
@@ -34603,13 +34465,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. murjottava, juro. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> oikutteleva, kiukutteleva</t>
+        <t pos="A">1. murjottava, juro.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">oikutteleva, kiukutteleva</t>
       </tg>
     </mg>
   </e>
@@ -34686,14 +34550,6 @@
         <phonet>orǯa joń</phonet>
 
         <xt xml:lang="fin">terävä äly.</xt>
-      </xg>
-
-      <xg>
-        <x>оржаста</x>
-
-        <phonet>orǯasta</phonet>
-
-        <xt xml:lang="fin">terävästi.</xt>
       </xg>
 
       <xg>
@@ -35238,13 +35094,6 @@
         <xt xml:lang="fin">nokkela poika.</xt>
       </xg>
 
-      <xg>
-        <x>отькорьста</x>
-
-        <phonet>oťkəŕsta</phonet>
-
-        <xt xml:lang="fin">vikkelästi, sukkelasti, nokkelasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -35664,13 +35513,6 @@
         <xt xml:lang="fin">onnekas ihminen.</xt>
       </xg>
 
-      <xg>
-        <x>павазуста</x>
-
-        <phonet>pavazusta</phonet>
-
-        <xt xml:lang="fin">onnellisesti, onnekkaasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -36257,14 +36099,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. kukikas, kukallinen, kukkainen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> reiällinen,
-        reikäinen</t>
+        <t pos="A">1. kukikas, kukallinen, kukkainen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">reiällinen, reikäinen</t>
       </tg>
 
       <xg>
@@ -37142,13 +36985,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. pelottava, kauhea, hirveä. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> vaarallinen</t>
+        <t pos="A">1. pelottava, kauhea, hirveä.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">vaarallinen</t>
       </tg>
 
       <xg>
@@ -37746,13 +37591,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. vihertävä. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> raa'ahko</t>
+        <t pos="A">1. vihertävä.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">raa'ahko</t>
       </tg>
     </mg>
   </e>
@@ -37790,13 +37637,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. vihreä. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> raaka. 3. vehreä, vihanta</t>
+        <t pos="A">1. vihreä.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">raaka. 3. vehreä, vihanta</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -38145,8 +37994,6 @@
         <st Contlex="A-IS-GEN">пирьфонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>piŕfəń</phonet>
 
@@ -39502,8 +39349,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>ponań</phonet>
 
     <mg>
@@ -39951,8 +39796,6 @@
         <st Contlex="A-IS-GEN">почфонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>počfəń</phonet>
 
@@ -40973,29 +40816,6 @@
         <xt xml:lang="fin">kuume.</xt>
       </xg>
 
-      <xg>
-        <x>псиста</x>
-
-        <phonet>pśista</phonet>
-
-        <xt xml:lang="fin">kuumasti.</xt>
-      </xg>
-
-      <xg>
-        <x>псиста кандомс кулять</x>
-
-        <phonet>pśistə kandəms kuľäť</phonet>
-
-        <xt xml:lang="fin">kertoa uutiset tuoreeltaan.</xt>
-      </xg>
-
-      <xg>
-        <x>псиста уштомс</x>
-
-        <phonet>pśist(ə) uštəms</phonet>
-
-        <xt xml:lang="fin">kuumentaa.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -41142,13 +40962,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. lihaksikas, vahva. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> rikas</t>
+        <t pos="A">1. lihaksikas, vahva.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">rikas</t>
       </tg>
     </mg>
   </e>
@@ -41958,13 +41780,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. lika. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> likainen, lika-</t>
+        <t pos="A">1. lika.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">likainen, lika-</t>
       </tg>
 
       <xg>
@@ -43415,14 +43239,6 @@
         <t pos="A">yhtäläinen, sama, samanlainen, tasainen; yhtäläisesti,
         samoin, tasan</t>
       </tg>
-
-      <xg>
-        <x>ровнаста</x>
-
-        <phonet>rovnasta</phonet>
-
-        <xt xml:lang="fin">yhtäläisesti, tasan.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -44153,24 +43969,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">hitaasti</t>
+        <t pos="A"></t>
       </tg>
-
-      <xg>
-        <x>савор-савор</x>
-
-        <phonet>savər-savər</phonet>
-
-        <xt xml:lang="fin">hyvin hitaasti.</xt>
-      </xg>
-
-      <xg>
-        <x>саворста</x>
-
-        <phonet>savərsta</phonet>
-
-        <xt xml:lang="fin">hitaasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -44529,13 +44329,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. suonikas; jänteikäs, jäntevä. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> sitkas, sitkeä</t>
+        <t pos="A">1. suonikas; jänteikäs, jäntevä.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">sitkas, sitkeä</t>
       </tg>
     </mg>
   </e>
@@ -44683,13 +44485,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. riittävä. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> riittävästi, kyllin, tarpeeksi</t>
+        <t pos="A">1. riittävä.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">riittävästi, kyllin, tarpeeksi</t>
       </tg>
     </mg>
   </e>
@@ -44709,7 +44513,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">riittävä; riittävästi</t>
+        <t pos="A">riittävä</t>
       </tg>
 
       <xg>
@@ -45012,8 +44816,6 @@
         <st Contlex="A-IS-GEN">седиваксонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>śeďivaksəń</phonet>
 
@@ -45751,13 +45553,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. korkea. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> syvä. 3. pitkä</t>
+        <t pos="A">1. korkea.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">syvä. 3. pitkä</t>
       </tg>
 
       <xg>
@@ -45867,8 +45671,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>śeťəń</phonet>
 
     <mg>
@@ -45898,13 +45700,6 @@
         <t pos="A">hiljainen</t>
       </tg>
 
-      <xg>
-        <x>сетьмоста</x>
-
-        <phonet>śeťməsta</phonet>
-
-        <xt xml:lang="fin">hiljaa, hiljaisesti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -46018,13 +45813,6 @@
         <t pos="A">tiheä, taaja, sakea</t>
       </tg>
 
-      <xg>
-        <x>сидеста</x>
-
-        <phonet>śiďəsta</phonet>
-
-        <xt xml:lang="fin">sakeasti, taajaan; usein.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -47507,13 +47295,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. samaa mieltä oleva. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> konsonantti</t>
+        <t pos="A">1. samaa mieltä oleva.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">konsonantti</t>
       </tg>
     </mg>
   </e>
@@ -47650,14 +47440,6 @@
         <phonet>sokər śuləpe</phonet>
 
         <xt xml:lang="fin">umpisuoli.</xt>
-      </xg>
-
-      <xg>
-        <x>сокорста</x>
-
-        <phonet>sokərsta</phonet>
-
-        <xt xml:lang="fin">sokeasti.</xt>
       </xg>
 
       <xg>
@@ -48334,13 +48116,6 @@
         <t pos="A">lourd</t>
       </tg>
 
-      <xg>
-        <x>стакаста</x>
-
-        <phonet>stakasta</phonet>
-
-        <xt xml:lang="fin">raskaasti, vaikeasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -50581,8 +50356,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>śadəŋgəľďəń</phonet>
 
     <mg>
@@ -50818,13 +50591,6 @@
         <t pos="A">karvas, kitkerä, katkera</t>
       </tg>
 
-      <xg>
-        <x>сяписта</x>
-
-        <phonet>śäpista</phonet>
-
-        <xt xml:lang="fin">kitkerästi, katkerasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -50995,13 +50761,6 @@
         rauhallisesti</t>
       </tg>
 
-      <xg>
-        <x>сятявста</x>
-
-        <phonet>śäťavsta</phonet>
-
-        <xt xml:lang="fin">hiljaa, hiljaisesti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -51435,13 +51194,6 @@
         <xt xml:lang="fin">tasainen tie.</xt>
       </xg>
 
-      <xg>
-        <x>такорста</x>
-
-        <phonet>takərsta</phonet>
-
-        <xt xml:lang="fin">tasaisesti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -52040,13 +51792,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. toimelias, työteliäs. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> asiallinen</t>
+        <t pos="A">1. toimelias, työteliäs.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">asiallinen</t>
       </tg>
 
       <xg>
@@ -54549,13 +54303,6 @@
         <t pos="A">épais</t>
       </tg>
 
-      <xg>
-        <x>тустста</x>
-
-        <phonet>tuscta</phonet>
-
-        <xt xml:lang="fin">taajaan, tiheästi.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -55464,8 +55211,6 @@
         <st Contlex="A-IS-GEN">тястоконь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>ťastəkəń</phonet>
 
@@ -56601,13 +56346,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. ontto. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> tyhjä</t>
+        <t pos="A">1. ontto.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">tyhjä</t>
       </tg>
 
       <xg>
@@ -61139,13 +60886,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. tyhjä, ontto, autio. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> kehno</t>
+        <t pos="A">1. tyhjä, ontto, autio.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">kehno</t>
       </tg>
 
       <xg>
@@ -61663,13 +61412,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. harmaa, harmaantunut. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> lovinen</t>
+        <t pos="A">1. harmaa, harmaantunut.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">lovinen</t>
       </tg>
     </mg>
   </e>
@@ -62049,14 +61800,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. haiseva, löyhkäävä; pahentunut, pilaantunut. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A">
-        tuoksuva, hyväntuoksuinen</t>
+        <t pos="A">1. haiseva, löyhkäävä; pahentunut, pilaantunut.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">tuoksuva, hyväntuoksuinen</t>
       </tg>
 
       <xg>
@@ -62110,13 +61862,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. vino, kalteva. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> kiero, käyrä</t>
+        <t pos="A">1. vino, kalteva.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">kiero, käyrä</t>
       </tg>
 
       <xg>
@@ -62605,13 +62359,6 @@
         <t pos="A">vetelä, vetinen, juokseva</t>
       </tg>
 
-      <xg>
-        <x>шонгараста</x>
-
-        <phonet>šoŋgarasta</phonet>
-
-        <xt xml:lang="fin">vetelästi, löysästi.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -62715,8 +62462,6 @@
         <st Contlex="A-IS-GEN">шралангонь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>šralaŋgəń</phonet>
 
@@ -63324,22 +63069,6 @@
       </xg>
 
       <xg>
-        <x>шумбраста</x>
-
-        <phonet>šumbrasta</phonet>
-
-        <xt xml:lang="fin">terveenä; terveesti, terveellisesti.</xt>
-      </xg>
-
-      <xg>
-        <x>шумбраста эрятада?</x>
-
-        <phonet>šumbrast(ə) eŕatada</phonet>
-
-        <xt xml:lang="fin">mitä kuuluu? miten voitte?</xt>
-      </xg>
-
-      <xg>
         <x>шумбрат-пархт азондомс</x>
 
         <phonet>šumbrat-parxt azəndəms</phonet>
@@ -63419,13 +63148,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. velkainen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> syyllinen, syntinen</t>
+        <t pos="A">1. velkainen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">syyllinen, syntinen</t>
       </tg>
 
       <xg>
@@ -63433,13 +63164,7 @@
 
         <phonet>šumuvan</phonet>
 
-        <xt xml:lang="fin">1. olen veloissa. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> olen syyllinen/syntinen.</xt>
+        <xt xml:lang="fin">1. olen veloissa. 2. olen syyllinen/syntinen.</xt>
       </xg>
     </mg>
   </e>
@@ -64079,8 +63804,6 @@
       </stg>
     </lg>
 
-    <pos>GEN_A</pos>
-
     <phonet>äjəń</phonet>
 
     <mg>
@@ -64716,13 +64439,6 @@
         <xt xml:lang="fin">onpa vilkas lapsi!</xt>
       </xg>
 
-      <xg>
-        <x>эрекста</x>
-
-        <phonet>eŕəksta</phonet>
-
-        <xt xml:lang="fin">vilkkaasti, eloisasti.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -64734,8 +64450,6 @@
         <st Contlex="A-IS-GEN">эрзянь</st>
       </stg>
     </lg>
-
-    <pos>GEN_A</pos>
 
     <phonet>erźäń</phonet>
 
@@ -64873,14 +64587,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. tärkeä, välttämätön. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> asianmukainen, asiaankuuluva. 3.
-        määrätty, määrä-</t>
+        <t pos="A">1. tärkeä, välttämätön.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">asianmukainen, asiaankuuluva. 3. määrätty, määrä-</t>
       </tg>
 
       <xg>
@@ -64962,13 +64677,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. elinvoimainen. </t>
-</tg>
-</mg>
-<mg>
-<defNative/>
-<tg xml:lang="fin">
-<t pos="A"> rikas, varakas</t>
+        <t pos="A">1. elinvoimainen.</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">rikas, varakas</t>
       </tg>
     </mg>
   </e>
@@ -65336,7 +65053,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">viileä</t><t pos="A">kylmä</t><t pos="A">virkistävä</t>
+        <t pos="A">viileä</t>
+
+        <t pos="A">kylmä</t>
+
+        <t pos="A">virkistävä</t>
       </tg>
     </mg>
   </e>
@@ -65912,7 +65633,7 @@
 
         <phonet>jakšamsta</phonet>
 
-        <xt xml:lang="fin">kylmästi.</xt>
+        <xt xml:lang="fin">kylmästi</xt>
       </xg>
     </mg>
   </e>
@@ -66558,7 +66279,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"></t>
+        <t pos="A"/>
       </tg>
     </mg>
   </e>
