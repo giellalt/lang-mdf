@@ -7,175 +7,252 @@
   <e exclude="fst">
     <lg>
       <l pos="Phrase_N">пачк ваймяй пакся</l>
+
       <stg>
         <st>пачк ваймяй пакся</st>
       </stg>
     </lg>
+
     <phonet>pačk vajmäj pakśä</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="N">kesanto</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">андомс-симдемс</l>
+
       <l_drv pos="V">андомс_V</l_drv>
+
       <l_drv pos="V">симдемс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <pos>V</pos>
+
     <phonet>andəms-śimďəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">kestitä</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">касфнемс-аннемс</l>
+
       <l_drv pos="V">касфнемс_V</l_drv>
+
       <l_drv pos="V">аннемс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <pos>V</pos>
+
     <phonet>kasfńəms-ańńəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">kasvattaa</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">юмамс-арамс</l>
+
       <l_drv pos="V">юмамс_V</l_drv>
+
       <l_drv pos="V">арамс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <phonet>jumams-arams</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">tuhoutua</t>
+      </tg>
+
       <xg>
         <x>зря юмай-арай</x>
+
         <phonet>ź(ə)ŕä jumaj-araj</phonet>
+
         <xt xml:lang="fin">menee hukkaan.</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">ахиемс-охиемс</l>
+
       <l_drv pos="V">ахиемс_V</l_drv>
+
       <l_drv pos="V">охиемс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <phonet>axijəms-oxijəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">valitella</t>
+
         <t pos="V">päivitellä</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">цяпафтомс-лапафтомс</l>
+
       <l_drv pos="V">цяпафтомс_V</l_drv>
+
       <l_drv pos="V">лапафтомс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <phonet>ćapaftəms-lapaftəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">hakata</t>
+
         <t pos="V">piestä</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">шачемс-касомс</l>
+
       <l_drv pos="V">шачемс_V</l_drv>
+
       <l_drv pos="V">касомс_V</l_drv>
+
       <stg>
         <st/>
       </stg>
     </lg>
+
     <phonet>šačəms-kasəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">kasvaa</t>
+
         <t pos="V">varttua</t>
       </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">ванондомс-кочксемс</l>
+
       <l_drv pos="V">ванондомс_V</l_drv>
+
       <l_drv pos="V">кочксемс_V</l_drv>
+
       <stg>
         <st>ванондомс-кочксемс</st>
       </stg>
     </lg>
+
     <phonet>vanəndəms-kočkśəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">syventyä</t>
+
         <t pos="V">paneutua</t>
+
         <t pos="V">perehtyä</t>
+      </tg>
+
       <xg>
         <x>сон прокс ванондсыне-кочксесыне сембе васттнень</x>
+
         <phonet>son proks vanəncińə-kočkśəsińə śembə vastťńəń</phonet>
+
         <xt xml:lang="fin">hän perehtyy aina kaikkiin yksityiskohtiin.</xt>
       </xg>
-     </tg>
     </mg>
   </e>
+
   <e exclude="fst">
     <lg>
       <l pos="Phrase_V">гулдоргодомс-галдоргодомс</l>
+
       <l_drv pos="V">гулдоргодомс_V</l_drv>
+
       <l_drv pos="V">галдоргодомс_V</l_drv>
+
       <stg>
         <st>гулдоргодомс-галдоргодомс</st>
       </stg>
     </lg>
+
     <phonet>guldərgədəms-galdərgədəms</phonet>
+
     <mg>
       <defNative/>
+
       <tg xml:lang="fin">
         <t pos="V">rymistä</t>
+
         <t pos="V">rämistä</t>
+      </tg>
+
       <xg>
         <x>гулдоргодсь-галдоргодсь</x>
+
         <phonet>guldərgəć-galdərgəć</phonet>
+
         <xt xml:lang="fin">rymisi, rämisi</xt>
       </xg>
-     </tg>
     </mg>
   </e>
 </r>
