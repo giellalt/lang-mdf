@@ -132,14 +132,14 @@ LEXICON N_КЕЛУ !!= @CODE@
 +N: NMN_КАЛ ;
 
 LEXICON NMN_ОФТА-SG !!= @CODE@
-:%{АОЕ%} N_АВА-SG ;
- N_КАЛ-SG ;
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-SG ;
+:%{АОЕ%} NMN_АВА-SG ;
+ NMN_КАЛ-SG ;
++Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-SG ;
 
 LEXICON NMN_ОФТА-PL !!= @CODE@
-:%{АОЕ%} N_АВА-PL ;
+:%{АОЕ%} NMN_АВА-PL ;
  N_КАЛ-PL ;
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
++Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
 
 LEXICON NMN_КАЛ
 	NMN_КАЛ-SG	;
