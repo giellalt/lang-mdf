@@ -12070,6 +12070,26 @@
 
   <e>
     <lg>
+      <l pos="Adv">круглай</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP">круглай</st>
+      </stg>
+    </lg>
+
+    <phonet>kruglaj</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">koko vuoden ajan, ympäri vuoden</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">кругонь-круг</l>
 
       <stg>
@@ -23185,6 +23205,26 @@
         <t pos="Adv">erikseen</t>
 
         <t pos="Adv">erillään; eri tavoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">башка</l>
+
+      <stg>
+        <st Contlex="ADV_">башка</st>
+      </stg>
+    </lg>
+
+    <phonet>baška</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erikseen, erillään</t>
       </tg>
     </mg>
   </e>

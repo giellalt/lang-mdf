@@ -82,9 +82,9 @@ N_ОФТА-SG ;
 N_ОФТА-PL ;
 
 LEXICON N_ОФТА-SG !!= @CODE@
-+N: N_ОФТА-SG ;
++N: NMN_ОФТА-SG ;
 LEXICON N_ОФТА-PL !!= @CODE@
-+N: N_ОФТА-PL ;
++N: NMN_ОФТА-PL ;
 
 LEXICON NMN_ОФТА !!= @CODE@
 !!офта:офт
