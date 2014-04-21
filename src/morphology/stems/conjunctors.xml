@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="CC">а</l>
@@ -12,18 +12,19 @@
         <st Contlex="CC_">а</st>
       </stg>
     </lg>
+
     <phonet>a</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">ja</t>
-      </tg></mg>
-<mg>
+      </tg>
+    </mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">mutta, vaan</t>
@@ -47,11 +48,11 @@
         <st Contlex="CC_">афток</st>
       </stg>
     </lg>
+
     <phonet>aftək</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">1. eli, tai, vai. 2. muuten, muutoin</t>
@@ -67,11 +68,11 @@
         <st Contlex="CS_">бъди</st>
       </stg>
     </lg>
+
     <phonet>bəďi</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CS">jos</t>
@@ -87,9 +88,9 @@
         <st Contlex="CS_">бъта</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>muka</t>
@@ -107,11 +108,11 @@
         <st Contlex="CC_">да</st>
       </stg>
     </lg>
+
     <phonet>də</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">ja, sekä, ynnä</t>
@@ -122,7 +123,7 @@
 
         <phonet>mon də son</phonet>
 
-        <xt xml:lang="fin">minä ja hän.</xt>
+        <xt xml:lang="fin">minä ja hän</xt>
       </xg>
     </mg>
   </e>
@@ -135,18 +136,20 @@
         <st Contlex="CC_">и</st>
       </stg>
     </lg>
+
     <phonet>i</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CC">ja, myös</t>
+        <t pos="CC">ja</t>
+
+        <t pos="CC">myös</t>
       </tg>
 
       <tg xml:lang="fra">
-        <t pos="Cc">et</t>
+        <t pos="CC">et</t>
       </tg>
 
       <xg>
@@ -167,11 +170,11 @@
         <st Contlex="CC_">или</st>
       </stg>
     </lg>
+
     <phonet>iľi</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">tai, vai</t>
@@ -187,9 +190,9 @@
         <st Contlex="CONJ_">каба</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -205,11 +208,11 @@
         <st Contlex="CS_">кати</st>
       </stg>
     </lg>
+
     <phonet>kaťi</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>kenties, noinkohan, ehkäpä</t>
@@ -239,8 +242,7 @@
     <phonet>kodama</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>millainen</t>
@@ -312,9 +314,9 @@
         <st Contlex="CS_">конашкава</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>siinä määrin kuin</t>
@@ -330,9 +332,9 @@
         <st Contlex="CONJ_">кува</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -348,9 +350,9 @@
         <st Contlex="CONJ_">къба</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -366,9 +368,9 @@
         <st Contlex="CS_">къда</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CS">jos</t>
@@ -384,11 +386,11 @@
         <st Contlex="CONJ_">мес</st>
       </stg>
     </lg>
+
     <phonet>mes, mäs</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>miksi</t>
@@ -436,9 +438,9 @@
         <st Contlex="CC_">мъзярс</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>niin kauan kuin</t>
@@ -456,9 +458,9 @@
         <st Contlex="CC_">мярьгат</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>kuin, ikään kuin, aivan kuin, niin kuin</t>
@@ -474,9 +476,9 @@
         <st Contlex="CONJ_">несак</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -492,11 +494,11 @@
         <st Contlex="CC_">но</st>
       </stg>
     </lg>
+
     <phonet>no</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>mutta, vaan</t>
@@ -512,9 +514,9 @@
         <st Contlex="CONJ_">нул</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -530,9 +532,9 @@
         <st Contlex="CONJ_">пока</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -548,9 +550,9 @@
         <st Contlex="CS_">раз</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>jos</t>
@@ -566,9 +568,9 @@
         <st Contlex="CS_">разе</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>ellei, jos ei</t>
@@ -584,9 +586,9 @@
         <st Contlex="CS_">рас</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>jos</t>
@@ -602,11 +604,11 @@
         <st Contlex="CS_">сясы</st>
       </stg>
     </lg>
+
     <phonet>śasi</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>siksi, sen takia</t>
@@ -622,17 +624,17 @@
         <st Contlex="CS_">так</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>niin, siinä tapauksessa että</t>
       </tg>
     </mg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>mutta</t>
@@ -648,17 +650,17 @@
         <st Contlex="CS_">то</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>milloin, väliin, välistä</t>
       </tg>
     </mg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>niin</t>
@@ -674,9 +676,9 @@
         <st Contlex="CONJ_">тожа</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -692,17 +694,17 @@
         <st Contlex="CS_">хоть</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>vaikka, siitä huolimatta, että</t>
       </tg>
     </mg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>kuin</t>
@@ -718,17 +720,17 @@
         <st Contlex="CS_">хотя</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>vaikka</t>
       </tg>
     </mg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>siitä huolimatta, että</t>
@@ -744,11 +746,11 @@
         <st Contlex="CS_">хуть</st>
       </stg>
     </lg>
+
     <phonet>xuť, xəť, kuť</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>vaikka, joskin</t>
@@ -764,9 +766,9 @@
         <st Contlex="CS_">хуш</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>vaikka; siitä huolimatta, että</t>
@@ -782,11 +784,11 @@
         <st Contlex="CONJ_">цёк</st>
       </stg>
     </lg>
+
     <phonet>ćok</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>melkein, miltei, lähes</t>
@@ -810,11 +812,11 @@
         <st Contlex="CS_">што</st>
       </stg>
     </lg>
+
     <phonet>što</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>että</t>
@@ -830,11 +832,11 @@
         <st Contlex="CS_">штоба</st>
       </stg>
     </lg>
+
     <phonet>štoba</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CS">jotta</t>
@@ -852,9 +854,9 @@
         <st Contlex="CS_">эмбя</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>jos, kun, vaikka</t>
@@ -870,11 +872,11 @@
         <st Contlex="CS_">ёт</st>
       </stg>
     </lg>
+
     <phonet>jot</phonet>
 
     <mg>
-
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t>siitä, kun</t>
@@ -898,9 +900,9 @@
         <st Contlex="CC_">а</st>
       </stg>
     </lg>
-    <mg>
 
-        <defNative/>
+    <mg>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="CC">mutta</t>
