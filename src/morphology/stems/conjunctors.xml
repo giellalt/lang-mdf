@@ -27,7 +27,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CC">mutta, vaan</t>
+        <t pos="CC">mutta</t><t pos="CC">vaan</t>
       </tg>
 
       <xg>
@@ -55,7 +55,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CC">1. eli, tai, vai. 2. muuten, muutoin</t>
+        <t pos="CC">eli</t><t pos="CC">tai</t><t pos="CC">vai</t>
+      </tg>
+    </mg>    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">muuten</t><t pos="CC">muutoin</t>
       </tg>
     </mg>
   </e>
@@ -93,9 +99,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>muka</t>
+        <t pos="CS">muka</t>
 
-        <t>ikään kuin</t>
+        <t pos="CS">ikään kuin</t>
       </tg>
     </mg>
   </e>
@@ -115,7 +121,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CC">ja, sekä, ynnä</t>
+        <t pos="CC">ja</t><t pos="CC">sekä</t><t pos="CC">ynnä</t>
       </tg>
 
       <xg>
@@ -177,7 +183,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="CC">tai, vai</t>
+        <t pos="CC">tai</t><t pos="CC">vai</t>
       </tg>
     </mg>
   </e>
@@ -215,7 +221,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>kenties, noinkohan, ehkäpä</t>
+        <t pos="CS">kenties</t><t pos="CS">noinkohan</t><t pos="CS">ehkäpä</t>
       </tg>
 
       <xg>
@@ -230,10 +236,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">кодама</l>
+      <l pos="Pron">кодама</l>
 
       <stg>
-        <st Contlex="CONJ_">кодама</st>
+        <st Contlex="PRON_">кодама</st>
       </stg>
     </lg>
 
@@ -245,7 +251,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>millainen</t>
+        <t pos="Pron">millainen</t>
       </tg>
 
       <xg>
@@ -319,7 +325,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siinä määrin kuin</t>
+        <t pos="CS">siinä määrin kuin</t>
       </tg>
     </mg>
   </e>
@@ -380,10 +386,10 @@
 
   <e>
     <lg>
-      <l pos="Conj">мес</l>
+      <l pos="Pron">мес</l>
 
       <stg>
-        <st Contlex="CONJ_">мес</st>
+        <st Contlex="PRON_">мес</st>
       </stg>
     </lg>
 
@@ -393,7 +399,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>miksi</t>
+        <t pos="Pron">miksi</t>
       </tg>
 
       <xg>
@@ -443,7 +449,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin kauan kuin</t>
+        <t pos="CS">niin kauan kuin</t>
 
         <t/>
       </tg>
@@ -463,7 +469,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuin, ikään kuin, aivan kuin, niin kuin</t>
+        <t pos="CS">kuin</t><t pos="CS">ikään kuin</t><t pos="CS">aivan kuin</t><t pos="CS">niin kuin</t>
       </tg>
     </mg>
   </e>
@@ -501,7 +507,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>mutta, vaan</t>
+        <t pos="CC">mutta</t><t pos="CC">vaan</t>
       </tg>
     </mg>
   </e>
@@ -555,7 +561,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>jos</t>
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
@@ -573,7 +579,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>ellei, jos ei</t>
+        <t pos="CS">ellei</t><t pos="CS">jos ei</t>
       </tg>
     </mg>
   </e>
@@ -591,7 +597,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>jos</t>
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
@@ -611,7 +617,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siksi, sen takia</t>
+        <t pos="CS">siksi</t><t pos="CS">sen takia</t>
       </tg>
     </mg>
   </e>
@@ -629,7 +635,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin, siinä tapauksessa että</t>
+        <t pos="CS">niin</t><t pos="CS">siinä tapauksessa että</t>
       </tg>
     </mg>
 
@@ -637,7 +643,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>mutta</t>
+        <t pos="CC">mutta</t>
       </tg>
     </mg>
   </e>
@@ -655,7 +661,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>milloin, väliin, välistä</t>
+        <t pos="CS">milloin</t><t pos="CS">väliin</t><t pos="CS">välistä</t>
       </tg>
     </mg>
 
@@ -663,7 +669,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>niin</t>
+        <t pos="CS">niin</t>
       </tg>
     </mg>
   </e>
@@ -699,7 +705,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka, siitä huolimatta, että</t>
+        <t pos="CS">vaikka</t><t pos="CS">siitä huolimatta, että</t>
       </tg>
     </mg>
 
@@ -707,7 +713,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuin</t>
+        <t pos="CS">kuin</t>
       </tg>
     </mg>
   </e>
@@ -725,7 +731,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka</t>
+        <t pos="CS">vaikka</t>
       </tg>
     </mg>
 
@@ -733,7 +739,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siitä huolimatta, että</t>
+        <t pos="CS">siitä huolimatta, että</t>
       </tg>
     </mg>
   </e>
@@ -753,7 +759,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka, joskin</t>
+        <t pos="CS">vaikka</t><t pos="CS">joskin</t>
       </tg>
     </mg>
   </e>
@@ -771,17 +777,17 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>vaikka; siitä huolimatta, että</t>
+        <t pos="CS">vaikka</t><t pos="CS">siitä huolimatta, että</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Conj">цёк</l>
+      <l pos="Adv">цёк</l>
 
       <stg>
-        <st Contlex="CONJ_">цёк</st>
+        <st Contlex="ADV_">цёк</st>
       </stg>
     </lg>
 
@@ -791,7 +797,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>melkein, miltei, lähes</t>
+        <t pos="Adv">melkein</t><t pos="Adv">miltei</t><t pos="Adv">lähes</t>
       </tg>
 
       <xg>
@@ -819,7 +825,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>että</t>
+        <t pos="CS">että</t>
       </tg>
     </mg>
   </e>
@@ -859,7 +865,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>jos, kun, vaikka</t>
+        <t pos="CS">jos</t><t pos="CS">kun</t><t pos="CS">vaikka</t>
       </tg>
     </mg>
   </e>
@@ -879,7 +885,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t>siitä, kun</t>
+        <t pos="CS">siitä, kun</t>
       </tg>
 
       <xg>
