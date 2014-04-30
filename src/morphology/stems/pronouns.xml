@@ -13,7 +13,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -22,7 +21,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -37,7 +36,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -46,7 +44,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -61,7 +59,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>fśakaj, fśaki, śakaj</phonet>
 
@@ -70,8 +67,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kaikenlainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">kaikenlainen</t>
       </tg>
 
       <xg>
@@ -79,7 +76,7 @@
 
         <phonet>fśakajks</phonet>
 
-        <xt lang="fin">kaikella tavalla.</xt>
+        <xt xml:lang="fin">kaikella tavalla.</xt>
       </xg>
     </mg>
   </e>
@@ -93,7 +90,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -102,7 +98,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -117,7 +113,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>gajśä</phonet>
 
@@ -126,8 +121,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>se, tuo, tämä</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">se</t><t pos="A">tuo</t><t pos="A">tämä</t>
       </tg>
     </mg>
   </e>
@@ -141,7 +136,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -150,7 +144,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -165,7 +159,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -174,7 +167,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -189,7 +182,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>kaťi-kijä</phonet>
 
@@ -198,8 +190,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>joku, eräs.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">joku</t><t pos="A">eräs</t>
       </tg>
     </mg>
   </e>
@@ -213,7 +205,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>kaťi-meźä</phonet>
 
@@ -222,8 +213,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>jokin.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokin</t>
       </tg>
     </mg>
   </e>
@@ -237,7 +228,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -246,7 +236,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -261,7 +251,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -270,7 +259,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -285,7 +274,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>kivək</phonet>
 
@@ -294,8 +282,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>joku; kukaan.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">joku; kukaan</t>
       </tg>
 
       <xg>
@@ -303,7 +291,7 @@
 
         <phonet>kivək af</phonet>
 
-        <xt lang="fin">ei kukaan.</xt>
+        <xt xml:lang="fin">ei kukaan.</xt>
       </xg>
 
       <xg>
@@ -311,7 +299,7 @@
 
         <phonet>kivək aš</phonet>
 
-        <xt lang="fin">ei (ole) ketään.</xt>
+        <xt xml:lang="fin">ei (ole) ketään.</xt>
       </xg>
     </mg>
   </e>
@@ -325,7 +313,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -334,7 +321,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -349,7 +336,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -358,7 +344,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -373,7 +359,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>kijä</phonet>
 
@@ -382,8 +367,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kuka</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">kuka</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -395,7 +380,7 @@
 
         <phonet>kijə-kijä</phonet>
 
-        <xt lang="fin">joku.</xt>
+        <xt xml:lang="fin">joku.</xt>
       </xg>
 
       <xg>
@@ -403,7 +388,7 @@
 
         <phonet>koj-kijä</phonet>
 
-        <xt lang="fin">joku; jokunen, muutama (ihminen).</xt>
+        <xt xml:lang="fin">joku, jokunen; muutama (ihminen)</xt>
       </xg>
 
       <xg>
@@ -411,7 +396,7 @@
 
         <phonet>kijə-povś, ki-povś</phonet>
 
-        <xt lang="fin">kuka tahansa.</xt>
+        <xt xml:lang="fin">kuka tahansa.</xt>
       </xg>
 
       <xg>
@@ -419,7 +404,7 @@
 
         <phonet>kijə-bəďi</phonet>
 
-        <xt lang="fin">kuka tahansa, joku.</xt>
+        <xt xml:lang="fin">kuka tahansa, joku.</xt>
       </xg>
 
       <xg>
@@ -427,7 +412,7 @@
 
         <phonet>kińďi</phonet>
 
-        <xt lang="fin">kenelle.</xt>
+        <xt xml:lang="fin">kenelle.</xt>
       </xg>
 
       <xg>
@@ -435,7 +420,7 @@
 
         <phonet>kińďi maksiť śormať</phonet>
 
-        <xt lang="fin">kenelle annoit kirjeen?</xt>
+        <xt xml:lang="fin">kenelle annoit kirjeen?</xt>
       </xg>
 
       <xg>
@@ -443,7 +428,7 @@
 
         <phonet>kińďigä</phonet>
 
-        <xt lang="fin">jollekulle.</xt>
+        <xt xml:lang="fin">jollekulle.</xt>
       </xg>
 
       <xg>
@@ -451,7 +436,7 @@
 
         <phonet>kiŋksa</phonet>
 
-        <xt lang="fin">kenen takia.</xt>
+        <xt xml:lang="fin">kenen takia.</xt>
       </xg>
     </mg>
   </e>
@@ -465,7 +450,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -474,7 +458,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -489,7 +473,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -498,7 +481,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -513,7 +496,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -522,7 +504,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -537,7 +519,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -546,7 +527,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -561,7 +542,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -570,7 +550,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -595,7 +575,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>kuinka, miten</t>
+        <t pos="Pron">kuinka</t><t pos="Pron">miten</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -710,8 +690,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>millainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">millainen</t>
       </tg>
 
       <xg>
@@ -719,7 +699,7 @@
 
         <phonet>koj-kodama</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -727,7 +707,7 @@
 
         <phonet>kodama-bəďi</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -735,7 +715,7 @@
 
         <phonet>kodamə-kodama</phonet>
 
-        <xt lang="fin">jonkinlainen.</xt>
+        <xt xml:lang="fin">jonkinlainen.</xt>
       </xg>
 
       <xg>
@@ -743,7 +723,7 @@
 
         <phonet>kodamə ťäči šiś</phonet>
 
-        <xt lang="fin">mikä/ millainen päivä tänään on?</xt>
+        <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
       </xg>
 
       <xg>
@@ -751,7 +731,7 @@
 
         <phonet>kodaməvək af</phonet>
 
-        <xt lang="fin">ei minkäänlainen.</xt>
+        <xt xml:lang="fin">ei minkäänlainen.</xt>
       </xg>
 
       <xg>
@@ -759,7 +739,7 @@
 
         <phonet>kodamə povś</phonet>
 
-        <xt lang="fin">kaikenlainen, millainen tahansa.</xt>
+        <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
       </xg>
 
       <xg>
@@ -767,7 +747,7 @@
 
         <phonet>kodamə ťäďäś stamə bäbäś</phonet>
 
-        <xt lang="fin">millainen äiti, sellainen lapsi.</xt>
+        <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
       </xg>
     </mg>
   </e>
@@ -781,7 +761,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -790,7 +769,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -805,7 +784,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>koj-kijä</phonet>
 
@@ -814,8 +792,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>joku.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">joku</t>
       </tg>
     </mg>
   </e>
@@ -829,7 +807,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -838,7 +815,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -853,7 +830,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>koj-kodama</phonet>
 
@@ -862,8 +838,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>jonkinlainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">jonkinlainen</t>
       </tg>
     </mg>
   </e>
@@ -877,7 +853,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>koj-kona</phonet>
 
@@ -886,8 +861,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>joku, eräs.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">joku, eräs</t>
       </tg>
     </mg>
   </e>
@@ -901,7 +876,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>koj-meźä</phonet>
 
@@ -910,8 +884,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>jokin, jotakin.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokin, jotakin</t>
       </tg>
 
       <xg>
@@ -919,7 +893,7 @@
 
         <phonet>ťäń kolga mon koj-meźə maŕäń</phonet>
 
-        <xt lang="fin">tästä olen kuullut jotakin.</xt>
+        <xt xml:lang="fin">tästä olen kuullut jotakin.</xt>
       </xg>
 
       <xg>
@@ -927,7 +901,7 @@
 
         <phonet>koj-meśť ľijat</phonet>
 
-        <xt lang="fin">muunlaiset, toisenlaiset.</xt>
+        <xt xml:lang="fin">muunlaiset, toisenlaiset.</xt>
       </xg>
     </mg>
   </e>
@@ -941,7 +915,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>kona</phonet>
 
@@ -950,8 +923,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>joka, mikä.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">joka, mikä</t>
       </tg>
 
       <xg>
@@ -959,7 +932,7 @@
 
         <phonet>kona-kona</phonet>
 
-        <xt lang="fin">eräs.</xt>
+        <xt xml:lang="fin">eräs.</xt>
       </xg>
 
       <xg>
@@ -967,7 +940,7 @@
 
         <phonet>koj-kona</phonet>
 
-        <xt lang="fin">joku, eräs.</xt>
+        <xt xml:lang="fin">joku, eräs.</xt>
       </xg>
 
       <xg>
@@ -975,7 +948,7 @@
 
         <phonet>kona af kona</phonet>
 
-        <xt lang="fin">jompikumpi.</xt>
+        <xt xml:lang="fin">jompikumpi.</xt>
       </xg>
 
       <xg>
@@ -983,7 +956,7 @@
 
         <phonet>kona-bəďi</phonet>
 
-        <xt lang="fin">jompikumpi.</xt>
+        <xt xml:lang="fin">jompikumpi.</xt>
       </xg>
 
       <xg>
@@ -991,7 +964,7 @@
 
         <phonet>konavək</phonet>
 
-        <xt lang="fin">jompikumpi; kukaan, mikään.</xt>
+        <xt xml:lang="fin">jompikumpi; kukaan, mikään.</xt>
       </xg>
 
       <xg>
@@ -999,7 +972,7 @@
 
         <phonet>konavək ťejń(ä) af eŕavi</phonet>
 
-        <xt lang="fin">en tarvitse ketään.</xt>
+        <xt xml:lang="fin">en tarvitse ketään.</xt>
       </xg>
 
       <xg>
@@ -1007,7 +980,7 @@
 
         <phonet>konatəľxť</phonet>
 
-        <xt lang="fin">jotka olivat.</xt>
+        <xt xml:lang="fin">jotka olivat.</xt>
       </xg>
     </mg>
   </e>
@@ -1021,7 +994,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>konaška</phonet>
 
@@ -1030,8 +1002,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>minkä kokoinen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">minkä kokoinen</t>
       </tg>
 
       <xg>
@@ -1039,7 +1011,7 @@
 
         <phonet>konaškasta</phonet>
 
-        <xt lang="fin">niin paljon kuin.</xt>
+        <xt xml:lang="fin">niin paljon kuin.</xt>
       </xg>
 
       <xg>
@@ -1047,7 +1019,7 @@
 
         <phonet>konaškava aľäś naŕďä</phonet>
 
-        <xt lang="fin">miten vahva tämä mies onkaan!</xt>
+        <xt xml:lang="fin">miten vahva tämä mies onkaan!</xt>
       </xg>
 
       <xg>
@@ -1055,7 +1027,7 @@
 
         <phonet>konaška marəc, śäška parəc</phonet>
 
-        <xt lang="fin">niin makaa kuin petaa.</xt>
+        <xt xml:lang="fin">niin makaa kuin petaa.</xt>
       </xg>
 
       <xg>
@@ -1063,7 +1035,7 @@
 
         <phonet>konaškava</phonet>
 
-        <xt lang="fin">siinä määrin kuin.</xt>
+        <xt xml:lang="fin">siinä määrin kuin.</xt>
       </xg>
 
       <xg>
@@ -1071,7 +1043,7 @@
 
         <phonet>konaškada</phonet>
 
-        <xt lang="fin">milloin, jolloin; mistä asti.</xt>
+        <xt xml:lang="fin">milloin, jolloin; mistä asti.</xt>
       </xg>
     </mg>
   </e>
@@ -1095,7 +1067,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>missä</t>
+        <t pos="Pron">missä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1179,7 +1151,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ei missään; jossakin</t>
+        <t pos="Pron">ei missään; jossakin</t>
       </tg>
     </mg>
   </e>
@@ -1193,7 +1165,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ladńək</phonet>
 
@@ -1202,8 +1173,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>koko, kokonaan, täysin.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">koko, kokonaan, täysin</t>
       </tg>
     </mg>
   </e>
@@ -1227,7 +1198,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>ei missään; jossakin</t>
+        <t pos="Pron">ei missään; jossakin</t>
       </tg>
     </mg>
   </e>
@@ -1251,7 +1222,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>mistä; koska, milloin</t>
+        <t pos="Pron">mistä; koska, milloin</t>
       </tg>
 
       <xg>
@@ -1332,17 +1303,17 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>jostakin; (ei) mistään; (ei) milloinkaan, (ei) koskaan</t>
+        <t pos="Pron">jostakin; (ei) mistään; (ei) milloinkaan, (ei) koskaan</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Pron">лия</l>
+      <l pos="A">лия</l>
 
       <stg>
-        <st Contlex="PRON_">лия</st>
+        <st Contlex="A_АВА">лия</st>
       </stg>
     </lg>
 
@@ -1355,8 +1326,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>muu, toinen.</t>
+      <tg xml:lang="fin">
+        <t pos="A">muu</t><t pos="A">toinen</t>
       </tg>
 
       <xg>
@@ -1364,7 +1335,7 @@
 
         <phonet>ľijä/iľä käľəń lomaťť</phonet>
 
-        <xt lang="fin">(mon.) vieraskieliset ihmiset.</xt>
+        <xt xml:lang="fin">(mon.) vieraskieliset ihmiset.</xt>
       </xg>
 
       <xg>
@@ -1372,7 +1343,7 @@
 
         <phonet>ľijä/iľä käľsa</phonet>
 
-        <xt lang="fin">vieraalla kielellä.</xt>
+        <xt xml:lang="fin">vieraalla kielellä.</xt>
       </xg>
     </mg>
   </e>
@@ -1395,8 +1366,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>(se) mikä, mitä</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">(se) mikä</t><t pos="Pron">mitä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1408,7 +1379,7 @@
 
         <phonet>meźə ńiŋgə ťejť</phonet>
 
-        <xt lang="fin">mikä nyt taas on? mikä sinua nyt taas vaivaa?</xt>
+        <xt xml:lang="fin">mikä nyt taas on? mikä sinua nyt taas vaivaa?</xt>
       </xg>
 
       <xg>
@@ -1416,7 +1387,7 @@
 
         <phonet>meźə viďat śäń i nujat</phonet>
 
-        <xt lang="fin">niin makaa kuin petaa.</xt>
+        <xt xml:lang="fin">niin makaa kuin petaa.</xt>
       </xg>
 
       <xg>
@@ -1424,7 +1395,7 @@
 
         <phonet>aš meź(ä) laŋks ramams</phonet>
 
-        <xt lang="fin">ei ole millä ostaa.</xt>
+        <xt xml:lang="fin">ei ole millä ostaa.</xt>
       </xg>
 
       <xg>
@@ -1432,7 +1403,7 @@
 
         <phonet>meź(ä) əna</phonet>
 
-        <xt lang="fin">minkähän takia?</xt>
+        <xt xml:lang="fin">minkähän takia?</xt>
       </xg>
 
       <xg>
@@ -1440,7 +1411,7 @@
 
         <phonet>meźə-bəďi</phonet>
 
-        <xt lang="fin">jokin.</xt>
+        <xt xml:lang="fin">jokin.</xt>
       </xg>
 
       <xg>
@@ -1448,7 +1419,7 @@
 
         <phonet>meźə vijəc</phonet>
 
-        <xt lang="fin">täysin voimin.</xt>
+        <xt xml:lang="fin">täysin voimin.</xt>
       </xg>
 
       <xg>
@@ -1456,7 +1427,7 @@
 
         <phonet>meźə-meźä</phonet>
 
-        <xt lang="fin">jokin.</xt>
+        <xt xml:lang="fin">jokin.</xt>
       </xg>
 
       <xg>
@@ -1464,7 +1435,7 @@
 
         <phonet>meźəvək</phonet>
 
-        <xt lang="fin">jokin; mikään.</xt>
+        <xt xml:lang="fin">jokin; mikään.</xt>
       </xg>
 
       <xg>
@@ -1472,7 +1443,7 @@
 
         <phonet>makst meźəvək moraftəms</phonet>
 
-        <xt lang="fin">luetaanpas jotakin.</xt>
+        <xt xml:lang="fin">luetaanpas jotakin.</xt>
       </xg>
 
       <xg>
@@ -1480,7 +1451,7 @@
 
         <phonet>son meźəvək ašəź juksta</phonet>
 
-        <xt lang="fin">hän ei unohtanut mitään.</xt>
+        <xt xml:lang="fin">hän ei unohtanut mitään.</xt>
       </xg>
 
       <xg>
@@ -1488,7 +1459,7 @@
 
         <phonet>meźəń al</phonet>
 
-        <xt lang="fin">minkä linnun muna se on?</xt>
+        <xt xml:lang="fin">minkä linnun muna se on?</xt>
       </xg>
 
       <xg>
@@ -1496,7 +1467,7 @@
 
         <phonet>meźəŋksa</phonet>
 
-        <xt lang="fin">minkä tähden, miksi.</xt>
+        <xt xml:lang="fin">minkä tähden, miksi.</xt>
       </xg>
 
       <xg>
@@ -1504,7 +1475,7 @@
 
         <phonet>aš meźəŋksa</phonet>
 
-        <xt lang="fin">turhaan, suotta; ei kestä kiittää.</xt>
+        <xt xml:lang="fin">turhaan, suotta; ei kestä kiittää.</xt>
       </xg>
 
       <xg>
@@ -1512,7 +1483,7 @@
 
         <phonet>meźəńďi</phonet>
 
-        <xt lang="fin">mitä varten.</xt>
+        <xt xml:lang="fin">mitä varten.</xt>
       </xg>
 
       <xg>
@@ -1520,7 +1491,7 @@
 
         <phonet>meźć(ə) uľi</phonet>
 
-        <xt lang="fin">mikä sinun on? mitä sinulla on?</xt>
+        <xt xml:lang="fin">mikä sinun on? mitä sinulla on?</xt>
       </xg>
 
       <xg>
@@ -1528,7 +1499,7 @@
 
         <phonet>meźəck(a) aš</phonet>
 
-        <xt lang="fin">hänellä ei ole mitään.</xt>
+        <xt xml:lang="fin">hänellä ei ole mitään.</xt>
       </xg>
 
       <xg>
@@ -1536,7 +1507,7 @@
 
         <phonet>meźńack(a) ašəľ</phonet>
 
-        <xt lang="fin">hänellä ei ollut mitään.</xt>
+        <xt xml:lang="fin">hänellä ei ollut mitään.</xt>
       </xg>
 
       <xg>
@@ -1544,7 +1515,7 @@
 
         <phonet>meźńək</phonet>
 
-        <xt lang="fin">kaikkineen.</xt>
+        <xt xml:lang="fin">kaikkineen.</xt>
       </xg>
 
       <xg>
@@ -1552,7 +1523,7 @@
 
         <phonet>saxərńək-meźńək</phonet>
 
-        <xt lang="fin">sokereineen päivineen.</xt>
+        <xt xml:lang="fin">sokereineen päivineen.</xt>
       </xg>
 
       <xg>
@@ -1560,7 +1531,7 @@
 
         <phonet>tənalńək-meźńək</phonet>
 
-        <xt lang="fin">perheineen.</xt>
+        <xt xml:lang="fin">perheineen.</xt>
       </xg>
 
       <xg>
@@ -1568,7 +1539,7 @@
 
         <phonet>meźda</phonet>
 
-        <xt lang="fin">paljonko, mitä (maksaa).</xt>
+        <xt xml:lang="fin">paljonko, mitä (maksaa).</xt>
       </xg>
 
       <xg>
@@ -1576,7 +1547,7 @@
 
         <phonet>meźs bə afəľ śťä</phonet>
 
-        <xt lang="fin">mitä sitten maksaakin.</xt>
+        <xt xml:lang="fin">mitä sitten maksaakin.</xt>
       </xg>
 
       <xg>
@@ -1584,7 +1555,7 @@
 
         <phonet>meźs(ə) af meźsa</phonet>
 
-        <xt lang="fin">1. millä tahansa. 2. jossakin.</xt>
+        <xt xml:lang="fin">1. millä tahansa. 2. jossakin.</xt>
       </xg>
     </mg>
   </e>
@@ -1598,7 +1569,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1607,7 +1577,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1622,7 +1592,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1631,7 +1600,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1646,7 +1615,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1655,7 +1623,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1670,7 +1638,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1679,7 +1646,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1694,7 +1661,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1703,7 +1669,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1718,7 +1684,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1727,7 +1692,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1742,7 +1707,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1751,7 +1715,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1766,7 +1730,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>meśť</phonet>
 
@@ -1775,8 +1738,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>mitä, miksi.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">mitä</t><t pos="Pron">miksi</t>
       </tg>
 
       <xg>
@@ -1784,7 +1747,7 @@
 
         <phonet>ašəľ meśť</phonet>
 
-        <xt lang="fin">ei ollut syytä.</xt>
+        <xt xml:lang="fin">ei ollut syytä.</xt>
       </xg>
 
       <xg>
@@ -1792,7 +1755,7 @@
 
         <phonet>aš meśť korxtamska</phonet>
 
-        <xt lang="fin">ei kannata mainitakaan.</xt>
+        <xt xml:lang="fin">ei kannata mainitakaan.</xt>
       </xg>
     </mg>
   </e>
@@ -1806,7 +1769,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1815,7 +1777,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1840,7 +1802,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>milloin, koska, mihin aikaan</t>
+        <t pos="Pron">milloin</t><t pos="Pron">koska</t><t pos="Pron">mihin aikaan</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1868,7 +1830,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>joskus</t>
+        <t pos="Pron">joskus</t>
       </tg>
     </mg>
   </e>
@@ -1882,7 +1844,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1891,7 +1852,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1906,7 +1867,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1915,7 +1875,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1930,7 +1890,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1939,7 +1898,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1954,7 +1913,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -1963,7 +1921,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -1978,7 +1936,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>miń</phonet>
 
@@ -1987,8 +1944,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>me; meidän.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">me; meidän</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2000,7 +1957,7 @@
 
         <phonet>miń iŋksəŋk/iŋksənək</phonet>
 
-        <xt lang="fin">meidän takiamme.</xt>
+        <xt xml:lang="fin">meidän takiamme.</xt>
       </xg>
 
       <xg>
@@ -2008,7 +1965,7 @@
 
         <phonet>miń ponań lomaťť</phonet>
 
-        <xt lang="fin">meidän kaltaisiamme ihmisiä.</xt>
+        <xt xml:lang="fin">meidän kaltaisiamme ihmisiä.</xt>
       </xg>
 
       <xg>
@@ -2016,7 +1973,7 @@
 
         <phonet>mińć</phonet>
 
-        <xt lang="fin">me itse.</xt>
+        <xt xml:lang="fin">me itse.</xt>
       </xg>
 
       <xg>
@@ -2024,7 +1981,7 @@
 
         <phonet>mińćəń</phonet>
 
-        <xt lang="fin">ikiomamme.</xt>
+        <xt xml:lang="fin">ikiomamme.</xt>
       </xg>
     </mg>
   </e>
@@ -2038,7 +1995,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2047,7 +2003,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2062,7 +2018,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2071,7 +2026,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2086,7 +2041,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2095,7 +2049,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2110,7 +2064,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>mon</phonet>
 
@@ -2119,8 +2072,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>minä.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">minä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2132,7 +2085,7 @@
 
         <phonet>mońć</phonet>
 
-        <xt lang="fin">minä itse.</xt>
+        <xt xml:lang="fin">minä itse.</xt>
       </xg>
 
       <xg>
@@ -2140,7 +2093,7 @@
 
         <phonet>mońć ńäjińä</phonet>
 
-        <xt lang="fin">näin sen omin silmin.</xt>
+        <xt xml:lang="fin">näin sen omin silmin.</xt>
       </xg>
 
       <xg>
@@ -2148,7 +2101,7 @@
 
         <phonet>mońćəń</phonet>
 
-        <xt lang="fin">(iki)omani.</xt>
+        <xt xml:lang="fin">(iki)omani.</xt>
       </xg>
 
       <xg>
@@ -2156,7 +2109,7 @@
 
         <phonet>moń/ mońń/mońńä/mojń</phonet>
 
-        <xt lang="fin">minun, (minun) omani.</xt>
+        <xt xml:lang="fin">minun, (minun) omani.</xt>
       </xg>
     </mg>
   </e>
@@ -2170,7 +2123,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2179,7 +2131,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2194,7 +2146,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2203,7 +2154,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2218,7 +2169,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2227,7 +2177,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2242,7 +2192,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2251,7 +2200,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2266,7 +2215,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2275,7 +2223,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2290,7 +2238,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>nona</phonet>
 
@@ -2299,8 +2246,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>muu, toinen, edellinen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">muu, toinen, edellinen</t>
       </tg>
 
       <xg>
@@ -2308,7 +2255,7 @@
 
         <phonet>nona kizəťńəń</phonet>
 
-        <xt lang="fin">edellisinä vuosina.</xt>
+        <xt xml:lang="fin">edellisinä vuosina.</xt>
       </xg>
     </mg>
   </e>
@@ -2322,7 +2269,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ńä</phonet>
 
@@ -2331,8 +2277,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>nämä, ne.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">nämä, ne</t>
       </tg>
 
       <xg>
@@ -2340,7 +2286,7 @@
 
         <phonet>ńat</phonet>
 
-        <xt lang="fin">(mon.) nämä, ne.</xt>
+        <xt xml:lang="fin">(mon.) nämä, ne.</xt>
       </xg>
 
       <xg>
@@ -2348,7 +2294,7 @@
 
         <phonet>ńä lomaťťńä</phonet>
 
-        <xt lang="fin">(määr., mon.) nämä ihmiset.</xt>
+        <xt xml:lang="fin">(määr., mon.) nämä ihmiset.</xt>
       </xg>
 
       <xg>
@@ -2356,7 +2302,7 @@
 
         <phonet>ńaka lomaťťńä</phonet>
 
-        <xt lang="fin">(määr., mon.) samat ihmiset.</xt>
+        <xt xml:lang="fin">(määr., mon.) samat ihmiset.</xt>
       </xg>
 
       <xg>
@@ -2364,7 +2310,7 @@
 
         <phonet>ńatka</phonet>
 
-        <xt lang="fin">nämäkin.</xt>
+        <xt xml:lang="fin">nämäkin.</xt>
       </xg>
 
       <xg>
@@ -2372,7 +2318,7 @@
 
         <phonet>ńaŋksa</phonet>
 
-        <xt lang="fin">näiden takia.</xt>
+        <xt xml:lang="fin">näiden takia.</xt>
       </xg>
     </mg>
   </e>
@@ -2386,7 +2332,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ńava</phonet>
 
@@ -2395,8 +2340,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tuolla.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">tuolla</t>
       </tg>
 
       <xg>
@@ -2404,7 +2349,7 @@
 
         <phonet>miń kudəńkə ńava</phonet>
 
-        <xt lang="fin">meidän talomme on tuolla.</xt>
+        <xt xml:lang="fin">meidän talomme on tuolla.</xt>
       </xg>
     </mg>
   </e>
@@ -2418,7 +2363,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ńakət</phonet>
 
@@ -2427,8 +2371,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>(mon.) vain nämä, ainoastaan nämä; juuri nämä.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">(mon.) vain nämä</t><t pos="Pron">ainoastaan nämä</t><t pos="Pron">juuri nämä</t>
       </tg>
     </mg>
   </e>
@@ -2442,7 +2386,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2451,7 +2394,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2466,7 +2409,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>samaj</phonet>
 
@@ -2475,8 +2417,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>1. juuri, aivan. 2. superlatiivin apusana.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">1. juuri, aivan. 2. superlatiivin apusana</t>
       </tg>
 
       <xg>
@@ -2484,7 +2426,7 @@
 
         <phonet>samaj ťasta</phonet>
 
-        <xt lang="fin">juuri tästä.</xt>
+        <xt xml:lang="fin">juuri tästä.</xt>
       </xg>
 
       <xg>
@@ -2492,7 +2434,7 @@
 
         <phonet>samaj śas</phonet>
 
-        <xt lang="fin">juuri siksi.</xt>
+        <xt xml:lang="fin">juuri siksi.</xt>
       </xg>
 
       <xg>
@@ -2500,7 +2442,7 @@
 
         <phonet>samaj kučkaťi</phonet>
 
-        <xt lang="fin">keskimpään.</xt>
+        <xt xml:lang="fin">keskimpään.</xt>
       </xg>
 
       <xg>
@@ -2508,7 +2450,7 @@
 
         <phonet>samaj oću</phonet>
 
-        <xt lang="fin">suurin.</xt>
+        <xt xml:lang="fin">suurin.</xt>
       </xg>
     </mg>
   </e>
@@ -2522,7 +2464,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>śembä</phonet>
 
@@ -2531,8 +2472,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kaikki; superlatiivin apusana.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">kaikki; superlatiivin apusana</t>
       </tg>
 
       <xg>
@@ -2540,7 +2481,7 @@
 
         <phonet>śembəd(a) oću</phonet>
 
-        <xt lang="fin">suurin.</xt>
+        <xt xml:lang="fin">suurin.</xt>
       </xg>
 
       <xg>
@@ -2548,7 +2489,7 @@
 
         <phonet>śembədəŋg(a) oću</phonet>
 
-        <xt lang="fin">suurin.</xt>
+        <xt xml:lang="fin">suurin.</xt>
       </xg>
 
       <xg>
@@ -2556,7 +2497,7 @@
 
         <phonet>śembəd(a) osal</phonet>
 
-        <xt lang="fin">huonoin.</xt>
+        <xt xml:lang="fin">huonoin.</xt>
       </xg>
     </mg>
   </e>
@@ -2570,7 +2511,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2579,7 +2519,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2594,7 +2534,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>śiń</phonet>
 
@@ -2603,8 +2542,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>he; heidän</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">he; heidän</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2618,7 +2557,7 @@
 
         <phonet>śińftəməst, śińfťəməst</phonet>
 
-        <xt lang="fin">ilman heitä.</xt>
+        <xt xml:lang="fin">ilman heitä.</xt>
       </xg>
 
       <xg>
@@ -2626,7 +2565,7 @@
 
         <phonet>śińć</phonet>
 
-        <xt lang="fin">he itse.</xt>
+        <xt xml:lang="fin">he itse.</xt>
       </xg>
     </mg>
   </e>
@@ -2640,7 +2579,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>son</phonet>
 
@@ -2649,8 +2587,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>hän</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">hän</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2664,7 +2602,7 @@
 
         <phonet>sońć</phonet>
 
-        <xt lang="fin">hän itse.</xt>
+        <xt xml:lang="fin">hän itse.</xt>
       </xg>
 
       <xg>
@@ -2672,7 +2610,7 @@
 
         <phonet>soń iŋksənʒa</phonet>
 
-        <xt lang="fin">hänen takiaan/puolestaan.</xt>
+        <xt xml:lang="fin">hänen takiaan/puolestaan.</xt>
       </xg>
 
       <xg>
@@ -2680,7 +2618,7 @@
 
         <phonet>sońftəmənʒa, sońfťəmənʒa</phonet>
 
-        <xt lang="fin">ilman häntä.</xt>
+        <xt xml:lang="fin">ilman häntä.</xt>
       </xg>
     </mg>
   </e>
@@ -2694,7 +2632,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2703,7 +2640,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2718,7 +2655,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2727,7 +2663,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2742,7 +2678,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2751,7 +2686,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2766,7 +2701,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>śä</phonet>
 
@@ -2775,8 +2709,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>se</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">se</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2788,7 +2722,7 @@
 
         <phonet>śat</phonet>
 
-        <xt lang="fin">(mon.) ne.</xt>
+        <xt xml:lang="fin">(mon.) ne.</xt>
       </xg>
 
       <xg>
@@ -2796,7 +2730,7 @@
 
         <phonet>śä lomańć</phonet>
 
-        <xt lang="fin">se ihminen.</xt>
+        <xt xml:lang="fin">se ihminen.</xt>
       </xg>
 
       <xg>
@@ -2804,7 +2738,7 @@
 
         <phonet>śä lomaťťńä, śat lomaťťńä</phonet>
 
-        <xt lang="fin">(mon.) ne ihmiset.</xt>
+        <xt xml:lang="fin">(mon.) ne ihmiset.</xt>
       </xg>
 
       <xg>
@@ -2812,7 +2746,7 @@
 
         <phonet>śat iľi tonat</phonet>
 
-        <xt lang="fin">(mon.) nämä tai nuo.</xt>
+        <xt xml:lang="fin">(mon.) nämä tai nuo.</xt>
       </xg>
 
       <xg>
@@ -2820,7 +2754,7 @@
 
         <phonet>śaftəma</phonet>
 
-        <xt lang="fin">ilman sitä.</xt>
+        <xt xml:lang="fin">ilman sitä.</xt>
       </xg>
 
       <xg>
@@ -2828,7 +2762,7 @@
 
         <phonet>śaŋksa</phonet>
 
-        <xt lang="fin">siksi, sen tähden.</xt>
+        <xt xml:lang="fin">siksi, sen tähden.</xt>
       </xg>
 
       <xg>
@@ -2836,7 +2770,7 @@
 
         <phonet>śäń meľä /meľgä</phonet>
 
-        <xt lang="fin">sitten, sen jälkeen.</xt>
+        <xt xml:lang="fin">sitten, sen jälkeen.</xt>
       </xg>
 
       <xg>
@@ -2844,7 +2778,7 @@
 
         <phonet>śäškava</phonet>
 
-        <xt lang="fin">niin paljon, siinä määrin.</xt>
+        <xt xml:lang="fin">niin paljon, siinä määrin.</xt>
       </xg>
     </mg>
   </e>
@@ -2858,7 +2792,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>śaka</phonet>
 
@@ -2867,8 +2800,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sama.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">sama</t>
       </tg>
 
       <xg>
@@ -2876,7 +2809,7 @@
 
         <phonet>śakə kizəńä</phonet>
 
-        <xt lang="fin">samana vuonna.</xt>
+        <xt xml:lang="fin">samana vuonna.</xt>
       </xg>
 
       <xg>
@@ -2884,7 +2817,7 @@
 
         <phonet>śakə kigä</phonet>
 
-        <xt lang="fin">saman tien.</xt>
+        <xt xml:lang="fin">saman tien.</xt>
       </xg>
 
       <xg>
@@ -2892,7 +2825,7 @@
 
         <phonet>śakə ža</phonet>
 
-        <xt lang="fin">samanlainen.</xt>
+        <xt xml:lang="fin">samanlainen.</xt>
       </xg>
 
       <xg>
@@ -2900,7 +2833,7 @@
 
         <phonet>śakə ťev</phonet>
 
-        <xt lang="fin">jatkuvasti, alinomaa, tämän tästä.</xt>
+        <xt xml:lang="fin">jatkuvasti, alinomaa, tämän tästä.</xt>
       </xg>
 
       <xg>
@@ -2908,7 +2841,7 @@
 
         <phonet>śakəń jotkəva</phonet>
 
-        <xt lang="fin">sillä välin, välillä.</xt>
+        <xt xml:lang="fin">sillä välin, välillä.</xt>
       </xg>
 
       <xg>
@@ -2916,7 +2849,7 @@
 
         <phonet>śakəń laŋks</phonet>
 
-        <xt lang="fin">samalla kertaa, saman tien.</xt>
+        <xt xml:lang="fin">samalla kertaa, saman tien.</xt>
       </xg>
     </mg>
   </e>
@@ -2930,7 +2863,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2939,7 +2871,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2954,7 +2886,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2963,7 +2894,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -2978,7 +2909,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -2987,7 +2917,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3002,7 +2932,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3011,7 +2940,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3026,7 +2955,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3035,7 +2963,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3050,7 +2978,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3059,7 +2986,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3074,7 +3001,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3083,7 +3009,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3098,7 +3024,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3107,7 +3032,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3122,7 +3047,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3131,7 +3055,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3146,7 +3070,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3155,7 +3078,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3170,7 +3093,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ťiń</phonet>
 
@@ -3179,8 +3101,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>te; teidän</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">te; teidän</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -3198,7 +3120,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ton</phonet>
 
@@ -3207,8 +3128,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sinä</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">sinä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -3222,7 +3143,7 @@
 
         <phonet>tońć</phonet>
 
-        <xt lang="fin">sinä itse.</xt>
+        <xt xml:lang="fin">sinä itse.</xt>
       </xg>
 
       <xg>
@@ -3230,7 +3151,7 @@
 
         <phonet>af toń/tońńə ťevś</phonet>
 
-        <xt lang="fin">se ei kuulu sinulle, mitä se sinulle kuuluu.</xt>
+        <xt xml:lang="fin">se ei kuulu sinulle, mitä se sinulle kuuluu.</xt>
       </xg>
     </mg>
   </e>
@@ -3244,7 +3165,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>tona</phonet>
 
@@ -3253,8 +3173,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tuo, se.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">tuo, se</t>
       </tg>
 
       <xg>
@@ -3262,7 +3182,7 @@
 
         <phonet>tona kizəńä</phonet>
 
-        <xt lang="fin">viime vuonna.</xt>
+        <xt xml:lang="fin">viime vuonna.</xt>
       </xg>
 
       <xg>
@@ -3270,7 +3190,7 @@
 
         <phonet>tona kud</phonet>
 
-        <xt lang="fin">kamari, sisähuone.</xt>
+        <xt xml:lang="fin">kamari, sisähuone.</xt>
       </xg>
 
       <xg>
@@ -3278,7 +3198,7 @@
 
         <phonet>tona päľəŋgä</phonet>
 
-        <xt lang="fin">1. silläkin puolella. 2. sillekin puolelle.</xt>
+        <xt xml:lang="fin">1. silläkin puolella. 2. sillekin puolelle.</xt>
       </xg>
 
       <xg>
@@ -3286,7 +3206,7 @@
 
         <phonet>tona päľďä</phonet>
 
-        <xt lang="fin">sieltä, tuolta.</xt>
+        <xt xml:lang="fin">sieltä, tuolta.</xt>
       </xg>
 
       <xg>
@@ -3294,7 +3214,7 @@
 
         <phonet>tona boku</phonet>
 
-        <xt lang="fin">toiselle puolelle.</xt>
+        <xt xml:lang="fin">toiselle puolelle.</xt>
       </xg>
 
       <xg>
@@ -3302,7 +3222,7 @@
 
         <phonet>Volgať tona šiŕi</phonet>
 
-        <xt lang="fin">Volgan toisella rannalla.</xt>
+        <xt xml:lang="fin">Volgan toisella rannalla.</xt>
       </xg>
 
       <xg>
@@ -3310,7 +3230,7 @@
 
         <phonet>ťä šisa … tona šisa</phonet>
 
-        <xt lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
+        <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
       </xg>
 
       <xg>
@@ -3318,7 +3238,7 @@
 
         <phonet>śat iľi tonat</phonet>
 
-        <xt lang="fin">nämä tai nuo.</xt>
+        <xt xml:lang="fin">nämä tai nuo.</xt>
       </xg>
     </mg>
   </e>
@@ -3332,7 +3252,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ťä</phonet>
 
@@ -3341,8 +3260,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tämä, se; (mon.) nämä, ne.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">tämä, se; (mon.) nämä, ne</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -3354,7 +3273,7 @@
 
         <phonet>ťä lomaťťńä</phonet>
 
-        <xt lang="fin">(mon.) nämä/ne ihmiset.</xt>
+        <xt xml:lang="fin">(mon.) nämä/ne ihmiset.</xt>
       </xg>
 
       <xg>
@@ -3362,7 +3281,7 @@
 
         <phonet>ťä veńä</phonet>
 
-        <xt lang="fin">tänä yönä.</xt>
+        <xt xml:lang="fin">tänä yönä.</xt>
       </xg>
 
       <xg>
@@ -3370,7 +3289,7 @@
 
         <phonet>ťä päľəńgä</phonet>
 
-        <xt lang="fin">tälläkin puolella.</xt>
+        <xt xml:lang="fin">tälläkin puolella.</xt>
       </xg>
 
       <xg>
@@ -3378,7 +3297,7 @@
 
         <phonet>ťä päľi</phonet>
 
-        <xt lang="fin">tännepäin.</xt>
+        <xt xml:lang="fin">tännepäin.</xt>
       </xg>
 
       <xg>
@@ -3386,7 +3305,7 @@
 
         <phonet>ťä päľiŋgä</phonet>
 
-        <xt lang="fin">tällekin puolelle.</xt>
+        <xt xml:lang="fin">tällekin puolelle.</xt>
       </xg>
 
       <xg>
@@ -3394,7 +3313,7 @@
 
         <phonet>ťä päľďä</phonet>
 
-        <xt lang="fin">täältä.</xt>
+        <xt xml:lang="fin">täältä.</xt>
       </xg>
 
       <xg>
@@ -3402,7 +3321,7 @@
 
         <phonet>ťä piŋks</phonet>
 
-        <xt lang="fin">tähän (aikaan) asti.</xt>
+        <xt xml:lang="fin">tähän (aikaan) asti.</xt>
       </xg>
 
       <xg>
@@ -3410,7 +3329,7 @@
 
         <phonet>ťä šisa … tona šisa</phonet>
 
-        <xt lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
+        <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
       </xg>
 
       <xg>
@@ -3418,7 +3337,7 @@
 
         <phonet>ťä šiťńəń</phonet>
 
-        <xt lang="fin">tämänpäiväinen.</xt>
+        <xt xml:lang="fin">tämänpäiväinen.</xt>
       </xg>
 
       <xg>
@@ -3426,7 +3345,7 @@
 
         <phonet>ťat</phonet>
 
-        <xt lang="fin">(mon.) nämä, ne.</xt>
+        <xt xml:lang="fin">(mon.) nämä, ne.</xt>
       </xg>
 
       <xg>
@@ -3434,7 +3353,7 @@
 
         <phonet>ťaŋksa</phonet>
 
-        <xt lang="fin">juuri täällä.</xt>
+        <xt xml:lang="fin">juuri täällä.</xt>
       </xg>
 
       <xg>
@@ -3442,7 +3361,7 @@
 
         <phonet>ťaza</phonet>
 
-        <xt lang="fin">tänne.</xt>
+        <xt xml:lang="fin">tänne.</xt>
       </xg>
 
       <xg>
@@ -3450,7 +3369,7 @@
 
         <phonet>ťasa</phonet>
 
-        <xt lang="fin">täällä, tässä.</xt>
+        <xt xml:lang="fin">täällä, tässä.</xt>
       </xg>
 
       <xg>
@@ -3458,7 +3377,7 @@
 
         <phonet>ťasa-tosa</phonet>
 
-        <xt lang="fin">siellä täällä.</xt>
+        <xt xml:lang="fin">siellä täällä.</xt>
       </xg>
 
       <xg>
@@ -3466,7 +3385,7 @@
 
         <phonet>ťazk</phonet>
 
-        <xt lang="fin">1. tänne. 2. heti.</xt>
+        <xt xml:lang="fin">1. tänne. 2. heti.</xt>
       </xg>
 
       <xg>
@@ -3474,7 +3393,7 @@
 
         <phonet>iľadəms ťazk</phonet>
 
-        <xt lang="fin">jäädä tänne.</xt>
+        <xt xml:lang="fin">jäädä tänne.</xt>
       </xg>
 
       <xg>
@@ -3482,7 +3401,7 @@
 
         <phonet>kodak … ťazk</phonet>
 
-        <xt lang="fin">sitten kun … niin heti.</xt>
+        <xt xml:lang="fin">sitten kun … niin heti.</xt>
       </xg>
 
       <xg>
@@ -3490,7 +3409,7 @@
 
         <phonet>ťasta</phonet>
 
-        <xt lang="fin">täältä.</xt>
+        <xt xml:lang="fin">täältä.</xt>
       </xg>
 
       <xg>
@@ -3498,7 +3417,7 @@
 
         <phonet>ťastəťńä</phonet>
 
-        <xt lang="fin">(mon.) täkäläiset.</xt>
+        <xt xml:lang="fin">(mon.) täkäläiset.</xt>
       </xg>
 
       <xg>
@@ -3506,7 +3425,7 @@
 
         <phonet>ťastəń</phonet>
 
-        <xt lang="fin">täkäläinen.</xt>
+        <xt xml:lang="fin">täkäläinen.</xt>
       </xg>
 
       <xg>
@@ -3514,7 +3433,7 @@
 
         <phonet>ťadə baška</phonet>
 
-        <xt lang="fin">sitä paitsi, sen lisäksi.</xt>
+        <xt xml:lang="fin">sitä paitsi, sen lisäksi.</xt>
       </xg>
 
       <xg>
@@ -3522,7 +3441,7 @@
 
         <phonet>ťäŋksa</phonet>
 
-        <xt lang="fin">tämän, sen takia.</xt>
+        <xt xml:lang="fin">tämän, sen takia.</xt>
       </xg>
 
       <xg>
@@ -3530,7 +3449,7 @@
 
         <phonet>ťäńďi-tonańďi</phonet>
 
-        <xt lang="fin">sille ja tälle.</xt>
+        <xt xml:lang="fin">sille ja tälle.</xt>
       </xg>
 
       <xg>
@@ -3538,7 +3457,7 @@
 
         <phonet>ťäškava, ťaškava</phonet>
 
-        <xt lang="fin">näin paljon.</xt>
+        <xt xml:lang="fin">näin paljon.</xt>
       </xg>
 
       <xg>
@@ -3546,7 +3465,7 @@
 
         <phonet>mäń ťäškams</phonet>
 
-        <xt lang="fin">tähän asti.</xt>
+        <xt xml:lang="fin">tähän asti.</xt>
       </xg>
 
       <xg>
@@ -3554,7 +3473,7 @@
 
         <phonet>ťäškas</phonet>
 
-        <xt lang="fin">tähän asti.</xt>
+        <xt xml:lang="fin">tähän asti.</xt>
       </xg>
 
       <xg>
@@ -3562,7 +3481,7 @@
 
         <phonet>mäń ťäškas</phonet>
 
-        <xt lang="fin">tähän asti.</xt>
+        <xt xml:lang="fin">tähän asti.</xt>
       </xg>
 
       <xg>
@@ -3570,7 +3489,7 @@
 
         <phonet>ťäškań</phonet>
 
-        <xt lang="fin">tämän kokoinen.</xt>
+        <xt xml:lang="fin">tämän kokoinen.</xt>
       </xg>
     </mg>
   </e>
@@ -3593,8 +3512,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tämä sama.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">tämä sama</t>
       </tg>
 
       <xg>
@@ -3602,7 +3521,7 @@
 
         <phonet>ťakə veńä</phonet>
 
-        <xt lang="fin">tänä yönä.</xt>
+        <xt xml:lang="fin">tänä yönä.</xt>
       </xg>
 
       <xg>
@@ -3610,7 +3529,7 @@
 
         <phonet>ťakəń marxta</phonet>
 
-        <xt lang="fin">samalla (kertaa), saman tien.</xt>
+        <xt xml:lang="fin">samalla (kertaa), saman tien.</xt>
       </xg>
     </mg>
   </e>
@@ -3624,7 +3543,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ťaftama</phonet>
 
@@ -3633,8 +3551,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tällainen, sellainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">tällainen, sellainen</t>
       </tg>
 
       <xg>
@@ -3642,7 +3560,7 @@
 
         <phonet>ťaftaməvək af</phonet>
 
-        <xt lang="fin">ei minkäänlainen.</xt>
+        <xt xml:lang="fin">ei minkäänlainen.</xt>
       </xg>
 
       <xg>
@@ -3650,7 +3568,7 @@
 
         <phonet>stapńəń-ťaftapńəń jotksa</phonet>
 
-        <xt lang="fin">kaikenlaisten ihmisten joukossa.</xt>
+        <xt xml:lang="fin">kaikenlaisten ihmisten joukossa.</xt>
       </xg>
     </mg>
   </e>
@@ -3664,7 +3582,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>ťäška/ťaška/ťeška</phonet>
 
@@ -3673,8 +3590,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sellainen, semmoinen, samanlainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">sellainen, semmoinen, samanlainen</t>
       </tg>
     </mg>
   </e>
@@ -3688,7 +3605,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3697,7 +3613,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3712,7 +3628,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3721,7 +3636,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3736,7 +3651,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3745,7 +3659,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3760,7 +3674,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <mg>
       <m>
@@ -3769,7 +3682,7 @@
         <defNative/>
       </m>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
@@ -3793,8 +3706,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>jokainen.</t>
+      <tg xml:lang="fin">
+        <t pos="Pron">jokainen</t>
       </tg>
 
       <xg>
@@ -3802,7 +3715,7 @@
 
         <phonet>äŕ šiń</phonet>
 
-        <xt lang="fin">jokapäiväinen.</xt>
+        <xt xml:lang="fin">jokapäiväinen.</xt>
       </xg>
 
       <xg>
@@ -3810,7 +3723,7 @@
 
         <phonet>äŕ meźńä</phonet>
 
-        <xt lang="fin">joka kerta, aina, alituiseen.</xt>
+        <xt xml:lang="fin">joka kerta, aina, alituiseen.</xt>
       </xg>
     </mg>
   </e>
@@ -3824,7 +3737,6 @@
       </stg>
     </lg>
 
-    <pos>PRON</pos>
 
     <phonet>eś</phonet>
 
@@ -3833,8 +3745,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>oma; itse.</t>
+      <tg xml:lang="fin">
+        <t pos="A" type="Refl">oma</t><t pos="Pron" type="Refl">itse</t>
       </tg>
 
       <xg>
@@ -3842,7 +3754,7 @@
 
         <phonet>eś ťevəźä</phonet>
 
-        <xt lang="fin">oma asiani.</xt>
+        <xt xml:lang="fin">oma asiani.</xt>
       </xg>
 
       <xg>
@@ -3850,7 +3762,7 @@
 
         <phonet>eś jotkəń lomaťť</phonet>
 
-        <xt lang="fin">meidän laisemme ihmiset, meikäläiset.</xt>
+        <xt xml:lang="fin">meidän laisemme ihmiset, meikäläiset.</xt>
       </xg>
 
       <xg>
@@ -3858,7 +3770,7 @@
 
         <phonet>eś pŕäń kiŕďi</phonet>
 
-        <xt lang="fin">pidättyväinen.</xt>
+        <xt xml:lang="fin">pidättyväinen.</xt>
       </xg>
 
       <xg>
@@ -3866,7 +3778,7 @@
 
         <phonet>eś kodaf sukna</phonet>
 
-        <xt lang="fin">kotikutoinen kangas.</xt>
+        <xt xml:lang="fin">kotikutoinen kangas.</xt>
       </xg>
 
       <xg>
@@ -3874,7 +3786,7 @@
 
         <phonet>eś pańf</phonet>
 
-        <xt lang="fin">kotipolttoinen (viina).</xt>
+        <xt xml:lang="fin">kotipolttoinen (viina).</xt>
       </xg>
 
       <xg>
@@ -3882,7 +3794,7 @@
 
         <phonet>eś oťam</phonet>
 
-        <xt lang="fin">vaistomaisesti, itsestään.</xt>
+        <xt xml:lang="fin">vaistomaisesti, itsestään.</xt>
       </xg>
 
       <xg>
@@ -3890,7 +3802,7 @@
 
         <phonet>eś pačka</phonet>
 
-        <xt lang="fin">itsekseen.</xt>
+        <xt xml:lang="fin">itsekseen.</xt>
       </xg>
     </mg>
   </e>
@@ -3911,8 +3823,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>oikea, todellinen, tosi.</t>
+      <tg xml:lang="fin">
+        <t pos="A">oikea</t><t pos="A">todellinen</t><t pos="A">tosi</t>
       </tg>
     </mg>
   </e>

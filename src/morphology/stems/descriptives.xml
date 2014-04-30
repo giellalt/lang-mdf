@@ -1,3519 +1,4522 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-  <e>
-      <lg>
-         <l pos="Descr">ав-ав</l>
-         <stg>
-            <st Contlex="DESCR_">ав-ав</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">аньдити</l>
-         <stg>
-            <st Contlex="DESCR_">аньдити</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бах</l>
-         <stg>
-            <st Contlex="DESCR_">бах</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бац</l>
-         <stg>
-            <st Contlex="DESCR_">бац</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бацк</l>
-         <stg>
-            <st Contlex="DESCR_">бацк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бацор-бацор</l>
-         <stg>
-            <st Contlex="DESCR_">бацор-бацор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">боцк</l>
-         <stg>
-            <st Contlex="DESCR_">боцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бренч-бренч</l>
-         <stg>
-            <st Contlex="DESCR_">бренч-бренч</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">булдор-булдор</l>
-         <stg>
-            <st Contlex="DESCR_">булдор-булдор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">буль-буль</l>
-         <stg>
-            <st Contlex="DESCR_">буль-буль</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бульдерь-бульдерь</l>
-         <stg>
-            <st Contlex="DESCR_">бульдерь-бульдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бум</l>
-         <stg>
-            <st Contlex="DESCR_">бум</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бунть</l>
-         <stg>
-            <st Contlex="DESCR_">бунть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бух</l>
-         <stg>
-            <st Contlex="DESCR_">бух</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бъльдерь-бъльдерь</l>
-         <stg>
-            <st Contlex="DESCR_">бъльдерь-бъльдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бъльк</l>
-         <stg>
-            <st Contlex="DESCR_">бъльк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бъц</l>
-         <stg>
-            <st Contlex="DESCR_">бъц</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бъцор</l>
-         <stg>
-            <st Contlex="DESCR_">бъцор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бяр</l>
-         <stg>
-            <st Contlex="DESCR_">бяр</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бяцк</l>
-         <stg>
-            <st Contlex="DESCR_">бяцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">бяцор-бяцор</l>
-         <stg>
-            <st Contlex="DESCR_">бяцор-бяцор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">варк</l>
-         <stg>
-            <st Contlex="DESCR_">варк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въжгол</l>
-         <stg>
-            <st Contlex="DESCR_">въжгол</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въжж</l>
-         <stg>
-            <st Contlex="DESCR_">въжж</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въжк</l>
-         <stg>
-            <st Contlex="DESCR_">въжк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въркшт</l>
-         <stg>
-            <st Contlex="DESCR_">въркшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">върр</l>
-         <stg>
-            <st Contlex="DESCR_">върр</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въррь</l>
-         <stg>
-            <st Contlex="DESCR_">въррь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">върхть</l>
-         <stg>
-            <st Contlex="DESCR_">върхть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">върьшт</l>
-         <stg>
-            <st Contlex="DESCR_">върьшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">въшт</l>
-         <stg>
-            <st Contlex="DESCR_">въшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">вягак</l>
-         <stg>
-            <st Contlex="DESCR_">вягак</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">вяк</l>
-         <stg>
-            <st Contlex="DESCR_">вяк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">вятерь-вятерь</l>
-         <stg>
-            <st Contlex="DESCR_">вятерь-вятерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гага-гага</l>
-         <stg>
-            <st Contlex="DESCR_">гага-гага</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гай-гай</l>
-         <stg>
-            <st Contlex="DESCR_">гай-гай</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гальдерь-гальдерь</l>
-         <stg>
-            <st Contlex="DESCR_">гальдерь-гальдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">голт-голт</l>
-         <stg>
-            <st Contlex="DESCR_">голт-голт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">грох</l>
-         <stg>
-            <st Contlex="DESCR_">грох</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гулдор-галдор</l>
-         <stg>
-            <st Contlex="DESCR_">гулдор-галдор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гурь</l>
-         <stg>
-            <st Contlex="DESCR_">гурь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гъз</l>
-         <stg>
-            <st Contlex="DESCR_">гъз</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">гълдор-галдор</l>
-         <stg>
-            <st Contlex="DESCR_">гълдор-галдор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дзиньк</l>
-         <stg>
-            <st Contlex="DESCR_">дзиньк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">динголь-динголь</l>
-         <stg>
-            <st Contlex="DESCR_">динголь-динголь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">динь</l>
-         <stg>
-            <st Contlex="DESCR_">динь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">динь-динь</l>
-         <stg>
-            <st Contlex="DESCR_">динь-динь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">диньголь-диньголь</l>
-         <stg>
-            <st Contlex="DESCR_">диньголь-диньголь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дой</l>
-         <stg>
-            <st Contlex="DESCR_">дой</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дон</l>
-         <stg>
-            <st Contlex="DESCR_">дон</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дринь</l>
-         <stg>
-            <st Contlex="DESCR_">дринь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дриньк-дриньк</l>
-         <stg>
-            <st Contlex="DESCR_">дриньк-дриньк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">дубор-дубор</l>
-         <stg>
-            <st Contlex="DESCR_">дубор-дубор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">жик</l>
-         <stg>
-            <st Contlex="DESCR_">жик</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">жой</l>
-         <stg>
-            <st Contlex="DESCR_">жой</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">жоль-жоль</l>
-         <stg>
-            <st Contlex="DESCR_">жоль-жоль</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">жольдерь-жольдерь</l>
-         <stg>
-            <st Contlex="DESCR_">жольдерь-жольдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">жольдерь-кальдерь</l>
-         <stg>
-            <st Contlex="DESCR_">жольдерь-кальдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">зярь</l>
-         <stg>
-            <st Contlex="DESCR_">зярь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">иго-го</l>
-         <stg>
-            <st Contlex="DESCR_">иго-го</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">калдор-калдор</l>
-         <stg>
-            <st Contlex="DESCR_">калдор-калдор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">калт</l>
-         <stg>
-            <st Contlex="DESCR_">калт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кальдерь-кальдерь</l>
-         <stg>
-            <st Contlex="DESCR_">кальдерь-кальдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кальхцк-кальхцк</l>
-         <stg>
-            <st Contlex="DESCR_">кальхцк-кальхцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">канзер-канзер</l>
-         <stg>
-            <st Contlex="DESCR_">канзер-канзер</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">канзерхт</l>
-         <stg>
-            <st Contlex="DESCR_">канзерхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кап</l>
-         <stg>
-            <st Contlex="DESCR_">кап</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">каф-куф</l>
-         <stg>
-            <st Contlex="DESCR_">каф-куф</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кацер-кацер</l>
-         <stg>
-            <st Contlex="DESCR_">кацер-кацер</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кецор-кецор</l>
-         <stg>
-            <st Contlex="DESCR_">кецор-кецор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кифтол</l>
-         <stg>
-            <st Contlex="DESCR_">кифтол</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кончт-кончт</l>
-         <stg>
-            <st Contlex="DESCR_">кончт-кончт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">копст-копст</l>
-         <stg>
-            <st Contlex="DESCR_">копст-копст</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">корхчк-корхчк</l>
-         <stg>
-            <st Contlex="DESCR_">корхчк-корхчк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">корь-корь</l>
-         <stg>
-            <st Contlex="DESCR_">корь-корь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">корьфь</l>
-         <stg>
-            <st Contlex="DESCR_">корьфь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">коцор-коцор</l>
-         <stg>
-            <st Contlex="DESCR_">коцор-коцор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кринть-кринть</l>
-         <stg>
-            <st Contlex="DESCR_">кринть-кринть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">куйшть-куйшть</l>
-         <stg>
-            <st Contlex="DESCR_">куйшть-куйшть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кулдор-калдор</l>
-         <stg>
-            <st Contlex="DESCR_">кулдор-калдор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кълтык-кълтык</l>
-         <stg>
-            <st Contlex="DESCR_">кълтык-кълтык</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">къркшт</l>
-         <stg>
-            <st Contlex="DESCR_">къркшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кърхмык</l>
-         <stg>
-            <st Contlex="DESCR_">кърхмык</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кътор-кътор</l>
-         <stg>
-            <st Contlex="DESCR_">кътор-кътор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">къшмик</l>
-         <stg>
-            <st Contlex="DESCR_">къшмик</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кылдырку</l>
-         <stg>
-            <st Contlex="DESCR_">кылдырку</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кяр-кяр</l>
-         <stg>
-            <st Contlex="DESCR_">кяр-кяр</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">кярь-кярь</l>
-         <stg>
-            <st Contlex="DESCR_">кярь-кярь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лабор-лабор</l>
-         <stg>
-            <st Contlex="DESCR_">лабор-лабор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лагор-лагор</l>
-         <stg>
-            <st Contlex="DESCR_">лагор-лагор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лакшт</l>
-         <stg>
-            <st Contlex="DESCR_">лакшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лакштор</l>
-         <stg>
-            <st Contlex="DESCR_">лакштор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лакштор-лакштор</l>
-         <stg>
-            <st Contlex="DESCR_">лакштор-лакштор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лап</l>
-         <stg>
-            <st Contlex="DESCR_">лап</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лап-лап</l>
-         <stg>
-            <st Contlex="DESCR_">лап-лап</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лапик</l>
-         <stg>
-            <st Contlex="DESCR_">лапик</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ларк</l>
-         <stg>
-            <st Contlex="DESCR_">ларк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ларк-ларк</l>
-         <stg>
-            <st Contlex="DESCR_">ларк-ларк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лаш</l>
-         <stg>
-            <st Contlex="DESCR_">лаш</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">леборь-леборь</l>
-         <stg>
-            <st Contlex="DESCR_">леборь-леборь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">либорь-либорь</l>
-         <stg>
-            <st Contlex="DESCR_">либорь-либорь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ликом-лаком</l>
-         <stg>
-            <st Contlex="DESCR_">ликом-лаком</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">липшт</l>
-         <stg>
-            <st Contlex="DESCR_">липшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лозк</l>
-         <stg>
-            <st Contlex="DESCR_">лозк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лозь</l>
-         <stg>
-            <st Contlex="DESCR_">лозь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лонть</l>
-         <stg>
-            <st Contlex="DESCR_">лонть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лонть-лонть</l>
-         <stg>
-            <st Contlex="DESCR_">лонть-лонть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лоп</l>
-         <stg>
-            <st Contlex="DESCR_">лоп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лоп-лоп</l>
-         <stg>
-            <st Contlex="DESCR_">лоп-лоп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лоськ-лоськ</l>
-         <stg>
-            <st Contlex="DESCR_">лоськ-лоськ</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лоткшт</l>
-         <stg>
-            <st Contlex="DESCR_">лоткшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лужк</l>
-         <stg>
-            <st Contlex="DESCR_">лужк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лужк-лужк</l>
-         <stg>
-            <st Contlex="DESCR_">лужк-лужк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">луп-луп</l>
-         <stg>
-            <st Contlex="DESCR_">луп-луп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лъкшт</l>
-         <stg>
-            <st Contlex="DESCR_">лъкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лъкшт-лъкшт</l>
-         <stg>
-            <st Contlex="DESCR_">лъкшт-лъкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лъкштор</l>
-         <stg>
-            <st Contlex="DESCR_">лъкштор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">лыпык</l>
-         <stg>
-            <st Contlex="DESCR_">лыпык</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">люкок</l>
-         <stg>
-            <st Contlex="DESCR_">люкок</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">люкшт</l>
-         <stg>
-            <st Contlex="DESCR_">люкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мок-мек</l>
-         <stg>
-            <st Contlex="DESCR_">мок-мек</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">моцор-моцор</l>
-         <stg>
-            <st Contlex="DESCR_">моцор-моцор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мъзолхт</l>
-         <stg>
-            <st Contlex="DESCR_">мъзолхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мър-мър</l>
-         <stg>
-            <st Contlex="DESCR_">мър-мър</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мъчкор-мъчкор</l>
-         <stg>
-            <st Contlex="DESCR_">мъчкор-мъчкор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мъштерь-мъштерь</l>
-         <stg>
-            <st Contlex="DESCR_">мъштерь-мъштерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">мярк</l>
-         <stg>
-            <st Contlex="DESCR_">мярк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">нолшт</l>
-         <stg>
-            <st Contlex="DESCR_">нолшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">норхц-норхц</l>
-         <stg>
-            <st Contlex="DESCR_">норхц-норхц</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">норхцк</l>
-         <stg>
-            <st Contlex="DESCR_">норхцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ноцк</l>
-         <stg>
-            <st Contlex="DESCR_">ноцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">нулхт</l>
-         <stg>
-            <st Contlex="DESCR_">нулхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">нулхт-нулхт</l>
-         <stg>
-            <st Contlex="DESCR_">нулхт-нулхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">нулхтыкь</l>
-         <stg>
-            <st Contlex="DESCR_">нулхтыкь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пиндолк-пиндолк</l>
-         <stg>
-            <st Contlex="DESCR_">пиндолк-пиндолк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пиндолхт</l>
-         <stg>
-            <st Contlex="DESCR_">пиндолхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">плюх</l>
-         <stg>
-            <st Contlex="DESCR_">плюх</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пок-пок</l>
-         <stg>
-            <st Contlex="DESCR_">пок-пок</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">покор-покор</l>
-         <stg>
-            <st Contlex="DESCR_">покор-покор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">полкшт</l>
-         <stg>
-            <st Contlex="DESCR_">полкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пукшт</l>
-         <stg>
-            <st Contlex="DESCR_">пукшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пунть</l>
-         <stg>
-            <st Contlex="DESCR_">пунть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пух</l>
-         <stg>
-            <st Contlex="DESCR_">пух</st>
-         </stg>
-      </lg>
-      <phonet>pux</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пълдорк-пълдорк</l>
-         <stg>
-            <st Contlex="DESCR_">пълдорк-пълдорк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пълкшт</l>
-         <stg>
-            <st Contlex="DESCR_">пълкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пъркшт</l>
-         <stg>
-            <st Contlex="DESCR_">пъркшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пъть</l>
-         <stg>
-            <st Contlex="DESCR_">пъть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пянкшт</l>
-         <stg>
-            <st Contlex="DESCR_">пянкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">пяцор-пяцор</l>
-         <stg>
-            <st Contlex="DESCR_">пяцор-пяцор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">раз</l>
-         <stg>
-            <st Contlex="DESCR_">раз</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">рас</l>
-         <stg>
-            <st Contlex="DESCR_">рас</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">рис-рас</l>
-         <stg>
-            <st Contlex="DESCR_">рис-рас</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">рёв-рёв</l>
-         <stg>
-            <st Contlex="DESCR_">рёв-рёв</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">талхт-талхт</l>
-         <stg>
-            <st Contlex="DESCR_">талхт-талхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">теш-лаш</l>
-         <stg>
-            <st Contlex="DESCR_">теш-лаш</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тигел</l>
-         <stg>
-            <st Contlex="DESCR_">тигел</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тиньти</l>
-         <stg>
-            <st Contlex="DESCR_">тиньти</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тити-тити-тити</l>
-         <stg>
-            <st Contlex="DESCR_">тити-тити-тити</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">токшт</l>
-         <stg>
-            <st Contlex="DESCR_">токшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">топ</l>
-         <stg>
-            <st Contlex="DESCR_">топ</st>
-         </stg>
-      </lg>
-      <phonet>top</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тотомы-тотомы</l>
-         <stg>
-            <st Contlex="DESCR_">тотомы-тотомы</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тоцк</l>
-         <stg>
-            <st Contlex="DESCR_">тоцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тош</l>
-         <stg>
-            <st Contlex="DESCR_">тош</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тош-тош</l>
-         <stg>
-            <st Contlex="DESCR_">тош-тош</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">трах</l>
-         <stg>
-            <st Contlex="DESCR_">трах</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тук</l>
-         <stg>
-            <st Contlex="DESCR_">тук</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тук-тук</l>
-         <stg>
-            <st Contlex="DESCR_">тук-тук</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тъпор</l>
-         <stg>
-            <st Contlex="DESCR_">тъпор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">търхцк</l>
-         <stg>
-            <st Contlex="DESCR_">търхцк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тыж</l>
-         <stg>
-            <st Contlex="DESCR_">тыж</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тыж-выж</l>
-         <stg>
-            <st Contlex="DESCR_">тыж-выж</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тыж-лаж</l>
-         <stg>
-            <st Contlex="DESCR_">тыж-лаж</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тяп</l>
-         <stg>
-            <st Contlex="DESCR_">тяп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тярь-тярь</l>
-         <stg>
-            <st Contlex="DESCR_">тярь-тярь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тяф</l>
-         <stg>
-            <st Contlex="DESCR_">тяф</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">тёш</l>
-         <stg>
-            <st Contlex="DESCR_">тёш</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">фырк</l>
-         <stg>
-            <st Contlex="DESCR_">фырк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">фырк-фырк</l>
-         <stg>
-            <st Contlex="DESCR_">фырк-фырк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ха-ха</l>
-         <stg>
-            <st Contlex="DESCR_">ха-ха</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ха-ха-ха</l>
-         <stg>
-            <st Contlex="DESCR_">ха-ха-ха</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">хе-хе</l>
-         <stg>
-            <st Contlex="DESCR_">хе-хе</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">хи-хи</l>
-         <stg>
-            <st Contlex="DESCR_">хи-хи</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">хи-хи-хи</l>
-         <stg>
-            <st Contlex="DESCR_">хи-хи-хи</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">хлоп</l>
-         <stg>
-            <st Contlex="DESCR_">хлоп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цап</l>
-         <stg>
-            <st Contlex="DESCR_">цап</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">церк-церк</l>
-         <stg>
-            <st Contlex="DESCR_">церк-церк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ций</l>
-         <stg>
-            <st Contlex="DESCR_">ций</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цинголь</l>
-         <stg>
-            <st Contlex="DESCR_">цинголь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цинголь-динголь</l>
-         <stg>
-            <st Contlex="DESCR_">цинголь-динголь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цинголь-кальдерь</l>
-         <stg>
-            <st Contlex="DESCR_">цинголь-кальдерь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цинголь-канзер</l>
-         <stg>
-            <st Contlex="DESCR_">цинголь-канзер</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цингор-канзер</l>
-         <stg>
-            <st Contlex="DESCR_">цингор-канзер</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цингорк</l>
-         <stg>
-            <st Contlex="DESCR_">цингорк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цинь-цинь</l>
-         <stg>
-            <st Contlex="DESCR_">цинь-цинь</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">циньк-циньк</l>
-         <stg>
-            <st Contlex="DESCR_">циньк-циньк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цирьк</l>
-         <stg>
-            <st Contlex="DESCR_">цирьк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цирьк-цирьк</l>
-         <stg>
-            <st Contlex="DESCR_">цирьк-цирьк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цить</l>
-         <stg>
-            <st Contlex="DESCR_">цить</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цифтор-цифтор</l>
-         <stg>
-            <st Contlex="DESCR_">цифтор-цифтор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цок</l>
-         <stg>
-            <st Contlex="DESCR_">цок</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цоп</l>
-         <stg>
-            <st Contlex="DESCR_">цоп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цыва-цыпа</l>
-         <stg>
-            <st Contlex="DESCR_">цыва-цыпа</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цыц-цат</l>
-         <stg>
-            <st Contlex="DESCR_">цыц-цат</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цюв-цяв</l>
-         <stg>
-            <st Contlex="DESCR_">цюв-цяв</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цютор-цятор</l>
-         <stg>
-            <st Contlex="DESCR_">цютор-цятор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цяп</l>
-         <stg>
-            <st Contlex="DESCR_">цяп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цяр</l>
-         <stg>
-            <st Contlex="DESCR_">цяр</st>
-         </stg>
-      </lg>
-      <phonet>ćar</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цят-цят</l>
-         <stg>
-            <st Contlex="DESCR_">цят-цят</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цятор</l>
-         <stg>
-            <st Contlex="DESCR_">цятор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цятор-цятор</l>
-         <stg>
-            <st Contlex="DESCR_">цятор-цятор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">цёф-цёф</l>
-         <stg>
-            <st Contlex="DESCR_">цёф-цёф</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чак</l>
-         <stg>
-            <st Contlex="DESCR_">чак</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чак-чак</l>
-         <stg>
-            <st Contlex="DESCR_">чак-чак</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чак-чак-чак</l>
-         <stg>
-            <st Contlex="DESCR_">чак-чак-чак</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чакор</l>
-         <stg>
-            <st Contlex="DESCR_">чакор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чатор</l>
-         <stg>
-            <st Contlex="DESCR_">чатор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чивор</l>
-         <stg>
-            <st Contlex="DESCR_">чивор</st>
-         </stg>
-      </lg>
-      <phonet>čivər</phonet>
-      <mg>
-         <m>
-            <head/>
-         </m>
-         <tg xml:lang="fin">
-            <t>kurina.</t>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чижелхт-выжелхт</l>
-         <stg>
-            <st Contlex="DESCR_">чижелхт-выжелхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чикор</l>
-         <stg>
-            <st Contlex="DESCR_">чикор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чип-чип</l>
-         <stg>
-            <st Contlex="DESCR_">чип-чип</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чир</l>
-         <stg>
-            <st Contlex="DESCR_">чир</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чир-чер</l>
-         <stg>
-            <st Contlex="DESCR_">чир-чер</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чирк</l>
-         <stg>
-            <st Contlex="DESCR_">чирк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чирк-чирк</l>
-         <stg>
-            <st Contlex="DESCR_">чирк-чирк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">читор-лагор</l>
-         <stg>
-            <st Contlex="DESCR_">читор-лагор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">читор-чатор</l>
-         <stg>
-            <st Contlex="DESCR_">читор-чатор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чоп</l>
-         <stg>
-            <st Contlex="DESCR_">чоп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чупик</l>
-         <stg>
-            <st Contlex="DESCR_">чупик</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чъкор-чъкор</l>
-         <stg>
-            <st Contlex="DESCR_">чъкор-чъкор</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чъкр</l>
-         <stg>
-            <st Contlex="DESCR_">чъкр</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чыжк-выжк</l>
-         <stg>
-            <st Contlex="DESCR_">чыжк-выжк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чёкшт</l>
-         <stg>
-            <st Contlex="DESCR_">чёкшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чёмбол</l>
-         <stg>
-            <st Contlex="DESCR_">чёмбол</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чёф</l>
-         <stg>
-            <st Contlex="DESCR_">чёф</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чёш</l>
-         <stg>
-            <st Contlex="DESCR_">чёш</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">чёш-чёш</l>
-         <stg>
-            <st Contlex="DESCR_">чёш-чёш</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">шелль</l>
-         <stg>
-            <st Contlex="DESCR_">шелль</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">шель</l>
-         <stg>
-            <st Contlex="DESCR_">шель</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">шлёлёлёть</l>
-         <stg>
-            <st Contlex="DESCR_">шлёлёлёть</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">шлёп</l>
-         <stg>
-            <st Contlex="DESCR_">шлёп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">щуп-щуп</l>
-         <stg>
-            <st Contlex="DESCR_">щуп-щуп</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">щёлк</l>
-         <stg>
-            <st Contlex="DESCR_">щёлк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">юлхт-юлхт</l>
-         <stg>
-            <st Contlex="DESCR_">юлхт-юлхт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">юркшт</l>
-         <stg>
-            <st Contlex="DESCR_">юркшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">юфчий-яфчай</l>
-         <stg>
-            <st Contlex="DESCR_">юфчий-яфчай</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">юшт</l>
-         <stg>
-            <st Contlex="DESCR_">юшт</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ёзмол-ёзмол</l>
-         <stg>
-            <st Contlex="DESCR_">ёзмол-ёзмол</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ёкол-ёкол</l>
-         <stg>
-            <st Contlex="DESCR_">ёкол-ёкол</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ёлк-ёлк</l>
-         <stg>
-            <st Contlex="DESCR_">ёлк-ёлк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="Descr">ёмболк</l>
-         <stg>
-            <st Contlex="DESCR_">ёмболк</st>
-         </stg>
-      </lg>
-      <mg>
-            <defNative/>
-         <tg xml:lang="fin">
-            <t/>
-         </tg>
-      </mg>
-   </e>
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Descr">ав-ав</l>
+
+      <stg>
+        <st Contlex="DESCR_">ав-ав</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">аньдити</l>
+
+      <stg>
+        <st Contlex="DESCR_">аньдити</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бах</l>
+
+      <stg>
+        <st Contlex="DESCR_">бах</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бац</l>
+
+      <stg>
+        <st Contlex="DESCR_">бац</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бацк</l>
+
+      <stg>
+        <st Contlex="DESCR_">бацк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бацор-бацор</l>
+
+      <stg>
+        <st Contlex="DESCR_">бацор-бацор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">боцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">боцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бренч-бренч</l>
+
+      <stg>
+        <st Contlex="DESCR_">бренч-бренч</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">булдор-булдор</l>
+
+      <stg>
+        <st Contlex="DESCR_">булдор-булдор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">буль-буль</l>
+
+      <stg>
+        <st Contlex="DESCR_">буль-буль</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бульдерь-бульдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">бульдерь-бульдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бум</l>
+
+      <stg>
+        <st Contlex="DESCR_">бум</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бунть</l>
+
+      <stg>
+        <st Contlex="DESCR_">бунть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бух</l>
+
+      <stg>
+        <st Contlex="DESCR_">бух</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бъльдерь-бъльдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">бъльдерь-бъльдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бъльк</l>
+
+      <stg>
+        <st Contlex="DESCR_">бъльк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бъц</l>
+
+      <stg>
+        <st Contlex="DESCR_">бъц</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бъцор</l>
+
+      <stg>
+        <st Contlex="DESCR_">бъцор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бяр</l>
+
+      <stg>
+        <st Contlex="DESCR_">бяр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бяцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">бяцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">бяцор-бяцор</l>
+
+      <stg>
+        <st Contlex="DESCR_">бяцор-бяцор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">варк</l>
+
+      <stg>
+        <st Contlex="DESCR_">варк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въжгол</l>
+
+      <stg>
+        <st Contlex="DESCR_">въжгол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въжж</l>
+
+      <stg>
+        <st Contlex="DESCR_">въжж</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въжк</l>
+
+      <stg>
+        <st Contlex="DESCR_">въжк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въркшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">въркшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">върр</l>
+
+      <stg>
+        <st Contlex="DESCR_">върр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въррь</l>
+
+      <stg>
+        <st Contlex="DESCR_">въррь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">върхть</l>
+
+      <stg>
+        <st Contlex="DESCR_">върхть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">върьшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">върьшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">въшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">въшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">вягак</l>
+
+      <stg>
+        <st Contlex="DESCR_">вягак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">вяк</l>
+
+      <stg>
+        <st Contlex="DESCR_">вяк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">вятерь-вятерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">вятерь-вятерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гага-гага</l>
+
+      <stg>
+        <st Contlex="DESCR_">гага-гага</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гай-гай</l>
+
+      <stg>
+        <st Contlex="DESCR_">гай-гай</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гальдерь-гальдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">гальдерь-гальдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">голт-голт</l>
+
+      <stg>
+        <st Contlex="DESCR_">голт-голт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">грох</l>
+
+      <stg>
+        <st Contlex="DESCR_">грох</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гулдор-галдор</l>
+
+      <stg>
+        <st Contlex="DESCR_">гулдор-галдор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гурь</l>
+
+      <stg>
+        <st Contlex="DESCR_">гурь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гъз</l>
+
+      <stg>
+        <st Contlex="DESCR_">гъз</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">гълдор-галдор</l>
+
+      <stg>
+        <st Contlex="DESCR_">гълдор-галдор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дзиньк</l>
+
+      <stg>
+        <st Contlex="DESCR_">дзиньк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">динголь-динголь</l>
+
+      <stg>
+        <st Contlex="DESCR_">динголь-динголь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">динь</l>
+
+      <stg>
+        <st Contlex="DESCR_">динь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">динь-динь</l>
+
+      <stg>
+        <st Contlex="DESCR_">динь-динь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">диньголь-диньголь</l>
+
+      <stg>
+        <st Contlex="DESCR_">диньголь-диньголь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дой</l>
+
+      <stg>
+        <st Contlex="DESCR_">дой</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дон</l>
+
+      <stg>
+        <st Contlex="DESCR_">дон</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дринь</l>
+
+      <stg>
+        <st Contlex="DESCR_">дринь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дриньк-дриньк</l>
+
+      <stg>
+        <st Contlex="DESCR_">дриньк-дриньк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">дубор-дубор</l>
+
+      <stg>
+        <st Contlex="DESCR_">дубор-дубор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">жик</l>
+
+      <stg>
+        <st Contlex="DESCR_">жик</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">жой</l>
+
+      <stg>
+        <st Contlex="DESCR_">жой</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">жоль-жоль</l>
+
+      <stg>
+        <st Contlex="DESCR_">жоль-жоль</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">жольдерь-жольдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">жольдерь-жольдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">жольдерь-кальдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">жольдерь-кальдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">зярь</l>
+
+      <stg>
+        <st Contlex="DESCR_">зярь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">иго-го</l>
+
+      <stg>
+        <st Contlex="DESCR_">иго-го</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">калдор-калдор</l>
+
+      <stg>
+        <st Contlex="DESCR_">калдор-калдор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">калт</l>
+
+      <stg>
+        <st Contlex="DESCR_">калт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кальдерь-кальдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">кальдерь-кальдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кальхцк-кальхцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">кальхцк-кальхцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">канзер-канзер</l>
+
+      <stg>
+        <st Contlex="DESCR_">канзер-канзер</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">канзерхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">канзерхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кап</l>
+
+      <stg>
+        <st Contlex="DESCR_">кап</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">каф-куф</l>
+
+      <stg>
+        <st Contlex="DESCR_">каф-куф</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кацер-кацер</l>
+
+      <stg>
+        <st Contlex="DESCR_">кацер-кацер</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кецор-кецор</l>
+
+      <stg>
+        <st Contlex="DESCR_">кецор-кецор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кифтол</l>
+
+      <stg>
+        <st Contlex="DESCR_">кифтол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кончт-кончт</l>
+
+      <stg>
+        <st Contlex="DESCR_">кончт-кончт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">копст-копст</l>
+
+      <stg>
+        <st Contlex="DESCR_">копст-копст</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">корхчк-корхчк</l>
+
+      <stg>
+        <st Contlex="DESCR_">корхчк-корхчк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">корь-корь</l>
+
+      <stg>
+        <st Contlex="DESCR_">корь-корь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">корьфь</l>
+
+      <stg>
+        <st Contlex="DESCR_">корьфь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">коцор-коцор</l>
+
+      <stg>
+        <st Contlex="DESCR_">коцор-коцор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кринть-кринть</l>
+
+      <stg>
+        <st Contlex="DESCR_">кринть-кринть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">куйшть-куйшть</l>
+
+      <stg>
+        <st Contlex="DESCR_">куйшть-куйшть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кулдор-калдор</l>
+
+      <stg>
+        <st Contlex="DESCR_">кулдор-калдор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кълтык-кълтык</l>
+
+      <stg>
+        <st Contlex="DESCR_">кълтык-кълтык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">къркшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">къркшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кърхмык</l>
+
+      <stg>
+        <st Contlex="DESCR_">кърхмык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кътор-кътор</l>
+
+      <stg>
+        <st Contlex="DESCR_">кътор-кътор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">къшмик</l>
+
+      <stg>
+        <st Contlex="DESCR_">къшмик</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кылдырку</l>
+
+      <stg>
+        <st Contlex="DESCR_">кылдырку</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кяр-кяр</l>
+
+      <stg>
+        <st Contlex="DESCR_">кяр-кяр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">кярь-кярь</l>
+
+      <stg>
+        <st Contlex="DESCR_">кярь-кярь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лабор-лабор</l>
+
+      <stg>
+        <st Contlex="DESCR_">лабор-лабор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лагор-лагор</l>
+
+      <stg>
+        <st Contlex="DESCR_">лагор-лагор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лакшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">лакшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лакштор</l>
+
+      <stg>
+        <st Contlex="DESCR_">лакштор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лакштор-лакштор</l>
+
+      <stg>
+        <st Contlex="DESCR_">лакштор-лакштор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лап</l>
+
+      <stg>
+        <st Contlex="DESCR_">лап</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лап-лап</l>
+
+      <stg>
+        <st Contlex="DESCR_">лап-лап</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лапик</l>
+
+      <stg>
+        <st Contlex="DESCR_">лапик</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ларк</l>
+
+      <stg>
+        <st Contlex="DESCR_">ларк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ларк-ларк</l>
+
+      <stg>
+        <st Contlex="DESCR_">ларк-ларк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лаш</l>
+
+      <stg>
+        <st Contlex="DESCR_">лаш</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">леборь-леборь</l>
+
+      <stg>
+        <st Contlex="DESCR_">леборь-леборь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">либорь-либорь</l>
+
+      <stg>
+        <st Contlex="DESCR_">либорь-либорь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ликом-лаком</l>
+
+      <stg>
+        <st Contlex="DESCR_">ликом-лаком</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">липшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">липшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лозк</l>
+
+      <stg>
+        <st Contlex="DESCR_">лозк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лозь</l>
+
+      <stg>
+        <st Contlex="DESCR_">лозь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лонть</l>
+
+      <stg>
+        <st Contlex="DESCR_">лонть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лонть-лонть</l>
+
+      <stg>
+        <st Contlex="DESCR_">лонть-лонть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лоп</l>
+
+      <stg>
+        <st Contlex="DESCR_">лоп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лоп-лоп</l>
+
+      <stg>
+        <st Contlex="DESCR_">лоп-лоп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лоськ-лоськ</l>
+
+      <stg>
+        <st Contlex="DESCR_">лоськ-лоськ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лоткшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">лоткшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лужк</l>
+
+      <stg>
+        <st Contlex="DESCR_">лужк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лужк-лужк</l>
+
+      <stg>
+        <st Contlex="DESCR_">лужк-лужк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">луп-луп</l>
+
+      <stg>
+        <st Contlex="DESCR_">луп-луп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лъкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">лъкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лъкшт-лъкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">лъкшт-лъкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лъкштор</l>
+
+      <stg>
+        <st Contlex="DESCR_">лъкштор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">лыпык</l>
+
+      <stg>
+        <st Contlex="DESCR_">лыпык</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">люкок</l>
+
+      <stg>
+        <st Contlex="DESCR_">люкок</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">люкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">люкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мок-мек</l>
+
+      <stg>
+        <st Contlex="DESCR_">мок-мек</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">моцор-моцор</l>
+
+      <stg>
+        <st Contlex="DESCR_">моцор-моцор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мъзолхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">мъзолхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мър-мър</l>
+
+      <stg>
+        <st Contlex="DESCR_">мър-мър</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мъчкор-мъчкор</l>
+
+      <stg>
+        <st Contlex="DESCR_">мъчкор-мъчкор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мъштерь-мъштерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">мъштерь-мъштерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">мярк</l>
+
+      <stg>
+        <st Contlex="DESCR_">мярк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">нолшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">нолшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">норхц-норхц</l>
+
+      <stg>
+        <st Contlex="DESCR_">норхц-норхц</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">норхцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">норхцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ноцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">ноцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">нулхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">нулхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">нулхт-нулхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">нулхт-нулхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">нулхтыкь</l>
+
+      <stg>
+        <st Contlex="DESCR_">нулхтыкь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пиндолк-пиндолк</l>
+
+      <stg>
+        <st Contlex="DESCR_">пиндолк-пиндолк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пиндолхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">пиндолхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">плюх</l>
+
+      <stg>
+        <st Contlex="DESCR_">плюх</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пок-пок</l>
+
+      <stg>
+        <st Contlex="DESCR_">пок-пок</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">покор-покор</l>
+
+      <stg>
+        <st Contlex="DESCR_">покор-покор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">полкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">полкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пукшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">пукшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пунть</l>
+
+      <stg>
+        <st Contlex="DESCR_">пунть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пух</l>
+
+      <stg>
+        <st Contlex="DESCR_">пух</st>
+      </stg>
+    </lg>
+
+    <phonet>pux</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пълдорк-пълдорк</l>
+
+      <stg>
+        <st Contlex="DESCR_">пълдорк-пълдорк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пълкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">пълкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пъркшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">пъркшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пъть</l>
+
+      <stg>
+        <st Contlex="DESCR_">пъть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пянкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">пянкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">пяцор-пяцор</l>
+
+      <stg>
+        <st Contlex="DESCR_">пяцор-пяцор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">раз</l>
+
+      <stg>
+        <st Contlex="DESCR_">раз</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">рас</l>
+
+      <stg>
+        <st Contlex="DESCR_">рас</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">рис-рас</l>
+
+      <stg>
+        <st Contlex="DESCR_">рис-рас</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">рёв-рёв</l>
+
+      <stg>
+        <st Contlex="DESCR_">рёв-рёв</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">талхт-талхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">талхт-талхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">теш-лаш</l>
+
+      <stg>
+        <st Contlex="DESCR_">теш-лаш</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тигел</l>
+
+      <stg>
+        <st Contlex="DESCR_">тигел</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тиньти</l>
+
+      <stg>
+        <st Contlex="DESCR_">тиньти</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тити-тити-тити</l>
+
+      <stg>
+        <st Contlex="DESCR_">тити-тити-тити</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">токшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">токшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">топ</l>
+
+      <stg>
+        <st Contlex="DESCR_">топ</st>
+      </stg>
+    </lg>
+
+    <phonet>top</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тотомы-тотомы</l>
+
+      <stg>
+        <st Contlex="DESCR_">тотомы-тотомы</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тоцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">тоцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тош</l>
+
+      <stg>
+        <st Contlex="DESCR_">тош</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тош-тош</l>
+
+      <stg>
+        <st Contlex="DESCR_">тош-тош</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">трах</l>
+
+      <stg>
+        <st Contlex="DESCR_">трах</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тук</l>
+
+      <stg>
+        <st Contlex="DESCR_">тук</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тук-тук</l>
+
+      <stg>
+        <st Contlex="DESCR_">тук-тук</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тъпор</l>
+
+      <stg>
+        <st Contlex="DESCR_">тъпор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">търхцк</l>
+
+      <stg>
+        <st Contlex="DESCR_">търхцк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тыж</l>
+
+      <stg>
+        <st Contlex="DESCR_">тыж</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тыж-выж</l>
+
+      <stg>
+        <st Contlex="DESCR_">тыж-выж</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тыж-лаж</l>
+
+      <stg>
+        <st Contlex="DESCR_">тыж-лаж</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тяп</l>
+
+      <stg>
+        <st Contlex="DESCR_">тяп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тярь-тярь</l>
+
+      <stg>
+        <st Contlex="DESCR_">тярь-тярь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тяф</l>
+
+      <stg>
+        <st Contlex="DESCR_">тяф</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">тёш</l>
+
+      <stg>
+        <st Contlex="DESCR_">тёш</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">фырк</l>
+
+      <stg>
+        <st Contlex="DESCR_">фырк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">фырк-фырк</l>
+
+      <stg>
+        <st Contlex="DESCR_">фырк-фырк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ха-ха</l>
+
+      <stg>
+        <st Contlex="DESCR_">ха-ха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ха-ха-ха</l>
+
+      <stg>
+        <st Contlex="DESCR_">ха-ха-ха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">хе-хе</l>
+
+      <stg>
+        <st Contlex="DESCR_">хе-хе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">хи-хи</l>
+
+      <stg>
+        <st Contlex="DESCR_">хи-хи</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">хи-хи-хи</l>
+
+      <stg>
+        <st Contlex="DESCR_">хи-хи-хи</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">хлоп</l>
+
+      <stg>
+        <st Contlex="DESCR_">хлоп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цап</l>
+
+      <stg>
+        <st Contlex="DESCR_">цап</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">церк-церк</l>
+
+      <stg>
+        <st Contlex="DESCR_">церк-церк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ций</l>
+
+      <stg>
+        <st Contlex="DESCR_">ций</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цинголь</l>
+
+      <stg>
+        <st Contlex="DESCR_">цинголь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цинголь-динголь</l>
+
+      <stg>
+        <st Contlex="DESCR_">цинголь-динголь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цинголь-кальдерь</l>
+
+      <stg>
+        <st Contlex="DESCR_">цинголь-кальдерь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цинголь-канзер</l>
+
+      <stg>
+        <st Contlex="DESCR_">цинголь-канзер</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цингор-канзер</l>
+
+      <stg>
+        <st Contlex="DESCR_">цингор-канзер</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цингорк</l>
+
+      <stg>
+        <st Contlex="DESCR_">цингорк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цинь-цинь</l>
+
+      <stg>
+        <st Contlex="DESCR_">цинь-цинь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">циньк-циньк</l>
+
+      <stg>
+        <st Contlex="DESCR_">циньк-циньк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цирьк</l>
+
+      <stg>
+        <st Contlex="DESCR_">цирьк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цирьк-цирьк</l>
+
+      <stg>
+        <st Contlex="DESCR_">цирьк-цирьк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цить</l>
+
+      <stg>
+        <st Contlex="DESCR_">цить</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цифтор-цифтор</l>
+
+      <stg>
+        <st Contlex="DESCR_">цифтор-цифтор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цок</l>
+
+      <stg>
+        <st Contlex="DESCR_">цок</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цоп</l>
+
+      <stg>
+        <st Contlex="DESCR_">цоп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цыва-цыпа</l>
+
+      <stg>
+        <st Contlex="DESCR_">цыва-цыпа</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цыц-цат</l>
+
+      <stg>
+        <st Contlex="DESCR_">цыц-цат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цюв-цяв</l>
+
+      <stg>
+        <st Contlex="DESCR_">цюв-цяв</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цютор-цятор</l>
+
+      <stg>
+        <st Contlex="DESCR_">цютор-цятор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цяп</l>
+
+      <stg>
+        <st Contlex="DESCR_">цяп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цяр</l>
+
+      <stg>
+        <st Contlex="DESCR_">цяр</st>
+      </stg>
+    </lg>
+
+    <phonet>ćar</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цят-цят</l>
+
+      <stg>
+        <st Contlex="DESCR_">цят-цят</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цятор</l>
+
+      <stg>
+        <st Contlex="DESCR_">цятор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цятор-цятор</l>
+
+      <stg>
+        <st Contlex="DESCR_">цятор-цятор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">цёф-цёф</l>
+
+      <stg>
+        <st Contlex="DESCR_">цёф-цёф</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чак</l>
+
+      <stg>
+        <st Contlex="DESCR_">чак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чак-чак</l>
+
+      <stg>
+        <st Contlex="DESCR_">чак-чак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чак-чак-чак</l>
+
+      <stg>
+        <st Contlex="DESCR_">чак-чак-чак</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чакор</l>
+
+      <stg>
+        <st Contlex="DESCR_">чакор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чатор</l>
+
+      <stg>
+        <st Contlex="DESCR_">чатор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чивор</l>
+
+      <stg>
+        <st Contlex="DESCR_">чивор</st>
+      </stg>
+    </lg>
+
+    <phonet>čivər</phonet>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="fin">
+        <t pos="Descr">kurina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чижелхт-выжелхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">чижелхт-выжелхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чикор</l>
+
+      <stg>
+        <st Contlex="DESCR_">чикор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чип-чип</l>
+
+      <stg>
+        <st Contlex="DESCR_">чип-чип</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чир</l>
+
+      <stg>
+        <st Contlex="DESCR_">чир</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чир-чер</l>
+
+      <stg>
+        <st Contlex="DESCR_">чир-чер</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чирк</l>
+
+      <stg>
+        <st Contlex="DESCR_">чирк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чирк-чирк</l>
+
+      <stg>
+        <st Contlex="DESCR_">чирк-чирк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">читор-лагор</l>
+
+      <stg>
+        <st Contlex="DESCR_">читор-лагор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">читор-чатор</l>
+
+      <stg>
+        <st Contlex="DESCR_">читор-чатор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чоп</l>
+
+      <stg>
+        <st Contlex="DESCR_">чоп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чупик</l>
+
+      <stg>
+        <st Contlex="DESCR_">чупик</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чъкор-чъкор</l>
+
+      <stg>
+        <st Contlex="DESCR_">чъкор-чъкор</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чъкр</l>
+
+      <stg>
+        <st Contlex="DESCR_">чъкр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чыжк-выжк</l>
+
+      <stg>
+        <st Contlex="DESCR_">чыжк-выжк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чёкшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">чёкшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чёмбол</l>
+
+      <stg>
+        <st Contlex="DESCR_">чёмбол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чёф</l>
+
+      <stg>
+        <st Contlex="DESCR_">чёф</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чёш</l>
+
+      <stg>
+        <st Contlex="DESCR_">чёш</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">чёш-чёш</l>
+
+      <stg>
+        <st Contlex="DESCR_">чёш-чёш</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">шелль</l>
+
+      <stg>
+        <st Contlex="DESCR_">шелль</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">шель</l>
+
+      <stg>
+        <st Contlex="DESCR_">шель</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">шлёлёлёть</l>
+
+      <stg>
+        <st Contlex="DESCR_">шлёлёлёть</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">шлёп</l>
+
+      <stg>
+        <st Contlex="DESCR_">шлёп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">щуп-щуп</l>
+
+      <stg>
+        <st Contlex="DESCR_">щуп-щуп</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">щёлк</l>
+
+      <stg>
+        <st Contlex="DESCR_">щёлк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">юлхт-юлхт</l>
+
+      <stg>
+        <st Contlex="DESCR_">юлхт-юлхт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">юркшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">юркшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">юфчий-яфчай</l>
+
+      <stg>
+        <st Contlex="DESCR_">юфчий-яфчай</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">юшт</l>
+
+      <stg>
+        <st Contlex="DESCR_">юшт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ёзмол-ёзмол</l>
+
+      <stg>
+        <st Contlex="DESCR_">ёзмол-ёзмол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ёкол-ёкол</l>
+
+      <stg>
+        <st Contlex="DESCR_">ёкол-ёкол</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ёлк-ёлк</l>
+
+      <stg>
+        <st Contlex="DESCR_">ёлк-ёлк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Descr">ёмболк</l>
+
+      <stg>
+        <st Contlex="DESCR_">ёмболк</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t/>
+      </tg>
+    </mg>
+  </e>
 </r>
