@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Po">аймак</l>
@@ -14,9 +14,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -32,9 +32,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po">alla</t>
       </tg>
     </mg>
@@ -45,11 +45,9 @@
       <l pos="Po">алда</l>
 
       <stg>
-        <st Contlex="PostpTag">алда</st>
+        <st Contlex="POSTP-SPAT_">алда</st>
       </stg>
     </lg>
-
-    <pos>POSTP-SPAT</pos>
 
     <phonet>alda</phonet>
 
@@ -58,8 +56,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>alta, alhaalta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">alta</t>
+
+        <t pos="Adv">alhaalta</t>
       </tg>
 
       <xg>
@@ -67,7 +67,7 @@
 
         <phonet>alda väŕi</phonet>
 
-        <xt lang="fin">alhaalta ylös.</xt>
+        <xt xml:lang="fin">alhaalta ylös</xt>
       </xg>
 
       <xg>
@@ -75,7 +75,7 @@
 
         <phonet>paŕńäś kujar alda</phonet>
 
-        <xt lang="fin">suolakurkkupytty.</xt>
+        <xt xml:lang="fin">suolakurkkupytty</xt>
       </xg>
 
       <xg>
@@ -83,7 +83,7 @@
 
         <phonet>kundaźə keńəŕbakaŕ alda</phonet>
 
-        <xt lang="fin">tarttui kyynärpäähän.</xt>
+        <xt xml:lang="fin">tarttui kyynärpäähän</xt>
       </xg>
     </mg>
   </e>
@@ -98,9 +98,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -122,9 +122,9 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>1. erillinen, erikseen, erillään. 2. jonkin lisäksi,
-        ylimääräisesti.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">1. erillinen, erikseen, erillään. 2. jonkin lisäksi,
+        ylimääräisesti</t>
       </tg>
     </mg>
   </e>
@@ -145,8 +145,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>ohi, sivuitse.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">ohi</t>
+
+        <t pos="Po">sivuitse</t>
       </tg>
     </mg>
   </e>
@@ -167,8 +169,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sivuun, syrjään.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sivuun</t>
+
+        <t pos="Po">syrjään</t>
       </tg>
     </mg>
   </e>
@@ -189,8 +193,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sivulla, sivussa, syrjässä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sivulla</t>
+
+        <t pos="Po">sivussa</t>
+
+        <t pos="Po">syrjässä</t>
       </tg>
     </mg>
   </e>
@@ -211,8 +219,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sivulta, sivusta, syrjästä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sivulta</t>
+
+        <t pos="Po">sivusta</t>
+
+        <t pos="Po">syrjästä</t>
       </tg>
     </mg>
   </e>
@@ -227,9 +239,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -251,8 +263,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>ohi(tse), vieritse.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">ohi(tse)</t>
+
+        <t pos="Po">vieritse</t>
       </tg>
     </mg>
   </e>
@@ -273,8 +287,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>viereen.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">viereen</t>
       </tg>
 
       <xg>
@@ -282,7 +296,7 @@
 
         <phonet>moľəms šrať vakss</phonet>
 
-        <xt lang="fin">mennä pöydän ääreen.</xt>
+        <xt xml:lang="fin">mennä pöydän ääreen</xt>
       </xg>
 
       <xg>
@@ -290,7 +304,7 @@
 
         <phonet>ozams šrať vakss</phonet>
 
-        <xt lang="fin">istua pöytään.</xt>
+        <xt xml:lang="fin">istua pöytään</xt>
       </xg>
 
       <xg>
@@ -298,7 +312,7 @@
 
         <phonet>vaksəzəst</phonet>
 
-        <xt lang="fin">heidän viereensä, heidän luokseen.</xt>
+        <xt xml:lang="fin">heidän viereensä, heidän luokseen</xt>
       </xg>
 
       <xg>
@@ -306,7 +320,7 @@
 
         <phonet>vakssənʒa</phonet>
 
-        <xt lang="fin">vieressään, vierellään.</xt>
+        <xt xml:lang="fin">vieressään, vierellään</xt>
       </xg>
 
       <xg>
@@ -314,7 +328,7 @@
 
         <phonet>vaksstəŋk</phonet>
 
-        <xt lang="fin">vierestämme, viereltämme, luotamme.</xt>
+        <xt xml:lang="fin">vierestämme, viereltämme, luotamme</xt>
       </xg>
     </mg>
   </e>
@@ -335,8 +349,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>vieressä, ohessa, luona.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">vieressä</t>
+
+        <t pos="Po">ohessa</t>
+
+        <t pos="Po">luona</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -361,8 +379,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>(sen) sijaan, sijasta, asemesta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">(sen) sijaan</t>
+
+        <t pos="Po">sijasta</t>
+
+        <t pos="Po">asemesta</t>
       </tg>
 
       <xg>
@@ -370,7 +392,7 @@
 
         <phonet>počf vasc ramaś jamkst</phonet>
 
-        <xt lang="fin">jauhojen sijasta hän osti hirssisuurimoita.</xt>
+        <xt xml:lang="fin">jauhojen sijasta hän osti hirssisuurimoita</xt>
       </xg>
     </mg>
   </e>
@@ -391,8 +413,14 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>mukaan, pohjalta, avulla, ansiosta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">mukaan</t>
+
+        <t pos="Po">pohjalta</t>
+
+        <t pos="Po">avulla</t>
+
+        <t pos="Po">ansiosta</t>
       </tg>
 
       <xg>
@@ -400,7 +428,7 @@
 
         <phonet>bajďək veľďə jakams</phonet>
 
-        <xt lang="fin">kulkea kepin kanssa.</xt>
+        <xt xml:lang="fin">kulkea kepin kanssa</xt>
       </xg>
 
       <xg>
@@ -408,7 +436,7 @@
 
         <phonet>kiń veľďə vežəńďat</phonet>
 
-        <xt lang="fin">kenen välityksellä ilmoitat?</xt>
+        <xt xml:lang="fin">kenen välityksellä ilmoitat?</xt>
       </xg>
 
       <xg>
@@ -416,7 +444,7 @@
 
         <phonet>mašinaťńəń veľďə ťožďalgəftəvi ťevś</phonet>
 
-        <xt lang="fin">koneiden ansiosta työ helpottuu.</xt>
+        <xt xml:lang="fin">koneiden ansiosta työ helpottuu</xt>
       </xg>
 
       <xg>
@@ -424,7 +452,7 @@
 
         <phonet>veľďəst</phonet>
 
-        <xt lang="fin">heidän mukaansa.</xt>
+        <xt xml:lang="fin">heidän mukaansa</xt>
       </xg>
     </mg>
   </e>
@@ -439,9 +467,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -457,9 +485,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -481,8 +509,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>yli, läpi.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">yli</t>
+
+        <t pos="Po">läpi</t>
       </tg>
 
       <xg>
@@ -490,7 +520,7 @@
 
         <phonet>piźəmdućäś viŕť veľfkä jotaś</phonet>
 
-        <xt lang="fin">sadepilvi kulki metsän yli.</xt>
+        <xt xml:lang="fin">sadepilvi kulki metsän yli</xt>
       </xg>
     </mg>
   </e>
@@ -505,9 +535,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -529,8 +559,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>ylitse.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">ylitse</t>
       </tg>
 
       <xg>
@@ -538,7 +568,7 @@
 
         <phonet>veľəť veľxkska ľijśť karkt</phonet>
 
-        <xt lang="fin">kylän ylitse lensi kurkia.</xt>
+        <xt xml:lang="fin">kylän ylitse lensi kurkia</xt>
       </xg>
     </mg>
   </e>
@@ -559,8 +589,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>ylle, yläpuolelle.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">ylle</t>
+
+        <t pos="Po">yläpuolelle</t>
       </tg>
 
       <xg>
@@ -568,7 +600,7 @@
 
         <phonet>povftams lampať š(ə)rať veľxkss</phonet>
 
-        <xt lang="fin">ripustaa lamppu pöydän yläpuolelle.</xt>
+        <xt xml:lang="fin">ripustaa lamppu pöydän yläpuolelle</xt>
       </xg>
     </mg>
   </e>
@@ -589,8 +621,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>pitkin, myöten.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">pitkin</t>
+
+        <t pos="Po">myöten</t>
       </tg>
 
       <xg>
@@ -598,7 +632,7 @@
 
         <phonet>piľə viďəva dolk-šumə potməsa</phonet>
 
-        <xt lang="fin">korvia myöten veloissa.</xt>
+        <xt xml:lang="fin">korvia myöten veloissa</xt>
       </xg>
 
       <xg>
@@ -606,7 +640,7 @@
 
         <phonet>ərdazś pəlmanǯa viďəva</phonet>
 
-        <xt lang="fin">kuraa on polvia myöten.</xt>
+        <xt xml:lang="fin">kuraa on polvia myöten</xt>
       </xg>
 
       <xg>
@@ -614,7 +648,7 @@
 
         <phonet>śaldaz viďəva</phonet>
 
-        <xt lang="fin">kaulaa myöten.</xt>
+        <xt xml:lang="fin">kaulaa myöten</xt>
       </xg>
     </mg>
   </e>
@@ -635,8 +669,18 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>luo, luokse; vasten, päin; asti, myöten.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">luo</t>
+
+        <t pos="Po">luokse</t>
+
+        <t pos="Po">vasten</t>
+
+        <t pos="Po">päin</t>
+
+        <t pos="Po">asti</t>
+
+        <t pos="Po">myöten</t>
       </tg>
 
       <xg>
@@ -644,7 +688,7 @@
 
         <phonet>keržista viďəs</phonet>
 
-        <xt lang="fin">vasemmalta oikealle.</xt>
+        <xt xml:lang="fin">vasemmalta oikealle</xt>
       </xg>
 
       <xg>
@@ -652,7 +696,7 @@
 
         <phonet>kərga viďəs</phonet>
 
-        <xt lang="fin">kurkkuun asti, kurkkua myöten.</xt>
+        <xt xml:lang="fin">kurkkuun asti, kurkkua myöten</xt>
       </xg>
 
       <xg>
@@ -660,7 +704,7 @@
 
         <phonet>ťevś śävəms eś käď viďəs</phonet>
 
-        <xt lang="fin">asia on otettava omiin käsiin.</xt>
+        <xt xml:lang="fin">asia on otettava omiin käsiin</xt>
       </xg>
 
       <xg>
@@ -668,7 +712,7 @@
 
         <phonet>ťišəś pəlmańǯa viďəs kasi</phonet>
 
-        <xt lang="fin">heinä on polvenkorkuista.</xt>
+        <xt xml:lang="fin">heinä on polvenkorkuista</xt>
       </xg>
 
       <xg>
@@ -676,7 +720,7 @@
 
         <phonet>moľəms kutť viďəs</phonet>
 
-        <xt lang="fin">mennä talon luo.</xt>
+        <xt xml:lang="fin">mennä talon luo</xt>
       </xg>
 
       <xg>
@@ -684,7 +728,7 @@
 
         <phonet>pačkəďəms kutť viďəs</phonet>
 
-        <xt lang="fin">päästä talolle asti.</xt>
+        <xt xml:lang="fin">päästä talolle asti</xt>
       </xg>
 
       <xg>
@@ -692,7 +736,7 @@
 
         <phonet>ozams kutť viďəs</phonet>
 
-        <xt lang="fin">istua talon seinustalle.</xt>
+        <xt xml:lang="fin">istua talon seinustalle</xt>
       </xg>
     </mg>
   </e>
@@ -713,8 +757,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>luona, vieressä, vierellä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">luona</t>
+
+        <t pos="Po">vieressä</t>
+
+        <t pos="Po">vierellä</t>
       </tg>
 
       <xg>
@@ -722,7 +770,7 @@
 
         <phonet>ťäďä viďəsa</phonet>
 
-        <xt lang="fin">äidin luona.</xt>
+        <xt xml:lang="fin">äidin luona</xt>
       </xg>
 
       <xg>
@@ -730,7 +778,7 @@
 
         <phonet>vajməśəśť viŕńäť viďəsa</phonet>
 
-        <xt lang="fin">lepäsivät metsänreunassa.</xt>
+        <xt xml:lang="fin">lepäsivät metsänreunassa</xt>
       </xg>
     </mg>
   </e>
@@ -751,8 +799,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>pitkin, myöten.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">pitkin</t>
+
+        <t pos="Po">myöten</t>
       </tg>
     </mg>
   </e>
@@ -767,9 +817,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -785,9 +835,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -803,9 +853,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -821,9 +871,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -839,9 +889,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -863,8 +913,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>takia, vuoksi.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">takia</t>
+
+        <t pos="Po">vuoksi</t>
       </tg>
 
       <xg>
@@ -872,7 +924,7 @@
 
         <phonet>son tuś kńigať iŋksa</phonet>
 
-        <xt lang="fin">hän lähti hakemaan kirjaa.</xt>
+        <xt xml:lang="fin">hän lähti hakemaan kirjaa</xt>
       </xg>
     </mg>
   </e>
@@ -887,9 +939,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -905,9 +957,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -923,9 +975,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -941,9 +993,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -965,8 +1017,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kaltainen, -lainen, -mainen.</t>
+      <tg xml:lang="fin">
+        <t pos="A">kaltainen</t>
+
+        <t pos="A">-lainen</t>
+
+        <t pos="A">-mainen</t>
       </tg>
 
       <xg>
@@ -974,7 +1030,7 @@
 
         <phonet>ćoraś aľanc koďama</phonet>
 
-        <xt lang="fin">poika on isänsä kaltainen.</xt>
+        <xt xml:lang="fin">poika on isänsä kaltainen</xt>
       </xg>
 
       <xg>
@@ -982,7 +1038,7 @@
 
         <phonet>moń koďamən/końďaməźä</phonet>
 
-        <xt lang="fin">minunlaiseni, minun kaltaiseni.</xt>
+        <xt xml:lang="fin">minunlaiseni, minun kaltaiseni</xt>
       </xg>
     </mg>
   </e>
@@ -1003,8 +1059,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>-sta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">-sta</t>
       </tg>
 
       <xg>
@@ -1012,7 +1068,7 @@
 
         <phonet>son śormać ľiťəraturať kolga</phonet>
 
-        <xt lang="fin">hän kirjoitti kirjallisuudesta.</xt>
+        <xt xml:lang="fin">hän kirjoitti kirjallisuudesta</xt>
       </xg>
     </mg>
   </e>
@@ -1027,9 +1083,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1051,8 +1107,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>mukaan; johonkin nähden/verrattuna.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">mukaan; johonkin nähden/verrattuna</t>
       </tg>
     </mg>
   </e>
@@ -1073,8 +1129,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>mukaan; johonkin nähden/verrattuna.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">mukaan; johonkin nähden/verrattuna</t>
       </tg>
 
       <xg>
@@ -1082,7 +1138,7 @@
 
         <phonet>pojəzć saś raspisańijäť koŕas</phonet>
 
-        <xt lang="fin">juna saapui aikataulun mukaan.</xt>
+        <xt xml:lang="fin">juna saapui aikataulun mukaan</xt>
       </xg>
 
       <xg>
@@ -1090,7 +1146,7 @@
 
         <phonet>uražajś ťadďə jotaj kizəť koŕas śadə ćebäŕ</phonet>
 
-        <xt lang="fin">tämänvuotinen sato on viimevuotista parempi.</xt>
+        <xt xml:lang="fin">tämänvuotinen sato on viimevuotista parempi</xt>
       </xg>
     </mg>
   </e>
@@ -1105,9 +1161,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1123,9 +1179,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1141,9 +1197,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1159,9 +1215,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1183,8 +1239,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>pitkin, pitkittäin, pituussuuntaan.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">pitkin</t>
+
+        <t pos="Po">pitkittäin</t>
+
+        <t pos="Po">pituussuuntaan</t>
       </tg>
     </mg>
   </e>
@@ -1199,9 +1259,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1217,9 +1277,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1235,9 +1295,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1253,9 +1313,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1271,9 +1331,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1289,9 +1349,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1307,9 +1367,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1325,9 +1385,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1349,8 +1409,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>päälle, -lle.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">päälle</t>
+
+        <t pos="Po">-lle</t>
       </tg>
 
       <xg>
@@ -1358,7 +1420,7 @@
 
         <phonet>pänakud laŋks</phonet>
 
-        <xt lang="fin">uunin päälle.</xt>
+        <xt xml:lang="fin">uunin päälle</xt>
       </xg>
 
       <xg>
@@ -1366,7 +1428,7 @@
 
         <phonet>śakəń laŋks</phonet>
 
-        <xt lang="fin">samalla, saman tien.</xt>
+        <xt xml:lang="fin">samalla, saman tien</xt>
       </xg>
 
       <xg>
@@ -1374,7 +1436,7 @@
 
         <phonet>laŋks-piľks ščams</phonet>
 
-        <xt lang="fin">pukeutua ja panna kengät jalkaan.</xt>
+        <xt xml:lang="fin">pukeutua ja panna kengät jalkaan</xt>
       </xg>
 
       <xg>
@@ -1382,7 +1444,7 @@
 
         <phonet>laŋgəzənʒə toŋgəms</phonet>
 
-        <xt lang="fin">pukea ylleen.</xt>
+        <xt xml:lang="fin">pukea ylleen</xt>
       </xg>
     </mg>
   </e>
@@ -1403,8 +1465,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>päällä, -lla.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">päällä</t>
+
+        <t pos="Po">-lla</t>
       </tg>
 
       <xg>
@@ -1412,7 +1476,7 @@
 
         <phonet>ki laŋksa</phonet>
 
-        <xt lang="fin">matkalla, tiellä.</xt>
+        <xt xml:lang="fin">matkalla, tiellä</xt>
       </xg>
 
       <xg>
@@ -1420,7 +1484,7 @@
 
         <phonet>aš laŋksəst aš piľksəst</phonet>
 
-        <xt lang="fin">heillä ei ole vaatetta.</xt>
+        <xt xml:lang="fin">heillä ei ole vaatetta</xt>
       </xg>
     </mg>
   </e>
@@ -1441,8 +1505,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>päältä, pinnalta, -lta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">päältä</t>
+
+        <t pos="Po">pinnalta</t>
+
+        <t pos="Po">-lta</t>
       </tg>
 
       <xg>
@@ -1450,7 +1518,7 @@
 
         <phonet>pänakud laŋksta</phonet>
 
-        <xt lang="fin">uunilta.</xt>
+        <xt xml:lang="fin">uunilta</xt>
       </xg>
     </mg>
   </e>
@@ -1465,9 +1533,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1489,8 +1557,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kuten, niin kuin, tapaan.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">kuten</t>
+
+        <t pos="Po">niin kuin</t>
+
+        <t pos="Po">tapaan</t>
       </tg>
 
       <xg>
@@ -1498,7 +1570,7 @@
 
         <phonet>śakə laca</phonet>
 
-        <xt lang="fin">samoin, samalla tavalla.</xt>
+        <xt xml:lang="fin">samoin, samalla tavalla</xt>
       </xg>
 
       <xg>
@@ -1506,7 +1578,7 @@
 
         <phonet>vańäť lacə son af moravi</phonet>
 
-        <xt lang="fin">hän ei osaa laulaa niin kuin Vanja.</xt>
+        <xt xml:lang="fin">hän ei osaa laulaa niin kuin Vanja</xt>
       </xg>
 
       <xg>
@@ -1514,7 +1586,7 @@
 
         <phonet>son tuś aľanc laca</phonet>
 
-        <xt lang="fin">hän muistutti isäänsä.</xt>
+        <xt xml:lang="fin">hän muistutti isäänsä</xt>
       </xg>
 
       <xg>
@@ -1522,7 +1594,7 @@
 
         <phonet>aťäń-aťasnən jońcə-laca</phonet>
 
-        <xt lang="fin">vanhaan tapaan, isien tapaan.</xt>
+        <xt xml:lang="fin">vanhaan tapaan, isien tapaan</xt>
       </xg>
     </mg>
   </e>
@@ -1537,9 +1609,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1555,9 +1627,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1573,9 +1645,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1591,9 +1663,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1609,9 +1681,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1627,9 +1699,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1645,9 +1717,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1663,9 +1735,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1681,9 +1753,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1699,9 +1771,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1717,9 +1789,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -1741,8 +1813,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>kanssa, mukana.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">kanssa</t>
+
+        <t pos="Po">mukana</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1754,7 +1828,7 @@
 
         <phonet>aľäźəń marxta</phonet>
 
-        <xt lang="fin">isäni kanssa.</xt>
+        <xt xml:lang="fin">isäni kanssa</xt>
       </xg>
 
       <xg>
@@ -1762,7 +1836,7 @@
 
         <phonet>marxtən</phonet>
 
-        <xt lang="fin">kanssani.</xt>
+        <xt xml:lang="fin">kanssani</xt>
       </xg>
 
       <xg>
@@ -1770,7 +1844,7 @@
 
         <phonet>mon davoľnajan eś eŕafəźəń marxta</phonet>
 
-        <xt lang="fin">olen tyytyväinen elämääni.</xt>
+        <xt xml:lang="fin">olen tyytyväinen elämääni</xt>
       </xg>
     </mg>
   </e>
@@ -1791,8 +1865,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sitten, (sen) jälkeen, myöhemmin.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sitten</t>
+
+        <t pos="Po">(sen) jälkeen</t>
+
+        <t pos="Po">myöhemmin</t>
       </tg>
 
       <xg>
@@ -1800,7 +1878,7 @@
 
         <phonet>piźəmdə meľ(ä) uľś ľämbä</phonet>
 
-        <xt lang="fin">sateen jälkeen tuli lämmin.</xt>
+        <xt xml:lang="fin">sateen jälkeen tuli lämmin</xt>
       </xg>
 
       <xg>
@@ -1808,7 +1886,7 @@
 
         <phonet>śadə meľä</phonet>
 
-        <xt lang="fin">myöhemmin, sitten.</xt>
+        <xt xml:lang="fin">myöhemmin, sitten</xt>
       </xg>
     </mg>
   </e>
@@ -1829,8 +1907,14 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>perässä, jäljessä; jälkeen, sitten.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">perässä</t>
+
+        <t pos="Po">jäljessä</t>
+
+        <t pos="Po">jälkeen</t>
+
+        <t pos="Po">sitten</t>
       </tg>
 
       <xg>
@@ -1838,7 +1922,7 @@
 
         <phonet>alašať meľgä arć vašəńä</phonet>
 
-        <xt lang="fin">hevosen perässä juoksi varsa.</xt>
+        <xt xml:lang="fin">hevosen perässä juoksi varsa</xt>
       </xg>
 
       <xg>
@@ -1846,7 +1930,7 @@
 
         <phonet>iď meľgä jakams</phonet>
 
-        <xt lang="fin">kasvattaa lapsia.</xt>
+        <xt xml:lang="fin">kasvattaa lapsia</xt>
       </xg>
 
       <xg>
@@ -1854,7 +1938,7 @@
 
         <phonet>śäń meľgä</phonet>
 
-        <xt lang="fin">sen jälkeen, sitten.</xt>
+        <xt xml:lang="fin">sen jälkeen, sitten</xt>
       </xg>
 
       <xg>
@@ -1862,7 +1946,7 @@
 
         <phonet>meľgan</phonet>
 
-        <xt lang="fin">jälkeeni.</xt>
+        <xt xml:lang="fin">jälkeeni</xt>
       </xg>
 
       <xg>
@@ -1870,7 +1954,7 @@
 
         <phonet>miń meľgaŋk/meľganək</phonet>
 
-        <xt lang="fin">meidän jälkeemme.</xt>
+        <xt xml:lang="fin">meidän jälkeemme</xt>
       </xg>
     </mg>
   </e>
@@ -1891,8 +1975,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>1. puoliksi, kahtia. 2. läpi, lävitse; puhki.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">1. puoliksi, kahtia. 2. läpi, lävitse; puhki</t>
       </tg>
 
       <xg>
@@ -1900,7 +1984,7 @@
 
         <phonet>kerk maŕť pačk</phonet>
 
-        <xt lang="fin">leikkaa omena puoliksi.</xt>
+        <xt xml:lang="fin">leikkaa omena puoliksi</xt>
       </xg>
 
       <xg>
@@ -1908,7 +1992,7 @@
 
         <phonet>modať pačk tums</phonet>
 
-        <xt lang="fin">kadota, hävitä.</xt>
+        <xt xml:lang="fin">kadota, hävitä</xt>
       </xg>
 
       <xg>
@@ -1916,7 +2000,7 @@
 
         <phonet>mon pačk ńäjxťä</phonet>
 
-        <xt lang="fin">näen lävitsesi.</xt>
+        <xt xml:lang="fin">näen lävitsesi</xt>
       </xg>
 
       <xg>
@@ -1924,7 +2008,7 @@
 
         <phonet>sursnən pačk rabotaxť</phonet>
 
-        <xt lang="fin">työskentelevät huolimattomasti.</xt>
+        <xt xml:lang="fin">työskentelevät huolimattomasti</xt>
       </xg>
 
       <xg>
@@ -1932,7 +2016,7 @@
 
         <phonet>saraśńə jotaśť peŕafť pačk</phonet>
 
-        <xt lang="fin">kanat kulkivat aidan läpi.</xt>
+        <xt xml:lang="fin">kanat kulkivat aidan läpi</xt>
       </xg>
     </mg>
   </e>
@@ -1953,8 +2037,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>läpi, kautta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">läpi</t>
+
+        <t pos="Po">kautta</t>
       </tg>
     </mg>
   </e>
@@ -1975,8 +2061,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>loppu, pää.</t>
+      <tg xml:lang="fin">
+        <t pos="N">loppu</t>
+
+        <t pos="N">pää</t>
       </tg>
 
       <xg>
@@ -1984,7 +2072,7 @@
 
         <phonet>peń saj urma</phonet>
 
-        <xt lang="fin">tappava tauti.</xt>
+        <xt xml:lang="fin">tappava tauti</xt>
       </xg>
 
       <xg>
@@ -1992,7 +2080,7 @@
 
         <phonet>peń-pestəń</phonet>
 
-        <xt lang="fin">lopullinen.</xt>
+        <xt xml:lang="fin">lopullinen</xt>
       </xg>
 
       <xg>
@@ -2000,7 +2088,7 @@
 
         <phonet>pec vajäś vec</phonet>
 
-        <xt lang="fin">sen pituinen se.</xt>
+        <xt xml:lang="fin">sen pituinen se</xt>
       </xg>
 
       <xg>
@@ -2008,7 +2096,7 @@
 
         <phonet>mašftəms pećəń</phonet>
 
-        <xt lang="fin">tappaa sinut.</xt>
+        <xt xml:lang="fin">tappaa sinut</xt>
       </xg>
 
       <xg>
@@ -2016,7 +2104,7 @@
 
         <phonet>pedə-pes</phonet>
 
-        <xt lang="fin">kokonaan, päästä päähän.</xt>
+        <xt xml:lang="fin">kokonaan, päästä päähän</xt>
       </xg>
 
       <xg>
@@ -2024,7 +2112,7 @@
 
         <phonet>pestə-pes</phonet>
 
-        <xt lang="fin">päästä päähän.</xt>
+        <xt xml:lang="fin">päästä päähän</xt>
       </xg>
 
       <xg>
@@ -2032,7 +2120,7 @@
 
         <phonet>estəń pesta</phonet>
 
-        <xt lang="fin">siitä lähtien.</xt>
+        <xt xml:lang="fin">siitä lähtien</xt>
       </xg>
 
       <xg>
@@ -2040,7 +2128,7 @@
 
         <phonet>veľəť peva</phonet>
 
-        <xt lang="fin">kylän laidalla.</xt>
+        <xt xml:lang="fin">kylän laidalla</xt>
       </xg>
     </mg>
   </e>
@@ -2055,9 +2143,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2073,9 +2161,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2091,9 +2179,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2109,9 +2197,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2127,9 +2215,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2145,9 +2233,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2163,9 +2251,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2187,8 +2275,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>pintapuolisesti.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">pintapuolisesti</t>
       </tg>
     </mg>
   </e>
@@ -2209,8 +2297,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>päässä, päällä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">päässä</t>
+
+        <t pos="Po">päällä</t>
       </tg>
     </mg>
   </e>
@@ -2231,8 +2321,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>päästä, päältä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">päästä</t>
+
+        <t pos="Po">päältä</t>
       </tg>
     </mg>
   </e>
@@ -2253,8 +2345,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>puoli, puolikas.</t>
+      <tg xml:lang="fin">
+        <t pos="N">puoli</t>
+
+        <t pos="N">puolikas</t>
       </tg>
 
       <xg>
@@ -2262,7 +2356,7 @@
 
         <phonet>päľə kiza/čast/ metra</phonet>
 
-        <xt lang="fin">puoli vuotta/tuntia/metriä.</xt>
+        <xt xml:lang="fin">puoli vuotta/tuntia/metriä</xt>
       </xg>
 
       <xg>
@@ -2270,7 +2364,7 @@
 
         <phonet>kerži/keŕǯi päľä</phonet>
 
-        <xt lang="fin">vasen puoli.</xt>
+        <xt xml:lang="fin">vasen puoli</xt>
       </xg>
 
       <xg>
@@ -2278,7 +2372,7 @@
 
         <phonet>omba päľä</phonet>
 
-        <xt lang="fin">toisella puolella.</xt>
+        <xt xml:lang="fin">toisella puolella</xt>
       </xg>
 
       <xg>
@@ -2286,7 +2380,7 @@
 
         <phonet>ťä päľä</phonet>
 
-        <xt lang="fin">tällä puolella.</xt>
+        <xt xml:lang="fin">tällä puolella</xt>
       </xg>
 
       <xg>
@@ -2294,7 +2388,7 @@
 
         <phonet>tona päľeŋgä</phonet>
 
-        <xt lang="fin">tuollakin puolella.</xt>
+        <xt xml:lang="fin">tuollakin puolella</xt>
       </xg>
 
       <xg>
@@ -2302,7 +2396,7 @@
 
         <phonet>ťäďäń päľä</phonet>
 
-        <xt lang="fin">äidin puolella.</xt>
+        <xt xml:lang="fin">äidin puolella</xt>
       </xg>
 
       <xg>
@@ -2310,7 +2404,7 @@
 
         <phonet>peŕf-päľä</phonet>
 
-        <xt lang="fin">ympäriinsä.</xt>
+        <xt xml:lang="fin">ympäriinsä</xt>
       </xg>
 
       <xg>
@@ -2318,7 +2412,7 @@
 
         <phonet>mon uľəń jalgaźəń päľä</phonet>
 
-        <xt lang="fin">olin ystäväni luona.</xt>
+        <xt xml:lang="fin">olin ystäväni luona</xt>
       </xg>
 
       <xg>
@@ -2326,7 +2420,7 @@
 
         <phonet>päľə vajmä</phonet>
 
-        <xt lang="fin">sairaalloinen ihminen, sairas.</xt>
+        <xt xml:lang="fin">sairaalloinen ihminen, sairas</xt>
       </xg>
 
       <xg>
@@ -2334,7 +2428,7 @@
 
         <phonet>päľə käľ</phonet>
 
-        <xt lang="fin">änkyttäjä.</xt>
+        <xt xml:lang="fin">änkyttäjä</xt>
       </xg>
 
       <xg>
@@ -2342,7 +2436,7 @@
 
         <phonet>päľə käľsə korxtama</phonet>
 
-        <xt lang="fin">änkytys.</xt>
+        <xt xml:lang="fin">änkytys</xt>
       </xg>
 
       <xg>
@@ -2350,7 +2444,7 @@
 
         <phonet>iľać päľə kis</phonet>
 
-        <xt lang="fin">jäi puolitiehen, kesken.</xt>
+        <xt xml:lang="fin">jäi puolitiehen, kesken</xt>
       </xg>
     </mg>
   </e>
@@ -2371,8 +2465,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>suuntaan.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">suuntaan</t>
       </tg>
 
       <xg>
@@ -2380,7 +2474,7 @@
 
         <phonet>oš päľi</phonet>
 
-        <xt lang="fin">kaupungin suuntaan.</xt>
+        <xt xml:lang="fin">kaupungin suuntaan</xt>
       </xg>
 
       <xg>
@@ -2388,7 +2482,7 @@
 
         <phonet>viďə päľi</phonet>
 
-        <xt lang="fin">oikealle.</xt>
+        <xt xml:lang="fin">oikealle</xt>
       </xg>
 
       <xg>
@@ -2396,7 +2490,7 @@
 
         <phonet>kerǯi päľi</phonet>
 
-        <xt lang="fin">vasemmalle.</xt>
+        <xt xml:lang="fin">vasemmalle</xt>
       </xg>
 
       <xg>
@@ -2404,7 +2498,7 @@
 
         <phonet>kovť aďelamanc päľi</phonet>
 
-        <xt lang="fin">kuun loppua kohti.</xt>
+        <xt xml:lang="fin">kuun loppua kohti</xt>
       </xg>
     </mg>
   </e>
@@ -2414,11 +2508,9 @@
       <l pos="Po">пяльге</l>
 
       <stg>
-        <st Contlex="PostpTag">пяльге</st>
+        <st Contlex="POSTP-SPAT_">пяльге</st>
       </stg>
     </lg>
-
-    <pos>POSTP-SPAT</pos>
 
     <phonet>päľgä</phonet>
 
@@ -2427,8 +2519,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sivuitse, vieritse, ohitse.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sivuitse</t>
+
+        <t pos="Po">vieritse</t>
+
+        <t pos="Po">ohitse</t>
       </tg>
 
       <xg>
@@ -2436,7 +2532,7 @@
 
         <phonet>jotaśť kutť päľgä</phonet>
 
-        <xt lang="fin">kulkivat talon ohitse.</xt>
+        <xt xml:lang="fin">kulkivat talon ohitse</xt>
       </xg>
     </mg>
   </e>
@@ -2451,9 +2547,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2469,9 +2565,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2487,9 +2583,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2505,9 +2601,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2529,8 +2625,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>takia, vuoksi, tähden.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">takia</t>
+
+        <t pos="Po">vuoksi</t>
+
+        <t pos="Po">tähden</t>
       </tg>
 
       <xg>
@@ -2538,7 +2638,7 @@
 
         <phonet>vajnať śuńəda</phonet>
 
-        <xt lang="fin">sodan takia.</xt>
+        <xt xml:lang="fin">sodan takia</xt>
       </xg>
     </mg>
   </e>
@@ -2553,9 +2653,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2571,9 +2671,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2589,9 +2689,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2613,8 +2713,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>tätä kautta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">tätä kautta</t>
       </tg>
     </mg>
   </e>
@@ -2629,9 +2729,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2647,9 +2747,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2665,9 +2765,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2683,9 +2783,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2701,9 +2801,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2725,8 +2825,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>läpi, kautta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">läpi</t>
+
+        <t pos="Po">kautta</t>
       </tg>
 
       <xg>
@@ -2734,7 +2836,7 @@
 
         <phonet>turks-nakəś</phonet>
 
-        <xt lang="fin">pitkin poikin, ristiin rastiin.</xt>
+        <xt xml:lang="fin">pitkin poikin, ristiin rastiin</xt>
       </xg>
 
       <xg>
@@ -2742,7 +2844,7 @@
 
         <phonet>turks i nučk</phonet>
 
-        <xt lang="fin">pitkin poikin, ristiin rastiin.</xt>
+        <xt xml:lang="fin">pitkin poikin, ristiin rastiin</xt>
       </xg>
 
       <xg>
@@ -2750,7 +2852,7 @@
 
         <phonet>turks śeľmət vanəms</phonet>
 
-        <xt lang="fin">katsoa pahalla silmällä.</xt>
+        <xt xml:lang="fin">katsoa pahalla silmällä</xt>
       </xg>
 
       <xg>
@@ -2758,7 +2860,7 @@
 
         <phonet>turkskanʒa</phonet>
 
-        <xt lang="fin">sen kautta, sitä kautta.</xt>
+        <xt xml:lang="fin">sen kautta, sitä kautta</xt>
       </xg>
     </mg>
   </e>
@@ -2779,8 +2881,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>(murt.) vastassa, vastapäätä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">vastassa</t>
+
+        <t pos="Po">vastapäätä</t>
       </tg>
 
       <xg>
@@ -2788,7 +2892,7 @@
 
         <phonet>utərga</phonet>
 
-        <xt lang="fin">vastassa, vastapäätä.</xt>
+        <xt xml:lang="fin">vastassa, vastapäätä</xt>
       </xg>
 
       <xg>
@@ -2796,7 +2900,7 @@
 
         <phonet>utərs</phonet>
 
-        <xt lang="fin">vastaan, päin.</xt>
+        <xt xml:lang="fin">vastaan, päin</xt>
       </xg>
 
       <xg>
@@ -2804,7 +2908,7 @@
 
         <phonet>utəru</phonet>
 
-        <xt lang="fin">vastaan, päin, puoleen.</xt>
+        <xt xml:lang="fin">vastaan, päin, puoleen</xt>
       </xg>
 
       <xg>
@@ -2812,7 +2916,7 @@
 
         <phonet>utəru varmat</phonet>
 
-        <xt lang="fin">vastatuuleen.</xt>
+        <xt xml:lang="fin">vastatuuleen</xt>
       </xg>
 
       <xg>
@@ -2820,7 +2924,7 @@
 
         <phonet>utərćək</phonet>
 
-        <xt lang="fin">vastakkain.</xt>
+        <xt xml:lang="fin">vastakkain</xt>
       </xg>
 
       <xg>
@@ -2828,7 +2932,7 @@
 
         <phonet>utərćək-utərćək</phonet>
 
-        <xt lang="fin">vastakkain.</xt>
+        <xt xml:lang="fin">vastakkain</xt>
       </xg>
     </mg>
   </e>
@@ -2843,9 +2947,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2861,9 +2965,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2879,9 +2983,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2897,9 +3001,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2921,8 +3025,14 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>ulkopuolelta, syrjästä, sivusta; suunnasta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">ulkopuolelta</t>
+
+        <t pos="Po">syrjästä</t>
+
+        <t pos="Po">sivusta</t>
+
+        <t pos="Po">suunnasta</t>
       </tg>
     </mg>
   </e>
@@ -2937,9 +3047,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2955,9 +3065,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2973,9 +3083,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -2991,9 +3101,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3015,8 +3125,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>sivussa, syrjässä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">sivussa</t>
+
+        <t pos="Po">syrjässä</t>
       </tg>
     </mg>
   </e>
@@ -3037,8 +3149,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>jänis (Lepus).</t>
+      <tg xml:lang="fin">
+        <t pos="Po">jänis (Lepus)</t>
       </tg>
 
       <xg>
@@ -3046,7 +3158,7 @@
 
         <phonet>šumbaskä</phonet>
 
-        <xt lang="fin">pupu, jänö.</xt>
+        <xt xml:lang="fin">pupu, jänö</xt>
       </xg>
     </mg>
   </e>
@@ -3067,8 +3179,14 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>myöten, pitkin; läpi, kautta.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">myöten</t>
+
+        <t pos="Po">pitkin</t>
+
+        <t pos="Po">läpi</t>
+
+        <t pos="Po">kautta</t>
       </tg>
 
       <xg>
@@ -3076,7 +3194,7 @@
 
         <phonet>već šuďi karafť ezga</phonet>
 
-        <xt lang="fin">vesi virtaa ojia myöten.</xt>
+        <xt xml:lang="fin">vesi virtaa ojia myöten</xt>
       </xg>
 
       <xg>
@@ -3084,7 +3202,7 @@
 
         <phonet>veľəťńəń ezga</phonet>
 
-        <xt lang="fin">kylien läpi.</xt>
+        <xt xml:lang="fin">kylien läpi</xt>
       </xg>
     </mg>
   </e>
@@ -3105,8 +3223,14 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>-sta, -stä; sisästä, sisältä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">-sta</t>
+
+        <t pos="Po">-stä</t>
+
+        <t pos="Po">sisästä</t>
+
+        <t pos="Po">sisältä</t>
       </tg>
 
       <xg>
@@ -3114,7 +3238,7 @@
 
         <phonet>stancijäś veľəť ezd(ə) af ičkəźä</phonet>
 
-        <xt lang="fin">asema ei ole kaukana kylästä.</xt>
+        <xt xml:lang="fin">asema ei ole kaukana kylästä</xt>
       </xg>
     </mg>
   </e>
@@ -3129,9 +3253,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3147,9 +3271,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3171,8 +3295,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>samanlainen, samanikäinen.</t>
+      <tg xml:lang="fin">
+        <t pos="A">samanlainen</t>
+
+        <t pos="A">samanikäinen</t>
       </tg>
     </mg>
   </e>
@@ -3187,9 +3313,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3211,8 +3337,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>1. siellä. 2. -ssa; -lla.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">1. siellä. 2. -ssa; -lla</t>
       </tg>
 
       <xg>
@@ -3220,7 +3346,7 @@
 
         <phonet>kutť esa</phonet>
 
-        <xt lang="fin">talossa.</xt>
+        <xt xml:lang="fin">talossa</xt>
       </xg>
 
       <xg>
@@ -3228,7 +3354,7 @@
 
         <phonet>son ašši esa</phonet>
 
-        <xt lang="fin">hän on siellä.</xt>
+        <xt xml:lang="fin">hän on siellä</xt>
       </xg>
 
       <xg>
@@ -3236,7 +3362,7 @@
 
         <phonet>kńigaś šrať esa</phonet>
 
-        <xt lang="fin">kirja on pöydässä.</xt>
+        <xt xml:lang="fin">kirja on pöydässä</xt>
       </xg>
     </mg>
   </e>
@@ -3257,8 +3383,12 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>mittainen, pituinen, kokoinen.</t>
+      <tg xml:lang="fin">
+        <t pos="A">mittainen</t>
+
+        <t pos="A">pituinen</t>
+
+        <t pos="A">kokoinen</t>
       </tg>
 
       <xg>
@@ -3266,7 +3396,7 @@
 
         <phonet>son moń eškan</phonet>
 
-        <xt lang="fin">hän on minun mittaiseni.</xt>
+        <xt xml:lang="fin">hän on minun mittaiseni</xt>
       </xg>
 
       <xg>
@@ -3274,7 +3404,7 @@
 
         <phonet>šuftť eška</phonet>
 
-        <xt lang="fin">puun korkuinen.</xt>
+        <xt xml:lang="fin">puun korkuinen</xt>
       </xg>
     </mg>
   </e>
@@ -3289,9 +3419,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3307,9 +3437,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3325,9 +3455,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3349,8 +3479,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>luo, vasten.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">luo</t>
+
+        <t pos="Po">vasten</t>
       </tg>
 
       <xg>
@@ -3358,7 +3490,7 @@
 
         <phonet>vašəńäś pišťəć ťiďänc jožəs</phonet>
 
-        <xt lang="fin">varsa painautui emäänsä vasten.</xt>
+        <xt xml:lang="fin">varsa painautui emäänsä vasten</xt>
       </xg>
     </mg>
   </e>
@@ -3379,8 +3511,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>luona.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">luona</t>
       </tg>
 
       <xg>
@@ -3388,7 +3520,7 @@
 
         <phonet>son eŕäj aľanc jožəsa</phonet>
 
-        <xt lang="fin">hän asuu isänsä luona.</xt>
+        <xt xml:lang="fin">hän asuu isänsä luona</xt>
       </xg>
     </mg>
   </e>
@@ -3409,8 +3541,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>luota.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">luota</t>
       </tg>
 
       <xg>
@@ -3418,7 +3550,7 @@
 
         <phonet>kapať jožəstə numəl koməć</phonet>
 
-        <xt lang="fin">heinäsuovasta loikkasi jänis.</xt>
+        <xt xml:lang="fin">heinäsuovasta loikkasi jänis</xt>
       </xg>
     </mg>
   </e>
@@ -3439,8 +3571,8 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>(kulkea) läheltä.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">(kulkea) läheltä</t>
       </tg>
     </mg>
   </e>
@@ -3455,9 +3587,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3479,8 +3611,10 @@
         <head/>
       </m>
 
-      <tg lang="fin">
-        <t>suunnalla, taholla.</t>
+      <tg xml:lang="fin">
+        <t pos="Po">suunnalla</t>
+
+        <t pos="Po">taholla</t>
       </tg>
     </mg>
   </e>
@@ -3495,9 +3629,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3513,9 +3647,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
@@ -3531,9 +3665,9 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
-      <tg lang="fin">
+      <tg xml:lang="fin">
         <t pos="Po"/>
       </tg>
     </mg>
