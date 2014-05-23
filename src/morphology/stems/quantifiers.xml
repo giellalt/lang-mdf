@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Qnt">иля</l>
@@ -23,7 +23,7 @@
       </m>
 
       <tg lang="fin">
-        <t>muu, toinen.</t>
+        <t>muu, toinen</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -51,7 +51,7 @@
       </m>
 
       <tg lang="fin">
-        <t>jokainen.</t>
+        <t>jokainen</t>
       </tg>
 
       <xg>
@@ -59,7 +59,7 @@
 
         <phonet>ťä kažnajťi eŕavi sodams</phonet>
 
-        <xt lang="fin">tämä tulee kaikkien tietää.</xt>
+        <xt lang="fin">tämä tulee kaikkien tietää</xt>
       </xg>
     </mg>
   </e>
@@ -83,7 +83,7 @@
       </m>
 
       <tg lang="fin">
-        <t>ensimmäinen.</t>
+        <t>ensimmäinen</t>
       </tg>
 
       <xg>
@@ -91,7 +91,9 @@
 
         <phonet>vaśəńćəś</phonet>
 
-        <xt lang="fin">ensinnä(kin), ensiksi(kin).</xt>
+        <xt lang="fin">ensinnä(kin)</xt>
+
+        <xt>ensiksi(kin)</xt>
       </xg>
 
       <xg>
@@ -99,7 +101,7 @@
 
         <phonet>vaśəńćə majəń ši</phonet>
 
-        <xt lang="fin">vappu, vapunpäivä.</xt>
+        <xt lang="fin">vappu, vapunpäivä</xt>
       </xg>
 
       <xg>
@@ -107,8 +109,9 @@
 
         <phonet>vaśəńćəks</phonet>
 
-        <xt lang="fin">1. aluksi, ensiksi, ensinnä; ennakko­, alku-. 2.
-        esikoinen.</xt>
+        <xt lang="fin">aluksi</xt>
+
+        <xt>ensiksi, ensinnä; ennakko­, alku- esikoinen</xt>
       </xg>
 
       <xg>
@@ -116,7 +119,7 @@
 
         <phonet>vaśəńćəks bukvaś</phonet>
 
-        <xt lang="fin">alkukirjain.</xt>
+        <xt lang="fin">alkukirjain</xt>
       </xg>
 
       <xg>
@@ -124,7 +127,9 @@
 
         <phonet>vaśəńćəda</phonet>
 
-        <xt lang="fin">ensimmäisen kerran.</xt>
+        <xt lang="fin">ensimmäisen kerran</xt>
+
+        <xt>ensimmäistä kertaa</xt>
       </xg>
     </mg>
   </e>
@@ -228,7 +233,7 @@
 
         <phonet>veďgeməńćä</phonet>
 
-        <xt lang="fin">viideskymmenes.</xt>
+        <xt lang="fin">viideskymmenes</xt>
       </xg>
     </mg>
   </e>
@@ -252,7 +257,7 @@
       </m>
 
       <tg lang="fin">
-        <t>yhdeksän.</t>
+        <t>yhdeksän</t>
       </tg>
 
       <xg>
@@ -260,7 +265,7 @@
 
         <phonet>vejxksu</phonet>
 
-        <xt lang="fin">yhdeksään osaan.</xt>
+        <xt lang="fin">yhdeksään osaan</xt>
       </xg>
 
       <xg>
@@ -268,7 +273,7 @@
 
         <phonet>vejxksəva</phonet>
 
-        <xt lang="fin">yhdeksään osaan.</xt>
+        <xt lang="fin">yhdeksään osaan</xt>
       </xg>
 
       <xg>
@@ -276,7 +281,7 @@
 
         <phonet>vejxksəćä</phonet>
 
-        <xt lang="fin">yhdeksäs.</xt>
+        <xt lang="fin">yhdeksäs</xt>
       </xg>
     </mg>
   </e>
@@ -324,7 +329,7 @@
       </m>
 
       <tg lang="fin">
-        <t>yhdeksänkymmentä.</t>
+        <t>yhdeksänkymmentä</t>
       </tg>
     </mg>
   </e>
@@ -416,7 +421,7 @@
 
         <phonet>veťəva</phonet>
 
-        <xt lang="fin">viiteen osaan.</xt>
+        <xt lang="fin">viiteen osaan</xt>
       </xg>
 
       <xg>
@@ -424,7 +429,7 @@
 
         <phonet>veťu</phonet>
 
-        <xt lang="fin">viiteen osaan.</xt>
+        <xt lang="fin">viiteen osaan</xt>
       </xg>
 
       <xg>
@@ -432,7 +437,7 @@
 
         <phonet>veťəkśť</phonet>
 
-        <xt lang="fin">viisi kertaa, viidesti.</xt>
+        <xt lang="fin">viisi kertaa, viidesti</xt>
       </xg>
 
       <xg>
@@ -440,7 +445,7 @@
 
         <phonet>veťəńəst</phonet>
 
-        <xt lang="fin">he ovat viidestään.</xt>
+        <xt lang="fin">he ovat viidestään</xt>
       </xg>
 
       <xg>
@@ -448,7 +453,7 @@
 
         <phonet>veťəń-kərda</phonet>
 
-        <xt lang="fin">viisinkertainen, viisinkertaisesti.</xt>
+        <xt lang="fin">viisinkertainen, viisinkertaisesti</xt>
       </xg>
 
       <xg>
@@ -456,7 +461,7 @@
 
         <phonet>veťəčəś</phonet>
 
-        <xt lang="fin">viides päivä, viidentenä päivänä.</xt>
+        <xt lang="fin">viides päivä, viidentenä päivänä</xt>
       </xg>
 
       <xg>
@@ -464,7 +469,7 @@
 
         <phonet>veťəška</phonet>
 
-        <xt lang="fin">noin viisi, viitisen.</xt>
+        <xt lang="fin">noin viisi, viitisen</xt>
       </xg>
 
       <xg>
@@ -472,7 +477,7 @@
 
         <phonet>veťəškakśť</phonet>
 
-        <xt lang="fin">viitisen kertaa.</xt>
+        <xt lang="fin">viitisen kertaa</xt>
       </xg>
     </mg>
   </e>
@@ -544,7 +549,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeksan.</t>
+        <t>kahdeksan</t>
       </tg>
 
       <xg>
@@ -552,7 +557,7 @@
 
         <phonet>kafksu</phonet>
 
-        <xt lang="fin">kahdeksaan osaan.</xt>
+        <xt lang="fin">kahdeksaan osaan</xt>
       </xg>
 
       <xg>
@@ -560,7 +565,7 @@
 
         <phonet>kafksəkśť</phonet>
 
-        <xt lang="fin">kahdeksan kertaa.</xt>
+        <xt lang="fin">kahdeksan kertaa</xt>
       </xg>
     </mg>
   </e>
@@ -608,7 +613,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeksankymmentä.</t>
+        <t>kahdeksankymmentä</t>
       </tg>
     </mg>
   </e>
@@ -656,7 +661,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeksas.</t>
+        <t>kahdeksas</t>
       </tg>
     </mg>
   </e>
@@ -680,7 +685,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kaksi paria, kahdet.</t>
+        <t>kaksi paria, kahdet</t>
       </tg>
 
       <xg>
@@ -688,7 +693,7 @@
 
         <phonet>mon ramań kafənc kämət</phonet>
 
-        <xt lang="fin">ostin kahdet saappaat.</xt>
+        <xt lang="fin">ostin kahdet saappaat</xt>
       </xg>
     </mg>
   </e>
@@ -804,7 +809,7 @@
 
         <phonet>kafta-kolma</phonet>
 
-        <xt lang="fin">pari kolme.</xt>
+        <xt lang="fin">pari kolme</xt>
       </xg>
 
       <xg>
@@ -812,7 +817,7 @@
 
         <phonet>šidə-kaftədə/-kafttə meľä</phonet>
 
-        <xt lang="fin">parin päivän päästä.</xt>
+        <xt lang="fin">parin päivän päästä</xt>
       </xg>
 
       <xg>
@@ -820,7 +825,7 @@
 
         <phonet>ńeďäľadə-kaftədə meľä</phonet>
 
-        <xt lang="fin">parin viikon kuluttua.</xt>
+        <xt lang="fin">parin viikon kuluttua</xt>
       </xg>
 
       <xg>
@@ -828,7 +833,7 @@
 
         <phonet>šis-kaftəs</phonet>
 
-        <xt lang="fin">pariksi päiväksi.</xt>
+        <xt lang="fin">pariksi päiväksi</xt>
       </xg>
 
       <xg>
@@ -836,7 +841,7 @@
 
         <phonet>ńeďäľas-kaftəs, ńeďäľas-kafc</phonet>
 
-        <xt lang="fin">pariksi viikoksi.</xt>
+        <xt lang="fin">pariksi viikoksi</xt>
       </xg>
 
       <xg>
@@ -844,7 +849,7 @@
 
         <phonet>šista-kaftəsta</phonet>
 
-        <xt lang="fin">parissa päivässä.</xt>
+        <xt lang="fin">parissa päivässä</xt>
       </xg>
 
       <xg>
@@ -852,7 +857,7 @@
 
         <phonet>kaftu</phonet>
 
-        <xt lang="fin">kahtia.</xt>
+        <xt lang="fin">kahtia</xt>
       </xg>
 
       <xg>
@@ -860,7 +865,7 @@
 
         <phonet>kaftu kerəms</phonet>
 
-        <xt lang="fin">leikata kahtia.</xt>
+        <xt lang="fin">leikata kahtia</xt>
       </xg>
 
       <xg>
@@ -868,7 +873,7 @@
 
         <phonet>kaftuva</phonet>
 
-        <xt lang="fin">(taittaa) kaksinkerroin.</xt>
+        <xt lang="fin">(taittaa) kaksinkerroin</xt>
       </xg>
 
       <xg>
@@ -876,7 +881,7 @@
 
         <phonet>kafćkä</phonet>
 
-        <xt lang="fin">molemmat.</xt>
+        <xt lang="fin">molemmat</xt>
       </xg>
 
       <xg>
@@ -884,7 +889,7 @@
 
         <phonet>kafćəkəńďi</phonet>
 
-        <xt lang="fin">molempien, molemmille.</xt>
+        <xt lang="fin">molempien, molemmille</xt>
       </xg>
 
       <xg>
@@ -892,7 +897,7 @@
 
         <phonet>kaftəška</phonet>
 
-        <xt lang="fin">pari (noin kaksi).</xt>
+        <xt lang="fin">pari (noin kaksi)</xt>
       </xg>
 
       <xg>
@@ -900,7 +905,7 @@
 
         <phonet>kaftəška-kolməška</phonet>
 
-        <xt lang="fin">pari kolme.</xt>
+        <xt lang="fin">pari kolme</xt>
       </xg>
 
       <xg>
@@ -908,7 +913,7 @@
 
         <phonet>kaftəškakśť</phonet>
 
-        <xt lang="fin">parisen kertaa.</xt>
+        <xt lang="fin">parisen kertaa</xt>
       </xg>
     </mg>
   </e>
@@ -1004,7 +1009,7 @@
       </m>
 
       <tg lang="fin">
-        <t>parittain; kaksinkerroin.</t>
+        <t>parittain; kaksinkerroin</t>
       </tg>
 
       <xg>
@@ -1012,7 +1017,7 @@
 
         <phonet>ťä kotfś kaftəń</phonet>
 
-        <xt lang="fin">tämä kangas on kaksinkerroin.</xt>
+        <xt lang="fin">tämä kangas on kaksinkerroin</xt>
       </xg>
 
       <xg>
@@ -1020,7 +1025,7 @@
 
         <phonet>ťifťəńäń-kaftəńäń</phonet>
 
-        <xt lang="fin">yksittäin, parittain.</xt>
+        <xt lang="fin">yksittäin, parittain</xt>
       </xg>
 
       <xg>
@@ -1028,7 +1033,7 @@
 
         <phonet>kaftəń-kərda</phonet>
 
-        <xt lang="fin">kaksinkertainen, kaksinkertaisesti.</xt>
+        <xt lang="fin">kaksinkertainen, kaksinkertaisesti</xt>
       </xg>
     </mg>
   </e>
@@ -1148,7 +1153,7 @@
       </m>
 
       <tg lang="fin">
-        <t>yhdeksäntoista.</t>
+        <t>yhdeksäntoista</t>
       </tg>
 
       <xg>
@@ -1156,7 +1161,7 @@
 
         <phonet>kivexksijəćä</phonet>
 
-        <xt lang="fin">yhdeksästoista.</xt>
+        <xt lang="fin">yhdeksästoista</xt>
       </xg>
     </mg>
   </e>
@@ -1180,21 +1185,23 @@
       </m>
 
       <tg xml:lang="eng">
-	<t pos="Num">fifteen</t>
+        <t pos="Num">fifteen</t>
       </tg>
 
       <tg lang="fin">
-	<t pos="Num">viisitoista</t>
+        <t pos="Num">viisitoista</t>
       </tg>
+
       <tg xml:lang="fra">
         <t pos="Num">quinze</t>
       </tg>
+
       <xg>
         <x>кеветие минутафтома кемонь частт</x>
 
         <phonet>kiveťijä minutaftəma/minutftəmə keməń častt</phonet>
 
-        <xt lang="fin">(kello on) viisitoista vaille kymmenen.</xt>
+        <xt lang="fin">(kello on) viisitoista vaille kymmenen</xt>
       </xg>
 
       <xg>
@@ -1202,7 +1209,7 @@
 
         <phonet>kiveťijəćä</phonet>
 
-        <xt lang="fin">viidestoista.</xt>
+        <xt lang="fin">viidestoista</xt>
       </xg>
 
       <xg>
@@ -1210,7 +1217,7 @@
 
         <phonet>kiveťijəška</phonet>
 
-        <xt lang="fin">viitisentoista.</xt>
+        <xt lang="fin">viitisentoista</xt>
       </xg>
     </mg>
   </e>
@@ -1282,7 +1289,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeksantoista.</t>
+        <t>kahdeksantoista</t>
       </tg>
     </mg>
   </e>
@@ -1306,7 +1313,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeksastoista.</t>
+        <t>kahdeksastoista</t>
       </tg>
     </mg>
   </e>
@@ -1352,6 +1359,7 @@
       <m>
         <head/>
       </m>
+
       <tg xml:lang="eng">
         <t pos="Num">twelve</t>
       </tg>
@@ -1359,6 +1367,7 @@
       <tg lang="fin">
         <t pos="Num">kaksitoista</t>
       </tg>
+
       <tg xml:lang="fra">
         <t pos="Num">douze</t>
       </tg>
@@ -1368,7 +1377,7 @@
 
         <phonet>kemgaftuvəška, kimgaftuvəška</phonet>
 
-        <xt lang="fin">noin kaksitoista.</xt>
+        <xt lang="fin">noin kaksitoista</xt>
       </xg>
     </mg>
   </e>
@@ -1442,11 +1451,13 @@
       <tg xml:lang="eng">
         <t pos="Num">thirteen</t>
       </tg>
+
       <tg lang="fin">
         <t pos="Num">kolmetoista</t>
       </tg>
+
       <tg xml:lang="fra">
-	<t pos="Num">treize</t>
+        <t pos="Num">treize</t>
       </tg>
 
       <xg>
@@ -1454,7 +1465,7 @@
 
         <phonet>kemgolmuvəćä, kimgolmuvəćä</phonet>
 
-        <xt lang="fin">kolmastoista.</xt>
+        <xt lang="fin">kolmastoista</xt>
       </xg>
 
       <xg>
@@ -1462,7 +1473,7 @@
 
         <phonet>kemgolmuvəška, kimgolmuvəška</phonet>
 
-        <xt lang="fin">kolmisentoista.</xt>
+        <xt lang="fin">kolmisentoista</xt>
       </xg>
     </mg>
   </e>
@@ -1580,6 +1591,7 @@
       <m>
         <head/>
       </m>
+
       <tg xml:lang="eng">
         <t pos="Num">sixteen</t>
       </tg>
@@ -1587,8 +1599,9 @@
       <tg lang="fin">
         <t pos="Num">kuusitoista</t>
       </tg>
+
       <tg xml:lang="fra">
-	<t pos="Num">seize</t>
+        <t pos="Num">seize</t>
       </tg>
 
       <xg>
@@ -1596,7 +1609,7 @@
 
         <phonet>kemgotuvəćä</phonet>
 
-        <xt lang="fin">kuudestoista.</xt>
+        <xt lang="fin">kuudestoista</xt>
       </xg>
     </mg>
   </e>
@@ -1692,7 +1705,7 @@
       </m>
 
       <tg lang="fin">
-        <t>seitsemäntoista.</t>
+        <t>seitsemäntoista</t>
       </tg>
 
       <xg>
@@ -1770,13 +1783,15 @@
       <m>
         <head/>
       </m>
+
       <tg xml:lang="eng">
-	<t pos="Num">fourteen</t>
+        <t pos="Num">fourteen</t>
       </tg>
 
       <tg lang="fin">
-	<t pos="Num">neljätoista</t>
+        <t pos="Num">neljätoista</t>
       </tg>
+
       <tg xml:lang="fra">
         <t pos="Num">quatorze</t>
       </tg>
@@ -1786,7 +1801,7 @@
 
         <phonet>kemńiľijəćä, kimńiľijəćä, kimńiľəćä</phonet>
 
-        <xt lang="fin">neljästoista.</xt>
+        <xt lang="fin">neljästoista</xt>
       </xg>
     </mg>
   </e>
@@ -1882,7 +1897,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kymmenen.</t>
+        <t>kymmenen</t>
       </tg>
 
       <xg>
@@ -1890,7 +1905,7 @@
 
         <phonet>keməń kizəs(ə) iď</phonet>
 
-        <xt lang="fin">kymmenvuotias lapsi.</xt>
+        <xt lang="fin">kymmenvuotias lapsi</xt>
       </xg>
 
       <xg>
@@ -1898,7 +1913,7 @@
 
         <phonet>keməńu</phonet>
 
-        <xt lang="fin">kymmeneen osaan.</xt>
+        <xt lang="fin">kymmeneen osaan</xt>
       </xg>
 
       <xg>
@@ -1906,7 +1921,7 @@
 
         <phonet>keməńkśť, keməńkśť</phonet>
 
-        <xt lang="fin">kymmenen kertaa.</xt>
+        <xt lang="fin">kymmenen kertaa</xt>
       </xg>
 
       <xg>
@@ -1914,7 +1929,7 @@
 
         <phonet>keməńćä</phonet>
 
-        <xt lang="fin">kymmenes.</xt>
+        <xt lang="fin">kymmenes</xt>
       </xg>
 
       <xg>
@@ -1922,7 +1937,7 @@
 
         <phonet>keməńćəks</phonet>
 
-        <xt lang="fin">kymmenesosa.</xt>
+        <xt lang="fin">kymmenesosa</xt>
       </xg>
 
       <xg>
@@ -1930,7 +1945,7 @@
 
         <phonet>keməńška, keməńčka</phonet>
 
-        <xt lang="fin">kymmenkunta.</xt>
+        <xt lang="fin">kymmenkunta</xt>
       </xg>
     </mg>
   </e>
@@ -1952,12 +1967,15 @@
       <m>
         <head/>
       </m>
+
       <tg xml:lang="eng">
         <t pos="Num">eleven</t>
       </tg>
+
       <tg lang="fin">
         <t>yksitoista</t>
       </tg>
+
       <tg xml:lang="fra">
         <t pos="Num">onze</t>
       </tg>
@@ -1967,7 +1985,7 @@
 
         <phonet>kefkijəćä</phonet>
 
-        <xt lang="fin">yhdestoista.</xt>
+        <xt lang="fin">yhdestoista</xt>
       </xg>
     </mg>
   </e>
@@ -2015,7 +2033,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kuusikymmentä.</t>
+        <t>kuusikymmentä</t>
       </tg>
 
       <xg>
@@ -2023,7 +2041,7 @@
 
         <phonet>kodgeməńćä</phonet>
 
-        <xt lang="fin">kuudeskymmenes.</xt>
+        <xt lang="fin">kuudeskymmenes</xt>
       </xg>
     </mg>
   </e>
@@ -2059,7 +2077,7 @@
 
         <phonet>kolməćä</phonet>
 
-        <xt lang="fin">kolmas.</xt>
+        <xt lang="fin">kolmas</xt>
       </xg>
 
       <xg>
@@ -2067,7 +2085,7 @@
 
         <phonet>kolmu</phonet>
 
-        <xt lang="fin">kolmeen osaan.</xt>
+        <xt lang="fin">kolmeen osaan</xt>
       </xg>
 
       <xg>
@@ -2075,7 +2093,7 @@
 
         <phonet>kolməva</phonet>
 
-        <xt lang="fin">kolmeen suuntaan.</xt>
+        <xt lang="fin">kolmeen suuntaan</xt>
       </xg>
 
       <xg>
@@ -2083,7 +2101,7 @@
 
         <phonet>kolməkśť</phonet>
 
-        <xt lang="fin">kolme kertaa, kolmesti.</xt>
+        <xt lang="fin">kolme kertaa, kolmesti</xt>
       </xg>
 
       <xg>
@@ -2091,7 +2109,7 @@
 
         <phonet>kolməksńä</phonet>
 
-        <xt lang="fin">kaikki kolme.</xt>
+        <xt lang="fin">kaikki kolme</xt>
       </xg>
 
       <xg>
@@ -2107,7 +2125,7 @@
 
         <phonet>kolməncńä</phonet>
 
-        <xt lang="fin">kolmasosa niistä.</xt>
+        <xt lang="fin">kolmasosa niistä</xt>
       </xg>
 
       <xg>
@@ -2115,7 +2133,7 @@
 
         <phonet>kolməćəda</phonet>
 
-        <xt lang="fin">kolmannen kerran.</xt>
+        <xt lang="fin">kolmannen kerran</xt>
       </xg>
 
       <xg>
@@ -2123,7 +2141,7 @@
 
         <phonet>kolməćkä</phonet>
 
-        <xt lang="fin">kaikki kolme.</xt>
+        <xt lang="fin">kaikki kolme</xt>
       </xg>
 
       <xg>
@@ -2131,7 +2149,7 @@
 
         <phonet>kolməška</phonet>
 
-        <xt lang="fin">kolmisen.</xt>
+        <xt lang="fin">kolmisen</xt>
       </xg>
 
       <xg>
@@ -2139,7 +2157,7 @@
 
         <phonet>kaftəška-kolməška</phonet>
 
-        <xt lang="fin">pari-kolme.</xt>
+        <xt lang="fin">pari-kolme</xt>
       </xg>
 
       <xg>
@@ -2147,7 +2165,7 @@
 
         <phonet>kolməškakśť</phonet>
 
-        <xt lang="fin">kolmisen kertaa.</xt>
+        <xt lang="fin">kolmisen kertaa</xt>
       </xg>
 
       <xg>
@@ -2155,7 +2173,7 @@
 
         <phonet>kaftə-kolma</phonet>
 
-        <xt lang="fin">pari-kolme.</xt>
+        <xt lang="fin">pari-kolme</xt>
       </xg>
 
       <xg>
@@ -2163,7 +2181,7 @@
 
         <phonet>kolmə-ńilä</phonet>
 
-        <xt lang="fin">kolme, neljä; muutama.</xt>
+        <xt lang="fin">kolme, neljä; muutama</xt>
       </xg>
     </mg>
   </e>
@@ -2211,7 +2229,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kolmekymmentä.</t>
+        <t>kolmekymmentä</t>
       </tg>
 
       <xg>
@@ -2219,7 +2237,7 @@
 
         <phonet>kolməgeməńška, kolməńgeməńčka</phonet>
 
-        <xt lang="fin">kolmisenkymmentä.</xt>
+        <xt lang="fin">kolmisenkymmentä</xt>
       </xg>
     </mg>
   </e>
@@ -2387,7 +2405,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kahdeskymmenes.</t>
+        <t>kahdeskymmenes</t>
       </tg>
 
       <xg>
@@ -2395,7 +2413,7 @@
 
         <phonet>koməzćə kizəťńä</phonet>
 
-        <xt lang="fin">20-luku.</xt>
+        <xt lang="fin">20-luku</xt>
       </xg>
     </mg>
   </e>
@@ -2443,7 +2461,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kaksikymmentä.</t>
+        <t>kaksikymmentä</t>
       </tg>
     </mg>
   </e>
@@ -2467,7 +2485,7 @@
       </m>
 
       <tg lang="fin">
-        <t>kuusi.</t>
+        <t>kuusi</t>
       </tg>
 
       <xg>
@@ -2475,7 +2493,7 @@
 
         <phonet>kodgeməń kota</phonet>
 
-        <xt lang="fin">kuusikymmentäkuusi.</xt>
+        <xt lang="fin">kuusikymmentäkuusi</xt>
       </xg>
 
       <xg>
@@ -2483,7 +2501,7 @@
 
         <phonet>kotəćä</phonet>
 
-        <xt lang="fin">kuudes.</xt>
+        <xt lang="fin">kuudes</xt>
       </xg>
 
       <xg>
@@ -2491,7 +2509,7 @@
 
         <phonet>kotu</phonet>
 
-        <xt lang="fin">kuuteen osaan.</xt>
+        <xt lang="fin">kuuteen osaan</xt>
       </xg>
 
       <xg>
@@ -2499,7 +2517,7 @@
 
         <phonet>kotəkśť</phonet>
 
-        <xt lang="fin">kuusi kertaa.</xt>
+        <xt lang="fin">kuusi kertaa</xt>
       </xg>
 
       <xg>
@@ -2507,7 +2525,7 @@
 
         <phonet>kotəva</phonet>
 
-        <xt lang="fin">kuuteen suuntaan.</xt>
+        <xt lang="fin">kuuteen suuntaan</xt>
       </xg>
 
       <xg>
@@ -2515,7 +2533,7 @@
 
         <phonet>kotəń-kotəń</phonet>
 
-        <xt lang="fin">kuusin.</xt>
+        <xt lang="fin">kuusin</xt>
       </xg>
 
       <xg>
@@ -2523,7 +2541,7 @@
 
         <phonet>kotəčəś</phonet>
 
-        <xt lang="fin">kuudentena päivänä.</xt>
+        <xt lang="fin">kuudentena päivänä</xt>
       </xg>
     </mg>
   </e>
@@ -2795,7 +2813,7 @@
 
         <phonet>ńiľə käcə-piľksa</phonet>
 
-        <xt lang="fin">nelinkontin.</xt>
+        <xt lang="fin">nelinkontin</xt>
       </xg>
 
       <xg>
@@ -2803,7 +2821,7 @@
 
         <phonet>ńiľə piľksə jakams</phonet>
 
-        <xt lang="fin">kulkea nelinkontin.</xt>
+        <xt lang="fin">kulkea nelinkontin</xt>
       </xg>
 
       <xg>
@@ -2811,7 +2829,7 @@
 
         <phonet>ńiľə śatt</phonet>
 
-        <xt lang="fin">neljäsataa.</xt>
+        <xt lang="fin">neljäsataa</xt>
       </xg>
 
       <xg>
@@ -2819,7 +2837,7 @@
 
         <phonet>ńiľu</phonet>
 
-        <xt lang="fin">neljään osaan.</xt>
+        <xt lang="fin">neljään osaan</xt>
       </xg>
 
       <xg>
@@ -2827,7 +2845,7 @@
 
         <phonet>ńiľəva</phonet>
 
-        <xt lang="fin">nelin kerroin, nelinkertaisesti.</xt>
+        <xt lang="fin">nelin kerroin, nelinkertaisesti</xt>
       </xg>
 
       <xg>
@@ -2835,7 +2853,7 @@
 
         <phonet>mäńćəms ńiľəva</phonet>
 
-        <xt lang="fin">taittaa nelin kerroin.</xt>
+        <xt lang="fin">taittaa nelin kerroin</xt>
       </xg>
 
       <xg>
@@ -2843,7 +2861,7 @@
 
         <phonet>ńiľəkśť</phonet>
 
-        <xt lang="fin">neljästi, neljä kertaa.</xt>
+        <xt lang="fin">neljästi, neljä kertaa</xt>
       </xg>
 
       <xg>
@@ -2851,7 +2869,7 @@
 
         <phonet>ńiľəń-ńiľəń</phonet>
 
-        <xt lang="fin">nelittäin.</xt>
+        <xt lang="fin">nelittäin</xt>
       </xg>
 
       <xg>
@@ -2859,7 +2877,7 @@
 
         <phonet>ńiľəćä</phonet>
 
-        <xt lang="fin">neljäs.</xt>
+        <xt lang="fin">neljäs</xt>
       </xg>
 
       <xg>
@@ -2867,7 +2885,7 @@
 
         <phonet>ńiľəncńä</phonet>
 
-        <xt lang="fin">neljännes niistä.</xt>
+        <xt lang="fin">neljännes niistä</xt>
       </xg>
 
       <xg>
@@ -2875,7 +2893,7 @@
 
         <phonet>kolmə-ńiľä</phonet>
 
-        <xt lang="fin">kolme, neljä.</xt>
+        <xt lang="fin">kolme, neljä</xt>
       </xg>
     </mg>
   </e>
@@ -2923,7 +2941,7 @@
       </m>
 
       <tg lang="fin">
-        <t>neljäkymmentä.</t>
+        <t>neljäkymmentä</t>
       </tg>
     </mg>
   </e>
@@ -2971,7 +2989,7 @@
       </m>
 
       <tg lang="fin">
-        <t>(num.) toinen.</t>
+        <t>(num.) toinen</t>
       </tg>
 
       <xg>
@@ -2987,7 +3005,7 @@
 
         <phonet>ombəćəťi</phonet>
 
-        <xt lang="fin">toiselle.</xt>
+        <xt lang="fin">toiselle</xt>
       </xg>
 
       <xg>
@@ -2995,7 +3013,7 @@
 
         <phonet>ombəćəda</phonet>
 
-        <xt lang="fin">toistamiseen, toisen kerran.</xt>
+        <xt lang="fin">toistamiseen, toisen kerran</xt>
       </xg>
 
       <xg>
@@ -3003,7 +3021,7 @@
 
         <phonet>ton ombəćədə moľat</phonet>
 
-        <xt lang="fin">menet toisen kerran.</xt>
+        <xt lang="fin">menet toisen kerran</xt>
       </xg>
 
       <xg>
@@ -3011,7 +3029,7 @@
 
         <phonet>ombəćədə jakań toza</phonet>
 
-        <xt lang="fin">kävin siellä toista kertaa.</xt>
+        <xt lang="fin">kävin siellä toista kertaa</xt>
       </xg>
 
       <xg>
@@ -3019,7 +3037,7 @@
 
         <phonet>ombəncńä</phonet>
 
-        <xt lang="fin">(mon.) toiset, muut.</xt>
+        <xt lang="fin">(mon.) toiset, muut</xt>
       </xg>
 
       <xg>
@@ -3035,7 +3053,7 @@
 
         <phonet>ombəćəťńä</phonet>
 
-        <xt lang="fin">(mon., määr.) toiset, muut.</xt>
+        <xt lang="fin">(mon., määr.) toiset, muut</xt>
       </xg>
     </mg>
   </e>
@@ -3159,7 +3177,7 @@
       </m>
 
       <tg lang="fin">
-        <t>seitsemän.</t>
+        <t>seitsemän</t>
       </tg>
 
       <xg>
@@ -3183,7 +3201,7 @@
 
         <phonet>śiśəmu</phonet>
 
-        <xt lang="fin">seitsemään osaan.</xt>
+        <xt lang="fin">seitsemään osaan</xt>
       </xg>
 
       <xg>
@@ -3191,7 +3209,7 @@
 
         <phonet>śiśəmćä</phonet>
 
-        <xt lang="fin">seitsemäs.</xt>
+        <xt lang="fin">seitsemäs</xt>
       </xg>
     </mg>
   </e>
@@ -3215,7 +3233,7 @@
       </m>
 
       <tg lang="fin">
-        <t>sata.</t>
+        <t>sata</t>
       </tg>
 
       <xg>
@@ -3223,7 +3241,7 @@
 
         <phonet>śadəkśť</phonet>
 
-        <xt lang="fin">sata kertaa.</xt>
+        <xt lang="fin">sata kertaa</xt>
       </xg>
 
       <xg>
@@ -3231,7 +3249,7 @@
 
         <phonet>lamə śatt</phonet>
 
-        <xt lang="fin">useita satoja.</xt>
+        <xt lang="fin">useita satoja</xt>
       </xg>
 
       <xg>
@@ -3239,7 +3257,7 @@
 
         <phonet>ńiľə śatt</phonet>
 
-        <xt lang="fin">neljäsataa.</xt>
+        <xt lang="fin">neljäsataa</xt>
       </xg>
 
       <xg>
@@ -3247,7 +3265,7 @@
 
         <phonet>śadəška</phonet>
 
-        <xt lang="fin">satakunta, noin sata.</xt>
+        <xt lang="fin">satakunta, noin sata</xt>
       </xg>
     </mg>
   </e>
@@ -3295,7 +3313,7 @@
       </m>
 
       <tg lang="fin">
-        <t>yksitellen.</t>
+        <t>yksitellen</t>
       </tg>
 
       <xg>
@@ -3303,7 +3321,7 @@
 
         <phonet>ťifťəń-ťifťəń</phonet>
 
-        <xt lang="fin">yksitellen.</xt>
+        <xt lang="fin">yksitellen</xt>
       </xg>
     </mg>
   </e>
@@ -3399,7 +3417,7 @@
       </m>
 
       <tg lang="fin">
-        <t>tuhat.</t>
+        <t>tuhat</t>
       </tg>
 
       <xg>
@@ -3407,7 +3425,7 @@
 
         <phonet>ťožäńćä</phonet>
 
-        <xt lang="fin">tuhannes.</xt>
+        <xt lang="fin">tuhannes</xt>
       </xg>
 
       <xg>
@@ -3415,7 +3433,7 @@
 
         <phonet>ťožäńc</phonet>
 
-        <xt lang="fin">tuhanteen asti.</xt>
+        <xt lang="fin">tuhanteen asti</xt>
       </xg>
 
       <xg>
@@ -3423,7 +3441,7 @@
 
         <phonet>śadə ťožäń</phonet>
 
-        <xt lang="fin">satatuhatta.</xt>
+        <xt lang="fin">satatuhatta</xt>
       </xg>
 
       <xg>
@@ -3431,7 +3449,7 @@
 
         <phonet>ťožäń-ťožäťť</phonet>
 
-        <xt lang="fin">(mon.) monta tuhatta, useita tuhansia; miljoona.</xt>
+        <xt lang="fin">(mon.) monta tuhatta, useita tuhansia; miljoona</xt>
       </xg>
 
       <xg>
@@ -3439,7 +3457,7 @@
 
         <phonet>ťožäńčka</phonet>
 
-        <xt lang="fin">noin tuhat, tuhatkunta.</xt>
+        <xt lang="fin">noin tuhat, tuhatkunta</xt>
       </xg>
     </mg>
   </e>
@@ -3463,7 +3481,7 @@
       </m>
 
       <tg lang="fin">
-        <t>pari.</t>
+        <t>pari</t>
       </tg>
 
       <xg>
@@ -3471,7 +3489,7 @@
 
         <phonet>finc kämət</phonet>
 
-        <xt lang="fin">saapaspari.</xt>
+        <xt lang="fin">saapaspari</xt>
       </xg>
     </mg>
   </e>
@@ -3507,7 +3525,7 @@
 
         <phonet>fkat</phonet>
 
-        <xt lang="fin">(mon.) samanlaiset, yhdenvertaiset.</xt>
+        <xt lang="fin">(mon.) samanlaiset, yhdenvertaiset</xt>
       </xg>
 
       <xg>
@@ -3515,7 +3533,7 @@
 
         <phonet>fkä käď</phonet>
 
-        <xt lang="fin">yksikätinen, käsipuoli.</xt>
+        <xt lang="fin">yksikätinen, käsipuoli</xt>
       </xg>
 
       <xg>
@@ -3523,7 +3541,7 @@
 
         <phonet>fkäťńä</phonet>
 
-        <xt lang="fin">(mon.) jotkut.</xt>
+        <xt lang="fin">(mon.) jotkut</xt>
       </xg>
 
       <xg>
@@ -3531,7 +3549,7 @@
 
         <phonet>fkävək af</phonet>
 
-        <xt lang="fin">ei yhtään.</xt>
+        <xt lang="fin">ei yhtään</xt>
       </xg>
 
       <xg>
@@ -3539,7 +3557,7 @@
 
         <phonet>fkä-ťaka</phonet>
 
-        <xt lang="fin">ainoa, ainut.</xt>
+        <xt lang="fin">ainoa, ainut</xt>
       </xg>
 
       <xg>
@@ -3547,8 +3565,8 @@
 
         <phonet>fkä-fkäń</phonet>
 
-        <xt lang="fin">1. toisiaan, toinen toistaan. 2. toistensa, toinen
-        toisensa.</xt>
+        <xt lang="fin">1. toisiaan, toinen toistaan 2. toistensa, toinen
+        toisensa</xt>
       </xg>
 
       <xg>
@@ -3564,7 +3582,7 @@
 
         <phonet>fkä-fkäń laŋks ńežəďəź</phonet>
 
-        <xt lang="fin">toisiaan tukien.</xt>
+        <xt lang="fin">toisiaan tukien</xt>
       </xg>
 
       <xg>
@@ -3572,7 +3590,7 @@
 
         <phonet>fkäškasta</phonet>
 
-        <xt lang="fin">suunnilleen samoin.</xt>
+        <xt lang="fin">suunnilleen samoin</xt>
       </xg>
 
       <xg>
@@ -3580,7 +3598,7 @@
 
         <phonet>fkäńčkasət</phonet>
 
-        <xt lang="fin">samanmalliset.</xt>
+        <xt lang="fin">samanmalliset</xt>
       </xg>
     </mg>
   </e>
