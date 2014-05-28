@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
       <l pos="Pron">ашяйкова</l>
@@ -13,7 +13,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -22,7 +21,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t>(ei) mitään</t>
       </tg>
     </mg>
   </e>
@@ -36,7 +35,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -45,7 +43,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t>(ei) mitään</t>
       </tg>
     </mg>
   </e>
@@ -58,7 +56,6 @@
         <st Contlex="PRON_">всякай</st>
       </stg>
     </lg>
-
 
     <phonet>fśakaj, fśaki, śakaj</phonet>
 
@@ -90,7 +87,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -99,7 +95,7 @@
       </m>
 
       <tg xml:lang="fin">
-        <t/>
+        <t>tuo</t>
       </tg>
     </mg>
   </e>
@@ -113,7 +109,6 @@
       </stg>
     </lg>
 
-
     <phonet>gajśä</phonet>
 
     <mg>
@@ -122,7 +117,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">se</t><t pos="A">tuo</t><t pos="A">tämä</t>
+        <t pos="Pron">se</t>
+
+        <t pos="A">tuo</t>
+
+        <t pos="A">tämä</t>
       </tg>
     </mg>
   </e>
@@ -135,7 +134,6 @@
         <st Contlex="PRON_">кама</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -159,7 +157,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -182,7 +179,6 @@
       </stg>
     </lg>
 
-
     <phonet>kaťi-kijä</phonet>
 
     <mg>
@@ -191,7 +187,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">joku</t><t pos="A">eräs</t>
+        <t pos="Pron">joku</t>
+
+        <t pos="A">eräs</t>
       </tg>
     </mg>
   </e>
@@ -204,7 +202,6 @@
         <st Contlex="PRON_">кати-мезе</st>
       </stg>
     </lg>
-
 
     <phonet>kaťi-meźä</phonet>
 
@@ -228,7 +225,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -251,7 +247,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -273,7 +268,6 @@
         <st Contlex="PRON_">кивок</st>
       </stg>
     </lg>
-
 
     <phonet>kivək</phonet>
 
@@ -313,7 +307,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -336,7 +329,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -358,7 +350,6 @@
         <st Contlex="PRON_">кие</st>
       </stg>
     </lg>
-
 
     <phonet>kijä</phonet>
 
@@ -450,7 +441,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -472,7 +462,6 @@
         <st Contlex="PRON_">киндиге</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -496,7 +485,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -519,7 +507,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -541,7 +528,6 @@
         <st Contlex="PRON_">кияк</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -575,7 +561,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">kuinka</t><t pos="Pron">miten</t>
+        <t pos="Pron">kuinka</t>
+
+        <t pos="Pron">miten</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -761,7 +749,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -783,7 +770,6 @@
         <st Contlex="PRON_">кой-кие</st>
       </stg>
     </lg>
-
 
     <phonet>koj-kijä</phonet>
 
@@ -807,7 +793,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -829,7 +814,6 @@
         <st Contlex="PRON_">кой-кодама</st>
       </stg>
     </lg>
-
 
     <phonet>koj-kodama</phonet>
 
@@ -853,7 +837,6 @@
       </stg>
     </lg>
 
-
     <phonet>koj-kona</phonet>
 
     <mg>
@@ -875,7 +858,6 @@
         <st Contlex="PRON_">кой-мезе</st>
       </stg>
     </lg>
-
 
     <phonet>koj-meźä</phonet>
 
@@ -914,7 +896,6 @@
         <st Contlex="PRON_">кона</st>
       </stg>
     </lg>
-
 
     <phonet>kona</phonet>
 
@@ -993,7 +974,6 @@
         <st Contlex="PRON_">конашка</st>
       </stg>
     </lg>
-
 
     <phonet>konaška</phonet>
 
@@ -1165,7 +1145,6 @@
       </stg>
     </lg>
 
-
     <phonet>ladńək</phonet>
 
     <mg>
@@ -1303,7 +1282,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">jostakin; (ei) mistään; (ei) milloinkaan, (ei) koskaan</t>
+        <t pos="Pron">jostakin; (ei) mistään; (ei) milloinkaan, (ei)
+        koskaan</t>
       </tg>
     </mg>
   </e>
@@ -1327,7 +1307,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">muu</t><t pos="A">toinen</t>
+        <t pos="A">muu</t>
+
+        <t pos="A">toinen</t>
       </tg>
 
       <xg>
@@ -1367,7 +1349,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">(se) mikä</t><t pos="Pron">mitä</t>
+        <t pos="Pron">(se) mikä</t>
+
+        <t pos="Pron">mitä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1569,7 +1553,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1591,7 +1574,6 @@
         <st Contlex="PRON_">мезьге</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -1615,7 +1597,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1637,7 +1618,6 @@
         <st Contlex="PRON_">мезьда-мезьда</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -1661,7 +1641,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1683,7 +1662,6 @@
         <st Contlex="PRON_">мезьске</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -1707,7 +1685,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1730,7 +1707,6 @@
       </stg>
     </lg>
 
-
     <phonet>meśť</phonet>
 
     <mg>
@@ -1739,7 +1715,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">mitä</t><t pos="Pron">miksi</t>
+        <t pos="Pron">mitä</t>
+
+        <t pos="Pron">miksi</t>
       </tg>
 
       <xg>
@@ -1768,7 +1746,6 @@
         <st Contlex="PRON_">меяма</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -1802,7 +1779,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">milloin</t><t pos="Pron">koska</t><t pos="Pron">mihin aikaan</t>
+        <t pos="Pron">milloin</t>
+
+        <t pos="Pron">koska</t>
+
+        <t pos="Pron">mihin aikaan</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1844,7 +1825,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1866,7 +1846,6 @@
         <st Contlex="PRON_">миндейнек</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -1890,7 +1869,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1913,7 +1891,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -1935,7 +1912,6 @@
         <st Contlex="PERS-PL1">мин</st>
       </stg>
     </lg>
-
 
     <phonet>miń</phonet>
 
@@ -1995,7 +1971,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2017,7 +1992,6 @@
         <st Contlex="PRON_">миярс</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2041,7 +2015,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2063,7 +2036,6 @@
         <st Contlex="PERS-SG1">мон</st>
       </stg>
     </lg>
-
 
     <phonet>mon</phonet>
 
@@ -2123,7 +2095,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2145,7 +2116,6 @@
         <st Contlex="PRON_">мъзяроце</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2169,7 +2139,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2191,7 +2160,6 @@
         <st Contlex="PRON_">мъзярс</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2215,7 +2183,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2237,7 +2204,6 @@
         <st Contlex="PRON_">нона</st>
       </stg>
     </lg>
-
 
     <phonet>nona</phonet>
 
@@ -2268,7 +2234,6 @@
         <st Contlex="PRON_">ня</st>
       </stg>
     </lg>
-
 
     <phonet>ńä</phonet>
 
@@ -2332,7 +2297,6 @@
       </stg>
     </lg>
 
-
     <phonet>ńava</phonet>
 
     <mg>
@@ -2363,7 +2327,6 @@
       </stg>
     </lg>
 
-
     <phonet>ńakət</phonet>
 
     <mg>
@@ -2372,7 +2335,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="Pron">(mon.) vain nämä</t><t pos="Pron">ainoastaan nämä</t><t pos="Pron">juuri nämä</t>
+        <t pos="Pron">(mon.) vain nämä</t>
+
+        <t pos="Pron">ainoastaan nämä</t>
+
+        <t pos="Pron">juuri nämä</t>
       </tg>
     </mg>
   </e>
@@ -2385,7 +2352,6 @@
         <st Contlex="PRON_">ома</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2408,7 +2374,6 @@
         <st Contlex="PRON_">самай</st>
       </stg>
     </lg>
-
 
     <phonet>samaj</phonet>
 
@@ -2464,7 +2429,6 @@
       </stg>
     </lg>
 
-
     <phonet>śembä</phonet>
 
     <mg>
@@ -2511,7 +2475,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2533,7 +2496,6 @@
         <st Contlex="PERS-PL3">син</st>
       </stg>
     </lg>
-
 
     <phonet>śiń</phonet>
 
@@ -2578,7 +2540,6 @@
         <st Contlex="PERS-SG3">сон</st>
       </stg>
     </lg>
-
 
     <phonet>son</phonet>
 
@@ -2632,7 +2593,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2654,7 +2614,6 @@
         <st Contlex="PRON_">стамка</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2678,7 +2637,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2700,7 +2658,6 @@
         <st Contlex="PRON_">ся</st>
       </stg>
     </lg>
-
 
     <phonet>śä</phonet>
 
@@ -2792,7 +2749,6 @@
       </stg>
     </lg>
 
-
     <phonet>śaka</phonet>
 
     <mg>
@@ -2863,7 +2819,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2885,7 +2840,6 @@
         <st Contlex="PRON_">тейнек</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2909,7 +2863,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2931,7 +2884,6 @@
         <st Contlex="PRON_">тейнть</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -2955,7 +2907,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -2977,7 +2928,6 @@
         <st Contlex="PRON_">тейть</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -3001,7 +2951,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -3023,7 +2972,6 @@
         <st Contlex="PRON_">тинценне</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -3047,7 +2995,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -3070,7 +3017,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -3092,7 +3038,6 @@
         <st Contlex="PERS-PL2">тин</st>
       </stg>
     </lg>
-
 
     <phonet>ťiń</phonet>
 
@@ -3119,7 +3064,6 @@
         <st Contlex="PERS-SG2">тон</st>
       </stg>
     </lg>
-
 
     <phonet>ton</phonet>
 
@@ -3164,7 +3108,6 @@
         <st Contlex="PRON_">тона</st>
       </stg>
     </lg>
-
 
     <phonet>tona</phonet>
 
@@ -3251,7 +3194,6 @@
         <st Contlex="PRON_">тя</st>
       </stg>
     </lg>
-
 
     <phonet>ťä</phonet>
 
@@ -3543,7 +3485,6 @@
       </stg>
     </lg>
 
-
     <phonet>ťaftama</phonet>
 
     <mg>
@@ -3582,7 +3523,6 @@
       </stg>
     </lg>
 
-
     <phonet>ťäška/ťaška/ťeška</phonet>
 
     <mg>
@@ -3604,7 +3544,6 @@
         <st Contlex="PRON_">фкя-фкада</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -3628,7 +3567,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -3651,7 +3589,6 @@
       </stg>
     </lg>
 
-
     <mg>
       <m>
         <head/>
@@ -3673,7 +3610,6 @@
         <st Contlex="PRON_">эковай</st>
       </stg>
     </lg>
-
 
     <mg>
       <m>
@@ -3737,7 +3673,6 @@
       </stg>
     </lg>
 
-
     <phonet>eś</phonet>
 
     <mg>
@@ -3746,7 +3681,9 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A" type="Refl">oma</t><t pos="Pron" type="Refl">itse</t>
+        <t pos="A" type="Refl">oma</t>
+
+        <t pos="Pron" type="Refl">itse</t>
       </tg>
 
       <xg>
@@ -3824,7 +3761,11 @@
       </m>
 
       <tg xml:lang="fin">
-        <t pos="A">oikea</t><t pos="A">todellinen</t><t pos="A">tosi</t>
+        <t pos="A">oikea</t>
+
+        <t pos="A">todellinen</t>
+
+        <t pos="A">tosi</t>
       </tg>
     </mg>
   </e>
