@@ -74,7 +74,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Formulaic  !!= ;@CODE@: greetings, 
 !! 
 !! The Usage extents are marked using following tags:
- +Use/Sub    !!= ;@CODE@: substandard / outside the written norm
+ +Err/Sub    !!= ;@CODE@: substandard / outside the written norm
  +Use/-Spell !!= ;@CODE@: do not include in speller
 
  +Dial
@@ -458,7 +458,7 @@ LEXICON DESCR_
 ! TODO: Integrate this in xml-files in working…
 
 !LEXICON SUBSTANDARDS 
-!коръя+Use/Sub:корья Noun1 ;
+!коръя+Err/Sub:корья Noun1 ;
 
 
 
