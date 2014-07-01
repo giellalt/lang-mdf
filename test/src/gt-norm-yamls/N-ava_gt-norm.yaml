@@ -17,83 +17,83 @@ Tests:
 
   Noun - ава: # Ordinary nouns 'woman' - full paradigm including MWN
      ава+N+Sg+Nom+Indef: ава
-     ава+N+Gen+Indef: авань
-     ава+N+Abl+Indef: авада
-     ава+N+Dat+Indef: аванди
-     ава+N+Abe+Indef: авафтома
-     ава+N+Comp+Indef: авашка
-     ава+N+Ine+Indef: аваса
-     ава+N+Ela+Indef: аваста
-     ава+N+Ill+Indef: авас
-     ава+N+Prl+Indef: авава
-     ава+N+Tra+Indef: авакс
+     ава+N+SP+Gen+Indef: авань
+     ава+N+SP+Abl+Indef: авада
+     ава+N+SP+Dat+Indef: аванди
+     ава+N+SP+Abe+Indef: авафтома
+     ава+N+SP+Comp+Indef: авашка
+     ава+N+SP+Ine+Indef: аваса
+     ава+N+SP+Ela+Indef: аваста
+     ава+N+SP+Ill+Indef: авас
+     ава+N+SP+Prl+Indef: авава
+     ава+N+SP+Tra+Indef: авакс
      ава+N+Sg+Nom+PxSg1: авазе
      ава+N+Pl+Nom+PxSg1: аване
      ава+N+Sg+Gen+PxSg1: авазень
      ава+N+Pl+Gen+PxSg1: аванень
      ава+N+Sg+Dat+PxSg1: [авазенди, авазти]
      ава+N+Pl+Dat+PxSg1: аваненди
-     ава+N+Abl+PxSg1: авадон
-     ава+N+Abe+PxSg1: авафтомон
-     ава+N+Comp+PxSg1: авашкан
-     ава+N+Ine+PxSg1: авасон
-     ава+N+Ela+PxSg1: авастон
-     ава+N+Ill+PxSg1: авазон
-     ава+N+Prl+PxSg1: ававан
+     ава+N+SP+Abl+PxSg1: авадон
+     ава+N+SP+Abe+PxSg1: авафтомон
+     ава+N+SP+Comp+PxSg1: авашкан
+     ава+N+SP+Ine+PxSg1: авасон
+     ава+N+SP+Ela+PxSg1: авастон
+     ава+N+SP+Ill+PxSg1: авазон
+     ава+N+SP+Prl+PxSg1: ававан
      ава+N+Sg+Nom+PxSg2: аваце
      ава+N+Pl+Nom+PxSg2: аватне
      ава+N+Sg+Gen+PxSg2: авацень
      ава+N+Pl+Gen+PxSg2: аватнень
-     ава+N+Abl+PxSg2: авадот
-     ава+N+Abe+PxSg2: авафтомот
-     ава+N+Comp+PxSg2: авашкат
-     ава+N+Ine+PxSg2: авасот
-     ава+N+Ela+PxSg2: авастот
-     ава+N+Ill+PxSg2: авазт
-     ава+N+Prl+PxSg2: авават
+     ава+N+SP+Abl+PxSg2: авадот
+     ава+N+SP+Abe+PxSg2: авафтомот
+     ава+N+SP+Comp+PxSg2: авашкат
+     ава+N+SP+Ine+PxSg2: авасот
+     ава+N+SP+Ela+PxSg2: авастот
+     ава+N+SP+Ill+PxSg2: авазт
+     ава+N+SP+Prl+PxSg2: авават
      ава+N+Sg+Nom+PxSg3: авац
      ава+N+Pl+Nom+PxSg3: аванза
      ава+N+Sg+Gen+PxSg3: аванц
      ава+N+Pl+Gen+PxSg3: аванзон
      ава+N+Sg+Dat+PxSg3: аванцты
      ава+N+Pl+Dat+PxSg3: аванзонды
-     ава+N+Abl+PxSg3: авадонза
-     ава+N+Abe+PxSg3: авафтомонза
-     ава+N+Comp+PxSg3: авашканза
-     ава+N+Ine+PxSg3: авасонза
-     ава+N+Ela+PxSg3: авастонза
-     ава+N+Ill+PxSg3: авазонза
-     ава+N+Prl+PxSg3: ававанза
-     ава+N+Nom+PxPl1: аваньке
-     ава+N+Gen+PxPl1: аваньконь
-     ава+N+Dat+PxPl1: аваньконди
-     ава+N+Abl+PxPl1: авадонк
-     ава+N+Abe+PxPl1: авафтомонк
-     ава+N+Comp+PxPl1: авашканк
-     ава+N+Ine+PxPl1: авасонк
-     ава+N+Ela+PxPl1: авастонк
-     ава+N+Ill+PxPl1: авазонк
-     ава+N+Prl+PxPl1: ававанк
-     ава+N+Nom+PxPl2: аванте
-     ава+N+Gen+PxPl2: авантень
-     ава+N+Dat+PxPl2: авантенди
-     ава+N+Abl+PxPl2: авадонт
-     ава+N+Abe+PxPl2: авафтомонт
-     ава+N+Comp+PxPl2: авашкант
-     ава+N+Ine+PxPl2: авасонт
-     ава+N+Ela+PxPl2: авастонт
-     ава+N+Ill+PxPl2: авазонт
-     ава+N+Prl+PxPl2: ававант
-     ава+N+Nom+PxPl3: авасна
-     ава+N+Gen+PxPl3: аваснон
-     ава+N+Dat+PxPl3: аваснонды
-     ава+N+Abl+PxPl3: авадост
-     ава+N+Abe+PxPl3: авафтомост
-     ава+N+Comp+PxPl3: авашкаст
-     ава+N+Ine+PxPl3: авасост
-     ава+N+Ela+PxPl3: авастост
-     ава+N+Ill+PxPl3: авазост
-     ава+N+Prl+PxPl3: ававаст
+     ава+N+SP+Abl+PxSg3: авадонза
+     ава+N+SP+Abe+PxSg3: авафтомонза
+     ава+N+SP+Comp+PxSg3: авашканза
+     ава+N+SP+Ine+PxSg3: авасонза
+     ава+N+SP+Ela+PxSg3: авастонза
+     ава+N+SP+Ill+PxSg3: авазонза
+     ава+N+SP+Prl+PxSg3: ававанза
+     ава+N+SP+Nom+PxPl1: аваньке
+     ава+N+SP+Gen+PxPl1: аваньконь
+     ава+N+SP+Dat+PxPl1: аваньконди
+     ава+N+SP+Abl+PxPl1: авадонк
+     ава+N+SP+Abe+PxPl1: авафтомонк
+     ава+N+SP+Comp+PxPl1: авашканк
+     ава+N+SP+Ine+PxPl1: авасонк
+     ава+N+SP+Ela+PxPl1: авастонк
+     ава+N+SP+Ill+PxPl1: авазонк
+     ава+N+SP+Prl+PxPl1: ававанк
+     ава+N+SP+Nom+PxPl2: аванте
+     ава+N+SP+Gen+PxPl2: авантень
+     ава+N+SP+Dat+PxPl2: авантенди
+     ава+N+SP+Abl+PxPl2: авадонт
+     ава+N+SP+Abe+PxPl2: авафтомонт
+     ава+N+SP+Comp+PxPl2: авашкант
+     ава+N+SP+Ine+PxPl2: авасонт
+     ава+N+SP+Ela+PxPl2: авастонт
+     ава+N+SP+Ill+PxPl2: авазонт
+     ава+N+SP+Prl+PxPl2: ававант
+     ава+N+SP+Nom+PxPl3: авасна
+     ава+N+SP+Gen+PxPl3: аваснон
+     ава+N+SP+Dat+PxPl3: аваснонды
+     ава+N+SP+Abl+PxPl3: авадост
+     ава+N+SP+Abe+PxPl3: авафтомост
+     ава+N+SP+Comp+PxPl3: авашкаст
+     ава+N+SP+Ine+PxPl3: авасост
+     ава+N+SP+Ela+PxPl3: авастост
+     ава+N+SP+Ill+PxPl3: авазост
+     ава+N+SP+Prl+PxPl3: ававаст
      ава+N+Pl+Nom+Indef: ават
      ава+N+Sg+Nom+Def: авась
      ава+N+Sg+Gen+Def: авать
@@ -102,83 +102,83 @@ Tests:
      ава+N+Pl+Gen+Def: аватнень
      ава+N+Pl+Dat+Def: аватненди    
      ава+N+Sg+Nom+Indef+Foc/вок: ававок
-     ава+N+Gen+Indef+Foc/вок: аваньвок
-     ава+N+Abl+Indef+Foc/вок: авадовок
-     ава+N+Dat+Indef+Foc/вок: авандивок
-     ава+N+Abe+Indef+Foc/вок: авафтомовок
-     ава+N+Comp+Indef+Foc/вок: авашкавок
-     ава+N+Ine+Indef+Foc/вок: авасовок
-     ава+N+Ela+Indef+Foc/вок: авастовок
-     ава+N+Ill+Indef+Foc/вок: авасвок
-     ава+N+Prl+Indef+Foc/вок: авававок
-     ава+N+Tra+Indef+Foc/вок: аваксвок
+     ава+N+SP+Gen+Indef+Foc/вок: аваньвок
+     ава+N+SP+Abl+Indef+Foc/вок: авадовок
+     ава+N+SP+Dat+Indef+Foc/вок: авандивок
+     ава+N+SP+Abe+Indef+Foc/вок: авафтомовок
+     ава+N+SP+Comp+Indef+Foc/вок: авашкавок
+     ава+N+SP+Ine+Indef+Foc/вок: авасовок
+     ава+N+SP+Ela+Indef+Foc/вок: авастовок
+     ава+N+SP+Ill+Indef+Foc/вок: авасвок
+     ава+N+SP+Prl+Indef+Foc/вок: авававок
+     ава+N+SP+Tra+Indef+Foc/вок: аваксвок
      ава+N+Sg+Nom+PxSg1+Foc/вок: авазевок
      ава+N+Pl+Nom+PxSg1+Foc/вок: аваневок
      ава+N+Sg+Gen+PxSg1+Foc/вок: авазеньвок
      ава+N+Pl+Gen+PxSg1+Foc/вок: аваненьвок
      ава+N+Sg+Dat+PxSg1+Foc/вок: [авазендивок, авазтивок]
      ава+N+Pl+Dat+PxSg1+Foc/вок: аванендивок
-     ава+N+Abl+PxSg1+Foc/вок: авадонвок
-     ава+N+Abe+PxSg1+Foc/вок: авафтомонвок
-     ава+N+Comp+PxSg1+Foc/вок: авашканвок
-     ава+N+Ine+PxSg1+Foc/вок: авасонвок
-     ава+N+Ela+PxSg1+Foc/вок: авастонвок
-     ава+N+Ill+PxSg1+Foc/вок: авазонвок
-     ава+N+Prl+PxSg1+Foc/вок: ававанвок
+     ава+N+SP+Abl+PxSg1+Foc/вок: авадонвок
+     ава+N+SP+Abe+PxSg1+Foc/вок: авафтомонвок
+     ава+N+SP+Comp+PxSg1+Foc/вок: авашканвок
+     ава+N+SP+Ine+PxSg1+Foc/вок: авасонвок
+     ава+N+SP+Ela+PxSg1+Foc/вок: авастонвок
+     ава+N+SP+Ill+PxSg1+Foc/вок: авазонвок
+     ава+N+SP+Prl+PxSg1+Foc/вок: ававанвок
      ава+N+Sg+Nom+PxSg2+Foc/вок: авацевок
      ава+N+Pl+Nom+PxSg2+Foc/вок: аватневок
      ава+N+Sg+Gen+PxSg2+Foc/вок: аваценьвок
      ава+N+Pl+Gen+PxSg2+Foc/вок: аватненьвок
-     ава+N+Abl+PxSg2+Foc/вок: авадотвок
-     ава+N+Abe+PxSg2+Foc/вок: авафтомотвок
-     ава+N+Comp+PxSg2+Foc/вок: авашкатвок
-     ава+N+Ine+PxSg2+Foc/вок: авасотвок
-     ава+N+Ela+PxSg2+Foc/вок: авастотвок
-     ава+N+Ill+PxSg2+Foc/вок: авазтвок
-     ава+N+Prl+PxSg2+Foc/вок: ававатвок
+     ава+N+SP+Abl+PxSg2+Foc/вок: авадотвок
+     ава+N+SP+Abe+PxSg2+Foc/вок: авафтомотвок
+     ава+N+SP+Comp+PxSg2+Foc/вок: авашкатвок
+     ава+N+SP+Ine+PxSg2+Foc/вок: авасотвок
+     ава+N+SP+Ela+PxSg2+Foc/вок: авастотвок
+     ава+N+SP+Ill+PxSg2+Foc/вок: авазтвок
+     ава+N+SP+Prl+PxSg2+Foc/вок: ававатвок
      ава+N+Sg+Nom+PxSg3+Foc/вок: авацвок
      ава+N+Pl+Nom+PxSg3+Foc/вок: аванзовок
      ава+N+Sg+Gen+PxSg3+Foc/вок: аванцвок
      ава+N+Pl+Gen+PxSg3+Foc/вок: аванзонвок
      ава+N+Sg+Dat+PxSg3+Foc/вок: аванцтывок
      ава+N+Pl+Dat+PxSg3+Foc/вок: аванзондывок
-     ава+N+Abl+PxSg3+Foc/вок: авадонзовок
-     ава+N+Abe+PxSg3+Foc/вок: авафтомонзовок
-     ава+N+Comp+PxSg3+Foc/вок: авашканзовок
-     ава+N+Ine+PxSg3+Foc/вок: авасонзовок
-     ава+N+Ela+PxSg3+Foc/вок: авастонзовок
-     ава+N+Ill+PxSg3+Foc/вок: авазонзовок
-     ава+N+Prl+PxSg3+Foc/вок: ававанзовок
-     ава+N+Nom+PxPl1+Foc/вок: аванькевок
-     ава+N+Gen+PxPl1+Foc/вок: аваньконьвок
-     ава+N+Dat+PxPl1+Foc/вок: аванькондивок
-     ава+N+Abl+PxPl1+Foc/вок: авадонквок
-     ава+N+Abe+PxPl1+Foc/вок: авафтомонквок
-     ава+N+Comp+PxPl1+Foc/вок: авашканквок
-     ава+N+Ine+PxPl1+Foc/вок: авасонквок
-     ава+N+Ela+PxPl1+Foc/вок: авастонквок
-     ава+N+Ill+PxPl1+Foc/вок: авазонквок
-     ава+N+Prl+PxPl1+Foc/вок: ававанквок
-     ава+N+Nom+PxPl2+Foc/вок: авантевок
-     ава+N+Gen+PxPl2+Foc/вок: авантеньвок
-     ава+N+Dat+PxPl2+Foc/вок: авантендивок
-     ава+N+Abl+PxPl2+Foc/вок: авадонтвок
-     ава+N+Abe+PxPl2+Foc/вок: авафтомонтвок
-     ава+N+Comp+PxPl2+Foc/вок: авашкантвок
-     ава+N+Ine+PxPl2+Foc/вок: авасонтвок
-     ава+N+Ela+PxPl2+Foc/вок: авастонтвок
-     ава+N+Ill+PxPl2+Foc/вок: авазонтвок
-     ава+N+Prl+PxPl2+Foc/вок: ававантвок
-     ава+N+Nom+PxPl3+Foc/вок: авасновок
-     ава+N+Gen+PxPl3+Foc/вок: аваснонвок
-     ава+N+Dat+PxPl3+Foc/вок: аваснондывок
-     ава+N+Abl+PxPl3+Foc/вок: авадоствок
-     ава+N+Abe+PxPl3+Foc/вок: авафтомоствок
-     ава+N+Comp+PxPl3+Foc/вок: авашкаствок
-     ава+N+Ine+PxPl3+Foc/вок: авасоствок
-     ава+N+Ela+PxPl3+Foc/вок: авастоствок
-     ава+N+Ill+PxPl3+Foc/вок: авазоствок
-     ава+N+Prl+PxPl3+Foc/вок: ававаствок
+     ава+N+SP+Abl+PxSg3+Foc/вок: авадонзовок
+     ава+N+SP+Abe+PxSg3+Foc/вок: авафтомонзовок
+     ава+N+SP+Comp+PxSg3+Foc/вок: авашканзовок
+     ава+N+SP+Ine+PxSg3+Foc/вок: авасонзовок
+     ава+N+SP+Ela+PxSg3+Foc/вок: авастонзовок
+     ава+N+SP+Ill+PxSg3+Foc/вок: авазонзовок
+     ава+N+SP+Prl+PxSg3+Foc/вок: ававанзовок
+     ава+N+SP+Nom+PxPl1+Foc/вок: аванькевок
+     ава+N+SP+Gen+PxPl1+Foc/вок: аваньконьвок
+     ава+N+SP+Dat+PxPl1+Foc/вок: аванькондивок
+     ава+N+SP+Abl+PxPl1+Foc/вок: авадонквок
+     ава+N+SP+Abe+PxPl1+Foc/вок: авафтомонквок
+     ава+N+SP+Comp+PxPl1+Foc/вок: авашканквок
+     ава+N+SP+Ine+PxPl1+Foc/вок: авасонквок
+     ава+N+SP+Ela+PxPl1+Foc/вок: авастонквок
+     ава+N+SP+Ill+PxPl1+Foc/вок: авазонквок
+     ава+N+SP+Prl+PxPl1+Foc/вок: ававанквок
+     ава+N+SP+Nom+PxPl2+Foc/вок: авантевок
+     ава+N+SP+Gen+PxPl2+Foc/вок: авантеньвок
+     ава+N+SP+Dat+PxPl2+Foc/вок: авантендивок
+     ава+N+SP+Abl+PxPl2+Foc/вок: авадонтвок
+     ава+N+SP+Abe+PxPl2+Foc/вок: авафтомонтвок
+     ава+N+SP+Comp+PxPl2+Foc/вок: авашкантвок
+     ава+N+SP+Ine+PxPl2+Foc/вок: авасонтвок
+     ава+N+SP+Ela+PxPl2+Foc/вок: авастонтвок
+     ава+N+SP+Ill+PxPl2+Foc/вок: авазонтвок
+     ава+N+SP+Prl+PxPl2+Foc/вок: ававантвок
+     ава+N+SP+Nom+PxPl3+Foc/вок: авасновок
+     ава+N+SP+Gen+PxPl3+Foc/вок: аваснонвок
+     ава+N+SP+Dat+PxPl3+Foc/вок: аваснондывок
+     ава+N+SP+Abl+PxPl3+Foc/вок: авадоствок
+     ава+N+SP+Abe+PxPl3+Foc/вок: авафтомоствок
+     ава+N+SP+Comp+PxPl3+Foc/вок: авашкаствок
+     ава+N+SP+Ine+PxPl3+Foc/вок: авасоствок
+     ава+N+SP+Ela+PxPl3+Foc/вок: авастоствок
+     ава+N+SP+Ill+PxPl3+Foc/вок: авазоствок
+     ава+N+SP+Prl+PxPl3+Foc/вок: ававаствок
      ава+N+Pl+Nom+Indef+Foc/вок: аватвок
      ава+N+Sg+Nom+Def+Foc/вок: авасьвок
      ава+N+Sg+Gen+Def+Foc/вок: аватьвок
