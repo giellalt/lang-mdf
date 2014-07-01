@@ -17,83 +17,83 @@ Tests:
 
   Noun - вал: # Ordinary nouns 'word' - full paradigm including MWN
      вал+N+Sg+Nom+Indef: вал
-     вал+N+Gen+Indef: валонь
-     вал+N+Abl+Indef: валда
-     вал+N+Dat+Indef: валонди
-     вал+N+Abe+Indef: валфтома
-     вал+N+Comp+Indef: валшка
-     вал+N+Ine+Indef: валса
-     вал+N+Ela+Indef: валста
-     вал+N+Ill+Indef: валс
-     вал+N+Prl+Indef: валга
-     вал+N+Tra+Indef: валкс
+     вал+N+SP+Gen+Indef: валонь
+     вал+N+SP+Abl+Indef: валда
+     вал+N+SP+Dat+Indef: валонди
+     вал+N+SP+Abe+Indef: валфтома
+     вал+N+SP+Comp+Indef: валшка
+     вал+N+SP+Ine+Indef: валса
+     вал+N+SP+Ela+Indef: валста
+     вал+N+SP+Ill+Indef: валс
+     вал+N+SP+Prl+Indef: валга
+     вал+N+SP+Tra+Indef: валкс
      вал+N+Sg+Nom+PxSg1: валозе
      вал+N+Pl+Nom+PxSg1: валоне
      вал+N+Sg+Gen+PxSg1: валозень
      вал+N+Pl+Gen+PxSg1: валонень
      вал+N+Sg+Dat+PxSg1: [валозенди, валозти]
      вал+N+Pl+Dat+PxSg1: валоненди
-     вал+N+Abl+PxSg1: валдон
-     вал+N+Abe+PxSg1: валфтомон
-     вал+N+Comp+PxSg1: валшкан
-     вал+N+Ine+PxSg1: валсон
-     вал+N+Ela+PxSg1: валстон
-     вал+N+Ill+PxSg1: валозон
-     вал+N+Prl+PxSg1: валган
+     вал+N+SP+Abl+PxSg1: валдон
+     вал+N+SP+Abe+PxSg1: валфтомон
+     вал+N+SP+Comp+PxSg1: валшкан
+     вал+N+SP+Ine+PxSg1: валсон
+     вал+N+SP+Ela+PxSg1: валстон
+     вал+N+SP+Ill+PxSg1: валозон
+     вал+N+SP+Prl+PxSg1: валган
      вал+N+Sg+Nom+PxSg2: валце
      вал+N+Pl+Nom+PxSg2: валтне
      вал+N+Sg+Gen+PxSg2: валцень
      вал+N+Pl+Gen+PxSg2: валтнень
-     вал+N+Abl+PxSg2: валдот
-     вал+N+Abe+PxSg2: валфтомот
-     вал+N+Comp+PxSg2: валшкат
-     вал+N+Ine+PxSg2: валсот
-     вал+N+Ela+PxSg2: валстот
-     вал+N+Ill+PxSg2: валозт
-     вал+N+Prl+PxSg2: валгат
+     вал+N+SP+Abl+PxSg2: валдот
+     вал+N+SP+Abe+PxSg2: валфтомот
+     вал+N+SP+Comp+PxSg2: валшкат
+     вал+N+SP+Ine+PxSg2: валсот
+     вал+N+SP+Ela+PxSg2: валстот
+     вал+N+SP+Ill+PxSg2: валозт
+     вал+N+SP+Prl+PxSg2: валгат
      вал+N+Sg+Nom+PxSg3: валоц
      вал+N+Pl+Nom+PxSg3: валонза
      вал+N+Sg+Gen+PxSg3: валонц
      вал+N+Pl+Gen+PxSg3: валонзон
      вал+N+Sg+Dat+PxSg3: валонцты
      вал+N+Pl+Dat+PxSg3: валонзонды
-     вал+N+Abl+PxSg3: валдонза
-     вал+N+Abe+PxSg3: валфтомонза
-     вал+N+Comp+PxSg3: валшканза
-     вал+N+Ine+PxSg3: валсонза
-     вал+N+Ela+PxSg3: валстонза
-     вал+N+Ill+PxSg3: валозонза
-     вал+N+Prl+PxSg3: валганза
-     вал+N+Nom+PxPl1: валоньке
-     вал+N+Gen+PxPl1: валоньконь
-     вал+N+Dat+PxPl1: валоньконди
-     вал+N+Abl+PxPl1: валдонк
-     вал+N+Abe+PxPl1: валфтомонк
-     вал+N+Comp+PxPl1: валшканк
-     вал+N+Ine+PxPl1: валсонк
-     вал+N+Ela+PxPl1: валстонк
-     вал+N+Ill+PxPl1: валозонк
-     вал+N+Prl+PxPl1: валганк
-     вал+N+Nom+PxPl2: валонте
-     вал+N+Gen+PxPl2: валонтень
-     вал+N+Dat+PxPl2: валонтенди
-     вал+N+Abl+PxPl2: валдонт
-     вал+N+Abe+PxPl2: валфтомонт
-     вал+N+Comp+PxPl2: валшкант
-     вал+N+Ine+PxPl2: валсонт
-     вал+N+Ela+PxPl2: валстонт
-     вал+N+Ill+PxPl2: валозонт
-     вал+N+Prl+PxPl2: валгант
-     вал+N+Nom+PxPl3: валсна
-     вал+N+Gen+PxPl3: валснон
-     вал+N+Dat+PxPl3: валснонды
-     вал+N+Abl+PxPl3: валдост
-     вал+N+Abe+PxPl3: валфтомост
-     вал+N+Comp+PxPl3: валшкаст
-     вал+N+Ine+PxPl3: валсост
-     вал+N+Ela+PxPl3: валстост
-     вал+N+Ill+PxPl3: валозост
-     вал+N+Prl+PxPl3: валгаст
+     вал+N+SP+Abl+PxSg3: валдонза
+     вал+N+SP+Abe+PxSg3: валфтомонза
+     вал+N+SP+Comp+PxSg3: валшканза
+     вал+N+SP+Ine+PxSg3: валсонза
+     вал+N+SP+Ela+PxSg3: валстонза
+     вал+N+SP+Ill+PxSg3: валозонза
+     вал+N+SP+Prl+PxSg3: валганза
+     вал+N+SP+Nom+PxPl1: валоньке
+     вал+N+SP+Gen+PxPl1: валоньконь
+     вал+N+SP+Dat+PxPl1: валоньконди
+     вал+N+SP+Abl+PxPl1: валдонк
+     вал+N+SP+Abe+PxPl1: валфтомонк
+     вал+N+SP+Comp+PxPl1: валшканк
+     вал+N+SP+Ine+PxPl1: валсонк
+     вал+N+SP+Ela+PxPl1: валстонк
+     вал+N+SP+Ill+PxPl1: валозонк
+     вал+N+SP+Prl+PxPl1: валганк
+     вал+N+SP+Nom+PxPl2: валонте
+     вал+N+SP+Gen+PxPl2: валонтень
+     вал+N+SP+Dat+PxPl2: валонтенди
+     вал+N+SP+Abl+PxPl2: валдонт
+     вал+N+SP+Abe+PxPl2: валфтомонт
+     вал+N+SP+Comp+PxPl2: валшкант
+     вал+N+SP+Ine+PxPl2: валсонт
+     вал+N+SP+Ela+PxPl2: валстонт
+     вал+N+SP+Ill+PxPl2: валозонт
+     вал+N+SP+Prl+PxPl2: валгант
+     вал+N+SP+Nom+PxPl3: валсна
+     вал+N+SP+Gen+PxPl3: валснон
+     вал+N+SP+Dat+PxPl3: валснонды
+     вал+N+SP+Abl+PxPl3: валдост
+     вал+N+SP+Abe+PxPl3: валфтомост
+     вал+N+SP+Comp+PxPl3: валшкаст
+     вал+N+SP+Ine+PxPl3: валсост
+     вал+N+SP+Ela+PxPl3: валстост
+     вал+N+SP+Ill+PxPl3: валозост
+     вал+N+SP+Prl+PxPl3: валгаст
      вал+N+Pl+Nom+Indef: валхт
      вал+N+Sg+Nom+Def: валсь
      вал+N+Sg+Gen+Def: валть
@@ -102,83 +102,83 @@ Tests:
      вал+N+Pl+Gen+Def: валхнень
      вал+N+Pl+Dat+Def: валхненди    
      вал+N+Sg+Nom+Indef+Foc/вок: валвок
-     вал+N+Gen+Indef+Foc/вок: валоньвок
-     вал+N+Abl+Indef+Foc/вок: валдовок
-     вал+N+Dat+Indef+Foc/вок: валондивок
-     вал+N+Abe+Indef+Foc/вок: валфтомовок
-     вал+N+Comp+Indef+Foc/вок: валшкавок
-     вал+N+Ine+Indef+Foc/вок: валсовок
-     вал+N+Ela+Indef+Foc/вок: валстовок
-     вал+N+Ill+Indef+Foc/вок: валсвок
-     вал+N+Prl+Indef+Foc/вок: валгавок
-     вал+N+Tra+Indef+Foc/вок: валксвок
+     вал+N+SP+Gen+Indef+Foc/вок: валоньвок
+     вал+N+SP+Abl+Indef+Foc/вок: валдовок
+     вал+N+SP+Dat+Indef+Foc/вок: валондивок
+     вал+N+SP+Abe+Indef+Foc/вок: валфтомовок
+     вал+N+SP+Comp+Indef+Foc/вок: валшкавок
+     вал+N+SP+Ine+Indef+Foc/вок: валсовок
+     вал+N+SP+Ela+Indef+Foc/вок: валстовок
+     вал+N+SP+Ill+Indef+Foc/вок: валсвок
+     вал+N+SP+Prl+Indef+Foc/вок: валгавок
+     вал+N+SP+Tra+Indef+Foc/вок: валксвок
      вал+N+Sg+Nom+PxSg1+Foc/вок: валозевок
      вал+N+Pl+Nom+PxSg1+Foc/вок: валоневок
      вал+N+Sg+Gen+PxSg1+Foc/вок: валозеньвок
      вал+N+Pl+Gen+PxSg1+Foc/вок: валоненьвок
      вал+N+Sg+Dat+PxSg1+Foc/вок: [валозендивок, валозтивок]
      вал+N+Pl+Dat+PxSg1+Foc/вок: валонендивок
-     вал+N+Abl+PxSg1+Foc/вок: валдонвок
-     вал+N+Abe+PxSg1+Foc/вок: валфтомонвок
-     вал+N+Comp+PxSg1+Foc/вок: валшканвок
-     вал+N+Ine+PxSg1+Foc/вок: валсонвок
-     вал+N+Ela+PxSg1+Foc/вок: валстонвок
-     вал+N+Ill+PxSg1+Foc/вок: валозонвок
-     вал+N+Prl+PxSg1+Foc/вок: валганвок
+     вал+N+SP+Abl+PxSg1+Foc/вок: валдонвок
+     вал+N+SP+Abe+PxSg1+Foc/вок: валфтомонвок
+     вал+N+SP+Comp+PxSg1+Foc/вок: валшканвок
+     вал+N+SP+Ine+PxSg1+Foc/вок: валсонвок
+     вал+N+SP+Ela+PxSg1+Foc/вок: валстонвок
+     вал+N+SP+Ill+PxSg1+Foc/вок: валозонвок
+     вал+N+SP+Prl+PxSg1+Foc/вок: валганвок
      вал+N+Sg+Nom+PxSg2+Foc/вок: валцевок
      вал+N+Pl+Nom+PxSg2+Foc/вок: валтневок
      вал+N+Sg+Gen+PxSg2+Foc/вок: валценьвок
      вал+N+Pl+Gen+PxSg2+Foc/вок: валтненьвок
-     вал+N+Abl+PxSg2+Foc/вок: валдотвок
-     вал+N+Abe+PxSg2+Foc/вок: валфтомотвок
-     вал+N+Comp+PxSg2+Foc/вок: валшкатвок
-     вал+N+Ine+PxSg2+Foc/вок: валсотвок
-     вал+N+Ela+PxSg2+Foc/вок: валстотвок
-     вал+N+Ill+PxSg2+Foc/вок: валозтвок
-     вал+N+Prl+PxSg2+Foc/вок: валгатвок
+     вал+N+SP+Abl+PxSg2+Foc/вок: валдотвок
+     вал+N+SP+Abe+PxSg2+Foc/вок: валфтомотвок
+     вал+N+SP+Comp+PxSg2+Foc/вок: валшкатвок
+     вал+N+SP+Ine+PxSg2+Foc/вок: валсотвок
+     вал+N+SP+Ela+PxSg2+Foc/вок: валстотвок
+     вал+N+SP+Ill+PxSg2+Foc/вок: валозтвок
+     вал+N+SP+Prl+PxSg2+Foc/вок: валгатвок
      вал+N+Sg+Nom+PxSg3+Foc/вок: валоцвок
      вал+N+Pl+Nom+PxSg3+Foc/вок: валонзовок
      вал+N+Sg+Gen+PxSg3+Foc/вок: валонцвок
      вал+N+Pl+Gen+PxSg3+Foc/вок: валонзонвок
      вал+N+Sg+Dat+PxSg3+Foc/вок: валонцтывок
      вал+N+Pl+Dat+PxSg3+Foc/вок: валонзондывок
-     вал+N+Abl+PxSg3+Foc/вок: валдонзовок
-     вал+N+Abe+PxSg3+Foc/вок: валфтомонзовок
-     вал+N+Comp+PxSg3+Foc/вок: валшканзовок
-     вал+N+Ine+PxSg3+Foc/вок: валсонзовок
-     вал+N+Ela+PxSg3+Foc/вок: валстонзовок
-     вал+N+Ill+PxSg3+Foc/вок: валозонзовок
-     вал+N+Prl+PxSg3+Foc/вок: валганзовок
-     вал+N+Nom+PxPl1+Foc/вок: валонькевок
-     вал+N+Gen+PxPl1+Foc/вок: валоньконьвок
-     вал+N+Dat+PxPl1+Foc/вок: валонькондивок
-     вал+N+Abl+PxPl1+Foc/вок: валдонквок
-     вал+N+Abe+PxPl1+Foc/вок: валфтомонквок
-     вал+N+Comp+PxPl1+Foc/вок: валшканквок
-     вал+N+Ine+PxPl1+Foc/вок: валсонквок
-     вал+N+Ela+PxPl1+Foc/вок: валстонквок
-     вал+N+Ill+PxPl1+Foc/вок: валозонквок
-     вал+N+Prl+PxPl1+Foc/вок: валганквок
-     вал+N+Nom+PxPl2+Foc/вок: валонтевок
-     вал+N+Gen+PxPl2+Foc/вок: валонтеньвок
-     вал+N+Dat+PxPl2+Foc/вок: валонтендивок
-     вал+N+Abl+PxPl2+Foc/вок: валдонтвок
-     вал+N+Abe+PxPl2+Foc/вок: валфтомонтвок
-     вал+N+Comp+PxPl2+Foc/вок: валшкантвок
-     вал+N+Ine+PxPl2+Foc/вок: валсонтвок
-     вал+N+Ela+PxPl2+Foc/вок: валстонтвок
-     вал+N+Ill+PxPl2+Foc/вок: валозонтвок
-     вал+N+Prl+PxPl2+Foc/вок: валгантвок
-     вал+N+Nom+PxPl3+Foc/вок: валсновок
-     вал+N+Gen+PxPl3+Foc/вок: валснонвок
-     вал+N+Dat+PxPl3+Foc/вок: валснондывок
-     вал+N+Abl+PxPl3+Foc/вок: валдоствок
-     вал+N+Abe+PxPl3+Foc/вок: валфтомоствок
-     вал+N+Comp+PxPl3+Foc/вок: валшкаствок
-     вал+N+Ine+PxPl3+Foc/вок: валсоствок
-     вал+N+Ela+PxPl3+Foc/вок: валстоствок
-     вал+N+Ill+PxPl3+Foc/вок: валозоствок
-     вал+N+Prl+PxPl3+Foc/вок: валгаствок
+     вал+N+SP+Abl+PxSg3+Foc/вок: валдонзовок
+     вал+N+SP+Abe+PxSg3+Foc/вок: валфтомонзовок
+     вал+N+SP+Comp+PxSg3+Foc/вок: валшканзовок
+     вал+N+SP+Ine+PxSg3+Foc/вок: валсонзовок
+     вал+N+SP+Ela+PxSg3+Foc/вок: валстонзовок
+     вал+N+SP+Ill+PxSg3+Foc/вок: валозонзовок
+     вал+N+SP+Prl+PxSg3+Foc/вок: валганзовок
+     вал+N+SP+Nom+PxPl1+Foc/вок: валонькевок
+     вал+N+SP+Gen+PxPl1+Foc/вок: валоньконьвок
+     вал+N+SP+Dat+PxPl1+Foc/вок: валонькондивок
+     вал+N+SP+Abl+PxPl1+Foc/вок: валдонквок
+     вал+N+SP+Abe+PxPl1+Foc/вок: валфтомонквок
+     вал+N+SP+Comp+PxPl1+Foc/вок: валшканквок
+     вал+N+SP+Ine+PxPl1+Foc/вок: валсонквок
+     вал+N+SP+Ela+PxPl1+Foc/вок: валстонквок
+     вал+N+SP+Ill+PxPl1+Foc/вок: валозонквок
+     вал+N+SP+Prl+PxPl1+Foc/вок: валганквок
+     вал+N+SP+Nom+PxPl2+Foc/вок: валонтевок
+     вал+N+SP+Gen+PxPl2+Foc/вок: валонтеньвок
+     вал+N+SP+Dat+PxPl2+Foc/вок: валонтендивок
+     вал+N+SP+Abl+PxPl2+Foc/вок: валдонтвок
+     вал+N+SP+Abe+PxPl2+Foc/вок: валфтомонтвок
+     вал+N+SP+Comp+PxPl2+Foc/вок: валшкантвок
+     вал+N+SP+Ine+PxPl2+Foc/вок: валсонтвок
+     вал+N+SP+Ela+PxPl2+Foc/вок: валстонтвок
+     вал+N+SP+Ill+PxPl2+Foc/вок: валозонтвок
+     вал+N+SP+Prl+PxPl2+Foc/вок: валгантвок
+     вал+N+SP+Nom+PxPl3+Foc/вок: валсновок
+     вал+N+SP+Gen+PxPl3+Foc/вок: валснонвок
+     вал+N+SP+Dat+PxPl3+Foc/вок: валснондывок
+     вал+N+SP+Abl+PxPl3+Foc/вок: валдоствок
+     вал+N+SP+Abe+PxPl3+Foc/вок: валфтомоствок
+     вал+N+SP+Comp+PxPl3+Foc/вок: валшкаствок
+     вал+N+SP+Ine+PxPl3+Foc/вок: валсоствок
+     вал+N+SP+Ela+PxPl3+Foc/вок: валстоствок
+     вал+N+SP+Ill+PxPl3+Foc/вок: валозоствок
+     вал+N+SP+Prl+PxPl3+Foc/вок: валгаствок
      вал+N+Pl+Nom+Indef+Foc/вок: валхтвок
      вал+N+Sg+Nom+Def+Foc/вок: валсьвок
      вал+N+Sg+Gen+Def+Foc/вок: валтьвок

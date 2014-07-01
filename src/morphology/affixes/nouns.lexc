@@ -73,7 +73,8 @@ LEXICON N_ОШ-PL
 +N: NMN_ОШ-PL ;
 
 LEXICON N_КАЛ !!= @CODE@
- NMN_КАЛ ;
+ N_КАЛ-SG ;
+ N_КАЛ-PL ;
 +N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КАЛ-SG
@@ -267,19 +268,19 @@ LEXICON PXSG3
 
 
 LEXICON PXPL1
-+Nom+PxPl1:%>О1ньке K ;
-+Gen+PxPl1:%>О1ньконь K ;
-+Dat+PxPl1:%>О1ньконди K ;
++SP+Nom+PxPl1:%>О1ньке K ;
++SP+Gen+PxPl1:%>О1ньконь K ;
++SP+Dat+PxPl1:%>О1ньконди K ;
 
 LEXICON PXPL2
-+Nom+PxPl2:%>О1нте K ;
-+Gen+PxPl2:%>О1нте%>О1нь K ;
-+Dat+PxPl2:%>О1нте%>О1нди K ;
++SP+Nom+PxPl2:%>О1нте K ;
++SP+Gen+PxPl2:%>О1нте%>О1нь K ;
++SP+Dat+PxPl2:%>О1нте%>О1нди K ;
 
 LEXICON PXPL3
-+Nom+PxPl3:%>снО1 K ;
-+Gen+PxPl3:%>снО1%>О1н K ;
-+Dat+PxPl3:%>снО1%>О1нды K ;
++SP+Nom+PxPl3:%>снО1 K ;
++SP+Gen+PxPl3:%>снО1%>О1н K ;
++SP+Dat+PxPl3:%>снО1%>О1нды K ;
 
 
 LEXICON SG-NOM
