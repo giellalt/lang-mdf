@@ -22892,7 +22892,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">lyijy-</t>
+
+        <t pos="A">lyijyinen</t>
+
+        <t pos="A">tina-</t>
+
+        <t pos="A">helma-</t>
       </tg>
     </mg>
   </e>
@@ -22910,7 +22916,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">liukas</t>
       </tg>
     </mg>
   </e>
@@ -22930,9 +22936,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">1. kesäinen</t>
+        <t pos="A">kesäinen</t>
 
-        <t pos="A">kesä-.</t>
+        <t pos="A">kesä-</t>
       </tg>
     </mg>
 
@@ -22948,7 +22954,7 @@
 
         <phonet>kolma kizəń iď</phonet>
 
-        <xt xml:lang="fin">kolmivuotias lapsi.</xt>
+        <xt xml:lang="fin">kolmivuotias lapsi</xt>
       </xg>
 
       <xg>
@@ -22956,7 +22962,7 @@
 
         <phonet>kizəń-kiza</phonet>
 
-        <xt xml:lang="fin">vuosikausia, vuosikausiin.</xt>
+        <xt xml:lang="fin">vuosikausia, vuosikausiin</xt>
       </xg>
     </mg>
   </e>
@@ -22974,7 +22980,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">-vuotinen</t>
+
+        <t pos="A">-vuotias</t>
       </tg>
     </mg>
   </e>
@@ -22992,7 +23000,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">raidallinen</t>
+
+        <t pos="A">juovikas</t>
+
+        <t pos="A">viirukas</t>
       </tg>
     </mg>
   </e>
@@ -23010,7 +23022,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">pahkainen</t>
+
+        <t pos="A">kyhmyinen</t>
       </tg>
     </mg>
   </e>
@@ -23028,7 +23042,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">puhelias</t>
+
+        <t pos="A">keskimääräinen</t>
       </tg>
     </mg>
   </e>
