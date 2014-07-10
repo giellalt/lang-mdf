@@ -18,7 +18,7 @@
 
 
 Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
-!! 
+!!
 !! The morphological analyses of wordforms of the Moksha language are presented
 !! in this system in terms of following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
@@ -38,11 +38,11 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +V 		!!≈ ;@CODE@: verb
 
 !! The parts of speech are further split up into:
-!! 
+!!
 !! __Nouns:__
  +Prop 		!!≈ ;@CODE@: proper
  +CollN 	!!≈ ;@CODE@: used with paired nouns __collective nouns__
-!! 
+!!
 !! __Pronouns:__
  +Dem 		!!≈ ;@CODE@: demonstrative
  +Indef 	!!≈ ;@CODE@: indefinite
@@ -53,12 +53,12 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Recipr 	!!≈ ;@CODE@: reciprocal
  +Refl 		!!≈ ;@CODE@: reflexive
  +Rel 		!!≈ ;@CODE@: relative
-!! 
+!!
 !! personal pronouns use additional tags:
 !! {{{
  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 !!= @CODE@
 !! }}}
-!! 
+!!
 !! Adverbs:
  +Adv-Ideoph 	!!= ;@CODE@: These are ideophonic descriptors used to modify the verb:
             	!!           ''вырк ливтясь''  "__flit__ and it flew off"
@@ -69,16 +69,16 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
 ! Postpositions
 ! __+Spat__, __+Temp__
-!! 
+!!
 !! Interjections:
- +Formulaic  !!= ;@CODE@: greetings, 
-!! 
+ +Formulaic  !!= ;@CODE@: greetings,
+!!
 !! The Usage extents are marked using following tags:
  +Err/Sub    !!= ;@CODE@: substandard / outside the written norm
  +Use/-Spell !!= ;@CODE@: do not include in speller
 
  +Dial
-!! 
+!!
 !! The nominals are inflected in the following Case and Number
 ! number
  +Sg 		!!= ;@CODE@: singular
@@ -97,12 +97,12 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Gen 		!!= ;@CODE@: genitive
  +Ill 		!!= ;@CODE@: illative
  +Ine 		!!= ;@CODE@: inessive
- +Loc 		!!= ;@CODE@: locative 
+ +Loc 		!!= ;@CODE@: locative
  +Nom 		!!= ;@CODE@: nominative
  +Prl 		!!= ;@CODE@: prolative
  +Tra 		!!= ;@CODE@: translative
  +Voc 		!!= ;@CODE@: Vocative
- 
+
 !! The possession is marked as such:
  +PxSg1 	!!= ;@CODE@: first person singular
  +PxSg2 	!!= ;@CODE@: second person singular
@@ -111,14 +111,14 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +PxPl2 	!!= ;@CODE@: second person plural
  +PxPl3 	!!= ;@CODE@: third person plural
 
-!! 
+!!
 ! + InDef This has been changed to +Indef
  +Def 	!!= ;@CODE@: Definite
-!! 
+!!
 !! The comparative forms are:
  +Comp 		!!= ;@CODE@: comparative as opposed to superlative
  +Superl 	!!= ;@CODE@: superlative
-!! 
+!!
 
 !! Particles
 +Epist		!!= ;@CODE@: epistemic
@@ -134,13 +134,13 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Attr 		!!= ;@CODE@: attribute, premodifier
 !?? +Assoc ! +месть
 
-!! 
+!!
 !! Verb voice:
  +Act 	!!= ;@CODE@: active
  +Pss 	!!= ;@CODE@: passive
-!! 
+!!
 !! Verb moods are:
- +Cond 	!!= ;@CODE@: conditional ндяря- 
+ +Cond 	!!= ;@CODE@: conditional ндяря-
  +Conj 	!!= ;@CODE@: conjunctional "Оль"
  +Des 	!!= ;@CODE@: desiderative ксоль "was about to; wanted to"
  +Ind 	!!= ;@CODE@: indicative
@@ -171,7 +171,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +OcPl3 	!!= @CODE@ objject conjugation third person plural
 
 !! Other verb forms are
-  +ConNeg 	!!= @CODE@ connegative, main verb complement to Neg, 
+  +ConNeg 	!!= @CODE@ connegative, main verb complement to Neg,
   +Ger 	!!= @CODE@ gerund This is used with Der/Озь and VAbl
   +Inf    	!!= @CODE@ infinitive
   +Neg    	!!= @CODE@ verb of negation эзь, аволь, иля
@@ -198,7 +198,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! Question and Focus particles:
  +Qst +Foc
  +Foc/вок
- +Foc/Ге 
+ +Foc/Ге
 
 !! Semantics are classified with
  +Sem/Mal       !!= * @CODE@
@@ -387,7 +387,7 @@ LEXICON R
 ! ============ !
 
 
-! This contlex allows for relational word which, otherwise, are open 
+! This contlex allows for relational word which, otherwise, are open
 ! to extensive declension
 LEXICON PostpTag
 +Po: K ;
@@ -457,7 +457,7 @@ LEXICON DESCR_
 
 ! TODO: Integrate this in xml-files in working…
 
-!LEXICON SUBSTANDARDS 
+!LEXICON SUBSTANDARDS
 !коръя+Err/Sub:корья Noun1 ;
 
 
