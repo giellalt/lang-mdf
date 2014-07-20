@@ -3,7 +3,6 @@
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
 
 
-
 The morphological analyses of wordforms of the Moksha language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
@@ -23,11 +22,9 @@ The parts-of-speech are:
  ;+V 		: verb
 
 The parts of speech are further split up into:
-
 __Nouns:__
  ;+Prop 		: proper
  ;+CollN 	: used with paired nouns __collective nouns__
-
 __Pronouns:__
  ;+Dem 		: demonstrative
  ;+Indef 	: indefinite
@@ -38,12 +35,10 @@ __Pronouns:__
  ;+Recipr 	: reciprocal
  ;+Refl 		: reflexive
  ;+Rel 		: relative
-
 personal pronouns use additional tags:
 {{{
   +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
 }}}
-
 Adverbs:
  ; +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb:
           ''вырк ливтясь''  "__flit__ and it flew off"
@@ -52,14 +47,11 @@ Adverbs:
  ; +Spat 			: spatial
  ; +Temp 			: temporal
 
-
 Interjections:
- ; +Formulaic  : greetings, 
-
+ ; +Formulaic  : greetings,
 The Usage extents are marked using following tags:
  ; +Err/Sub    : substandard / outside the written norm
  ; +Use/-Spell : do not include in speller
-
 
 The nominals are inflected in the following Case and Number
  ; +Sg 		: singular
@@ -77,7 +69,7 @@ The nominals are inflected in the following Case and Number
  ; +Gen 		: genitive
  ; +Ill 		: illative
  ; +Ine 		: inessive
- ; +Loc 		: locative 
+ ; +Loc 		: locative
  ; +Nom 		: nominative
  ; +Prl 		: prolative
  ; +Tra 		: translative
@@ -91,13 +83,10 @@ The possession is marked as such:
  ; +PxPl2 	: second person plural
  ; +PxPl3 	: third person plural
 
-
  ; +Def 	: Definite
-
 The comparative forms are:
  ; +Comp 		: comparative as opposed to superlative
  ; +Superl 	: superlative
-
 
 Particles
  ;+Epist		: epistemic
@@ -112,13 +101,11 @@ Quantifiers and Numerals are classified under:
  ; +Ord 		: ordinal
  ; +Attr 		: attribute, premodifier
 
-
 Verb voice:
  ; +Act 	: active
  ; +Pss 	: passive
-
 Verb moods are:
- ; +Cond 	: conditional ндяря- 
+ ; +Cond 	: conditional ндяря-
  ; +Conj 	: conjunctional "Оль"
  ; +Des 	: desiderative ксоль "was about to; wanted to"
  ; +Ind 	: indicative
@@ -147,7 +134,7 @@ Verb personal forms are:
   +OcPl3 	 objject conjugation third person plural
 
 Other verb forms are
-   +ConNeg 	 connegative, main verb complement to Neg, 
+   +ConNeg 	 connegative, main verb complement to Neg,
    +Ger 	 gerund This is used with Der/Озь and VAbl
    +Inf    	 infinitive
    +Neg    	 verb of negation эзь, аволь, иля
