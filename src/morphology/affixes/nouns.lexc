@@ -84,7 +84,15 @@ LEXICON N_КАЛ-PL
 +N: NMN_КАЛ-PL ;
 
 LEXICON N_КЕЛУ !!= @CODE@
-+N: NMN_КАЛ ;
+ N_КЕЛУ-SG ;
+ N_КЕЛУ-PL ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_КЕЛУ-SG
++N: NMN_КЕЛУ-SG ;
+
+LEXICON N_КЕЛУ-PL
++N: NMN_КЕЛУ-PL ;
 
 !! NMN
 
@@ -127,6 +135,48 @@ LEXICON NMN_ОФТА-PL !!= @CODE@
 :%{АОЕ%} NMN-SG/PL   ;
          NMN-SG/PL   ;
 +Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
+
+LEXICON NMN_КЕЛУ
+	NMN_КЕЛУ-SG	;
+	NMN_КЕЛУ-PL	;
+	NMN_КЕЛУ-SG/PL	;
+!        NMN-SG ;
+!        NMN-PL ;
+!        NMN-SG/PL       ;
+
+
+LEXICON NMN_КЕЛУ-SG
+!! Indefinite
+! SG-NOM ;
+!! Definite Sg
+! SGCXDEF ;
+! PXSG1-Sg ;
+        NMN-SG ;
+!        NMN-SG/PL       ;
+        NMN_КЕЛУ-SG/PL  ;
+
+
+LEXICON NMN_КЕЛУ-PL
+!! Indefinite
+!+Pl:в PL-NOM ;
+!! Definite Pl
+!+Pl:в PLCXDEF ;
++Pl:в        NMN-PL       ;
+!        NMN-SG/PL       ;
+        NMN_КЕЛУ-SG/PL  ;
+
+
+LEXICON NMN_КЕЛУ-SG/PL
+:в NOTDEF-GEN ;
+ NOTDEF-DAT ;
+ NOTDEF-ABL ;
+ NOTDEF-ILL ;
+ NOTDEF-INE ;
+ NOTDEF-ELA ;
+ NOTDEF-ABE ;
+ NOTDEF-TRA ;
+ NOTDEF-CMP ;
+ NOTDEF-PRL ;
 
 LEXICON NMN_КАЛ
 !	NMN_КАЛ-SG	;
