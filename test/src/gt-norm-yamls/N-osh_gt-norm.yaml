@@ -1,0 +1,103 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+
+  Noun - ош: # Ordinary nouns 'city' - full paradigm including MWN
+     ош+N+Sg+Nom+Indef: ош
+     ош+N+SP+Gen+Indef: ошнь
+     ош+N+SP+Abl+Indef: ошда
+     ош+N+SP+Dat+Indef: ошнди
+     ош+N+SP+Abe+Indef: ошфтома
+     ош+N+SP+Comp+Indef: ошшка
+     ош+N+SP+Ine+Indef: ошса
+     ош+N+SP+Ela+Indef: ошста
+     ош+N+SP+Ill+Indef: ошс
+     ош+N+SP+Prl+Indef: ошва
+     ош+N+SP+Tra+Indef: ошкс
+     ош+N+Sg+Nom+PxSg1: ошзе
+     ош+N+Pl+Nom+PxSg1: ошне
+     ош+N+Sg+Gen+PxSg1: ошзень
+     ош+N+Pl+Gen+PxSg1: ошнень
+     ош+N+Sg+Dat+PxSg1: [ошзенди, ошзти]
+     ош+N+Pl+Dat+PxSg1: ошненди
+     ош+N+SP+Abl+PxSg1: ошдон
+     ош+N+SP+Abe+PxSg1: ошфтомон
+     ош+N+SP+Comp+PxSg1: ошшкан
+     ош+N+SP+Ine+PxSg1: ошсон
+     ош+N+SP+Ela+PxSg1: ошстон
+     ош+N+SP+Ill+PxSg1: ошзон
+     ош+N+SP+Prl+PxSg1: ошван
+     ош+N+Sg+Nom+PxSg2: ошце
+     ош+N+Pl+Nom+PxSg2: оштне
+     ош+N+Sg+Gen+PxSg2: ошцень
+     ош+N+Pl+Gen+PxSg2: оштнень
+     ош+N+SP+Abl+PxSg2: ошдот
+     ош+N+SP+Abe+PxSg2: ошфтомот
+     ош+N+SP+Comp+PxSg2: ошшкат
+     ош+N+SP+Ine+PxSg2: ошсот
+     ош+N+SP+Ela+PxSg2: ошстот
+     ош+N+SP+Ill+PxSg2: ошзт
+     ош+N+SP+Prl+PxSg2: ошват
+     ош+N+Sg+Nom+PxSg3: ошц
+     ош+N+Pl+Nom+PxSg3: ошнза
+     ош+N+Sg+Gen+PxSg3: ошнц
+     ош+N+Pl+Gen+PxSg3: ошнзон
+     ош+N+Sg+Dat+PxSg3: ошнцты
+     ош+N+Pl+Dat+PxSg3: ошнзонды
+     ош+N+SP+Abl+PxSg3: ошдонза
+     ош+N+SP+Abe+PxSg3: ошфтомонза
+     ош+N+SP+Comp+PxSg3: ошшканза
+     ош+N+SP+Ine+PxSg3: ошсонза
+     ош+N+SP+Ela+PxSg3: ошстонза
+     ош+N+SP+Ill+PxSg3: ошзонза
+     ош+N+SP+Prl+PxSg3: ошванза
+     ош+N+SP+Nom+PxPl1: ошньке
+     ош+N+SP+Gen+PxPl1: ошньконь
+     ош+N+SP+Dat+PxPl1: ошньконди
+     ош+N+SP+Abl+PxPl1: ошдонк
+     ош+N+SP+Abe+PxPl1: ошфтомонк
+     ош+N+SP+Comp+PxPl1: ошшканк
+     ош+N+SP+Ine+PxPl1: ошсонк
+     ош+N+SP+Ela+PxPl1: ошстонк
+     ош+N+SP+Ill+PxPl1: ошзонк
+     ош+N+SP+Prl+PxPl1: ошванк
+     ош+N+SP+Nom+PxPl2: ошнте
+     ош+N+SP+Gen+PxPl2: ошнтень
+     ош+N+SP+Dat+PxPl2: ошнтенди
+     ош+N+SP+Abl+PxPl2: ошдонт
+     ош+N+SP+Abe+PxPl2: ошфтомонт
+     ош+N+SP+Comp+PxPl2: ошшкант
+     ош+N+SP+Ine+PxPl2: ошсонт
+     ош+N+SP+Ela+PxPl2: ошстонт
+     ош+N+SP+Ill+PxPl2: ошзонт
+     ош+N+SP+Prl+PxPl2: ошвант
+     ош+N+SP+Nom+PxPl3: ошсна
+     ош+N+SP+Gen+PxPl3: ошснон
+     ош+N+SP+Dat+PxPl3: ошснонды
+     ош+N+SP+Abl+PxPl3: ошдост
+     ош+N+SP+Abe+PxPl3: ошфтомост
+     ош+N+SP+Comp+PxPl3: ошшкаст
+     ош+N+SP+Ine+PxPl3: ошсост
+     ош+N+SP+Ela+PxPl3: ошстост
+     ош+N+SP+Ill+PxPl3: ошзост
+     ош+N+SP+Prl+PxPl3: ошваст
+     ош+N+Pl+Nom+Indef: ошт
+     ош+N+Sg+Nom+Def: ошсь
+     ош+N+Sg+Gen+Def: ошть
+     ош+N+Sg+Dat+Def: ошти
+     ош+N+Pl+Nom+Def: оштне
+     ош+N+Pl+Gen+Def: оштнень
+     ош+N+Pl+Dat+Def: оштненди    
