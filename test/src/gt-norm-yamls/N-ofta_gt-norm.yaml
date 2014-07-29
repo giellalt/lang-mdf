@@ -1,0 +1,103 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+
+  Noun - офта: # Ordinary nouns 'bear' - full paradigm including MWN
+     офта+N+Sg+Nom+Indef: офта
+     офта+N+SP+Gen+Indef: офтонь
+     офта+N+SP+Abl+Indef: офтада
+     офта+N+SP+Dat+Indef: офтанди
+     офта+N+SP+Abe+Indef: офтафтома
+     офта+N+SP+Comp+Indef: офташка
+     офта+N+SP+Ine+Indef: офтаса
+     офта+N+SP+Ela+Indef: офтаста
+     офта+N+SP+Ill+Indef: офтас
+     офта+N+SP+Prl+Indef: офтава
+     офта+N+SP+Tra+Indef: офтакс
+     офта+N+Sg+Nom+PxSg1: офтазе
+     офта+N+Pl+Nom+PxSg1: офтане
+     офта+N+Sg+Gen+PxSg1: офтазень
+     офта+N+Pl+Gen+PxSg1: офтанень
+     офта+N+Sg+Dat+PxSg1: [офтазенди, офтазти]
+     офта+N+Pl+Dat+PxSg1: офтаненди
+     офта+N+SP+Abl+PxSg1: офтадон
+     офта+N+SP+Abe+PxSg1: офтафтомон
+     офта+N+SP+Comp+PxSg1: офташкан
+     офта+N+SP+Ine+PxSg1: офтасон
+     офта+N+SP+Ela+PxSg1: офтастон
+     офта+N+SP+Ill+PxSg1: офтазон
+     офта+N+SP+Prl+PxSg1: офтаван
+     офта+N+Sg+Nom+PxSg2: офтаце
+     офта+N+Pl+Nom+PxSg2: офтатне
+     офта+N+Sg+Gen+PxSg2: офтацень
+     офта+N+Pl+Gen+PxSg2: офтатнень
+     офта+N+SP+Abl+PxSg2: офтадот
+     офта+N+SP+Abe+PxSg2: офтафтомот
+     офта+N+SP+Comp+PxSg2: офташкат
+     офта+N+SP+Ine+PxSg2: офтасот
+     офта+N+SP+Ela+PxSg2: офтастот
+     офта+N+SP+Ill+PxSg2: офтазт
+     офта+N+SP+Prl+PxSg2: офтават
+     офта+N+Sg+Nom+PxSg3: офтац
+     офта+N+Pl+Nom+PxSg3: офтанза
+     офта+N+Sg+Gen+PxSg3: офтанц
+     офта+N+Pl+Gen+PxSg3: офтанзон
+     офта+N+Sg+Dat+PxSg3: офтанцты
+     офта+N+Pl+Dat+PxSg3: офтанзонды
+     офта+N+SP+Abl+PxSg3: офтадонза
+     офта+N+SP+Abe+PxSg3: офтафтомонза
+     офта+N+SP+Comp+PxSg3: офташканза
+     офта+N+SP+Ine+PxSg3: офтасонза
+     офта+N+SP+Ela+PxSg3: офтастонза
+     офта+N+SP+Ill+PxSg3: офтазонза
+     офта+N+SP+Prl+PxSg3: офтаванза
+     офта+N+SP+Nom+PxPl1: офтаньке
+     офта+N+SP+Gen+PxPl1: офтаньконь
+     офта+N+SP+Dat+PxPl1: офтаньконди
+     офта+N+SP+Abl+PxPl1: офтадонк
+     офта+N+SP+Abe+PxPl1: офтафтомонк
+     офта+N+SP+Comp+PxPl1: офташканк
+     офта+N+SP+Ine+PxPl1: офтасонк
+     офта+N+SP+Ela+PxPl1: офтастонк
+     офта+N+SP+Ill+PxPl1: офтазонк
+     офта+N+SP+Prl+PxPl1: офтаванк
+     офта+N+SP+Nom+PxPl2: офтанте
+     офта+N+SP+Gen+PxPl2: офтантень
+     офта+N+SP+Dat+PxPl2: офтантенди
+     офта+N+SP+Abl+PxPl2: офтадонт
+     офта+N+SP+Abe+PxPl2: офтафтомонт
+     офта+N+SP+Comp+PxPl2: офташкант
+     офта+N+SP+Ine+PxPl2: офтасонт
+     офта+N+SP+Ela+PxPl2: офтастонт
+     офта+N+SP+Ill+PxPl2: офтазонт
+     офта+N+SP+Prl+PxPl2: офтавант
+     офта+N+SP+Nom+PxPl3: офтасна
+     офта+N+SP+Gen+PxPl3: офтаснон
+     офта+N+SP+Dat+PxPl3: офтаснонды
+     офта+N+SP+Abl+PxPl3: офтадост
+     офта+N+SP+Abe+PxPl3: офтафтомост
+     офта+N+SP+Comp+PxPl3: офташкаст
+     офта+N+SP+Ine+PxPl3: офтасост
+     офта+N+SP+Ela+PxPl3: офтастост
+     офта+N+SP+Ill+PxPl3: офтазост
+     офта+N+SP+Prl+PxPl3: офтаваст
+     офта+N+Pl+Nom+Indef: офтат
+     офта+N+Sg+Nom+Def: офтась
+     офта+N+Sg+Gen+Def: офтать
+     офта+N+Sg+Dat+Def: офтати
+     офта+N+Pl+Nom+Def: офтатне
+     офта+N+Pl+Gen+Def: офтатнень
+     офта+N+Pl+Dat+Def: офтатненди    
