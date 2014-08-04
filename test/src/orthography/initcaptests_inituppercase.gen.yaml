@@ -12,13 +12,12 @@ Tests:
 
 # Possible lower case letters of the alphabet:
 #
-# а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я
-# 
-# 
+# а б в г д е ё ж з и й к л м н о п р с т у ф х ц 
+# ч ш щ ъ ы ь э ю я ҥ
 
-# This test sample should be replaced with real strings from
+# The test sample should be replaced with real strings from
 # the language in question:
   Optional Initial Upper:
-    кал: [кал, Кал]
-    офта: [офта, Офта]
-    сур: [сур, Сур]
+    москва: [москва, Москва]
+    газета: [газета, Газета]
+    теСТ: [теСТ, ТеСТ]
