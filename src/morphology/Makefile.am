@@ -38,7 +38,7 @@ GT_LEXC_SRCS=\
 
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
-			 $(srcdir)/generated_files/urj-Cyrl-propernouns.lexc \
+			 generated_files/urj-Cyrl-propernouns.lexc \
 			 $(srcdir)/stems/adjectives.lexc    \
 			 $(srcdir)/stems/adpositions.lexc   \
 			 $(srcdir)/stems/adverbs.lexc       \
@@ -71,7 +71,7 @@ GT_XML_SRCS=\
 			 stems/quantifiers.xml   \
 			 stems/verbs.xml
 
-$(srcdir)/generated_files/urj-Cyrl-propernouns.lexc: \
+generated_files/urj-Cyrl-propernouns.lexc: \
 	$(GTCORE)/gtdshared/urj-Cyrl/src/morphology/stems/urj-Cyrl-propernouns.lexc
 	$(AM_V_GEN)cp -f $< $@
 
