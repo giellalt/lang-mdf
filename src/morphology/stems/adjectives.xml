@@ -25446,7 +25446,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">vahva</t>
+
+        <t pos="A">kova</t>
+
+        <t pos="A">luja</t>
       </tg>
     </mg>
   </e>
@@ -25464,7 +25468,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">maaorja-</t>
       </tg>
     </mg>
   </e>
@@ -25482,7 +25486,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">talonpojan</t>
+
+        <t pos="A">talonpoikais-</t>
       </tg>
     </mg>
   </e>
@@ -25500,7 +25506,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">kriisi-</t>
+
+        <t pos="A">murros-</t>
+
+        <t pos="A">kriittinen</t>
+
+        <t pos="A">vaarallinen</t>
+
+        <t pos="A">vaikea</t>
       </tg>
     </mg>
   </e>
@@ -25518,7 +25532,13 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">katto-</t>
+
+        <t pos="A">katon</t>
+
+        <t pos="A">kattamis-</t>
+
+        <t pos="A">kate-</t>
       </tg>
     </mg>
   </e>
@@ -25536,7 +25556,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">verenkierto-</t>
+
+        <t pos="A">veri-</t>
       </tg>
     </mg>
   </e>
@@ -25554,7 +25576,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">hauras</t>
+
+        <t pos="A">murea</t>
+
+        <t pos="A">rapea</t>
+
+        <t pos="A">särkynyt</t>
+
+        <t pos="A">katkonainen</t>
       </tg>
     </mg>
   </e>
@@ -25571,7 +25601,7 @@
     <phonet>kruglaj</phonet>
 
     <mg>
-      <defNative/>
+      <defNative>maa</defNative>
 
       <tg xml:lang="fin">
         <t pos="A">pyöreä</t>
@@ -25592,7 +25622,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A"/>
+        <t pos="A">maailmanympäri-</t>
       </tg>
     </mg>
   </e>
