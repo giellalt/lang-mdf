@@ -332,7 +332,7 @@ Rules !!≈ !!The @CODE@
 !! !CONSONANT CHANGES
 " %{Х%}:0 after vowel"
 !! __@RULENAME@__  
-%{Х%}:0 <=> [ Vows | т | к | с | ш | ц | п | ч | х | щ | ф | н: ( ь: ) | д: ( ь: ) | г:к | й: ] %>: _ ;
+%{Х%}:0 <=> [ :Vows | т | к | с | ш | ц | п | ч | х | щ | ф | н: ( ь: ) | д: ( ь: ) | г:к | й: ] %>: _ ;
 
 " %{Х%}:х after some consonants"
 !! __@RULENAME@__  
