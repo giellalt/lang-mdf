@@ -63,6 +63,11 @@ LEXICON N_ПУЛА !!= @CODE@
 +N:%{АОЕ%} NMN_АВА ;
 +N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
+LEXICON N_СЕЛЬМЕ !!= @CODE@
+!сельме:сельм
++N:%{АОЕ%} NMN_АВА ;
++N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+
 LEXICON N_ОШ !!= @CODE@
 !ош:ош
 +N: NMN_ОШ ;
