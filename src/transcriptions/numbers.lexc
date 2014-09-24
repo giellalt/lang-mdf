@@ -18,8 +18,8 @@ TENST ;			! 30000-99999,10000-10999
 TWEENST ;		! 21000-29999
 TEENST ;		! 11000-19999
 ONEST ;			! 2000-9999
-тёжань:1 THOUSAND-PLUS ;	! 1001-1999
-тёжан:1 THOUSAND ;	! 1000
+тёжянь:1 THOUSAND-PLUS ;	! 1001-1999
+тёжян:1 THOUSAND ;	! 1000
 UNDERTHOUSAND ;		! 100-999
 TENS ;			! 30-99
 TWEENS ;		! 20-29 ! not just Hobbits
@@ -81,7 +81,7 @@ LEXICON TENSM
 кемонь% :1%0 MILJON ;
 комсь% :2%0 MILJON ;
 колмо:3    LUHKIEM ;
-ниле:4 LUHKIEM ;
+ниль:4 LUHKIEM ;
 ведь:5   LUHKIEM ;
 код:6   LUHKIEM ;
 сизь:7 LUHKIEM ;
@@ -179,12 +179,12 @@ LEXICON TEENT
 LEXICON TENST
 !комсь:2   LUHKIET ;
 колмогемонь:3    LUHKIET ;
-нилегемонь:4 LUHKIET ;
+нильгемонь:4 LUHKIET ;
 ведьгемонь:5   LUHKIET ;
 кодгемонь:6   LUHKIET ;
 сизьгемонь:7 LUHKIET ;
-кавксогемонь:8 LUHKIET ;
-вейксогемонь:9   LUHKIET ;
+кафксогемонь:8 LUHKIET ;
+вейхксогемонь:9   LUHKIET ;
 
 LEXICON LUHKIET
 :%0 THOUSANDS ;
@@ -202,10 +202,10 @@ LEXICON ONEST
 вейхкса:9 THOUSANDS ;
 
 LEXICON THOUSANDS      ! x > 1
-% тёжань: THOUSAND-PLUS ;
-% тёжань% :%0%0%0 COMMA ;	   ! 1000
-% тёжанце% :%0%0%0%+це COMMA ;	   ! 1000
-% тёжанце+Use/SpellNoSugg% :%0%0%0 COMMA ;	   ! 1000
+% тёжянь: THOUSAND-PLUS ;
+% тёжянь% :%0%0%0 COMMA ;	   ! 1000
+% тёжяньце% :%0%0%0%+це COMMA ;	   ! 1000
+% тёжяньце+Use/SpellNoSugg% :%0%0%0 COMMA ;	   ! 1000
 
 
 LEXICON THOUSAND-PLUS
@@ -234,7 +234,10 @@ LEXICON HUNDREDS
 ниле:4 CUODI ;
 вете:5   CUODI ;
 кота:6   CUODI ;
-сисем:7   CUODI ;
+сисемсятт+Use/NG% :7   HUNDRED ;
+сисемсядоце+Use/NG:7   CUODAAT ;
+сисемсятт% :7 HUNDRED ;
+сисемсядоце:7 CUODAAT ;
 кафкса:8 CUODI ;
 вейхкса:9   CUODI ;
 
@@ -259,7 +262,7 @@ LEXICON TEENS
 
 LEXICON TWEENS
 комсь% :2%0 COMMA ;
-комсеце:2%0%-це COMMA ;
+комозце:2%0%-це COMMA ;
 комсь% :2 CARDINAL-TWEENS ;
 комсь% :2 ORDINAL-TWEENS ;
 
@@ -267,7 +270,7 @@ LEXICON TWEENS
 
 LEXICON TENS
 колмо:3 LUHKIE_3-9 ;
-ниле:4 LUHKIE_3-9 ;
+ниль:4 LUHKIE_3-9 ;
 ведь:5 LUHKIE_3-9 ;
 код:6 LUHKIE_3-9 ;
 сизь:7 LUHKIE_3-9 ;
@@ -276,13 +279,13 @@ LEXICON TENS
 
 LEXICON LUHKIE_3-9
 гемонь:%0 COMMA ;
-гемонце:%0%-це COMMA ;
+гемоньце:%0%-це COMMA ;
 гемонь% : ONES ;
 
 !LEXICON LUHKIE_3-9_morph
-!кемень+Use/SpellNoSugg:%0 COMMA ;
-!кеменце+Use/SpellNoSugg:%0%-це COMMA ;
-!кемень+Use/SpellNoSugg% : ONES ;
+!кемонь+Use/SpellNoSugg:%0 COMMA ;
+!кемоньце+Use/SpellNoSugg:%0%-це COMMA ;
+!кемонь+Use/SpellNoSugg% : ONES ;
 
 
 LEXICON CARDINAL-TEENS
@@ -305,9 +308,9 @@ LEXICON ORDINAL-TEENS
 кемнилиеце:14%-це COMMA ;
 кеветиеце:15%-це   COMMA ;
 кемготувоце:16%-це   COMMA ;
-кемзисемгеце:17%-це    COMMA ;
+кемзисемгоце:17%-це    COMMA ;
 кемгафксувоце:18%-це   COMMA ;
-кевейксыеце:19%-це    COMMA ;
+кевейхксыеце:19%-це    COMMA ;
 
 LEXICON CARDINAL-TWEENS
 фкие:1 COMMA ;
@@ -317,7 +320,7 @@ LEXICON CARDINAL-TWEENS
 ветие:5 COMMA ;
 котува:6 COMMA ;
 сисемге:7 COMMA ;
-кафксуви:8 COMMA ;
+кафксува:8 COMMA ;
 вейхксые:9 COMMA ;
 
 LEXICON ORDINAL-TWEENS
@@ -327,7 +330,7 @@ LEXICON ORDINAL-TWEENS
 нилиеце:4%-це COMMA ;
 ветиеце:5%-це   COMMA ;
 котувоце:6%-це   COMMA ;
-сисемгеце:7%-це    COMMA ;
+сисемгоце:7%-це    COMMA ;
 кафксувоце:8%-це   COMMA ;
 вейхксыеце:9%-це    COMMA ;
 
@@ -355,7 +358,7 @@ LEXICON ORDINAL
 котоце:6%-це   COMMA ;
 сисемце:7%-це    COMMA ;
 кафксоце:8%-це   COMMA ;
-вейхксэце:9%-це    COMMA ;
+вейхксоце:9%-це    COMMA ;
 
 LEXICON COMMA
  ENDLEX ;
