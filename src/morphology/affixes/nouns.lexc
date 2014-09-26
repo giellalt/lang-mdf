@@ -51,6 +51,19 @@ LEXICON N_ВАЛЬМЯ-PL
 ! вальмя:вальмя
 +N: NMN_ВАЛЬМЯ-PL ;
 
+LEXICON N_ПАКСЯ
+! пакся:пакся
++N: NMN_ПАКСЯ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_ПАКСЯ ;
+
+LEXICON N_ПАКСЯ-SG
+! пакся:пакся
++N: NMN_ПАКСЯ-SG ;
+
+LEXICON N_ПАКСЯ-PL
+! пакся:пакся
++N: NMN_ПАКСЯ-PL ;
+
 
 LEXICON N_ОФТА !!= @CODE@ 
 !!офта:офт
@@ -139,6 +152,18 @@ LEXICON NMN_ВАЛЬМЯ-SG
         NMN-SG ;
         NMN-SG/PL       ;
 LEXICON NMN_ВАЛЬМЯ-PL
+        NMN-PL ;
+        NMN-SG/PL       ;
+
+LEXICON NMN_ПАКСЯ
+        NMN-SG  ;
+        NMN-PL  ;
+        NMN-SG/PL       ;
+
+LEXICON NMN_ПАКСЯ-SG
+        NMN-SG ;
+        NMN-SG/PL       ;
+LEXICON NMN_ПАКСЯ-PL
         NMN-PL ;
         NMN-SG/PL       ;
 
