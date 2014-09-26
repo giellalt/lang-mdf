@@ -38,6 +38,19 @@ LEXICON N_АВА-PL
 ! ава:ава
 !+N: NMN_АВА-SG/PL ;
 
+LEXICON N_ВАЛЬМЯ
+! вальмя:вальмя
++N: NMN_ВАЛЬМЯ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_ВАЛЬМЯ ;
+
+LEXICON N_ВАЛЬМЯ-SG
+! вальмя:вальмя
++N: NMN_ВАЛЬМЯ-SG ;
+
+LEXICON N_ВАЛЬМЯ-PL
+! вальмя:вальмя
++N: NMN_ВАЛЬМЯ-PL ;
+
 
 LEXICON N_ОФТА !!= @CODE@ 
 !!офта:офт
@@ -115,6 +128,19 @@ LEXICON NMN_АВА-SG
 LEXICON NMN_АВА-PL
 	NMN-PL ;
 	NMN-SG/PL	;
+
+
+LEXICON NMN_ВАЛЬМЯ
+        NMN-SG  ;
+        NMN-PL  ;
+        NMN-SG/PL       ;
+
+LEXICON NMN_ВАЛЬМЯ-SG
+        NMN-SG ;
+        NMN-SG/PL       ;
+LEXICON NMN_ВАЛЬМЯ-PL
+        NMN-PL ;
+        NMN-SG/PL       ;
 
 
 LEXICON NMN_ОФТА !!= @CODE@
