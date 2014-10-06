@@ -106,11 +106,11 @@ Tests:
      #кал+N+SP+Gen+Indef+Foc/гЕ: калоньге 
      #сон+Pron+Pers+Sg3+Nom+Foc/гЕ: сонга 
      кал+N+SP+Abl+Indef+Foc/вок: калдовок
-     кал+N+SP+Dat+Indef+Foc/вок: калондивок
+     кал+N+SP+Dat+Indef+Foc/вок: калоньдивок
      кал+N+SP+Abe+Indef+Foc/вок: калфтомовок
      кал+N+SP+Comp+Indef+Foc/вок: калшкавок
      кал+N+SP+Ine+Indef+Foc/вок: калсовок
-     кал+N+SP+Ela+Indef+Foc/вок: калстонга
+     кал+N+SP+Ela+Indef+Foc/вок: калстовок
      кал+N+SP+Ill+Indef+Foc/вок: калска
      кал+N+SP+Prl+Indef+Foc/вок: калгавок
      кал+N+SP+Tra+Indef+Foc/вок: калкска
@@ -184,7 +184,7 @@ Tests:
      кал+N+Pl+Nom+Indef+Foc/вок: калхтка
      кал+N+Sg+Nom+Def+Foc/вок: калське
      кал+N+Sg+Gen+Def+Foc/вок: калтьке
-     кал+N+Sg+Dat+Def+Foc/вок: калтивок
+     кал+N+Sg+Dat+Def+Foc/вок: [калтивок, калоньдивок]
      кал+N+Pl+Nom+Def+Foc/вок: калхневок
      кал+N+Pl+Gen+Def+Foc/вок: калхненьге
      кал+N+Pl+Dat+Def+Foc/вок: калхнендивок
