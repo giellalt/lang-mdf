@@ -17,87 +17,174 @@ Tests:
 
   Noun - ош: # Ordinary nouns 'city' - full paradigm including MWN
      ош+N+Sg+Nom+Indef: ош
-     ош+N+SP+Gen+Indef: ошнь
-     ош+N+SP+Abl+Indef: ошда
-     ош+N+SP+Dat+Indef: ошнди
+     ош+N+SP+Gen+Indef: ошень
+     ош+N+SP+Abl+Indef: ошта
+     ош+N+SP+Dat+Indef: ошенди
      ош+N+SP+Abe+Indef: ошфтома
-     ош+N+SP+Comp+Indef: ошшка
+     ош+N+SP+Comp+Indef: ошешка
      ош+N+SP+Ine+Indef: ошса
      ош+N+SP+Ela+Indef: ошста
-     ош+N+SP+Ill+Indef: ошс
-     ош+N+SP+Prl+Indef: ошва
+     ош+N+SP+Ill+Indef: [ошу, ошс]
+     ош+N+SP+Prl+Indef: ошева
      ош+N+SP+Tra+Indef: ошкс
-     ош+N+Sg+Nom+PxSg1: ошзе
-     ош+N+Pl+Nom+PxSg1: ошне
-     ош+N+Sg+Gen+PxSg1: ошзень
-     ош+N+Pl+Gen+PxSg1: ошнень
-     ош+N+Sg+Dat+PxSg1: [ошзенди, ошзти]
+     ош+N+Sg+Nom+PxSg1: ошезе
+     ош+N+Pl+Nom+PxSg1: ошене
+     ош+N+Sg+Gen+PxSg1: ошезень
+     ош+N+Pl+Gen+PxSg1: ошенень
+     ош+N+Sg+Dat+PxSg1: ошезти
      ош+N+Pl+Dat+PxSg1: ошненди
-     ош+N+SP+Abl+PxSg1: ошдон
+     ош+N+SP+Abl+PxSg1: оштон
      ош+N+SP+Abe+PxSg1: ошфтомон
-     ош+N+SP+Comp+PxSg1: ошшкан
+     ош+N+SP+Comp+PxSg1: ошешкан
      ош+N+SP+Ine+PxSg1: ошсон
      ош+N+SP+Ela+PxSg1: ошстон
-     ош+N+SP+Ill+PxSg1: ошзон
-     ош+N+SP+Prl+PxSg1: ошван
+     ош+N+SP+Ill+PxSg1: ошезон
+     ош+N+SP+Prl+PxSg1: ошеван
      ош+N+Sg+Nom+PxSg2: ошце
-     ош+N+Pl+Nom+PxSg2: оштне
+     ош+N+Pl+Nom+PxSg2: ошне
      ош+N+Sg+Gen+PxSg2: ошцень
-     ош+N+Pl+Gen+PxSg2: оштнень
+     ош+N+Pl+Gen+PxSg2: ошнень
      ош+N+SP+Abl+PxSg2: ошдот
      ош+N+SP+Abe+PxSg2: ошфтомот
-     ош+N+SP+Comp+PxSg2: ошшкат
+     ош+N+SP+Comp+PxSg2: ошешкат
      ош+N+SP+Ine+PxSg2: ошсот
      ош+N+SP+Ela+PxSg2: ошстот
-     ош+N+SP+Ill+PxSg2: ошзт
-     ош+N+SP+Prl+PxSg2: ошват
-     ош+N+Sg+Nom+PxSg3: ошц
-     ош+N+Pl+Nom+PxSg3: ошнза
-     ош+N+Sg+Gen+PxSg3: ошнц
-     ош+N+Pl+Gen+PxSg3: ошнзон
-     ош+N+Sg+Dat+PxSg3: ошнцты
-     ош+N+Pl+Dat+PxSg3: ошнзонды
-     ош+N+SP+Abl+PxSg3: ошдонза
+     ош+N+SP+Ill+PxSg2: ошезот
+     ош+N+SP+Prl+PxSg2: ошеват
+     ош+N+Sg+Nom+PxSg3: ошец
+     ош+N+Pl+Nom+PxSg3: ошенза
+     ош+N+Sg+Gen+PxSg3: ошенц
+     ош+N+Pl+Gen+PxSg3: ошензон
+     ош+N+Sg+Dat+PxSg3: ошенцты
+     ош+N+Pl+Dat+PxSg3: ошензонды
+     ош+N+SP+Abl+PxSg3: оштонза
      ош+N+SP+Abe+PxSg3: ошфтомонза
-     ош+N+SP+Comp+PxSg3: ошшканза
+     ош+N+SP+Comp+PxSg3: ошешканза
      ош+N+SP+Ine+PxSg3: ошсонза
      ош+N+SP+Ela+PxSg3: ошстонза
-     ош+N+SP+Ill+PxSg3: ошзонза
-     ош+N+SP+Prl+PxSg3: ошванза
-     ош+N+SP+Nom+PxPl1: ошньке
-     ош+N+SP+Gen+PxPl1: ошньконь
-     ош+N+SP+Dat+PxPl1: ошньконди
-     ош+N+SP+Abl+PxPl1: ошдонк
+     ош+N+SP+Ill+PxSg3: ошезонза
+     ош+N+SP+Prl+PxSg3: ошеванза
+     ош+N+SP+Nom+PxPl1: ошеньке
+     ош+N+SP+Gen+PxPl1: ошеньконь
+     ош+N+SP+Dat+PxPl1: ошеньконди
+     ош+N+SP+Abl+PxPl1: ошедонк
      ош+N+SP+Abe+PxPl1: ошфтомонк
-     ош+N+SP+Comp+PxPl1: ошшканк
+     ош+N+SP+Comp+PxPl1: ошешканк
      ош+N+SP+Ine+PxPl1: ошсонк
      ош+N+SP+Ela+PxPl1: ошстонк
-     ош+N+SP+Ill+PxPl1: ошзонк
-     ош+N+SP+Prl+PxPl1: ошванк
-     ош+N+SP+Nom+PxPl2: ошнте
-     ош+N+SP+Gen+PxPl2: ошнтень
-     ош+N+SP+Dat+PxPl2: ошнтенди
-     ош+N+SP+Abl+PxPl2: ошдонт
+     ош+N+SP+Ill+PxPl1: ошезонк
+     ош+N+SP+Prl+PxPl1: ошеванк
+     ош+N+SP+Nom+PxPl2: ошенте
+     ош+N+SP+Gen+PxPl2: ошентень
+     ош+N+SP+Dat+PxPl2: ошентенди
+     ош+N+SP+Abl+PxPl2: ошедонт
      ош+N+SP+Abe+PxPl2: ошфтомонт
-     ош+N+SP+Comp+PxPl2: ошшкант
+     ош+N+SP+Comp+PxPl2: ошешкант
      ош+N+SP+Ine+PxPl2: ошсонт
      ош+N+SP+Ela+PxPl2: ошстонт
-     ош+N+SP+Ill+PxPl2: ошзонт
-     ош+N+SP+Prl+PxPl2: ошвант
+     ош+N+SP+Ill+PxPl2: ошезонт
+     ош+N+SP+Prl+PxPl2: ошевант
      ош+N+SP+Nom+PxPl3: ошсна
      ош+N+SP+Gen+PxPl3: ошснон
      ош+N+SP+Dat+PxPl3: ошснонды
-     ош+N+SP+Abl+PxPl3: ошдост
+     ош+N+SP+Abl+PxPl3: оштост
      ош+N+SP+Abe+PxPl3: ошфтомост
-     ош+N+SP+Comp+PxPl3: ошшкаст
+     ош+N+SP+Comp+PxPl3: ошешкаст
      ош+N+SP+Ine+PxPl3: ошсост
      ош+N+SP+Ela+PxPl3: ошстост
-     ош+N+SP+Ill+PxPl3: ошзост
-     ош+N+SP+Prl+PxPl3: ошваст
+     ош+N+SP+Ill+PxPl3: ошезост
+     ош+N+SP+Prl+PxPl3: ошеваст
      ош+N+Pl+Nom+Indef: ошт
      ош+N+Sg+Nom+Def: ошсь
      ош+N+Sg+Gen+Def: ошть
      ош+N+Sg+Dat+Def: ошти
-     ош+N+Pl+Nom+Def: оштне
-     ош+N+Pl+Gen+Def: оштнень
-     ош+N+Pl+Dat+Def: оштненди    
+     ош+N+Pl+Nom+Def: ошне
+     ош+N+Pl+Gen+Def: ошнень
+     ош+N+Pl+Dat+Def: ошненди    
+     ош+N+Sg+Nom+Indef+Foc/вок: ошевок
+     ош+N+SP+Gen+Indef+Foc/вок: ошеньвок
+     #ош+N+SP+Gen+Indef+Foc/гЕ: ошеньге 
+     #синь+Pron+Pers+Sg3+Nom+Foc/гЕ: синьге 
+     ош+N+SP+Abl+Indef+Foc/вок: оштовок
+     ош+N+SP+Dat+Indef+Foc/вок: ошендивок
+     ош+N+SP+Abe+Indef+Foc/вок: ошфтомовок
+     ош+N+SP+Comp+Indef+Foc/вок: ошешкавок
+     ош+N+SP+Ine+Indef+Foc/вок: ошсовок
+     ош+N+SP+Ela+Indef+Foc/вок: ошстовок
+     ош+N+SP+Ill+Indef+Foc/вок: ошезовок
+     ош+N+SP+Prl+Indef+Foc/вок: ошевавок
+     ош+N+SP+Tra+Indef+Foc/вок: ошекска
+     ош+N+Sg+Nom+PxSg1+Foc/вок: ошезевок
+     ош+N+Pl+Nom+PxSg1+Foc/вок: ошеневок
+     ош+N+Sg+Gen+PxSg1+Foc/вок: ошезеньге
+     ош+N+Pl+Gen+PxSg1+Foc/вок: ошененьге
+     ош+N+Sg+Dat+PxSg1+Foc/вок: ошезтивок
+     ош+N+Pl+Dat+PxSg1+Foc/вок: ошенендивок
+     ош+N+SP+Abl+PxSg1+Foc/вок: оштонга
+     ош+N+SP+Abe+PxSg1+Foc/вок: ошфтомонга
+     ош+N+SP+Comp+PxSg1+Foc/вок: ошешканка
+     ош+N+SP+Ine+PxSg1+Foc/вок: ошсонга
+     ош+N+SP+Ela+PxSg1+Foc/вок: ошстонга
+     ош+N+SP+Ill+PxSg1+Foc/вок: ошезонга
+     ош+N+SP+Prl+PxSg1+Foc/вок: ошеванга
+     ош+N+Sg+Nom+PxSg2+Foc/вок: ошцевок
+     ош+N+Pl+Nom+PxSg2+Foc/вок: ошневок
+     ош+N+Sg+Gen+PxSg2+Foc/вок: ошценьге
+     ош+N+Pl+Gen+PxSg2+Foc/вок: ошненьге
+     ош+N+SP+Abl+PxSg2+Foc/вок: оштотка
+     ош+N+SP+Abe+PxSg2+Foc/вок: ошфтомотка
+     ош+N+SP+Comp+PxSg2+Foc/вок: ошешкатка
+     ош+N+SP+Ine+PxSg2+Foc/вок: ошсотка
+     ош+N+SP+Ela+PxSg2+Foc/вок: ошстотка
+     ош+N+SP+Ill+PxSg2+Foc/вок: ошезотка
+     ош+N+SP+Prl+PxSg2+Foc/вок: ошеватка
+     ош+N+Sg+Nom+PxSg3+Foc/вок: ошцевок
+     ош+N+Pl+Nom+PxSg3+Foc/вок: ошензовок
+     ош+N+Sg+Gen+PxSg3+Foc/вок: ошенцка
+     ош+N+Pl+Gen+PxSg3+Foc/вок: ошензонга
+     ош+N+Sg+Dat+PxSg3+Foc/вок: ошенцтывок
+     ош+N+Pl+Dat+PxSg3+Foc/вок: ошензондывок
+     ош+N+SP+Abl+PxSg3+Foc/вок: оштонзовок
+     ош+N+SP+Abe+PxSg3+Foc/вок: ошфтомонзовок
+     ош+N+SP+Comp+PxSg3+Foc/вок: ошешканзовок
+     ош+N+SP+Ine+PxSg3+Foc/вок: ошсонзовок
+     ош+N+SP+Ela+PxSg3+Foc/вок: ошстонзовок
+     ош+N+SP+Ill+PxSg3+Foc/вок: ошезонзовок
+     ош+N+SP+Prl+PxSg3+Foc/вок: ошеванзовок
+     ош+N+SP+Nom+PxPl1+Foc/вок: ошенькевок
+     ош+N+SP+Gen+PxPl1+Foc/вок: ошеньконьге
+     ош+N+SP+Dat+PxPl1+Foc/вок: ошенькондивок
+     ош+N+SP+Abl+PxPl1+Foc/вок: оштонковок
+     ош+N+SP+Abe+PxPl1+Foc/вок: ошфтомонковок
+     ош+N+SP+Comp+PxPl1+Foc/вок: ошешканковок
+     ош+N+SP+Ine+PxPl1+Foc/вок: ошсонковок
+     ош+N+SP+Ela+PxPl1+Foc/вок: ошстонковок
+     ош+N+SP+Ill+PxPl1+Foc/вок: ошезонковок
+     ош+N+SP+Prl+PxPl1+Foc/вок: ошеванковок
+     ош+N+SP+Nom+PxPl2+Foc/вок: ошентевок
+     ош+N+SP+Gen+PxPl2+Foc/вок: ошентеньге
+     ош+N+SP+Dat+PxPl2+Foc/вок: ошентендивок
+     ош+N+SP+Abl+PxPl2+Foc/вок: оштонтка
+     ош+N+SP+Abe+PxPl2+Foc/вок: ошфтомонтка
+     ош+N+SP+Comp+PxPl2+Foc/вок: ошешкантка
+     ош+N+SP+Ine+PxPl2+Foc/вок: ошсонтка
+     ош+N+SP+Ela+PxPl2+Foc/вок: ошстонтка
+     ош+N+SP+Ill+PxPl2+Foc/вок: ошезонтка
+     ош+N+SP+Prl+PxPl2+Foc/вок: ошевантка
+     ош+N+SP+Nom+PxPl3+Foc/вок: ошсновок
+     ош+N+SP+Gen+PxPl3+Foc/вок: ошснонга
+     ош+N+SP+Dat+PxPl3+Foc/вок: ошснондывок
+     ош+N+SP+Abl+PxPl3+Foc/вок: оштостка
+     ош+N+SP+Abe+PxPl3+Foc/вок: ошфтомостка
+     ош+N+SP+Comp+PxPl3+Foc/вок: ошешкастка
+     ош+N+SP+Ine+PxPl3+Foc/вок: ошсостка
+     ош+N+SP+Ela+PxPl3+Foc/вок: ошстостка
+     ош+N+SP+Ill+PxPl3+Foc/вок: ошезостка
+     ош+N+SP+Prl+PxPl3+Foc/вок: ошевастка
+     ош+N+Pl+Nom+Indef+Foc/вок: оштка
+     ош+N+Sg+Nom+Def+Foc/вок: ошське
+     ош+N+Sg+Gen+Def+Foc/вок: оштьке
+     ош+N+Sg+Dat+Def+Foc/вок: оштивок
+     ош+N+Pl+Nom+Def+Foc/вок: ошневок
+     ош+N+Pl+Gen+Def+Foc/вок: ошненьге
+     ош+N+Pl+Dat+Def+Foc/вок: ошнендивок
