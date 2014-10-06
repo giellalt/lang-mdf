@@ -41,9 +41,9 @@ Tests:
      келу+N+SP+Ill+PxSg1: келузон
      келу+N+SP+Prl+PxSg1: келуван
      келу+N+Sg+Nom+PxSg2: келуце
-     келу+N+Pl+Nom+PxSg2: келутне
+     келу+N+Pl+Nom+PxSg2: келуфне
      келу+N+Sg+Gen+PxSg2: келуцень
-     келу+N+Pl+Gen+PxSg2: келутнень
+     келу+N+Pl+Gen+PxSg2: келуфнень
      келу+N+SP+Abl+PxSg2: келудот
      келу+N+SP+Abe+PxSg2: келуфтомот
      келу+N+SP+Comp+PxSg2: келушкат
@@ -94,52 +94,54 @@ Tests:
      келу+N+SP+Ela+PxPl3: келустост
      келу+N+SP+Ill+PxPl3: келузост
      келу+N+SP+Prl+PxPl3: келуваст
-     келу+N+Pl+Nom+Indef: келут
+     келу+N+Pl+Nom+Indef: келуфт
      келу+N+Sg+Nom+Def: келусь
      келу+N+Sg+Gen+Def: келуть
-     келу+N+Sg+Dat+Def: келути
-     келу+N+Pl+Nom+Def: келутне
-     келу+N+Pl+Gen+Def: келутнень
-     келу+N+Pl+Dat+Def: келутненди    
+     келу+N+Sg+Dat+Def: [келути, келунди]
+     келу+N+Pl+Nom+Def: келуфне
+     келу+N+Pl+Gen+Def: келуфнень
+     келу+N+Pl+Dat+Def: келуфненди    
      келу+N+Sg+Nom+Indef+Foc/вок: келувок
      келу+N+SP+Gen+Indef+Foc/вок: келуньвок
+     #келу+N+SP+Gen+Indef+Foc/гЕ: келуньге 
+     #синь+Pron+Pers+Sg3+Nom+Foc/гЕ: синьге 
      келу+N+SP+Abl+Indef+Foc/вок: келудовок
-     келу+N+SP+Dat+Indef+Foc/вок: келундивок
+     келу+N+SP+Dat+Indef+Foc/вок: [келутивок, келундивок]
      келу+N+SP+Abe+Indef+Foc/вок: келуфтомовок
      келу+N+SP+Comp+Indef+Foc/вок: келушкавок
      келу+N+SP+Ine+Indef+Foc/вок: келусовок
      келу+N+SP+Ela+Indef+Foc/вок: келустовок
-     келу+N+SP+Ill+Indef+Foc/вок: келусвок
+     келу+N+SP+Ill+Indef+Foc/вок: келуска
      келу+N+SP+Prl+Indef+Foc/вок: келувавок
-     келу+N+SP+Tra+Indef+Foc/вок: келуксвок
+     келу+N+SP+Tra+Indef+Foc/вок: келукска
      келу+N+Sg+Nom+PxSg1+Foc/вок: келузевок
      келу+N+Pl+Nom+PxSg1+Foc/вок: келуневок
-     келу+N+Sg+Gen+PxSg1+Foc/вок: келузеньвок
-     келу+N+Pl+Gen+PxSg1+Foc/вок: келуненьвок
-     келу+N+Sg+Dat+PxSg1+Foc/вок: [келузендивок, келузтивок]
+     келу+N+Sg+Gen+PxSg1+Foc/вок: келузеньге
+     келу+N+Pl+Gen+PxSg1+Foc/вок: келуненьге
+     келу+N+Sg+Dat+PxSg1+Foc/вок: [келузтивок, келузендивок]
      келу+N+Pl+Dat+PxSg1+Foc/вок: келунендивок
-     келу+N+SP+Abl+PxSg1+Foc/вок: келудонвок
-     келу+N+SP+Abe+PxSg1+Foc/вок: келуфтомонвок
-     келу+N+SP+Comp+PxSg1+Foc/вок: келушканвок
-     келу+N+SP+Ine+PxSg1+Foc/вок: келусонвок
-     келу+N+SP+Ela+PxSg1+Foc/вок: келустонвок
-     келу+N+SP+Ill+PxSg1+Foc/вок: келузонвок
-     келу+N+SP+Prl+PxSg1+Foc/вок: келуванвок
+     келу+N+SP+Abl+PxSg1+Foc/вок: келудонга
+     келу+N+SP+Abe+PxSg1+Foc/вок: келуфтомонга
+     келу+N+SP+Comp+PxSg1+Foc/вок: келушканка
+     келу+N+SP+Ine+PxSg1+Foc/вок: келусонга
+     келу+N+SP+Ela+PxSg1+Foc/вок: келустонга
+     келу+N+SP+Ill+PxSg1+Foc/вок: келузонга
+     келу+N+SP+Prl+PxSg1+Foc/вок: келуванга
      келу+N+Sg+Nom+PxSg2+Foc/вок: келуцевок
-     келу+N+Pl+Nom+PxSg2+Foc/вок: келутневок
+     келу+N+Pl+Nom+PxSg2+Foc/вок: келуфневок
      келу+N+Sg+Gen+PxSg2+Foc/вок: келуценьвок
-     келу+N+Pl+Gen+PxSg2+Foc/вок: келутненьвок
-     келу+N+SP+Abl+PxSg2+Foc/вок: келудотвок
-     келу+N+SP+Abe+PxSg2+Foc/вок: келуфтомотвок
-     келу+N+SP+Comp+PxSg2+Foc/вок: келушкатвок
-     келу+N+SP+Ine+PxSg2+Foc/вок: келусотвок
-     келу+N+SP+Ela+PxSg2+Foc/вок: келустотвок
-     келу+N+SP+Ill+PxSg2+Foc/вок: келузтвок
-     келу+N+SP+Prl+PxSg2+Foc/вок: келуватвок
-     келу+N+Sg+Nom+PxSg3+Foc/вок: келуцвок
+     келу+N+Pl+Gen+PxSg2+Foc/вок: келуфненьге
+     келу+N+SP+Abl+PxSg2+Foc/вок: келудотка
+     келу+N+SP+Abe+PxSg2+Foc/вок: келуфтомотка
+     келу+N+SP+Comp+PxSg2+Foc/вок: келушкатка
+     келу+N+SP+Ine+PxSg2+Foc/вок: келусотка
+     келу+N+SP+Ela+PxSg2+Foc/вок: келустотка
+     келу+N+SP+Ill+PxSg2+Foc/вок: келузотка
+     келу+N+SP+Prl+PxSg2+Foc/вок: келуватка
+     келу+N+Sg+Nom+PxSg3+Foc/вок: келуцевок
      келу+N+Pl+Nom+PxSg3+Foc/вок: келунзовок
-     келу+N+Sg+Gen+PxSg3+Foc/вок: келунцвок
-     келу+N+Pl+Gen+PxSg3+Foc/вок: келунзонвок
+     келу+N+Sg+Gen+PxSg3+Foc/вок: келунцка
+     келу+N+Pl+Gen+PxSg3+Foc/вок: келунзонга
      келу+N+Sg+Dat+PxSg3+Foc/вок: келунцтывок
      келу+N+Pl+Dat+PxSg3+Foc/вок: келунзондывок
      келу+N+SP+Abl+PxSg3+Foc/вок: келудонзовок
@@ -150,39 +152,39 @@ Tests:
      келу+N+SP+Ill+PxSg3+Foc/вок: келузонзовок
      келу+N+SP+Prl+PxSg3+Foc/вок: келуванзовок
      келу+N+SP+Nom+PxPl1+Foc/вок: келунькевок
-     келу+N+SP+Gen+PxPl1+Foc/вок: келуньконьвок
+     келу+N+SP+Gen+PxPl1+Foc/вок: келуньконьге
      келу+N+SP+Dat+PxPl1+Foc/вок: келунькондивок
-     келу+N+SP+Abl+PxPl1+Foc/вок: келудонквок
-     келу+N+SP+Abe+PxPl1+Foc/вок: келуфтомонквок
-     келу+N+SP+Comp+PxPl1+Foc/вок: келушканквок
-     келу+N+SP+Ine+PxPl1+Foc/вок: келусонквок
-     келу+N+SP+Ela+PxPl1+Foc/вок: келустонквок
-     келу+N+SP+Ill+PxPl1+Foc/вок: келузонквок
-     келу+N+SP+Prl+PxPl1+Foc/вок: келуванквок
+     келу+N+SP+Abl+PxPl1+Foc/вок: келудонковок
+     келу+N+SP+Abe+PxPl1+Foc/вок: келуфтомонковок
+     келу+N+SP+Comp+PxPl1+Foc/вок: келушканковок
+     келу+N+SP+Ine+PxPl1+Foc/вок: келусонковок
+     келу+N+SP+Ela+PxPl1+Foc/вок: келустонковок
+     келу+N+SP+Ill+PxPl1+Foc/вок: келузонковок
+     келу+N+SP+Prl+PxPl1+Foc/вок: келуванковок
      келу+N+SP+Nom+PxPl2+Foc/вок: келунтевок
-     келу+N+SP+Gen+PxPl2+Foc/вок: келунтеньвок
+     келу+N+SP+Gen+PxPl2+Foc/вок: келунтеньге
      келу+N+SP+Dat+PxPl2+Foc/вок: келунтендивок
-     келу+N+SP+Abl+PxPl2+Foc/вок: келудонтвок
-     келу+N+SP+Abe+PxPl2+Foc/вок: келуфтомонтвок
-     келу+N+SP+Comp+PxPl2+Foc/вок: келушкантвок
-     келу+N+SP+Ine+PxPl2+Foc/вок: келусонтвок
-     келу+N+SP+Ela+PxPl2+Foc/вок: келустонтвок
-     келу+N+SP+Ill+PxPl2+Foc/вок: келузонтвок
-     келу+N+SP+Prl+PxPl2+Foc/вок: келувантвок
+     келу+N+SP+Abl+PxPl2+Foc/вок: келудонтка
+     келу+N+SP+Abe+PxPl2+Foc/вок: келуфтомонтка
+     келу+N+SP+Comp+PxPl2+Foc/вок: келушкантка
+     келу+N+SP+Ine+PxPl2+Foc/вок: келусонтка
+     келу+N+SP+Ela+PxPl2+Foc/вок: келустонтка
+     келу+N+SP+Ill+PxPl2+Foc/вок: келузонтка
+     келу+N+SP+Prl+PxPl2+Foc/вок: келувантка
      келу+N+SP+Nom+PxPl3+Foc/вок: келусновок
-     келу+N+SP+Gen+PxPl3+Foc/вок: келуснонвок
+     келу+N+SP+Gen+PxPl3+Foc/вок: келуснонга
      келу+N+SP+Dat+PxPl3+Foc/вок: келуснондывок
-     келу+N+SP+Abl+PxPl3+Foc/вок: келудоствок
-     келу+N+SP+Abe+PxPl3+Foc/вок: келуфтомоствок
-     келу+N+SP+Comp+PxPl3+Foc/вок: келушкаствок
-     келу+N+SP+Ine+PxPl3+Foc/вок: келусоствок
-     келу+N+SP+Ela+PxPl3+Foc/вок: келустоствок
-     келу+N+SP+Ill+PxPl3+Foc/вок: келузоствок
-     келу+N+SP+Prl+PxPl3+Foc/вок: келуваствок
-     келу+N+Pl+Nom+Indef+Foc/вок: келутвок
-     келу+N+Sg+Nom+Def+Foc/вок: келусьвок
-     келу+N+Sg+Gen+Def+Foc/вок: келутьвок
-     келу+N+Sg+Dat+Def+Foc/вок: келутивок
-     келу+N+Pl+Nom+Def+Foc/вок: келутневок
-     келу+N+Pl+Gen+Def+Foc/вок: келутненьвок
-     келу+N+Pl+Dat+Def+Foc/вок: келутнендивок
+     келу+N+SP+Abl+PxPl3+Foc/вок: келудостка
+     келу+N+SP+Abe+PxPl3+Foc/вок: келуфтомостка
+     келу+N+SP+Comp+PxPl3+Foc/вок: келушкастка
+     келу+N+SP+Ine+PxPl3+Foc/вок: келусостка
+     келу+N+SP+Ela+PxPl3+Foc/вок: келустостка
+     келу+N+SP+Ill+PxPl3+Foc/вок: келузостка
+     келу+N+SP+Prl+PxPl3+Foc/вок: келувастка
+     келу+N+Pl+Nom+Indef+Foc/вок: келуфтка
+     келу+N+Sg+Nom+Def+Foc/вок: келуське
+     келу+N+Sg+Gen+Def+Foc/вок: келутьке
+     келу+N+Sg+Dat+Def+Foc/вок: [келутивок, келуньдивок]
+     келу+N+Pl+Nom+Def+Foc/вок: келуфневок
+     келу+N+Pl+Gen+Def+Foc/вок: келуфненьге
+     келу+N+Pl+Dat+Def+Foc/вок: келуфнендивок
