@@ -31,7 +31,7 @@ Tests:
      пакся+N+Pl+Nom+PxSg1: паксяне
      пакся+N+Sg+Gen+PxSg1: паксязень
      пакся+N+Pl+Gen+PxSg1: паксянень
-     пакся+N+Sg+Dat+PxSg1: [паксязенди, паксязти]
+     пакся+N+Sg+Dat+PxSg1: паксязти
      пакся+N+Pl+Dat+PxSg1: паксяненди
      пакся+N+SP+Abl+PxSg1: паксядон
      пакся+N+SP+Abe+PxSg1: паксяфтомон
@@ -49,7 +49,7 @@ Tests:
      пакся+N+SP+Comp+PxSg2: паксяшкат
      пакся+N+SP+Ine+PxSg2: паксясот
      пакся+N+SP+Ela+PxSg2: паксястот
-     пакся+N+SP+Ill+PxSg2: паксязт
+     пакся+N+SP+Ill+PxSg2: паксязот
      пакся+N+SP+Prl+PxSg2: паксяват
      пакся+N+Sg+Nom+PxSg3: паксяц
      пакся+N+Pl+Nom+PxSg3: паксянза
@@ -103,43 +103,45 @@ Tests:
      пакся+N+Pl+Dat+Def: паксятненди    
      пакся+N+Sg+Nom+Indef+Foc/вок: паксявок
      пакся+N+SP+Gen+Indef+Foc/вок: паксяньвок
+     #пакся+N+SP+Gen+Indef+Foc/гЕ: паксяньге 
+     #синь+Pron+Pers+Sg3+Nom+Foc/гЕ: синьге 
      пакся+N+SP+Abl+Indef+Foc/вок: паксядовок
      пакся+N+SP+Dat+Indef+Foc/вок: паксяндивок
      пакся+N+SP+Abe+Indef+Foc/вок: паксяфтомовок
      пакся+N+SP+Comp+Indef+Foc/вок: паксяшкавок
      пакся+N+SP+Ine+Indef+Foc/вок: паксясовок
      пакся+N+SP+Ela+Indef+Foc/вок: паксястовок
-     пакся+N+SP+Ill+Indef+Foc/вок: паксясвок
+     пакся+N+SP+Ill+Indef+Foc/вок: паксясовок
      пакся+N+SP+Prl+Indef+Foc/вок: паксявавок
-     пакся+N+SP+Tra+Indef+Foc/вок: паксяксвок
+     пакся+N+SP+Tra+Indef+Foc/вок: паксякска
      пакся+N+Sg+Nom+PxSg1+Foc/вок: паксязевок
      пакся+N+Pl+Nom+PxSg1+Foc/вок: паксяневок
-     пакся+N+Sg+Gen+PxSg1+Foc/вок: паксязеньвок
-     пакся+N+Pl+Gen+PxSg1+Foc/вок: паксяненьвок
-     пакся+N+Sg+Dat+PxSg1+Foc/вок: [паксязендивок, паксязтивок]
+     пакся+N+Sg+Gen+PxSg1+Foc/вок: паксязеньге
+     пакся+N+Pl+Gen+PxSg1+Foc/вок: паксяненьге
+     пакся+N+Sg+Dat+PxSg1+Foc/вок: паксязтивок
      пакся+N+Pl+Dat+PxSg1+Foc/вок: паксянендивок
-     пакся+N+SP+Abl+PxSg1+Foc/вок: паксядонвок
-     пакся+N+SP+Abe+PxSg1+Foc/вок: паксяфтомонвок
-     пакся+N+SP+Comp+PxSg1+Foc/вок: паксяшканвок
-     пакся+N+SP+Ine+PxSg1+Foc/вок: паксясонвок
-     пакся+N+SP+Ela+PxSg1+Foc/вок: паксястонвок
-     пакся+N+SP+Ill+PxSg1+Foc/вок: паксязонвок
-     пакся+N+SP+Prl+PxSg1+Foc/вок: паксяванвок
+     пакся+N+SP+Abl+PxSg1+Foc/вок: паксядонга
+     пакся+N+SP+Abe+PxSg1+Foc/вок: паксяфтомонга
+     пакся+N+SP+Comp+PxSg1+Foc/вок: паксяшканга
+     пакся+N+SP+Ine+PxSg1+Foc/вок: паксясонга
+     пакся+N+SP+Ela+PxSg1+Foc/вок: паксястонга
+     пакся+N+SP+Ill+PxSg1+Foc/вок: паксязонга
+     пакся+N+SP+Prl+PxSg1+Foc/вок: паксяванга
      пакся+N+Sg+Nom+PxSg2+Foc/вок: паксяцевок
      пакся+N+Pl+Nom+PxSg2+Foc/вок: паксятневок
-     пакся+N+Sg+Gen+PxSg2+Foc/вок: паксяценьвок
-     пакся+N+Pl+Gen+PxSg2+Foc/вок: паксятненьвок
-     пакся+N+SP+Abl+PxSg2+Foc/вок: паксядотвок
-     пакся+N+SP+Abe+PxSg2+Foc/вок: паксяфтомотвок
-     пакся+N+SP+Comp+PxSg2+Foc/вок: паксяшкатвок
-     пакся+N+SP+Ine+PxSg2+Foc/вок: паксясотвок
-     пакся+N+SP+Ela+PxSg2+Foc/вок: паксястотвок
-     пакся+N+SP+Ill+PxSg2+Foc/вок: паксязтвок
-     пакся+N+SP+Prl+PxSg2+Foc/вок: паксяватвок
-     пакся+N+Sg+Nom+PxSg3+Foc/вок: паксяцвок
+     пакся+N+Sg+Gen+PxSg2+Foc/вок: паксяценьге
+     пакся+N+Pl+Gen+PxSg2+Foc/вок: паксятненьге
+     пакся+N+SP+Abl+PxSg2+Foc/вок: паксядотка
+     пакся+N+SP+Abe+PxSg2+Foc/вок: паксяфтомотка
+     пакся+N+SP+Comp+PxSg2+Foc/вок: паксяшкатка
+     пакся+N+SP+Ine+PxSg2+Foc/вок: паксясотка
+     пакся+N+SP+Ela+PxSg2+Foc/вок: паксястотка
+     пакся+N+SP+Ill+PxSg2+Foc/вок: паксязотка
+     пакся+N+SP+Prl+PxSg2+Foc/вок: паксяватка
+     пакся+N+Sg+Nom+PxSg3+Foc/вок: паксяцевок
      пакся+N+Pl+Nom+PxSg3+Foc/вок: паксянзовок
-     пакся+N+Sg+Gen+PxSg3+Foc/вок: паксянцвок
-     пакся+N+Pl+Gen+PxSg3+Foc/вок: паксянзонвок
+     пакся+N+Sg+Gen+PxSg3+Foc/вок: паксянцка
+     пакся+N+Pl+Gen+PxSg3+Foc/вок: паксянзонга
      пакся+N+Sg+Dat+PxSg3+Foc/вок: паксянцтывок
      пакся+N+Pl+Dat+PxSg3+Foc/вок: паксянзондывок
      пакся+N+SP+Abl+PxSg3+Foc/вок: паксядонзовок
@@ -150,39 +152,39 @@ Tests:
      пакся+N+SP+Ill+PxSg3+Foc/вок: паксязонзовок
      пакся+N+SP+Prl+PxSg3+Foc/вок: паксяванзовок
      пакся+N+SP+Nom+PxPl1+Foc/вок: паксянькевок
-     пакся+N+SP+Gen+PxPl1+Foc/вок: паксяньконьвок
+     пакся+N+SP+Gen+PxPl1+Foc/вок: паксяньконьге
      пакся+N+SP+Dat+PxPl1+Foc/вок: паксянькондивок
-     пакся+N+SP+Abl+PxPl1+Foc/вок: паксядонквок
-     пакся+N+SP+Abe+PxPl1+Foc/вок: паксяфтомонквок
-     пакся+N+SP+Comp+PxPl1+Foc/вок: паксяшканквок
-     пакся+N+SP+Ine+PxPl1+Foc/вок: паксясонквок
-     пакся+N+SP+Ela+PxPl1+Foc/вок: паксястонквок
-     пакся+N+SP+Ill+PxPl1+Foc/вок: паксязонквок
-     пакся+N+SP+Prl+PxPl1+Foc/вок: паксяванквок
+     пакся+N+SP+Abl+PxPl1+Foc/вок: паксядонковок
+     пакся+N+SP+Abe+PxPl1+Foc/вок: паксяфтомонковок
+     пакся+N+SP+Comp+PxPl1+Foc/вок: паксяшканковок
+     пакся+N+SP+Ine+PxPl1+Foc/вок: паксясонковок
+     пакся+N+SP+Ela+PxPl1+Foc/вок: паксястонковок
+     пакся+N+SP+Ill+PxPl1+Foc/вок: паксязонковок
+     пакся+N+SP+Prl+PxPl1+Foc/вок: паксяванковок
      пакся+N+SP+Nom+PxPl2+Foc/вок: паксянтевок
-     пакся+N+SP+Gen+PxPl2+Foc/вок: паксянтеньвок
+     пакся+N+SP+Gen+PxPl2+Foc/вок: паксянтеньге
      пакся+N+SP+Dat+PxPl2+Foc/вок: паксянтендивок
-     пакся+N+SP+Abl+PxPl2+Foc/вок: паксядонтвок
-     пакся+N+SP+Abe+PxPl2+Foc/вок: паксяфтомонтвок
-     пакся+N+SP+Comp+PxPl2+Foc/вок: паксяшкантвок
-     пакся+N+SP+Ine+PxPl2+Foc/вок: паксясонтвок
-     пакся+N+SP+Ela+PxPl2+Foc/вок: паксястонтвок
-     пакся+N+SP+Ill+PxPl2+Foc/вок: паксязонтвок
-     пакся+N+SP+Prl+PxPl2+Foc/вок: паксявантвок
+     пакся+N+SP+Abl+PxPl2+Foc/вок: паксядонтовок
+     пакся+N+SP+Abe+PxPl2+Foc/вок: паксяфтомонтовок
+     пакся+N+SP+Comp+PxPl2+Foc/вок: паксяшкантовок
+     пакся+N+SP+Ine+PxPl2+Foc/вок: паксясонтовок
+     пакся+N+SP+Ela+PxPl2+Foc/вок: паксястонтовок
+     пакся+N+SP+Ill+PxPl2+Foc/вок: паксязонтовок
+     пакся+N+SP+Prl+PxPl2+Foc/вок: паксявантовок
      пакся+N+SP+Nom+PxPl3+Foc/вок: паксясновок
-     пакся+N+SP+Gen+PxPl3+Foc/вок: паксяснонвок
+     пакся+N+SP+Gen+PxPl3+Foc/вок: паксяснонга
      пакся+N+SP+Dat+PxPl3+Foc/вок: паксяснондывок
-     пакся+N+SP+Abl+PxPl3+Foc/вок: паксядоствок
-     пакся+N+SP+Abe+PxPl3+Foc/вок: паксяфтомоствок
-     пакся+N+SP+Comp+PxPl3+Foc/вок: паксяшкаствок
-     пакся+N+SP+Ine+PxPl3+Foc/вок: паксясоствок
-     пакся+N+SP+Ela+PxPl3+Foc/вок: паксястоствок
-     пакся+N+SP+Ill+PxPl3+Foc/вок: паксязоствок
-     пакся+N+SP+Prl+PxPl3+Foc/вок: паксяваствок
-     пакся+N+Pl+Nom+Indef+Foc/вок: паксятвок
-     пакся+N+Sg+Nom+Def+Foc/вок: паксясьвок
-     пакся+N+Sg+Gen+Def+Foc/вок: паксятьвок
+     пакся+N+SP+Abl+PxPl3+Foc/вок: паксядостка
+     пакся+N+SP+Abe+PxPl3+Foc/вок: паксяфтомостка
+     пакся+N+SP+Comp+PxPl3+Foc/вок: паксяшкастка
+     пакся+N+SP+Ine+PxPl3+Foc/вок: паксясостка
+     пакся+N+SP+Ela+PxPl3+Foc/вок: паксястостка
+     пакся+N+SP+Ill+PxPl3+Foc/вок: паксязостка
+     пакся+N+SP+Prl+PxPl3+Foc/вок: паксявастка
+     пакся+N+Pl+Nom+Indef+Foc/вок: паксятка
+     пакся+N+Sg+Nom+Def+Foc/вок: паксяське
+     пакся+N+Sg+Gen+Def+Foc/вок: паксятьке
      пакся+N+Sg+Dat+Def+Foc/вок: паксятивок
      пакся+N+Pl+Nom+Def+Foc/вок: паксятневок
-     пакся+N+Pl+Gen+Def+Foc/вок: паксятненьвок
+     пакся+N+Pl+Gen+Def+Foc/вок: паксятненьге
      пакся+N+Pl+Dat+Def+Foc/вок: паксятнендивок
