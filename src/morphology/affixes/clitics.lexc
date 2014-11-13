@@ -7,9 +7,22 @@
 !!!!!!!!!!!!!!
 
 
-LEXICON K
+LEXICON K_вок
+!! This is for vowel final Nominatives
 +Foc/вок:%>вок  # ; 
-+Foc/Ге:%>ге # ;
+ K ;
+LEXICON K_овок
+!! This is for PxPl1 and PxPl2 
++Foc/вок:%>овок  # ; 
+ K ;
+
+LEXICON K_ГА
+!! This is for Consonant-final words
+!+Foc/Ге:%>г%{АОЕ%} # ;
++Foc/вок:%>г%{АОЕ%} # ;
+ K ;
+
+LEXICON K
        # ; 
 
 
