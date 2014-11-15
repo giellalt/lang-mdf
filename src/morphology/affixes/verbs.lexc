@@ -54,6 +54,11 @@ LEXICON IV_НЯФТЕМС
 LEXICON IV_АЛЫЯФТОМС
 +V+IV: V0_АЛЫЯФТОМС ;
 
+LEXICON IV_АНДОВОМС
+!! андовомс:андов
++V+IV: V0_АНДОМС ;
+
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! VERBS MUTUAL FOR TV and IV !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -108,10 +113,56 @@ LEXICON Non-Finite-Cns
 
 
 !! !AUXILIARY VERBS
-LEXICON V-AUX-NEG-PRT1 !!= @CODE@ ашезь:ашезь
+LEXICON V-AUX-NEG-PRT1 !!= @CODE@ ашезь:аш
 +V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
-+V+Aux+Neg:  IND-PRT1-30_ZERO ;
-+V+Aux+Neg:  IND-PRT1-60_Т ;
++V+Aux+Neg:езь  IND-PRT1-30_ZERO ;
++V+Aux+Neg:езь  IND-PRT1-60_Т ;
++V+Aux+Neg+Ind+Prt1+ScSg1:ень # ;
++V+Aux+Neg+Ind+Prt1+ScSg2:еть # ;
++V+Aux+Neg+Ind+Prt1+ScSg3:езь # ;
++V+Aux+Neg+Ind+Prt1+ScPl1:еме # ;
++V+Aux+Neg+Ind+Prt1+ScPl2:еде # ;
++V+Aux+Neg+Ind+Prt1+ScPl3:есть # ;
++V+Aux+Neg+Ind+Prt1+ScSg1+OcSg2:ихтень # ;
++V+Aux+Neg+Ind+Prt1+ScSg1+OcSg3:ине # ;
++V+Aux+Neg+Ind+Prt1+ScSg1+OcPl3:ине # ;
++V+Aux+Neg+Ind+Prt1+ScSg2+OcSg3:ить # ;
++V+Aux+Neg+Ind+Prt1+ScSg2+OcPl3:ить # ;
++V+Aux+Neg+Ind+Prt1+ScSg3+OcPl3:езень # ;
++V+Aux+Neg+Ind+Prt1+ScSg3+OcSg3:езе # ;
++V+Aux+Neg+Ind+Prt1+ScPl1+OcSg3:еськ # ;
++V+Aux+Neg+Ind+Prt1+ScPl1+OcPl3:еськ # ;
+
++V+Aux+Neg+Ind+Prt1+ScSg2+OcSg1:емайть # ;
++V+Aux+Neg+Ind+Prt1+ScSg2+OcPl1:емаcmь # ;
++V+Aux+Neg+Ind+Prt1+ScPl2+OcSg1:емаcmь # ;
++V+Aux+Neg+Ind+Prt1+ScPl2+OcPl1:емаcmь # ;
+
++V+Aux+Neg+Ind+Prt1+ScSg1+OcPl2:едезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl1+OcSg2:едезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl1+OcPl2:едезь # ;
+
++V+Aux+Neg+Ind+Prt1+ScSg3+OcPl2:едезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcSg2:едезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcPl2:едезь # ;
+
++V+Aux+Neg+Ind+Prt1+ScSg3+OcSg1:емань # ;
++V+Aux+Neg+Ind+Prt1+ScSg3+OcPl1:емазь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcSg1:емазь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcPl1:емазь # ;
+
++V+Aux+Neg+Ind+Prt1+ScSg3+OcPl1:емезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcSg1:емезь # ;
++V+Aux+Neg+Ind+Prt1+ScPl3+OcPl1:емезь # ;
+
+LEXICON V_АШЕЛЬ !! ашель:ашель
++V+Aux+Neg+Ind+Prt1+ScSg1:%>ень # ;
++V+Aux+Neg+Ind+Prt1+ScSg2:%>еть # ;
++V+Aux+Neg+Ind+Prt1+ScSg3: # ;
++V+Aux+Neg+Ind+Prt1+ScPl1:еме # ;
++V+Aux+Neg+Ind+Prt1+ScPl2:еде # ;
++V+Aux+Neg+Ind+Prt1+ScPl3:%>%{Х%}ть # ;
+
 
 ! Finite forms
 
