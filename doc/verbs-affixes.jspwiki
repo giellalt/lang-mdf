@@ -41,9 +41,11 @@ COND-ALL
 
 
 
-
 !AUXILIARY VERBS
- LEXICON V-AUX-NEG-PRT1  ашезь:аш
+ LEXICON V-AUX-NEG-PRT1_АШЕЗЬ  ашезь:аш
+
+ LEXICON V-AUX-NEG-PRT1_ИЗЬ  изь:изь
+
 
 
 
@@ -59,7 +61,6 @@ FROM MYV
  +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
 COND-ALL
  +Cond:%>%{ОЕØ%}ндяря COND-4CONJ-ALL ;  
-
 
 !INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 

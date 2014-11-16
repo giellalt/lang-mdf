@@ -106,14 +106,17 @@ LEXICON V0_АЛЫЯФТОМС
 
 LEXICON Non-Finite-Vws
 +Inf:О1мс K ;
++Inf+Abl:О1м%>да K ;
++Inf+Abl:О1м%>дО1 OBLIQUECX-PX-ava ;
 +Ger:О1зь K ;
 
 LEXICON Non-Finite-Cns
 +PrtPrc:%^Devoice%>ф K ;
 
-
 !! !AUXILIARY VERBS
-LEXICON V-AUX-NEG-PRT1 !!= @CODE@ ашезь:аш
+LEXICON V-AUX-NEG-PRT1_АШЕЗЬ !!= @CODE@ ашезь:аш
+ V-AUX-NEG-PRT1 ;
++V+Aux+Neg: IND-PRT2-ALL ;
 +V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
 +V+Aux+Neg:езь  IND-PRT1-30_ZERO ;
 +V+Aux+Neg:езь  IND-PRT1-60_Т ;
@@ -123,6 +126,21 @@ LEXICON V-AUX-NEG-PRT1 !!= @CODE@ ашезь:аш
 +V+Aux+Neg+Ind+Prt1+ScPl1:еме # ;
 +V+Aux+Neg+Ind+Prt1+ScPl2:еде # ;
 +V+Aux+Neg+Ind+Prt1+ScPl3:есть # ;
+
+LEXICON V-AUX-NEG-PRT1_ИЗЬ !!= @CODE@ изь:изь
+ V-AUX-NEG-PRT1 ;
++V+Aux+Neg: IND-PRT2-ALL ;
++V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
++V+Aux+Neg:  IND-PRT1-30_ZERO ;
++V+Aux+Neg:  IND-PRT1-60_Т ;
++V+Aux+Neg+Ind+Prt1+ScSg1:ень # ;
++V+Aux+Neg+Ind+Prt1+ScSg2:еть # ;
++V+Aux+Neg+Ind+Prt1+ScSg3:езь # ;
++V+Aux+Neg+Ind+Prt1+ScPl1:еме # ;
++V+Aux+Neg+Ind+Prt1+ScPl2:еде # ;
++V+Aux+Neg+Ind+Prt1+ScPl3:есть # ;
+
+LEXICON V-AUX-NEG-PRT1
 +V+Aux+Neg+Ind+Prt1+ScSg1+OcSg2:ихтень # ;
 +V+Aux+Neg+Ind+Prt1+ScSg1+OcSg3:ине # ;
 +V+Aux+Neg+Ind+Prt1+ScSg1+OcPl3:ине # ;
@@ -180,7 +198,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
 	 INF_ОМ		;
-
++ConNeg: K ;
 !! !INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 LEXICON VERB-ZERO-ALL
 @R.CONJ.ObjAll@ VERB-ZERO-OC ;
