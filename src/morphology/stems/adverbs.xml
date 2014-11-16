@@ -2174,11 +2174,11 @@
 
         <t pos="Adv">parahiksi</t>
 
-        <t pos="Adv">kas</t>
+        <t pos="Interj">kas</t>
 
-        <t pos="Adv">-pa</t>
+        <t pos="Pcle">-pa</t>
 
-        <t pos="Adv">-pä</t>
+        <t pos="Pcle">-pä</t>
       </tg>
     </mg>
   </e>
@@ -14281,9 +14281,9 @@
       <tg xml:lang="fin">
         <t pos="Adv">päällä</t>
 
-        <t pos="Adv">-lla</t>
+        <t pos="Suf">-lla</t>
 
-        <t pos="Adv">-sta (teemasta)</t>
+        <t pos="Suf">-sta (teemasta)</t>
       </tg>
     </mg>
   </e>
@@ -14385,7 +14385,7 @@
       <tg xml:lang="fin">
         <t pos="Adv">päällä</t>
 
-        <t pos="Adv">-lla</t>
+        <t pos="Suf">-lla</t>
       </tg>
 
       <xg>
@@ -14423,7 +14423,7 @@
       <tg xml:lang="fin">
         <t pos="Adv">päälle</t>
 
-        <t pos="Adv">-lle</t>
+        <t pos="Suf">-lle</t>
       </tg>
     </mg>
   </e>
@@ -14725,7 +14725,7 @@
 
         <t pos="Adv">nimissä</t>
 
-        <t pos="Adv">-niminen</t>
+        <t pos="A">-niminen</t>
       </tg>
     </mg>
   </e>
@@ -35734,10 +35734,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">эряскодомпяльхть</l>
+      <l pos="N">эряскодомпяльхть</l>
 
       <stg>
-        <st Contlex="ADV_">эряскодомпяльхть</st>
+        <st Contlex="N_КАЛ-PL">эряскодомпяльхть</st>
       </stg>
     </lg>
 
@@ -35745,16 +35745,16 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">vaatteet</t>
+        <t pos="N">vaatteet</t>
 
-        <t pos="Adv">puku ??</t>
+        <t pos="N">puku</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l pos="Adv">эса</l>
+      <l pos="Po">эса</l>
 
       <stg>
         <st Contlex="ADV_">эса</st>
@@ -35767,7 +35767,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. siellä.</t>
+        <t pos="Adv">siellä</t>
       </tg>
     </mg>
 
@@ -35775,9 +35775,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">-ssa</t>
+        <t pos="Suf">-ssa</t>
 
-        <t pos="Adv">-lla</t>
+        <t pos="Suf">-lla</t>
       </tg>
 
       <xg>
