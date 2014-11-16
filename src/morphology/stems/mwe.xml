@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_N">пачк ваймяй пакся</l>
+      <l pos="N">пачк ваймяй пакся</l>
 
       <stg>
         <st>пачк ваймяй пакся</st>
@@ -26,7 +26,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">андомс-симдемс</l>
+      <l pos="V">андомс-симдемс</l>
 
       <l_drv pos="V">андомс_V</l_drv>
 
@@ -52,7 +52,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">касфнемс-аннемс</l>
+      <l pos="V">касфнемс-аннемс</l>
 
       <l_drv pos="V">касфнемс_V</l_drv>
 
@@ -78,7 +78,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">юмамс-арамс</l>
+      <l pos="V">юмамс-арамс</l>
 
       <l_drv pos="V">юмамс_V</l_drv>
 
@@ -110,7 +110,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">ахиемс-охиемс</l>
+      <l pos="V">ахиемс-охиемс</l>
 
       <l_drv pos="V">ахиемс_V</l_drv>
 
@@ -136,7 +136,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">цяпафтомс-лапафтомс</l>
+      <l pos="V">цяпафтомс-лапафтомс</l>
 
       <l_drv pos="V">цяпафтомс_V</l_drv>
 
@@ -162,7 +162,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">шачемс-касомс</l>
+      <l pos="V">шачемс-касомс</l>
 
       <l_drv pos="V">шачемс_V</l_drv>
 
@@ -188,7 +188,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">ванондомс-кочксемс</l>
+      <l pos="V">ванондомс-кочксемс</l>
 
       <l_drv pos="V">ванондомс_V</l_drv>
 
@@ -224,11 +224,11 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Phrase_V">гулдоргодомс-галдоргодомс</l>
+      <l pos="V">гулдоргодомс-галдоргодомс</l>
 
-      <l_drv pos="V">гулдоргодомс_V</l_drv>
+      <l_drv pos="V">гулдоргодомс</l_drv>
 
-      <l_drv pos="V">галдоргодомс_V</l_drv>
+      <l_drv pos="V">галдоргодомс</l_drv>
 
       <stg>
         <st>гулдоргодомс-галдоргодомс</st>

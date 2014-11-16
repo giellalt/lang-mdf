@@ -1,0 +1,10 @@
+!! This is where new words are added as lexc entries before they are 
+!! added to the xml source files.
+!! автор:автор N_КАЛ "(eng) /(fin) /(rus) " ;
+
+
+LEXICON N_NEWWORDS
+test:test N_КАЛ "(eng) /(fin) /(rus) " ;
+!! ADD NOUNS BELOW
+автор:автор N_КАЛ "(eng) /(fin) /(rus) " ;
+мокшэрзя:мокшэрзя N_АВА-PL "(eng) /(fin) /(rus) " ;
