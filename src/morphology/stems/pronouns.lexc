@@ -29,7 +29,7 @@ LEXICON pronouns
 кой-кодама:кой-кодама PRON_  "jonkinlainen" ;
 кой-кона:кой-кона PRON_  "joku, eräs" ;
 кой-мезе:кой-мезе PRON_  "jokin, jotakin" ;
-кона:кона PRON_  "joka, mikä" ;
+кона:кона PRON-REL_АВА  "joka, mikä" ;
 конашка:конашка PRON_  "minkä kokoinen" ;
 коса:коса PRON_  "missä" ;
 косовок:косовок PRON_  "ei missään; jossakin" ;
@@ -79,12 +79,12 @@ LEXICON pronouns
 сювакай:сювакай PRON_  "" ;
 ся:ся PRON_  "se" ;
 сяка:сяка PRON_  "sama" ;
-тейне:тейне PRON_  "" ;
-тейнек:тейнек PRON_  "" ;
-тейнза:тейнза PRON_  "" ;
-тейнть:тейнть PRON_  "" ;
-тейст:тейст PRON_  "" ;
-тейть:тейть PRON_  "" ;
+тейне:тейне PERS-SG1-IS-DAT  "minulle" ;
+тейнек:тейнек PERS-PL1-IS-DAT  "meille" ;
+тейнза:тейнза PERS-SG3-IS-DAT  "hänelle" ;
+тейнть:тейнть PERS-PL2-IS-DAT  "teille" ;
+тейст:тейст PERS-PL3-IS-DAT  "heille" ;
+тейть:тейть PERS-SG2-IS-DAT  "sinulle" ;
 тинне:тинне PRON_  "" ;
 тинценне:тинценне PRON_  "" ;
 тинцень:тинцень PRON_  "" ;
