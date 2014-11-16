@@ -18,9 +18,7 @@
     <phonet>iľä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Qnt">muu</t>
@@ -36,7 +34,7 @@
 
   <e>
     <lg>
-      <l pos="Qnt">кажнай</l>
+      <l pos="Pron">кажнай</l>
 
       <stg>
         <st Contlex="PRON_">кажнай</st>
@@ -48,12 +46,10 @@
     <phonet>kažnaj, každaj</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>jokainen</t>
+        <t pos="Pron">jokainen</t>
       </tg>
 
       <xg>
@@ -68,7 +64,7 @@
 
   <e>
     <lg>
-      <l pos="Num">васенце</l>
+      <l pos="A">васенце</l>
 
       <stg>
         <st Contlex="NUM-ORD_">васенце</st>
@@ -78,12 +74,10 @@
     <phonet>vaśəńćä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>ensimmäinen</t>
+        <t pos="A">ensimmäinen</t>
       </tg>
 
       <xg>
@@ -212,12 +206,10 @@
     <phonet>veďgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>viisikymmentä.</t>
+        <t pos="Num">viisikymmentä.</t>
       </tg>
 
       <xg>
@@ -242,12 +234,10 @@
     <phonet>vejxksa</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>yhdeksän</t>
+        <t pos="Num">yhdeksän</t>
       </tg>
 
       <xg>
@@ -310,12 +300,10 @@
     <phonet>vejxksəgeməń, vejxksəńgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>yhdeksänkymmentä</t>
+        <t pos="Num">yhdeksänkymmentä</t>
       </tg>
     </mg>
   </e>
@@ -376,12 +364,10 @@
     <phonet>veťä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>viisi</t>
+        <t pos="Num">viisi</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -518,12 +504,10 @@
     <phonet>kafksa</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeksan</t>
+        <t pos="Num">kahdeksan</t>
       </tg>
 
       <xg>
@@ -578,12 +562,10 @@
     <phonet>kafksəgeməń, kafksəńgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeksankymmentä</t>
+        <t pos="Num">kahdeksankymmentä</t>
       </tg>
     </mg>
   </e>
@@ -622,12 +604,10 @@
     <phonet>kafksəćä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeksas</t>
+        <t pos="A">kahdeksas</t>
       </tg>
     </mg>
   </e>
@@ -644,12 +624,10 @@
     <phonet>kafənc</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kaksi paria, kahdet</t>
+        <t pos="Num">kaksi paria, kahdet</t>
       </tg>
 
       <xg>
@@ -740,12 +718,10 @@
     <phonet>kafta</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kaksi</t>
+        <t pos="Num">kaksi</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -952,12 +928,10 @@
     <phonet>kaftəń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>parittain; kaksinkerroin</t>
+        <t pos="Qnt">parittain; kaksinkerroin</t>
       </tg>
 
       <xg>
@@ -1086,12 +1060,10 @@
     <phonet>kivexksijä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>yhdeksäntoista</t>
+        <t pos="Num">yhdeksäntoista</t>
       </tg>
 
       <xg>
@@ -1116,9 +1088,7 @@
     <phonet>kiveťijä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">fifteen</t>
@@ -1214,12 +1184,10 @@
     <phonet>kemgafksuva, kimgafksuva</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeksantoista</t>
+        <t pos="Num">kahdeksantoista</t>
       </tg>
     </mg>
   </e>
@@ -1236,12 +1204,10 @@
     <phonet>kemgafksuvəćä, kimgafksuvəćä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeksastoista</t>
+        <t pos="A">kahdeksastoista</t>
       </tg>
     </mg>
   </e>
@@ -1280,9 +1246,7 @@
     <phonet>kemgaftuva, kimgaftuva</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">twelve</t>
@@ -1362,9 +1326,7 @@
     <phonet>kemgolmuva, kimgolmuva</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">thirteen</t>
@@ -1496,9 +1458,7 @@
     <phonet>kemgotuva</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">sixteen</t>
@@ -1600,12 +1560,10 @@
     <phonet>kemźiśəmgä, kimźiśəmgä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>seitsemäntoista</t>
+        <t pos="A">seitsemäntoista</t>
       </tg>
 
       <xg>
@@ -1674,9 +1632,7 @@
     <phonet>kemńiľijä, kimńiľijä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">fourteen</t>
@@ -1778,12 +1734,10 @@
     <phonet>keməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kymmenen</t>
+        <t pos="Num">kymmenen</t>
       </tg>
 
       <xg>
@@ -1848,16 +1802,14 @@
     <phonet>kefkijä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="eng">
         <t pos="Num">eleven</t>
       </tg>
 
       <tg xml:lang="fin">
-        <t>yksitoista</t>
+        <t pos="Num">yksitoista</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -1908,12 +1860,10 @@
     <phonet>kodgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuusikymmentä</t>
+        <t pos="Num">kuusikymmentä</t>
       </tg>
 
       <xg>
@@ -1938,12 +1888,10 @@
     <phonet>kolma</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kolme</t>
+        <t pos="Num">kolme</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2098,12 +2046,10 @@
     <phonet>kolməgeməń, kolməńgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kolmekymmentä</t>
+        <t pos="Num">kolmekymmentä</t>
       </tg>
 
       <xg>
@@ -2260,12 +2206,10 @@
     <phonet>koməzćä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kahdeskymmenes</t>
+        <t pos="A">kahdeskymmenes</t>
       </tg>
 
       <xg>
@@ -2312,12 +2256,10 @@
     <phonet>komś, koməś</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kaksikymmentä</t>
+        <t pos="Num">kaksikymmentä</t>
       </tg>
     </mg>
   </e>
@@ -2334,12 +2276,10 @@
     <phonet>kota</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuusi</t>
+        <t pos="Num">kuusi</t>
       </tg>
 
       <xg>
@@ -2458,12 +2398,12 @@
     <phonet>lama</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>paljon, monta, moni-</t>
+        <t pos="Qnt">paljon</t>
+        <t pos="Qnt">monta</t>
+        <t pos="Qnt">moni-</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2569,7 +2509,8 @@
       </m>
 
       <tg xml:lang="fin">
-        <t>vähän; vähemmän</t>
+        <t pos="Qnt">vähän</t>
+        <t pos="Qnt">vähemmän</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2580,10 +2521,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">мъзярошка</l>
+      <l pos="Qnt">мъзярошка</l>
 
       <stg>
-        <st Contlex="ADV_">мъзярошка</st>
+        <st Contlex="QNT_">мъзярошка</st>
       </stg>
     </lg>
 
@@ -2640,12 +2581,10 @@
     <phonet>ńiľä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>neljä</t>
+        <t pos="Num">neljä</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2776,12 +2715,10 @@
     <phonet>ńiľgeməń, ńiľəńgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>neljäkymmentä</t>
+        <t pos="Num">neljäkymmentä</t>
       </tg>
     </mg>
   </e>
@@ -2820,12 +2757,10 @@
     <phonet>ombəćä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>(num.) toinen</t>
+        <t pos="A">toinen</t>
       </tg>
 
       <xg>
@@ -2930,12 +2865,10 @@
     <phonet>śembä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>kaikki</t>
+        <t pos="Qnt">kaikki</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -2978,12 +2911,10 @@
     <phonet>śiźgeməń, śəźgeməń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>seitsemänkymmentä.</t>
+        <t pos="Num">seitsemänkymmentä.</t>
       </tg>
     </mg>
   </e>
@@ -3000,12 +2931,10 @@
     <phonet>śiśəm</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>seitsemän</t>
+        <t pos="Num">seitsemän</t>
       </tg>
 
       <xg>
@@ -3054,12 +2983,10 @@
     <phonet>śada</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>sata</t>
+        <t pos="Num">sata</t>
       </tg>
 
       <xg>
@@ -3130,12 +3057,10 @@
     <phonet>ťifťəń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>yksitellen</t>
+        <t pos="Adv">yksitellen</t>
       </tg>
 
       <xg>
@@ -3226,12 +3151,10 @@
     <phonet>ťožäń</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>tuhat</t>
+        <t pos="Num">tuhat</t>
       </tg>
 
       <xg>
@@ -3288,12 +3211,10 @@
     <phonet>finc</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>pari</t>
+        <t pos="Qnt">pari</t>
       </tg>
 
       <xg>
@@ -3318,12 +3239,10 @@
     <phonet>fkä</phonet>
 
     <mg>
-      <m>
-        <head/>
-      </m>
+        <defNative/>
 
       <tg xml:lang="fin">
-        <t>yksi</t>
+        <t pos="Num">yksi</t>
       </tg>
 
       <tg xml:lang="fra">

@@ -6820,7 +6820,7 @@
       <tg xml:lang="fin">
         <t pos="N">pikkumies</t>
 
-        <t pos="NN">­ukko</t>
+        <t pos="N">pikku-ukko</t>
       </tg>
     </mg>
   </e>
@@ -19370,14 +19370,12 @@
 
   <e>
     <lg>
-      <l pos="A">виде</l>
+      <l pos="N">виде</l>
 
       <stg>
         <st Contlex="N_АВА">виде</st>
       </stg>
     </lg>
-
-    <pos>A</pos>
 
     <phonet>viďä</phonet>
 
@@ -26233,7 +26231,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Inter">sääli</t>
+        <t pos="Interj">sääli</t>
 
         <t pos="Interj">valitettavasti</t>
       </tg>
@@ -148800,10 +148798,10 @@
 
   <e>
     <lg>
-      <l pos="N">чай</l>
+      <l pos="Pcle">чай</l>
 
       <stg>
-        <st Contlex="N_КАЛ">чай</st>
+        <st Contlex="PCLE_">чай</st>
       </stg>
     </lg>
 
@@ -148815,15 +148813,15 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">näet</t>
+        <t pos="Pcle">näet</t>
 
-        <t pos="N">nimittäin</t>
+        <t pos="Pcle">nimittäin</t>
 
-        <t pos="N">kyllä</t>
+        <t pos="Interj">kyllä</t>
 
-        <t pos="N">-han</t>
+        <t pos="Pcle">-han</t>
 
-        <t pos="N">-pa</t>
+        <t pos="Pcle">-pa</t>
       </tg>
     </mg>
 
@@ -148831,7 +148829,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">ehkä</t>
+        <t pos="Pcle">ehkä</t>
       </tg>
     </mg>
   </e>

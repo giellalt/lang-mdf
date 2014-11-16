@@ -6,6 +6,26 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e>
     <lg>
+      <l pos="Adv">аськолдамань-аськолдамань</l>
+
+      <stg>
+        <st Contlex="ADV_">аськолдамань-аськолдамань</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="A">askel askelelta</t>
+
+        <t pos="A">askelittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">абон</l>
 
       <stg>
@@ -1405,8 +1425,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">jonkin lisäksi</t>
+        <t pos="Adv">erillään</t>
 
+        <t pos="Adv">erikseen</t>
         <t pos="Adv">ylimääräisesti</t>
       </tg>
     </mg>
