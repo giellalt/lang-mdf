@@ -1190,8 +1190,11 @@ LEXICON VerbEnd
 !!!!!!!!!!!!!!!!
 
 LEXICON INF_ОМ
++Inf:%>%{ОЕØ%}мс K ;
 +Inf+Ill:%>%{ОЕØ%}мс K ;
-
++Inf+Abl:%>%{ОЕØ%}м%>да K ;
++Inf+Abl:%>%{ОЕØ%}м%>дО1 OBLIQUECX-PX-ava ;
++Ger:%>%{ОЕØ%}зь K ;
 
 !!!!!!!!!!!
 !! GERUNDS 
