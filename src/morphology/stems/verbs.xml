@@ -6107,7 +6107,7 @@
       <tg xml:lang="fin">
         <t pos="V">punoa virsuja</t>
 
-        <t pos="V">korjata kulunut virsu ??</t>
+        <t pos="V">korjata kulunut virsu</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -6197,7 +6197,7 @@
 
         <t pos="V">vapautua</t>
 
-        <t pos="V">"synnyttää" jälkeiset ??</t>
+        <t pos="V">synnyttää jälkeiset</t>
       </tg>
     </mg>
   </e>
@@ -9199,7 +9199,7 @@
 
         <t pos="V">nukkua</t>
 
-        <t pos="V">nukahtaa (lastenkielessä) ??</t>
+        <t pos="V">nukahtaa (lastenkielessä)</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -9361,7 +9361,7 @@
 
         <t pos="V">nukkua</t>
 
-        <t pos="V">nukahtaa (lastenkielessä) ??</t>
+        <t pos="V">nukahtaa (lastenkielessä)</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -9381,7 +9381,7 @@
       <tg xml:lang="fin">
         <tf pos="V">panna nukkumaan</tf>
 
-        <t pos="V">nukuttaa (lastenkielessä) ??</t>
+        <t pos="V">nukuttaa (lastenkielessä)</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -10495,7 +10495,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">tärkeillä ??</t>
+        <t pos="V">tärkeillä</t>
       </tg>
     </mg>
   </e>
@@ -15521,7 +15521,7 @@
 
         <t pos="V">viistää</t>
 
-        <t pos="V">laahautua ??</t>
+        <t pos="V">laahautua</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -16421,7 +16421,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">XX ??</t>
+        <t pos="V">XX</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -16439,7 +16439,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">XX ??</t>
+        <t pos="V">XX</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -21539,7 +21539,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">XX ??</t>
+        <t pos="V">XX</t><!-- ?? -->
       </tg>
     </mg>
   </e>
@@ -21943,7 +21943,9 @@
 
         <t pos="V">riuhtaista</t>
 
-        <t pos="V">tempautua ?? vai temmata ??</t>
+        <t pos="V">tempautua</t>
+
+        <t pos="V">temmata</t><!-- tempautua ?? vai ?? temmata -->
       </tg>
     </mg>
   </e>
@@ -39611,7 +39613,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="V">??</t>
+        <t pos="V"></t>
       </tg>
     </mg>
   </e>

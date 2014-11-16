@@ -3704,26 +3704,6 @@
 
   <e>
     <lg>
-      <l pos="ADV">аськолдамань-аськолдамань</l>
-
-      <stg>
-        <st Contlex="ADV_">аськолдамань-аськолдамань</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="A">askel askelelta</t>
-
-        <t pos="A">askelittain</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="A">атав</l>
 
       <stg>
@@ -4269,7 +4249,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">[puuvilla]flanelli-</t>
+        <t pos="A">puuvillaflanelli-</t>
+        <t pos="A">flanelli-</t>
       </tg>
     </mg>
   </e>
@@ -4804,6 +4785,7 @@
 
       <tg xml:lang="fin">
         <t pos="A">erillinen</t>
+        <t pos="A">ylimääräinen</t>
       </tg>
     </mg>
   </e>
@@ -5673,7 +5655,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">mulko[silmäinen]</t>
+        <t pos="A">mulkosilmäinen</t>
+        <t pos="A">mulko-</t>
       </tg>
     </mg>
   </e>
@@ -6057,7 +6040,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">panssari[vaunu]-</t>
+        <t pos="A">panssarivaunu-</t>
+        <t pos="A">panssari-</t>
       </tg>
     </mg>
   </e>
@@ -8712,7 +8696,8 @@
       <tg xml:lang="fin">
         <t pos="A">veluuri-</t>
 
-        <t pos="A">mokka[nahka]-</t>
+        <t pos="A">mokkanahka-</t>
+        <t pos="A">mokka-</t>
 
         <t pos="A">mokkanahkainen</t>
       </tg>
@@ -8756,7 +8741,8 @@
 
         <t pos="A">vihkimä-</t>
 
-        <t pos="A">vihki[äis]-</t>
+        <t pos="A">vihkiäis-</t>
+        <t pos="A">vihki-</t>
       </tg>
     </mg>
   </e>
@@ -9268,7 +9254,8 @@
       <tg xml:lang="fin">
         <t pos="A">tavara-</t>
 
-        <t pos="A">varus[te]-</t>
+        <t pos="A">varuste-</t>
+        <t pos="A">varus-</t>
       </tg>
     </mg>
   </e>
@@ -10476,7 +10463,8 @@
 
         <t pos="A">sisä-</t>
 
-        <t pos="A">sisi[mmäine]n</t>
+        <t pos="A">sisimmäinen</t>
+        <t pos="A">sisin</t>
       </tg>
     </mg>
   </e>
@@ -10986,7 +10974,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">herkkä[tunteinen]</t>
+        <t pos="A">herkkätunteinen</t>
+        <t pos="A">herkkä</t>
 
         <t pos="A">altis vaikutuksille</t>
       </tg>
@@ -15738,7 +15727,8 @@
       <tg xml:lang="fin">
         <t pos="A">myrkyllinen</t>
 
-        <t pos="A">ilkeä[mielinen]</t>
+        <t pos="A">ilkeä</t>
+        <t pos="A">ilkeämielinen</t>
 
         <t pos="A">pirullinen</t>
 
@@ -18168,7 +18158,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">[maahan]tuonti-</t>
+        <t pos="A">tuonti-</t>
+        <t pos="A">maahantuonti-</t>
       </tg>
     </mg>
   </e>
@@ -18228,7 +18219,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">inventaari[o]-</t>
+        <t pos="A">inventaari-</t>
+        <t pos="A">inventaario-</t>
       </tg>
     </mg>
   </e>
@@ -18614,7 +18606,8 @@
 
         <t pos="A">instituutin</t>
 
-        <t pos="A">[tutkimus]laitoksen</t>
+        <t pos="A">laitoksen</t>
+        <t pos="A">tutkimuslaitoksen</t>
       </tg>
     </mg>
   </e>
@@ -20558,9 +20551,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">nupo[päinen]</t>
+        <t pos="A">nupo</t>
+        <t pos="A">nupopäinen</t>
 
-        <t pos="A">nuti[päinen]</t>
+        <t pos="A">nuti</t>
+        <t pos="A">nutipäinen</t>
       </tg>
     </mg>
   </e>
@@ -21332,7 +21327,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">pakko[työ]-</t>
+        <t pos="A">pakkotyö-</t>
+        <t pos="A">pakko-</t>
       </tg>
     </mg>
   </e>
@@ -26420,7 +26416,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">kippura[inen]</t>
+        <t pos="A">kippura</t>
+        <t pos="A">kippurainen</t>
 
         <t pos="A">pysty-</t>
       </tg>
@@ -33095,7 +33092,8 @@
       <tg xml:lang="fin">
         <t pos="A">porvaris-</t>
 
-        <t pos="A">[pikku]porvarillinen</t>
+        <t pos="A">porvarillinen</t>
+        <t pos="A">pikkuporvarillinen</t>
       </tg>
     </mg>
   </e>
@@ -34299,9 +34297,11 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">rähmäsilmä[inen]</t>
+        <t pos="A">rähmäsilmäinen</t>
+        <t pos="A">rähmäsilmä</t>
 
-        <t pos="A">rääppäsilmä[inen]</t>
+        <t pos="A">rääppäsilmä</t>
+        <t pos="A">rääppäsilmäinen</t>
       </tg>
     </mg>
   </e>
@@ -36117,9 +36117,11 @@
 
         <t pos="A">ukkomansikan</t>
 
-        <t pos="A">[puu]tarhamansikka-</t>
+        <t pos="A">tarhamansikka-</t>
+        <t pos="A">puutarhamansikka-</t>
 
-        <t pos="A">[puu]tarhamansikan</t>
+        <t pos="A">tarhamansikan</t>
+        <t pos="A">puutarhamansikan</t>
       </tg>
     </mg>
   </e>
@@ -36775,7 +36777,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">[yleis]katsauksellinen</t>
+        <t pos="A">katsauksellinen</t>
+        <t pos="A">yleiskatsauksellinen</t>
 
         <t pos="A">katsaus-</t>
       </tg>

@@ -21,15 +21,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Cc">ja</t>
+        <t pos="CC">ja</t>
       </tg>
       </mg>
     <mg>
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Cc">mutta</t>
-        <t pos="Cc">vaan</t>
+        <t pos="CC">mutta</t>
+        <t pos="CC">vaan</t>
       </tg>
 
       <xg>
@@ -44,14 +44,12 @@
 
   <e>
     <lg>
-      <l pos="Cc">али</l>
+      <l pos="CC">али</l>
 
       <stg>
         <st Contlex="CC_">али</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>aľi</phonet>
 
@@ -59,8 +57,8 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Cc">tai</t>
-        <t pos="Cc">vai</t>
+        <t pos="CC">tai</t>
+        <t pos="CC">vai</t>
       </tg>
     </mg>
   </e>
@@ -74,15 +72,13 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>aľä</phonet>
 
     <mg>
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Pcle">kyllä, kylläpä</t>
+        <t pos="Pcle">kyllä</t><t pos="Pcle">kylläpä</t>
       </tg>
     </mg>
   </e>
@@ -95,8 +91,6 @@
         <st Contlex="PCLE_">апак</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>apak</phonet>
 
@@ -150,8 +144,6 @@
         <st Contlex="Pcle-Neg">аф</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>af</phonet>
 
@@ -273,8 +265,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>afi</phonet>
 
     <mg>
@@ -295,8 +285,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>afoľi</phonet>
 
     <mg>
@@ -316,8 +304,6 @@
         <st Contlex="Pcle-Neg">аш</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>aš</phonet>
 
@@ -371,8 +357,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>bəďi</phonet>
 
     <mg>
@@ -393,8 +377,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>bəďi</phonet>
 
     <mg>
@@ -408,21 +390,15 @@
 
   <e>
     <lg>
-      <l>бъльшем</l>
+      <l pos="Pcle">бъльшем</l>
 
       <stg>
         <st Contlex="PCLE_">бъльшем</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -439,15 +415,13 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>vaga</phonet>
 
     <mg>
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kas, kas tässä</t>
+        <t pos="Interj">kas</t><t pos="Interj">kas tässä</t>
       </tg>
 
       <xg>
@@ -462,21 +436,15 @@
 
   <e>
     <lg>
-      <l>вельф</l>
+      <l pos="AdA">вельф</l>
 
       <stg>
         <st Contlex="PCLE_">вельф</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -486,14 +454,12 @@
 
   <e>
     <lg>
-      <l>виде</l>
+      <l pos="Pcle">виде</l>
 
       <stg>
         <st Contlex="PCLE_">виде</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>viďä</phonet>
 
@@ -501,97 +467,9 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. oikea, tosi, suora, rehellinen. 2.yhtäläinen, sama, samanlainen,
-        tasainen. 3. totuus</t>
+        <t>totta</t>
       </tg>
 
-      <xg>
-        <x>шуфтсь виде</x>
-
-        <phonet>šufć viďə</phonet>
-
-        <xt xml:lang="fin">puu on suora.</xt>
-      </xg>
-
-      <xg>
-        <x>сон виде ломанць</x>
-
-        <phonet>son viďə lomańć</phonet>
-
-        <xt xml:lang="fin">hän on rehellinen ihminen.</xt>
-      </xg>
-
-      <xg>
-        <x>виде кядь</x>
-
-        <phonet>viďə käď</phonet>
-
-        <xt xml:lang="fin">oikea käsi.</xt>
-      </xg>
-
-      <xg>
-        <x>виде пяль</x>
-
-        <phonet>viďə päľ</phonet>
-
-        <xt xml:lang="fin">oikea puoli.</xt>
-      </xg>
-
-      <xg>
-        <x>виде пяли</x>
-
-        <phonet>viďə päľi</phonet>
-
-        <xt xml:lang="fin">oikealle.</xt>
-      </xg>
-
-      <xg>
-        <x>виде сельмоса</x>
-
-        <phonet>viďə śeľməsa</phonet>
-
-        <xt xml:lang="fin">paljaalla silmällä, paljain silmin.</xt>
-      </xg>
-
-      <xg>
-        <x>виде вайме</x>
-
-        <phonet>viďə vajmä</phonet>
-
-        <xt xml:lang="fin">suoraluontoinen.</xt>
-      </xg>
-
-      <xg>
-        <x>виде ваймот</x>
-
-        <phonet>viďə vajmət</phonet>
-
-        <xt xml:lang="fin">suoraan, kaartelematta.</xt>
-      </xg>
-
-      <xg>
-        <x>виде ваймокс</x>
-
-        <phonet>viďə vajməks</phonet>
-
-        <xt xml:lang="fin">tunnollisesti, hyvällä omallatunnolla.</xt>
-      </xg>
-
-      <xg>
-        <x>видеце</x>
-
-        <phonet>viďəćä</phonet>
-
-        <xt xml:lang="fin">olet oikeassa.</xt>
-      </xg>
-
-      <xg>
-        <x>виденц азомс</x>
-
-        <phonet>viďənc azəms</phonet>
-
-        <xt xml:lang="fin">puhua totta.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -603,8 +481,6 @@
         <st Contlex="PCLE_">видекс</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>viďəks</phonet>
 
@@ -625,8 +501,6 @@
         <st Contlex="PCLE_">вов</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>vov</phonet>
 
@@ -672,14 +546,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -696,14 +564,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -720,14 +582,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -737,21 +593,15 @@
 
   <e>
     <lg>
-      <l>въдь</l>
+      <l pos="Pcle">въдь</l>
 
       <stg>
         <st Contlex="PCLE_">въдь</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -761,21 +611,15 @@
 
   <e>
     <lg>
-      <l>голь</l>
+      <l pos="Pcle">голь</l>
 
       <stg>
         <st Contlex="PCLE_">голь</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -837,21 +681,15 @@
 
   <e>
     <lg>
-      <l>дель</l>
+      <l pos="Pcle">дель</l>
 
       <stg>
         <st Contlex="PCLE_">дель</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -861,21 +699,15 @@
 
   <e>
     <lg>
-      <l>деряй</l>
+      <l pos="Pcle">деряй</l>
 
       <stg>
         <st Contlex="PCLE_">деряй</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -885,21 +717,15 @@
 
   <e>
     <lg>
-      <l>дряй</l>
+      <l pos="Pcle">дряй</l>
 
       <stg>
         <st Contlex="PCLE_">дряй</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -909,14 +735,12 @@
 
   <e>
     <lg>
-      <l>дяряй</l>
+      <l pos="Pcle">дяряй</l>
 
       <stg>
         <st Contlex="PCLE_">дяряй</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>ďäŕäj</phonet>
 
@@ -928,7 +752,7 @@
       </tg>
 
       <tg xml:lang="fra">
-        <t pos="Cs">si</t>
+        <t pos="CS">si</t>
       </tg>
 
       <xg>
@@ -949,8 +773,6 @@
         <st Contlex="PCLE_">жа</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>ža</phonet>
 
@@ -1004,14 +826,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1027,8 +843,6 @@
         <st Contlex="PCLE_">и</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>i</phonet>
 
@@ -1058,8 +872,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>ina, əna, na</phonet>
 
     <mg>
@@ -1087,8 +899,6 @@
         <st Contlex="PCLE_">инь</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>iń, eń</phonet>
 
@@ -1126,8 +936,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>kaťi</phonet>
 
     <mg>
@@ -1155,8 +963,6 @@
         <st Contlex="PCLE_">катк</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>katk</phonet>
 
@@ -1187,21 +993,15 @@
 
   <e>
     <lg>
-      <l>кепшт</l>
+      <l pos="Pcle">кепшт</l>
 
       <stg>
         <st Contlex="PCLE_">кепшт</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1211,14 +1011,12 @@
 
   <e>
     <lg>
-      <l>клёк</l>
+      <l pos="Pcle">клёк</l>
 
       <stg>
         <st Contlex="PCLE_">клёк</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>kľok</phonet>
 
@@ -1233,14 +1031,12 @@
 
   <e>
     <lg>
-      <l>конешна</l>
+      <l pos="Pcle">конешна</l>
 
       <stg>
         <st Contlex="PCLE_">конешна</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>kańešna</phonet>
 
@@ -1255,21 +1051,15 @@
 
   <e>
     <lg>
-      <l>къле</l>
+      <l pos="Pcle">къле</l>
 
       <stg>
         <st Contlex="PCLE_">къле</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1285,8 +1075,6 @@
         <st Contlex="PCLE_">меколанкт</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>mekəlaŋkt</phonet>
 
@@ -1316,14 +1104,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1340,14 +1122,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1357,21 +1133,15 @@
 
   <e>
     <lg>
-      <l>мъле</l>
+      <l pos="Pcle">мъле</l>
 
       <stg>
         <st Contlex="PCLE_">мъле</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1387,8 +1157,6 @@
         <st Contlex="PCLE_">мяк</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>mäk</phonet>
 
@@ -1411,21 +1179,15 @@
 
   <e>
     <lg>
-      <l>мяле</l>
+      <l pos="Pcle">мяле</l>
 
       <stg>
         <st Contlex="PCLE_">мяле</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1441,8 +1203,6 @@
         <st Contlex="PCLE_">мянь</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>mäń</phonet>
 
@@ -1473,21 +1233,15 @@
 
   <e>
     <lg>
-      <l>мярьк</l>
+      <l pos="Pcle">мярьк</l>
 
       <stg>
         <st Contlex="PCLE_">мярьк</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1503,8 +1257,6 @@
         <st Contlex="PCLE_">на</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>na</phonet>
 
@@ -1527,14 +1279,12 @@
 
   <e>
     <lg>
-      <l>най</l>
+      <l pos="Pcle">най</l>
 
       <stg>
         <st Contlex="PCLE_">най</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>naj</phonet>
 
@@ -1554,7 +1304,7 @@
       </xg>
 
       <xg>
-        <x>най корхтат</x>
+        <x>най корхтат.</x>
 
         <phonet>naj korxtat</phonet>
 
@@ -1565,14 +1315,12 @@
 
   <e>
     <lg>
-      <l>начас</l>
+      <l pos="Pcle">начас</l>
 
       <stg>
         <st Contlex="PCLE_">начас</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>načas, načəs</phonet>
 
@@ -1602,14 +1350,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1619,21 +1361,15 @@
 
   <e>
     <lg>
-      <l>незьля</l>
+      <l pos="Pcle">незьля</l>
 
       <stg>
         <st Contlex="PCLE_">незьля</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1643,21 +1379,15 @@
 
   <e>
     <lg>
-      <l>нетоком</l>
+      <l pos="Pcle">нетоком</l>
 
       <stg>
         <st Contlex="PCLE_">нетоком</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1701,8 +1431,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>nu</phonet>
 
     <mg>
@@ -1732,21 +1460,15 @@
 
   <e>
     <lg>
-      <l>нъльне</l>
+      <l pos="Pcle">нъльне</l>
 
       <stg>
         <st Contlex="PCLE_">нъльне</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1756,21 +1478,15 @@
 
   <e>
     <lg>
-      <l>няк</l>
+      <l pos="Pcle">няк</l>
 
       <stg>
         <st Contlex="PCLE_">няк</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1787,11 +1503,7 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1807,8 +1519,6 @@
         <st Contlex="PCLE_">пади</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>paďi</phonet>
 
@@ -1850,21 +1560,15 @@
 
   <e>
     <lg>
-      <l>пъчкяль</l>
+      <l pos="Pcle">пъчкяль</l>
 
       <stg>
         <st Contlex="PCLE_">пъчкяль</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1874,21 +1578,15 @@
 
   <e>
     <lg>
-      <l>пъчкясь</l>
+      <l pos="Pcle">пъчкясь</l>
 
       <stg>
         <st Contlex="PCLE_">пъчкясь</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1898,21 +1596,15 @@
 
   <e>
     <lg>
-      <l>рьъстей</l>
+      <l pos="Pcle">рьъстей</l>
 
       <stg>
         <st Contlex="PCLE_">рьъстей</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1922,21 +1614,15 @@
 
   <e>
     <lg>
-      <l>рязей</l>
+      <l pos="Pcle">рязей</l>
 
       <stg>
         <st Contlex="PCLE_">рязей</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -1946,14 +1632,12 @@
 
   <e>
     <lg>
-      <l>саты</l>
+      <l pos="Pcle">саты</l>
 
       <stg>
         <st Contlex="PCLE_">саты</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>sati</phonet>
 
@@ -2012,14 +1696,12 @@
 
   <e>
     <lg>
-      <l>сембоц</l>
+      <l pos="Pcle">сембоц</l>
 
       <stg>
         <st Contlex="PCLE_">сембоц</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>śembəc</phonet>
 
@@ -2034,14 +1716,12 @@
 
   <e>
     <lg>
-      <l>сюкпря</l>
+      <l pos="Interj">сюкпря</l>
 
       <stg>
         <st Contlex="PCLE_">сюкпря</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>śukpŕä</phonet>
 
@@ -2056,7 +1736,7 @@
 
   <e>
     <lg>
-      <l>сяда</l>
+      <l pos="Pcle">сяда</l>
 
       <stg>
         <st Contlex="PCLE_">сяда</st>
@@ -2110,14 +1790,12 @@
 
   <e>
     <lg>
-      <l>таки</l>
+      <l pos="Pcle">таки</l>
 
       <stg>
         <st Contlex="PCLE_">таки</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>taki, təki, ťəki</phonet>
 
@@ -2140,14 +1818,12 @@
 
   <e>
     <lg>
-      <l>тейне-арам</l>
+      <l pos="Pcle">тейне-арам</l>
 
       <stg>
         <st Contlex="PCLE_">тейне-арам</st>
       </stg>
     </lg>
-
-    <pos>PCLE</pos>
 
     <phonet>ťejń(ä)-aram</phonet>
 
@@ -2162,21 +1838,15 @@
 
   <e>
     <lg>
-      <l>теконь</l>
+      <l pos="Pcle">теконь</l>
 
       <stg>
         <st Contlex="PCLE_">теконь</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2186,21 +1856,15 @@
 
   <e>
     <lg>
-      <l>туй</l>
+      <l pos="Pcle">туй</l>
 
       <stg>
         <st Contlex="PCLE_">туй</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2210,21 +1874,15 @@
 
   <e>
     <lg>
-      <l>тък</l>
+      <l pos="Pcle">тък</l>
 
       <stg>
         <st Contlex="PCLE_">тък</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2234,21 +1892,15 @@
 
   <e>
     <lg>
-      <l>тык</l>
+      <l pos="Pcle">тык</l>
 
       <stg>
         <st Contlex="PCLE_">тык</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2509,8 +2161,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>uľəma</phonet>
 
     <mg>
@@ -2532,21 +2182,15 @@
 
   <e>
     <lg>
-      <l>утль</l>
+      <l pos="Pcle">утль</l>
 
       <stg>
         <st Contlex="PCLE_">утль</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2556,21 +2200,15 @@
 
   <e>
     <lg>
-      <l>уш</l>
+      <l pos="Pcle">уш</l>
 
       <stg>
         <st Contlex="PCLE_">уш</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2580,21 +2218,15 @@
 
   <e>
     <lg>
-      <l>хоть</l>
+      <l pos="Pcle">хоть</l>
 
       <stg>
         <st Contlex="PCLE_">хоть</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2604,7 +2236,7 @@
 
   <e>
     <lg>
-      <l pos="Cs">хуть</l>
+      <l pos="CS">хуть</l>
 
       <stg>
         <st Contlex="CS_">хуть</st>
@@ -2616,28 +2248,22 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Cs">vaikka, joskin</t>
+        <t pos="CS">vaikka</t><t pos="CS">joskin</t>
       </tg>
     </mg>
   </e>
 
   <e>
     <lg>
-      <l>хуш</l>
+      <l pos="Pcle">хуш</l>
 
       <stg>
         <st Contlex="PCLE_">хуш</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2647,21 +2273,15 @@
 
   <e>
     <lg>
-      <l>це</l>
+      <l pos="Pcle">це</l>
 
       <stg>
         <st Contlex="PCLE_">це</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2671,21 +2291,15 @@
 
   <e>
     <lg>
-      <l>ця</l>
+      <l pos="Pcle">ця</l>
 
       <stg>
         <st Contlex="PCLE_">ця</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2749,14 +2363,8 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2766,7 +2374,7 @@
 
   <e>
     <lg>
-      <l pos="Cs">штоба</l>
+      <l pos="CS">штоба</l>
 
       <stg>
         <st Contlex="CS_">штоба</st>
@@ -2793,8 +2401,6 @@
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <phonet>šäť</phonet>
 
     <mg>
@@ -2808,21 +2414,15 @@
 
   <e>
     <lg>
-      <l>эбять</l>
+      <l pos="Pcle">эбять</l>
 
       <stg>
         <st Contlex="PCLE_">эбять</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2832,21 +2432,15 @@
 
   <e>
     <lg>
-      <l>эвон</l>
+      <l pos="Pcle">эвон</l>
 
       <stg>
         <st Contlex="PCLE_">эвон</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2856,21 +2450,15 @@
 
   <e>
     <lg>
-      <l>эк</l>
+      <l pos="Pcle">эк</l>
 
       <stg>
         <st Contlex="PCLE_">эк</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
@@ -2880,21 +2468,15 @@
 
   <e>
     <lg>
-      <l>эле</l>
+      <l pos="Pcle">эле</l>
 
       <stg>
         <st Contlex="PCLE_">эле</st>
       </stg>
     </lg>
 
-    <pos>PCLE</pos>
-
     <mg>
-      <m>
-        <head/>
-
         <defNative/>
-      </m>
 
       <tg xml:lang="fin">
         <t/>
