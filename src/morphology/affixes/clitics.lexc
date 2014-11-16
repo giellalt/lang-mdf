@@ -19,12 +19,14 @@ LEXICON K_овок
 LEXICON K_ГА
 !! This is for Consonant-final words
 !+Foc/Ге:%>г%{АОЕ%} # ;
-+Foc/вок:%>г%{АОЕ%} # ;
++Foc/вок:%>г%{АОЕ%} WORD-END ;
  K ;
 
 LEXICON K
-       # ; 
+    WORD-END ; 
 
+LEXICON WORD-END
+ # ;
 
 
 

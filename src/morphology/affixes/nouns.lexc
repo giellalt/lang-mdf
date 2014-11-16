@@ -307,6 +307,8 @@ LEXICON NMN-SG
  SGCXDEF ;
 !! Possessor Indices
  SG-CX-PXSG1 ;
+ SG-CX-PXSG2 ;
+ SG-CX-PXSG3 ;
 
 LEXICON NMN-PL
  PL-NOM ;
@@ -315,6 +317,8 @@ LEXICON NMN-PL
 !! Possessor Indices
 ! PXSG1-Pl ;
  PL-CX-PXSG1 ;
+ PL-CX-PXSG2 ;
+ PL-CX-PXSG3 ;
 
 LEXICON NMN-SG/PL
  NOTDEF-GEN ;
@@ -328,9 +332,6 @@ LEXICON NMN-SG/PL
  NOTDEF-CMP ;
  NOTDEF-PRL ;
 !! Possessor Indices
- PL-CX-PXSG1 ;
- PXSG2 ;
- PXSG3 ;
  PXPL1 ;
  PXPL2 ;
  PXPL3 ;
@@ -362,18 +363,20 @@ LEXICON PL-CX-PXSG1
 +Pl+Gen+PxSg1:%>О1не%>О1нь K_ГА ;
 +Pl+Dat+PxSg1:%>О1не%>О1нди K_вок ;
 
-LEXICON PXSG2
+LEXICON SG-CX-PXSG2
 +Sg+Nom+PxSg2:%>це K_вок ;
 +Sg+Gen+PxSg2:%>це%>О1нь K_ГА ;
 +Sg+Dat+PxSg2:%>це%>О1нди K_вок ;
+LEXICON PL-CX-PXSG2
 +Pl+Nom+PxSg2:%>тне K_вок ;
 +Pl+Gen+PxSg2:%>тне%>О1нь K_ГА ;
 +Pl+Dat+PxSg2:%>тне%>О1нди K_вок ;
 
-LEXICON PXSG3
+LEXICON SG-CX-PXSG3
 +Sg+Nom+PxSg3:%>О1ц K_ГА ;
 +Sg+Gen+PxSg3:%>О1нц K_ГА ;
 +Sg+Dat+PxSg3:%>О1нцты K_вок ;
+LEXICON PL-CX-PXSG3
 +Pl+Nom+PxSg3:%>О1нзО1 K_вок ;
 +Pl+Gen+PxSg3:%>О1нзО1%>О1н K_ГА ;
 +Pl+Dat+PxSg3:%>О1нзО1%>О1нды K_вок ;
