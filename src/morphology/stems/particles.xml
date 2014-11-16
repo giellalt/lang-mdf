@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
   <e>
     <lg>
-      <l pos="Pcle">а</l>
+      <l pos="CC">а</l>
 
       <stg>
         <st Contlex="PCLE_">а</st>
@@ -21,7 +21,15 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja; mutta, vaan</t>
+        <t pos="Cc">ja</t>
+      </tg>
+      </mg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Cc">mutta</t>
+        <t pos="Cc">vaan</t>
       </tg>
 
       <xg>
@@ -51,7 +59,8 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Cc">tai, vai</t>
+        <t pos="Cc">tai</t>
+        <t pos="Cc">vai</t>
       </tg>
     </mg>
   </e>
@@ -80,29 +89,7 @@
 
   <e>
     <lg>
-      <l>аньцек</l>
-
-      <stg>
-        <st Contlex="PCLE_">аньцек</st>
-      </stg>
-    </lg>
-
-    <pos>PCLE</pos>
-
-    <phonet>ańćək</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t>vain, ainoastaan</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l>апак</l>
+      <l pos="Pcle">апак</l>
 
       <stg>
         <st Contlex="PCLE_">апак</st>
@@ -157,7 +144,7 @@
 
   <e>
     <lg>
-      <l>аф</l>
+      <l pos="Pcle">аф</l>
 
       <stg>
         <st Contlex="Pcle-Neg">аф</st>
@@ -279,7 +266,7 @@
 
   <e>
     <lg>
-      <l>афи</l>
+      <l pos="Pcle">афи</l>
 
       <stg>
         <st Contlex="PCLE_">афи</st>
@@ -301,7 +288,7 @@
 
   <e>
     <lg>
-      <l>афоли</l>
+      <l pos="Pcle">афоли</l>
 
       <stg>
         <st Contlex="PCLE_">афоли</st>
@@ -323,7 +310,7 @@
 
   <e>
     <lg>
-      <l>аш</l>
+      <l pos="Pcle">аш</l>
 
       <stg>
         <st Contlex="Pcle-Neg">аш</st>
@@ -377,7 +364,7 @@
 
   <e>
     <lg>
-      <l>бди</l>
+      <l pos="Pcle">бди</l>
 
       <stg>
         <st Contlex="PCLE_">бди</st>
@@ -392,7 +379,29 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. ehkä. 2. jos</t>
+        <t>ehkä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CS">бди</l>
+
+      <stg>
+        <st Contlex="CS_">бди</st>
+      </stg>
+    </lg>
+
+    <pos>PCLE</pos>
+
+    <phonet>bəďi</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CS">jos</t>
       </tg>
     </mg>
   </e>
@@ -423,7 +432,7 @@
 
   <e>
     <lg>
-      <l>вага</l>
+      <l pos="Interj">вага</l>
 
       <stg>
         <st Contlex="PCLE_">вага</st>
@@ -588,7 +597,7 @@
 
   <e>
     <lg>
-      <l>видекс</l>
+      <l pos="Interj">видекс</l>
 
       <stg>
         <st Contlex="PCLE_">видекс</st>
@@ -610,7 +619,7 @@
 
   <e>
     <lg>
-      <l>вов</l>
+      <l pos="Interj">вов</l>
 
       <stg>
         <st Contlex="PCLE_">вов</st>
@@ -656,7 +665,7 @@
 
   <e>
     <lg>
-      <l>ворьть</l>
+      <l pos="Interj">ворьть</l>
 
       <stg>
         <st Contlex="PCLE_">ворьть</st>
@@ -680,7 +689,7 @@
 
   <e>
     <lg>
-      <l>ворьхть</l>
+      <l pos="Interj">ворьхть</l>
 
       <stg>
         <st Contlex="PCLE_">ворьхть</st>
@@ -704,7 +713,7 @@
 
   <e>
     <lg>
-      <l>вот</l>
+      <l pos="Interj">вот</l>
 
       <stg>
         <st Contlex="PCLE_">вот</st>
@@ -776,7 +785,7 @@
 
   <e>
     <lg>
-      <l>да</l>
+      <l pos="Interj">да</l>
 
       <stg>
         <st Contlex="PCLE_">да</st>
@@ -798,7 +807,7 @@
 
   <e>
     <lg>
-      <l>да</l>
+      <l pos="CC">да</l>
 
       <stg>
         <st Contlex="PCLE_">да</st>
@@ -934,7 +943,7 @@
 
   <e>
     <lg>
-      <l>жа</l>
+      <l pos="Pcle">жа</l>
 
       <stg>
         <st Contlex="PCLE_">жа</st>
@@ -988,7 +997,7 @@
 
   <e>
     <lg>
-      <l>жо</l>
+      <l pos="Pcle">жо</l>
 
       <stg>
         <st Contlex="PCLE_">жо</st>
@@ -1012,7 +1021,7 @@
 
   <e>
     <lg>
-      <l>и</l>
+      <l pos="Pcle">и</l>
 
       <stg>
         <st Contlex="PCLE_">и</st>
@@ -1042,7 +1051,7 @@
 
   <e>
     <lg>
-      <l>ина</l>
+      <l pos="Pcle">ина</l>
 
       <stg>
         <st Contlex="PCLE_">ина</st>
@@ -1072,7 +1081,7 @@
 
   <e>
     <lg>
-      <l>инь</l>
+      <l pos="Pcle">инь</l>
 
       <stg>
         <st Contlex="PCLE_">инь</st>
@@ -1110,7 +1119,7 @@
 
   <e>
     <lg>
-      <l>кати</l>
+      <l pos="Pcle">кати</l>
 
       <stg>
         <st Contlex="PCLE_">кати</st>
@@ -1140,7 +1149,7 @@
 
   <e>
     <lg>
-      <l>катк</l>
+      <l pos="Pcle">катк</l>
 
       <stg>
         <st Contlex="PCLE_">катк</st>
@@ -1270,7 +1279,7 @@
 
   <e>
     <lg>
-      <l>меколанкт</l>
+      <l pos="Adv">меколанкт</l>
 
       <stg>
         <st Contlex="PCLE_">меколанкт</st>
@@ -1300,7 +1309,7 @@
 
   <e>
     <lg>
-      <l>можботь</l>
+      <l pos="Pcle">можботь</l>
 
       <stg>
         <st Contlex="PCLE_">можботь</st>
@@ -1324,7 +1333,7 @@
 
   <e>
     <lg>
-      <l>может</l>
+      <l pos="Pcle">может</l>
 
       <stg>
         <st Contlex="PCLE_">может</st>
@@ -1372,7 +1381,7 @@
 
   <e>
     <lg>
-      <l>мяк</l>
+      <l pos="Pcle">мяк</l>
 
       <stg>
         <st Contlex="PCLE_">мяк</st>
@@ -1426,7 +1435,7 @@
 
   <e>
     <lg>
-      <l>мянь</l>
+      <l pos="Pcle">мянь</l>
 
       <stg>
         <st Contlex="PCLE_">мянь</st>
@@ -1488,7 +1497,7 @@
 
   <e>
     <lg>
-      <l>на</l>
+      <l pos="Interj">на</l>
 
       <stg>
         <st Contlex="PCLE_">на</st>
@@ -1586,7 +1595,7 @@
 
   <e>
     <lg>
-      <l>небось</l>
+      <l pos="Interj">небось</l>
 
       <stg>
         <st Contlex="PCLE_">небось</st>
