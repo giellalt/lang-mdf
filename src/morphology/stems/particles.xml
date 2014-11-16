@@ -98,7 +98,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kieltopartikkeli</t>
+        <t pos="Pcle">kieltopartikkeli</t>
       </tg>
 
       <xg>
@@ -151,7 +151,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei</t>
+        <t pos="Pcle">ei</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -271,7 +271,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>eikä</t>
+        <t pos="Pcle">eikä</t>
       </tg>
     </mg>
   </e>
@@ -291,7 +291,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuulemma</t>
+        <t pos="Pcle">kuulemma</t>
       </tg>
     </mg>
   </e>
@@ -311,7 +311,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ei ole</t>
+        <t pos="Pcle">ei ole</t>
       </tg>
 
       <xg>
@@ -363,7 +363,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ehkä</t>
+        <t pos="Pcle">ehkä</t>
       </tg>
     </mg>
   </e>
@@ -467,7 +467,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>totta</t>
+        <t pos="Pcle">totta</t>
       </tg>
 
     </mg>
@@ -488,7 +488,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>totta kyllä, todellakin</t>
+        <t pos="Pcle">totta kyllä</t><t pos="Pcle">todellakin</t>
       </tg>
     </mg>
   </e>
@@ -508,7 +508,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>no, kas, kappas, katsos</t>
+        <t pos="Interj">no</t><t pos="Interj">kas</t><t pos="Interj">kappas</t><t pos="Interj">katsos</t>
       </tg>
 
       <xg>
@@ -644,7 +644,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kyllä, niin</t>
+        <t pos="Interj">kyllä</t><t pos="Interj">niin</t>
       </tg>
     </mg>
   </e>
@@ -666,7 +666,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja, sekä, ynnä</t>
+        <t pos="CC">ja</t><t pos="CC">sekä</t><t pos="CC">ynnä</t>
       </tg>
 
       <xg>
@@ -748,7 +748,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ehkäpä, jospas</t>
+        <t pos="Pcle">ehkäpä</t><t pos="Pcle">jospas</t>
       </tg>
 
       <tg xml:lang="fra">
@@ -780,7 +780,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. juuri, aivan. 2. sama</t>
+        <t pos="AdA">juuri</t><t pos="AdA">aivan</t><t pos="AdA">sama</t>
       </tg>
 
       <xg>
@@ -788,7 +788,7 @@
 
         <phonet>ńakət ža</phonet>
 
-        <xt xml:lang="fin">juuri nämä.</xt>
+        <xt xml:lang="fin">juuri nämä</xt>
       </xg>
 
       <xg>
@@ -850,7 +850,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ja, myös</t>
+        <t pos="Pcle">ja</t><t pos="Pcle">myös</t>
       </tg>
 
       <xg>
@@ -878,7 +878,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>siis, niinpä</t>
+        <t pos="Pcle">siis</t><t pos="Pcle">niinpä</t>
       </tg>
 
       <xg>
@@ -906,7 +906,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>superlatiivin apusana; korkein, ylin, pää-</t>
+        <t pos="Pcle">superlatiivin apusana</t><t pos="A">korkein</t><t pos="A">ylin</t><t pos="A">pää-</t>
       </tg>
 
       <xg>
@@ -942,7 +942,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kenties, noinkohan, ehkäpä</t>
+        <t pos="Pcle">kenties</t><t pos="Pcle">noinkohan</t><t pos="Pcle">ehkäpä</t>
       </tg>
 
       <xg>
@@ -970,7 +970,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>imperatiivinen partikkeli</t>
+        <t pos="Pcle">imperatiivinen partikkeli</t>
       </tg>
 
       <xg>
@@ -1024,7 +1024,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ihan, oikein; kaikkein</t>
+        <t pos="AdA">ihan</t><t pos="AdA">oikein</t><t pos="AdA">kaikkein</t>
       </tg>
     </mg>
   </e>
@@ -1044,7 +1044,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>tietysti, totta kai</t>
+        <t pos="Pcle">tietysti</t><t pos="Pcle">totta kai</t>
       </tg>
     </mg>
   </e>
@@ -1082,7 +1082,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>päinvastoin; nurinpäin; kääntäen</t>
+        <t pos="Pcle">päinvastoin; nurinpäin; kääntäen</t>
       </tg>
 
       <xg>
@@ -1164,7 +1164,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>jopa, vieläpä</t>
+        <t pos="Pcle">jopa</t><t pos="Pcle">vieläpä</t>
       </tg>
 
       <xg>
@@ -1210,7 +1210,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>vieläpä, jopa, suorastaan</t>
+        <t pos="Pcle">vieläpä</t><t pos="Pcle">jopa</t><t pos="Pcle">suorastaan</t>
       </tg>
 
       <xg>
@@ -1264,7 +1264,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>no</t>
+        <t pos="Pcle">no</t>
       </tg>
 
       <xg>
@@ -1292,7 +1292,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>aina</t>
+        <t pos="Pcle">aina</t>
       </tg>
 
       <xg>
@@ -1328,7 +1328,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. ehkä, mahdollisesti. 2. äkkiä, yhtäkkiä. 3. kunpa ei</t>
+        <t pos="Pcle">ehkä</t><t pos="Pcle">mahdollisesti</t><t pos="Adv">äkkiä</t><t pos="Adv">yhtäkkiä</t><t pos="Pcle">kunpa ei</t>
       </tg>
 
       <xg>
@@ -1409,7 +1409,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>jo</t>
+        <t pos="Pcle">jo</t>
       </tg>
 
       <xg>
@@ -1437,7 +1437,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>no, siispä, kylläpä</t>
+        <t pos="Pcle">no</t><t pos="Pcle">siispä</t><t pos="Pcle">kylläpä</t>
       </tg>
 
       <xg>
@@ -1526,7 +1526,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ehkä</t>
+        <t pos="Pcle">ehkä</t>
       </tg>
 
       <xg>
@@ -1553,7 +1553,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ole hyvä, olkaa hyvä(t)</t>
+        <t pos="Pcle">ole hyvä</t><t pos="Pcle">olkaa hyvä(t)</t>
       </tg>
     </mg>
   </e>
@@ -1645,7 +1645,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>riittää</t>
+        <t pos="Pcle">riittää</t>
       </tg>
     </mg>
   </e>
@@ -1709,7 +1709,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>yhteensä</t>
+        <t pos="Pcle">yhteensä</t>
       </tg>
     </mg>
   </e>
@@ -1729,7 +1729,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. kiitos. 2. tervehdys, kumarrus; terveiset</t>
+        <t pos="Interj">kiitos</t><t pos="Interj">tervehdys</t><t pos="Interj">kumarrus</t><t pos="Interj">terveiset</t>
       </tg>
     </mg>
   </e>
@@ -1751,7 +1751,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>komparatiivin apusana</t>
+        <t pos="Pcle">komparatiivin apusana</t>
       </tg>
 
       <xg>
@@ -1803,7 +1803,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>kuitenkin, silti</t>
+        <t pos="Pcle">kuitenkin</t><t pos="Pcle">silti</t>
       </tg>
 
       <xg>
@@ -1831,7 +1831,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>minusta, (minun) mielestäni</t>
+        <t pos="Pcle">minusta</t><t pos="Pcle">(minun) mielestäni</t>
       </tg>
     </mg>
   </e>
@@ -1910,10 +1910,10 @@
 
   <e>
     <lg>
-      <l pos="Pron">тя</l>
+      <l pos="Det">тя</l>
 
       <stg>
-        <st Contlex="PRON_">тя</st>
+        <st Contlex="A_">тя</st>
       </stg>
     </lg>
 
@@ -1923,7 +1923,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>tämä, se; (mon.) nämä, ne</t>
+        <t pos="Det">tämä</t><t pos="Det">se</t><t pos="Det">nämä</t><t pos="Det">ne</t>
       </tg>
 
       <xg>
@@ -2167,7 +2167,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>varmaan, ilmeisesti, nähtävästi</t>
+        <t pos="Pcle">varmaan</t><t pos="Pcle">ilmeisesti</t><t pos="Pcle">nähtävästi</t>
       </tg>
 
       <xg>
@@ -2309,7 +2309,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">цёк</l>
+      <l pos="AdA">цёк</l>
 
       <stg>
         <st Contlex="ADV_">цёк</st>
@@ -2321,7 +2321,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>melkein, miltei, lähes</t>
+        <t pos="AdA">melkein</t><t pos="AdA">miltei</t><t pos="AdA">lähes</t>
       </tg>
 
       <xg>
@@ -2349,7 +2349,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>1. näet, nimittäin, kyllä, -han, -pa. 2. ehkä</t>
+        <t pos="Pcle">näet</t><t pos="Pcle">nimittäin</t><t pos="Pcle">kyllä</t><t pos="Suf">-han</t><t pos="Suf">-pa</t><t pos="Pcle">ehkä</t>
       </tg>
     </mg>
   </e>
@@ -2387,7 +2387,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>jotta, että</t>
+        <t pos="CS">jotta</t><t pos="CS">että</t>
       </tg>
     </mg>
   </e>
@@ -2407,7 +2407,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>ehkä, mahdollisesti</t>
+        <t pos="Pcle">ehkä</t><t pos="Pcle">mahdollisesti</t>
       </tg>
     </mg>
   </e>
@@ -2486,10 +2486,10 @@
 
   <e>
     <lg>
-      <l pos="Qnt">эрь</l>
+      <l pos="A">эрь</l>
 
       <stg>
-        <st Contlex="QNT_">эрь</st>
+        <st Contlex="A_">эрь</st>
       </stg>
     </lg>
 
@@ -2501,7 +2501,7 @@
         <defNative/>
 
       <tg xml:lang="fin">
-        <t>jokainen</t>
+        <t pos="A">jokainen</t>
       </tg>
 
       <xg>
@@ -2509,7 +2509,7 @@
 
         <phonet>äŕ šiń</phonet>
 
-        <xt xml:lang="fin">jokapäiväinen.</xt>
+        <xt xml:lang="fin">jokapäiväinen</xt>
       </xg>
 
       <xg>
