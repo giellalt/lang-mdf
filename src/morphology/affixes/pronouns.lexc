@@ -132,12 +132,16 @@ LEXICON PERS-PL2-IS-DAT
 LEXICON PERS-PL3-IS-DAT
 +Pron+Pers+Pl3+Dat: # ;
 
+LEXICON PRON-INDEF
++Pron+Indef: WORD-END ;
+
 LEXICON PRON-INTERR-OBJ_МЕЗЕ
 !+Pron+Interr+Sem/Obj: PossPX1-NomSg ;
 !+Pron+Interr+Sem/Obj: PossPX1 ;
 +Pron+Interr+Sem/Obj: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
 !+Pron+Interr+Sem/Obj: DER/PR_SG ; !!= @CODE@ singular
 +Pron+Interr+Sem/Obj+Sg+Nom: WORD-END ; !!= * __@CODE@__ 2014-11-16
+
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
 +Abe:%>фтО1мО1 WORD-END ;
@@ -155,6 +159,7 @@ LEXICON PRON-REL_АВА
 +Pron+Rel: NMN-SG ;
 +Pron+Rel: NMN-PL ;
 +Pron+Rel: NMN-SG/PL ;
+
 
 
 ! vim: set ft=xfst-lexc:
