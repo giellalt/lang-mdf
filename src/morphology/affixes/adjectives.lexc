@@ -50,7 +50,14 @@ LEXICON A_КЕЛУ
 +A: K ;
 +A+Der/MWN: N_КЕЛУ ;
 
-
+LEXICON A_INT-АЙ
++Use/SpellNoSugg:ай A_КАЛ ;
+LEXICON A_RU-АЙ
++Use/SpellNoSugg:ай A_КАЛ ;
+LEXICON A_INT-ЯЙ
++Use/SpellNoSugg:яй A_КАЛ ;
+LEXICON A_RU-ЯЙ
++Use/SpellNoSugg:яй A_КАЛ ;
 
 ! vim: set ft=xfst-lexc:
 

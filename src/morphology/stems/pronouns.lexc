@@ -24,6 +24,7 @@ LEXICON pronouns
 кода:кода ADV_  "kuinka" ;
 кодама:кодама PRON_  "millainen" ;
 кодамовок:кодамовок PRON_  "" ;
+коданга:коданга PRON-INDEF  "mitenkään" ;
 кой-кие:кой-кие PRON_  "joku" ;
 кой-кит:кой-кит PRON_  "" ;
 кой-кодама:кой-кодама PRON_  "jonkinlainen" ;
@@ -77,7 +78,7 @@ LEXICON pronouns
 стама:стама PRON_  "" ;
 стамка:стамка PRON_  "" ;
 сювакай:сювакай PRON_  "" ;
-ся:ся PRON_  "se" ;
+ся:ся PRON-DEM_  "se" ;
 сяка:сяка PRON_  "sama" ;
 теене:теене PERS-SG1-IS-DAT  "minulle" ;
 теене:тейне PERS-SG1-IS-DAT  "minulle" ;
@@ -97,7 +98,7 @@ LEXICON pronouns
 тинь:тин PERS-PL2  "te; teidän" ;
 тон:тон PERS-SG2  "sinä" ;
 тона:тона PRON_  "tuo, se" ;
-тя:тя PRON_  "tämä, se; (mon.) nämä, ne" ;
+тя:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
 тяка:тяка PRON_  "tämä sama" ;
 тяфтама:тяфтама PRON_  "tällainen, sellainen" ;
 тяшка:тяшка PRON_  "sellainen, semmoinen, samanlainen" ;
