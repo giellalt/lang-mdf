@@ -132,6 +132,17 @@ LEXICON PERS-PL2-IS-DAT
 LEXICON PERS-PL3-IS-DAT
 +Pron+Pers+Pl3+Dat: # ;
 
+LEXICON PRON-DEM_
++Pron+Dem: PRON-DEM-SG ;
+
+LEXICON PRON-DEM-SG
++SP+Abl:%>дО1 K_вок ;
++SP+Dat:%>О1нди K_вок ;
++SP+Gen:%>О1нь K_ГА ;
++Sg+Nom: K_вок ;
++Pl+Nom:%>тЬ2 K_ГА ;
+
+
 LEXICON PRON-INDEF
 +Pron+Indef: WORD-END ;
 
