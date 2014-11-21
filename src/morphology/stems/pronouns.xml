@@ -14,7 +14,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">(ei) mitään</t>
@@ -32,7 +32,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">(ei) mitään</t>
@@ -80,7 +80,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">tuo</t>
@@ -124,7 +124,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -142,7 +142,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -206,7 +206,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -224,7 +224,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -280,7 +280,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -298,7 +298,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -406,7 +406,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -424,7 +424,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -442,7 +442,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -460,7 +460,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -478,7 +478,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -694,30 +694,32 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
       </tg>
     </mg>
   </e>
+
   <e>
     <lg>
       <l pos="Pron">коданга</l>
 
       <stg>
-	<st Contlex="PRON-INDEF">коданга</st>
+        <st Contlex="PRON-INDEF">коданга</st>
       </stg>
     </lg>
+
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
-	<t>mitenkään</t>
+        <t>mitenkään</t>
       </tg>
     </mg>
+  </e>
 
-</e>
   <e>
     <lg>
       <l pos="Pron">кой-кие</l>
@@ -750,7 +752,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -837,6 +839,160 @@
 
         <xt xml:lang="fin">muunlaiset, toisenlaiset.</xt>
       </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колган</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXSG1">колган</st>
+      </stg>
+    </lg>
+
+    <phonet>kolgan</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about me</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">minusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колгат</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXSG2">колгат</st>
+      </stg>
+    </lg>
+
+    <phonet>kolgat</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about you</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">sinusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колганза</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXSG3">колганза</st>
+      </stg>
+    </lg>
+
+    <phonet>kolganzə</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about him</t>
+
+        <t>about her</t>
+
+        <t>about it</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">hänestä</t>
+
+        <t pos="Pron">siinä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колганк</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXPL1">колганк</st>
+      </stg>
+    </lg>
+
+    <phonet>kolgank</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about us</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">meistä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колгант</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXPL2">колгант</st>
+      </stg>
+    </lg>
+
+    <phonet>kolgant</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about you</t>
+
+        <t>about you guys</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">teistä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">колгаст</l>
+
+      <stg>
+        <st Contlex="PRON-X-PXPL3">колгаст</st>
+      </stg>
+    </lg>
+
+    <phonet>kolgast</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>about them</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">heistä</t>
+
+        <t pos="Pron">niistä</t>
+      </tg>
     </mg>
   </e>
 
@@ -1076,7 +1232,7 @@
     <pos>Pron</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">ei missään; jossakin</t>
@@ -1118,7 +1274,7 @@
     <pos>Adv</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">ei missään; jossakin</t>
@@ -1219,7 +1375,7 @@
     <pos>Adv</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">jostakin; (ei) mistään; (ei) milloinkaan, (ei)
@@ -1267,6 +1423,150 @@
 
         <xt xml:lang="fin">vieraalla kielellä.</xt>
       </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтон</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXSG1">мархтон</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtən</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">kanssani</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтот</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXSG2">мархтот</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtət</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">kanssasi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтонза</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXSG3">мархтонза</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtənzə</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">hänen kanssaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтонк</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXPL1">мархтонк</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtənk</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">kanssamme</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтонт</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXPL2">мархтонт</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtənt</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">kanssanne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">мархтост</l>
+
+      <stg>
+        <st Contlex="PRON-COM-PXPL3">мархтост</st>
+      </stg>
+    </lg>
+
+    <phonet>marxtəst</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Po">heidän kanssaan</t>
+      </tg>
     </mg>
   </e>
 
@@ -1494,7 +1794,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1512,7 +1812,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1530,7 +1830,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1548,7 +1848,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1566,7 +1866,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1584,7 +1884,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1602,7 +1902,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1660,7 +1960,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1680,7 +1980,7 @@
     <pos>Adv</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">milloin</t>
@@ -1708,7 +2008,7 @@
     <pos>Adv</pos>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">joskus</t>
@@ -1726,7 +2026,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1744,7 +2044,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1762,7 +2062,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1780,7 +2080,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1856,7 +2156,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1874,7 +2174,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1892,7 +2192,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1968,7 +2268,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -1986,7 +2286,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2004,7 +2304,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2022,7 +2322,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2040,7 +2340,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2206,7 +2506,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2324,7 +2624,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2394,6 +2694,7 @@
 
       <tg xml:lang="fin">
         <t pos="Pron">hän</t>
+
         <t pos="Pron">se</t>
       </tg>
 
@@ -2439,7 +2740,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2457,7 +2758,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2475,7 +2776,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2649,12 +2950,13 @@
 
       <stg>
         <st Contlex="PERS-SG1-IS-DAT">теене</st>
+
         <st Contlex="PERS-SG1-IS-DAT">тейне</st>
       </stg>
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">minulle</t>
@@ -2668,12 +2970,13 @@
 
       <stg>
         <st Contlex="PERS-PL1-IS-DAT">тееньк</st>
+
         <st Contlex="PERS-PL1-IS-DAT">тейнек</st>
       </stg>
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">meille</t>
@@ -2687,15 +2990,17 @@
 
       <stg>
         <st Contlex="PERS-SG3-IS-DAT">теенза</st>
+
         <st Contlex="PERS-SG3-IS-DAT">тейнза</st>
       </stg>
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">hänelle</t>
+
         <t pos="Pron">sille</t>
       </tg>
     </mg>
@@ -2707,12 +3012,13 @@
 
       <stg>
         <st Contlex="PERS-PL2-IS-DAT">теенть</st>
+
         <st Contlex="PERS-PL2-IS-DAT">тейнть</st>
       </stg>
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">teille</t>
@@ -2726,15 +3032,17 @@
 
       <stg>
         <st Contlex="PERS-PL3-IS-DAT">теест</st>
+
         <st Contlex="PERS-PL3-IS-DAT">тейст</st>
       </stg>
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">heille</t>
+
         <t pos="Pron">niille</t>
       </tg>
     </mg>
@@ -2750,7 +3058,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t pos="Pron">sinulle</t>
@@ -2768,7 +3076,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2786,7 +3094,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2804,7 +3112,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -2822,7 +3130,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -3346,7 +3654,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -3364,10 +3672,130 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзган</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXSG1">эзган</st>
+      </stg>
+    </lg>
+
+    <phonet>ezgan</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">minua pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзгат</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXSG2">эзгат</st>
+      </stg>
+    </lg>
+
+    <phonet>ezgat</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">sinua pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзганза</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXSG3">эзганза</st>
+      </stg>
+    </lg>
+
+    <phonet>ezganzə</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">sitä pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзганк</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXPL1">эзганк</st>
+      </stg>
+    </lg>
+
+    <phonet>ezgank</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">meitä pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзгант</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXPL2">эзгант</st>
+      </stg>
+    </lg>
+
+    <phonet>ezgant</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">teitä pitkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эзгаст</l>
+
+      <stg>
+        <st Contlex="PRON-PRL-PXPL3">эзгаст</st>
+      </stg>
+    </lg>
+
+    <phonet>ezgast</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">niitä pitkin</t>
       </tg>
     </mg>
   </e>
@@ -3382,10 +3810,158 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздон</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXSG1">эздон</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdən</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">minusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздот</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXSG2">эздот</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdət</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">sinusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздонза</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXSG3">эздонза</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdənzə</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">hänestä</t>
+
+        <t pos="Pron">siinä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздонк</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXPL1">эздонк</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdənk</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">meistä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздонт</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXPL2">эздонт</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdənt</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">teistä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эздост</l>
+
+      <stg>
+        <st Contlex="PRON-ABL-PXPL3">эздост</st>
+      </stg>
+    </lg>
+
+    <phonet>ezdəst</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">heistä</t>
+
+        <t pos="Pron">niistä</t>
       </tg>
     </mg>
   </e>
@@ -3400,7 +3976,7 @@
     </lg>
 
     <mg>
-        <defNative/>
+      <defNative/>
 
       <tg xml:lang="fin">
         <t/>
@@ -3445,6 +4021,158 @@
 
         <xt xml:lang="fin">joka kerta, aina, alituiseen.</xt>
       </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсон</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXSG1">эсон</st>
+      </stg>
+    </lg>
+
+    <phonet>esən</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in me</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">minussa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсот</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXSG2">эсот</st>
+      </stg>
+    </lg>
+
+    <phonet>esət</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in you</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">sinussa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсонза</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXSG3">эсонза</st>
+      </stg>
+    </lg>
+
+    <phonet>esənzə</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in him</t>
+
+        <t>in her</t>
+
+        <t>in it</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">hänessä</t>
+
+        <t pos="Pron">siinä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсонк</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXPL1">эсонк</st>
+      </stg>
+    </lg>
+
+    <phonet>esənk</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in us</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">meissä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсонт</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXPL2">эсонт</st>
+      </stg>
+    </lg>
+
+    <phonet>esənt</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in you guys</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">teissä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">эсост</l>
+
+      <stg>
+        <st Contlex="PRON-INE-PXPL3">эсост</st>
+      </stg>
+    </lg>
+
+    <phonet>esəst</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>in them</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">heissä</t>
+
+        <t pos="Pron">niissä</t>
+      </tg>
     </mg>
   </e>
 

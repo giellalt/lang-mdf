@@ -146,7 +146,7 @@ LEXICON PRON-DEM-SG
 LEXICON PRON-INDEF
 +Pron+Indef: WORD-END ;
 
-LEXICON PRON-INTERR-OBJ_МЕЗЕ
+LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
 !+Pron+Interr+Sem/Obj: PossPX1-NomSg ;
 !+Pron+Interr+Sem/Obj: PossPX1 ;
 +Pron+Interr+Sem/Obj: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
@@ -171,7 +171,71 @@ LEXICON PRON-REL_АВА
 +Pron+Rel: NMN-PL ;
 +Pron+Rel: NMN-SG/PL ;
 
+LEXICON PRON-ABL-PXSG1
++Pron+Abl+PxSg1: K_ГА ;
+LEXICON PRON-ABL-PXSG2
++Pron+Abl+PxSg2: K_ГА ;
+LEXICON PRON-ABL-PXSG3
++Pron+Abl+PxSg3: K_вок ;
+LEXICON PRON-ABL-PXPL1
++Pron+Abl+PxPl1: K_овок ;
+LEXICON PRON-ABL-PXPL2
++Pron+Abl+PxPl2: K_овок ;
+LEXICON PRON-ABL-PXPL3
++Pron+Abl+PxPl3: K_ГА ;
 
+
+LEXICON PRON-COM-PXSG1
++Pron+Com+PxSg1: K_ГА ;
+LEXICON PRON-COM-PXSG2
++Pron+Com+PxSg2: K_ГА ;
+LEXICON PRON-COM-PXSG3
++Pron+Com+PxSg3: K_вок ;
+LEXICON PRON-COM-PXPL1
++Pron+Com+PxPl1: K_овок ;
+LEXICON PRON-COM-PXPL2
++Pron+Com+PxPl2: K_овок ;
+LEXICON PRON-COM-PXPL3
++Pron+Com+PxPl3: K_ГА ;
+
+LEXICON PRON-INE-PXSG1
++Pron+Ine+PxSg1: K_ГА ;
+LEXICON PRON-INE-PXSG2
++Pron+Ine+PxSg2: K_ГА ;
+LEXICON PRON-INE-PXSG3
++Pron+Ine+PxSg3: K_вок ;
+LEXICON PRON-INE-PXPL1
++Pron+Ine+PxPl1: K_овок ;
+LEXICON PRON-INE-PXPL2
++Pron+Ine+PxPl2: K_овок ;
+LEXICON PRON-INE-PXPL3
++Pron+Ine+PxPl3: K_ГА ;
+
+LEXICON PRON-PRL-PXSG1
++Pron+Prl+PxSg1: K_ГА ;
+LEXICON PRON-PRL-PXSG2
++Pron+Prl+PxSg2: K_ГА ;
+LEXICON PRON-PRL-PXSG3
++Pron+Prl+PxSg3: K_вок ;
+LEXICON PRON-PRL-PXPL1
++Pron+Prl+PxPl1: K_овок ;
+LEXICON PRON-PRL-PXPL2
++Pron+Prl+PxPl2: K_овок ;
+LEXICON PRON-PRL-PXPL3
++Pron+Prl+PxPl3: K_ГА ;
+
+LEXICON PRON-X-PXSG1
++Pron+PxSg1: K_ГА ;
+LEXICON PRON-X-PXSG2
++Pron+PxSg2: K_ГА ;
+LEXICON PRON-X-PXSG3
++Pron+PxSg3: K_вок ;
+LEXICON PRON-X-PXPL1
++Pron+PxPl1: K_овок ;
+LEXICON PRON-X-PXPL2
++Pron+PxPl2: K_овок ;
+LEXICON PRON-X-PXPL3
++Pron+PxPl3: K_ГА ;
 
 ! vim: set ft=xfst-lexc:
 
