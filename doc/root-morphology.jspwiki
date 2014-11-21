@@ -51,8 +51,15 @@ Interjections:
  ; +Formulaic  : greetings,
 The Usage extents are marked using following tags:
  ; +Err/Sub    : substandard / outside the written norm
- ; +Use/-Spell : do not include in speller
+ * _+Use/Marg_ * Marginal
+ * _+Use/-Spell_ * Exclude from speller
+ * _+Use/SpellNoSugg_ * recognized but not suggested in speller
+ * _+Use/Circ_ * Circular path
+ * _+Use/CircN_ * Circular number path
+ * _+Use/-Ped_ * Remove from pedagogical speller
+ * _+Use/NG_ * Do not generate, for isme-ped.fst and apertium
 
+ * _+Use/LexSub_ * The lemma is not a Moksha word
 The nominals are inflected in the following Case and Number
  ; +Sg 		: singular
  ; +Pl 		: plural

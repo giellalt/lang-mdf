@@ -388,10 +388,10 @@
 
   <e>
     <lg>
-      <l pos="Interj">възы</l>
+      <l pos="Interj">взы</l>
 
       <stg>
-        <st Contlex="INTERJ_">възы</st>
+        <st Contlex="INTERJ_">взы</st>
       </stg>
     </lg>
 
@@ -700,10 +700,11 @@
 
   <e>
     <lg>
-      <l pos="Interj">късь-късь</l>
+      <l pos="Interj">ксь-ксь</l>
 
       <stg>
-        <st Contlex="INTERJ_">късь-късь</st>
+        <st Contlex="INTERJ_">ксь-ксь</st>
+        <st Contlex="INTERJ_" status="Use/SpellNoSugg">късь-късь</st>
       </stg>
     </lg>
 
@@ -1000,10 +1001,11 @@
 
   <e>
     <lg>
-      <l pos="Interj">пъс-пъс</l>
+      <l pos="Interj">пс-пс</l>
 
       <stg>
-        <st Contlex="INTERJ_">пъс-пъс</st>
+        <st Contlex="INTERJ_">пс-пс</st>
+        <st Contlex="INTERJ_" status="Use/SpellNoSugg">пъс-пъс</st>
       </stg>
     </lg>
 
@@ -1078,10 +1080,11 @@
 
   <e>
     <lg>
-      <l pos="Interj">тъпру</l>
+      <l pos="Interj">тпру</l>
 
       <stg>
-        <st Contlex="INTERJ_">тъпру</st>
+        <st Contlex="INTERJ_">тпру</st>
+<st Contlex="INTERJ_" status="Use/SpellNoSugg">тъпру</st>
       </stg>
     </lg>
 
@@ -1102,10 +1105,10 @@
 
   <e>
     <lg>
-      <l pos="Interj">тъсс</l>
+      <l pos="Interj">тсс</l>
 
       <stg>
-        <st Contlex="INTERJ_">тъсс</st>
+        <st Contlex="INTERJ_">тсс</st>
       </stg>
     </lg>
 
@@ -1388,6 +1391,7 @@
 
       <stg>
         <st Contlex="INTERJ_">хм</st>
+<st Contlex="INTERJ_" status="Use/SpellNoSugg">хъм</st>
       </stg>
     </lg>
 
@@ -1406,10 +1410,11 @@
 
   <e>
     <lg>
-      <l pos="Interj">хъм</l>
+      <l pos="Interj">хм</l>
 
       <stg>
-        <st Contlex="INTERJ_">хъм</st>
+        <st Contlex="INTERJ_">хм</st>
+<st Contlex="INTERJ_" status="Use/SpellNoSugg">хъм</st>
       </stg>
     </lg>
 

@@ -81,8 +81,8 @@ LEXICON quantifiers
 котоце:котоце NUM-ORD_  "" ;
 лама:лама QNT_  "paljon" ;
 ламонц:ламонц NUM-COLL_  "" ;
-кържа:кържа ADV_  "vähän" ;
-мъзярошка:мъзярошка QNT_  "kuinka paljon suunnilleen" ;
+кржа:кржа ADV_  "vähän" ;
+мзярошка:мзярошка QNT_  "kuinka paljon suunnilleen" ;
 миллионнай:миллионнай NUM_  "" ;
 ниле:ниле NUM-CARD_  "neljä" ;
 нильгемонце:нильгемонце NUM-ORD_  "" ;
@@ -103,3 +103,4 @@ LEXICON quantifiers
 тёжянь:тёжянь NUM-CARD_  "tuhat" ;
 финц:финц NUM-COLL_  "pari" ;
 фкя:фкя NUM-CARD_  "yksi" ;
+фкя+Use/SpellNoSugg:фъкя NUM-CARD_  "yksi" ;
