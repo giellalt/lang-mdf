@@ -1961,6 +1961,13 @@
         <t pos="N">seutu</t>
       </tg>
     </mg>
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">piiri</t>
+      </tg>
+    </mg>
   </e>
 
   <e>
@@ -7384,7 +7391,7 @@
       <l pos="N">ашка</l>
 
       <stg>
-        <st Contlex="N_АВА">ашка</st>
+        <st Contlex="N_ОФТА">ашк</st>
       </stg>
     </lg>
 
@@ -7401,10 +7408,11 @@
 
   <e>
     <lg>
-      <l pos="N">ашкокърькс</l>
+      <l pos="N">ашкокрькс</l>
 
       <stg>
-        <st Contlex="N_ОШ">ашкокърькс</st>
+        <st Contlex="N_ОШ">ашко#крькс</st>
+        <st Contlex="N_ОШ" status="Use/SpellNoSugg">ашко#кърькс</st>
       </stg>
     </lg>
 
@@ -10070,6 +10078,7 @@
 
       <stg>
         <st Contlex="N_АВА">бзмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъзмолдома</st>
       </stg>
     </lg>
 
@@ -10102,6 +10111,7 @@
 
       <stg>
         <st Contlex="N_АВА">бзнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъзнама</st>
       </stg>
     </lg>
 
@@ -10124,6 +10134,7 @@
 
       <stg>
         <st Contlex="N_АВА">бзодома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъзодома</st>
       </stg>
     </lg>
 
@@ -10554,6 +10565,7 @@
 
       <stg>
         <st Contlex="N_АВА">блдордома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бълдордома</st>
       </stg>
     </lg>
 
@@ -10690,6 +10702,7 @@
 
       <stg>
         <st Contlex="N_АВА">бльняма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъльняма</st>
       </stg>
     </lg>
 
@@ -11985,10 +11998,11 @@
 
   <e>
     <lg>
-      <l pos="N">брадърьвя</l>
+      <l pos="N">брадрьвя</l>
 
       <stg>
-        <st Contlex="N_АВА">брадърьвя</st>
+        <st Contlex="N_АВА">брад#рьвя</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">брад#ърьвя</st>
       </stg>
     </lg>
 
@@ -12239,6 +12253,7 @@
 
       <stg>
         <st Contlex="N_АВА">брнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бърнама</st>
       </stg>
     </lg>
 
@@ -13334,10 +13349,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъзан</l>
+      <l pos="N">бзан</l>
 
       <stg>
-        <st Contlex="N_КАЛ">бъзан</st>
+        <st Contlex="N_КАЛ">бзан</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">бъзан</st>
       </stg>
     </lg>
 
@@ -13352,10 +13368,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъзнама</l>
+      <l pos="N">бзнама</l>
 
       <stg>
-        <st Contlex="N_АВА">бъзнама</st>
+        <st Contlex="N_АВА">бзнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъзнама</st>
       </stg>
     </lg>
 
@@ -13370,10 +13387,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъзой</l>
+      <l pos="N">бзой</l>
 
       <stg>
-        <st Contlex="N_КАЛ">бъзой</st>
+        <st Contlex="N_КАЛ">бзой</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">бъзой</st>
       </stg>
     </lg>
 
@@ -13388,10 +13406,10 @@
 
   <e>
     <lg>
-      <l pos="N">бъзф</l>
+      <l pos="N">бзф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">бъзф</st>
+        <st Contlex="N_КАЛ">бзф</st>
       </stg>
     </lg>
 
@@ -13406,10 +13424,11 @@
 
   <e>
     <lg>
-      <l pos="N">бълдарига</l>
+      <l pos="N">блдарига</l>
 
       <stg>
-        <st Contlex="N_АВА">бълдарига</st>
+        <st Contlex="N_АВА">блдарига</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бълдарига</st>
       </stg>
     </lg>
 
@@ -13424,10 +13443,11 @@
 
   <e>
     <lg>
-      <l pos="N">бълхтадема</l>
+      <l pos="N">блхтадема</l>
 
       <stg>
-        <st Contlex="N_АВА">бълхтадема</st>
+        <st Contlex="N_АВА">блхтадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бълхтадема</st>
       </stg>
     </lg>
 
@@ -13442,10 +13462,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъльдяга</l>
+      <l pos="N">бльдяга</l>
 
       <stg>
-        <st Contlex="N_АВА">бъльдяга</st>
+        <st Contlex="N_АВА">бльдяга</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъльдяга</st>
       </stg>
     </lg>
 
@@ -13460,10 +13481,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъльк</l>
+      <l pos="N">бльк</l>
 
       <stg>
-        <st Contlex="N_КАЛ">бъльк</st>
+        <st Contlex="N_КАЛ">бльк</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">бъльк</st>
       </stg>
     </lg>
 
@@ -13478,10 +13500,11 @@
 
   <e>
     <lg>
-      <l pos="N">бълькадема</l>
+      <l pos="N">блькадема</l>
 
       <stg>
-        <st Contlex="N_АВА">бълькадема</st>
+        <st Contlex="N_АВА">блькадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бълькадема</st>
       </stg>
     </lg>
 
@@ -13496,10 +13519,11 @@
 
   <e>
     <lg>
-      <l pos="N">бъльхтиема</l>
+      <l pos="N">бльхтиема</l>
 
       <stg>
-        <st Contlex="N_АВА">бъльхтиема</st>
+        <st Contlex="N_АВА">бльхтиема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бъльхтиема</st>
       </stg>
     </lg>
 
@@ -13514,10 +13538,11 @@
 
   <e>
     <lg>
-      <l pos="N">бърдыган</l>
+      <l pos="N">брдыган</l>
 
       <stg>
-        <st Contlex="N_КАЛ">бърдыган</st>
+        <st Contlex="N_КАЛ">брдыган</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">бърдыган</st>
       </stg>
     </lg>
 
@@ -13532,10 +13557,11 @@
 
   <e>
     <lg>
-      <l pos="N">бърдыема</l>
+      <l pos="N">брдыема</l>
 
       <stg>
-        <st Contlex="N_АВА">бърдыема</st>
+        <st Contlex="N_АВА">брдыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бърдыема</st>
       </stg>
     </lg>
 
@@ -13550,10 +13576,11 @@
 
   <e>
     <lg>
-      <l pos="N">бърмата</l>
+      <l pos="N">брмата</l>
 
       <stg>
-        <st Contlex="N_">бърмата</st>
+        <st Contlex="N_">брмата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">бърмата</st>
       </stg>
     </lg>
 
@@ -13568,10 +13595,11 @@
 
   <e>
     <lg>
-      <l pos="N">бътадема</l>
+      <l pos="N">бтадема</l>
 
       <stg>
-        <st Contlex="N_АВА">бътадема</st>
+        <st Contlex="N_АВА">бтадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бътадема</st>
       </stg>
     </lg>
 
@@ -13586,10 +13614,11 @@
 
   <e>
     <lg>
-      <l pos="N">бътнама</l>
+      <l pos="N">бтнама</l>
 
       <stg>
-        <st Contlex="N_АВА">бътнама</st>
+        <st Contlex="N_АВА">бтнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бътнама</st>
       </stg>
     </lg>
 
@@ -13604,10 +13633,11 @@
 
   <e>
     <lg>
-      <l pos="N">бътыема</l>
+      <l pos="N">бтыема</l>
 
       <stg>
-        <st Contlex="N_АВА">бътыема</st>
+        <st Contlex="N_АВА">бтыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">бътыема</st>
       </stg>
     </lg>
 
@@ -17464,6 +17494,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">вдавой</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">въдавой</st>
       </stg>
     </lg>
 
@@ -19248,6 +19279,7 @@
 
       <stg>
         <st Contlex="N_ОШ">взнос</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">възнос</st>
       </stg>
     </lg>
 
@@ -20834,6 +20866,7 @@
 
       <stg>
         <st Contlex="N_ОШ">вкус</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">въкус</st>
       </stg>
     </lg>
 
@@ -21944,6 +21977,7 @@
 
       <stg>
         <st Contlex="N_ОШ">врьгазленгакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">върьгазленгакс</st>
       </stg>
     </lg>
 
@@ -21964,6 +21998,7 @@
 
       <stg>
         <st Contlex="N_ОШ">врьгазлефкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">върьгазлефкс</st>
       </stg>
     </lg>
 
@@ -21984,6 +22019,7 @@
 
       <stg>
         <st Contlex="N_ОФТА">врьгаз#почк</st>
+<st Contlex="N_ОФТА" status="Use/SpellNoSugg">върьгаз#почк</st>
       </stg>
     </lg>
 
@@ -22092,10 +22128,11 @@
 
   <e>
     <lg>
-      <l pos="N">въжгама</l>
+      <l pos="N">вжгама</l>
 
       <stg>
-        <st Contlex="N_АВА">въжгама</st>
+        <st Contlex="N_АВА">вжгама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">въжгама</st>
       </stg>
     </lg>
 
@@ -22110,10 +22147,11 @@
 
   <e>
     <lg>
-      <l pos="N">въжголдома</l>
+      <l pos="N">вжголдома</l>
 
       <stg>
-        <st Contlex="N_АВА">въжголдома</st>
+        <st Contlex="N_АВА">вжголдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">въжголдома</st>
       </stg>
     </lg>
 
@@ -22128,10 +22166,11 @@
 
   <e>
     <lg>
-      <l pos="N">въжголф</l>
+      <l pos="N">вжголф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">въжголф</st>
+        <st Contlex="N_КАЛ">вжголф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">въжголф</st>
       </stg>
     </lg>
 
@@ -22146,10 +22185,11 @@
 
   <e>
     <lg>
-      <l pos="N">въжнама</l>
+      <l pos="N">вжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">въжнама</st>
+        <st Contlex="N_АВА">вжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">въжнама</st>
       </stg>
     </lg>
 
@@ -22164,10 +22204,10 @@
 
   <e>
     <lg>
-      <l pos="N">въжф</l>
+      <l pos="N">вжф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">въжф</st>
+        <st Contlex="N_КАЛ">вжф</st>
       </stg>
     </lg>
 
@@ -22182,10 +22222,11 @@
 
   <e>
     <lg>
-      <l pos="N">въндряв</l>
+      <l pos="N">вндряв</l>
 
       <stg>
-        <st Contlex="N_КАЛ">въндряв</st>
+        <st Contlex="N_КАЛ">вндряв</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">въндряв</st>
       </stg>
     </lg>
 
@@ -22200,10 +22241,11 @@
 
   <e>
     <lg>
-      <l pos="N">върнофтома</l>
+      <l pos="N">врнофтома</l>
 
       <stg>
-        <st Contlex="N_АВА">върнофтома</st>
+        <st Contlex="N_АВА">врнофтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върнофтома</st>
       </stg>
     </lg>
 
@@ -22218,10 +22260,11 @@
 
   <e>
     <lg>
-      <l pos="N">върхтадема</l>
+      <l pos="N">врхтадема</l>
 
       <stg>
-        <st Contlex="N_АВА">върхтадема</st>
+        <st Contlex="N_АВА">врхтадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върхтадема</st>
       </stg>
     </lg>
 
@@ -22236,10 +22279,11 @@
 
   <e>
     <lg>
-      <l pos="N">върхчадема</l>
+      <l pos="N">врхчадема</l>
 
       <stg>
-        <st Contlex="N_АВА">върхчадема</st>
+        <st Contlex="N_АВА">врхчадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върхчадема</st>
       </stg>
     </lg>
 
@@ -22254,10 +22298,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгаз</l>
+      <l pos="N">врьгаз</l>
 
       <stg>
-        <st Contlex="N_ОШ">върьгаз</st>
+        <st Contlex="N_ОШ">врьгаз</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">върьгаз</st>
       </stg>
     </lg>
 
@@ -22272,10 +22317,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгам</l>
+      <l pos="N">врьгам</l>
 
       <stg>
-        <st Contlex="N_КАЛ">върьгам</st>
+        <st Contlex="N_КАЛ">врьгам</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">върьгам</st>
       </stg>
     </lg>
 
@@ -22290,10 +22336,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгаскя</l>
+      <l pos="N">врьгаскя</l>
 
       <stg>
-        <st Contlex="N_АВА">върьгаскя</st>
+        <st Contlex="N_АВА">врьгаскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върьгаскя</st>
       </stg>
     </lg>
 
@@ -22308,10 +22355,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгаст-месть</l>
+      <l pos="N">врьгаст-месть</l>
 
       <stg>
-        <st Contlex="N_">върьгаст-месть</st>
+        <st Contlex="N_">врьгаст-месть</st>
+<st Contlex="N_" status="Use/SpellNoSugg">върьгаст-месть</st>
       </stg>
     </lg>
 
@@ -22326,10 +22374,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгезем</l>
+      <l pos="N">врьгезем</l>
 
       <stg>
-        <st Contlex="N_КАЛ">върьгезем</st>
+        <st Contlex="N_КАЛ">врьгезем</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">върьгезем</st>
       </stg>
     </lg>
 
@@ -22344,10 +22393,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгун</l>
+      <l pos="N">врьгун</l>
 
       <stg>
-        <st Contlex="N_КАЛ">върьгун</st>
+        <st Contlex="N_КАЛ">врьгун</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">върьгун</st>
       </stg>
     </lg>
 
@@ -22362,10 +22412,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьгятема</l>
+      <l pos="N">врьгятема</l>
 
       <stg>
-        <st Contlex="N_АВА">върьгятема</st>
+        <st Contlex="N_АВА">врьгятема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върьгятема</st>
       </stg>
     </lg>
 
@@ -22380,10 +22431,10 @@
 
   <e>
     <lg>
-      <l pos="N">върьлюган</l>
+      <l pos="N">врьлюган</l>
 
       <stg>
-        <st Contlex="N_КАЛ">върьлюган</st>
+        <st Contlex="N_КАЛ">врьлюган</st>
       </stg>
     </lg>
 
@@ -22398,10 +22449,11 @@
 
   <e>
     <lg>
-      <l pos="N">върьхтиема</l>
+      <l pos="N">врьхтиема</l>
 
       <stg>
-        <st Contlex="N_АВА">върьхтиема</st>
+        <st Contlex="N_АВА">врьхтиема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">върьхтиема</st>
       </stg>
     </lg>
 
@@ -22416,10 +22468,11 @@
 
   <e>
     <lg>
-      <l pos="N">вътряс</l>
+      <l pos="N">втряс</l>
 
       <stg>
-        <st Contlex="N_ОШ">вътряс</st>
+        <st Contlex="N_ОШ">втряс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">вътряс</st>
       </stg>
     </lg>
 
@@ -22434,10 +22487,11 @@
 
   <e>
     <lg>
-      <l pos="N">въшкярьге</l>
+      <l pos="N">вшкярьге</l>
 
       <stg>
-        <st Contlex="N_">въшкярьге</st>
+        <st Contlex="N_">вшкярьге</st>
+<st Contlex="N_" status="Use/SpellNoSugg">въшкярьге</st>
       </stg>
     </lg>
 
@@ -24334,10 +24388,11 @@
 
   <e>
     <lg>
-      <l pos="N">гарнъц</l>
+      <l pos="N">гарноц</l>
 
       <stg>
-        <st Contlex="N_ОШ">гарнъц</st>
+        <st Contlex="N_ОШ">гарноц</st>
+        <st Contlex="N_ОШ" status="Use/SpellNoSugg">гарнъц</st>
       </stg>
     </lg>
 
@@ -24452,6 +24507,7 @@
 
       <stg>
         <st Contlex="N_ОШ">гвардеец</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">гъвардеец</st>
       </stg>
     </lg>
 
@@ -24470,6 +24526,7 @@
 
       <stg>
         <st Contlex="N_АВА">гвардия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гъвардия</st>
       </stg>
     </lg>
 
@@ -24488,6 +24545,7 @@
 
       <stg>
         <st Contlex="N_АВА">гвоздика</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гъвоздика</st>
       </stg>
     </lg>
 
@@ -25302,6 +25360,7 @@
 
       <stg>
         <st Contlex="N_АВА">гнязда</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гънязда</st>
       </stg>
     </lg>
 
@@ -25320,6 +25379,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">гнёт</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">гънёт</st>
       </stg>
     </lg>
 
@@ -27070,10 +27130,11 @@
 
   <e>
     <lg>
-      <l pos="N">гъзбол</l>
+      <l pos="N">гзбол</l>
 
       <stg>
-        <st Contlex="N_КАЛ">гъзбол</st>
+        <st Contlex="N_КАЛ">гзбол</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">гъзбол</st>
       </stg>
     </lg>
 
@@ -27088,10 +27149,11 @@
 
   <e>
     <lg>
-      <l pos="N">гъзболня</l>
+      <l pos="N">гзболня</l>
 
       <stg>
-        <st Contlex="N_АВА">гъзболня</st>
+        <st Contlex="N_АВА">гзболня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гъзболня</st>
       </stg>
     </lg>
 
@@ -27106,10 +27168,11 @@
 
   <e>
     <lg>
-      <l pos="N">гъзмолдома</l>
+      <l pos="N">гзмолдома</l>
 
       <stg>
-        <st Contlex="N_АВА">гъзмолдома</st>
+        <st Contlex="N_АВА">гзмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гъзмолдома</st>
       </stg>
     </lg>
 
@@ -27124,10 +27187,10 @@
 
   <e>
     <lg>
-      <l pos="N">гъзф</l>
+      <l pos="N">гзф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">гъзф</st>
+        <st Contlex="N_КАЛ">гзф</st>
       </stg>
     </lg>
 
@@ -27142,10 +27205,11 @@
 
   <e>
     <lg>
-      <l pos="N">гълтыема</l>
+      <l pos="N">глтыема</l>
 
       <stg>
-        <st Contlex="N_АВА">гълтыема</st>
+        <st Contlex="N_АВА">глтыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">гълтыема</st>
       </stg>
     </lg>
 
@@ -27163,7 +27227,7 @@
       <l pos="N">грьза</l>
 
       <stg>
-        <st Contlex="N_">гърьза</st>
+        <st Contlex="N_">грьза</st>
       </stg>
     </lg>
 
@@ -27494,6 +27558,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">двигатель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">дъвигатель</st>
       </stg>
     </lg>
 
@@ -27512,6 +27577,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">движок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">дъвижок</st>
       </stg>
     </lg>
 
@@ -27530,6 +27596,7 @@
 
       <stg>
         <st Contlex="N_АВА">двоевластия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дъвоевластия</st>
       </stg>
     </lg>
 
@@ -27548,6 +27615,7 @@
 
       <stg>
         <st Contlex="N_АВА">двоеточия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дъвоеточия</st>
       </stg>
     </lg>
 
@@ -27566,6 +27634,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">двоечник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">дъвоечник</st>
       </stg>
     </lg>
 
@@ -27584,6 +27653,7 @@
 
       <stg>
         <st Contlex="N_АВА">двойка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дъвойка</st>
       </stg>
     </lg>
 
@@ -27602,6 +27672,7 @@
 
       <stg>
         <st Contlex="N_АВА">двуязычия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дъвуязычия</st>
       </stg>
     </lg>
 
@@ -29468,6 +29539,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">дневник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">дъневник</st>
       </stg>
     </lg>
 
@@ -30294,6 +30366,7 @@
 
       <stg>
         <st Contlex="N_АВА">дрнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дърнама</st>
       </stg>
     </lg>
 
@@ -30316,6 +30389,7 @@
 
       <stg>
         <st Contlex="N_АВА">дрняма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">дърняма</st>
       </stg>
     </lg>
 
@@ -34176,6 +34250,7 @@
 
       <stg>
         <st Contlex="N_АВА">звания</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зъвания</st>
       </stg>
     </lg>
 
@@ -34194,6 +34269,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">зверь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зъверь</st>
       </stg>
     </lg>
 
@@ -34224,6 +34300,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">звонок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зъвонок</st>
       </stg>
     </lg>
 
@@ -34254,6 +34331,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">звук</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зъвук</st>
       </stg>
     </lg>
 
@@ -34272,6 +34350,7 @@
 
       <stg>
         <st Contlex="N_АВА">звязка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зъвязка</st>
       </stg>
     </lg>
 
@@ -34290,6 +34369,7 @@
 
       <stg>
         <st Contlex="N_АВА">згрейня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зъгрейня</st>
       </stg>
     </lg>
 
@@ -34308,6 +34388,7 @@
 
       <stg>
         <st Contlex="N_АВА">здравоохранения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зъдравоохранения</st>
       </stg>
     </lg>
 
@@ -34322,10 +34403,11 @@
 
   <e>
     <lg>
-      <l pos="N">здърна</l>
+      <l pos="N">здрна</l>
 
       <stg>
-        <st Contlex="N_">здърна</st>
+        <st Contlex="N_">здрна</st>
+<st Contlex="N_" status="Use/SpellNoSugg">здърна</st>
       </stg>
     </lg>
 
@@ -34702,6 +34784,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">знак</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зънак</st>
       </stg>
     </lg>
 
@@ -34720,6 +34803,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">знакомай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зънакомай</st>
       </stg>
     </lg>
 
@@ -34742,6 +34826,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">знаменатель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зънаменатель</st>
       </stg>
     </lg>
 
@@ -34760,6 +34845,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">знаменательнай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зънаменательнай</st>
       </stg>
     </lg>
 
@@ -34778,6 +34864,7 @@
 
       <stg>
         <st Contlex="N_ОШ">знаменосец</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">зънаменосец</st>
       </stg>
     </lg>
 
@@ -34796,6 +34883,7 @@
 
       <stg>
         <st Contlex="N_АВА">знамя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зънамя</st>
       </stg>
     </lg>
 
@@ -34816,6 +34904,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">знахарь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зънахарь</st>
       </stg>
     </lg>
 
@@ -34834,6 +34923,7 @@
 
       <stg>
         <st Contlex="N_АВА">значения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">зъначения</st>
       </stg>
     </lg>
 
@@ -34852,6 +34942,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">значок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">зъначок</st>
       </stg>
     </lg>
 
@@ -35186,10 +35277,11 @@
 
   <e>
     <lg>
-      <l pos="N">зърнят-месть</l>
+      <l pos="N">зрнят-месть</l>
 
       <stg>
-        <st Contlex="N_">зърнят-месть</st>
+        <st Contlex="N_">зрнят-месть</st>
+<st Contlex="N_" status="Use/SpellNoSugg">зърнят-месть</st>
       </stg>
     </lg>
 
@@ -45730,6 +45822,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">квадрат</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къвадрат</st>
       </stg>
     </lg>
 
@@ -45748,6 +45841,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">квартет</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къвартет</st>
       </stg>
     </lg>
 
@@ -45766,6 +45860,7 @@
 
       <stg>
         <st Contlex="N_АВА">квартира</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къвартира</st>
       </stg>
     </lg>
 
@@ -45784,6 +45879,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">квартирант</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къвартирант</st>
       </stg>
     </lg>
 
@@ -45802,6 +45898,7 @@
 
       <stg>
         <st Contlex="N_ОШ">кварц</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къварц</st>
       </stg>
     </lg>
 
@@ -45820,6 +45917,7 @@
 
       <stg>
         <st Contlex="N_ОШ">квас</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къвас</st>
       </stg>
     </lg>
 
@@ -45838,6 +45936,7 @@
 
       <stg>
         <st Contlex="N_АВА">кваскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къваскя</st>
       </stg>
     </lg>
 
@@ -45856,6 +45955,7 @@
 
       <stg>
         <st Contlex="N_АВА">квитанция</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къвитанция</st>
       </stg>
     </lg>
 
@@ -48022,6 +48122,7 @@
 
       <stg>
         <st Contlex="N_АВА">кжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къжнама</st>
       </stg>
     </lg>
 
@@ -48064,6 +48165,7 @@
 
       <stg>
         <st Contlex="N_АВА">кзмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къзмолдома</st>
       </stg>
     </lg>
 
@@ -49272,6 +49374,7 @@
 
       <stg>
         <st Contlex="N_АВА">клдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кълдома</st>
       </stg>
     </lg>
 
@@ -49890,6 +49993,7 @@
 
       <stg>
         <st Contlex="N_АВА">книга</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кънига</st>
       </stg>
     </lg>
 
@@ -49910,6 +50014,7 @@
 
       <stg>
         <st Contlex="N_ОШ">книгалангакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">кънигалангакс</st>
       </stg>
     </lg>
 
@@ -49930,6 +50035,7 @@
 
       <stg>
         <st Contlex="N_АВА">книжка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кънижка</st>
       </stg>
     </lg>
 
@@ -49948,6 +50054,7 @@
 
       <stg>
         <st Contlex="N_АВА">книжканя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кънижканя</st>
       </stg>
     </lg>
 
@@ -49966,6 +50073,7 @@
 
       <stg>
         <st Contlex="N_АВА">кнопка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кънопка</st>
       </stg>
     </lg>
 
@@ -49984,6 +50092,7 @@
 
       <stg>
         <st Contlex="N_АВА">кнопканя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кънопканя</st>
       </stg>
     </lg>
 
@@ -50002,6 +50111,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">князь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">кънязь</st>
       </stg>
     </lg>
 
@@ -54886,6 +54996,7 @@
 
       <stg>
         <st Contlex="N_">крга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърга</st>
       </stg>
     </lg>
 
@@ -54942,6 +55053,7 @@
 
       <stg>
         <st Contlex="N_ОШ">кргавакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къргавакс</st>
       </stg>
     </lg>
 
@@ -54968,6 +55080,7 @@
 
       <stg>
         <st Contlex="N_ОШ">кргакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къргакс</st>
       </stg>
     </lg>
 
@@ -54990,6 +55103,7 @@
 
       <stg>
         <st Contlex="N_АВА">кргакстома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргакстома</st>
       </stg>
     </lg>
 
@@ -55010,6 +55124,7 @@
 
       <stg>
         <st Contlex="N_ОШ">кргалкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къргалкс</st>
       </stg>
     </lg>
 
@@ -55032,6 +55147,7 @@
 
       <stg>
         <st Contlex="N_АВА">кргама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргама</st>
       </stg>
     </lg>
 
@@ -55052,6 +55168,7 @@
 
       <stg>
         <st Contlex="N_АВА">кргаурма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргаурма</st>
       </stg>
     </lg>
 
@@ -55072,6 +55189,7 @@
 
       <stg>
         <st Contlex="N_АВА">крда</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърда</st>
       </stg>
     </lg>
 
@@ -55480,6 +55598,7 @@
 
       <stg>
         <st Contlex="N_АВА">крнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърнама</st>
       </stg>
     </lg>
 
@@ -55822,6 +55941,7 @@
 
       <stg>
         <st Contlex="N_">крхкалма</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърхкалма</st>
       </stg>
     </lg>
 
@@ -55936,6 +56056,7 @@
 
       <stg>
         <st Contlex="N_АВА">крьвястема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърьвястема</st>
       </stg>
     </lg>
 
@@ -55986,6 +56107,7 @@
 
       <stg>
         <st Contlex="N_ОШ">крьхтякс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">кърьхтякс</st>
       </stg>
     </lg>
 
@@ -56212,6 +56334,7 @@
 
       <stg>
         <st Contlex="N_">ксты</st>
+<st Contlex="N_" status="Use/SpellNoSugg">късты</st>
       </stg>
     </lg>
 
@@ -56232,6 +56355,7 @@
 
       <stg>
         <st Contlex="N_ОШ">кстыкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къстыкс</st>
       </stg>
     </lg>
 
@@ -56252,6 +56376,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">кстыпанчф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къстыпанчф</st>
       </stg>
     </lg>
 
@@ -56292,6 +56417,7 @@
 
       <stg>
         <st Contlex="N_АВА">ктнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътнама</st>
       </stg>
     </lg>
 
@@ -59809,6 +59935,7 @@
 
       <stg>
         <st Contlex="N_">кшни</st>
+<st Contlex="N_" status="Use/SpellNoSugg">къшни</st>
       </stg>
     </lg>
 
@@ -59845,6 +59972,7 @@
 
       <stg>
         <st Contlex="N_">кшни</st>
+<st Contlex="N_" status="Use/SpellNoSugg">къшни</st>
       </stg>
     </lg>
 
@@ -59873,6 +60001,7 @@
 
       <stg>
         <st Contlex="N_АВА">кшняма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къшняма</st>
       </stg>
     </lg>
 
@@ -59893,6 +60022,7 @@
 
       <stg>
         <st Contlex="N_">кшти</st>
+<st Contlex="N_" status="Use/SpellNoSugg">къшти</st>
       </stg>
     </lg>
 
@@ -59913,6 +60043,7 @@
 
       <stg>
         <st Contlex="N_АВА">кштима</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къштима</st>
       </stg>
     </lg>
 
@@ -59933,6 +60064,7 @@
 
       <stg>
         <st Contlex="N_">кштирди</st>
+<st Contlex="N_" status="Use/SpellNoSugg">къштирди</st>
       </stg>
     </lg>
 
@@ -59953,6 +60085,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">кштирь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къштирь</st>
       </stg>
     </lg>
 
@@ -59987,10 +60120,10 @@
 
   <e>
     <lg>
-      <l pos="N">къжелдома</l>
+      <l pos="N">кжелдома</l>
 
       <stg>
-        <st Contlex="N_АВА">къжелдома</st>
+        <st Contlex="N_АВА">кжелдома</st>
       </stg>
     </lg>
 
@@ -60005,10 +60138,10 @@
 
   <e>
     <lg>
-      <l pos="N">къжелф</l>
+      <l pos="N">кжелф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">къжелф</st>
+        <st Contlex="N_КАЛ">кжелф</st>
       </stg>
     </lg>
 
@@ -60023,10 +60156,11 @@
 
   <e>
     <lg>
-      <l pos="N">къжнама</l>
+      <l pos="N">кжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">къжнама</st>
+        <st Contlex="N_АВА">кжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къжнама</st>
       </stg>
     </lg>
 
@@ -60041,10 +60175,10 @@
 
   <e>
     <lg>
-      <l pos="N">къжф</l>
+      <l pos="N">кжф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">къжф</st>
+        <st Contlex="N_КАЛ">кжф</st>
       </stg>
     </lg>
 
@@ -60059,10 +60193,11 @@
 
   <e>
     <lg>
-      <l pos="N">къзболня</l>
+      <l pos="N">кзболня</l>
 
       <stg>
-        <st Contlex="N_АВА">къзболня</st>
+        <st Contlex="N_АВА">кзболня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къзболня</st>
       </stg>
     </lg>
 
@@ -60077,10 +60212,11 @@
 
   <e>
     <lg>
-      <l pos="N">къзмолдама</l>
+      <l pos="N">кзмолдама</l>
 
       <stg>
-        <st Contlex="N_АВА">къзмолдама</st>
+        <st Contlex="N_АВА">кзмолдама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къзмолдама</st>
       </stg>
     </lg>
 
@@ -60095,10 +60231,11 @@
 
   <e>
     <lg>
-      <l pos="N">къзмолдома</l>
+      <l pos="N">кзмолдома</l>
 
       <stg>
-        <st Contlex="N_АВА">къзмолдома</st>
+        <st Contlex="N_АВА">кзмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къзмолдома</st>
       </stg>
     </lg>
 
@@ -60113,10 +60250,11 @@
 
   <e>
     <lg>
-      <l pos="N">кългата</l>
+      <l pos="N">клгата</l>
 
       <stg>
-        <st Contlex="N_">кългата</st>
+        <st Contlex="N_">клгата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кългата</st>
       </stg>
     </lg>
 
@@ -60131,10 +60269,11 @@
 
   <e>
     <lg>
-      <l pos="N">кългатинадама</l>
+      <l pos="N">клгатинадама</l>
 
       <stg>
-        <st Contlex="N_АВА">кългатинадама</st>
+        <st Contlex="N_АВА">клгатинадама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кългатинадама</st>
       </stg>
     </lg>
 
@@ -60149,10 +60288,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълдом</l>
+      <l pos="N">клдом</l>
 
       <stg>
-        <st Contlex="N_КАЛ">кълдом</st>
+        <st Contlex="N_КАЛ">клдом</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">кълдом</st>
       </stg>
     </lg>
 
@@ -60167,10 +60307,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълдома</l>
+      <l pos="N">клдома</l>
 
       <stg>
-        <st Contlex="N_АВА">кълдома</st>
+        <st Contlex="N_АВА">клдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кълдома</st>
       </stg>
     </lg>
 
@@ -60185,10 +60326,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълдоманя</l>
+      <l pos="N">клдоманя</l>
 
       <stg>
-        <st Contlex="N_АВА">кълдоманя</st>
+        <st Contlex="N_АВА">клдоманя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кълдоманя</st>
       </stg>
     </lg>
 
@@ -60203,10 +60345,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълдомафкс</l>
+      <l pos="N">клдомафкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">кълдомафкс</st>
+        <st Contlex="N_ОШ">клдомафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">кълдомафкс</st>
       </stg>
     </lg>
 
@@ -60221,10 +60364,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълтадема</l>
+      <l pos="N">клтадема</l>
 
       <stg>
-        <st Contlex="N_АВА">кълтадема</st>
+        <st Contlex="N_АВА">клтадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кълтадема</st>
       </stg>
     </lg>
 
@@ -60239,10 +60383,10 @@
 
   <e>
     <lg>
-      <l pos="N">кълштыема</l>
+      <l pos="N">клштыема</l>
 
       <stg>
-        <st Contlex="N_АВА">кълштыема</st>
+        <st Contlex="N_АВА">клштыема</st>
       </stg>
     </lg>
 
@@ -60257,10 +60401,11 @@
 
   <e>
     <lg>
-      <l pos="N">кълят-мълят</l>
+      <l pos="N">клят-млят</l>
 
       <stg>
-        <st Contlex="N_КАЛ">кълят-мълят</st>
+        <st Contlex="N_КАЛ">клят-млят</st>
+        <st Contlex="N_КАЛ" status="Use/SpellNoSugg">кълят-мълят</st>
       </stg>
     </lg>
 
@@ -60275,10 +60420,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърга</l>
+      <l pos="N">крга</l>
 
       <stg>
-        <st Contlex="N_">кърга</st>
+        <st Contlex="N_">крга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърга</st>
       </stg>
     </lg>
 
@@ -60297,10 +60443,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргавкскя</l>
+      <l pos="N">кргавкскя</l>
 
       <stg>
-        <st Contlex="N_АВА">къргавкскя</st>
+        <st Contlex="N_АВА">кргавкскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргавкскя</st>
       </stg>
     </lg>
 
@@ -60315,10 +60462,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргакс</l>
+      <l pos="N">кргакс</l>
 
       <stg>
-        <st Contlex="N_ОШ">къргакс</st>
+        <st Contlex="N_ОШ">кргакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къргакс</st>
       </stg>
     </lg>
 
@@ -60333,10 +60481,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргакскя</l>
+      <l pos="N">кргакскя</l>
 
       <stg>
-        <st Contlex="N_АВА">къргакскя</st>
+        <st Contlex="N_АВА">кргакскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргакскя</st>
       </stg>
     </lg>
 
@@ -60351,10 +60500,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргакснема</l>
+      <l pos="N">кргакснема</l>
 
       <stg>
-        <st Contlex="N_АВА">къргакснема</st>
+        <st Contlex="N_АВА">кргакснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргакснема</st>
       </stg>
     </lg>
 
@@ -60369,10 +60519,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргакстома</l>
+      <l pos="N">кргакстома</l>
 
       <stg>
-        <st Contlex="N_АВА">къргакстома</st>
+        <st Contlex="N_АВА">кргакстома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргакстома</st>
       </stg>
     </lg>
 
@@ -60387,10 +60538,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргама</l>
+      <l pos="N">кргама</l>
 
       <stg>
-        <st Contlex="N_АВА">къргама</st>
+        <st Contlex="N_АВА">кргама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргама</st>
       </stg>
     </lg>
 
@@ -60405,10 +60557,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърганя</l>
+      <l pos="N">крганя</l>
 
       <stg>
-        <st Contlex="N_АВА">кърганя</st>
+        <st Contlex="N_АВА">крганя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърганя</st>
       </stg>
     </lg>
 
@@ -60423,10 +60576,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргафкс</l>
+      <l pos="N">кргафкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">къргафкс</st>
+        <st Contlex="N_ОШ">кргафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">къргафкс</st>
       </stg>
     </lg>
 
@@ -60441,10 +60595,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргафкскя</l>
+      <l pos="N">кргафкскя</l>
 
       <stg>
-        <st Contlex="N_АВА">къргафкскя</st>
+        <st Contlex="N_АВА">кргафкскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къргафкскя</st>
       </stg>
     </lg>
 
@@ -60459,10 +60614,11 @@
 
   <e>
     <lg>
-      <l pos="N">къргафкст</l>
+      <l pos="N">кргафкст</l>
 
       <stg>
-        <st Contlex="N_ОШ-PL">къргафкс</st>
+        <st Contlex="N_ОШ-PL">кргафкс</st>
+<st Contlex="N_ОШ-PL" status="Use/SpellNoSugg">къргафкс</st>
       </stg>
     </lg>
 
@@ -60477,10 +60633,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърда</l>
+      <l pos="N">крда</l>
 
       <stg>
-        <st Contlex="N_АВА">кърда</st>
+        <st Contlex="N_АВА">крда</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърда</st>
       </stg>
     </lg>
 
@@ -60495,10 +60652,10 @@
 
   <e>
     <lg>
-      <l pos="N">къре</l>
+      <l pos="N">кре</l>
 
       <stg>
-        <st Contlex="N_">къре</st>
+        <st Contlex="N_">кре</st>
       </stg>
     </lg>
 
@@ -60513,10 +60670,10 @@
 
   <e>
     <lg>
-      <l pos="N">кържа</l>
+      <l pos="N">кржа</l>
 
       <stg>
-        <st Contlex="N_">кържа</st>
+        <st Contlex="N_">кржа</st>
       </stg>
     </lg>
 
@@ -60531,10 +60688,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърксема</l>
+      <l pos="N">крксема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърксема</st>
+        <st Contlex="N_АВА">крксема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърксема</st>
       </stg>
     </lg>
 
@@ -60549,10 +60707,11 @@
 
   <e>
     <lg>
-      <l pos="N">къркштыема</l>
+      <l pos="N">кркштыема</l>
 
       <stg>
-        <st Contlex="N_АВА">къркштыема</st>
+        <st Contlex="N_АВА">кркштыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къркштыема</st>
       </stg>
     </lg>
 
@@ -60567,10 +60726,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърносема</l>
+      <l pos="N">крносема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърносема</st>
+        <st Contlex="N_АВА">крносема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърносема</st>
       </stg>
     </lg>
 
@@ -60585,10 +60745,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърня</l>
+      <l pos="N">крня</l>
 
       <stg>
-        <st Contlex="N_АВА">кърня</st>
+        <st Contlex="N_АВА">крня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърня</st>
       </stg>
     </lg>
 
@@ -60603,10 +60764,10 @@
 
   <e>
     <lg>
-      <l pos="N">кърф</l>
+      <l pos="N">крф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">кърф</st>
+        <st Contlex="N_КАЛ">крф</st>
       </stg>
     </lg>
 
@@ -60621,10 +60782,10 @@
 
   <e>
     <lg>
-      <l pos="N">кърфама</l>
+      <l pos="N">крфама</l>
 
       <stg>
-        <st Contlex="N_АВА">кърфама</st>
+        <st Contlex="N_АВА">крфама</st>
       </stg>
     </lg>
 
@@ -60639,10 +60800,10 @@
 
   <e>
     <lg>
-      <l pos="N">кърхмадема</l>
+      <l pos="N">крхмадема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърхмадема</st>
+        <st Contlex="N_АВА">крхмадема</st>
       </stg>
     </lg>
 
@@ -60657,10 +60818,10 @@
 
   <e>
     <lg>
-      <l pos="N">кърхматьфтема</l>
+      <l pos="N">крхматьфтема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърхматьфтема</st>
+        <st Contlex="N_АВА">крхматьфтема</st>
       </stg>
     </lg>
 
@@ -60675,10 +60836,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърхтакшкя</l>
+      <l pos="N">крхтакшкя</l>
 
       <stg>
-        <st Contlex="N_АВА">кърхтакшкя</st>
+        <st Contlex="N_АВА">крхтакшкя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърхтакшкя</st>
       </stg>
     </lg>
 
@@ -60693,10 +60855,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърхтама</l>
+      <l pos="N">крхтама</l>
 
       <stg>
-        <st Contlex="N_АВА">кърхтама</st>
+        <st Contlex="N_АВА">крхтама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърхтама</st>
       </stg>
     </lg>
 
@@ -60711,10 +60874,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьвязема</l>
+      <l pos="N">крьвязема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърьвязема</st>
+        <st Contlex="N_АВА">крьвязема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърьвязема</st>
       </stg>
     </lg>
 
@@ -60729,10 +60893,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьвяснема</l>
+      <l pos="N">крьвяснема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърьвяснема</st>
+        <st Contlex="N_АВА">крьвяснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърьвяснема</st>
       </stg>
     </lg>
 
@@ -60747,10 +60912,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьвясни</l>
+      <l pos="N">крьвясни</l>
 
       <stg>
-        <st Contlex="N_">кърьвясни</st>
+        <st Contlex="N_">крьвясни</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърьвясни</st>
       </stg>
     </lg>
 
@@ -60765,10 +60931,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьвястема</l>
+      <l pos="N">крьвястема</l>
 
       <stg>
-        <st Contlex="N_АВА">кърьвястема</st>
+        <st Contlex="N_АВА">крьвястема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърьвястема</st>
       </stg>
     </lg>
 
@@ -60783,10 +60950,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьвясти</l>
+      <l pos="N">крьвясти</l>
 
       <stg>
-        <st Contlex="N_">кърьвясти</st>
+        <st Contlex="N_">крьвясти</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърьвясти</st>
       </stg>
     </lg>
 
@@ -60801,10 +60969,10 @@
 
   <e>
     <lg>
-      <l pos="N">кърьса</l>
+      <l pos="N">крьса</l>
 
       <stg>
-        <st Contlex="N_">кърьса</st>
+        <st Contlex="N_">крьса</st>
       </stg>
     </lg>
 
@@ -60819,10 +60987,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьхтяга</l>
+      <l pos="N">крьхтяга</l>
 
       <stg>
-        <st Contlex="N_">кърьхтяга</st>
+        <st Contlex="N_">крьхтяга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">кърьхтяга</st>
       </stg>
     </lg>
 
@@ -60837,10 +61006,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьхтякс</l>
+      <l pos="N">крьхтякс</l>
 
       <stg>
-        <st Contlex="N_ОШ">кърьхтякс</st>
+        <st Contlex="N_ОШ">крьхтякс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">кърьхтякс</st>
       </stg>
     </lg>
 
@@ -60855,10 +61025,11 @@
 
   <e>
     <lg>
-      <l pos="N">кърьхця</l>
+      <l pos="N">крьхця</l>
 
       <stg>
-        <st Contlex="N_АВА">кърьхця</st>
+        <st Contlex="N_АВА">крьхця</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кърьхця</st>
       </stg>
     </lg>
 
@@ -60873,10 +61044,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстардома</l>
+      <l pos="N">кстардома</l>
 
       <stg>
-        <st Contlex="N_АВА">къстардома</st>
+        <st Contlex="N_АВА">кстардома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстардома</st>
       </stg>
     </lg>
 
@@ -60891,10 +61063,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстартфтома</l>
+      <l pos="N">кстартфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">къстартфтома</st>
+        <st Contlex="N_АВА">кстартфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстартфтома</st>
       </stg>
     </lg>
 
@@ -60909,10 +61082,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстеня</l>
+      <l pos="N">кстеня</l>
 
       <stg>
-        <st Contlex="N_АВА">къстеня</st>
+        <st Contlex="N_АВА">кстеня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстеня</st>
       </stg>
     </lg>
 
@@ -60927,10 +61101,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстингя</l>
+      <l pos="N">кстингя</l>
 
       <stg>
-        <st Contlex="N_АВА">къстингя</st>
+        <st Contlex="N_АВА">кстингя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстингя</st>
       </stg>
     </lg>
 
@@ -60945,10 +61120,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстиндама</l>
+      <l pos="N">кстиндама</l>
 
       <stg>
-        <st Contlex="N_АВА">къстиндама</st>
+        <st Contlex="N_АВА">кстиндама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстиндама</st>
       </stg>
     </lg>
 
@@ -60963,10 +61139,11 @@
 
   <e>
     <lg>
-      <l pos="N">къстиндафнема</l>
+      <l pos="N">кстиндафнема</l>
 
       <stg>
-        <st Contlex="N_АВА">къстиндафнема</st>
+        <st Contlex="N_АВА">кстиндафнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къстиндафнема</st>
       </stg>
     </lg>
 
@@ -60981,10 +61158,11 @@
 
   <e>
     <lg>
-      <l pos="N">късьмярдема</l>
+      <l pos="N">ксьмярдема</l>
 
       <stg>
-        <st Contlex="N_АВА">късьмярдема</st>
+        <st Contlex="N_АВА">ксьмярдема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">късьмярдема</st>
       </stg>
     </lg>
 
@@ -60999,10 +61177,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмакс</l>
+      <l pos="N">ктмакс</l>
 
       <stg>
-        <st Contlex="N_ОШ">кътмакс</st>
+        <st Contlex="N_ОШ">ктмакс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">кътмакс</st>
       </stg>
     </lg>
 
@@ -61017,10 +61196,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмолдома</l>
+      <l pos="N">ктмолдома</l>
 
       <stg>
-        <st Contlex="N_АВА">кътмолдома</st>
+        <st Contlex="N_АВА">ктмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътмолдома</st>
       </stg>
     </lg>
 
@@ -61035,10 +61215,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмолкшнема</l>
+      <l pos="N">ктмолкшнема</l>
 
       <stg>
-        <st Contlex="N_АВА">кътмолкшнема</st>
+        <st Contlex="N_АВА">ктмолкшнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътмолкшнема</st>
       </stg>
     </lg>
 
@@ -61053,10 +61234,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмолф</l>
+      <l pos="N">ктмолф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">кътмолф</st>
+        <st Contlex="N_КАЛ">ктмолф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">кътмолф</st>
       </stg>
     </lg>
 
@@ -61071,10 +61253,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмолфнема</l>
+      <l pos="N">ктмолфнема</l>
 
       <stg>
-        <st Contlex="N_АВА">кътмолфнема</st>
+        <st Contlex="N_АВА">ктмолфнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътмолфнема</st>
       </stg>
     </lg>
 
@@ -61089,10 +61272,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътмолфтома</l>
+      <l pos="N">ктмолфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">кътмолфтома</st>
+        <st Contlex="N_АВА">ктмолфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътмолфтома</st>
       </stg>
     </lg>
 
@@ -61107,10 +61291,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътнама</l>
+      <l pos="N">ктнама</l>
 
       <stg>
-        <st Contlex="N_АВА">кътнама</st>
+        <st Contlex="N_АВА">ктнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътнама</st>
       </stg>
     </lg>
 
@@ -61125,10 +61310,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътнафнема</l>
+      <l pos="N">ктнафнема</l>
 
       <stg>
-        <st Contlex="N_АВА">кътнафнема</st>
+        <st Contlex="N_АВА">ктнафнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътнафнема</st>
       </stg>
     </lg>
 
@@ -61143,10 +61329,11 @@
 
   <e>
     <lg>
-      <l pos="N">кътносема</l>
+      <l pos="N">ктносема</l>
 
       <stg>
-        <st Contlex="N_АВА">кътносема</st>
+        <st Contlex="N_АВА">ктносема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">кътносема</st>
       </stg>
     </lg>
 
@@ -61161,10 +61348,10 @@
 
   <e>
     <lg>
-      <l pos="N">къфчиема</l>
+      <l pos="N">кфчиема</l>
 
       <stg>
-        <st Contlex="N_АВА">къфчиема</st>
+        <st Contlex="N_АВА">кфчиема</st>
       </stg>
     </lg>
 
@@ -61179,10 +61366,11 @@
 
   <e>
     <lg>
-      <l pos="N">къча</l>
+      <l pos="N">кча</l>
 
       <stg>
-        <st Contlex="N_">къча</st>
+        <st Contlex="N_">кча</st>
+<st Contlex="N_" status="Use/SpellNoSugg">къча</st>
       </stg>
     </lg>
 
@@ -61197,10 +61385,11 @@
 
   <e>
     <lg>
-      <l pos="N">къчя</l>
+      <l pos="N">кчя</l>
 
       <stg>
-        <st Contlex="N_АВА">къчя</st>
+        <st Contlex="N_АВА">кчя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къчя</st>
       </stg>
     </lg>
 
@@ -61215,10 +61404,11 @@
 
   <e>
     <lg>
-      <l pos="N">къшкол</l>
+      <l pos="N">кшкол</l>
 
       <stg>
-        <st Contlex="N_КАЛ">къшкол</st>
+        <st Contlex="N_КАЛ">кшкол</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">къшкол</st>
       </stg>
     </lg>
 
@@ -61233,10 +61423,11 @@
 
   <e>
     <lg>
-      <l pos="N">къшмадема</l>
+      <l pos="N">кшмадема</l>
 
       <stg>
-        <st Contlex="N_АВА">къшмадема</st>
+        <st Contlex="N_АВА">кшмадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къшмадема</st>
       </stg>
     </lg>
 
@@ -61251,10 +61442,11 @@
 
   <e>
     <lg>
-      <l pos="N">къшматьфнема</l>
+      <l pos="N">кшматьфнема</l>
 
       <stg>
-        <st Contlex="N_АВА">къшматьфнема</st>
+        <st Contlex="N_АВА">кшматьфнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къшматьфнема</st>
       </stg>
     </lg>
 
@@ -61269,10 +61461,11 @@
 
   <e>
     <lg>
-      <l pos="N">къшняфтома</l>
+      <l pos="N">кшняфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">къшняфтома</st>
+        <st Contlex="N_АВА">кшняфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">къшняфтома</st>
       </stg>
     </lg>
 
@@ -68432,10 +68625,11 @@
 
   <e>
     <lg>
-      <l pos="N">лъзнама</l>
+      <l pos="N">лзнама</l>
 
       <stg>
-        <st Contlex="N_АВА">лъзнама</st>
+        <st Contlex="N_АВА">лзнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лъзнама</st>
       </stg>
     </lg>
 
@@ -68450,10 +68644,12 @@
 
   <e>
     <lg>
-      <l pos="N">лъкнадема</l>
+      <l pos="N">лкнадема</l>
 
       <stg>
-        <st Contlex="N_АВА">лъкнадема</st>
+        <st Contlex="N_АВА">лкнадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ълкнадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лъкнадема</st>
       </stg>
     </lg>
 
@@ -68468,10 +68664,12 @@
 
   <e>
     <lg>
-      <l pos="N">лъкнама</l>
+      <l pos="N">лкнама</l>
 
       <stg>
-        <st Contlex="N_АВА">лъкнама</st>
+        <st Contlex="N_АВА">лкнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ълкнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лъкнама</st>
       </stg>
     </lg>
 
@@ -68486,10 +68684,12 @@
 
   <e>
     <lg>
-      <l pos="N">лъкштыема</l>
+      <l pos="N">лкштыема</l>
 
       <stg>
-        <st Contlex="N_АВА">лъкштыема</st>
+        <st Contlex="N_АВА">лкштыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ълкштыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лъкштыема</st>
       </stg>
     </lg>
 
@@ -68504,10 +68704,12 @@
 
   <e>
     <lg>
-      <l pos="N">лъпнама</l>
+      <l pos="N">лпнама</l>
 
       <stg>
-        <st Contlex="N_АВА">лъпнама</st>
+        <st Contlex="N_АВА">лпнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ълпнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лъпнама</st>
       </stg>
     </lg>
 
@@ -68522,10 +68724,12 @@
 
   <e>
     <lg>
-      <l pos="N">лътандама</l>
+      <l pos="N">лтандама</l>
 
       <stg>
-        <st Contlex="N_АВА">лътандама</st>
+        <st Contlex="N_АВА">лтандама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ълтандама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">лътандама</st>
       </stg>
     </lg>
 
@@ -68598,6 +68802,7 @@
 
       <stg>
         <st Contlex="N_">льгота</st>
+<st Contlex="N_" status="Use/SpellNoSugg">ъльгота</st>
       </stg>
     </lg>
 
@@ -71884,10 +72089,11 @@
 
   <e>
     <lg>
-      <l pos="N">матома-пълхтама</l>
+      <l pos="N">матома-плхтама</l>
 
       <stg>
-        <st Contlex="N_АВА">матома-пълхтама</st>
+        <st Contlex="N_АВА">матома-плхтама</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">матома-пълхтама</st>
       </stg>
     </lg>
 
@@ -72744,6 +72950,7 @@
 
       <stg>
         <st Contlex="N_АВА">мгорчя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъгорчя</st>
       </stg>
     </lg>
 
@@ -74260,6 +74467,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">мзолф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъзолф</st>
       </stg>
     </lg>
 
@@ -74656,6 +74864,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">многогранник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъногогранник</st>
       </stg>
     </lg>
 
@@ -74674,6 +74883,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">многочлен</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъногочлен</st>
       </stg>
     </lg>
 
@@ -74692,6 +74902,7 @@
 
       <stg>
         <st Contlex="N_АВА">множендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъножендама</st>
       </stg>
     </lg>
 
@@ -74710,6 +74921,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">множитель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъножитель</st>
       </stg>
     </lg>
 
@@ -76146,6 +76358,7 @@
 
       <stg>
         <st Contlex="N_">мрга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">мърга</st>
       </stg>
     </lg>
 
@@ -76676,10 +76889,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъгата</l>
+      <l pos="N">мгата</l>
 
       <stg>
-        <st Contlex="N_">мъгата</st>
+        <st Contlex="N_">мгата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">мъгата</st>
       </stg>
     </lg>
 
@@ -76694,10 +76908,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъжнама</l>
+      <l pos="N">мжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">мъжнама</st>
+        <st Contlex="N_АВА">мжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъжнама</st>
       </stg>
     </lg>
 
@@ -76712,10 +76927,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъжносема</l>
+      <l pos="N">мжносема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъжносема</st>
+        <st Contlex="N_АВА">мжносема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъжносема</st>
       </stg>
     </lg>
 
@@ -76730,10 +76946,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзгун</l>
+      <l pos="N">мзгун</l>
 
       <stg>
-        <st Contlex="N_КАЛ">мъзгун</st>
+        <st Contlex="N_КАЛ">мзгун</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъзгун</st>
       </stg>
     </lg>
 
@@ -76748,10 +76965,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзкснема</l>
+      <l pos="N">мзкснема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзкснема</st>
+        <st Contlex="N_АВА">мзкснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзкснема</st>
       </stg>
     </lg>
 
@@ -76766,10 +76984,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзкстадема</l>
+      <l pos="N">мзкстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзкстадема</st>
+        <st Contlex="N_АВА">мзкстадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзкстадема</st>
       </stg>
     </lg>
 
@@ -76784,10 +77003,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзнама</l>
+      <l pos="N">мзнама</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзнама</st>
+        <st Contlex="N_АВА">мзнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзнама</st>
       </stg>
     </lg>
 
@@ -76802,10 +77022,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзносема</l>
+      <l pos="N">мзносема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзносема</st>
+        <st Contlex="N_АВА">мзносема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзносема</st>
       </stg>
     </lg>
 
@@ -76820,10 +77041,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзолгофтома</l>
+      <l pos="N">мзолгофтома</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзолгофтома</st>
+        <st Contlex="N_АВА">мзолгофтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзолгофтома</st>
       </stg>
     </lg>
 
@@ -76838,10 +77060,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзолдома</l>
+      <l pos="N">мзолдома</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзолдома</st>
+        <st Contlex="N_АВА">мзолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзолдома</st>
       </stg>
     </lg>
 
@@ -76856,10 +77079,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзолкшнема</l>
+      <l pos="N">мзолкшнема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзолкшнема</st>
+        <st Contlex="N_АВА">мзолкшнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзолкшнема</st>
       </stg>
     </lg>
 
@@ -76874,10 +77098,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзолф</l>
+      <l pos="N">мзолф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">мъзолф</st>
+        <st Contlex="N_КАЛ">мзолф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъзолф</st>
       </stg>
     </lg>
 
@@ -76892,10 +77117,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъзолфкя</l>
+      <l pos="N">мзолфкя</l>
 
       <stg>
-        <st Contlex="N_АВА">мъзолфкя</st>
+        <st Contlex="N_АВА">мзолфкя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъзолфкя</st>
       </stg>
     </lg>
 
@@ -76910,10 +77136,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъльхчедема</l>
+      <l pos="N">мльхчедема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъльхчедема</st>
+        <st Contlex="N_АВА">мльхчедема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъльхчедема</st>
       </stg>
     </lg>
 
@@ -76928,10 +77155,11 @@
 
   <e>
     <lg>
-      <l pos="N">мърга</l>
+      <l pos="N">мрга</l>
 
       <stg>
-        <st Contlex="N_">мърга</st>
+        <st Contlex="N_">мрга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">мърга</st>
       </stg>
     </lg>
 
@@ -76946,10 +77174,11 @@
 
   <e>
     <lg>
-      <l pos="N">мърдама</l>
+      <l pos="N">мрдама</l>
 
       <stg>
-        <st Contlex="N_АВА">мърдама</st>
+        <st Contlex="N_АВА">мрдама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мърдама</st>
       </stg>
     </lg>
 
@@ -76964,10 +77193,11 @@
 
   <e>
     <lg>
-      <l pos="N">мърьдя</l>
+      <l pos="N">мрьдя</l>
 
       <stg>
-        <st Contlex="N_АВА">мърьдя</st>
+        <st Contlex="N_АВА">мрьдя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мърьдя</st>
       </stg>
     </lg>
 
@@ -76982,10 +77212,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъстыема</l>
+      <l pos="N">мстыема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъстыема</st>
+        <st Contlex="N_АВА">мстыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъстыема</st>
       </stg>
     </lg>
 
@@ -77000,10 +77231,11 @@
 
   <e>
     <lg>
-      <l pos="N">мътерьф</l>
+      <l pos="N">мтерьф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">мътерьф</st>
+        <st Contlex="N_КАЛ">мтерьф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мътерьф</st>
       </stg>
     </lg>
 
@@ -77018,10 +77250,11 @@
 
   <e>
     <lg>
-      <l pos="N">мътькольдей</l>
+      <l pos="N">мтькольдей</l>
 
       <stg>
-        <st Contlex="N_КАЛ">мътькольдей</st>
+        <st Contlex="N_КАЛ">мтькольдей</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мътькольдей</st>
       </stg>
     </lg>
 
@@ -77036,10 +77269,11 @@
 
   <e>
     <lg>
-      <l pos="N">мътькольди</l>
+      <l pos="N">мтькольди</l>
 
       <stg>
-        <st Contlex="N_">мътькольди</st>
+        <st Contlex="N_">мтькольди</st>
+<st Contlex="N_" status="Use/SpellNoSugg">мътькольди</st>
       </stg>
     </lg>
 
@@ -77054,10 +77288,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъшказ</l>
+      <l pos="N">мшказ</l>
 
       <stg>
-        <st Contlex="N_ОШ">мъшказ</st>
+        <st Contlex="N_ОШ">мшказ</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">мъшказ</st>
       </stg>
     </lg>
 
@@ -77072,10 +77307,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъштердема</l>
+      <l pos="N">мштердема</l>
 
       <stg>
-        <st Contlex="N_АВА">мъштердема</st>
+        <st Contlex="N_АВА">мштердема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">мъштердема</st>
       </stg>
     </lg>
 
@@ -77090,10 +77326,11 @@
 
   <e>
     <lg>
-      <l pos="N">мъштерьф</l>
+      <l pos="N">мштерьф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">мъштерьф</st>
+        <st Contlex="N_КАЛ">мштерьф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">мъштерьф</st>
       </stg>
     </lg>
 
@@ -79628,10 +79865,11 @@
 
   <e>
     <lg>
-      <l pos="N">нашекакърганя</l>
+      <l pos="N">нашекакрганя</l>
 
       <stg>
-        <st Contlex="N_АВА">нашекакърганя</st>
+        <st Contlex="N_АВА">нашека#крганя</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">нашека#кърганя</st>
       </stg>
     </lg>
 
@@ -82070,10 +82308,11 @@
 
   <e>
     <lg>
-      <l pos="N">нългаз</l>
+      <l pos="N">нлгаз</l>
 
       <stg>
-        <st Contlex="N_ОШ">нългаз</st>
+        <st Contlex="N_ОШ">нлгаз</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">нългаз</st>
       </stg>
     </lg>
 
@@ -82088,10 +82327,11 @@
 
   <e>
     <lg>
-      <l pos="N">нълхтадема</l>
+      <l pos="N">нлхтадема</l>
 
       <stg>
-        <st Contlex="N_АВА">нълхтадема</st>
+        <st Contlex="N_АВА">нлхтадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">нълхтадема</st>
       </stg>
     </lg>
 
@@ -87541,10 +87781,11 @@
 
   <e>
     <lg>
-      <l pos="N">пайгокърганят</l>
+      <l pos="N">пайгокрганят</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пайгокърганят</st>
+        <st Contlex="N_КАЛ-PL">пайго#крганя</st>
+        <st Contlex="N_КАЛ-PL" status="Use/SpellNoSugg">пайго#кърганя</st>
       </stg>
     </lg>
 
@@ -91828,6 +92069,7 @@
 
       <stg>
         <st Contlex="N_">пзьгата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пъзьгата</st>
       </stg>
     </lg>
 
@@ -95044,6 +95286,7 @@
 
       <stg>
         <st Contlex="N_">плманжа</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пълманжа</st>
       </stg>
     </lg>
 
@@ -95204,6 +95447,7 @@
 
       <stg>
         <st Contlex="N_ОШ">плхтафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пълхтафкс</st>
       </stg>
     </lg>
 
@@ -101726,6 +101970,7 @@
 
       <stg>
         <st Contlex="N_АВА">пстердома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъстердома</st>
       </stg>
     </lg>
 
@@ -101746,6 +101991,7 @@
 
       <stg>
         <st Contlex="N_АВА">пстиема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъстиема</st>
       </stg>
     </lg>
 
@@ -101768,6 +102014,7 @@
 
       <stg>
         <st Contlex="N_ПАНГА">псьпанг</st>
+<st Contlex="N_ПАНГА" status="Use/SpellNoSugg">пъсьпанг</st>
       </stg>
     </lg>
 
@@ -101788,6 +102035,7 @@
 
       <stg>
         <st Contlex="N_АВА">птняма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пътняма</st>
       </stg>
     </lg>
 
@@ -101810,6 +102058,7 @@
 
       <stg>
         <st Contlex="N_ОШ">птняфкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пътняфкс</st>
       </stg>
     </lg>
 
@@ -103929,6 +104178,7 @@
 
       <stg>
         <st Contlex="N_АВА">пчкама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъчкама</st>
       </stg>
     </lg>
 
@@ -103949,6 +104199,7 @@
 
       <stg>
         <st Contlex="N_АВА">пчкафтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъчкафтома</st>
       </stg>
     </lg>
 
@@ -103981,6 +104232,7 @@
 
       <stg>
         <st Contlex="N_ОШ">пчкяйкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пъчкяйкс</st>
       </stg>
     </lg>
 
@@ -104007,6 +104259,7 @@
 
       <stg>
         <st Contlex="N_АВА">пшкядема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъшкядема</st>
       </stg>
     </lg>
 
@@ -104031,10 +104284,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъжнама</l>
+      <l pos="N">пжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">пъжнама</st>
+        <st Contlex="N_АВА">пжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъжнама</st>
       </stg>
     </lg>
 
@@ -104049,10 +104303,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъзмолдома</l>
+      <l pos="N">пзмолдома</l>
 
       <stg>
-        <st Contlex="N_АВА">пъзмолдома</st>
+        <st Contlex="N_АВА">пзмолдома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъзмолдома</st>
       </stg>
     </lg>
 
@@ -104067,10 +104322,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъзьгата</l>
+      <l pos="N">пзьгата</l>
 
       <stg>
-        <st Contlex="N_">пъзьгата</st>
+        <st Contlex="N_">пзьгата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пъзьгата</st>
       </stg>
     </lg>
 
@@ -104085,10 +104341,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъкама</l>
+      <l pos="N">пкама</l>
 
       <stg>
-        <st Contlex="N_АВА">пъкама</st>
+        <st Contlex="N_АВА">пкама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъкама</st>
       </stg>
     </lg>
 
@@ -104103,10 +104360,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълкштыема</l>
+      <l pos="N">плкштыема</l>
 
       <stg>
-        <st Contlex="N_АВА">пълкштыема</st>
+        <st Contlex="N_АВА">плкштыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пълкштыема</st>
       </stg>
     </lg>
 
@@ -104121,10 +104379,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълманжа</l>
+      <l pos="N">плманжа</l>
 
       <stg>
-        <st Contlex="N_">пълманжа</st>
+        <st Contlex="N_">плманжа</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пълманжа</st>
       </stg>
     </lg>
 
@@ -104139,10 +104398,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълманжаня</l>
+      <l pos="N">плманжаня</l>
 
       <stg>
-        <st Contlex="N_АВА">пълманжаня</st>
+        <st Contlex="N_АВА">плманжаня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пълманжаня</st>
       </stg>
     </lg>
 
@@ -104157,10 +104417,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълхтайня</l>
+      <l pos="N">плхтайня</l>
 
       <stg>
-        <st Contlex="N_АВА">пълхтайня</st>
+        <st Contlex="N_АВА">плхтайня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пълхтайня</st>
       </stg>
     </lg>
 
@@ -104175,10 +104436,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълхтама</l>
+      <l pos="N">плхтама</l>
 
       <stg>
-        <st Contlex="N_АВА">пълхтама</st>
+        <st Contlex="N_АВА">плхтама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пълхтама</st>
       </stg>
     </lg>
 
@@ -104193,10 +104455,11 @@
 
   <e>
     <lg>
-      <l pos="N">пълхтафкс</l>
+      <l pos="N">плхтафкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пълхтафкс</st>
+        <st Contlex="N_ОШ">плхтафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пълхтафкс</st>
       </stg>
     </lg>
 
@@ -104211,10 +104474,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъргама</l>
+      <l pos="N">пргама</l>
 
       <stg>
-        <st Contlex="N_АВА">пъргама</st>
+        <st Contlex="N_АВА">пргама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъргама</st>
       </stg>
     </lg>
 
@@ -104229,10 +104493,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъргась</l>
+      <l pos="N">пргась</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пъргась</st>
+        <st Contlex="N_КАЛ">пргась</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">пъргась</st>
       </stg>
     </lg>
 
@@ -104247,10 +104512,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдай</l>
+      <l pos="N">прдай</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пърдай</st>
+        <st Contlex="N_КАЛ">прдай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">пърдай</st>
       </stg>
     </lg>
 
@@ -104265,10 +104531,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдайня</l>
+      <l pos="N">прдайня</l>
 
       <stg>
-        <st Contlex="N_АВА">пърдайня</st>
+        <st Contlex="N_АВА">прдайня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърдайня</st>
       </stg>
     </lg>
 
@@ -104283,10 +104550,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдама</l>
+      <l pos="N">прдама</l>
 
       <stg>
-        <st Contlex="N_АВА">пърдама</st>
+        <st Contlex="N_АВА">прдама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърдама</st>
       </stg>
     </lg>
 
@@ -104301,10 +104569,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдаманя</l>
+      <l pos="N">прдаманя</l>
 
       <stg>
-        <st Contlex="N_АВА">пърдаманя</st>
+        <st Contlex="N_АВА">прдаманя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърдаманя</st>
       </stg>
     </lg>
 
@@ -104319,10 +104588,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдафкс</l>
+      <l pos="N">прдафкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пърдафкс</st>
+        <st Contlex="N_ОШ">прдафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пърдафкс</st>
       </stg>
     </lg>
 
@@ -104337,10 +104607,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърдаша</l>
+      <l pos="N">прдаша</l>
 
       <stg>
-        <st Contlex="N_">пърдаша</st>
+        <st Contlex="N_">прдаша</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пърдаша</st>
       </stg>
     </lg>
 
@@ -104355,10 +104626,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъркснема</l>
+      <l pos="N">пркснема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъркснема</st>
+        <st Contlex="N_АВА">пркснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъркснема</st>
       </stg>
     </lg>
 
@@ -104373,10 +104645,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъркстадема</l>
+      <l pos="N">пркстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъркстадема</st>
+        <st Contlex="N_АВА">пркстадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъркстадема</st>
       </stg>
     </lg>
 
@@ -104391,10 +104664,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъркштыема</l>
+      <l pos="N">пркштыема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъркштыема</st>
+        <st Contlex="N_АВА">пркштыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъркштыема</st>
       </stg>
     </lg>
 
@@ -104409,10 +104683,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърносема</l>
+      <l pos="N">прносема</l>
 
       <stg>
-        <st Contlex="N_АВА">пърносема</st>
+        <st Contlex="N_АВА">прносема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърносема</st>
       </stg>
     </lg>
 
@@ -104427,10 +104702,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъртцема</l>
+      <l pos="N">пртцема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъртцема</st>
+        <st Contlex="N_АВА">пртцема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъртцема</st>
       </stg>
     </lg>
 
@@ -104445,10 +104721,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърхцадема</l>
+      <l pos="N">прхцадема</l>
 
       <stg>
-        <st Contlex="N_АВА">пърхцадема</st>
+        <st Contlex="N_АВА">прхцадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърхцадема</st>
       </stg>
     </lg>
 
@@ -104463,10 +104740,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърьмета</l>
+      <l pos="N">прьмета</l>
 
       <stg>
-        <st Contlex="N_">пърьмета</st>
+        <st Contlex="N_">прьмета</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пърьмета</st>
       </stg>
     </lg>
 
@@ -104481,10 +104759,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърьмеч</l>
+      <l pos="N">прьмеч</l>
 
       <stg>
-        <st Contlex="N_ОШ">пърьмеч</st>
+        <st Contlex="N_ОШ">прьмеч</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пърьмеч</st>
       </stg>
     </lg>
 
@@ -104499,10 +104778,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърьхчетькс</l>
+      <l pos="N">прьхчетькс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пърьхчетькс</st>
+        <st Contlex="N_ОШ">прьхчетькс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пърьхчетькс</st>
       </stg>
     </lg>
 
@@ -104517,10 +104797,11 @@
 
   <e>
     <lg>
-      <l pos="N">пърьхчещандама</l>
+      <l pos="N">прьхчещандама</l>
 
       <stg>
-        <st Contlex="N_АВА">пърьхчещандама</st>
+        <st Contlex="N_АВА">прьхчещандама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пърьхчещандама</st>
       </stg>
     </lg>
 
@@ -104535,10 +104816,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъскама</l>
+      <l pos="N">пскама</l>
 
       <stg>
-        <st Contlex="N_АВА">пъскама</st>
+        <st Contlex="N_АВА">пскама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъскама</st>
       </stg>
     </lg>
 
@@ -104553,10 +104835,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъстеня</l>
+      <l pos="N">пстеня</l>
 
       <stg>
-        <st Contlex="N_АВА">пъстеня</st>
+        <st Contlex="N_АВА">пстеня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъстеня</st>
       </stg>
     </lg>
 
@@ -104571,10 +104854,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъстердома</l>
+      <l pos="N">пстердома</l>
 
       <stg>
-        <st Contlex="N_АВА">пъстердома</st>
+        <st Contlex="N_АВА">пстердома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъстердома</st>
       </stg>
     </lg>
 
@@ -104589,10 +104873,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъстерфтома</l>
+      <l pos="N">пстерфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">пъстерфтома</st>
+        <st Contlex="N_АВА">пстерфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъстерфтома</st>
       </stg>
     </lg>
 
@@ -104607,10 +104892,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъськун</l>
+      <l pos="N">пськун</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пъськун</st>
+        <st Contlex="N_КАЛ">пськун</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">пъськун</st>
       </stg>
     </lg>
 
@@ -104625,10 +104911,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътердема</l>
+      <l pos="N">птердема</l>
 
       <stg>
-        <st Contlex="N_АВА">пътердема</st>
+        <st Contlex="N_АВА">птердема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пътердема</st>
       </stg>
     </lg>
 
@@ -104643,10 +104930,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътерня</l>
+      <l pos="N">птерня</l>
 
       <stg>
-        <st Contlex="N_АВА">пътерня</st>
+        <st Contlex="N_АВА">птерня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пътерня</st>
       </stg>
     </lg>
 
@@ -104661,10 +104949,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътерькс</l>
+      <l pos="N">птерькс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пътерькс</st>
+        <st Contlex="N_ОШ">птерькс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пътерькс</st>
       </stg>
     </lg>
 
@@ -104679,10 +104968,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътерькскя</l>
+      <l pos="N">птерькскя</l>
 
       <stg>
-        <st Contlex="N_АВА">пътерькскя</st>
+        <st Contlex="N_АВА">птерькскя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пътерькскя</st>
       </stg>
     </lg>
 
@@ -104697,10 +104987,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътерьф</l>
+      <l pos="N">птерьф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пътерьф</st>
+        <st Contlex="N_КАЛ">птерьф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">пътерьф</st>
       </stg>
     </lg>
 
@@ -104715,10 +105006,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътненя</l>
+      <l pos="N">птненя</l>
 
       <stg>
-        <st Contlex="N_АВА">пътненя</st>
+        <st Contlex="N_АВА">птненя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пътненя</st>
       </stg>
     </lg>
 
@@ -104733,10 +105025,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътькольди</l>
+      <l pos="N">птькольди</l>
 
       <stg>
-        <st Contlex="N_">пътькольди</st>
+        <st Contlex="N_">птькольди</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пътькольди</st>
       </stg>
     </lg>
 
@@ -104751,10 +105044,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътятькс</l>
+      <l pos="N">птятькс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пътятькс</st>
+        <st Contlex="N_ОШ">птятькс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пътятькс</st>
       </stg>
     </lg>
 
@@ -104769,10 +105063,11 @@
 
   <e>
     <lg>
-      <l pos="N">пътятьф</l>
+      <l pos="N">птятьф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">пътятьф</st>
+        <st Contlex="N_КАЛ">птятьф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">пътятьф</st>
       </stg>
     </lg>
 
@@ -104787,10 +105082,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъчкама</l>
+      <l pos="N">пчкама</l>
 
       <stg>
-        <st Contlex="N_АВА">пъчкама</st>
+        <st Contlex="N_АВА">пчкама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъчкама</st>
       </stg>
     </lg>
 
@@ -104805,10 +105101,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъчкафты</l>
+      <l pos="N">пчкафты</l>
 
       <stg>
-        <st Contlex="N_">пъчкафты</st>
+        <st Contlex="N_">пчкафты</st>
+<st Contlex="N_" status="Use/SpellNoSugg">пъчкафты</st>
       </stg>
     </lg>
 
@@ -104823,10 +105120,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъчксема</l>
+      <l pos="N">пчксема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъчксема</st>
+        <st Contlex="N_АВА">пчксема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъчксема</st>
       </stg>
     </lg>
 
@@ -104841,10 +105139,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъштедема</l>
+      <l pos="N">пштедема</l>
 
       <stg>
-        <st Contlex="N_АВА">пъштедема</st>
+        <st Contlex="N_АВА">пштедема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">пъштедема</st>
       </stg>
     </lg>
 
@@ -104859,10 +105158,11 @@
 
   <e>
     <lg>
-      <l pos="N">пъштетькс</l>
+      <l pos="N">пштетькс</l>
 
       <stg>
-        <st Contlex="N_ОШ">пъштетькс</st>
+        <st Contlex="N_ОШ">пштетькс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">пъштетькс</st>
       </stg>
     </lg>
 
@@ -107833,6 +108133,7 @@
 
       <stg>
         <st Contlex="N_ОШ">рдазсюворкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">ърдазсюворкс</st>
       </stg>
     </lg>
 
@@ -109425,6 +109726,7 @@
 
       <stg>
         <st Contlex="N_АВА">рнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ърнама</st>
       </stg>
     </lg>
 
@@ -110687,10 +110989,11 @@
 
   <e>
     <lg>
-      <l pos="N">ръкавса</l>
+      <l pos="N">ркавса</l>
 
       <stg>
-        <st Contlex="N_">ръкавса</st>
+        <st Contlex="N_">ркавса</st>
+        <st Contlex="N_" status="Use/SpellNoSugg">ръкавса</st>
       </stg>
     </lg>
 
@@ -112859,6 +113162,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сбербанк</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">събербанк</st>
       </stg>
     </lg>
 
@@ -112877,6 +113181,7 @@
 
       <stg>
         <st Contlex="N_АВА">сбережения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">събережения</st>
       </stg>
     </lg>
 
@@ -112895,6 +113200,7 @@
 
       <stg>
         <st Contlex="N_АВА">сберкнижка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съберкнижка</st>
       </stg>
     </lg>
 
@@ -112913,6 +113219,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сбой</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">събой</st>
       </stg>
     </lg>
 
@@ -112931,6 +113238,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сбруят</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">събруят</st>
       </stg>
     </lg>
 
@@ -112949,6 +113257,7 @@
 
       <stg>
         <st Contlex="N_">свадьба</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съвадьба</st>
       </stg>
     </lg>
 
@@ -112969,6 +113278,7 @@
 
       <stg>
         <st Contlex="N_АВА">сварка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съварка</st>
       </stg>
     </lg>
 
@@ -112987,6 +113297,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сварщик</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съварщик</st>
       </stg>
     </lg>
 
@@ -113005,6 +113316,7 @@
 
       <stg>
         <st Contlex="N_АВА">сварьфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съварьфтома</st>
       </stg>
     </lg>
 
@@ -113023,6 +113335,7 @@
 
       <stg>
         <st Contlex="N_АВА">свастика</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвастика</st>
       </stg>
     </lg>
 
@@ -113041,6 +113354,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сват</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съват</st>
       </stg>
     </lg>
 
@@ -113061,6 +113375,7 @@
 
       <stg>
         <st Contlex="N_">сваха</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съваха</st>
       </stg>
     </lg>
 
@@ -113079,6 +113394,7 @@
 
       <stg>
         <st Contlex="N_АВА">свая</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвая</st>
       </stg>
     </lg>
 
@@ -113101,6 +113417,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свет</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвет</st>
       </stg>
     </lg>
 
@@ -113129,6 +113446,7 @@
 
       <stg>
         <st Contlex="N_АВА">свидания</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвидания</st>
       </stg>
     </lg>
 
@@ -113147,6 +113465,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свидетель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвидетель</st>
       </stg>
     </lg>
 
@@ -113167,6 +113486,7 @@
 
       <stg>
         <st Contlex="N_АВА">свиндема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвиндема</st>
       </stg>
     </lg>
 
@@ -113185,6 +113505,7 @@
 
       <stg>
         <st Contlex="N_АВА">свинка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвинка</st>
       </stg>
     </lg>
 
@@ -113203,6 +113524,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свист</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвист</st>
       </stg>
     </lg>
 
@@ -113221,6 +113543,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свитер</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвитер</st>
       </stg>
     </lg>
 
@@ -113239,6 +113562,7 @@
 
       <stg>
         <st Contlex="N_АВА">свитерня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвитерня</st>
       </stg>
     </lg>
 
@@ -113257,6 +113581,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свой</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвой</st>
       </stg>
     </lg>
 
@@ -113275,6 +113600,7 @@
 
       <stg>
         <st Contlex="N_АВА">свойства</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвойства</st>
       </stg>
     </lg>
 
@@ -113293,6 +113619,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свол</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвол</st>
       </stg>
     </lg>
 
@@ -113311,6 +113638,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сволочь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съволочь</st>
       </stg>
     </lg>
 
@@ -113329,6 +113657,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">свояк</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвояк</st>
       </stg>
     </lg>
 
@@ -113349,6 +113678,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">связист</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвязист</st>
       </stg>
     </lg>
 
@@ -113367,6 +113697,7 @@
 
       <stg>
         <st Contlex="N_АВА">связка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съвязка</st>
       </stg>
     </lg>
 
@@ -113385,6 +113716,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">связной</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвязной</st>
       </stg>
     </lg>
 
@@ -113403,6 +113735,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">святой</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съвятой</st>
       </stg>
     </lg>
 
@@ -113431,6 +113764,7 @@
 
       <stg>
         <st Contlex="N_АВА">сделка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съделка</st>
       </stg>
     </lg>
 
@@ -113449,6 +113783,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сдобнай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съдобнай</st>
       </stg>
     </lg>
 
@@ -116727,6 +117062,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сказитель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съказитель</st>
       </stg>
     </lg>
 
@@ -116745,6 +117081,7 @@
 
       <stg>
         <st Contlex="N_">сказительница</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съказительница</st>
       </stg>
     </lg>
 
@@ -116763,6 +117100,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сказок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съказок</st>
       </stg>
     </lg>
 
@@ -116781,6 +117119,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сказуемай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съказуемай</st>
       </stg>
     </lg>
 
@@ -116801,6 +117140,7 @@
 
       <stg>
         <st Contlex="N_">скайма</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкайма</st>
       </stg>
     </lg>
 
@@ -116819,6 +117159,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скал</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкал</st>
       </stg>
     </lg>
 
@@ -116841,6 +117182,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скалвай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкалвай</st>
       </stg>
     </lg>
 
@@ -116861,6 +117203,7 @@
 
       <stg>
         <st Contlex="N_АВА">скамейка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкамейка</st>
       </stg>
     </lg>
 
@@ -116885,6 +117228,7 @@
 
       <stg>
         <st Contlex="N_">скарлатина</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкарлатина</st>
       </stg>
     </lg>
 
@@ -116905,6 +117249,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скатер</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкатер</st>
       </stg>
     </lg>
 
@@ -116923,6 +117268,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скатерть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкатерть</st>
       </stg>
     </lg>
 
@@ -116943,6 +117289,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скатерь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкатерь</st>
       </stg>
     </lg>
 
@@ -116961,6 +117308,7 @@
 
       <stg>
         <st Contlex="N_АВА">скатерьня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкатерьня</st>
       </stg>
     </lg>
 
@@ -116979,6 +117327,7 @@
 
       <stg>
         <st Contlex="N_">скважина</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкважина</st>
       </stg>
     </lg>
 
@@ -116997,6 +117346,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скелет</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкелет</st>
       </stg>
     </lg>
 
@@ -117017,6 +117367,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">склад</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съклад</st>
       </stg>
     </lg>
 
@@ -117045,6 +117396,7 @@
 
       <stg>
         <st Contlex="N_">скоба</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкоба</st>
       </stg>
     </lg>
 
@@ -117063,6 +117415,7 @@
 
       <stg>
         <st Contlex="N_АВА">скобка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкобка</st>
       </stg>
     </lg>
 
@@ -117081,6 +117434,7 @@
 
       <stg>
         <st Contlex="N_АВА-PL">скобка</st>
+<st Contlex="N_АВА-PL" status="Use/SpellNoSugg">съкобка</st>
       </stg>
     </lg>
 
@@ -117103,6 +117457,7 @@
 
       <stg>
         <st Contlex="N_АВА">скомня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкомня</st>
       </stg>
     </lg>
 
@@ -117123,6 +117478,7 @@
 
       <stg>
         <st Contlex="N_">скотина</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкотина</st>
       </stg>
     </lg>
 
@@ -117143,6 +117499,7 @@
 
       <stg>
         <st Contlex="N_АВА">скотка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкотка</st>
       </stg>
     </lg>
 
@@ -117161,6 +117518,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">скотник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съкотник</st>
       </stg>
     </lg>
 
@@ -117179,6 +117537,7 @@
 
       <stg>
         <st Contlex="N_ОШ">скрипач</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">съкрипач</st>
       </stg>
     </lg>
 
@@ -117201,6 +117560,7 @@
 
       <stg>
         <st Contlex="N_АВА">скрипка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкрипка</st>
       </stg>
     </lg>
 
@@ -117221,6 +117581,7 @@
 
       <stg>
         <st Contlex="N_АВА">скромничендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкромничендама</st>
       </stg>
     </lg>
 
@@ -117239,6 +117600,7 @@
 
       <stg>
         <st Contlex="N_АВА">скряга</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкряга</st>
       </stg>
     </lg>
 
@@ -117257,6 +117619,7 @@
 
       <stg>
         <st Contlex="N_АВА">скряжничендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкряжничендама</st>
       </stg>
     </lg>
 
@@ -117275,6 +117638,7 @@
 
       <stg>
         <st Contlex="N_АВА">скука</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкука</st>
       </stg>
     </lg>
 
@@ -117293,6 +117657,7 @@
 
       <stg>
         <st Contlex="N_АВА">скупойши</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкупойши</st>
       </stg>
     </lg>
 
@@ -117315,6 +117680,7 @@
 
       <stg>
         <st Contlex="N_АВА">скучендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкучендама</st>
       </stg>
     </lg>
 
@@ -117333,6 +117699,7 @@
 
       <stg>
         <st Contlex="N_">скучна</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкучна</st>
       </stg>
     </lg>
 
@@ -117351,6 +117718,7 @@
 
       <stg>
         <st Contlex="N_">скушна</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съкушна</st>
       </stg>
     </lg>
 
@@ -117827,6 +118195,7 @@
 
       <stg>
         <st Contlex="N_АВА">смекама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съмекама</st>
       </stg>
     </lg>
 
@@ -117845,6 +118214,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смелай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмелай</st>
       </stg>
     </lg>
 
@@ -117863,6 +118233,7 @@
 
       <stg>
         <st Contlex="N_АВА">смелкстомома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съмелкстомома</st>
       </stg>
     </lg>
 
@@ -117881,6 +118252,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смелость</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмелость</st>
       </stg>
     </lg>
 
@@ -117899,6 +118271,7 @@
 
       <stg>
         <st Contlex="N_">смена</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съмена</st>
       </stg>
     </lg>
 
@@ -117919,6 +118292,7 @@
 
       <stg>
         <st Contlex="N_АВА">смендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съмендама</st>
       </stg>
     </lg>
 
@@ -117937,6 +118311,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смертник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмертник</st>
       </stg>
     </lg>
 
@@ -117955,6 +118330,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смерть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмерть</st>
       </stg>
     </lg>
 
@@ -117973,6 +118349,7 @@
 
       <stg>
         <st Contlex="N_АВА">смертькя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съмертькя</st>
       </stg>
     </lg>
 
@@ -117991,6 +118368,7 @@
 
       <stg>
         <st Contlex="N_">смета</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съмета</st>
       </stg>
     </lg>
 
@@ -118009,6 +118387,7 @@
 
       <stg>
         <st Contlex="N_">смола</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съмола</st>
       </stg>
     </lg>
 
@@ -118027,6 +118406,7 @@
 
       <stg>
         <st Contlex="N_АВА">смолиндама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съмолиндама</st>
       </stg>
     </lg>
 
@@ -118045,6 +118425,7 @@
 
       <stg>
         <st Contlex="N_">смотренге</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съмотренге</st>
       </stg>
     </lg>
 
@@ -118063,6 +118444,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смузь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмузь</st>
       </stg>
     </lg>
 
@@ -118085,6 +118467,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смусть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмусть</st>
       </stg>
     </lg>
 
@@ -118103,6 +118486,7 @@
 
       <stg>
         <st Contlex="N_">смысла</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съмысла</st>
       </stg>
     </lg>
 
@@ -118121,6 +118505,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">смычок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съмычок</st>
       </stg>
     </lg>
 
@@ -118139,6 +118524,7 @@
 
       <stg>
         <st Contlex="N_ОШ">снабженец</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сънабженец</st>
       </stg>
     </lg>
 
@@ -118157,6 +118543,7 @@
 
       <stg>
         <st Contlex="N_АВА">снабжения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сънабжения</st>
       </stg>
     </lg>
 
@@ -118175,6 +118562,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">снав</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сънав</st>
       </stg>
     </lg>
 
@@ -118195,6 +118583,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">снасть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сънасть</st>
       </stg>
     </lg>
 
@@ -118213,6 +118602,7 @@
 
       <stg>
         <st Contlex="N_">снима</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сънима</st>
       </stg>
     </lg>
 
@@ -118231,6 +118621,7 @@
 
       <stg>
         <st Contlex="N_АВА">снимка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сънимка</st>
       </stg>
     </lg>
 
@@ -118249,6 +118640,7 @@
 
       <stg>
         <st Contlex="N_АВА">снимканя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сънимканя</st>
       </stg>
     </lg>
 
@@ -118267,6 +118659,7 @@
 
       <stg>
         <st Contlex="N_АВА">сноска</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съноска</st>
       </stg>
     </lg>
 
@@ -119687,6 +120080,7 @@
 
       <stg>
         <st Contlex="N_ОШ">спас</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">съпас</st>
       </stg>
     </lg>
 
@@ -119705,6 +120099,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">спирт</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съпирт</st>
       </stg>
     </lg>
 
@@ -119723,6 +120118,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">спиртной</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съпиртной</st>
       </stg>
     </lg>
 
@@ -119741,6 +120137,7 @@
 
       <stg>
         <st Contlex="N_АВА">списка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съписка</st>
       </stg>
     </lg>
 
@@ -119771,6 +120168,7 @@
 
       <stg>
         <st Contlex="N_">спица</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съпица</st>
       </stg>
     </lg>
 
@@ -119789,6 +120187,7 @@
 
       <stg>
         <st Contlex="N_АВА">спицька</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съпицька</st>
       </stg>
     </lg>
 
@@ -119807,6 +120206,7 @@
 
       <stg>
         <st Contlex="N_АВА">спичка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съпичка</st>
       </stg>
     </lg>
 
@@ -119827,6 +120227,7 @@
 
       <stg>
         <st Contlex="N_АВА">спокоендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съпокоендама</st>
       </stg>
     </lg>
 
@@ -119845,6 +120246,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">спор</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съпор</st>
       </stg>
     </lg>
 
@@ -119869,6 +120271,7 @@
 
       <stg>
         <st Contlex="N_">способ</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съпособ</st>
       </stg>
     </lg>
 
@@ -119887,6 +120290,7 @@
 
       <stg>
         <st Contlex="N_АВА">справка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съправка</st>
       </stg>
     </lg>
 
@@ -119905,6 +120309,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">справнек</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съправнек</st>
       </stg>
     </lg>
 
@@ -119923,6 +120328,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">справочник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съправочник</st>
       </stg>
     </lg>
 
@@ -119941,6 +120347,7 @@
 
       <stg>
         <st Contlex="N_ОШ">спрос</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">съпрос</st>
       </stg>
     </lg>
 
@@ -119959,6 +120366,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">спуск</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съпуск</st>
       </stg>
     </lg>
 
@@ -119977,6 +120385,7 @@
 
       <stg>
         <st Contlex="N_АВА">спуска</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съпуска</st>
       </stg>
     </lg>
 
@@ -119995,6 +120404,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">спутник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съпутник</st>
       </stg>
     </lg>
 
@@ -120139,6 +120549,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сргавозь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съргавозь</st>
       </stg>
     </lg>
 
@@ -120181,6 +120592,7 @@
 
       <stg>
         <st Contlex="N_АВА">срма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърма</st>
       </stg>
     </lg>
 
@@ -120217,6 +120629,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">срмаф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сърмаф</st>
       </stg>
     </lg>
 
@@ -120287,6 +120700,7 @@
 
       <stg>
         <st Contlex="N_АВА">срхкама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърхкама</st>
       </stg>
     </lg>
 
@@ -120337,6 +120751,7 @@
 
       <stg>
         <st Contlex="N_АВА">ставка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътавка</st>
       </stg>
     </lg>
 
@@ -120355,6 +120770,7 @@
 
       <stg>
         <st Contlex="N_АВА">ставня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътавня</st>
       </stg>
     </lg>
 
@@ -120373,6 +120789,7 @@
 
       <stg>
         <st Contlex="N_АВА">стада</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътада</st>
       </stg>
     </lg>
 
@@ -120393,6 +120810,7 @@
 
       <stg>
         <st Contlex="N_">стадаваны</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътадаваны</st>
       </stg>
     </lg>
 
@@ -120413,6 +120831,7 @@
 
       <stg>
         <st Contlex="N_АВА">стадия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътадия</st>
       </stg>
     </lg>
 
@@ -120431,6 +120850,7 @@
 
       <stg>
         <st Contlex="N_ОШ">стаж</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сътаж</st>
       </stg>
     </lg>
 
@@ -120449,6 +120869,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стакан</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътакан</st>
       </stg>
     </lg>
 
@@ -120477,6 +120898,7 @@
 
       <stg>
         <st Contlex="N_АВА">стакащема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътакащема</st>
       </stg>
     </lg>
 
@@ -120499,6 +120921,7 @@
 
       <stg>
         <st Contlex="N_АВА">стаколня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътаколня</st>
       </stg>
     </lg>
 
@@ -120517,6 +120940,7 @@
 
       <stg>
         <st Contlex="N_АВА">стакши</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътакши</st>
       </stg>
     </lg>
 
@@ -120545,6 +120969,7 @@
 
       <stg>
         <st Contlex="N_">сталма</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съталма</st>
       </stg>
     </lg>
 
@@ -120567,6 +120992,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">сталь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съталь</st>
       </stg>
     </lg>
 
@@ -120587,6 +121013,7 @@
 
       <stg>
         <st Contlex="N_АВА">стама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътама</st>
       </stg>
     </lg>
 
@@ -120609,6 +121036,7 @@
 
       <stg>
         <st Contlex="N_АВА">стамеска</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътамеска</st>
       </stg>
     </lg>
 
@@ -120627,6 +121055,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стан</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътан</st>
       </stg>
     </lg>
 
@@ -120645,6 +121074,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стандарт</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътандарт</st>
       </stg>
     </lg>
 
@@ -120663,6 +121093,7 @@
 
       <stg>
         <st Contlex="N_">станица</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътаница</st>
       </stg>
     </lg>
 
@@ -120681,6 +121112,7 @@
 
       <stg>
         <st Contlex="N_АВА">станка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътанка</st>
       </stg>
     </lg>
 
@@ -120699,6 +121131,7 @@
 
       <stg>
         <st Contlex="N_АВА">стання</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътання</st>
       </stg>
     </lg>
 
@@ -120717,6 +121150,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">станок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътанок</st>
       </stg>
     </lg>
 
@@ -120737,6 +121171,7 @@
 
       <stg>
         <st Contlex="N_АВА">станция</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътанция</st>
       </stg>
     </lg>
 
@@ -120757,6 +121192,7 @@
 
       <stg>
         <st Contlex="N_АВА">старандама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътарандама</st>
       </stg>
     </lg>
 
@@ -120775,6 +121211,7 @@
 
       <stg>
         <st Contlex="N_АВА">старания</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътарания</st>
       </stg>
     </lg>
 
@@ -120793,6 +121230,7 @@
 
       <stg>
         <st Contlex="N_АВА">стардома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътардома</st>
       </stg>
     </lg>
 
@@ -120811,6 +121249,7 @@
 
       <stg>
         <st Contlex="N_">староста</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътароста</st>
       </stg>
     </lg>
 
@@ -120829,6 +121268,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">старт</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътарт</st>
       </stg>
     </lg>
 
@@ -120847,6 +121287,7 @@
 
       <stg>
         <st Contlex="N_АВА">статистика</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътатистика</st>
       </stg>
     </lg>
 
@@ -120865,6 +121306,7 @@
 
       <stg>
         <st Contlex="N_АВА">статуэтка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътатуэтка</st>
       </stg>
     </lg>
 
@@ -120883,6 +121325,7 @@
 
       <stg>
         <st Contlex="N_АВА">статуя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътатуя</st>
       </stg>
     </lg>
 
@@ -120901,6 +121344,7 @@
 
       <stg>
         <st Contlex="N_АВА">статья</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътатья</st>
       </stg>
     </lg>
 
@@ -120919,6 +121363,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стаф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътаф</st>
       </stg>
     </lg>
 
@@ -120937,6 +121382,7 @@
 
       <stg>
         <st Contlex="N_ОШ">стафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сътафкс</st>
       </stg>
     </lg>
 
@@ -120961,6 +121407,7 @@
 
       <stg>
         <st Contlex="N_АВА">стачка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътачка</st>
       </stg>
     </lg>
 
@@ -120979,6 +121426,7 @@
 
       <stg>
         <st Contlex="N_АВА">стая</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътая</st>
       </stg>
     </lg>
 
@@ -120997,6 +121445,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">ствол</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътвол</st>
       </stg>
     </lg>
 
@@ -121015,6 +121464,7 @@
 
       <stg>
         <st Contlex="N_">стегла</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътегла</st>
       </stg>
     </lg>
 
@@ -121033,6 +121483,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стекольщик</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътекольщик</st>
       </stg>
     </lg>
 
@@ -121051,6 +121502,7 @@
 
       <stg>
         <st Contlex="N_ОШ">стеллаж</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сътеллаж</st>
       </stg>
     </lg>
 
@@ -121069,6 +121521,7 @@
 
       <stg>
         <st Contlex="N_АВА">стелька</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътелька</st>
       </stg>
     </lg>
 
@@ -121087,6 +121540,7 @@
 
       <stg>
         <st Contlex="N_">стена</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътена</st>
       </stg>
     </lg>
 
@@ -121115,6 +121569,7 @@
 
       <stg>
         <st Contlex="N_АВА">стенограмма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътенограмма</st>
       </stg>
     </lg>
 
@@ -121133,6 +121588,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стенографист</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътенографист</st>
       </stg>
     </lg>
 
@@ -121151,6 +121607,7 @@
 
       <stg>
         <st Contlex="N_АВА">стенография</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътенография</st>
       </stg>
     </lg>
 
@@ -121169,6 +121626,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">степь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътепь</st>
       </stg>
     </lg>
 
@@ -121189,6 +121647,7 @@
 
       <stg>
         <st Contlex="N_АВА">стерва</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътерва</st>
       </stg>
     </lg>
 
@@ -121211,6 +121670,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стервятник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътервятник</st>
       </stg>
     </lg>
 
@@ -121229,6 +121689,7 @@
 
       <stg>
         <st Contlex="N_АВА">стереометрия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътереометрия</st>
       </stg>
     </lg>
 
@@ -121247,6 +121708,7 @@
 
       <stg>
         <st Contlex="N_">стереоскоп</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътереоскоп</st>
       </stg>
     </lg>
 
@@ -121265,6 +121727,7 @@
 
       <stg>
         <st Contlex="N_">стереотип</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътереотип</st>
       </stg>
     </lg>
 
@@ -121283,6 +121746,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стержень</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътержень</st>
       </stg>
     </lg>
 
@@ -121301,6 +121765,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стерляк</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътерляк</st>
       </stg>
     </lg>
 
@@ -121319,6 +121784,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стимул</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътимул</st>
       </stg>
     </lg>
 
@@ -121337,6 +121803,7 @@
 
       <stg>
         <st Contlex="N_АВА">стиредня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътиредня</st>
       </stg>
     </lg>
 
@@ -121355,6 +121822,7 @@
 
       <stg>
         <st Contlex="N_АВА">стирня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътирня</st>
       </stg>
     </lg>
 
@@ -121373,6 +121841,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стирнят-мазынят</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътирнят-мазынят</st>
       </stg>
     </lg>
 
@@ -121391,6 +121860,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стирнят-якстернят</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътирнят-якстернят</st>
       </stg>
     </lg>
 
@@ -121409,6 +121879,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стирь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътирь</st>
       </stg>
     </lg>
 
@@ -121455,6 +121926,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стирьмор</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътирьмор</st>
       </stg>
     </lg>
 
@@ -121477,6 +121949,7 @@
 
       <stg>
         <st Contlex="N_">стирьшаба</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътирьшаба</st>
       </stg>
     </lg>
 
@@ -121499,6 +121972,7 @@
 
       <stg>
         <st Contlex="N_">стих</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътих</st>
       </stg>
     </lg>
 
@@ -121517,6 +121991,7 @@
 
       <stg>
         <st Contlex="N_АВА">стихия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътихия</st>
       </stg>
     </lg>
 
@@ -121535,6 +122010,7 @@
 
       <stg>
         <st Contlex="N_АВА">стихосложения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътихосложения</st>
       </stg>
     </lg>
 
@@ -121553,6 +122029,7 @@
 
       <stg>
         <st Contlex="N_АВА">стихотворения</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътихотворения</st>
       </stg>
     </lg>
 
@@ -121573,6 +122050,7 @@
 
       <stg>
         <st Contlex="N_АВА">стойка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътойка</st>
       </stg>
     </lg>
 
@@ -121595,6 +122073,7 @@
 
       <stg>
         <st Contlex="N_">стойла</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътойла</st>
       </stg>
     </lg>
 
@@ -121617,6 +122096,7 @@
 
       <stg>
         <st Contlex="N_">столба</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътолба</st>
       </stg>
     </lg>
 
@@ -121639,6 +122119,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">столовай</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътоловай</st>
       </stg>
     </lg>
 
@@ -121659,6 +122140,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">столяр</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътоляр</st>
       </stg>
     </lg>
 
@@ -121679,6 +122161,7 @@
 
       <stg>
         <st Contlex="N_АВА">стопка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътопка</st>
       </stg>
     </lg>
 
@@ -121699,6 +122182,7 @@
 
       <stg>
         <st Contlex="N_ОШ">сторож</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">съторож</st>
       </stg>
     </lg>
 
@@ -121721,6 +122205,7 @@
 
       <stg>
         <st Contlex="N_АВА">страдандама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрадандама</st>
       </stg>
     </lg>
 
@@ -121739,6 +122224,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стражник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътражник</st>
       </stg>
     </lg>
 
@@ -121757,6 +122243,7 @@
 
       <stg>
         <st Contlex="N_">страница</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътраница</st>
       </stg>
     </lg>
 
@@ -121777,6 +122264,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">странник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътранник</st>
       </stg>
     </lg>
 
@@ -121795,6 +122283,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">странность</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътранность</st>
       </stg>
     </lg>
 
@@ -121813,6 +122302,7 @@
 
       <stg>
         <st Contlex="N_АВА">страствама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътраствама</st>
       </stg>
     </lg>
 
@@ -121831,6 +122321,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">страсть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрасть</st>
       </stg>
     </lg>
 
@@ -121849,6 +122340,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стратег</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътратег</st>
       </stg>
     </lg>
 
@@ -121867,6 +122359,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стратостат</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътратостат</st>
       </stg>
     </lg>
 
@@ -121885,6 +122378,7 @@
 
       <stg>
         <st Contlex="N_АВА">стратосфера</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътратосфера</st>
       </stg>
     </lg>
 
@@ -121903,6 +122397,7 @@
 
       <stg>
         <st Contlex="N_ОШ">страус</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сътраус</st>
       </stg>
     </lg>
 
@@ -121921,6 +122416,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">страхман</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрахман</st>
       </stg>
     </lg>
 
@@ -121939,6 +122435,7 @@
 
       <stg>
         <st Contlex="N_АВА">страхования</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрахования</st>
       </stg>
     </lg>
 
@@ -121959,6 +122456,7 @@
 
       <stg>
         <st Contlex="N_АВА">страховка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътраховка</st>
       </stg>
     </lg>
 
@@ -121979,6 +122477,7 @@
 
       <stg>
         <st Contlex="N_АВА">стрекама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрекама</st>
       </stg>
     </lg>
 
@@ -121997,6 +122496,7 @@
 
       <stg>
         <st Contlex="N_">стрела</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътрела</st>
       </stg>
     </lg>
 
@@ -122015,6 +122515,7 @@
 
       <stg>
         <st Contlex="N_АВА">стрелка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрелка</st>
       </stg>
     </lg>
 
@@ -122035,6 +122536,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стрелок</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрелок</st>
       </stg>
     </lg>
 
@@ -122053,6 +122555,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стрелочник</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрелочник</st>
       </stg>
     </lg>
 
@@ -122071,6 +122574,7 @@
 
       <stg>
         <st Contlex="N_АВА">стремя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътремя</st>
       </stg>
     </lg>
 
@@ -122089,6 +122593,7 @@
 
       <stg>
         <st Contlex="N_АВА">стрипканя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрипканя</st>
       </stg>
     </lg>
 
@@ -122107,6 +122612,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стрипчик</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрипчик</st>
       </stg>
     </lg>
 
@@ -122125,6 +122631,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">строгость</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрогость</st>
       </stg>
     </lg>
 
@@ -122143,6 +122650,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">строитель</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътроитель</st>
       </stg>
     </lg>
 
@@ -122161,6 +122669,7 @@
 
       <stg>
         <st Contlex="N_АВА">строительства</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътроительства</st>
       </stg>
     </lg>
 
@@ -122179,6 +122688,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">строй</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътрой</st>
       </stg>
     </lg>
 
@@ -122211,6 +122721,7 @@
 
       <stg>
         <st Contlex="N_">стропа</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътропа</st>
       </stg>
     </lg>
 
@@ -122229,6 +122740,7 @@
 
       <stg>
         <st Contlex="N_АВА">строчама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрочама</st>
       </stg>
     </lg>
 
@@ -122247,6 +122759,7 @@
 
       <stg>
         <st Contlex="N_АВА">строчиндама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрочиндама</st>
       </stg>
     </lg>
 
@@ -122265,6 +122778,7 @@
 
       <stg>
         <st Contlex="N_АВА">строчка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрочка</st>
       </stg>
     </lg>
 
@@ -122285,6 +122799,7 @@
 
       <stg>
         <st Contlex="N_АВА">струга</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътруга</st>
       </stg>
     </lg>
 
@@ -122303,6 +122818,7 @@
 
       <stg>
         <st Contlex="N_">струна</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътруна</st>
       </stg>
     </lg>
 
@@ -122321,6 +122837,7 @@
 
       <stg>
         <st Contlex="N_АВА">струпкя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрупкя</st>
       </stg>
     </lg>
 
@@ -122339,6 +122856,7 @@
 
       <stg>
         <st Contlex="N_АВА">струя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътруя</st>
       </stg>
     </lg>
 
@@ -122357,6 +122875,7 @@
 
       <stg>
         <st Contlex="N_АВА">стрьъпка</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрьъпка</st>
       </stg>
     </lg>
 
@@ -122375,6 +122894,7 @@
 
       <stg>
         <st Contlex="N_АВА">стряпама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътряпама</st>
       </stg>
     </lg>
 
@@ -122393,6 +122913,7 @@
 
       <stg>
         <st Contlex="N_АВА">стряпондама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътряпондама</st>
       </stg>
     </lg>
 
@@ -122415,6 +122936,7 @@
 
       <stg>
         <st Contlex="N_">стряпуха</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътряпуха</st>
       </stg>
     </lg>
 
@@ -122437,6 +122959,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">студент</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътудент</st>
       </stg>
     </lg>
 
@@ -122459,6 +122982,7 @@
 
       <stg>
         <st Contlex="N_АВА">студия</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътудия</st>
       </stg>
     </lg>
 
@@ -122477,6 +123001,7 @@
 
       <stg>
         <st Contlex="N_АВА">стукадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътукадема</st>
       </stg>
     </lg>
 
@@ -122495,6 +123020,7 @@
 
       <stg>
         <st Contlex="N_АВА">стукама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътукама</st>
       </stg>
     </lg>
 
@@ -122513,6 +123039,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стул</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътул</st>
       </stg>
     </lg>
 
@@ -122533,6 +123060,7 @@
 
       <stg>
         <st Contlex="N_">ступце</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътупце</st>
       </stg>
     </lg>
 
@@ -122547,10 +123075,11 @@
 
   <e>
     <lg>
-      <l pos="N">стърнаня</l>
+      <l pos="N">стрнаня</l>
 
       <stg>
-        <st Contlex="N_АВА">стърнаня</st>
+        <st Contlex="N_АВА">стрнаня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътрнаня</st>
       </stg>
     </lg>
 
@@ -122569,6 +123098,7 @@
 
       <stg>
         <st Contlex="N_">сты</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съты</st>
       </stg>
     </lg>
 
@@ -122587,6 +123117,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">стюдень</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сътюдень</st>
       </stg>
     </lg>
 
@@ -122605,6 +123136,7 @@
 
       <stg>
         <st Contlex="N_АВА">стяда</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътяда</st>
       </stg>
     </lg>
 
@@ -122627,6 +123159,7 @@
 
       <stg>
         <st Contlex="N_АВА">стяма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътяма</st>
       </stg>
     </lg>
 
@@ -122657,6 +123190,7 @@
 
       <stg>
         <st Contlex="N_ОШ-PL">стяфкс</st>
+<st Contlex="N_ОШ-PL" status="Use/SpellNoSugg">сътяфкс</st>
       </stg>
     </lg>
 
@@ -122675,6 +123209,7 @@
 
       <stg>
         <st Contlex="N_АВА">стяфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътяфтома</st>
       </stg>
     </lg>
 
@@ -122693,6 +123228,7 @@
 
       <stg>
         <st Contlex="N_АВА">стяшендома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътяшендома</st>
       </stg>
     </lg>
 
@@ -122711,6 +123247,7 @@
 
       <stg>
         <st Contlex="N_">стёкла</st>
+<st Contlex="N_" status="Use/SpellNoSugg">сътёкла</st>
       </stg>
     </lg>
 
@@ -124073,6 +124610,7 @@
 
       <stg>
         <st Contlex="N_">сцена</st>
+<st Contlex="N_" status="Use/SpellNoSugg">съцена</st>
       </stg>
     </lg>
 
@@ -124091,6 +124629,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">счёт</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съчёт</st>
       </stg>
     </lg>
 
@@ -124109,10 +124648,10 @@
 
   <e>
     <lg>
-      <l pos="N">съезд</l>
+      <l pos="N">сезд</l>
 
       <stg>
-        <st Contlex="N_КАЛ">съезд</st>
+        <st Contlex="N_КАЛ">сезд</st>
       </stg>
     </lg>
 
@@ -124127,10 +124666,11 @@
 
   <e>
     <lg>
-      <l pos="N">съкнама</l>
+      <l pos="N">скнама</l>
 
       <stg>
-        <st Contlex="N_АВА">съкнама</st>
+        <st Contlex="N_АВА">скнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съкнама</st>
       </stg>
     </lg>
 
@@ -124145,10 +124685,11 @@
 
   <e>
     <lg>
-      <l pos="N">съкнамс</l>
+      <l pos="N">скнамс</l>
 
       <stg>
-        <st Contlex="N_ОШ">съкнамс</st>
+        <st Contlex="N_ОШ">скнамс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">съкнамс</st>
       </stg>
     </lg>
 
@@ -124163,10 +124704,11 @@
 
   <e>
     <lg>
-      <l pos="N">съргавоськя</l>
+      <l pos="N">сргавоськя</l>
 
       <stg>
-        <st Contlex="N_АВА">съргавоськя</st>
+        <st Contlex="N_АВА">сргавоськя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съргавоськя</st>
       </stg>
     </lg>
 
@@ -124181,10 +124723,11 @@
 
   <e>
     <lg>
-      <l pos="N">съргаусь</l>
+      <l pos="N">сргаусь</l>
 
       <stg>
-        <st Contlex="N_КАЛ">съргаусь</st>
+        <st Contlex="N_КАЛ">сргаусь</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">съргаусь</st>
       </stg>
     </lg>
 
@@ -124199,10 +124742,11 @@
 
   <e>
     <lg>
-      <l pos="N">съргозема</l>
+      <l pos="N">сргозема</l>
 
       <stg>
-        <st Contlex="N_АВА">съргозема</st>
+        <st Contlex="N_АВА">сргозема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">съргозема</st>
       </stg>
     </lg>
 
@@ -124217,10 +124761,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърдама</l>
+      <l pos="N">срдама</l>
 
       <stg>
-        <st Contlex="N_АВА">сърдама</st>
+        <st Contlex="N_АВА">срдама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърдама</st>
       </stg>
     </lg>
 
@@ -124235,10 +124780,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърма</l>
+      <l pos="N">срма</l>
 
       <stg>
-        <st Contlex="N_АВА">сърма</st>
+        <st Contlex="N_АВА">срма</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърма</st>
       </stg>
     </lg>
 
@@ -124253,10 +124799,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърмама</l>
+      <l pos="N">срмама</l>
 
       <stg>
-        <st Contlex="N_АВА">сърмама</st>
+        <st Contlex="N_АВА">срмама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърмама</st>
       </stg>
     </lg>
 
@@ -124271,10 +124818,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърмаф</l>
+      <l pos="N">срмаф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">сърмаф</st>
+        <st Contlex="N_КАЛ">срмаф</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">сърмаф</st>
       </stg>
     </lg>
 
@@ -124289,10 +124837,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърмафкс</l>
+      <l pos="N">срмафкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">сърмафкс</st>
+        <st Contlex="N_ОШ">срмафкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">сърмафкс</st>
       </stg>
     </lg>
 
@@ -124307,10 +124856,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърмаяфтома</l>
+      <l pos="N">срмаяфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">сърмаяфтома</st>
+        <st Contlex="N_АВА">срмаяфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърмаяфтома</st>
       </stg>
     </lg>
 
@@ -124325,10 +124875,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърхкама</l>
+      <l pos="N">срхкама</l>
 
       <stg>
-        <st Contlex="N_АВА">сърхкама</st>
+        <st Contlex="N_АВА">срхкама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърхкама</st>
       </stg>
     </lg>
 
@@ -124343,10 +124894,11 @@
 
   <e>
     <lg>
-      <l pos="N">сърхцадема</l>
+      <l pos="N">срхцадема</l>
 
       <stg>
-        <st Contlex="N_АВА">сърхцадема</st>
+        <st Contlex="N_АВА">срхцадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сърхцадема</st>
       </stg>
     </lg>
 
@@ -124361,10 +124913,11 @@
 
   <e>
     <lg>
-      <l pos="N">сътнама</l>
+      <l pos="N">стнама</l>
 
       <stg>
-        <st Contlex="N_АВА">сътнама</st>
+        <st Contlex="N_АВА">стнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">сътнама</st>
       </stg>
     </lg>
 
@@ -124379,10 +124932,10 @@
 
   <e>
     <lg>
-      <l pos="N">съёмка</l>
+      <l pos="N">сёмка</l>
 
       <stg>
-        <st Contlex="N_АВА">съёмка</st>
+        <st Contlex="N_АВА">сёмка</st>
       </stg>
     </lg>
 
@@ -124593,10 +125146,11 @@
 
   <e>
     <lg>
-      <l pos="N">ськърденя</l>
+      <l pos="N">ськрденя</l>
 
       <stg>
-        <st Contlex="N_АВА">ськърденя</st>
+        <st Contlex="N_АВА">ськрденя</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">ськърденя</st>
       </stg>
     </lg>
 
@@ -128047,10 +128601,11 @@
 
   <e>
     <lg>
-      <l pos="N">тапсема-пълхнема</l>
+      <l pos="N">тапсема-плхнема</l>
 
       <stg>
-        <st Contlex="N_АВА">тапсема-пълхнема</st>
+        <st Contlex="N_АВА">тапсема-плхнема</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">тапсема-пълхнема</st>
       </stg>
     </lg>
 
@@ -130799,6 +131354,7 @@
 
       <stg>
         <st Contlex="N_">ткачиха</st>
+<st Contlex="N_" status="Use/SpellNoSugg">тъкачиха</st>
       </stg>
     </lg>
 
@@ -130835,6 +131391,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">тнал</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">тънал</st>
       </stg>
     </lg>
 
@@ -132693,6 +133250,7 @@
 
       <stg>
         <st Contlex="N_АВА">трва</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търва</st>
       </stg>
     </lg>
 
@@ -133485,10 +134043,11 @@
 
   <e>
     <lg>
-      <l pos="N">трънняфтома</l>
+      <l pos="N">трнняфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">трънняфтома</st>
+        <st Contlex="N_АВА">трнняфтома</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">трънняфтома</st>
       </stg>
     </lg>
 
@@ -135475,10 +136034,11 @@
 
   <e>
     <lg>
-      <l pos="N">тушендома-сърхксема</l>
+      <l pos="N">тушендома-срхксема</l>
 
       <stg>
-        <st Contlex="N_АВА">тушендома-сърхксема</st>
+        <st Contlex="N_АВА">тушендома-срхксема</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">тушендома-сърхксема</st>
       </stg>
     </lg>
 
@@ -135529,10 +136089,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъга</l>
+      <l pos="N">тга</l>
 
       <stg>
-        <st Contlex="N_">тъга</st>
+        <st Contlex="N_">тга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">тъга</st>
       </stg>
     </lg>
 
@@ -135547,10 +136108,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъганя</l>
+      <l pos="N">тганя</l>
 
       <stg>
-        <st Contlex="N_АВА">тъганя</st>
+        <st Contlex="N_АВА">тганя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъганя</st>
       </stg>
     </lg>
 
@@ -135565,10 +136127,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъжнама</l>
+      <l pos="N">тжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">тъжнама</st>
+        <st Contlex="N_АВА">тжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъжнама</st>
       </stg>
     </lg>
 
@@ -135583,10 +136146,10 @@
 
   <e>
     <lg>
-      <l pos="N">тъжф</l>
+      <l pos="N">тжф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">тъжф</st>
+        <st Contlex="N_КАЛ">тжф</st>
       </stg>
     </lg>
 
@@ -135601,10 +136164,10 @@
 
   <e>
     <lg>
-      <l pos="N">тъжфкя</l>
+      <l pos="N">тжфкя</l>
 
       <stg>
-        <st Contlex="N_АВА">тъжфкя</st>
+        <st Contlex="N_АВА">тжфкя</st>
       </stg>
     </lg>
 
@@ -135619,10 +136182,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъзнама</l>
+      <l pos="N">тзнама</l>
 
       <stg>
-        <st Contlex="N_АВА">тъзнама</st>
+        <st Contlex="N_АВА">тзнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъзнама</st>
       </stg>
     </lg>
 
@@ -135637,10 +136201,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъпруга</l>
+      <l pos="N">тпруга</l>
 
       <stg>
-        <st Contlex="N_">тъпруга</st>
+        <st Contlex="N_">тпруга</st>
+<st Contlex="N_" status="Use/SpellNoSugg">тъпруга</st>
       </stg>
     </lg>
 
@@ -135655,10 +136220,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъпруганя</l>
+      <l pos="N">тпруганя</l>
 
       <stg>
-        <st Contlex="N_АВА">тъпруганя</st>
+        <st Contlex="N_АВА">тпруганя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъпруганя</st>
       </stg>
     </lg>
 
@@ -135673,10 +136239,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъпстадема</l>
+      <l pos="N">тпстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">тъпстадема</st>
+        <st Contlex="N_АВА">тпстадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъпстадема</st>
       </stg>
     </lg>
 
@@ -135691,10 +136258,11 @@
 
   <e>
     <lg>
-      <l pos="N">тъпстыема</l>
+      <l pos="N">тпстыема</l>
 
       <stg>
-        <st Contlex="N_АВА">тъпстыема</st>
+        <st Contlex="N_АВА">тпстыема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">тъпстыема</st>
       </stg>
     </lg>
 
@@ -135709,10 +136277,11 @@
 
   <e>
     <lg>
-      <l pos="N">търва</l>
+      <l pos="N">трва</l>
 
       <stg>
-        <st Contlex="N_АВА">търва</st>
+        <st Contlex="N_АВА">трва</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търва</st>
       </stg>
     </lg>
 
@@ -135727,10 +136296,11 @@
 
   <e>
     <lg>
-      <l pos="N">търваня</l>
+      <l pos="N">трваня</l>
 
       <stg>
-        <st Contlex="N_АВА">търваня</st>
+        <st Contlex="N_АВА">трваня</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търваня</st>
       </stg>
     </lg>
 
@@ -135745,10 +136315,11 @@
 
   <e>
     <lg>
-      <l pos="N">търгачнема</l>
+      <l pos="N">тргачнема</l>
 
       <stg>
-        <st Contlex="N_АВА">търгачнема</st>
+        <st Contlex="N_АВА">тргачнема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търгачнема</st>
       </stg>
     </lg>
 
@@ -135763,10 +136334,11 @@
 
   <e>
     <lg>
-      <l pos="N">търдос</l>
+      <l pos="N">трдос</l>
 
       <stg>
-        <st Contlex="N_ОШ">търдос</st>
+        <st Contlex="N_ОШ">трдос</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">търдос</st>
       </stg>
     </lg>
 
@@ -135781,10 +136353,11 @@
 
   <e>
     <lg>
-      <l pos="N">търдяс</l>
+      <l pos="N">трдяс</l>
 
       <stg>
-        <st Contlex="N_ОШ">търдяс</st>
+        <st Contlex="N_ОШ">трдяс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">търдяс</st>
       </stg>
     </lg>
 
@@ -135799,10 +136372,11 @@
 
   <e>
     <lg>
-      <l pos="N">търкстадема</l>
+      <l pos="N">тркстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">търкстадема</st>
+        <st Contlex="N_АВА">тркстадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търкстадема</st>
       </stg>
     </lg>
 
@@ -135817,10 +136391,11 @@
 
   <e>
     <lg>
-      <l pos="N">търнатома</l>
+      <l pos="N">трнатома</l>
 
       <stg>
-        <st Contlex="N_АВА">търнатома</st>
+        <st Contlex="N_АВА">трнатома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търнатома</st>
       </stg>
     </lg>
 
@@ -135835,10 +136410,10 @@
 
   <e>
     <lg>
-      <l pos="N">търстадема</l>
+      <l pos="N">трстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">търстадема</st>
+        <st Contlex="N_АВА">трстадема</st>
       </stg>
     </lg>
 
@@ -135853,10 +136428,11 @@
 
   <e>
     <lg>
-      <l pos="N">търташ</l>
+      <l pos="N">трташ</l>
 
       <stg>
-        <st Contlex="N_ОШ">търташ</st>
+        <st Contlex="N_ОШ">трташ</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">търташ</st>
       </stg>
     </lg>
 
@@ -135871,10 +136447,11 @@
 
   <e>
     <lg>
-      <l pos="N">търхцадема</l>
+      <l pos="N">трхцадема</l>
 
       <stg>
-        <st Contlex="N_АВА">търхцадема</st>
+        <st Contlex="N_АВА">трхцадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">търхцадема</st>
       </stg>
     </lg>
 
@@ -143917,6 +144494,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">фтал</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">фътал</st>
       </stg>
     </lg>
 
@@ -144033,6 +144611,7 @@
 
       <stg>
         <st Contlex="N_">фтима</st>
+<st Contlex="N_" status="Use/SpellNoSugg">фътима</st>
       </stg>
     </lg>
 
@@ -144177,10 +144756,11 @@
 
   <e>
     <lg>
-      <l pos="N">фъркснема</l>
+      <l pos="N">фркснема</l>
 
       <stg>
-        <st Contlex="N_АВА">фъркснема</st>
+        <st Contlex="N_АВА">фркснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">фъркснема</st>
       </stg>
     </lg>
 
@@ -144195,10 +144775,11 @@
 
   <e>
     <lg>
-      <l pos="N">фъркстома</l>
+      <l pos="N">фркстома</l>
 
       <stg>
-        <st Contlex="N_АВА">фъркстома</st>
+        <st Contlex="N_АВА">фркстома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">фъркстома</st>
       </stg>
     </lg>
 
@@ -144447,6 +145028,7 @@
 
       <stg>
         <st Contlex="N_АВА">хвалендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">хъвалендама</st>
       </stg>
     </lg>
 
@@ -144473,6 +145055,7 @@
 
       <stg>
         <st Contlex="N_">хвата</st>
+<st Contlex="N_" status="Use/SpellNoSugg">хъвата</st>
       </stg>
     </lg>
 
@@ -144491,6 +145074,7 @@
 
       <stg>
         <st Contlex="N_АВА">хвоя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">хъвоя</st>
       </stg>
     </lg>
 
@@ -144929,6 +145513,7 @@
 
       <stg>
         <st Contlex="N_">хна</st>
+<st Contlex="N_" status="Use/SpellNoSugg">хъна</st>
       </stg>
     </lg>
 
@@ -149346,6 +149931,7 @@
 
       <stg>
         <st Contlex="N_КАЛ">чван</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">чъван</st>
       </stg>
     </lg>
 
@@ -149364,6 +149950,7 @@
 
       <stg>
         <st Contlex="N_АВА">чванендама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">чъванендама</st>
       </stg>
     </lg>
 
@@ -150036,6 +150623,7 @@
 
       <stg>
         <st Contlex="N_АВА">чжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">чъжнама</st>
       </stg>
     </lg>
 
@@ -151054,10 +151642,11 @@
 
   <e>
     <lg>
-      <l pos="N">чъжнама</l>
+      <l pos="N">чжнама</l>
 
       <stg>
-        <st Contlex="N_АВА">чъжнама</st>
+        <st Contlex="N_АВА">чжнама</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">чъжнама</st>
       </stg>
     </lg>
 
@@ -151072,10 +151661,11 @@
 
   <e>
     <lg>
-      <l pos="N">чървада</l>
+      <l pos="N">чрвада</l>
 
       <stg>
-        <st Contlex="N_АВА">чървада</st>
+        <st Contlex="N_АВА">чрвада</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">чървада</st>
       </stg>
     </lg>
 
@@ -157278,10 +157868,11 @@
 
   <e>
     <lg>
-      <l pos="N">шъварин</l>
+      <l pos="N">шварин</l>
 
       <stg>
-        <st Contlex="N_КАЛ">шъварин</st>
+        <st Contlex="N_КАЛ">шварин</st>
+        <st Contlex="N_КАЛ" status="Use/SpellNoSugg">шъварин</st>
       </stg>
     </lg>
 
@@ -157296,10 +157887,11 @@
 
   <e>
     <lg>
-      <l pos="N">шъвата</l>
+      <l pos="N">швата</l>
 
       <stg>
-        <st Contlex="N_">шъвата</st>
+        <st Contlex="N_">швата</st>
+        <st Contlex="N_" status="Use/SpellNoSugg">шъвата</st>
       </stg>
     </lg>
 
@@ -158758,10 +159350,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърдаз</l>
+      <l pos="N">рдаз</l>
 
       <stg>
-        <st Contlex="N_ОШ">ърдаз</st>
+        <st Contlex="N_ОШ">рдаз</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">ърдаз</st>
       </stg>
     </lg>
 
@@ -158776,10 +159369,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърдазыяфкс</l>
+      <l pos="N">рдазыяфкс</l>
 
       <stg>
-        <st Contlex="N_ОШ">ърдазыяфкс</st>
+        <st Contlex="N_ОШ">рдазыяфкс</st>
+<st Contlex="N_ОШ" status="Use/SpellNoSugg">ърдазыяфкс</st>
       </stg>
     </lg>
 
@@ -158794,10 +159388,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърдазыяфтома</l>
+      <l pos="N">рдазыяфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">ърдазыяфтома</st>
+        <st Contlex="N_АВА">рдазыяфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ърдазыяфтома</st>
       </stg>
     </lg>
 
@@ -158812,10 +159407,11 @@
 
   <e>
     <lg>
-      <l pos="N">ъркснема</l>
+      <l pos="N">ркснема</l>
 
       <stg>
-        <st Contlex="N_АВА">ъркснема</st>
+        <st Contlex="N_АВА">ркснема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ъркснема</st>
       </stg>
     </lg>
 
@@ -158830,10 +159426,11 @@
 
   <e>
     <lg>
-      <l pos="N">ъркстадема</l>
+      <l pos="N">ркстадема</l>
 
       <stg>
-        <st Contlex="N_АВА">ъркстадема</st>
+        <st Contlex="N_АВА">ркстадема</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ъркстадема</st>
       </stg>
     </lg>
 
@@ -158848,10 +159445,11 @@
 
   <e>
     <lg>
-      <l pos="N">ъртуть</l>
+      <l pos="N">ртуть</l>
 
       <stg>
-        <st Contlex="N_КАЛ">ъртуть</st>
+        <st Contlex="N_КАЛ">ртуть</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">ъртуть</st>
       </stg>
     </lg>
 
@@ -158866,10 +159464,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърьвя</l>
+      <l pos="N">рьвя</l>
 
       <stg>
-        <st Contlex="N_АВА">ърьвя</st>
+        <st Contlex="N_АВА">рьвя</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ърьвя</st>
       </stg>
     </lg>
 
@@ -158890,10 +159489,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърьвяяй</l>
+      <l pos="N">рьвяяй</l>
 
       <stg>
-        <st Contlex="N_КАЛ">ърьвяяй</st>
+        <st Contlex="N_КАЛ">рьвяяй</st>
+<st Contlex="N_КАЛ" status="Use/SpellNoSugg">ърьвяяй</st>
       </stg>
     </lg>
 
@@ -158908,10 +159508,11 @@
 
   <e>
     <lg>
-      <l pos="N">ърьвяяфтома</l>
+      <l pos="N">рьвяяфтома</l>
 
       <stg>
-        <st Contlex="N_АВА">ърьвяяфтома</st>
+        <st Contlex="N_АВА">рьвяяфтома</st>
+<st Contlex="N_АВА" status="Use/SpellNoSugg">ърьвяяфтома</st>
       </stg>
     </lg>
 
@@ -159216,10 +159817,11 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="N">эень сърхкама</l>
+      <l pos="N">эень срхкама</l>
 
       <stg>
-        <st Contlex="N_АВА">эень сърхкама</st>
+        <st Contlex="N_АВА">эень срхкама</st>
+        <st Contlex="N_АВА" status="Use/SpellNoSugg">эень сърхкама</st>
       </stg>
     </lg>
 
