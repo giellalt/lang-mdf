@@ -16,7 +16,7 @@ LEXICON interjections
 ворь(х)ть:ворь(х)ть INTERJ_  "pois!" ;
 ворьть:ворьть INTERJ_  "" ;
 ворьхть:ворьхть INTERJ_  "" ;
-възы:възы INTERJ_  "" ;
+взы:взы INTERJ_  "" ;
 вяць-вяць:вяць-вяць INTERJ_  "" ;
 вяця-вяця:вяця-вяця INTERJ_  "" ;
 гоп:гоп INTERJ_  "" ;
@@ -28,7 +28,8 @@ LEXICON interjections
 куть-куть:куть-куть INTERJ_  "" ;
 кутя-кутя:кутя-кутя INTERJ_  "" ;
 кшу:кшу INTERJ_  "hus!" ;
-късь-късь:късь-късь INTERJ_  "" ;
+ксь-ксь:ксь-ксь INTERJ_  "" ;
+ксь-ксь+Use/SpellNoSugg:късь-късь INTERJ_  "" ;
 но:но INTERJ_  "no" ;
 ну:ну INTERJ_  "no" ;
 ожу:ожу INTERJ_  "seis!" ;
@@ -39,11 +40,13 @@ LEXICON interjections
 пежеть:пежеть INTERJ_  "totta tosiaan" ;
 прощай:прощай INTERJ_  "hyvästi!" ;
 псянк-псянк:псянк-псянк INTERJ_  "" ;
-пъс-пъс:пъс-пъс INTERJ_  "" ;
+пс-пс:пс-пс INTERJ_  "" ;
+пс-пс+Use/SpellNoSugg:пъс-пъс INTERJ_  "" ;
 сюк:сюк FORMULAIC_  "kiitos" ;
 трр:трр INTERJ_  "pruu!" ;
-тъпру:тъпру INTERJ_  "" ;
-тъсс:тъсс INTERJ_  "" ;
+тпру:тпру INTERJ_  "" ;
+тпру+Use/SpellNoSugg:тъпру INTERJ_  "" ;
+тсс:тсс INTERJ_  "" ;
 тыр:тыр INTERJ_  "" ;
 тьфу:тьфу INTERJ_  "hyi!" ;
 тютю-люлю:тютю-люлю INTERJ_  "" ;
@@ -56,7 +59,9 @@ LEXICON interjections
 ух:ух INTERJ_  "" ;
 фу:фу INTERJ_  "hyi!" ;
 хм:хм INTERJ_  "hm!" ;
-хъм:хъм INTERJ_  "" ;
+хм+Use/SpellNoSugg:хъм INTERJ_  "hm!" ;
+хм:хм INTERJ_  "" ;
+хм+Use/SpellNoSugg:хъм INTERJ_  "" ;
 цып-цып:цып-цып INTERJ_  "" ;
 цыц:цыц INTERJ_  "hys!" ;
 цю:цю INTERJ_  "hys!" ;

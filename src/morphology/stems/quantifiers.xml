@@ -2492,10 +2492,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">кържа</l>
+      <l pos="Adv">кржа</l>
 
       <stg>
-        <st Contlex="ADV_">кържа</st>
+        <st Contlex="ADV_">кржа</st>
       </stg>
     </lg>
 
@@ -2521,10 +2521,10 @@
 
   <e>
     <lg>
-      <l pos="Qnt">мъзярошка</l>
+      <l pos="Qnt">мзярошка</l>
 
       <stg>
-        <st Contlex="QNT_">мъзярошка</st>
+        <st Contlex="QNT_">мзярошка</st>
       </stg>
     </lg>
 
@@ -3235,6 +3235,7 @@
 
       <stg>
         <st Contlex="NUM-CARD_">фкя</st>
+<st Contlex="NUM-CARD_" status="Use/SpellNoSugg">фъкя</st>
       </stg>
     </lg>
 
