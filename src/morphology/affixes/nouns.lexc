@@ -65,6 +65,19 @@ LEXICON N_ПАКСЯ-PL
 +N: NMN_ПАКСЯ-PL ;
 
 
+LEXICON N_АНДЫ
+! анды:анды
++N: NMN_АВА ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_АНДЫ-SG
+! анды:анды
++N: NMN_АВА-SG ;
+
+LEXICON N_АНДЫ-PL
+! анды:анды
++N: NMN_АВА-PL ;
+
 LEXICON N_ОФТА !!= @CODE@ 
 !!офта:офт
 +N: NMN_ОФТА ;
@@ -88,6 +101,12 @@ LEXICON N_ПУЛА !!= @CODE@
 !пула:пул
 +N:%{АОЕ%} NMN_АВА ;
 +N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_КАРЮЦЬКЕ !!= @CODE@
+!карюцьке:карюцьк
++N:%{АОЕ%} NMN_АВА ;
++N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+!€ карюцькат
 
 LEXICON N_СЕЛЬМЕ !!= @CODE@
 !сельме:сельм
