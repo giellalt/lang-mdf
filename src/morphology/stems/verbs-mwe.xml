@@ -6,26 +6,6 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
   <e exclude="fst">
     <lg>
-      <l pos="N">пачк ваймяй пакся</l>
-
-      <stg>
-        <st>пачк ваймяй пакся</st>
-      </stg>
-    </lg>
-
-    <phonet>pačk vajmäj pakśä</phonet>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">kesanto</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
       <l pos="V">андомс-симдемс</l>
 
       <l_drv pos="V">андомс_V</l_drv>
@@ -80,9 +60,9 @@
     <lg>
       <l pos="V">юмамс-арамс</l>
 
-      <l_drv pos="V">юмамс_V</l_drv>
+      <l_drv pos="V">юмамс</l_drv>
 
-      <l_drv pos="V">арамс_V</l_drv>
+      <l_drv pos="V">арамс</l_drv>
 
       <stg>
         <st/>
@@ -112,9 +92,9 @@
     <lg>
       <l pos="V">ахиемс-охиемс</l>
 
-      <l_drv pos="V">ахиемс_V</l_drv>
+      <l_drv pos="V">ахиемс</l_drv>
 
-      <l_drv pos="V">охиемс_V</l_drv>
+      <l_drv pos="V">охиемс</l_drv>
 
       <stg>
         <st/>
@@ -138,9 +118,9 @@
     <lg>
       <l pos="V">цяпафтомс-лапафтомс</l>
 
-      <l_drv pos="V">цяпафтомс_V</l_drv>
+      <l_drv pos="V">цяпафтомс</l_drv>
 
-      <l_drv pos="V">лапафтомс_V</l_drv>
+      <l_drv pos="V">лапафтомс</l_drv>
 
       <stg>
         <st/>
@@ -164,9 +144,9 @@
     <lg>
       <l pos="V">шачемс-касомс</l>
 
-      <l_drv pos="V">шачемс_V</l_drv>
+      <l_drv pos="V">шачемс</l_drv>
 
-      <l_drv pos="V">касомс_V</l_drv>
+      <l_drv pos="V">касомс</l_drv>
 
       <stg>
         <st/>
@@ -190,9 +170,9 @@
     <lg>
       <l pos="V">ванондомс-кочксемс</l>
 
-      <l_drv pos="V">ванондомс_V</l_drv>
+      <l_drv pos="V">ванондомс</l_drv>
 
-      <l_drv pos="V">кочксемс_V</l_drv>
+      <l_drv pos="V">кочксемс</l_drv>
 
       <stg>
         <st>ванондомс-кочксемс</st>
@@ -255,4 +235,5 @@
       </xg>
     </mg>
   </e>
+
 </r>

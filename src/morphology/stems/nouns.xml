@@ -4,128 +4,34 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst">
+  <e>
     <lg>
-      <l pos="N">кятть-пилькт</l>
+      <l pos="N">оржаня</l>
+
+      <l_ref>оржа</l_ref>
 
       <stg>
-        <st>кятть-пилькт</st>
+        <st Contlex="N_АВА">оржаня</st>
       </stg>
-    </lg>
 
-    <phonet>käťť-piľkt</phonet>
+      <phonet>orǯańä</phonet>
+    </lg>
 
     <mg>
       <tg xml:lang="fin">
-        <t>raajat</t>
+        <t>terä</t>
+
+        <t>terävyys</t>
       </tg>
     </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">фкянясна-ажанясна</l>
-
-      <stg>
-        <st>фкянясна-ажанясна</st>
-      </stg>
-    </lg>
-
-    <phonet>fkäńasna-ažańasna</phonet>
 
     <mg>
       <tg xml:lang="fin">
-        <t>heidän ainoa lapsensa</t>
-      </tg>
-    </mg>
-  </e>
+        <t>oka</t>
 
-  <e exclude="fst">
-    <lg>
-      <l pos="N">валхт-кяльхть</l>
+        <t>piikki</t>
 
-      <stg>
-        <st>валхт-кяльхть</st>
-      </stg>
-    </lg>
-
-    <phonet>valxt-käľxť</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>huhu, kuulopuhe</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">видема-сокама</l>
-
-      <stg>
-        <st>видема-сокама</st>
-      </stg>
-    </lg>
-
-    <phonet>viďəma-sokama</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>kylvö, kylväminen</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">акат-дугатт</l>
-
-      <stg>
-        <st>акат-дугатт</st>
-      </stg>
-    </lg>
-
-    <phonet>akat-dugatt</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>sisarukset</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">альнякат-дугатт</l>
-
-      <stg>
-        <st>альнякат-дугатт</st>
-      </stg>
-    </lg>
-
-    <phonet>aľńakat-dugatt</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>sisarukset</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">кархчт-курхчт</l>
-
-      <stg>
-        <st>кархчт-курхчт</st>
-      </stg>
-    </lg>
-
-    <phonet>karxčt-kurxčt</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) pikkuseikat</t>
+        <t>pistin</t>
       </tg>
     </mg>
   </e>
@@ -144,492 +50,6 @@
     <mg>
       <tg xml:lang="fin">
         <t>(mon.) rojut, sirpaleet</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">китне-яттне</l>
-
-      <stg>
-        <st>китне-яттне</st>
-      </stg>
-    </lg>
-
-    <phonet>kiťńə-jatťńä</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) tavat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">кудат-куданят</l>
-
-      <stg>
-        <st>кудат-куданят</st>
-      </stg>
-    </lg>
-
-    <phonet>kudat-kudańat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>hääväki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">купт-кумават</l>
-
-      <stg>
-        <st>купт-кумават</st>
-      </stg>
-    </lg>
-
-    <phonet>kupt-kumavat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) kummisetä ja -täti, kummit, kummivanhemmat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">куцюфт-шаванят</l>
-
-      <stg>
-        <st>куцюфт-шаванят</st>
-      </stg>
-    </lg>
-
-    <phonet>kućuft-šavańat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) keittoastiat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">леботтне-рдасне</l>
-
-      <stg>
-        <st>леботтне-рдасне</st>
-      </stg>
-    </lg>
-
-    <phonet>ľebəťťń(ə)-ərdasńä</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>kaikenlaista saastaa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">мима-рамама</l>
-
-      <stg>
-        <st>мима-рамама</st>
-      </stg>
-    </lg>
-
-    <phonet>mima-ramama</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>kaupankäynti</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">миртть-рьват</l>
-
-      <stg>
-        <st>миртть-рьват</st>
-      </stg>
-    </lg>
-
-    <phonet>miŕťť-əŕvat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>aviopari</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">мяльхть-арьсемат</l>
-
-      <stg>
-        <st>мяльхть-арьсемат</st>
-      </stg>
-    </lg>
-
-    <phonet>mäľxť-aŕśəmat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>toiveet, mietteet, ajatukset</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">панархт-понкст</l>
-
-      <stg>
-        <st>панархт-понкст</st>
-      </stg>
-    </lg>
-
-    <phonet>panarxt-poŋkst</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>vaatetus</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">парьхть-чатт</l>
-
-      <stg>
-        <st>парьхть-чатт</st>
-      </stg>
-    </lg>
-
-    <phonet>paŕxť-čatt</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) tynnyrit</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">пидема-панема</l>
-
-      <stg>
-        <st>пидема-панема</st>
-      </stg>
-    </lg>
-
-    <phonet>piďəma-pańəma</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>ruuanlaitto</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">пичефкст-мяльхть</l>
-
-      <stg>
-        <st>пичефкст-мяльхть</st>
-      </stg>
-    </lg>
-
-    <phonet>pičəfkst-mäľxť</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>huolehtiminen, huolenpito</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">панархт-понкст</l>
-
-      <stg>
-        <st>панархт-понкст</st>
-      </stg>
-    </lg>
-
-    <phonet>panarxt-poŋkst</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>vaatetus</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">сокай-инзай</l>
-
-      <stg>
-        <st>сокай-инзай</st>
-      </stg>
-    </lg>
-
-    <phonet>sokaj-inʒaj</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(maan)viljelijä, maamies</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">сокай-види</l>
-
-      <stg>
-        <st>сокай-види</st>
-      </stg>
-    </lg>
-
-    <phonet>sokaj-viďi</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(maan)viljelijä, maamies</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">тидят-алят</l>
-
-      <stg>
-        <st>тидят-алят</st>
-      </stg>
-    </lg>
-
-    <phonet>ťiďat-aľat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) vanhemmat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">аляфтома-тядяфтома идь</l>
-
-      <stg>
-        <st>аляфтома-тядяфтома идь</st>
-      </stg>
-    </lg>
-
-    <phonet>aľaftəmə-ťäďaftəm(ə) iď</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>orpolapsi</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">плманжа-цюкорня</l>
-
-      <stg>
-        <st>плманжа-цюкорня</st>
-      </stg>
-    </lg>
-
-    <phonet>pəlmanǯa-ćukərńä</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>polvilumpio</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">парьхть-чатт</l>
-
-      <stg>
-        <st>парьхть-чатт</st>
-      </stg>
-    </lg>
-
-    <phonet>paŕxť-čatt</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) tynnyrit</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">шкабаваз-атя</l>
-
-      <stg>
-        <st>шкабаваз-атя</st>
-      </stg>
-    </lg>
-
-    <phonet>škabavaz-aťä</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>isä jumala</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">шкай-паваз</l>
-
-      <stg>
-        <st>шкай-паваз</st>
-      </stg>
-    </lg>
-
-    <phonet>škaj-pavas</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>jumala</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">карьхчт-шявнят</l>
-
-      <stg>
-        <st>карьхчт-шявнят</st>
-      </stg>
-    </lg>
-
-    <phonet>karxčt-šävńat</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) lastut, roskat, (sahan)purut</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">эряма-ащема васта</l>
-
-      <stg>
-        <st>эряма-ащема васта</st>
-      </stg>
-    </lg>
-
-    <phonet>eŕam(ə)-aščəmə vasta</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>olinpaikka</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">китне-яттне</l>
-
-      <stg>
-        <st>китне-яттне</st>
-      </stg>
-    </lg>
-
-    <phonet>kiťńə-jatťńä</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>(mon.) tekotavat, mahdollisuudet, menetelmät</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">ёшмонь-ёшмонь сокаф</l>
-
-      <stg>
-        <st>ёшмонь-ёшмонь сокаф</st>
-      </stg>
-    </lg>
-
-    <phonet>jošməń-jošməń sokaf</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>huonosti kynnetty maa</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">лоскод-ласкод ор</l>
-
-      <stg>
-        <st>лоскод-ласкод ор</st>
-      </stg>
-    </lg>
-
-    <phonet>loskəd-laskəd or</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>risa lammasturkki</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N">сюру-булу (инжа)</l>
-
-      <stg>
-        <st>сюру-булу (инжа)</st>
-      </stg>
-    </lg>
-
-    <phonet>śuru-bulu (ińǯa)</phonet>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>hämähäkki.</t>
       </tg>
     </mg>
   </e>
@@ -48361,8 +47781,6 @@
         <st Contlex="N_КАЛ">керф</st>
       </stg>
     </lg>
-
-    <pos>PTC</pos>
 
     <phonet>kerf</phonet>
 
@@ -108221,10 +107639,10 @@
 
   <e>
     <lg>
-      <l pos="N">рана</l>
+      <l pos="Adv">рана</l>
 
       <stg>
-        <st Contlex="N_">рана</st>
+        <st Contlex="ADV_">рана</st>
       </stg>
     </lg>
 
@@ -108236,9 +107654,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">varhain</t>
+        <t pos="Adv">varhain</t>
 
-        <t pos="N">aikaisin</t>
+        <t pos="Adv">aikaisin</t>
       </tg>
 
       <xg>
