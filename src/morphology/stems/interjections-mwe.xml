@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">арак ширес!</l>
+
+      <l_ref>шире</l_ref>
+
+      <stg>
+        <st>арак ширес!</st>
+      </stg>
+
+      <phonet>arak šiŕəs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>väistä!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">вага вдь</l>
+
+      <l_ref>вага</l_ref>
+
+      <stg>
+        <st>вага вдь</st>
+      </stg>
+
+      <phonet>vagə vəď</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kylläpä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">дугаканяй!</l>
+
+      <l_ref>дуган</l_ref>
+
+      <stg>
+        <st>дугаканяй!</st>
+      </stg>
+
+      <phonet>dugakańäj</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>veikkoseni!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">мацикс пурдаса сялдаскяцень!</l>
+
+      <l_ref>сялдаз</l_ref>
+
+      <stg>
+        <st>мацикс пурдаса сялдаскяцень!</st>
+      </stg>
+
+      <phonet>maćiks purdasa śaldaskäćəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>väännän sinulta niskat nurin!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">моледа ширезон!</l>
+
+      <l_ref>шире</l_ref>
+
+      <stg>
+        <st>моледа ширезон!</st>
+      </stg>
+
+      <phonet>moľədə šiŕəzən</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tulkaa luokseni!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">молодецат!</l>
+
+      <l_ref>молодец</l_ref>
+
+      <stg>
+        <st>молодецат!</st>
+      </stg>
+
+      <phonet>məlaďecat</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>(oletpa) kunnon veikko!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">спасиба шкай-павазти!</l>
+
+      <l_ref>паваз</l_ref>
+
+      <stg>
+        <st>спасиба шкай-павазти!</st>
+      </stg>
+
+      <phonet>spaśiba/paśiba škaj-pavazťi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>luojan kiitos!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">улеза асу мековасу!</l>
+
+      <l_ref>асу</l_ref>
+
+      <stg>
+        <st>улеза асу мековасу!</st>
+      </stg>
+
+      <phonet>uľəza asu mekəvasu</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>auttakaamme toisiamme!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Interj">шумбраши!</l>
+
+      <l_ref>шумбраши</l_ref>
+
+      <stg>
+        <st>шумбраши!</st>
+      </stg>
+
+      <phonet>šumbraši</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>päivää!</t>
+      </tg>
+    </mg>
+  </e>
+</r>
