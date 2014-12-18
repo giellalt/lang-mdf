@@ -4,6 +4,8 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e exclude="fst"> <lg><l pos="A">лпнай пиле</l><l_ref>лпнамс</l_ref><stg><st>лпнай пиле</st></stg> <phonet>ləpnaj piľä</phonet> </lg><mg><tg xml:lang="fin"><t>luppakorva(inen)</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="A">нюрьги нолга</l><l_ref>нюрьгомс</l_ref><stg><st>нюрьги нолга</st></stg> <phonet>ńuŕgi nolga</phonet> </lg><mg><tg xml:lang="fin"><t>toimeton</t></tg></mg></e>
   <e exclude="fst">
     <lg>
       <l pos="A">вазнянь пеке</l>

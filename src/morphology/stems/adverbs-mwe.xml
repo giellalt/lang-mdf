@@ -4,6 +4,11 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e exclude="fst"> <lg><l pos="Adv">кода эряви</l><l_ref>эрявомс</l_ref><stg><st>кода эряви</st></stg> <phonet>koda eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t>asianmukaisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">мяляфтовиста</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтовиста</st></stg> <phonet>mäľaftəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ikimuistoisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">сярядиста</l><l_ref>сярядемс</l_ref><stg><st>сярядиста</st></stg> <phonet>śäŕäďista</phonet> </lg><mg><tg xml:lang="fin"><t>tuskallisesti, kivulloisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">удалафста</l><l_ref>удаламс</l_ref><stg><st>удалафста</st></stg> <phonet>udalafsta</phonet> </lg><mg><tg xml:lang="fin"><t>onnistuneesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ymmärrettävästi, selvästi</t></tg></mg></e>
   <e exclude="fst">
     <lg>
       <l pos="Adv">аксяла</l>

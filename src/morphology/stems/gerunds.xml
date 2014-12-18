@@ -4,14 +4,30 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+  <e exclude="fst"> <lg><l pos="Ger">апак аноклак</l><l_ref>анокламс</l_ref><stg><st Contlex="GER_">апак аноклак</st></stg> <phonet>apak anəklak</phonet> </lg><mg><tg xml:lang="fin"><t>valmistelematta</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">апак кизефтть</l><l_ref>кизефтемс</l_ref><stg><st Contlex="GER_">апак кизефтть</st></stg> <phonet>apak kiźəfťť</phonet> </lg><mg><tg xml:lang="fin"><t>kysymättä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">апак ужяльтть</l><l_ref>ужяльдемс</l_ref><stg><st Contlex="GER_">апак ужяльтть</st></stg> <phonet>apak užäľťť</phonet> </lg><mg><tg xml:lang="fin"><t>säälimättä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">апак учсек</l><l_ref>учемс</l_ref><stg><st Contlex="GER_">апак учсек</st></stg> <phonet>apak učśək</phonet> </lg><mg><tg xml:lang="fin"><t>odottamatta</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">кенярдезь</l><l_ref>кенярдемс</l_ref><stg><st Contlex="GER_">кенярдезь</st></stg> <phonet>keńäŕďəź</phonet> </lg><mg><tg xml:lang="fin"><t>iloiten</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">кядень лапазь</l><l_ref>лапамс</l_ref><stg><st Contlex="GER_">кядень лапазь</st></stg> <phonet>käďəń lapaź</phonet> </lg><mg><tg xml:lang="fin"><t>taputtaen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">мокназь-макназь</l><l_ref>мокнамс</l_ref><stg><st Contlex="GER_">мокназь-макназь</st></stg> <phonet>moknaź-maknaź</phonet> </lg><mg><tg xml:lang="fin"><t>(puhua) honottaen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">пелезня-виздезня</l><l_ref>пелемс</l_ref><stg><st Contlex="GER_">пелезня-виздезня</st></stg> <phonet>peľəźńä-viźďəźńä</phonet> </lg><mg><tg xml:lang="fin"><t>ujostellen, kainostellen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">пензазь-куляксазь</l><l_ref>пензамс</l_ref><stg><st Contlex="GER_">пензазь-куляксазь</st></stg> <phonet>penʒaź-kuľaksaź</phonet> </lg><mg><tg xml:lang="fin"><t>tiedustellen, kuulustellen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">салазь-колазь</l><l_ref>саламс</l_ref><stg><st Contlex="GER_">салазь-колазь</st></stg> <phonet>salaź-kolaź</phonet> </lg><mg><tg xml:lang="fin"><t>salavihkaa, salaa, varkain</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">сельмонь апак кончсек</l><l_ref>кончсемс</l_ref><stg><st Contlex="GER_">сельмонь апак кончсек</st></stg> <phonet>śeľməń apak końč(ś)ək</phonet> </lg><mg><tg xml:lang="fin"><t>hereillä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">сокотозь</l><l_ref>сокотомс</l_ref><stg><st Contlex="GER_">сокотозь</st></stg> <phonet>sokətəź</phonet> </lg><mg><tg xml:lang="fin"><t>väristen, täristen, vapisten</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">сёпозь-кяшезь</l><l_ref>сёпомс</l_ref><stg><st Contlex="GER_">сёпозь-кяшезь</st></stg> <phonet>śopəź-käšəź</phonet> </lg><mg><tg xml:lang="fin"><t>salassa, piilotellen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">удомста</l><l_ref>удомс</l_ref><stg><st Contlex="GER_">удомста</st></stg> <phonet>udəmsta</phonet> </lg><mg><tg xml:lang="fin"><t>nukkuessa</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">ужяльдезня</l><l_ref>ужяльдемс</l_ref><stg><st Contlex="GER_">ужяльдезня</st></stg> <phonet>užäľďəźńä</phonet> </lg><mg><tg xml:lang="fin"><t>säälien, säälivästi</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">щаф-карьсеф</l><l_ref>карьсемс</l_ref><stg><st Contlex="GER_">щаф-карьсеф</st></stg> <phonet>ščaf- kaŕśəf</phonet> </lg><mg><tg xml:lang="fin"><t>pukeutuneena, pukeissa</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Ger">явсезь-авардезь</l><l_ref>явсемс</l_ref><stg><st Contlex="GER_">явсезь-авардезь</st></stg> <phonet>javśəź-avaŕďəź</phonet> </lg><mg><tg xml:lang="fin"><t>parkuen</t></tg></mg></e>
   <e>
       <lg>
-         <l pos="GER">абондозь</l>
+         <l pos="Ger">абондозь</l>
          <stg>
-            <st Contlex="GerTag">абондозь</st>
+            <st Contlex="GER_">абондозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -24,12 +40,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">авардезь</l>
+         <l pos="Ger">авардезь</l>
          <stg>
-            <st Contlex="GerTag">авардезь</st>
+            <st Contlex="GER_">авардезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -42,12 +57,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">авардезь-кольгозь</l>
+         <l pos="Ger">авардезь-кольгозь</l>
          <stg>
-            <st Contlex="GerTag">авардезь-кольгозь</st>
+            <st Contlex="GER_">авардезь-кольгозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -60,12 +74,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">авардезь-рангозь</l>
+         <l pos="Ger">авардезь-рангозь</l>
          <stg>
-            <st Contlex="GerTag">авардезь-рангозь</st>
+            <st Contlex="GER_">авардезь-рангозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -78,12 +91,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">апряказь</l>
+         <l pos="Ger">апряказь</l>
          <stg>
-            <st Contlex="GerTag">апряказь</st>
+            <st Contlex="GER_">апряказь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -96,12 +108,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ардозь</l>
+         <l pos="Ger">ардозь</l>
          <stg>
-            <st Contlex="GerTag">ардозь</st>
+            <st Contlex="GER_">ардозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <phonet>ardəź</phonet>
       <mg>
          <m>
@@ -114,12 +125,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">арьсезь</l>
+         <l pos="Ger">арьсезь</l>
          <stg>
-            <st Contlex="GerTag">арьсезь</st>
+            <st Contlex="GER_">арьсезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -132,12 +142,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ацергодозь</l>
+         <l pos="Ger">ацергодозь</l>
          <stg>
-            <st Contlex="GerTag">ацергодозь</st>
+            <st Contlex="GER_">ацергодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -150,12 +159,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">безярдезь</l>
+         <l pos="Ger">безярдезь</l>
          <stg>
-            <st Contlex="GerTag">безярдезь</st>
+            <st Contlex="GER_">безярдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -168,12 +176,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">брезговазь</l>
+         <l pos="Ger">брезговазь</l>
          <stg>
-            <st Contlex="GerTag">брезговазь</st>
+            <st Contlex="GER_">брезговазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -186,12 +193,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">бульдердезь</l>
+         <l pos="Ger">бульдердезь</l>
          <stg>
-            <st Contlex="GerTag">бульдердезь</st>
+            <st Contlex="GER_">бульдердезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -204,12 +210,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">бульнязь</l>
+         <l pos="Ger">бульнязь</l>
          <stg>
-            <st Contlex="GerTag">бульнязь</st>
+            <st Contlex="GER_">бульнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -222,12 +227,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ваймосезь</l>
+         <l pos="Ger">ваймосезь</l>
          <stg>
-            <st Contlex="GerTag">ваймосезь</st>
+            <st Contlex="GER_">ваймосезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -240,12 +244,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ваймязь</l>
+         <l pos="Ger">ваймязь</l>
          <stg>
-            <st Contlex="GerTag">ваймязь</st>
+            <st Contlex="GER_">ваймязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -258,12 +261,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">валдашкодозь</l>
+         <l pos="Ger">валдашкодозь</l>
          <stg>
-            <st Contlex="GerTag">валдашкодозь</st>
+            <st Contlex="GER_">валдашкодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -276,12 +278,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вандолдозь-пиндолдозь</l>
+         <l pos="Ger">вандолдозь-пиндолдозь</l>
          <stg>
-            <st Contlex="GerTag">вандолдозь-пиндолдозь</st>
+            <st Contlex="GER_">вандолдозь-пиндолдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -294,12 +295,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ваномок</l>
+         <l pos="Ger">ваномок</l>
          <stg>
-            <st Contlex="GerTag">ваномок</st>
+            <st Contlex="GER_">ваномок</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -312,12 +312,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вараксазь</l>
+         <l pos="Ger">вараксазь</l>
          <stg>
-            <st Contlex="GerTag">вараксазь</st>
+            <st Contlex="GER_">вараксазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -330,12 +329,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вархцодезь</l>
+         <l pos="Ger">вархцодезь</l>
          <stg>
-            <st Contlex="GerTag">вархцодезь</st>
+            <st Contlex="GER_">вархцодезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -348,12 +346,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">васьказь</l>
+         <l pos="Ger">васьказь</l>
          <stg>
-            <st Contlex="GerTag">васьказь</st>
+            <st Contlex="GER_">васьказь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -366,12 +363,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">васькафнезь</l>
+         <l pos="Ger">васькафнезь</l>
          <stg>
-            <st Contlex="GerTag">васькафнезь</st>
+            <st Contlex="GER_">васькафнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -384,12 +380,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">васькафтозь</l>
+         <l pos="Ger">васькафтозь</l>
          <stg>
-            <st Contlex="GerTag">васькафтозь</st>
+            <st Contlex="GER_">васькафтозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -402,12 +397,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">васькязь</l>
+         <l pos="Ger">васькязь</l>
          <stg>
-            <st Contlex="GerTag">васькязь</st>
+            <st Contlex="GER_">васькязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -420,12 +414,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вахлязь</l>
+         <l pos="Ger">вахлязь</l>
          <stg>
-            <st Contlex="GerTag">вахлязь</st>
+            <st Contlex="GER_">вахлязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -438,12 +431,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вельсезь</l>
+         <l pos="Ger">вельсезь</l>
          <stg>
-            <st Contlex="GerTag">вельсезь</st>
+            <st Contlex="GER_">вельсезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -456,12 +448,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">велязь</l>
+         <l pos="Ger">велязь</l>
          <stg>
-            <st Contlex="GerTag">велязь</st>
+            <st Contlex="GER_">велязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -474,12 +465,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">велязь-шарозь</l>
+         <l pos="Ger">велязь-шарозь</l>
          <stg>
-            <st Contlex="GerTag">велязь-шарозь</st>
+            <st Contlex="GER_">велязь-шарозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -492,12 +482,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">велянькшнезь</l>
+         <l pos="Ger">велянькшнезь</l>
          <stg>
-            <st Contlex="GerTag">велянькшнезь</st>
+            <st Contlex="GER_">велянькшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -510,12 +499,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">верондазь</l>
+         <l pos="Ger">верондазь</l>
          <stg>
-            <st Contlex="GerTag">верондазь</st>
+            <st Contlex="GER_">верондазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -528,12 +516,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ветензазь</l>
+         <l pos="Ger">ветензазь</l>
          <stg>
-            <st Contlex="GerTag">ветензазь</st>
+            <st Contlex="GER_">ветензазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <phonet>veťənʒaź</phonet>
       <mg>
          <m>
@@ -551,12 +538,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">виздезь</l>
+         <l pos="Ger">виздезь</l>
          <stg>
-            <st Contlex="GerTag">виздезь</st>
+            <st Contlex="GER_">виздезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -569,12 +555,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">виздезь-пелезь</l>
+         <l pos="Ger">виздезь-пелезь</l>
          <stg>
-            <st Contlex="GerTag">виздезь-пелезь</st>
+            <st Contlex="GER_">виздезь-пелезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -587,12 +572,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">визделгодозь</l>
+         <l pos="Ger">визделгодозь</l>
          <stg>
-            <st Contlex="GerTag">визделгодозь</st>
+            <st Contlex="GER_">визделгодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -605,12 +589,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">воравазь-салазь</l>
+         <l pos="Ger">воравазь-салазь</l>
          <stg>
-            <st Contlex="GerTag">воравазь-салазь</st>
+            <st Contlex="GER_">воравазь-салазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -623,13 +606,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вжголдозь</l>
+         <l pos="Ger">вжголдозь</l>
          <stg>
-            <st Contlex="GerTag">вжголдозь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">въжголдозь</st>
+            <st Contlex="GER_">вжголдозь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">въжголдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -642,13 +624,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вжназь</l>
+         <l pos="Ger">вжназь</l>
          <stg>
-            <st Contlex="GerTag">вжназь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">въжназь</st>
+            <st Contlex="GER_">вжназь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">въжназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -661,12 +642,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вяжедезь</l>
+         <l pos="Ger">вяжедезь</l>
          <stg>
-            <st Contlex="GerTag">вяжедезь</st>
+            <st Contlex="GER_">вяжедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -679,12 +659,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">вякназь</l>
+         <l pos="Ger">вякназь</l>
          <stg>
-            <st Contlex="GerTag">вякназь</st>
+            <st Contlex="GER_">вякназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -697,12 +676,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">горнязь</l>
+         <l pos="Ger">горнязь</l>
          <stg>
-            <st Contlex="GerTag">горнязь</st>
+            <st Contlex="GER_">горнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -715,12 +693,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">грабазь</l>
+         <l pos="Ger">грабазь</l>
          <stg>
-            <st Contlex="GerTag">грабазь</st>
+            <st Contlex="GER_">грабазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -733,12 +710,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">гразязь</l>
+         <l pos="Ger">гразязь</l>
          <stg>
-            <st Contlex="GerTag">гразязь</st>
+            <st Contlex="GER_">гразязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -751,12 +727,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">грохиезь</l>
+         <l pos="Ger">грохиезь</l>
          <stg>
-            <st Contlex="GerTag">грохиезь</st>
+            <st Contlex="GER_">грохиезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -769,13 +744,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">гзнязь</l>
+         <l pos="Ger">гзнязь</l>
          <stg>
-            <st Contlex="GerTag">гзнязь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">гъзнязь</st>
+            <st Contlex="GER_">гзнязь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">гъзнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -788,13 +762,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">грнязь</l>
+         <l pos="Ger">грнязь</l>
          <stg>
-            <st Contlex="GerTag">грнязь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">гърнязь</st>
+            <st Contlex="GER_">грнязь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">гърнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -807,12 +780,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">дасадязь</l>
+         <l pos="Ger">дасадязь</l>
          <stg>
-            <st Contlex="GerTag">дасадязь</st>
+            <st Contlex="GER_">дасадязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -825,12 +797,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">дразнязь</l>
+         <l pos="Ger">дразнязь</l>
          <stg>
-            <st Contlex="GerTag">дразнязь</st>
+            <st Contlex="GER_">дразнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -843,12 +814,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жалназь</l>
+         <l pos="Ger">жалназь</l>
          <stg>
-            <st Contlex="GerTag">жалназь</st>
+            <st Contlex="GER_">жалназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -861,12 +831,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жалназь-увназь</l>
+         <l pos="Ger">жалназь-увназь</l>
          <stg>
-            <st Contlex="GerTag">жалназь-увназь</st>
+            <st Contlex="GER_">жалназь-увназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -879,12 +848,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жалносезь-увносезь</l>
+         <l pos="Ger">жалносезь-увносезь</l>
          <stg>
-            <st Contlex="GerTag">жалносезь-увносезь</st>
+            <st Contlex="GER_">жалносезь-увносезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -897,12 +865,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жальдезь</l>
+         <l pos="Ger">жальдезь</l>
          <stg>
-            <st Contlex="GerTag">жальдезь</st>
+            <st Contlex="GER_">жальдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -915,12 +882,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жольдердезь</l>
+         <l pos="Ger">жольдердезь</l>
          <stg>
-            <st Contlex="GerTag">жольдердезь</st>
+            <st Contlex="GER_">жольдердезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -933,12 +899,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жольдердезь-кальдердезь</l>
+         <l pos="Ger">жольдердезь-кальдердезь</l>
          <stg>
-            <st Contlex="GerTag">жольдердезь-кальдердезь</st>
+            <st Contlex="GER_">жольдердезь-кальдердезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -951,12 +916,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жольдерькшнезь-кальдерькшнезь</l>
+         <l pos="Ger">жольдерькшнезь-кальдерькшнезь</l>
          <stg>
-            <st Contlex="GerTag">жольдерькшнезь-кальдерькшнезь</st>
+            <st Contlex="GER_">жольдерькшнезь-кальдерькшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -969,12 +933,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жольнязь</l>
+         <l pos="Ger">жольнязь</l>
          <stg>
-            <st Contlex="GerTag">жольнязь</st>
+            <st Contlex="GER_">жольнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -987,12 +950,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жольнязь-горнязь</l>
+         <l pos="Ger">жольнязь-горнязь</l>
          <stg>
-            <st Contlex="GerTag">жольнязь-горнязь</st>
+            <st Contlex="GER_">жольнязь-горнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1005,12 +967,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жуледезь-каледезь</l>
+         <l pos="Ger">жуледезь-каледезь</l>
          <stg>
-            <st Contlex="GerTag">жуледезь-каледезь</st>
+            <st Contlex="GER_">жуледезь-каледезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1023,12 +984,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">жульничендазь</l>
+         <l pos="Ger">жульничендазь</l>
          <stg>
-            <st Contlex="GerTag">жульничендазь</st>
+            <st Contlex="GER_">жульничендазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1041,12 +1001,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">заботендазь</l>
+         <l pos="Ger">заботендазь</l>
          <stg>
-            <st Contlex="GerTag">заботендазь</st>
+            <st Contlex="GER_">заботендазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1059,12 +1018,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">зойнязь</l>
+         <l pos="Ger">зойнязь</l>
          <stg>
-            <st Contlex="GerTag">зойнязь</st>
+            <st Contlex="GER_">зойнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1077,12 +1035,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">зярнязь</l>
+         <l pos="Ger">зярнязь</l>
          <stg>
-            <st Contlex="GerTag">зярнязь</st>
+            <st Contlex="GER_">зярнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1095,12 +1052,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">иклендезь</l>
+         <l pos="Ger">иклендезь</l>
          <stg>
-            <st Contlex="GerTag">иклендезь</st>
+            <st Contlex="GER_">иклендезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1113,13 +1069,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">икснезь-мкснезь</l>
+         <l pos="Ger">икснезь-мкснезь</l>
          <stg>
-            <st Contlex="GerTag">икснезь-мкснезь</st>
-            <st Contlex="GerTag" status="Use/SpellNoSugg">икснезь-мъкснезь</st>
+            <st Contlex="GER_">икснезь-мкснезь</st>
+            <st Contlex="GER_" status="Use/SpellNoSugg">икснезь-мъкснезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1132,12 +1087,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кашмазь</l>
+         <l pos="Ger">кашмазь</l>
          <stg>
-            <st Contlex="GerTag">кашмазь</st>
+            <st Contlex="GER_">кашмазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1150,12 +1104,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">каязь</l>
+         <l pos="Ger">каязь</l>
          <stg>
-            <st Contlex="GerTag">каязь</st>
+            <st Contlex="GER_">каязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1168,12 +1121,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кеворезь</l>
+         <l pos="Ger">кеворезь</l>
          <stg>
-            <st Contlex="GerTag">кеворезь</st>
+            <st Contlex="GER_">кеворезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1186,12 +1138,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кельгозь</l>
+         <l pos="Ger">кельгозь</l>
          <stg>
-            <st Contlex="GerTag">кельгозь</st>
+            <st Contlex="GER_">кельгозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1204,12 +1155,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кенордазь</l>
+         <l pos="Ger">кенордазь</l>
          <stg>
-            <st Contlex="GerTag">кенордазь</st>
+            <st Contlex="GER_">кенордазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <phonet>kenərdaź</phonet>
       <mg>
          <m>
@@ -1222,12 +1172,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кенярдезь</l>
+         <l pos="Ger">кенярдезь</l>
          <stg>
-            <st Contlex="GerTag">кенярдезь</st>
+            <st Contlex="GER_">кенярдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1240,12 +1189,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кизефтезь</l>
+         <l pos="Ger">кизефтезь</l>
          <stg>
-            <st Contlex="GerTag">кизефтезь</st>
+            <st Contlex="GER_">кизефтезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1258,12 +1206,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кифтолдозь-кафтолдозь</l>
+         <l pos="Ger">кифтолдозь-кафтолдозь</l>
          <stg>
-            <st Contlex="GerTag">кифтолдозь-кафтолдозь</st>
+            <st Contlex="GER_">кифтолдозь-кафтолдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1276,12 +1223,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кичкордозь</l>
+         <l pos="Ger">кичкордозь</l>
          <stg>
-            <st Contlex="GerTag">кичкордозь</st>
+            <st Contlex="GER_">кичкордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1294,12 +1240,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кичкорязь</l>
+         <l pos="Ger">кичкорязь</l>
          <stg>
-            <st Contlex="GerTag">кичкорязь</st>
+            <st Contlex="GER_">кичкорязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1312,12 +1257,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кокольдезь</l>
+         <l pos="Ger">кокольдезь</l>
          <stg>
-            <st Contlex="GerTag">кокольдезь</st>
+            <st Contlex="GER_">кокольдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1330,12 +1274,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кокшкодозь</l>
+         <l pos="Ger">кокшкодозь</l>
          <stg>
-            <st Contlex="GerTag">кокшкодозь</st>
+            <st Contlex="GER_">кокшкодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1348,12 +1291,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кокшкоткшнезь</l>
+         <l pos="Ger">кокшкоткшнезь</l>
          <stg>
-            <st Contlex="GerTag">кокшкоткшнезь</st>
+            <st Contlex="GER_">кокшкоткшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1366,12 +1308,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">колендезь</l>
+         <l pos="Ger">колендезь</l>
          <stg>
-            <st Contlex="GerTag">колендезь</st>
+            <st Contlex="GER_">колендезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1384,12 +1325,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кольгозь-авардезь</l>
+         <l pos="Ger">кольгозь-авардезь</l>
          <stg>
-            <st Contlex="GerTag">кольгозь-авардезь</st>
+            <st Contlex="GER_">кольгозь-авардезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1402,12 +1342,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">комазь</l>
+         <l pos="Ger">комазь</l>
          <stg>
-            <st Contlex="GerTag">комазь</st>
+            <st Contlex="GER_">комазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1420,12 +1359,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">комотнезь</l>
+         <l pos="Ger">комотнезь</l>
          <stg>
-            <st Contlex="GerTag">комотнезь</st>
+            <st Contlex="GER_">комотнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1438,12 +1376,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">копорьгодозь</l>
+         <l pos="Ger">копорьгодозь</l>
          <stg>
-            <st Contlex="GerTag">копорьгодозь</st>
+            <st Contlex="GER_">копорьгодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1456,12 +1393,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кородозь</l>
+         <l pos="Ger">кородозь</l>
          <stg>
-            <st Contlex="GerTag">кородозь</st>
+            <st Contlex="GER_">кородозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1474,12 +1410,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">куколендазь</l>
+         <l pos="Ger">куколендазь</l>
          <stg>
-            <st Contlex="GerTag">куколендазь</st>
+            <st Contlex="GER_">куколендазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1492,12 +1427,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кулдордозь-калдордозь</l>
+         <l pos="Ger">кулдордозь-калдордозь</l>
          <stg>
-            <st Contlex="GerTag">кулдордозь-калдордозь</st>
+            <st Contlex="GER_">кулдордозь-калдордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1510,13 +1444,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кштизь</l>
+         <l pos="Ger">кштизь</l>
          <stg>
-            <st Contlex="GerTag">кштизь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">къштизь</st>
+            <st Contlex="GER_">кштизь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">къштизь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1529,13 +1462,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">крназь</l>
+         <l pos="Ger">крназь</l>
          <stg>
-            <st Contlex="GerTag">крназь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">кърназь</st>
+            <st Contlex="GER_">крназь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">кърназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1548,12 +1480,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кялезь</l>
+         <l pos="Ger">кялезь</l>
          <stg>
-            <st Contlex="GerTag">кялезь</st>
+            <st Contlex="GER_">кялезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1566,12 +1497,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кяшезь-вешезь</l>
+         <l pos="Ger">кяшезь-вешезь</l>
          <stg>
-            <st Contlex="GerTag">кяшезь-вешезь</st>
+            <st Contlex="GER_">кяшезь-вешезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1584,12 +1514,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">кяшендезь</l>
+         <l pos="Ger">кяшендезь</l>
          <stg>
-            <st Contlex="GerTag">кяшендезь</st>
+            <st Contlex="GER_">кяшендезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1602,12 +1531,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лабордозь</l>
+         <l pos="Ger">лабордозь</l>
          <stg>
-            <st Contlex="GerTag">лабордозь</st>
+            <st Contlex="GER_">лабордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1620,12 +1548,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лавгазь-лабордозь</l>
+         <l pos="Ger">лавгазь-лабордозь</l>
          <stg>
-            <st Contlex="GerTag">лавгазь-лабордозь</st>
+            <st Contlex="GER_">лавгазь-лабордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1638,12 +1565,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лавгазь-мятькодезь</l>
+         <l pos="Ger">лавгазь-мятькодезь</l>
          <stg>
-            <st Contlex="GerTag">лавгазь-мятькодезь</st>
+            <st Contlex="GER_">лавгазь-мятькодезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1656,12 +1582,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лавксезь-лаборкшнезь</l>
+         <l pos="Ger">лавксезь-лаборкшнезь</l>
          <stg>
-            <st Contlex="GerTag">лавксезь-лаборкшнезь</st>
+            <st Contlex="GER_">лавксезь-лаборкшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1674,12 +1599,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лавксезь-мятькотькшнезь</l>
+         <l pos="Ger">лавксезь-мятькотькшнезь</l>
          <stg>
-            <st Contlex="GerTag">лавксезь-мятькотькшнезь</st>
+            <st Contlex="GER_">лавксезь-мятькотькшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1692,12 +1616,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лагордозь</l>
+         <l pos="Ger">лагордозь</l>
          <stg>
-            <st Contlex="GerTag">лагордозь</st>
+            <st Contlex="GER_">лагордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1710,12 +1633,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лагордозь-дубордозь</l>
+         <l pos="Ger">лагордозь-дубордозь</l>
          <stg>
-            <st Contlex="GerTag">лагордозь-дубордозь</st>
+            <st Contlex="GER_">лагордозь-дубордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1728,12 +1650,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лагоркшнезь-дуборкшнезь</l>
+         <l pos="Ger">лагоркшнезь-дуборкшнезь</l>
          <stg>
-            <st Contlex="GerTag">лагоркшнезь-дуборкшнезь</st>
+            <st Contlex="GER_">лагоркшнезь-дуборкшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1746,12 +1667,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лажназь</l>
+         <l pos="Ger">лажназь</l>
          <stg>
-            <st Contlex="GerTag">лажназь</st>
+            <st Contlex="GER_">лажназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1764,12 +1684,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лажназь-пеняцязь</l>
+         <l pos="Ger">лажназь-пеняцязь</l>
          <stg>
-            <st Contlex="GerTag">лажназь-пеняцязь</st>
+            <st Contlex="GER_">лажназь-пеняцязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1782,12 +1701,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лажназь-пичедезь</l>
+         <l pos="Ger">лажназь-пичедезь</l>
          <stg>
-            <st Contlex="GerTag">лажназь-пичедезь</st>
+            <st Contlex="GER_">лажназь-пичедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1800,12 +1718,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лаказь</l>
+         <l pos="Ger">лаказь</l>
          <stg>
-            <st Contlex="GerTag">лаказь</st>
+            <st Contlex="GER_">лаказь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1818,12 +1735,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лакштордозь</l>
+         <l pos="Ger">лакштордозь</l>
          <stg>
-            <st Contlex="GerTag">лакштордозь</st>
+            <st Contlex="GER_">лакштордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1836,12 +1752,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ласькозь</l>
+         <l pos="Ger">ласькозь</l>
          <stg>
-            <st Contlex="GerTag">ласькозь</st>
+            <st Contlex="GER_">ласькозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1854,12 +1769,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">летнязь</l>
+         <l pos="Ger">летнязь</l>
          <stg>
-            <st Contlex="GerTag">летнязь</st>
+            <st Contlex="GER_">летнязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1872,12 +1786,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лиезь</l>
+         <l pos="Ger">лиезь</l>
          <stg>
-            <st Contlex="GerTag">лиезь</st>
+            <st Contlex="GER_">лиезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1890,12 +1803,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">лоцазь</l>
+         <l pos="Ger">лоцазь</l>
          <stg>
-            <st Contlex="GerTag">лоцазь</st>
+            <st Contlex="GER_">лоцазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1908,12 +1820,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ляпиякшнезь</l>
+         <l pos="Ger">ляпиякшнезь</l>
          <stg>
-            <st Contlex="GerTag">ляпиякшнезь</st>
+            <st Contlex="GER_">ляпиякшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1926,12 +1837,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">марязь</l>
+         <l pos="Ger">марязь</l>
          <stg>
-            <st Contlex="GerTag">марязь</st>
+            <st Contlex="GER_">марязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1944,12 +1854,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">машнезь</l>
+         <l pos="Ger">машнезь</l>
          <stg>
-            <st Contlex="GerTag">машнезь</st>
+            <st Contlex="GER_">машнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1962,12 +1871,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">маштозь</l>
+         <l pos="Ger">маштозь</l>
          <stg>
-            <st Contlex="GerTag">маштозь</st>
+            <st Contlex="GER_">маштозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1980,12 +1888,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">мекпотазь</l>
+         <l pos="Ger">мекпотазь</l>
          <stg>
-            <st Contlex="GerTag">мекпотазь</st>
+            <st Contlex="GER_">мекпотазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -1998,12 +1905,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">мокназь</l>
+         <l pos="Ger">мокназь</l>
          <stg>
-            <st Contlex="GerTag">мокназь</st>
+            <st Contlex="GER_">мокназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2016,13 +1922,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">мзолдозь</l>
+         <l pos="Ger">мзолдозь</l>
          <stg>
-            <st Contlex="GerTag">мзолдозь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">мъзолдозь</st>
+            <st Contlex="GER_">мзолдозь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">мъзолдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2035,13 +1940,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">мзолкшнезь</l>
+         <l pos="Ger">мзолкшнезь</l>
          <stg>
-            <st Contlex="GerTag">мзолкшнезь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">мъзолкшнезь</st>
+            <st Contlex="GER_">мзолкшнезь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">мъзолкшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2054,12 +1958,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">мятярдезь</l>
+         <l pos="Ger">мятярдезь</l>
          <stg>
-            <st Contlex="GerTag">мятярдезь</st>
+            <st Contlex="GER_">мятярдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2072,12 +1975,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">нежекснезь</l>
+         <l pos="Ger">нежекснезь</l>
          <stg>
-            <st Contlex="GerTag">нежекснезь</st>
+            <st Contlex="GER_">нежекснезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2090,12 +1992,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">нолгадозь</l>
+         <l pos="Ger">нолгадозь</l>
          <stg>
-            <st Contlex="GerTag">нолгадозь</st>
+            <st Contlex="GER_">нолгадозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2108,12 +2009,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">нолдазь</l>
+         <l pos="Ger">нолдазь</l>
          <stg>
-            <st Contlex="GerTag">нолдазь</st>
+            <st Contlex="GER_">нолдазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2126,12 +2026,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">норхцадезь</l>
+         <l pos="Ger">норхцадезь</l>
          <stg>
-            <st Contlex="GerTag">норхцадезь</st>
+            <st Contlex="GER_">норхцадезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2144,12 +2043,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">нувазь</l>
+         <l pos="Ger">нувазь</l>
          <stg>
-            <st Contlex="GerTag">нувазь</st>
+            <st Contlex="GER_">нувазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2162,12 +2060,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">нюрязь-пупорязь</l>
+         <l pos="Ger">нюрязь-пупорязь</l>
          <stg>
-            <st Contlex="GerTag">нюрязь-пупорязь</st>
+            <st Contlex="GER_">нюрязь-пупорязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2180,12 +2077,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">озсезь</l>
+         <l pos="Ger">озсезь</l>
          <stg>
-            <st Contlex="GerTag">озсезь</st>
+            <st Contlex="GER_">озсезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2198,12 +2094,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">оладазь</l>
+         <l pos="Ger">оладазь</l>
          <stg>
-            <st Contlex="GerTag">оладазь</st>
+            <st Contlex="GER_">оладазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2216,12 +2111,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пандозь</l>
+         <l pos="Ger">пандозь</l>
          <stg>
-            <st Contlex="GerTag">пандозь</st>
+            <st Contlex="GER_">пандозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2234,12 +2128,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">паразь</l>
+         <l pos="Ger">паразь</l>
          <stg>
-            <st Contlex="GerTag">паразь</st>
+            <st Contlex="GER_">паразь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2252,12 +2145,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пелезь</l>
+         <l pos="Ger">пелезь</l>
          <stg>
-            <st Contlex="GerTag">пелезь</st>
+            <st Contlex="GER_">пелезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2270,12 +2162,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пелезь-тьрнатозь</l>
+         <l pos="Ger">пелезь-тьрнатозь</l>
          <stg>
-            <st Contlex="GerTag">пелезь-тьрнатозь</st>
+            <st Contlex="GER_">пелезь-тьрнатозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2288,12 +2179,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пеняцязь</l>
+         <l pos="Ger">пеняцязь</l>
          <stg>
-            <st Contlex="GerTag">пеняцязь</st>
+            <st Contlex="GER_">пеняцязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2306,12 +2196,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пичедезь</l>
+         <l pos="Ger">пичедезь</l>
          <stg>
-            <st Contlex="GerTag">пичедезь</st>
+            <st Contlex="GER_">пичедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2324,12 +2213,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пичетькстозь</l>
+         <l pos="Ger">пичетькстозь</l>
          <stg>
-            <st Contlex="GerTag">пичетькстозь</st>
+            <st Contlex="GER_">пичетькстозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2342,12 +2230,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">потазь</l>
+         <l pos="Ger">потазь</l>
          <stg>
-            <st Contlex="GerTag">потазь</st>
+            <st Contlex="GER_">потазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2360,12 +2247,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пувордазь</l>
+         <l pos="Ger">пувордазь</l>
          <stg>
-            <st Contlex="GerTag">пувордазь</st>
+            <st Contlex="GER_">пувордазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2378,12 +2264,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пувордазьня</l>
+         <l pos="Ger">пувордазьня</l>
          <stg>
-            <st Contlex="GerTag">пувордазьня</st>
+            <st Contlex="GER_">пувордазьня</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2396,12 +2281,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пульхкозь</l>
+         <l pos="Ger">пульхкозь</l>
          <stg>
-            <st Contlex="GerTag">пульхкозь</st>
+            <st Contlex="GER_">пульхкозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2414,12 +2298,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пульхкозь-шарозь</l>
+         <l pos="Ger">пульхкозь-шарозь</l>
          <stg>
-            <st Contlex="GerTag">пульхкозь-шарозь</st>
+            <st Contlex="GER_">пульхкозь-шарозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2432,12 +2315,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пуполязь</l>
+         <l pos="Ger">пуполязь</l>
          <stg>
-            <st Contlex="GerTag">пуполязь</st>
+            <st Contlex="GER_">пуполязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2450,12 +2332,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пупорязь</l>
+         <l pos="Ger">пупорязь</l>
          <stg>
-            <st Contlex="GerTag">пупорязь</st>
+            <st Contlex="GER_">пупорязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2468,12 +2349,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">пялес_авардезь</l>
+         <l pos="Ger">пялес_авардезь</l>
          <stg>
-            <st Contlex="GerTag">пялес_авардезь</st>
+            <st Contlex="GER_">пялес_авардезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2486,12 +2366,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахазь</l>
+         <l pos="Ger">рахазь</l>
          <stg>
-            <st Contlex="GerTag">рахазь</st>
+            <st Contlex="GER_">рахазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2504,12 +2383,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахазь-кенярдезь</l>
+         <l pos="Ger">рахазь-кенярдезь</l>
          <stg>
-            <st Contlex="GerTag">рахазь-кенярдезь</st>
+            <st Contlex="GER_">рахазь-кенярдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2522,12 +2400,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахазь-моразь</l>
+         <l pos="Ger">рахазь-моразь</l>
          <stg>
-            <st Contlex="GerTag">рахазь-моразь</st>
+            <st Contlex="GER_">рахазь-моразь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2540,12 +2417,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахазь-пеедезь</l>
+         <l pos="Ger">рахазь-пеедезь</l>
          <stg>
-            <st Contlex="GerTag">рахазь-пеедезь</st>
+            <st Contlex="GER_">рахазь-пеедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2558,12 +2434,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахазь-пеетькшнезь</l>
+         <l pos="Ger">рахазь-пеетькшнезь</l>
          <stg>
-            <st Contlex="GerTag">рахазь-пеетькшнезь</st>
+            <st Contlex="GER_">рахазь-пеетькшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2576,12 +2451,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахсезь</l>
+         <l pos="Ger">рахсезь</l>
          <stg>
-            <st Contlex="GerTag">рахсезь</st>
+            <st Contlex="GER_">рахсезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2594,12 +2468,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахсезь-пеетькшнезь</l>
+         <l pos="Ger">рахсезь-пеетькшнезь</l>
          <stg>
-            <st Contlex="GerTag">рахсезь-пеетькшнезь</st>
+            <st Contlex="GER_">рахсезь-пеетькшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2612,12 +2485,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рахсекшнезь</l>
+         <l pos="Ger">рахсекшнезь</l>
          <stg>
-            <st Contlex="GerTag">рахсекшнезь</st>
+            <st Contlex="GER_">рахсекшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2630,12 +2502,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">резнязь-лознязь</l>
+         <l pos="Ger">резнязь-лознязь</l>
          <stg>
-            <st Contlex="GerTag">резнязь-лознязь</st>
+            <st Contlex="GER_">резнязь-лознязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2648,12 +2519,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ризназь</l>
+         <l pos="Ger">ризназь</l>
          <stg>
-            <st Contlex="GerTag">ризназь</st>
+            <st Contlex="GER_">ризназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2666,12 +2536,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ризназь-авардезь</l>
+         <l pos="Ger">ризназь-авардезь</l>
          <stg>
-            <st Contlex="GerTag">ризназь-авардезь</st>
+            <st Contlex="GER_">ризназь-авардезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2684,12 +2553,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ризназь-палондозь</l>
+         <l pos="Ger">ризназь-палондозь</l>
          <stg>
-            <st Contlex="GerTag">ризназь-палондозь</st>
+            <st Contlex="GER_">ризназь-палондозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2702,12 +2570,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ризназь-пичедезь</l>
+         <l pos="Ger">ризназь-пичедезь</l>
          <stg>
-            <st Contlex="GerTag">ризназь-пичедезь</st>
+            <st Contlex="GER_">ризназь-пичедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2720,12 +2587,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рязондозь-коськондозь</l>
+         <l pos="Ger">рязондозь-коськондозь</l>
          <stg>
-            <st Contlex="GerTag">рязондозь-коськондозь</st>
+            <st Contlex="GER_">рязондозь-коськондозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2738,12 +2604,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">рёвназь</l>
+         <l pos="Ger">рёвназь</l>
          <stg>
-            <st Contlex="GerTag">рёвназь</st>
+            <st Contlex="GER_">рёвназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2756,12 +2621,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сельгондезь</l>
+         <l pos="Ger">сельгондезь</l>
          <stg>
-            <st Contlex="GerTag">сельгондезь</st>
+            <st Contlex="GER_">сельгондезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2774,12 +2638,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сельмодезь</l>
+         <l pos="Ger">сельмодезь</l>
          <stg>
-            <st Contlex="GerTag">сельмодезь</st>
+            <st Contlex="GER_">сельмодезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2792,12 +2655,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">симозь</l>
+         <l pos="Ger">симозь</l>
          <stg>
-            <st Contlex="GerTag">симозь</st>
+            <st Contlex="GER_">симозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2810,12 +2672,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сингордазь</l>
+         <l pos="Ger">сингордазь</l>
          <stg>
-            <st Contlex="GerTag">сингордазь</st>
+            <st Contlex="GER_">сингордазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2828,12 +2689,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сингорязь</l>
+         <l pos="Ger">сингорязь</l>
          <stg>
-            <st Contlex="GerTag">сингорязь</st>
+            <st Contlex="GER_">сингорязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2846,13 +2706,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">смутявозь</l>
+         <l pos="Ger">смутявозь</l>
          <stg>
-            <st Contlex="GerTag">смутявозь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">съмутявозь</st>
+            <st Contlex="GER_">смутявозь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2865,13 +2724,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">смутявозь-пеедезь</l>
+         <l pos="Ger">смутявозь-пеедезь</l>
          <stg>
-            <st Contlex="GerTag">смутявозь-пеедезь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">съмутявозь-пеедезь</st>
+            <st Contlex="GER_">смутявозь-пеедезь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь-пеедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2884,12 +2742,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сотнезь</l>
+         <l pos="Ger">сотнезь</l>
          <stg>
-            <st Contlex="GerTag">сотнезь</st>
+            <st Contlex="GER_">сотнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2902,13 +2759,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">спорезь</l>
+         <l pos="Ger">спорезь</l>
          <stg>
-            <st Contlex="GerTag">спорезь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">съпорезь</st>
+            <st Contlex="GER_">спорезь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">съпорезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2921,13 +2777,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">старандазь</l>
+         <l pos="Ger">старандазь</l>
          <stg>
-            <st Contlex="GerTag">старандазь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">сътарандазь</st>
+            <st Contlex="GER_">старандазь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">сътарандазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2940,12 +2795,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сувозь</l>
+         <l pos="Ger">сувозь</l>
          <stg>
-            <st Contlex="GerTag">сувозь</st>
+            <st Contlex="GER_">сувозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2958,13 +2812,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">скназь</l>
+         <l pos="Ger">скназь</l>
          <stg>
-            <st Contlex="GerTag">скназь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">съкназь</st>
+            <st Contlex="GER_">скназь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">съкназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2977,12 +2830,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сюконязь</l>
+         <l pos="Ger">сюконязь</l>
          <stg>
-            <st Contlex="GerTag">сюконязь</st>
+            <st Contlex="GER_">сюконязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -2995,12 +2847,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сялондозь-сюцезь</l>
+         <l pos="Ger">сялондозь-сюцезь</l>
          <stg>
-            <st Contlex="GerTag">сялондозь-сюцезь</st>
+            <st Contlex="GER_">сялондозь-сюцезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3013,12 +2864,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">сярядезь</l>
+         <l pos="Ger">сярядезь</l>
          <stg>
-            <st Contlex="GerTag">сярядезь</st>
+            <st Contlex="GER_">сярядезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3031,12 +2881,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">таколдозь</l>
+         <l pos="Ger">таколдозь</l>
          <stg>
-            <st Contlex="GerTag">таколдозь</st>
+            <st Contlex="GER_">таколдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3049,12 +2898,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тапарязь</l>
+         <l pos="Ger">тапарязь</l>
          <stg>
-            <st Contlex="GerTag">тапарязь</st>
+            <st Contlex="GER_">тапарязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3067,12 +2915,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тапарякшнезь</l>
+         <l pos="Ger">тапарякшнезь</l>
          <stg>
-            <st Contlex="GerTag">тапарякшнезь</st>
+            <st Contlex="GER_">тапарякшнезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3085,12 +2932,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">таргавозь</l>
+         <l pos="Ger">таргавозь</l>
          <stg>
-            <st Contlex="GerTag">таргавозь</st>
+            <st Contlex="GER_">таргавозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3103,12 +2949,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">таргазь</l>
+         <l pos="Ger">таргазь</l>
          <stg>
-            <st Contlex="GerTag">таргазь</st>
+            <st Contlex="GER_">таргазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3121,12 +2966,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">таярдозь</l>
+         <l pos="Ger">таярдозь</l>
          <stg>
-            <st Contlex="GerTag">таярдозь</st>
+            <st Contlex="GER_">таярдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3139,12 +2983,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">таяскодозь</l>
+         <l pos="Ger">таяскодозь</l>
          <stg>
-            <st Contlex="GerTag">таяскодозь</st>
+            <st Contlex="GER_">таяскодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3157,12 +3000,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тихольдезь</l>
+         <l pos="Ger">тихольдезь</l>
          <stg>
-            <st Contlex="GerTag">тихольдезь</st>
+            <st Contlex="GER_">тихольдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3175,12 +3017,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">токназь</l>
+         <l pos="Ger">токназь</l>
          <stg>
-            <st Contlex="GerTag">токназь</st>
+            <st Contlex="GER_">токназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3193,12 +3034,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">толомозь</l>
+         <l pos="Ger">толомозь</l>
          <stg>
-            <st Contlex="GerTag">толомозь</st>
+            <st Contlex="GER_">толомозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3211,12 +3051,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тошказь</l>
+         <l pos="Ger">тошказь</l>
          <stg>
-            <st Contlex="GerTag">тошказь</st>
+            <st Contlex="GER_">тошказь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3229,12 +3068,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тувозгодозь</l>
+         <l pos="Ger">тувозгодозь</l>
          <stg>
-            <st Contlex="GerTag">тувозгодозь</st>
+            <st Contlex="GER_">тувозгодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3247,12 +3085,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">туткодозь</l>
+         <l pos="Ger">туткодозь</l>
          <stg>
-            <st Contlex="GerTag">туткодозь</st>
+            <st Contlex="GER_">туткодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3265,13 +3102,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тжназь</l>
+         <l pos="Ger">тжназь</l>
          <stg>
-            <st Contlex="GerTag">тжназь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">тъжназь</st>
+            <st Contlex="GER_">тжназь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">тъжназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3284,13 +3120,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тзназь</l>
+         <l pos="Ger">тзназь</l>
          <stg>
-            <st Contlex="GerTag">тзназь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">тъзназь</st>
+            <st Contlex="GER_">тзназь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">тъзназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3303,13 +3138,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">трмождозь</l>
+         <l pos="Ger">трмождозь</l>
          <stg>
-            <st Contlex="GerTag">трмождозь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">търмождозь</st>
+            <st Contlex="GER_">трмождозь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">търмождозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3322,13 +3156,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">трназь-пелезь</l>
+         <l pos="Ger">трназь-пелезь</l>
          <stg>
-            <st Contlex="GerTag">трназь-пелезь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">търназь-пелезь</st>
+            <st Contlex="GER_">трназь-пелезь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">търназь-пелезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3341,13 +3174,12 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">трнатозь-пелезь</l>
+         <l pos="Ger">трнатозь-пелезь</l>
          <stg>
-            <st Contlex="GerTag">трнатозь-пелезь</st>
-<st Contlex="GerTag" status="Use/SpellNoSugg">търнатозь-пелезь</st>
+            <st Contlex="GER_">трнатозь-пелезь</st>
+<st Contlex="GER_" status="Use/SpellNoSugg">търнатозь-пелезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3360,12 +3192,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тюрезь-спорязь</l>
+         <l pos="Ger">тюрезь-спорязь</l>
          <stg>
-            <st Contlex="GerTag">тюрезь-спорязь</st>
+            <st Contlex="GER_">тюрезь-спорязь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3378,12 +3209,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тюрезь-сялондозь</l>
+         <l pos="Ger">тюрезь-сялондозь</l>
          <stg>
-            <st Contlex="GerTag">тюрезь-сялондозь</st>
+            <st Contlex="GER_">тюрезь-сялондозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3396,12 +3226,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">тюрендезь-сялондозь</l>
+         <l pos="Ger">тюрендезь-сялондозь</l>
          <stg>
-            <st Contlex="GerTag">тюрендезь-сялондозь</st>
+            <st Contlex="GER_">тюрендезь-сялондозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3414,12 +3243,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">увазь</l>
+         <l pos="Ger">увазь</l>
          <stg>
-            <st Contlex="GerTag">увазь</st>
+            <st Contlex="GER_">увазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3432,12 +3260,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">удозь</l>
+         <l pos="Ger">удозь</l>
          <stg>
-            <st Contlex="GerTag">удозь</st>
+            <st Contlex="GER_">удозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3450,12 +3277,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ужяльдезь</l>
+         <l pos="Ger">ужяльдезь</l>
          <stg>
-            <st Contlex="GerTag">ужяльдезь</st>
+            <st Contlex="GER_">ужяльдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3468,12 +3294,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">уназь</l>
+         <l pos="Ger">уназь</l>
          <stg>
-            <st Contlex="GerTag">уназь</st>
+            <st Contlex="GER_">уназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3486,12 +3311,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">уркснезь</l>
+         <l pos="Ger">уркснезь</l>
          <stg>
-            <st Contlex="GerTag">уркснезь</st>
+            <st Contlex="GER_">уркснезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3504,12 +3328,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">фатнезь-кунтсезь</l>
+         <l pos="Ger">фатнезь-кунтсезь</l>
          <stg>
-            <st Contlex="GerTag">фатнезь-кунтсезь</st>
+            <st Contlex="GER_">фатнезь-кунтсезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3522,12 +3345,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">фатнезь-цопиезь</l>
+         <l pos="Ger">фатнезь-цопиезь</l>
          <stg>
-            <st Contlex="GerTag">фатнезь-цопиезь</st>
+            <st Contlex="GER_">фатнезь-цопиезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3540,12 +3362,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">форсиндазь</l>
+         <l pos="Ger">форсиндазь</l>
          <stg>
-            <st Contlex="GerTag">форсиндазь</st>
+            <st Contlex="GER_">форсиндазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3558,12 +3379,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">хикстазь</l>
+         <l pos="Ger">хикстазь</l>
          <stg>
-            <st Contlex="GerTag">хикстазь</st>
+            <st Contlex="GER_">хикстазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3576,12 +3396,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цикордозь</l>
+         <l pos="Ger">цикордозь</l>
          <stg>
-            <st Contlex="GerTag">цикордозь</st>
+            <st Contlex="GER_">цикордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3594,12 +3413,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цингольдезь-дингольдезь</l>
+         <l pos="Ger">цингольдезь-дингольдезь</l>
          <stg>
-            <st Contlex="GerTag">цингольдезь-дингольдезь</st>
+            <st Contlex="GER_">цингольдезь-дингольдезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3612,12 +3430,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цингольдезь-кальдердезь</l>
+         <l pos="Ger">цингольдезь-кальдердезь</l>
          <stg>
-            <st Contlex="GerTag">цингольдезь-кальдердезь</st>
+            <st Contlex="GER_">цингольдезь-кальдердезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3630,12 +3447,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цингольдезь-канзердозь</l>
+         <l pos="Ger">цингольдезь-канзердозь</l>
          <stg>
-            <st Contlex="GerTag">цингольдезь-канзердозь</st>
+            <st Contlex="GER_">цингольдезь-канзердозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3648,12 +3464,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цингордозь-канзердозь</l>
+         <l pos="Ger">цингордозь-канзердозь</l>
          <stg>
-            <st Contlex="GerTag">цингордозь-канзердозь</st>
+            <st Contlex="GER_">цингордозь-канзердозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3666,12 +3481,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цювназь-цявназь</l>
+         <l pos="Ger">цювназь-цявназь</l>
          <stg>
-            <st Contlex="GerTag">цювназь-цявназь</st>
+            <st Contlex="GER_">цювназь-цявназь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3684,12 +3498,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цюцелондазь</l>
+         <l pos="Ger">цюцелондазь</l>
          <stg>
-            <st Contlex="GerTag">цюцелондазь</st>
+            <st Contlex="GER_">цюцелондазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3702,12 +3515,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">цятордозь</l>
+         <l pos="Ger">цятордозь</l>
          <stg>
-            <st Contlex="GerTag">цятордозь</st>
+            <st Contlex="GER_">цятордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3720,12 +3532,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">чакордозь</l>
+         <l pos="Ger">чакордозь</l>
          <stg>
-            <st Contlex="GerTag">чакордозь</st>
+            <st Contlex="GER_">чакордозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3738,12 +3549,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">чёшазь</l>
+         <l pos="Ger">чёшазь</l>
          <stg>
-            <st Contlex="GerTag">чёшазь</st>
+            <st Contlex="GER_">чёшазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3756,12 +3566,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">шалакодозь</l>
+         <l pos="Ger">шалакодозь</l>
          <stg>
-            <st Contlex="GerTag">шалакодозь</st>
+            <st Contlex="GER_">шалакодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3774,12 +3583,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">шутендазь</l>
+         <l pos="Ger">шутендазь</l>
          <stg>
-            <st Contlex="GerTag">шутендазь</st>
+            <st Contlex="GER_">шутендазь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3792,12 +3600,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">шутендазь-пеедезь</l>
+         <l pos="Ger">шутендазь-пеедезь</l>
          <stg>
-            <st Contlex="GerTag">шутендазь-пеедезь</st>
+            <st Contlex="GER_">шутендазь-пеедезь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3810,12 +3617,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">элякодозь</l>
+         <l pos="Ger">элякодозь</l>
          <stg>
-            <st Contlex="GerTag">элякодозь</st>
+            <st Contlex="GER_">элякодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3828,12 +3634,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">эряскодозь</l>
+         <l pos="Ger">эряскодозь</l>
          <stg>
-            <st Contlex="GerTag">эряскодозь</st>
+            <st Contlex="GER_">эряскодозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
@@ -3846,12 +3651,11 @@
    </e>
   <e>
       <lg>
-         <l pos="GER">ёколдозь</l>
+         <l pos="Ger">ёколдозь</l>
          <stg>
-            <st Contlex="GerTag">ёколдозь</st>
+            <st Contlex="GER_">ёколдозь</st>
          </stg>
       </lg>
-      <pos>GER</pos>
       <mg>
          <m>
             <head/>
