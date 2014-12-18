@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
-   xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+  <e exclude="fst">
+    <lg>
+      <l pos="V">азомс ладта</l>
+
+      <stg>
+        <st>азомс ладта</st>
+      </stg>
+
+      <phonet>azəms latta</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>saattaa tietoon, antaa tiedoksi, tehdä tiettäväksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">анамс вал</l>
+
+      <stg>
+        <st>анамс вал</st>
+      </stg>
+
+      <phonet>anams val</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyytää puheenvuoro</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">андомс-симдемс</l>
@@ -27,7 +57,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">араламс пря</l>
@@ -47,7 +76,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ардомс комболксса</l>
 
+      <stg>
+        <st>ардомс комболксса</st>
+      </stg>
+
+      <phonet>ardəms kombəlkssa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laukata, ajaa laukkaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">арьсемс пара</l>
+
+      <stg>
+        <st>арьсемс пара</st>
+      </stg>
+
+      <phonet>aŕśəms para</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>onnitella, toivottaa onnea</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">арьсемс пара</l>
@@ -67,7 +129,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">арьсемс цебярь</l>
@@ -85,7 +146,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">арьсемс цебярь</l>
@@ -105,7 +165,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">аф кельгомс</l>
@@ -125,7 +184,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">аф мярьгомс</l>
@@ -145,7 +203,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">афнемс кургонц эса</l>
@@ -163,7 +220,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">ахиемс-охиемс</l>
@@ -189,7 +245,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ащемс ёжефтома</l>
 
+      <stg>
+        <st>ащемс ёжефтома</st>
+      </stg>
+
+      <phonet>aščəms jožəftəma</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla tajuttomana</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">бзнай</l>
@@ -209,7 +281,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">бльнямс-кецордомс</l>
@@ -229,7 +300,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">бушавамс</l>
@@ -249,7 +319,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">буянендамс</l>
@@ -269,7 +338,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">вадемс кочкярят</l>
@@ -287,7 +355,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">вадерямс-сюдерямс</l>
@@ -307,7 +374,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вай пихтемс</l>
 
+      <stg>
+        <st>вай пихтемс</st>
+      </stg>
+
+      <phonet>vaj pixťəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kirnuta voita</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ваймафтомс пря</l>
@@ -325,7 +408,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">ваймафтомс пря</l>
@@ -345,7 +427,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваномс зверькс</l>
 
+      <stg>
+        <st>ваномс зверькс</st>
+      </stg>
+
+      <phonet>vanəms źveŕks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>katsoa pedon silmin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваномс кода сельмаванянь</l>
+
+      <stg>
+        <st>ваномс кода сельмаванянь</st>
+      </stg>
+
+      <phonet>vanəms koda śeľmavańäń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vartioida kuin silmäteräänsä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваномс мяль</l>
+
+      <stg>
+        <st>ваномс мяль</st>
+      </stg>
+
+      <phonet>vanəms mäľ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>yrittää olla/tehdä mieliksi, mielistellä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваномс пря</l>
+
+      <stg>
+        <st>ваномс пря</st>
+      </stg>
+
+      <phonet>vanəms pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>varoa, vältellä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ваномс-кочкамс</l>
@@ -365,7 +514,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">ванондомс-кочксемс</l>
@@ -401,7 +549,23 @@
       </xg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">васта ацамс</l>
 
+      <stg>
+        <st>васта ацамс</st>
+      </stg>
+
+      <phonet>vast(a) acams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sijata vuode, petata</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ваткамс кедь</l>
@@ -421,7 +585,108 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вачкодемс клин</l>
 
+      <stg>
+        <st>вачкодемс клин</st>
+      </stg>
+
+      <phonet>vačkəďəms kľin</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>iskeä kiila</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ведь валомс</l>
+
+      <stg>
+        <st>ведь валомс</st>
+      </stg>
+
+      <phonet>veď valəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kastella, valella vedellä, kaataa vettä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ведьге панемс</l>
+
+      <stg>
+        <st>ведьге панемс</st>
+      </stg>
+
+      <phonet>veďgä pańəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>uittaa (puuta)</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вийда маштомс</l>
+
+      <stg>
+        <st>вийда маштомс</st>
+      </stg>
+
+      <phonet>vijdə maštəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nääntyä, heikentyä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вийда машфтомс</l>
+
+      <stg>
+        <st>вийда машфтомс</st>
+      </stg>
+
+      <phonet>vijdə mašftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>näännyttää, heikentää</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вирь ускомс</l>
+
+      <stg>
+        <st>вирь ускомс</st>
+      </stg>
+
+      <phonet>viŕ uskəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuljettaa tukkeja</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">вятемс пря</l>
@@ -441,7 +706,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">вяшки</l>
@@ -461,7 +725,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">гриппса сярядемс</l>
 
+      <stg>
+        <st>гриппса сярядемс</st>
+      </stg>
+
+      <phonet>gŕipsə śäŕäďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla flunssassa, sairastaa flunssaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">группировандавомс</l>
@@ -479,7 +759,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">группировандамс</l>
@@ -497,7 +776,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">гулдоргодомс-галдоргодомс</l>
@@ -531,7 +809,6 @@
       </xg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">дум арьсемс</l>
@@ -549,7 +826,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">жольнязевомс</l>
@@ -569,7 +845,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">зиян тиемс</l>
 
+      <stg>
+        <st>зиян тиемс</st>
+      </stg>
+
+      <phonet>źijan ťijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>aiheuttaa vahinko</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">зярьфтемс-дуборфтомс</l>
@@ -589,7 +881,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">инзамаса лиемс</l>
 
+      <stg>
+        <st>инзамаса лиемс</st>
+      </stg>
+
+      <phonet>inʒamasa ľijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>luoda loimi kangaspuihin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кадомс шири</l>
+
+      <stg>
+        <st>кадомс шири</st>
+      </stg>
+
+      <phonet>kadəms šiŕi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>jäädä sivuun</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кайсемс щапнень</l>
@@ -607,7 +932,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кайсемс щапнень</l>
@@ -627,7 +951,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">калхт кундамс бреднекса</l>
 
+      <stg>
+        <st>калхт кундамс бреднекса</st>
+      </stg>
+
+      <phonet>kalxt kundams bŕedńəksa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyytää kalaa nuotalla</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кандомс кавлала</l>
+
+      <stg>
+        <st>кандомс кавлала</st>
+      </stg>
+
+      <phonet>kandəms kavlala</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>viedä kainalossaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">капас каямс</l>
+
+      <stg>
+        <st>капас каямс</st>
+      </stg>
+
+      <phonet>kapas kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>panna suovaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">карандажть лаксемс</l>
+
+      <stg>
+        <st>карандажть лаксемс</st>
+      </stg>
+
+      <phonet>kərandažť lakśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>teroittaa lyijykynä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кардамс-сюцемс</l>
@@ -647,7 +1038,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">картаса налхкомс</l>
 
+      <stg>
+        <st>картаса налхкомс</st>
+      </stg>
+
+      <phonet>kartasə nalxkəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pelata korttia</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">картаса содамс</l>
+
+      <stg>
+        <st>картаса содамс</st>
+      </stg>
+
+      <phonet>kartasə sodams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ennustaa korteista</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">карьсемс пильгс</l>
+
+      <stg>
+        <st>карьсемс пильгс</st>
+      </stg>
+
+      <phonet>kaŕśəms piľks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>panna kengät jalkaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">касомс нупоньца</l>
+
+      <stg>
+        <st>касомс нупоньца</st>
+      </stg>
+
+      <phonet>kasəms nupəńca</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kasvaa sammalta, sammaloitua</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">касфнемс-аннемс</l>
@@ -671,7 +1129,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">касфнемс-аннемс</l>
@@ -691,7 +1148,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">касы седице</l>
@@ -711,7 +1167,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кафту керомс</l>
 
+      <stg>
+        <st>кафту керомс</st>
+      </stg>
+
+      <phonet>kaftu kerəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>leikata kahtia</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кашторды</l>
@@ -731,7 +1203,108 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">каямс вазь ланга</l>
 
+      <stg>
+        <st>каямс вазь ланга</st>
+      </stg>
+
+      <phonet>kajams vaź laŋga</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>läimäyttää päähän</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">каямс пси</l>
+
+      <stg>
+        <st>каямс пси</st>
+      </stg>
+
+      <phonet>kajams pśi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>heittää/lyödä löylyä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">каямс тяште</l>
+
+      <stg>
+        <st>каямс тяште</st>
+      </stg>
+
+      <phonet>kajams ťäšťä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>heittää arpaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кемамс валс</l>
+
+      <stg>
+        <st>кемамс валс</st>
+      </stg>
+
+      <phonet>kemams vals</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>uskoa sanaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кеподемс пантть</l>
+
+      <stg>
+        <st>кеподемс пантть</st>
+      </stg>
+
+      <phonet>kepəďəms pańťť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laittaa penkkejä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кизефнемс ётть</l>
+
+      <stg>
+        <st>кизефнемс ётть</st>
+      </stg>
+
+      <phonet>kiźəfńəms joťť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kysyä neuvoja</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">килькштафтомс</l>
@@ -751,7 +1324,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кирдемс кядь</l>
 
+      <stg>
+        <st>кирдемс кядь</st>
+      </stg>
+
+      <phonet>kiŕďəms käď</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tukea, auttaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кирдемс кядьса</l>
+
+      <stg>
+        <st>кирдемс кядьса</st>
+      </stg>
+
+      <phonet>kiŕďəms käca</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää kurissa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кирдемс мяльса</l>
+
+      <stg>
+        <st>кирдемс мяльса</st>
+      </stg>
+
+      <phonet>kiŕďəms mäľsa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>muistaa, pitää muistissa/mielessä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кирдемс порядкаса</l>
+
+      <stg>
+        <st>кирдемс порядкаса</st>
+      </stg>
+
+      <phonet>kiŕďəms paŕatkasa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää järjestyksessä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кирдемс-кардамс</l>
@@ -771,7 +1411,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кичкор валса корхтамс</l>
 
+      <stg>
+        <st>кичкор валса корхтамс</st>
+      </stg>
+
+      <phonet>kičkər valsə korxtams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vihjailla, puhua kierrellen</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кичкорды-качкорды</l>
@@ -791,7 +1447,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кичкорды-муворды</l>
@@ -811,7 +1466,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кишнезь-кишнесть</l>
@@ -831,7 +1485,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">колемс-каладомс</l>
@@ -852,7 +1505,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">колсемс седиенц</l>
 
+      <stg>
+        <st>колсемс седиенц</st>
+      </stg>
+
+      <phonet>kolśəms śeďijənc</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>harmittaa, suututtaa (häntä)</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кольгомс-авардемс</l>
@@ -872,7 +1541,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кольфтемс-калафтомс</l>
@@ -892,7 +1560,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">концемс сельмот</l>
@@ -912,7 +1579,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">коня алга ваномс</l>
 
+      <stg>
+        <st>коня алга ваномс</st>
+      </stg>
+
+      <phonet>końä alga vanəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>katsoa alta kulmain</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">копорьгоды</l>
@@ -932,7 +1615,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">корхтамс пееньбачк</l>
 
+      <stg>
+        <st>корхтамс пееньбачк</st>
+      </stg>
+
+      <phonet>korxtams pejəmbačk</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puhua hampaitten välistä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кочкамс каготтнень</l>
+
+      <stg>
+        <st>кочкамс каготтнень</st>
+      </stg>
+
+      <phonet>kočkams kagətťńəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kerätä paperit</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">крёз каямс</l>
+
+      <stg>
+        <st>крёз каямс</st>
+      </stg>
+
+      <phonet>kŕos kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ristiä itsensä, tehdä ristinmerkki</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кувокс арамс</l>
@@ -950,7 +1683,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кулендевсь</l>
@@ -970,7 +1702,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куломс пиксомс</l>
 
+      <stg>
+        <st>куломс пиксомс</st>
+      </stg>
+
+      <phonet>kuləms piksəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lyödä kuoliaaksi</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">куломс повамс</l>
@@ -988,7 +1736,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куломс шавомс</l>
 
+      <stg>
+        <st>куломс шавомс</st>
+      </stg>
+
+      <phonet>kuləms šavəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lyödä kuoliaaksi</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">куломс-каладамс</l>
@@ -1008,7 +1772,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">куломс-каладомс</l>
@@ -1028,7 +1791,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кулхцондозь-тиезь</l>
@@ -1048,7 +1810,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кундамс браткс</l>
 
+      <stg>
+        <st>кундамс браткс</st>
+      </stg>
+
+      <phonet>kundams bratks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää veljenään, ottaa veljekseen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кундамс пряс</l>
+
+      <stg>
+        <st>кундамс пряс</st>
+      </stg>
+
+      <phonet>kundams pŕas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>1. tulla järkiinsä. 2. tähkiä, tehdä tähkää</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кундамс ялгакс</l>
+
+      <stg>
+        <st>кундамс ялгакс</st>
+      </stg>
+
+      <phonet>kundams jalgaks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ottaa ystäväksi</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кундасть кядьта</l>
@@ -1068,7 +1880,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кургонц келептьсы</l>
@@ -1088,7 +1899,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">куфксты</l>
@@ -1108,7 +1918,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">куфци-лякси</l>
@@ -1128,7 +1937,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">куфци-лякси</l>
@@ -1148,7 +1956,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">куяй</l>
@@ -1168,7 +1975,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">кштимс-морамс</l>
@@ -1188,7 +1994,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кяж кирдемс киньге лангс</l>
 
+      <stg>
+        <st>кяж кирдемс киньге лангс</st>
+      </stg>
+
+      <phonet>käž kiŕďəms kińgə laŋks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää vihaa jotakuta kohtaan</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">кяж пандомс</l>
@@ -1206,7 +2028,142 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кяль кирдемс</l>
 
+      <stg>
+        <st>кяль кирдемс</st>
+      </stg>
+
+      <phonet>käľ kiŕďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää suunsa kiinni</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кяль сускомс</l>
+
+      <stg>
+        <st>кяль сускомс</st>
+      </stg>
+
+      <phonet>käľ suskəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>purra kieleensä; hillitä kielensä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кятть-пилькт нолдамс</l>
+
+      <stg>
+        <st>кятть-пилькт нолдамс</st>
+      </stg>
+
+      <phonet>käťť-piľkt/ käťť-piľkť noldams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elää toimettomana</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кятть-пилькт нолдамс</l>
+
+      <stg>
+        <st>кятть-пилькт нолдамс</st>
+      </stg>
+
+      <phonet>käťť-piľkt noldams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla toimettomana</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кяшт сафтомс</l>
+
+      <stg>
+        <st>кяшт сафтомс</st>
+      </stg>
+
+      <phonet>käšt saftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vihastuttaa, raivostuttaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лазфка сувамс</l>
+
+      <stg>
+        <st>лазфка сувамс</st>
+      </stg>
+
+      <phonet>lazfka suvams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tunkeutua raosta</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ланкцень эряви щамс</l>
+
+      <stg>
+        <st>ланкцень эряви щамс</st>
+      </stg>
+
+      <phonet>laŋkćəń eŕavi ščams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sinun täytyy pukeutua</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лапиемс нолгса</l>
+
+      <stg>
+        <st>лапиемс нолгса</st>
+      </stg>
+
+      <phonet>lapijəms nolksa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>niistää nenänsä maahan</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ластя ардомс</l>
@@ -1226,7 +2183,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">лифкст путомс</l>
@@ -1246,7 +2202,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лифтемс тол</l>
 
+      <stg>
+        <st>лифтемс тол</st>
+      </stg>
+
+      <phonet>ľifťəms tol</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kohentaa tulta</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лихтемс лефкст</l>
+
+      <stg>
+        <st>лихтемс лефкст</st>
+      </stg>
+
+      <phonet>ľixťəms ľefkst</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hautoa poikasia</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лов алу соксемс</l>
+
+      <stg>
+        <st>лов алу соксемс</st>
+      </stg>
+
+      <phonet>lov alu sokśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tehdä syyskynnöt</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">локшеса лочамс</l>
+
+      <stg>
+        <st>локшеса лочамс</st>
+      </stg>
+
+      <phonet>lokšəsa ločams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ruoskia, piiskata, piestä ruoskalla</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">лудямс-ладямс</l>
@@ -1266,7 +2289,244 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">люпштамс мокшенда</l>
 
+      <stg>
+        <st>люпштамс мокшенда</st>
+      </stg>
+
+      <phonet>ľupštams mokšənda</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puristaa kätensä nyrkkiin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лядемс мяльс</l>
+
+      <stg>
+        <st>лядемс мяльс</st>
+      </stg>
+
+      <phonet>ľäďəms mäľs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sattua mieleen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс аванс</l>
+
+      <stg>
+        <st>максомс аванс</st>
+      </stg>
+
+      <phonet>maksəms avans</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa ennakkoa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс вайгяль</l>
+
+      <stg>
+        <st>максомс вайгяль</st>
+      </stg>
+
+      <phonet>maksəms vajgäľ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>1. äänestää. 2. äännähtää, päästää ääni</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс звонок</l>
+
+      <stg>
+        <st>максомс звонок</st>
+      </stg>
+
+      <phonet>maksəms zvanok</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>soittaa (puhelu)</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс илядыксть</l>
+
+      <stg>
+        <st>максомс илядыксть</st>
+      </stg>
+
+      <phonet>maksəms iľadiksť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa kaikkensa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс награда</l>
+
+      <stg>
+        <st>максомс награда</st>
+      </stg>
+
+      <phonet>maksəms nagrada</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>palkita, antaa palkinto</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс пандомда ярмакт</l>
+
+      <stg>
+        <st>максомс пандомда ярмакт</st>
+      </stg>
+
+      <phonet>maksəms pandəmda/pandəməd(ə) jarmakt</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lainata rahaa, antaa rahaa lainaksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс урок</l>
+
+      <stg>
+        <st>максомс урок</st>
+      </stg>
+
+      <phonet>maksəms urok</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa kotitehtävä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс ётт-мяльхть</l>
+
+      <stg>
+        <st>максомс ётт-мяльхть</st>
+      </stg>
+
+      <phonet>maksəms jott-mäľxť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa neuvoja</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">максомс ётть-мяльхть</l>
+
+      <stg>
+        <st>максомс ётть-мяльхть</st>
+      </stg>
+
+      <phonet>maksəms joťť-mäľxť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa neuvoja</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">марамс вал</l>
+
+      <stg>
+        <st>марамс вал</st>
+      </stg>
+
+      <phonet>marams val</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>aumata, koota aumaksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">марямс ёжа</l>
+
+      <stg>
+        <st>марямс ёжа</st>
+      </stg>
+
+      <phonet>maŕams joža</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuntea olonsa/vointinsa joksikin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">матомс пожарть</l>
+
+      <stg>
+        <st>матомс пожарть</st>
+      </stg>
+
+      <phonet>matəms pažarť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sammuttaa tulipalo</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">машты ёжеда</l>
@@ -1284,7 +2544,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">машты ёжеда</l>
@@ -1304,7 +2563,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">машфтомс пецень</l>
 
+      <stg>
+        <st>машфтомс пецень</st>
+      </stg>
+
+      <phonet>mašftəms pećəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tappaa sinut</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">медь керомс/ сявомс/лазямс</l>
+
+      <stg>
+        <st>медь керомс/ сявомс/лазямс</st>
+      </stg>
+
+      <phonet>meď kerəms/ śävəms/laźams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kerätä hunajaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">месенькшни?</l>
@@ -1324,7 +2616,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">мимс-рамамс</l>
@@ -1344,7 +2635,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">молемс порашив</l>
 
+      <stg>
+        <st>молемс порашив</st>
+      </stg>
+
+      <phonet>moľəms porašiv</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>mennä metsälle</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">морамс эсь пачка</l>
@@ -1364,7 +2671,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">морафтомс озкс</l>
@@ -1384,7 +2690,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">мст-мст пеедемс</l>
@@ -1404,7 +2709,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">муськомс-шовамс</l>
@@ -1424,7 +2728,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">мяндемс шалхкалда</l>
 
+      <stg>
+        <st>мяндемс шалхкалда</st>
+      </stg>
+
+      <phonet>mäńďəms šalxkalda</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>viedä nenän edestä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нафнемс нолкт</l>
+
+      <stg>
+        <st>нафнемс нолкт</st>
+      </stg>
+
+      <phonet>nafńəms nolkt</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>niistää nenänsä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">нафнемс нолкт</l>
@@ -1444,7 +2781,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нежедемс малазост</l>
 
+      <stg>
+        <st>нежедемс малазост</st>
+      </stg>
+
+      <phonet>ńežəďəms malazəst</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lähestyä heitä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">нешкодсть-тавадовсть</l>
@@ -1464,7 +2817,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">нешкодсь-вельхтявсь</l>
@@ -1484,7 +2836,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">нешкодсь-вельхтявсь</l>
@@ -1504,7 +2855,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ниле пильгса якамс</l>
 
+      <stg>
+        <st>ниле пильгса якамс</st>
+      </stg>
+
+      <phonet>ńiľə piľksə jakams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kontata, kulkea nelinkontin</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ноламс-паламс</l>
@@ -1524,7 +2891,91 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нолдай пря</l>
 
+      <stg>
+        <st>нолдай пря</st>
+      </stg>
+
+      <phonet>noldaj pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tähkii, tekee tähkää (vilja)</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нолдамс вядьмотнень</l>
+
+      <stg>
+        <st>нолдамс вядьмотнень</st>
+      </stg>
+
+      <phonet>noldams väďməťńəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>löysätä ohjaksia</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нолдамс тол</l>
+
+      <stg>
+        <st>нолдамс тол</st>
+      </stg>
+
+      <phonet>noldams tol</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tehdä tuli</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нюдиса морамс</l>
+
+      <stg>
+        <st>нюдиса морамс</st>
+      </stg>
+
+      <phonet>ńuďisə morams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>soittaa ruokopilliä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">няемс он</l>
+
+      <stg>
+        <st>няемс он</st>
+      </stg>
+
+      <phonet>ńäjəms on</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nähdä unta, uneksia</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">няемс-кулемс</l>
@@ -1544,7 +2995,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нярь ланга пиксомс</l>
 
+      <stg>
+        <st>нярь ланга пиксомс</st>
+      </stg>
+
+      <phonet>ńäŕ laŋga piksəms/pikśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa turpiin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нярь ланга шавомс</l>
+
+      <stg>
+        <st>нярь ланга шавомс</st>
+      </stg>
+
+      <phonet>ńäŕ laŋga šavəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa turpiin</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">няфтемс пря</l>
@@ -1562,7 +3046,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">озай седице</l>
@@ -1582,7 +3065,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">озафтомс капстань расадат</l>
 
+      <stg>
+        <st>озафтомс капстань расадат</st>
+      </stg>
+
+      <phonet>ozaftəms kapstań rasadat</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>istuttaa kaalintaimia</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">озафтомс эльс</l>
+
+      <stg>
+        <st>озафтомс эльс</st>
+      </stg>
+
+      <phonet>ozaftəms äľs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ottaa syliin</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">опанафтомс</l>
@@ -1600,7 +3116,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">охиемс-ахиемс</l>
@@ -1620,7 +3135,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">охондай</l>
@@ -1640,7 +3154,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">палондыхть марозти</l>
@@ -1660,7 +3173,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">панда веляфтомс</l>
 
+      <stg>
+        <st>панда веляфтомс</st>
+      </stg>
+
+      <phonet>pandə veľaftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>raataa, rehkiä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пандомс кяж</l>
@@ -1680,7 +3209,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">панемс шочкт</l>
 
+      <stg>
+        <st>панемс шочкт</st>
+      </stg>
+
+      <phonet>pańəms šočkt</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>uittaa puuta</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">панжемс вайме</l>
+
+      <stg>
+        <st>панжемс вайме</st>
+      </stg>
+
+      <phonet>pańǯəms vajmä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puhua avoimesti</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">паннемс панксса</l>
@@ -1698,7 +3260,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">паннемс панксса</l>
@@ -1718,7 +3279,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пара мяльса ащемс</l>
 
+      <stg>
+        <st>пара мяльса ащемс</st>
+      </stg>
+
+      <phonet>para mäľsə aščəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla hyvällä tuulella</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пачфтемс куля</l>
+
+      <stg>
+        <st>пачфтемс куля</st>
+      </stg>
+
+      <phonet>pačfťəms kuľä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>antaa tiedoksi, tiedottaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пеедемс-рахамс</l>
@@ -1738,7 +3332,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пеедемс-рахамс</l>
@@ -1758,7 +3351,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пеень поремс</l>
 
+      <stg>
+        <st>пеень поремс</st>
+      </stg>
+
+      <phonet>pejəń poŕəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kantaa kaunaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пей ланга вачкодемс</l>
+
+      <stg>
+        <st>пей ланга вачкодемс</st>
+      </stg>
+
+      <phonet>pej laŋga vačkəďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lyödä suulle</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пекиясь-лангиясь</l>
@@ -1778,7 +3404,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пидемс-панемс</l>
@@ -1798,7 +3423,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пидемс-панемс</l>
@@ -1818,7 +3442,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пизем моли</l>
@@ -1838,7 +3461,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пилькст каямс</l>
 
+      <stg>
+        <st>пилькст каямс</st>
+      </stg>
+
+      <phonet>piľkst kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kukkia, heilimöidä (heinä)</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пингсь аволгоды</l>
@@ -1858,7 +3497,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пиндолдомс-вандолдомс</l>
@@ -1878,7 +3516,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пиндолды-вандолды</l>
@@ -1898,7 +3535,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пинекс-катокс эрямс</l>
 
+      <stg>
+        <st>пинекс-катокс эрямс</st>
+      </stg>
+
+      <phonet>pińəks-katəks eŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla kuin kissa ja koira</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">повомс кядь коморс</l>
+
+      <stg>
+        <st>повомс кядь коморс</st>
+      </stg>
+
+      <phonet>povəms käď komərs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puristaa käsi nyrkkiin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">повомс нужас</l>
+
+      <stg>
+        <st>повомс нужас</st>
+      </stg>
+
+      <phonet>povəms nužas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>joutua puutteeseen/hätään</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">повсь пильгоц</l>
@@ -1918,7 +3605,91 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">покой максомс</l>
 
+      <stg>
+        <st>покой максомс</st>
+      </stg>
+
+      <phonet>pakoj maksəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>jättää rauhaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">покраса содамс</l>
+
+      <stg>
+        <st>покраса содамс</st>
+      </stg>
+
+      <phonet>pokrasə sodams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ennustaa pavuista, povata</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пократ каямс</l>
+
+      <stg>
+        <st>пократ каямс</st>
+      </stg>
+
+      <phonet>pokrat kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ennustaa pavuista, povata</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пона каямс</l>
+
+      <stg>
+        <st>пона каямс</st>
+      </stg>
+
+      <phonet>pona kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lähdettää karvaa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">потма панжемс</l>
+
+      <stg>
+        <st>потма панжемс</st>
+      </stg>
+
+      <phonet>potmə pańǯəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>avata sydämensä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пракшнесть дивас</l>
@@ -1938,7 +3709,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">прамс бока лангс</l>
 
+      <stg>
+        <st>прамс бока лангс</st>
+      </stg>
+
+      <phonet>prams boka laŋks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kaatua kyljelleen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">прамс дивас</l>
+
+      <stg>
+        <st>прамс дивас</st>
+      </stg>
+
+      <phonet>prams ďivas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ällistyä, hämmästyä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">прамс дивас</l>
@@ -1958,7 +3762,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пря каямс</l>
 
+      <stg>
+        <st>пря каямс</st>
+      </stg>
+
+      <phonet>pŕä kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tähkiä, tehdä tähkää</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">псиста кандомс кулять</l>
+
+      <stg>
+        <st>псиста кандомс кулять</st>
+      </stg>
+
+      <phonet>pśistə kandəms kuľäť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kertoa uutiset tuoreeltaan</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">псиста уштомс</l>
@@ -1976,7 +3813,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">пуворямс-шарфнемс</l>
@@ -1996,7 +3832,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пулькакс лисемс</l>
 
+      <stg>
+        <st>пулькакс лисемс</st>
+      </stg>
+
+      <phonet>puľkaks ľiśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lähteä nuolena</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">пурямс-шарфнемс</l>
@@ -2016,7 +3868,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">путнемс лифкст</l>
@@ -2034,7 +3885,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">путнемс лифкст</l>
@@ -2054,7 +3904,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путнемс оцю мяль</l>
 
+      <stg>
+        <st>путнемс оцю мяль</st>
+      </stg>
+
+      <phonet>putńəms oću mäľ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>palaa halusta</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс атякш</l>
+
+      <stg>
+        <st>путомс атякш</st>
+      </stg>
+
+      <phonet>putəms aťakš</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sytyttää palamaan, polttaa, päästää palamaan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс кизефкс</l>
+
+      <stg>
+        <st>путомс кизефкс</st>
+      </stg>
+
+      <phonet>putəms kiźəfks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tehdä kysymys</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">путомс кядь</l>
@@ -2074,7 +3974,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">путомс лифкст</l>
@@ -2092,7 +3991,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс мяльс</l>
 
+      <stg>
+        <st>путомс мяльс</st>
+      </stg>
+
+      <phonet>putəms mäľs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>painaa mieleen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс печать</l>
+
+      <stg>
+        <st>путомс печать</st>
+      </stg>
+
+      <phonet>putəms pečať</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>leimata, panna leima</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс пиле</l>
+
+      <stg>
+        <st>путомс пиле</st>
+      </stg>
+
+      <phonet>putəms piľä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuulostella, kuunnella tarkkaan, höristää korviaan</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">путомс подпись</l>
@@ -2110,7 +4059,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс скобкас</l>
 
+      <stg>
+        <st>путомс скобкас</st>
+      </stg>
+
+      <phonet>putəms skopkas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>panna sulkeisiin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс шапаксти шапафтома</l>
+
+      <stg>
+        <st>путомс шапаксти шапафтома</st>
+      </stg>
+
+      <phonet>putəms šapaksťi šapaftəma</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>panna taikinaan hapatetta</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">путомс ёнь</l>
@@ -2128,7 +4110,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">путомс ётть</l>
@@ -2148,7 +4129,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">равжа валса стамс</l>
 
+      <stg>
+        <st>равжа валса стамс</st>
+      </stg>
+
+      <phonet>ravžə valsə stams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kirota karkeasti</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">рамсемс-мишендемс</l>
@@ -2168,7 +4165,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">седиге аердавомс</l>
 
+      <stg>
+        <st>седиге аердавомс</st>
+      </stg>
+
+      <phonet>śeďig(ä) ajərdavəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>loukkaantua sydänjuuria myöten</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">сеендемс-вадерямс</l>
@@ -2188,7 +4201,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">сельгомс селькт</l>
@@ -2208,7 +4220,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сельме каямс</l>
 
+      <stg>
+        <st>сельме каямс</st>
+      </stg>
+
+      <phonet>śeľmə kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kadehtia, olla kateellinen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сельме фтала работамс</l>
+
+      <stg>
+        <st>сельме фтала работамс</st>
+      </stg>
+
+      <phonet>śeľmə ftalə rabotams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>työskennellä vastahakoisesti</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сельме фтала работамс</l>
+
+      <stg>
+        <st>сельме фтала работамс</st>
+      </stg>
+
+      <phonet>śeľmə ftalə rabotams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>työskennellä vastentahtoisesti</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сельмотнень сёлгомс</l>
+
+      <stg>
+        <st>сельмотнень сёлгомс</st>
+      </stg>
+
+      <phonet>śeľməťńəń śolgəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sulkea silmät</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">сендемс-вадерямс</l>
@@ -2228,7 +4307,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">симдемс-андомс</l>
@@ -2248,7 +4326,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">симомс ведьта коморса</l>
 
+      <stg>
+        <st>симомс ведьта коморса</st>
+      </stg>
+
+      <phonet>śiməms veťta komərsa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>juoda vettä kourasta</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">симомс-ярхцамс</l>
@@ -2268,7 +4362,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">синнемс-мяннемс</l>
@@ -2288,7 +4381,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сияса валомс/вельхтямс</l>
 
+      <stg>
+        <st>сияса валомс/вельхтямс</st>
+      </stg>
+
+      <phonet>śijasə valəms/veľxťams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hopeoida, silata hopealla</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">содамс толк</l>
+
+      <stg>
+        <st>содамс толк</st>
+      </stg>
+
+      <phonet>sodams tolk</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla jonkin tuntija</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сотомс бинтса</l>
+
+      <stg>
+        <st>сотомс бинтса</st>
+      </stg>
+
+      <phonet>sotəms binсa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sitoa (haava), laittaa side</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сотомс пулфокс</l>
+
+      <stg>
+        <st>сотомс пулфокс</st>
+      </stg>
+
+      <phonet>sotəms pulfəks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sitoa lyhteeksi</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">срадсть-каладсть</l>
@@ -2308,7 +4468,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">сраткшнихть-калаткшнихть</l>
@@ -2328,7 +4487,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">стямс плманжа лангс</l>
 
+      <stg>
+        <st>стямс плманжа лангс</st>
+      </stg>
+
+      <phonet>śťams pəlmanǯa laŋks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>polvistua, laskeutua polvilleen</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сур ёткова/ пачк ваномс</l>
+
+      <stg>
+        <st>сур ёткова/ пачк ваномс</st>
+      </stg>
+
+      <phonet>sur jotkəva/pačk vanəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>katsoa läpi sormien; tehdä huolimattomasti</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">сюдерямс-вадерямс</l>
@@ -2348,7 +4540,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">сюдерямс-вадерямс</l>
@@ -2368,7 +4559,91 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сявомс мяльс</l>
 
+      <stg>
+        <st>сявомс мяльс</st>
+      </stg>
+
+      <phonet>śävəms mäľs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>keskittää huomionsa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сявомс пленц</l>
+
+      <stg>
+        <st>сявомс пленц</st>
+      </stg>
+
+      <phonet>śävəms pľenc</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ottaa vangiksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сёрмадомс анкета</l>
+
+      <stg>
+        <st>сёрмадомс анкета</st>
+      </stg>
+
+      <phonet>śormadəms aŋketa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>täyttää lomake</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сёрмадомс жалба</l>
+
+      <stg>
+        <st>сёрмадомс жалба</st>
+      </stg>
+
+      <phonet>śormadəms žalba</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kirjoittaa valitus, tehdä kirjallinen valitus</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">табакта таргамс</l>
+
+      <stg>
+        <st>табакта таргамс</st>
+      </stg>
+
+      <phonet>tabaktə targams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tupakoida, polttaa tupakkaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">таргай-утяй</l>
@@ -2388,7 +4663,74 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">таргамс вайме</l>
 
+      <stg>
+        <st>таргамс вайме</st>
+      </stg>
+
+      <phonet>targams vajmä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vetää henkeä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">таргамс вайме потму</l>
+
+      <stg>
+        <st>таргамс вайме потму</st>
+      </stg>
+
+      <phonet>targams vajmä potmu</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hengittää sisään</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">таргамс вайме ушу</l>
+
+      <stg>
+        <st>таргамс вайме ушу</st>
+      </stg>
+
+      <phonet>targams vajmä ušu</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hengittää ulos</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тарксемс боразнат</l>
+
+      <stg>
+        <st>тарксемс боразнат</st>
+      </stg>
+
+      <phonet>tarkśəms boraznat</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>uurtaa, kyntää (vakoa)</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">тарксемс вайме</l>
@@ -2406,7 +4748,108 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тевонь тиемс</l>
 
+      <stg>
+        <st>тевонь тиемс</st>
+      </stg>
+
+      <phonet>ťevəń ťijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>työskennellä, tehdä työtä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тердемс/кучемс свидетелькс</l>
+
+      <stg>
+        <st>тердемс/кучемс свидетелькс</st>
+      </stg>
+
+      <phonet>ťeŕďəms/kučəms śviďeťəľks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kutsua todistajaksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тиемс баня</l>
+
+      <stg>
+        <st>тиемс баня</st>
+      </stg>
+
+      <phonet>ťijəms bańä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>(kuv.) löylyttää</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тиемс кулукс</l>
+
+      <stg>
+        <st>тиемс кулукс</st>
+      </stg>
+
+      <phonet>ťijəms kuluks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>muuttaa tuhkaksi</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тиемс петькс</l>
+
+      <stg>
+        <st>тиемс петькс</st>
+      </stg>
+
+      <phonet>ťijəms peťks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tehdä korjauksia</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тиемс ревизия</l>
+
+      <stg>
+        <st>тиемс ревизия</st>
+      </stg>
+
+      <phonet>ťijəms ŕiviźijä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tarkastaa, suorittaa tarkastus</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">тозорясазь-матрасазь</l>
@@ -2426,7 +4869,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тол уфамс</l>
 
+      <stg>
+        <st>тол уфамс</st>
+      </stg>
+
+      <phonet>tol ufams/fams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>virittää tulta</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">толхмадемс лафтуса</l>
+
+      <stg>
+        <st>толхмадемс лафтуса</st>
+      </stg>
+
+      <phonet>tolxmaďəms laftusa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>työntää/tuupata harteista</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">тонадови-тиеви</l>
@@ -2446,7 +4922,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">трямс пря</l>
 
+      <stg>
+        <st>трямс пря</st>
+      </stg>
+
+      <phonet>ťŕams pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elättää itsensä, tulla toimeen</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">трянь цёра</l>
@@ -2466,7 +4958,91 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тумс кудга</l>
 
+      <stg>
+        <st>тумс кудга</st>
+      </stg>
+
+      <phonet>tums kudga</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hajaantua koteihinsa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тумс кядьга</l>
+
+      <stg>
+        <st>тумс кядьга</st>
+      </stg>
+
+      <phonet>tums käďga</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kulkea/kiertää käsissä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">туркс сельмот ваномс</l>
+
+      <stg>
+        <st>туркс сельмот ваномс</st>
+      </stg>
+
+      <phonet>turks śeľmət vanəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>katsoa pahalla silmällä</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тяемс пиле ланга/пилес</l>
+
+      <stg>
+        <st>тяемс пиле ланга/пилес</st>
+      </stg>
+
+      <phonet>ťäjəms piľə laŋga /piľəs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lyödä korville</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">уендемс венчса</l>
+
+      <stg>
+        <st>уендемс венчса</st>
+      </stg>
+
+      <phonet>ujəńďəms veńčsa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kulkea veneellä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ужнасть-тисть</l>
@@ -2486,7 +5062,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">урафнемс картаса</l>
 
+      <stg>
+        <st>урафнемс картаса</st>
+      </stg>
+
+      <phonet>urafńəms kartasa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pelata rahansa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">урокоды-аварди</l>
@@ -2506,7 +5098,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">уроскофтомс</l>
@@ -2526,7 +5117,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">усксемс вирь</l>
 
+      <stg>
+        <st>усксемс вирь</st>
+      </stg>
+
+      <phonet>uskśəms viŕ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuljettaa tukkeja</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ушева якамс</l>
+
+      <stg>
+        <st>ушева якамс</st>
+      </stg>
+
+      <phonet>ušəva jakams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kulkea ulkona</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">уштомс-явафтомс</l>
@@ -2546,7 +5170,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">уштомс-явафтомс</l>
@@ -2566,7 +5189,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">фкя ваймоса эрямс</l>
 
+      <stg>
+        <st>фкя ваймоса эрямс</st>
+      </stg>
+
+      <phonet>fkä vajməsa eŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elää sovussa, elää yhteisymmärryksessä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">цяпамс-лапамс</l>
@@ -2586,7 +5225,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">цяпамс-лапамс</l>
@@ -2606,7 +5244,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">цяпафтомс-лапафтомс</l>
@@ -2632,7 +5269,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">чакамс-покамс</l>
@@ -2652,7 +5288,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">чярякаса налхкомс</l>
 
+      <stg>
+        <st>чярякаса налхкомс</st>
+      </stg>
+
+      <phonet>čäŕakasə nalxkəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pelata linnaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">шавос корхтамс</l>
@@ -2672,7 +5324,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шамафкс мархта шачемс</l>
 
+      <stg>
+        <st>шамафкс мархта шачемс</st>
+      </stg>
+
+      <phonet>šamafks marxtə šačəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olla onnen suosikki</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">шаромс-таромс</l>
@@ -2692,7 +5360,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шаромс-таромс</l>
@@ -2718,7 +5385,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шарса налхкомс</l>
 
+      <stg>
+        <st>шарса налхкомс</st>
+      </stg>
+
+      <phonet>šarsə nalxkəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pelata kuulilla</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шарфтомс мяль</l>
+
+      <stg>
+        <st>шарфтомс мяль</st>
+      </stg>
+
+      <phonet>šarftəms mäľ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kiinnittää huomiota</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">шачемс-касомс</l>
@@ -2744,7 +5444,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шкаенди озондомс</l>
 
+      <stg>
+        <st>шкаенди озондомс</st>
+      </stg>
+
+      <phonet>škajəńďi ozəndəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rukoilla jumalaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">шкамс-трямс</l>
@@ -2764,7 +5480,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шнамс пря</l>
 
+      <stg>
+        <st>шнамс пря</st>
+      </stg>
+
+      <phonet>šnams pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kerskailla, kerskua</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">шовави-памори</l>
@@ -2784,7 +5516,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шовави-памори</l>
@@ -2804,7 +5535,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шоварса чуфамс</l>
@@ -2830,7 +5560,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шовияфнемс курга</l>
@@ -2850,7 +5579,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">штамс баняса</l>
 
+      <stg>
+        <st>штамс баняса</st>
+      </stg>
+
+      <phonet>štams bańasa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>saunoa, kylpeä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">штамс-нардамс</l>
@@ -2870,7 +5615,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шумбрат-пархт азондомс</l>
@@ -2888,7 +5632,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шятемс-крхтамс</l>
@@ -2908,7 +5651,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">шятемс-крхтамс</l>
@@ -2928,7 +5670,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">щамс-карсемс</l>
@@ -2948,7 +5689,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">щамс-карьсемс</l>
@@ -2968,7 +5708,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">щамс-карямс</l>
@@ -2988,7 +5727,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">щёка ланга каямс</l>
 
+      <stg>
+        <st>щёка ланга каямс</st>
+      </stg>
+
+      <phonet>ščoka laŋga kajams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lyödä kasvoihin</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эжендемс шить каршеса</l>
+
+      <stg>
+        <st>эжендемс шить каршеса</st>
+      </stg>
+
+      <phonet>ežəńďəms šiť karšəsa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>paistatella päivää</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эрьгодемс кить эзда</l>
+
+      <stg>
+        <st>эрьгодемс кить эзда</st>
+      </stg>
+
+      <phonet>äŕgəďəms kiť ezda</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>eksyttää tieltä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">эряза-ащеза</l>
@@ -3008,7 +5797,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эрямс нужаса</l>
 
+      <stg>
+        <st>эрямс нужаса</st>
+      </stg>
+
+      <phonet>eŕams nužasa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elää puutteessa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эрямс сатыксса</l>
+
+      <stg>
+        <st>эрямс сатыксса</st>
+      </stg>
+
+      <phonet>eŕams satikssa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elää hyvissä varoin, olla varoissaan</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">эрямс-ащемс</l>
@@ -3028,7 +5850,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эшелямс ваннаса</l>
 
+      <stg>
+        <st>эшелямс ваннаса</st>
+      </stg>
+
+      <phonet>äšəľams vannasa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kylpeä ammeessa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">юмамс-арамс</l>
@@ -3060,7 +5898,6 @@
       </xg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">юмамс-арамс</l>
@@ -3092,7 +5929,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">юмафтомс-арафтомс</l>
@@ -3118,7 +5954,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">явомс ровна пяльксова</l>
 
+      <stg>
+        <st>явомс ровна пяльксова</st>
+      </stg>
+
+      <phonet>javəms rovna päľksəva</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>jakaa tasan</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">явомс слогонь-слогонь</l>
+
+      <stg>
+        <st>явомс слогонь-слогонь</st>
+      </stg>
+
+      <phonet>javəms slogəń-slogəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tavuttaa, jakaa tavuihin</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">якамс вальмятнень алга</l>
@@ -3136,7 +6005,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс школав</l>
 
+      <stg>
+        <st>якамс школав</st>
+      </stg>
+
+      <phonet>jakams školav</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>käydä koulua</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">якамс-шарондомс</l>
@@ -3156,7 +6041,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">якамс-шарондомс</l>
@@ -3188,7 +6072,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">якамс-шяямс</l>
@@ -3208,7 +6091,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">якамс-шяямс</l>
@@ -3234,7 +6116,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якафтомс бокпялензон</l>
 
+      <stg>
+        <st>якафтомс бокпялензон</st>
+      </stg>
+
+      <phonet>jakaftəms bokpäľənʒən</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>piestä, hakata, löylyttää</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">якафтомс-тиемс</l>
@@ -3254,7 +6152,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">якафтомс-тиемс</l>
@@ -3274,7 +6171,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">якафтомс-тиемс</l>
@@ -3294,7 +6190,23 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ямодемс сюре</l>
 
+      <stg>
+        <st>ямодемс сюре</st>
+      </stg>
+
+      <phonet>jaməďəms śuŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vahvistaa lankaa</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ярхцамс-симомс</l>
@@ -3320,7 +6232,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">ярхцафтомс кяль</l>
@@ -3346,7 +6257,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">яфиесть кядьсост</l>
@@ -3366,7 +6276,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">яфодемс пря</l>
@@ -3386,7 +6295,57 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ёненза маштсть</l>
 
+      <stg>
+        <st>ёненза маштсть</st>
+      </stg>
+
+      <phonet>jońənʒə mašćť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyörtyi, menetti tajuntansa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ёнец маштсь</l>
+
+      <stg>
+        <st>ёнец маштсь</st>
+      </stg>
+
+      <phonet>jońəc mašć</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyörtyi, menetti tajuntansa</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ёрямс икра</l>
+
+      <stg>
+        <st>ёрямс икра</st>
+      </stg>
+
+      <phonet>joŕams ikra</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kutea, laskea mätiä</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ётай-тии</l>
@@ -3406,7 +6365,6 @@
       </tg>
     </mg>
   </e>
-
   <e exclude="fst">
     <lg>
       <l pos="V">ётамс-потамс</l>
@@ -3432,7 +6390,40 @@
       </tg>
     </mg>
   </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ётафтомс китькс</l>
 
+      <stg>
+        <st>ётафтомс китькс</st>
+      </stg>
+
+      <phonet>jotaftəms kiťks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vetää viiva</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ётафтомс радио</l>
+
+      <stg>
+        <st>ётафтомс радио</st>
+      </stg>
+
+      <phonet>jotaftəms radio</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laajentaa radion kuuluvuusaluetta</t>
+      </tg>
+    </mg>
+  </e>
   <e exclude="fst">
     <lg>
       <l pos="V">ётафтомс эряфс</l>
