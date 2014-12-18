@@ -8,16 +8,14 @@
     <lg>
       <l pos="V">андомс-симдемс</l>
 
-      <l_drv pos="V">андомс_V</l_drv>
+      <l_drv pos="V">андомс</l_drv>
 
-      <l_drv pos="V">симдемс_V</l_drv>
+      <l_drv pos="V">симдемс</l_drv>
 
       <stg>
         <st/>
       </stg>
     </lg>
-
-    <pos>V</pos>
 
     <phonet>andəms-śimďəms</phonet>
 
@@ -32,59 +30,137 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="V">касфнемс-аннемс</l>
+      <l pos="V">араламс пря</l>
 
-      <l_drv pos="V">касфнемс_V</l_drv>
-
-      <l_drv pos="V">аннемс_V</l_drv>
+      <l_ref pos="V">араламс</l_ref>
 
       <stg>
-        <st/>
+        <st>араламс пря</st>
       </stg>
+
+      <phonet>aralams pŕä</phonet>
     </lg>
 
-    <pos>V</pos>
-
-    <phonet>kasfńəms-ańńəms</phonet>
-
     <mg>
-      <defNative/>
-
       <tg xml:lang="fin">
-        <t pos="V">kasvattaa</t>
+        <t>puolustautua</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="V">юмамс-арамс</l>
+      <l pos="V">арьсемс пара</l>
 
-      <l_drv pos="V">юмамс</l_drv>
-
-      <l_drv pos="V">арамс</l_drv>
+      <l_ref pos="V">арьсемс</l_ref>
 
       <stg>
-        <st/>
+        <st>арьсемс пара</st>
+      </stg>
+
+      <phonet>aŕśəms para</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tervehtiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">арьсемс цебярь</l>
+
+      <phonet>aŕśəms ćebäŕ</phonet>
+
+      <stg>
+        <st>арьсемс цебярь</st>
       </stg>
     </lg>
 
-    <phonet>jumams-arams</phonet>
+    <mg>
+      <tg xml:lang="fin">
+        <t>siunata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">арьсемс цебярь</l>
+
+      <l_ref pos="V">арьсемс</l_ref>
+
+      <stg>
+        <st>арьсемс цебярь</st>
+      </stg>
+
+      <phonet>aŕśəms ćebäŕ</phonet>
+    </lg>
 
     <mg>
-      <defNative/>
-
       <tg xml:lang="fin">
-        <t pos="V">tuhoutua</t>
+        <t>tervehtiä</t>
       </tg>
+    </mg>
+  </e>
 
-      <xg>
-        <x>зря юмай-арай</x>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">аф кельгомс</l>
 
-        <phonet>ź(ə)ŕä jumaj-araj</phonet>
+      <l_ref pos="V">кельгомс</l_ref>
 
-        <xt xml:lang="fin">menee hukkaan.</xt>
-      </xg>
+      <stg>
+        <st>аф кельгомс</st>
+      </stg>
+
+      <phonet>af keľgəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>inhota</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">аф мярьгомс</l>
+
+      <l_ref pos="V">мярьгомс</l_ref>
+
+      <stg>
+        <st>аф мярьгомс</st>
+      </stg>
+
+      <phonet>af mäŕgəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kieltää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">афнемс кургонц эса</l>
+
+      <phonet>afńəms kurgənc esa</phonet>
+
+      <stg>
+        <st>афнемс кургонц эса</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>haukotella</t>
+      </tg>
     </mg>
   </e>
 
@@ -116,52 +192,176 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="V">цяпафтомс-лапафтомс</l>
+      <l pos="V">бзнай</l>
 
-      <l_drv pos="V">цяпафтомс</l_drv>
-
-      <l_drv pos="V">лапафтомс</l_drv>
+      <l_ref pos="V">бзнамс</l_ref>
 
       <stg>
-        <st/>
+        <st>бзнай</st>
       </stg>
+
+      <phonet>bəznaj</phonet>
     </lg>
 
-    <phonet>ćapaftəms-lapaftəms</phonet>
-
     <mg>
-      <defNative/>
-
       <tg xml:lang="fin">
-        <t pos="V">hakata</t>
-
-        <t pos="V">piestä</t>
+        <t>inisee (hyttynen)</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="V">шачемс-касомс</l>
+      <l pos="V">бльнямс-кецордомс</l>
 
-      <l_drv pos="V">шачемс</l_drv>
-
-      <l_drv pos="V">касомс</l_drv>
+      <l_ref pos="V">кецордомс</l_ref>
 
       <stg>
-        <st/>
+        <st>бльнямс-кецордомс</st>
+      </stg>
+
+      <phonet>bəľńams-kecərdəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rätistä, räiskyä (tuli)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">бушавамс</l>
+
+      <l_ref pos="V">бухиемс</l_ref>
+
+      <stg>
+        <st>бушавамс</st>
+      </stg>
+
+      <phonet>bušavams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kapinoida</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">буянендамс</l>
+
+      <l_ref pos="V">бушевандамс</l_ref>
+
+      <stg>
+        <st>буянендамс</st>
+      </stg>
+
+      <phonet>bujańəndams, bujäńəndams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>mellastaa, räyhätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вадемс кочкярят</l>
+
+      <phonet>vaďəms kočkäŕat</phonet>
+
+      <stg>
+        <st>вадемс кочкярят</st>
       </stg>
     </lg>
 
-    <phonet>šačəms-kasəms</phonet>
+    <mg>
+      <tg xml:lang="fin">
+        <t>livistää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вадерямс-сюдерямс</l>
+
+      <l_ref pos="V">вадерямс</l_ref>
+
+      <stg>
+        <st>вадерямс-сюдерямс</st>
+      </stg>
+
+      <phonet>vaďəŕams-śuďəŕams</phonet>
+    </lg>
 
     <mg>
-      <defNative/>
-
       <tg xml:lang="fin">
-        <t pos="V">kasvaa</t>
+        <t>hivellä, sivellä, hyväillä</t>
+      </tg>
+    </mg>
+  </e>
 
-        <t pos="V">varttua</t>
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваймафтомс пря</l>
+
+      <phonet>vajmaftəms pŕä</phonet>
+
+      <stg>
+        <st>ваймафтомс пря</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>levätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваймафтомс пря</l>
+
+      <l_ref pos="V">ваймафтомс</l_ref>
+
+      <stg>
+        <st>ваймафтомс пря</st>
+      </stg>
+
+      <phonet>vajmaftəms pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>levätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ваномс-кочкамс</l>
+
+      <l_ref pos="V">ваномс</l_ref>
+
+      <stg>
+        <st>ваномс-кочкамс</st>
+      </stg>
+
+      <phonet>vanəms-kočkams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>päästä perille jostakin, selvittää perin juurin</t>
       </tg>
     </mg>
   </e>
@@ -204,6 +404,102 @@
 
   <e exclude="fst">
     <lg>
+      <l pos="V">ваткамс кедь</l>
+
+      <l_ref pos="V">ваткамс</l_ref>
+
+      <stg>
+        <st>ваткамс кедь</st>
+      </stg>
+
+      <phonet>vatkams keď</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nylkeä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вятемс пря</l>
+
+      <l_ref pos="V">вятемс</l_ref>
+
+      <stg>
+        <st>вятемс пря</st>
+      </stg>
+
+      <phonet>väťəms pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>käyttäytyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">вяшки</l>
+
+      <l_ref pos="V">вяшкомс</l_ref>
+
+      <stg>
+        <st>вяшки</st>
+      </stg>
+
+      <phonet>väški</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sihisee (käärme)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">группировандавомс</l>
+
+      <phonet>gruppirəvandavəms</phonet>
+
+      <stg>
+        <st>группировандавомс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ryhmittyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">группировандамс</l>
+
+      <phonet>gruppirəvandams</phonet>
+
+      <stg>
+        <st>группировандамс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ryhmitellä, ryhmittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
       <l pos="V">гулдоргодомс-галдоргодомс</l>
 
       <l_drv pos="V">гулдоргодомс</l_drv>
@@ -236,4 +532,2930 @@
     </mg>
   </e>
 
+  <e exclude="fst">
+    <lg>
+      <l pos="V">дум арьсемс</l>
+
+      <phonet>dum aŕśəms</phonet>
+
+      <stg>
+        <st>дум арьсемс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ajatella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">жольнязевомс</l>
+
+      <l_ref pos="V">жольнефтемс</l_ref>
+
+      <stg>
+        <st>жольнязевомс</st>
+      </stg>
+
+      <phonet>žoľńäźəvəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>alkaa kohista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">зярьфтемс-дуборфтомс</l>
+
+      <l_ref pos="V">дуборфтомс</l_ref>
+
+      <stg>
+        <st>зярьфтемс-дуборфтомс</st>
+      </stg>
+
+      <phonet>źäŕfťəms-dubərftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>jytistä, ryskyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кайсемс щапнень</l>
+
+      <phonet>kajśəms ščapńəń</phonet>
+
+      <stg>
+        <st>кайсемс щапнень</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>riisuutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кайсемс щапнень</l>
+
+      <l_ref pos="V">кайсемс</l_ref>
+
+      <stg>
+        <st>кайсемс щапнень</st>
+      </stg>
+
+      <phonet>kajśəms ščapńəń</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>riisuutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кардамс-сюцемс</l>
+
+      <l_ref pos="V">кардамс</l_ref>
+
+      <stg>
+        <st>кардамс-сюцемс</st>
+      </stg>
+
+      <phonet>kardams-śućəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>haukkua, torua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">касфнемс-аннемс</l>
+
+      <l_drv pos="V">касфнемс</l_drv>
+
+      <l_drv pos="V">аннемс</l_drv>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <phonet>kasfńəms-ańńəms</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">kasvattaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">касфнемс-аннемс</l>
+
+      <l_ref pos="V">касфнемс</l_ref>
+
+      <stg>
+        <st>касфнемс-аннемс</st>
+      </stg>
+
+      <phonet>kasfńəms-anńəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>viljellä; kasvattaa (lapsi)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">касы седице</l>
+
+      <l_ref pos="V">касомс</l_ref>
+
+      <stg>
+        <st>касы седице</st>
+      </stg>
+
+      <phonet>kasi śeďićä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ilahtuu</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кашторды</l>
+
+      <l_ref pos="V">каштордомс</l_ref>
+
+      <stg>
+        <st>кашторды</st>
+      </stg>
+
+      <phonet>kaštərdi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sanoo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">килькштафтомс</l>
+
+      <l_ref pos="V">килькштамс</l_ref>
+
+      <stg>
+        <st>килькштафтомс</st>
+      </stg>
+
+      <phonet>kiľkštaftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sidottaa (yhteen), solmituttaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кирдемс-кардамс</l>
+
+      <l_ref pos="V">кирдемс</l_ref>
+
+      <stg>
+        <st>кирдемс-кардамс</st>
+      </stg>
+
+      <phonet>kiŕďəms-kardams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>opastaa, ohjata oikealle tielle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кичкорды-качкорды</l>
+
+      <l_ref pos="V">кичкордомс</l_ref>
+
+      <stg>
+        <st>кичкорды-качкорды</st>
+      </stg>
+
+      <phonet>kičkərdi-kačkərdi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hoipertelee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кичкорды-муворды</l>
+
+      <l_ref pos="V">мувордомс</l_ref>
+
+      <stg>
+        <st>кичкорды-муворды</st>
+      </stg>
+
+      <phonet>kičkərdi-muvərdi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hoipertelee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кишнезь-кишнесть</l>
+
+      <l_ref pos="V">кшнимс</l_ref>
+
+      <stg>
+        <st>кишнезь-кишнесть</st>
+      </stg>
+
+      <phonet>kišńəź-kišńəśť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>leimahtelivat (liekit)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">колемс-каладомс</l>
+
+      <l_ref pos="V">колемс</l_ref>
+
+      <stg>
+        <st>колемс-каладомс</st>
+      </stg>
+
+      <phonet>koľəms-kaladəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pilaantua, mennä pilalle; mennä sekaisin, joutua
+        epäjärjestykseen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кольгомс-авардемс</l>
+
+      <l_ref pos="V">кольгомс</l_ref>
+
+      <stg>
+        <st>кольгомс-авардемс</st>
+      </stg>
+
+      <phonet>koľgəms-avaŕďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>valitella, voivotella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кольфтемс-калафтомс</l>
+
+      <l_ref pos="V">кольфтемс</l_ref>
+
+      <stg>
+        <st>кольфтемс-калафтомс</st>
+      </stg>
+
+      <phonet>koľfťəms-kalaftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pilata, turmella; hemmotella (pilalle)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">концемс сельмот</l>
+
+      <l_ref pos="V">концемс</l_ref>
+
+      <stg>
+        <st>сельмот</st>
+      </stg>
+
+      <phonet>końćəms śeľmət</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>siristellä silmiään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">копорьгоды</l>
+
+      <l_ref pos="V">копорьгодомс</l_ref>
+
+      <stg>
+        <st>копорьгоды</st>
+      </stg>
+
+      <phonet>kopəŕgədi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vääntyy, kyttyröityy</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кувокс арамс</l>
+
+      <phonet>kuvəks arams</phonet>
+
+      <stg>
+        <st>кувокс арамс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kerrostua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кулендевсь</l>
+
+      <l_ref pos="V">кулендевомс</l_ref>
+
+      <stg>
+        <st>кулендевсь</st>
+      </stg>
+
+      <phonet>kuľəńďəvś</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuulosti, kuului</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куломс повамс</l>
+
+      <phonet>kuləms povams</phonet>
+
+      <stg>
+        <st>куломс повамс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuristaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куломс-каладамс</l>
+
+      <l_ref pos="V">куломс</l_ref>
+
+      <stg>
+        <st>куломс-каладамс</st>
+      </stg>
+
+      <phonet>kuləms-kaladəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhoutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куломс-каладомс</l>
+
+      <l_ref pos="V">каладомс</l_ref>
+
+      <stg>
+        <st>куломс-каладомс</st>
+      </stg>
+
+      <phonet>kuləms-kaladəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>romuttua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кулхцондозь-тиезь</l>
+
+      <l_ref pos="V">тиемс</l_ref>
+
+      <stg>
+        <st>кулхцондозь-тиезь</st>
+      </stg>
+
+      <phonet>kuľxćəndəź-ťijəź</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>heti kun kuulivat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кундасть кядьта</l>
+
+      <l_ref pos="V">кундамс</l_ref>
+
+      <stg>
+        <st>кундасть кядьта</st>
+      </stg>
+
+      <phonet>kundaśť käťta</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kättelivät</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кургонц келептьсы</l>
+
+      <l_ref pos="V">келептемс</l_ref>
+
+      <stg>
+        <st>кургонц келептьсы</st>
+      </stg>
+
+      <phonet>kurgənc keľəpci</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>haukottelee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куфксты</l>
+
+      <l_ref pos="V">куфкстомс</l_ref>
+
+      <stg>
+        <st>куфксты</st>
+      </stg>
+
+      <phonet>kufksti</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>huokaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куфци-лякси</l>
+
+      <l_ref pos="V">куфцемс</l_ref>
+
+      <stg>
+        <st>куфци-лякси</st>
+      </stg>
+
+      <phonet>kufći- ľäkśi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>huokailee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куфци-лякси</l>
+
+      <l_ref pos="V">ляксемс</l_ref>
+
+      <stg>
+        <st>куфци-лякси</st>
+      </stg>
+
+      <phonet>kufći-ľäkśi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>huokailee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">куяй</l>
+
+      <l_ref pos="V">куямс</l_ref>
+
+      <stg>
+        <st>куяй</st>
+      </stg>
+
+      <phonet>kujäj</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lihoo</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кштимс-морамс</l>
+
+      <l_ref pos="V">кштимс</l_ref>
+
+      <stg>
+        <st>кштимс-морамс</st>
+      </stg>
+
+      <phonet>kšťims-morams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pitää hauskaa, huvitella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">кяж пандомс</l>
+
+      <phonet>käž pandəms</phonet>
+
+      <stg>
+        <st>кяж пандомс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kostaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ластя ардомс</l>
+
+      <l_ref pos="V">ардомс</l_ref>
+
+      <stg>
+        <st>ластя ардомс</st>
+      </stg>
+
+      <phonet>laśťä ardəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ratsastaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лифкст путомс</l>
+
+      <l_ref pos="V">путомс</l_ref>
+
+      <stg>
+        <st>лифкст путомс</st>
+      </stg>
+
+      <phonet>ľifkst putəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rokottaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">лудямс-ладямс</l>
+
+      <l_ref pos="V">лудямс</l_ref>
+
+      <stg>
+        <st>лудямс-ладямс</st>
+      </stg>
+
+      <phonet>luďams-laďams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>järjestää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">машты ёжеда</l>
+
+      <phonet>mašti jožəda</phonet>
+
+      <stg>
+        <st>машты ёжеда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyörtyy</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">машты ёжеда</l>
+
+      <l_ref pos="V">маштомс</l_ref>
+
+      <stg>
+        <st>машты ёжеда</st>
+      </stg>
+
+      <phonet>mašti jožəda</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pyörtyy</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">месенькшни?</l>
+
+      <l_ref pos="V">месенькшнемс</l_ref>
+
+      <stg>
+        <st>месенькшни?</st>
+      </stg>
+
+      <phonet>meśəńkšńi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>mitä hän puuhaa?</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">мимс-рамамс</l>
+
+      <l_ref pos="V">мимс</l_ref>
+
+      <stg>
+        <st>мимс-рамамс</st>
+      </stg>
+
+      <phonet>mims-ramams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kaupata, käydä kauppaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">морамс эсь пачка</l>
+
+      <l_ref pos="V">морамс</l_ref>
+
+      <stg>
+        <st>морамс эсь пачка</st>
+      </stg>
+
+      <phonet>morams eś pačka</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hyräillä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">морафтомс озкс</l>
+
+      <l_ref pos="V">морафтомс</l_ref>
+
+      <stg>
+        <st>морафтомс озкс</st>
+      </stg>
+
+      <phonet>moraftəms ozks</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rukoilla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">мст-мст пеедемс</l>
+
+      <l_ref pos="V">пеедемс</l_ref>
+
+      <stg>
+        <st>мст-мст пеедемс</st>
+      </stg>
+
+      <phonet>məst-məst pejəďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hymyillä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">муськомс-шовамс</l>
+
+      <l_ref pos="V">муськомс</l_ref>
+
+      <stg>
+        <st>муськомс-шовамс</st>
+      </stg>
+
+      <phonet>muśkəms-šovams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pestä pyykkiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нафнемс нолкт</l>
+
+      <l_ref pos="V">нафнемс</l_ref>
+
+      <stg>
+        <st>нафнемс нолкт</st>
+      </stg>
+
+      <phonet>nafńəms nolkt</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>niistää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нешкодсть-тавадовсть</l>
+
+      <l_ref pos="V">нешкодомс</l_ref>
+
+      <stg>
+        <st>нешкодсть-тавадовсть</st>
+      </stg>
+
+      <phonet>ńeškəćť-tavadəvśť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>olivat kokonaan peitetyt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нешкодсь-вельхтявсь</l>
+
+      <l_ref pos="V">вельхтявомс</l_ref>
+
+      <stg>
+        <st>нешкодсь-вельхтявсь</st>
+      </stg>
+
+      <phonet>ńeškəć-veľxťavś</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>oli täysin peitossa, piilossa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">нешкодсь-вельхтявсь</l>
+
+      <l_ref pos="V">нешкодомс</l_ref>
+
+      <stg>
+        <st>нешкодсь-вельхтявсь</st>
+      </stg>
+
+      <phonet>ńeškəć –veľxťavś</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>oli kokonaan peitetty</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ноламс-паламс</l>
+
+      <l_ref pos="V">ноламс</l_ref>
+
+      <stg>
+        <st>ноламс-паламс</st>
+      </stg>
+
+      <phonet>nolams-palams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puraista poikki; pureskella, pureksia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">няемс-кулемс</l>
+
+      <l_ref pos="V">няемс</l_ref>
+
+      <stg>
+        <st>няемс-кулемс</st>
+      </stg>
+
+      <phonet>ńäjəms-kuľəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tiedustella, kuulostella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">няфтемс пря</l>
+
+      <phonet>ńäfťəms pŕä</phonet>
+
+      <stg>
+        <st>няфтемс пря</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>näyttäytyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">озай седице</l>
+
+      <l_ref pos="V">озамс</l_ref>
+
+      <stg>
+        <st>озай седице</st>
+      </stg>
+
+      <phonet>ozaj śeďićä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rauhoitut</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">опанафтомс</l>
+
+      <phonet>opanaftəms</phonet>
+
+      <stg>
+        <st>опанафтомс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tukehduttaa (rikkaruoho kylvön)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">охиемс-ахиемс</l>
+
+      <l_ref pos="V">охиемс</l_ref>
+
+      <stg>
+        <st>охиемс-ахиемс</st>
+      </stg>
+
+      <phonet>oxijəms-axijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>päivitellä, valitella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">охондай</l>
+
+      <l_ref pos="V">охондамс</l_ref>
+
+      <stg>
+        <st>охондай</st>
+      </stg>
+
+      <phonet>oxəndaj</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>huokailee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">палондыхть марозти</l>
+
+      <l_ref pos="V">палондомс</l_ref>
+
+      <stg>
+        <st>палондыхть марозти</st>
+      </stg>
+
+      <phonet>paləndixť marozťi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>jäätyvät</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пандомс кяж</l>
+
+      <l_ref pos="V">пандомс</l_ref>
+
+      <stg>
+        <st>пандомс кяж</st>
+      </stg>
+
+      <phonet>pandəms käž</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kostaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">паннемс панксса</l>
+
+      <phonet>pańńəms paŋkssa</phonet>
+
+      <stg>
+        <st>паннемс панксса</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>paikata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">паннемс панксса</l>
+
+      <l_ref pos="V">паннемс</l_ref>
+
+      <stg>
+        <st>паннемс панксса</st>
+      </stg>
+
+      <phonet>pańńəms paŋkssa</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>paikata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пеедемс-рахамс</l>
+
+      <l_ref pos="V">пеедемс</l_ref>
+
+      <stg>
+        <st>пеедемс-рахамс</st>
+      </stg>
+
+      <phonet>pejəďəms-raxams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nauraa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пеедемс-рахамс</l>
+
+      <l_ref pos="V">рахамс</l_ref>
+
+      <stg>
+        <st>пеедемс-рахамс</st>
+      </stg>
+
+      <phonet>pejəďəms-raxams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nauraa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пекиясь-лангиясь</l>
+
+      <l_ref pos="V">лангиямс</l_ref>
+
+      <stg>
+        <st>пекиясь-лангиясь</st>
+      </stg>
+
+      <phonet>pekijäś-laŋgijäś</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuli raskaaksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пидемс-панемс</l>
+
+      <l_ref pos="V">панемс</l_ref>
+
+      <stg>
+        <st>пидемс-панемс</st>
+      </stg>
+
+      <phonet>piďəms-pańəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laittaa ruokaa, keittää, paistaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пидемс-панемс</l>
+
+      <l_ref pos="V">пидемс</l_ref>
+
+      <stg>
+        <st>пидемс-панемс</st>
+      </stg>
+
+      <phonet>piďəms-pańəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laittaa ruokaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пизем моли</l>
+
+      <l_ref pos="V">молемс</l_ref>
+
+      <stg>
+        <st>пизем моли</st>
+      </stg>
+
+      <phonet>piźəm moľi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sataa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пингсь аволгоды</l>
+
+      <l_ref pos="V">аволгодомс</l_ref>
+
+      <stg>
+        <st>пингсь аволгоды</st>
+      </stg>
+
+      <phonet>piŋkś avəlgədi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pimenee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пиндолдомс-вандолдомс</l>
+
+      <l_ref pos="V">пиндолдомс</l_ref>
+
+      <stg>
+        <st>пиндолдомс-вандолдомс</st>
+      </stg>
+
+      <phonet>pindəldəms-vandəldəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kimallella, välkähdellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пиндолды-вандолды</l>
+
+      <l_ref pos="V">вандолдомс</l_ref>
+
+      <stg>
+        <st>пиндолды-вандолды</st>
+      </stg>
+
+      <phonet>pindəldi-vandəldi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kimaltelee, välkkyy</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">повсь пильгоц</l>
+
+      <l_ref pos="V">повомс</l_ref>
+
+      <stg>
+        <st>повсь пильгоц</st>
+      </stg>
+
+      <phonet>povś piľgəc</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kompastui</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пракшнесть дивас</l>
+
+      <l_ref pos="V">пракшнемс</l_ref>
+
+      <stg>
+        <st>пракшнесть дивас</st>
+      </stg>
+
+      <phonet>prakšńəśť ďivas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ällistyivät</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">прамс дивас</l>
+
+      <l_ref pos="V">прамс</l_ref>
+
+      <stg>
+        <st>прамс дивас</st>
+      </stg>
+
+      <phonet>prams ďivas</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hämmästyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">псиста уштомс</l>
+
+      <phonet>pśist(ə) uštəms</phonet>
+
+      <stg>
+        <st>псиста уштомс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuumentaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пуворямс-шарфнемс</l>
+
+      <l_ref pos="V">пуворямс</l_ref>
+
+      <stg>
+        <st>пуворямс-шарфнемс</st>
+      </stg>
+
+      <phonet>puvəŕams-šarfńəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kierrellä, väännellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">пурямс-шарфнемс</l>
+
+      <l_ref pos="V">шарфнемс</l_ref>
+
+      <stg>
+        <st>пурямс-шарфнемс</st>
+      </stg>
+
+      <phonet>puŕams-šarfńəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kiertää, ruuvata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путнемс лифкст</l>
+
+      <phonet>putńəms ľifkst</phonet>
+
+      <stg>
+        <st>путнемс лифкст</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rokottaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путнемс лифкст</l>
+
+      <l_ref pos="V">путнемс</l_ref>
+
+      <stg>
+        <st>путнемс лифкст</st>
+      </stg>
+
+      <phonet>putńəms ľifkst</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rokottaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс кядь</l>
+
+      <l_ref pos="V">путомс</l_ref>
+
+      <stg>
+        <st>путомс кядь</st>
+      </stg>
+
+      <phonet>putəms käď</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>neuvoa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс лифкст</l>
+
+      <phonet>putəms ľifkst</phonet>
+
+      <stg>
+        <st>путомс лифкст</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rokottaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс подпись</l>
+
+      <phonet>putəms potpiś</phonet>
+
+      <stg>
+        <st>путомс подпись</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>allekirjoittaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс ёнь</l>
+
+      <phonet>putəms joń</phonet>
+
+      <stg>
+        <st>путомс ёнь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>neuvoa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">путомс ётть</l>
+
+      <l_ref pos="V">путомс</l_ref>
+
+      <stg>
+        <st>путомс ётть</st>
+      </stg>
+
+      <phonet>putəms joťť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>neuvoa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">рамсемс-мишендемс</l>
+
+      <l_ref pos="V">рамсемс</l_ref>
+
+      <stg>
+        <st>рамсемс-мишендемс</st>
+      </stg>
+
+      <phonet>ramśəms-mišəńďəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>käydä kauppaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сеендемс-вадерямс</l>
+
+      <l_ref pos="V">вадерямс</l_ref>
+
+      <stg>
+        <st>сеендемс-вадерямс</st>
+      </stg>
+
+      <phonet>śejəńďəms-vaďəŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kampailla ja sukia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сельгомс селькт</l>
+
+      <l_ref pos="V">сельгомс</l_ref>
+
+      <stg>
+        <st>сельгомс селькт</st>
+      </stg>
+
+      <phonet>śeľgəms śeľkt/śeľkť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>sylkeä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сендемс-вадерямс</l>
+
+      <l_ref pos="V">сендемс</l_ref>
+
+      <stg>
+        <st>сендемс-вадерямс</st>
+      </stg>
+
+      <phonet>śeńďəms-vaďəŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kammata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">симдемс-андомс</l>
+
+      <l_ref pos="V">симдемс</l_ref>
+
+      <stg>
+        <st>симдемс-андомс</st>
+      </stg>
+
+      <phonet>śimďəms-andəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kestitä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">симомс-ярхцамс</l>
+
+      <l_ref pos="V">симомс</l_ref>
+
+      <stg>
+        <st>симомс-ярхцамс</st>
+      </stg>
+
+      <phonet>śiməms-jarxcams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>syödä, aterioida</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">синнемс-мяннемс</l>
+
+      <l_ref pos="V">синнемс</l_ref>
+
+      <stg>
+        <st>синнемс-мяннемс</st>
+      </stg>
+
+      <phonet>śińńəms-mäńńəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kiertää, vääntää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">срадсть-каладсть</l>
+
+      <l_ref pos="V">сраткшнемс</l_ref>
+
+      <stg>
+        <st>срадсть-каладсть</st>
+      </stg>
+
+      <phonet>sracť-kalacť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhoutuvat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сраткшнихть-калаткшнихть</l>
+
+      <l_ref pos="V">калаткшнемс</l_ref>
+
+      <stg>
+        <st>сраткшнихть-калаткшнихть</st>
+      </stg>
+
+      <phonet>sratkšńixť-kalatkšńixť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhoutuvat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сюдерямс-вадерямс</l>
+
+      <l_ref pos="V">вадерямс</l_ref>
+
+      <stg>
+        <st>сюдерямс-вадерямс</st>
+      </stg>
+
+      <phonet>śuďəŕams-vaďəŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hivellä, sivellä, hyväillä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">сюдерямс-вадерямс</l>
+
+      <l_ref pos="V">сюдерямс</l_ref>
+
+      <stg>
+        <st>сюдерямс-вадерямс</st>
+      </stg>
+
+      <phonet>śuďəŕams-vaďəŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>silittää, hyväillä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">таргай-утяй</l>
+
+      <l_ref pos="V">утямс</l_ref>
+
+      <stg>
+        <st>таргай-утяй</st>
+      </stg>
+
+      <phonet>targaj-uťäj</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>painaa (vaa'an punnus)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тарксемс вайме</l>
+
+      <phonet>tarkśəms vajmä</phonet>
+
+      <stg>
+        <st>тарксемс вайме</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hengittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тозорясазь-матрасазь</l>
+
+      <l_ref pos="V">матрамс</l_ref>
+
+      <stg>
+        <st>тозорясазь-матрасазь</st>
+      </stg>
+
+      <phonet>tozəŕasaź- matrasaź</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>alistavat, orjuuttavat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">тонадови-тиеви</l>
+
+      <l_ref pos="V">тиевомс</l_ref>
+
+      <stg>
+        <st>тонадови-тиеви</st>
+      </stg>
+
+      <phonet>tonadəvi-ťijəvi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>heti kun opitaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">трянь цёра</l>
+
+      <l_ref pos="V">трямс</l_ref>
+
+      <stg>
+        <st>трянь цёра</st>
+      </stg>
+
+      <phonet>ťŕäń ćora</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hulttiopoika</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ужнасть-тисть</l>
+
+      <l_ref pos="V">тиемс</l_ref>
+
+      <stg>
+        <st>ужнасть-тисть</st>
+      </stg>
+
+      <phonet>užnaśť-ťiśť</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>heti kun olivat syöneet illallista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">урокоды-аварди</l>
+
+      <l_ref pos="V">урокодомс</l_ref>
+
+      <stg>
+        <st>урокоды-аварди</st>
+      </stg>
+
+      <phonet>urəkədi-avaŕďi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>itkee katkerasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">уроскофтомс</l>
+
+      <l_ref pos="V">уроскодомс</l_ref>
+
+      <stg>
+        <st>уроскофтомс</st>
+      </stg>
+
+      <phonet>urəskəftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tehdä orvoksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">уштомс-явафтомс</l>
+
+      <l_ref pos="V">уштомс</l_ref>
+
+      <stg>
+        <st>уштомс-явафтомс</st>
+      </stg>
+
+      <phonet>uštəms-javaftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lämmittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">уштомс-явафтомс</l>
+
+      <l_ref pos="V">явафтомс</l_ref>
+
+      <stg>
+        <st>уштомс-явафтомс</st>
+      </stg>
+
+      <phonet>uštəms-javaftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lämmittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">цяпамс-лапамс</l>
+
+      <l_ref pos="V">лапамс</l_ref>
+
+      <stg>
+        <st>цяпамс-лапамс</st>
+      </stg>
+
+      <phonet>ćapams-lapams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>taputtaa (käsiään)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">цяпамс-лапамс</l>
+
+      <l_ref pos="V">цяпамс</l_ref>
+
+      <stg>
+        <st>цяпамс-лапамс</st>
+      </stg>
+
+      <phonet>ćapams-lapams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>taputtaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">цяпафтомс-лапафтомс</l>
+
+      <l_drv pos="V">цяпафтомс</l_drv>
+
+      <l_drv pos="V">лапафтомс</l_drv>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <phonet>ćapaftəms-lapaftəms</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">hakata</t>
+
+        <t pos="V">piestä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">чакамс-покамс</l>
+
+      <l_ref pos="V">чакамс</l_ref>
+
+      <stg>
+        <st>чакамс-покамс</st>
+      </stg>
+
+      <phonet>čakams-pokams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>työskennellä (työkalulla)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шавос корхтамс</l>
+
+      <l_ref pos="V">корхтамс</l_ref>
+
+      <stg>
+        <st>шавос корхтамс</st>
+      </stg>
+
+      <phonet>šavəs korxtams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lörpötellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шаромс-таромс</l>
+
+      <l_ref pos="V">таромс</l_ref>
+
+      <stg>
+        <st>шаромс-таромс</st>
+      </stg>
+
+      <phonet>šarəms-tarəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>touhuta, hääriä, puuhata</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шаромс-таромс</l>
+
+      <l_ref pos="V">шаромс</l_ref>
+
+      <stg>
+        <st>шаромс-таромс</st>
+      </stg>
+
+      <phonet>šarəms-tarəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>touhuta</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hyöriä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шачемс-касомс</l>
+
+      <l_drv pos="V">шачемс</l_drv>
+
+      <l_drv pos="V">касомс</l_drv>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <phonet>šačəms-kasəms</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">kasvaa</t>
+
+        <t pos="V">varttua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шкамс-трямс</l>
+
+      <l_ref pos="V">трямс</l_ref>
+
+      <stg>
+        <st>шкамс-трямс</st>
+      </stg>
+
+      <phonet>škams-ťŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kasvattaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шовави-памори</l>
+
+      <l_ref pos="V">паморемс</l_ref>
+
+      <stg>
+        <st>шовави-памори</st>
+      </stg>
+
+      <phonet>šovavi-paməŕi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>murenee hajalle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шовави-памори</l>
+
+      <l_ref pos="V">шовавомс</l_ref>
+
+      <stg>
+        <st>шовави-памори</st>
+      </stg>
+
+      <phonet>šovavi-paməŕi</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>murustuu, murenee</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шоварса чуфамс</l>
+
+      <l_ref pos="V">чуфамс</l_ref>
+
+      <stg>
+        <st>шоварса чуфамс</st>
+      </stg>
+
+      <phonet>šovarsə čufams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>survoa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>hienontaa (huhmaressa)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шовияфнемс курга</l>
+
+      <l_ref pos="V">шовияфнемс</l_ref>
+
+      <stg>
+        <st>шовияфнемс курга</st>
+      </stg>
+
+      <phonet>šovijafńəms kurga</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rupatella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">штамс-нардамс</l>
+
+      <l_ref pos="V">штамс</l_ref>
+
+      <stg>
+        <st>штамс-нардамс</st>
+      </stg>
+
+      <phonet>štams-nardams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>peseytyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шумбрат-пархт азондомс</l>
+
+      <phonet>šumbrat-parxt azəndəms</phonet>
+
+      <stg>
+        <st>шумбрат-пархт азондомс</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tervehtiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шятемс-крхтамс</l>
+
+      <l_ref pos="V">крхтамс</l_ref>
+
+      <stg>
+        <st>шятемс-крхтамс</st>
+      </stg>
+
+      <phonet>šäťəms-kərxtams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhota</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">шятемс-крхтамс</l>
+
+      <l_ref pos="V">шятемс</l_ref>
+
+      <stg>
+        <st>шятемс-крхтамс</st>
+      </stg>
+
+      <phonet>šäťəms-kərxtams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhota, hävittää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">щамс-карсемс</l>
+
+      <l_ref pos="V">щамс</l_ref>
+
+      <stg>
+        <st>щамс-карсемс</st>
+      </stg>
+
+      <phonet>ščams-kaŕśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pukeutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">щамс-карьсемс</l>
+
+      <l_ref pos="V">карьсемс</l_ref>
+
+      <stg>
+        <st>щамс-карьсемс</st>
+      </stg>
+
+      <phonet>ščams- kaŕśəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pukeutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">щамс-карямс</l>
+
+      <l_ref pos="V">щамс</l_ref>
+
+      <stg>
+        <st>щамс-карямс</st>
+      </stg>
+
+      <phonet>ščams-kaŕams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pukeutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эряза-ащеза</l>
+
+      <l_ref pos="V">эрямс</l_ref>
+
+      <stg>
+        <st>эряза-ащеза</st>
+      </stg>
+
+      <phonet>eŕaz(ə)-aščəza</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>aikaa myöten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">эрямс-ащемс</l>
+
+      <l_ref pos="V">эрямс</l_ref>
+
+      <stg>
+        <st>эрямс-ащемс</st>
+      </stg>
+
+      <phonet>eŕams-aščəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>elellä, asustaa, oleilla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">юмамс-арамс</l>
+
+      <l_drv pos="V">юмамс</l_drv>
+
+      <l_drv pos="V">арамс</l_drv>
+
+      <stg>
+        <st/>
+      </stg>
+    </lg>
+
+    <phonet>jumams-arams</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">tuhoutua</t>
+      </tg>
+
+      <xg>
+        <x>зря юмай-арай</x>
+
+        <phonet>ź(ə)ŕä jumaj-araj</phonet>
+
+        <xt xml:lang="fin">menee hukkaan.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">юмамс-арамс</l>
+
+      <l_ref pos="V">юмамс</l_ref>
+
+      <stg>
+        <st>юмамс-арамс</st>
+      </stg>
+
+      <phonet>jumams-arams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kadota</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>rappeutua</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhoutua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">юмафтомс-арафтомс</l>
+
+      <l_ref pos="V">юмафтомс</l_ref>
+
+      <stg>
+        <st>юмафтомс-арафтомс</st>
+      </stg>
+
+      <phonet>jumaftəms-araftəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>tuhota</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>viedä turmioon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс вальмятнень алга</l>
+
+      <phonet>jakams vaľmäťńəń alga</phonet>
+
+      <stg>
+        <st>якамс вальмятнень алга</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kerjätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс-шарондомс</l>
+
+      <l_ref pos="V">шарондомс</l_ref>
+
+      <stg>
+        <st>якамс-шарондомс</st>
+      </stg>
+
+      <phonet>jakams-šarəndəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>touhuta, hääriä, hyöriä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс-шарондомс</l>
+
+      <l_ref pos="V">якамс</l_ref>
+
+      <stg>
+        <st>якамс-шарондомс</st>
+      </stg>
+
+      <phonet>jakams-šarəndəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ahkeroida</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>touhuta</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>puuhailla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс-шяямс</l>
+
+      <l_ref pos="V">шяямс</l_ref>
+
+      <stg>
+        <st>якамс-шяямс</st>
+      </stg>
+
+      <phonet>jakams-šäjams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuljeksia, kulkea edestakaisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якамс-шяямс</l>
+
+      <l_ref pos="V">якамс</l_ref>
+
+      <stg>
+        <st>якамс-шяямс</st>
+      </stg>
+
+      <phonet>jakams-šäjams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>matkustella</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>vaeltaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якафтомс-тиемс</l>
+
+      <l_ref pos="V">тиемс</l_ref>
+
+      <stg>
+        <st>якафтомс-тиемс</st>
+      </stg>
+
+      <phonet>jakaftəms-ťijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>1. lopettaa (työ)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якафтомс-тиемс</l>
+
+      <l_ref pos="V">тиемс</l_ref>
+
+      <stg>
+        <st>якафтомс-тиемс</st>
+      </stg>
+
+      <phonet>jakaftəms-ťijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>pistäytyä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">якафтомс-тиемс</l>
+
+      <l_ref pos="V">якафтомс</l_ref>
+
+      <stg>
+        <st>якафтомс-тиемс</st>
+      </stg>
+
+      <phonet>jakaftəms-ťijəms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>päättää (työ)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ярхцамс-симомс</l>
+
+      <l_ref pos="V">ярхцамс</l_ref>
+
+      <stg>
+        <st>ярхцамс-симомс</st>
+      </stg>
+
+      <phonet>jarxcams-śiməms</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>ruokailla</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>aterioida</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ярхцафтомс кяль</l>
+
+      <l_ref pos="V">ярхцафтомс</l_ref>
+
+      <stg>
+        <st>ярхцафтомс кяль</st>
+      </stg>
+
+      <phonet>jarxcaftəms käľ</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>laverrella</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>lörpötellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">яфиесть кядьсост</l>
+
+      <l_ref pos="V">яфиемс</l_ref>
+
+      <stg>
+        <st>яфиесть кядьсост</st>
+      </stg>
+
+      <phonet>jafijəśť käcəst</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>huitoivat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">яфодемс пря</l>
+
+      <l_ref pos="V">яфодемс</l_ref>
+
+      <stg>
+        <st>яфодемс пря</st>
+      </stg>
+
+      <phonet>jafəďəms pŕä</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>nyökätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ётай-тии</l>
+
+      <l_ref pos="V">тиемс</l_ref>
+
+      <stg>
+        <st>ётай-тии</st>
+      </stg>
+
+      <phonet>jotaj-ťiji</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>niin pian kuin se on mennyt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ётамс-потамс</l>
+
+      <l_ref pos="V">ётамс</l_ref>
+
+      <stg>
+        <st>ётамс-потамс</st>
+      </stg>
+
+      <phonet>jotams-potams</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>kuljeskella</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>käyskennellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="V">ётафтомс эряфс</l>
+
+      <l_ref pos="V">ётафтомс</l_ref>
+
+      <stg>
+        <st>ётафтомс эряфс</st>
+      </stg>
+
+      <phonet>jotaftəms eŕafs</phonet>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>toteuttaa</t>
+      </tg>
+    </mg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t>saattaa täytäntöön</t>
+      </tg>
+    </mg>
+  </e>
 </r>
