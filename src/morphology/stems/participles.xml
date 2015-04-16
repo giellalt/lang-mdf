@@ -4,6 +4,52 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+  <e exclude="fst"> <lg><l pos="Prc">аф петеви</l><l_ref>петевомс</l_ref><stg><st>аф петеви</st></stg> <phonet>af peťəvi</phonet> </lg><mg><tg xml:lang="fin"><t>korjaamaton</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">аф петевикс</l><l_ref>петевомс</l_ref><stg><st>аф петевикс</st></stg> <phonet>af peťəviks</phonet> </lg><mg><tg xml:lang="fin"><t>parantumaton</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">аф тапавикс</l><l_ref>тапавомс</l_ref><stg><st>аф тапавикс</st></stg> <phonet>af tapaviks</phonet> </lg><mg><tg xml:lang="fin"><t>särkymätön</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">аф уленди</l><l_ref>улендемс</l_ref><stg><st>аф уленди</st></stg> <phonet>af uľəńďi</phonet> </lg><mg><tg xml:lang="fin"><t>epätodennäköinen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">вадяптф</l><l_ref>вадяптомс</l_ref><stg><st>вадяптф</st></stg> <phonet>vaďaptf</phonet> </lg><mg><tg xml:lang="fin"><t>tasoitettu, silitetty</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">васьфневи</l><l_ref>васьфневомс</l_ref><stg><st>васьфневи</st></stg> <phonet>vaśfńəvi</phonet> </lg><mg><tg xml:lang="fin"><t>on tavattavissa</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">горняй</l><l_ref>горнямс</l_ref><stg><st>горняй</st></stg> <phonet>goŕńäj</phonet> </lg><mg><tg xml:lang="fin"><t>helisevä, kilisevä; soliseva (vesi)</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">горняй-гарняй</l><l_ref>горнямс</l_ref><stg><st>горняй-гарняй</st></stg> <phonet>goŕńäj-gaŕńäj</phonet> </lg><mg><tg xml:lang="fin"><t>helähtelevä, kilahteleva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">дразняй</l><l_ref>дразнямс</l_ref><stg><st>дразняй</st></stg> <phonet>draźńäj</phonet> </lg><mg><tg xml:lang="fin"><t>ärsyttävä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">канневи</l><l_ref>канневомс</l_ref><stg><st>канневи</st></stg> <phonet>kanńəvi</phonet> </lg><mg><tg xml:lang="fin"><t>tuotava, vietävä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">кондясти</l><l_ref>кондястемс</l_ref><stg><st>кондясти</st></stg> <phonet>końďäśťi</phonet> </lg><mg><tg xml:lang="fin"><t>sopiva, kelvollinen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">коньф</l><l_ref>коньфтемс</l_ref><stg><st>коньф</st></stg> <phonet>końf</phonet> </lg><mg><tg xml:lang="fin"><t>suljettu (silmä)</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">кочкань</l><l_ref>кочкамс</l_ref><stg><st>кочкань</st></stg> <phonet>kočkań</phonet> </lg><mg><tg xml:lang="fin"><t>valikoitu; kerätty, poimittu</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">крхтай</l><l_ref>крхтамс</l_ref><stg><st>крхтай</st></stg> <phonet>kərxtaj</phonet> </lg><mg><tg xml:lang="fin"><t>polttava</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">кулоф</l><l_ref>куломс</l_ref><stg><st>кулоф</st></stg> <phonet>kuləf</phonet> </lg><mg><tg xml:lang="fin"><t>kuollut</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">ладяй</l><l_ref>ладямс</l_ref><stg><st>ладяй</st></stg> <phonet>laďäj</phonet> </lg><mg><tg xml:lang="fin"><t>sopiva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">лажнай</l><l_ref>лажнамс</l_ref><stg><st>лажнай</st></stg> <phonet>lažnaj</phonet> </lg><mg><tg xml:lang="fin"><t>sureva, murehtiva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">матотфты</l><l_ref>матотфтомс</l_ref><stg><st>матотфты</st></stg> <phonet>matətfti</phonet> </lg><mg><tg xml:lang="fin"><t>unettava, nukuttava</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">мкнай</l><l_ref>мкнамс</l_ref><stg><st>мкнай</st></stg> <phonet>məknaj</phonet> </lg><mg><tg xml:lang="fin"><t>honottava</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">модяряви</l><l_ref>модярявомс</l_ref><stg><st>модяряви</st></stg> <phonet>moďäŕavi</phonet> </lg><mg><tg xml:lang="fin"><t>lianarka, helposti likaantuva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">мяляфтови</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтови</st></stg> <phonet>mäľaftəvi</phonet> </lg><mg><tg xml:lang="fin"><t>ikimuistoinen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">мянцеви</l><l_ref>мянцевомс</l_ref><stg><st>мянцеви</st></stg> <phonet>mäńćəvi</phonet> </lg><mg><tg xml:lang="fin"><t>1. notkea, taipuisa, taittuva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">нильгоди</l><l_ref>нильгодемс</l_ref><stg><st>нильгоди</st></stg> <phonet>ńiľgəďi</phonet> </lg><mg><tg xml:lang="fin"><t>nirso</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">одс раштаф</l><l_ref>раштамс</l_ref><stg><st>одс раштаф</st></stg> <phonet>oc raštaf</phonet> </lg><mg><tg xml:lang="fin"><t>vastasyntynyt</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">осалонь арьси</l><l_ref>арьсемс</l_ref><stg><st>осалонь арьси</st></stg> <phonet>osaləń aŕśi</phonet> </lg><mg><tg xml:lang="fin"><t>pahansuopa</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">педи</l><l_ref>педемс</l_ref><stg><st>педи</st></stg> <phonet>peďi</phonet> </lg><mg><tg xml:lang="fin"><t>tarttuva, tahmainen, liimainen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">пеетьфти</l><l_ref>пеетьфтемс</l_ref><stg><st>пеетьфти</st></stg> <phonet>pejəťfti</phonet> </lg><mg><tg xml:lang="fin"><t>hassu, hauska, huvittava</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">пиндолды</l><l_ref>пиндолдомс</l_ref><stg><st>пиндолды</st></stg> <phonet>pindəldi</phonet> </lg><mg><tg xml:lang="fin"><t>loistava, säihkyvä; loistokas, loistelias</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">полафты</l><l_ref>полафтомс</l_ref><stg><st>полафты</st></stg> <phonet>polafti</phonet> </lg><mg><tg xml:lang="fin"><t>sijainen, vara-</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">пяшкодемшка</l><l_ref>пяшкодемс</l_ref><stg><st>пяшкодемшка</st></stg> <phonet>päškəďəmška</phonet> </lg><mg><tg xml:lang="fin"><t>suoritettavissa oleva</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">рьвяяф</l><l_ref>рьвяямс</l_ref><stg><st>рьвяяф</st></stg> <phonet>əŕväjaf</phonet> </lg><mg><tg xml:lang="fin"><t>naimisissa oleva/nainut (mies)</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">сай</l><l_ref>самс</l_ref><stg><st>сай</st></stg> <phonet>saj</phonet> </lg><mg><tg xml:lang="fin"><t>tuleva, seuraava, ensi</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">сизеф</l><l_ref>сиземс</l_ref><stg><st>сизеф</st></stg> <phonet>śiźəf</phonet> </lg><mg><tg xml:lang="fin"><t>väsynyt</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">синнеф-мянцеф</l><l_ref>синнемс</l_ref><stg><st>синнеф-мянцеф</st></stg> <phonet>śińńəf-mäńćəf</phonet> </lg><mg><tg xml:lang="fin"><t>murentunut</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">тапавикс</l><l_ref>тапавомс</l_ref><stg><st>тапавикс</st></stg> <phonet>tapaviks</phonet> </lg><mg><tg xml:lang="fin"><t>särkyvä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">тюри</l><l_ref>тюремс</l_ref><stg><st>тюри</st></stg> <phonet>ťuŕi</phonet> </lg><mg><tg xml:lang="fin"><t>tappeleva, tappelualtis</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">удалаф</l><l_ref>удаламс</l_ref><stg><st>удалаф</st></stg> <phonet>udalaf</phonet> </lg><mg><tg xml:lang="fin"><t>onnekas, menestyksekäs</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">удалаф</l><l_ref>удаламс</l_ref><stg><st>удалаф</st></stg> <phonet>udalaf</phonet> </lg><mg><tg xml:lang="fin"><t>onnistunut</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">уратф</l><l_ref>урадомс</l_ref><stg><st>уратф</st></stg> <phonet>uratf</phonet> </lg><mg><tg xml:lang="fin"><t>tuhottu</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">ускф</l><l_ref>ускомс</l_ref><stg><st>ускф</st></stg> <phonet>uskf</phonet> </lg><mg><tg xml:lang="fin"><t>kuljetettu</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">шарфневи</l><l_ref>шарфневомс</l_ref><stg><st>шарфневи</st></stg> <phonet>šarfńəvi</phonet> </lg><mg><tg xml:lang="fin"><t>vilkas, eloisa, vikkelä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">шарьхкодеви</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодеви</st></stg> <phonet>šaŕxkəďəvi</phonet> </lg><mg><tg xml:lang="fin"><t>ymmärrettävä, käsitettävä, selvä</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">шарьхкоди</l><l_ref>шарьхкодемс</l_ref><stg><st>шарьхкоди</st></stg> <phonet>šaŕxkəďi</phonet> </lg><mg><tg xml:lang="fin"><t>älykäs, hoksaavainen</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">шочай</l><l_ref>шочамс</l_ref><stg><st>шочай</st></stg> <phonet>šočaj</phonet> </lg><mg><tg xml:lang="fin"><t>oikullinen, oikukas</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">эряви</l><l_ref>эрявомс</l_ref><stg><st>эряви</st></stg> <phonet>eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t>tarpeellinen, tarvittava</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Prc">явови</l><l_ref>явовомс</l_ref><stg><st>явови</st></stg> <phonet>javəvi</phonet> </lg><mg><tg xml:lang="fin"><t>jaettava, jaollinen</t></tg></mg></e>
   <e>
       <lg>
          <l>абонф</l>
