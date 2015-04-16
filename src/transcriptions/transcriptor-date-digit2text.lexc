@@ -44,48 +44,88 @@ LEXICON Root
 ! For each month: First the normative, then the non-normatives, then initial capital
 
 @U.MONTH.1@:кельмековонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:январьговонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:январь% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.1@:январьговонь+Use/NG% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.1@:январь% ковонь+Use/NG% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.1@:Кельмековонь+Use/NG% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.1@:Январьговонь+Use/NG% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.1@:Январь% ковонь+Use/NG% @U.MONTH.1@ 31DAYS ;
 
-@U.MONTH.1@:уфайковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:февральковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:февраль% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.2@:уфайковонь% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.2@:февральковонь+Use/NG% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.2@:февраль% ковонь+Use/NG% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.2@:Уфайковонь+Use/NG% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.2@:Февральковонь+Use/NG% @U.MONTH.2@ 29DAYS ;
+@U.MONTH.2@:Февраль% ковонь+Use/NG% @U.MONTH.2@ 29DAYS ;
 
-@U.MONTH.1@:марайковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:марковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:март% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.3@:марайковонь% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.3@:марковонь+Use/NG% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.3@:март% ковонь+Use/NG% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.3@:Марайковонь+Use/NG% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.3@:Марковонь+Use/NG% @U.MONTH.3@ 31DAYS ;
+@U.MONTH.3@:Март% ковонь+Use/NG% @U.MONTH.3@ 31DAYS ;
 
-@U.MONTH.1@:шудиковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:апрельковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:апрель% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.4@:шудиковонь% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.4@:апрельковонь+Use/NG% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.4@:апрель% ковонь+Use/NG% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.4@:Шудиковонь+Use/NG% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.4@:Апрельковонь+Use/NG% @U.MONTH.4@ 30DAYS ;
+@U.MONTH.4@:Апрель% ковонь+Use/NG% @U.MONTH.4@ 30DAYS ;
 
-@U.MONTH.1@:панжиковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:майговонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:май% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.5@:панжиковонь% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.5@:майговонь+Use/NG% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.5@:май% ковонь+Use/NG% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.5@:Аанжиковонь+Use/NG% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.5@:Майговонь+Use/NG% @U.MONTH.5@ 31DAYS ;
+@U.MONTH.5@:Май% ковонь+Use/NG% @U.MONTH.5@ 31DAYS ;
 
-@U.MONTH.1@:лямбековонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:июньковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:июнь% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.6@:лямбековонь% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.6@:июньковонь+Use/NG% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.6@:июнь% ковонь+Use/NG% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.6@:Лямбековонь+Use/NG% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.6@:Июньковонь+Use/NG% @U.MONTH.6@ 30DAYS ;
+@U.MONTH.6@:Июнь% ковонь+Use/NG% @U.MONTH.6@ 30DAYS ;
 
-@U.MONTH.1@:псиковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:июльковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:июль% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.7@:псиковонь% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.7@:июльковонь+Use/NG% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.7@:июль% ковонь+Use/NG% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.7@:Псиковонь+Use/NG% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.7@:Июльковонь+Use/NG% @U.MONTH.7@ 31DAYS ;
+@U.MONTH.7@:Июль% ковонь+Use/NG% @U.MONTH.7@ 31DAYS ;
 
-@U.MONTH.1@:сёроньковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:августковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:август% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.8@:сёроньковонь% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.8@:августковонь+Use/NG% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.8@:август% ковонь+Use/NG% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.8@:Сёроньковонь+Use/NG% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.8@:Августковонь+Use/NG% @U.MONTH.8@ 31DAYS ;
+@U.MONTH.8@:Август% ковонь+Use/NG% @U.MONTH.8@ 31DAYS ;
 
-@U.MONTH.1@:тюжяговонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:сентябрьковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:сентябрь% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.9@:тюжяговонь% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.9@:сентябрьковонь+Use/NG% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.9@:сентябрь% ковонь+Use/NG% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.9@:Тюжяговонь+Use/NG% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.9@:Сентябрьковонь+Use/NG% @U.MONTH.9@ 30DAYS ;
+@U.MONTH.9@:Сентябрь% ковонь+Use/NG% @U.MONTH.9@ 30DAYS ;
 
-@U.MONTH.1@:эйендамковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:ноябрьковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:ноябрь% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.10@:кельмазаковонь% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.10@:октябрьковонь+Use/NG% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.10@:октябрь% ковонь+Use/NG% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.10@:Кельмазаковонь+Use/NG% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.10@:Октябрьковонь+Use/NG% @U.MONTH.10@ 31DAYS ;
+@U.MONTH.10@:Октябрь% ковонь+Use/NG% @U.MONTH.10@ 31DAYS ;
 
-@U.MONTH.1@:кучкаковонь% @U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:декабрьковонь%_@U.MONTH.1@ 31DAYS ;
-@U.MONTH.1@+Use/NG:декабрь% ковонь% @U.MONTH.1@ 31DAYS ;
+@U.MONTH.11@:эйндамковонь% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.11@:ноябрьковонь+Use/NG% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.11@:ноябрь% ковонь+Use/NG% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.11@:Эйндамковонь+Use/NG% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.11@:Ноябрьковонь+Use/NG% @U.MONTH.11@ 30DAYS ;
+@U.MONTH.11@:Ноябрь% ковонь+Use/NG% @U.MONTH.11@ 30DAYS ;
+
+@U.MONTH.12@:кучкаковонь% @U.MONTH.12@ 31DAYS ;
+@U.MONTH.12@:декабрьковонь+Use/NG% @U.MONTH.12@ 31DAYS ;
+@U.MONTH.12@:декабрь% ковонь+Use/NG% @U.MONTH.12@ 31DAYS ;
+@U.MONTH.12@:Кучкаковонь+Use/NG% @U.MONTH.12@ 31DAYS ;
+@U.MONTH.12@:Декабрьковонь+Use/NG% @U.MONTH.12@ 31DAYS ;
+@U.MONTH.12@:Декабрь% ковонь+Use/NG% @U.MONTH.12@ 31DAYS ;
 
 
 LEXICON 29DAYS
