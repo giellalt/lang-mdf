@@ -308,13 +308,31 @@ LEXICON NMN_КАЛ-PL
 ! PXPL3 ;
 
 LEXICON NMN_ОШ
- 	NMN_КАЛ		;
+!	NMN_КАЛ-SG	;
+!	NMN_КАЛ-PL	;
+!	NMN_КАЛ-SG/PL	;
+        NMN-SG ;
+        NMN-PL ;
+        NMN-SG/PL       ;
+
 
 LEXICON NMN_ОШ-SG
- 	NMN_КАЛ-SG	;
+!! Indefinite
+! SG-NOM ;
+!! Definite Sg
+! SGCXDEF ;
+! PXSG1-Sg ;
++Sg+Nom+Indef+Foc/вок:%>г%{АОЕ%} K ;
+        NMN-SG ;
+        NMN-SG/PL       ;
 
 LEXICON NMN_ОШ-PL
- 	NMN_КАЛ-PL	;
+!! Indefinite
+! PL-NOM ;
+!! Definite Pl
+! PLCXDEF ;
+        NMN-PL       ;
+        NMN-SG/PL       ;
 
 !LEXICON NMN_ОШ-SG/PL
 ! 	NMN_КАЛ-SG/PL	;
@@ -355,7 +373,43 @@ LEXICON NMN-SG/PL
  PXPL2 ;
  PXPL3 ;
 
+!!!
+LEXICON MUTUAL_NMN-SG
+ SG-NOM ;
+!! Definite Sg
+ SGCXDEF ;
+!! Possessor Indices
+ SG-CX-PXSG1 ;
+ SG-CX-PXSG2 ;
+ SG-CX-PXSG3 ;
 
+LEXICON MUTUAL_NMN-PL
+ PL-NOM ;
+!! Definite Pl
+ PLCXDEF ;
+!! Possessor Indices
+! PXSG1-Pl ;
+ PL-CX-PXSG1 ;
+ PL-CX-PXSG2 ;
+ PL-CX-PXSG3 ;
+
+LEXICON MUTUAL_NMN-SG/PL
+ NOTDEF-GEN ;
+ NOTDEF-DAT ;
+ NOTDEF-ABL ;
+ NOTDEF-ILL ;
+ NOTDEF-INE ;
+ NOTDEF-ELA ;
+ NOTDEF-ABE ;
+ NOTDEF-TRA ;
+ NOTDEF-CMP ;
+ NOTDEF-PRL ;
+!! Possessor Indices
+ PXPL1 ;
+ PXPL2 ;
+ PXPL3 ;
+
+!!!
 
 
 
@@ -417,6 +471,7 @@ LEXICON PXPL3
 +SP+Dat+PxPl3:%>снО1%>О1нды K_вок ;
 
 
+
 LEXICON SG-NOM
 +Sg+Nom+Indef: K ;
 
@@ -451,6 +506,50 @@ LEXICON NOTDEF-CMP
 LEXICON NOTDEF-PRL
 +SP+Prl:%>Г2а Choose-INDEF-OBLPX-ava ;
 
+!!!
+
+LEXICON SG-NOM-INDEF
++Sg+Nom+Indef: K ;
+
+LEXICON SP-GEN-INDEF_нь
++SP+Gen+Indef:%>нь K_ГА ;
+
+LEXICON SP-DAT-INDEF_нди
++SP+Dat+Indef:%>нди K_вок ;
+
+LEXICON SP-ABL-INDEF_да
++SP+Abl:%>дО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SP-ILL-INDEF_с
++SP+Ill+Indef:%>с K_ГА ;
++SP+Ill:%>О1з OBLIQUECX-PX-osh ; 
+
+LEXICON SP-INE-INDEF_са
++SP+Ine:%>сО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SP-ELA-INDEF_ста
++SP+Ela:%>стО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SP-ABE-INDEF_фтома
++SP+Abe:%>фтомО1 Choose-INDEF-OBLPX-ava ;
+
+LEXICON SP-TRA-INDEF_кс
++SP+Tra+Indef:%>кс K_ГА ;
+
+LEXICON SP-CMP-INDEF_шка
++SP+Comp:%>шка Choose-INDEF-OBLPX-ava ;
+
+LEXICON SP-PRL-INDEF_ва
++SP+Prl:%>ва Choose-INDEF-OBLPX-ava ;
+LEXICON SP-PRL-INDEF_га
++SP+Prl:%>га Choose-INDEF-OBLPX-ava ;
+LEXICON SP-PRL-INDEF_ка
++SP+Prl:%>ка Choose-INDEF-OBLPX-ava ;
+
+LEXICON PL-NOM-INDEF
++Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K_ГА ;
+
+!!!
 !
 LEXICON PL-NOM
 +Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K_ГА ;
