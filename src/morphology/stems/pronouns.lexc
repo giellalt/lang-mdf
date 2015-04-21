@@ -9,7 +9,7 @@ LEXICON pronouns
 кама:кама PRON_  "" ;
 кама-бъди:кама-бъди PRON_  "" ;
 кати-кие:кати-кие PRON_  "joku" ;
-кати-мезе:кати-мезе PRON_  "jokin" ;
+кати-мезе:кати-мезе PRON-INDEF_КАТИ-МЕЗЕ  "jokin" ;
 кати-мезьса:кати-мезьса PRON_  "" ;
 кати-мезяма:кати-мезяма PRON_  "" ;
 кивок:кивок PRON_  "joku; kukaan" ;
@@ -29,7 +29,7 @@ LEXICON pronouns
 кой-кит:кой-кит PRON_  "" ;
 кой-кодама:кой-кодама PRON_  "jonkinlainen" ;
 кой-кона:кой-кона PRON_  "joku, eräs" ;
-кой-мезе:кой-мезе PRON_  "jokin, jotakin" ;
+кой-мезе:кой-мезе PRON-INDEF_КАТИ-МЕЗЕ  "jokin, jotakin" ;
 колган:колган PRON-X-PXSG1  "minusta" ;
 колгат:колгат PRON-X-PXSG2  "sinusta" ;
 колганза:колганза PRON-X-PXSG3  "hänestä" ;
@@ -51,7 +51,7 @@ LEXICON pronouns
 мархтонк:мархтонк PRON-COM-PXPL1  "kanssamme" ;
 мархтонт:мархтонт PRON-COM-PXPL2  "kanssanne" ;
 мархтост:мархтост PRON-COM-PXPL3  "heidän kanssaan" ;
-мезе:мезе PRON_  "(se) mikä" ;
+мезе:мезе PRON-INTERR-OBJ_МЕЗЕ  "(se) mikä" ;
 мезь:мезь PRON_  "" ;
 мезьге:мезьге PRON_  "" ;
 мезьда:мезьда PRON_  "" ;

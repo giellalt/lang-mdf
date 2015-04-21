@@ -142,26 +142,56 @@ LEXICON PRON-DEM-SG
 +Sg+Nom: K_вок ;
 +Pl+Nom:%>тЬ2 K_ГА ;
 
-
+!! INDEFINITE PRONOUNS
 LEXICON PRON-INDEF
 +Pron+Indef: WORD-END ;
 
+LEXICON PRON-INDEF_КАТИ-МЕЗЕ
+!! кати-мезе, кой-мезе
++Pron+Indef: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
++Pron+Indef+Sg+Nom: WORD-END ;
+
+LEXICON PRON-INDEF_МЕЗЕ-БДИ
++Pron+Indef+SP: PRON-INDEF_МЕЗЕ-БДИ-SG ;
++Pron+Indef+Sg+Nom: PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
+
+LEXICON PRON-INDEF_МЕЗЕ-БДИ-SG
++Abe:%>фтомО1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Cau:нкса PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Com:%>шка PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++DatCx:%>нди PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Ela:%>стО1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Gen:%>ньге WORD-END ;
++Gen:%>нь%-бди WORD-END ;
++Ill:%>ска WORD-END ;
++Ill:%>с%-бди WORD-END ;
++Ine:%>сО1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Prl:%>ва PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Tra:%>кска WORD-END ;
++Tra:%>кс%-бди WORD-END ;
+
+LEXICON PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК
+:%>вок WORD-END ;
+:%-бди WORD-END ;
+
 LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
+ PRON-INDEF_МЕЗЕ-БДИ ;
 !+Pron+Interr+Sem/Obj: PossPX1-NomSg ;
 !+Pron+Interr+Sem/Obj: PossPX1 ;
-+Pron+Interr+Sem/Obj: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
++Pron+Interr+Sem/Obj+SP: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
 !+Pron+Interr+Sem/Obj: DER/PR_SG ; !!= @CODE@ singular
 +Pron+Interr+Sem/Obj+Sg+Nom: WORD-END ; !!= * __@CODE@__ 2014-11-16
 
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
-+Abe:%>фтО1мО1 WORD-END ;
++Abe:%>фтома WORD-END ;
++Cau:нкса WORD-END ;
 +Com:%>шка WORD-END ;
-+DatCx:%>О1нди WORD-END ;
-+Ela:%>стО1 WORD-END ;
++DatCx:%>нди WORD-END ;
++Ela:%>ста WORD-END ;
 +Gen:%>нь WORD-END ;
 +Ill:%>с WORD-END ;
-+Ine:%>сО1 WORD-END ;
++Ine:%>са WORD-END ;
 +Prl:%>ва WORD-END ;
 +Tra:%>кс WORD-END ;
 
