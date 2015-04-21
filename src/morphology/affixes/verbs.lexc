@@ -23,8 +23,15 @@ LEXICON TV_КУНДАМС
 LEXICON TV_АНДОМС
 +V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АНДОМС ;
 
+LEXICON TV_ПАЧКОДЕМС
+!! пачкодемс:пачкодь
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ПАЧКОДЕМС ;
+
 LEXICON TV_ТИЕМС
 +V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ТИЕМС ;
+
+LEXICON TV_НЯЕМС
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ТИЕМС ; !CHECK
 
 LEXICON TV_НЯФТЕМС_SUB
 +Err/Orth: TV_НЯФТЕМС ;
@@ -48,6 +55,10 @@ LEXICON IV_АНДОМС
 !! андомс:анд
 +V+IV: V0_АНДОМС ;
 
+LEXICON IV_ПАЧКОДЕМС
+!! пачкодемс:пачкодь
++V+IV: V0_ПАЧКОДЕМС ;
+
 LEXICON IV_НЯФТЕМС
 +V+IV: V0_НЯФТЕМС ;
 
@@ -69,6 +80,11 @@ LEXICON V0_КУНДАМС
  Non-Finite-Cns ;
 
 LEXICON V0_АНДОМС
+ VERBAL-CONJUGATIONS-ALL ;
+:%>О1 Non-Finite-Vws ;
+ Non-Finite-Cns ;
+
+LEXICON V0_ПАЧКОДЕМС
  VERBAL-CONJUGATIONS-ALL ;
 :%>О1 Non-Finite-Vws ;
  Non-Finite-Cns ;

@@ -203,10 +203,16 @@ LEXICON PROP-PLC_КУДО !!≈ * __@CODE@__ ending in vowel
 +N+Prop+Sem/Plc: NMN_АВА ;
 
 
+
 !!!!!!!!!!!!!!!!
 !! PROPER NOUNS 
 !!!!!!!!!!!!!!!!
+LEXICON PROP-PLC_АВА !!≈ * __@CODE@__ ending in vowel
++N+Prop+Sem/Plc: NMN_АВА ;
 
+
+LEXICON PROP_АВА !!≈ * __@CODE@__ ending in vowel
++N+Prop: NMN_АВА ;
 
 
 LEXICON PROP
