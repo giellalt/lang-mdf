@@ -574,6 +574,16 @@ LEXICON OBLIQUECX-PX-kal
 +PxPl2:%>О1нт K_овок ;
 +PxPl3:%>ст K_ГА ;
 
+LEXICON OBLIQUECX-PX-REQUIRES-VOWEL
++PxSg1:%>н K_ГА ;
++PxSg3:%>нзО1 K_вок ;
++PxPl1:%>нк K_овок ;
++PxPl2:%>нт K_овок ;
+LEXICON OBLIQUECX-PX-REQUIRES-NO-VOWEL
++PxSg2:%>т K_ГА ;
++PxPl3:%>ст K_ГА ;
+
+
 LEXICON Choose-INDEF-OBLPX-osh
 +Indef: K_ГА ;
  OBLIQUECX-PX-osh ;

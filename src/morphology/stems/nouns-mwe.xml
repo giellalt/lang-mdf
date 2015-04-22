@@ -82,26 +82,6 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="N">Гамлетонь роленц налхкиец</l>
-
-      <l_ref>налхки</l_ref>
-
-      <stg>
-        <st>Гамлетонь роленц налхкиец</st>
-      </stg>
-
-      <phonet>gamľetəń roľənc nalxkijəc</phonet>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t>Hamletin (roolin) esittäjä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
       <l pos="N">Каргонь ки</l>
 
       <l_ref>карга</l_ref>
@@ -124,7 +104,7 @@
     <lg>
       <l pos="N">Мациень ки</l>
 
-      <l_ref>маци</l_ref>
+      <l_ref pos="N">маци</l_ref>
 
       <stg>
         <st>Мациень ки</st>

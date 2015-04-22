@@ -163,16 +163,20 @@ LEXICON PRON-INDEF_МЕЗЕ-БДИ-SG
 +Ela:%>стО1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Gen:%>ньге WORD-END ;
 +Gen:%>нь%-бди WORD-END ;
++Gen:%>нь%-повсь WORD-END ;
 +Ill:%>ска WORD-END ;
 +Ill:%>с%-бди WORD-END ;
++Ill:%>с%-повсь WORD-END ;
 +Ine:%>сО1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Prl:%>ва PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Tra:%>кска WORD-END ;
 +Tra:%>кс%-бди WORD-END ;
++Tra:%>кс%-повсь WORD-END ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК
 :%>вок WORD-END ;
 :%-бди WORD-END ;
+:%-повсь WORD-END ;
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
  PRON-INDEF_МЕЗЕ-БДИ ;
