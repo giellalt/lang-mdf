@@ -34,6 +34,7 @@ LEXICON adpositions
 инкса:инкса PO_  "takia" ;
 каршес:каршес PO_  "" ;
 каршеса:каршеса PO_  "" ;
+квалма:квалма PO_КВАЛМА  "" ;
 келева:келева PO_  "" ;
 келес:келес PO_  "" ;
 кодяма:кодяма PO_  "kaltainen" ;
@@ -75,15 +76,15 @@ LEXICON adpositions
 мельге:мельге PO_  "perässä" ;
 пачк:пачк PO_  "1. puoliksi, kahtia. 2. läpi, lävitse; puhki" ;
 пачка:пачка PO_  "läpi" ;
-пе:пе PO_  "loppu" ;
+пе:пе N_АВА  "loppu" ;
 пингова:пингова PO_  "" ;
-потмова:потмова PO_  "" ;
+потмова:потмова PO_PRL_  "" ;
 потмос:потмос PO_  "" ;
 потмоса:потмоса PO_  "" ;
 потмоста:потмоста PO_  "" ;
 потму:потму PO_  "" ;
 пряв:пряв PO_  "" ;
-прява:прява PO_  "pintapuolisesti" ;
+прява:прява PO_PRL_  "pintapuolisesti" ;
 пряса:пряса PO_  "päässä" ;
 пряста:пряста PO_  "päästä" ;
 пяле:пяле PO_  "puoli" ;
@@ -119,7 +120,7 @@ LEXICON adpositions
 ширеста:ширеста PO_  "" ;
 шири:шири PO_  "" ;
 ширьге:ширьге PO_  "sivussa" ;
-шумбаз:шумбаз PO_  "jänis (Lepus)" ;
+шумбаз:шумбаз N_ОШ  "jänis (Lepus)" ;
 эзга:эзга PO_  "myöten" ;
 эзда:эзда PO_  "-sta" ;
 эздода:эздода PO_  "" ;
@@ -134,7 +135,7 @@ LEXICON adpositions
 ёжес:ёжес PO_  "luo" ;
 ёжеса:ёжеса PO_  "luona" ;
 ёжеста:ёжеста PO_  "luota" ;
-ёнга:ёнга PO_  "(kulkea) läheltä" ;
+ёнга:ёнга PO_PRL_  "(kulkea) läheltä" ;
 ёну:ёну PO_  "" ;
 ёнца:ёнца PO_  "suunnalla" ;
 ёткова:ёткова PO_  "" ;

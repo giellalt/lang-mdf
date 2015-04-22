@@ -46926,7 +46926,7 @@
       <l pos="N">кельмовай</l>
 
       <stg>
-        <st Contlex="N_КАЛ">кельмовай</st>
+        <st Contlex="N_КАЛ">кельмо#вай</st>
       </stg>
     </lg>
 
@@ -46983,60 +46983,6 @@
         <t pos="N">usko</t>
 
         <t pos="N">luottamus</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">кемголмуцесь</l>
-
-      <stg>
-        <st Contlex="N_">кемголмуцесь</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">кемготоцесь</l>
-
-      <stg>
-        <st Contlex="N_">кемготоцесь</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">кемзисемцесь</l>
-
-      <stg>
-        <st Contlex="N_">кемзисемцесь</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
       </tg>
     </mg>
   </e>
@@ -68372,7 +68318,7 @@
       <l pos="N">лофцопанчф</l>
 
       <stg>
-        <st Contlex="N_КАЛ">лофцопанчф</st>
+        <st Contlex="N_КАЛ">лофцо#панчф</st>
       </stg>
     </lg>
 
@@ -77293,26 +77239,6 @@
 
   <e>
     <lg>
-      <l pos="N">мрга</l>
-
-      <stg>
-        <st Contlex="N_">мрга</st>
-
-        <st Contlex="N_" status="Use/SpellNoSugg">мърга</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">мрдама</l>
 
       <stg>
@@ -79228,7 +79154,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N">pyyhe(liina)</t>
+        <t pos="N">pyyheliina</t>
+        <t pos="N">pyyhe</t>
       </tg>
 
       <xg>
@@ -81040,7 +80967,7 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="N"/>
+        <t pos="N">jälkitauti</t>
       </tg>
 
       <xg>
@@ -81066,26 +80993,6 @@
 
         <xt xml:lang="fin">itselleen hän harmia saa noin tekemällä</xt>
       </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">ниже</l>
-
-      <stg>
-        <st Contlex="N_">ниже</st>
-      </stg>
-    </lg>
-
-    <phonet>ńižä</phonet>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N">jälkitauti</t>
-      </tg>
     </mg>
   </e>
 
@@ -102652,7 +102559,8 @@
 
         <phonet>pulə marxtə ťäšťä</phonet>
 
-        <xt xml:lang="fin">pyrstötähti, komeetta</xt>
+        <xt xml:lang="fin">pyrstötähti</xt>
+        <xt xml:lang="fin">komeetta</xt>
       </xg>
 
       <xg>
@@ -104441,26 +104349,6 @@
 
   <e>
     <lg>
-      <l pos="N">пзьгата</l>
-
-      <stg>
-        <st Contlex="N_">пзьгата</st>
-
-        <st Contlex="N_" status="Use/SpellNoSugg">пъзьгата</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">пкама</l>
 
       <stg>
@@ -104487,26 +104375,6 @@
         <st Contlex="N_АВА">плкштыема</st>
 
         <st Contlex="N_АВА" status="Use/SpellNoSugg">пълкштыема</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">плманжа</l>
-
-      <stg>
-        <st Contlex="N_">плманжа</st>
-
-        <st Contlex="N_" status="Use/SpellNoSugg">пълманжа</st>
       </stg>
     </lg>
 

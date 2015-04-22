@@ -909,6 +909,24 @@
 
   <e>
     <lg>
+      <l pos="Po">квалма</l>
+
+      <stg>
+        <st Contlex="PO_КВАЛМА">квалма</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Po"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Po">келева</l>
 
       <stg>
@@ -1939,10 +1957,10 @@
 
   <e>
     <lg>
-      <l pos="Po">пе</l>
+      <l pos="N">пе</l>
 
       <stg>
-        <st Contlex="PO_">пе</st>
+        <st Contlex="N_АВА">пе</st>
       </stg>
     </lg>
 
@@ -2045,7 +2063,7 @@
       <l pos="Po">потмова</l>
 
       <stg>
-        <st Contlex="PO_">потмова</st>
+        <st Contlex="PO_PRL_">потмова</st>
       </stg>
     </lg>
 
@@ -2153,7 +2171,7 @@
       <l pos="Po">прява</l>
 
       <stg>
-        <st Contlex="PO_">прява</st>
+        <st Contlex="PO_PRL_">прява</st>
       </stg>
     </lg>
 
@@ -2992,10 +3010,10 @@
 
   <e>
     <lg>
-      <l pos="Po">шумбаз</l>
+      <l pos="N">шумбаз</l>
 
       <stg>
-        <st Contlex="PO_">шумбаз</st>
+        <st Contlex="N_ОШ">шумбаз</st>
       </stg>
     </lg>
 
@@ -3004,7 +3022,7 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t pos="Po">jänis (Lepus)</t>
+        <t pos="N">jänis (Lepus)</t>
       </tg>
 
       <xg>
@@ -3390,7 +3408,7 @@
       <l pos="Po">ёнга</l>
 
       <stg>
-        <st Contlex="PO_">ёнга</st>
+        <st Contlex="PO_PRL_">ёнга</st>
       </stg>
     </lg>
 
