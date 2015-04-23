@@ -29,8 +29,10 @@ __Pronouns:__
  ;+Dem 		: demonstrative
  ;+Indef 	: indefinite
  ;+Dep 		: dependent word requiring the presence of another, e.g. __мень__
+ ;+Exclusive	: ськамонза
  ;+Intensive: intensive pronoun
  ;+Interr 	: interrogative
+ ;+PerifMod	: periferal modifier ськамонза, кавонест
  ;+Pers 		: personal
  ;+Recipr 	: reciprocal
  ;+Refl 		: reflexive
@@ -294,8 +296,17 @@ symbols in the lexicon files:
 О1:о О1:а О1:е
   Х1 	 Х1:х Х1:0
   Ь2 	 Ь2:ь Ь2:0
+  Ъ2	 occurs in first syllable and is not written in the Moksha orthography, 
+in ped realized as hard sign
 
 And following triggers to control variation
+ %^Ь2ZERO	 removes soft sign before vowel or other combination
+ %^Ъ2PED		 brings out hard sign, which is otherwise automatically removed
+ %^Е2О		 Change stem-final vowel сембе:сембось
+ %^Е2А		 Change stem-final vowel мельге:мельганза
+ %^Я2А		 Change stem-final vowel рьвя:рьванц
+ %^Devoice	 for devoicing изь:исть
+
 
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -354,7 +365,11 @@ These have been slightly modified from kpv and myv
 
 
 
-мельга:мельга
+
+ * LEXICON PO-PRL_ЁНГА  ёнга:ёнга
+
+ * LEXICON PO-PRL_МЕЛЬГЕ  мельге:мельге
+
 
 
 

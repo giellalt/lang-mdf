@@ -199,6 +199,27 @@ LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
 +Prl:%>ва WORD-END ;
 +Tra:%>кс WORD-END ;
 
+LEXICON PRON-QNT_СЕМБЕ
++Pron+Qnt+Pl+Nom+Indef:%^Е2О%>т WORD-END ;
++Pron+Qnt+SP+Abl+Indef:%^Е2О%>дО1 K_НГА ;
++Pron+Qnt+SP+Cau+Indef:%^Е2О%>нкса WORD-END ;
++Pron+Qnt+SP+Dat+Indef:%^Е2О%>нди WORD-END ;
++Pron+Qnt+SP+Gen+Indef:%^Е2О%>нь WORD-END ;
++Pron+Qnt+SP+Ine+Indef:%^Е2О%>сО1 K_вок ;
++Pron+Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
++Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть WORD-END ;
++Pron+Qnt+Sg+Nom+Indef: WORD-END ;
++Pron+Qnt+Sg+Nom+Def:%^Е2О%>сь WORD-END ;
+ SG-CX-PXSG1 ;
+ SG-CX-PXSG2 ;
+ SG-CX-PXSG3 ;
+ PXPL1 ;
+ PXPL2 ;
+ PXPL3 ;
+
+LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськам
++Pron+Exclusive+PerifMod:О1 OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Exclusive+PerifMod:О1 OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PRON-REL_АВА
 +Pron+Rel: NMN-SG ;
