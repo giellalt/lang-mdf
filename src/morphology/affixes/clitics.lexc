@@ -22,6 +22,12 @@ LEXICON K_ГА
 +Foc/вок:%>г%{АОЕ%} WORD-END ;
  K ;
 
+LEXICON K_НГА
+!! This is for Consonant-final words
+!+Foc/Ге:%>г%{АОЕ%} # ;
++Foc/вок:%>нг%{АОЕ%} WORD-END ;
+ K ;
+
 LEXICON K
     WORD-END ; 
 

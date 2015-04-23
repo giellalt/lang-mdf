@@ -38,6 +38,17 @@
 
 
 
+  Ъ2:0	 occurs in first syllable and is not written in the Moksha orthography, 
+in ped realized as hard sign
+
+!!TRIGGERS
+ %^Ь2ZERO:0	 removes soft sign before vowel or other combination
+ %^Ъ2PED:0	 brings out hard sign, which is otherwise automatically removed
+ %^Е2О:0		 Change stem-final vowel сембе:сембось
+ %^Е2А:0		 Change stem-final vowel мельге:мельганза
+ %^Я2А:0		 Change stem-final vowel рьвя:рьванц
+ %^Devoice:0	 for devoicing изь:исть
+
 
  * {{ %- }} – Hyphen with constructions like "-buti"
  * {{ %> }} – conjugation/declension morpheme boundary suffix
@@ -117,6 +128,12 @@ __0:j__
 __е:0__
 
 
+__е:о__
+
+__е:а__
+
+__я:а__
+
 __O1:a__  
 
 
@@ -165,10 +182,13 @@ __н:т окун__
 
 __d:t__  
 
+__з:с__
+
 __ж:ч панчсь__
 
 
 __г:к__
+
 
 __с:ц ломань:ломанць__  
 
@@ -221,8 +241,6 @@ __s:0__
 __y:0__  
 plural
 
-
-
 __U2:0__  
 
 __U2:o__  
@@ -242,6 +260,8 @@ __%{DIM%}:н__
 __%{DIM%}:к__
 
 
+
+__Ъ2:ъ__
 
 !!Disallow
 

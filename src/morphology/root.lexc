@@ -47,8 +47,10 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Dem 		!!≈ ;@CODE@: demonstrative
  +Indef 	!!≈ ;@CODE@: indefinite
  +Dep 		!!≈ ;@CODE@: dependent word requiring the presence of another, e.g. __мень__
+ +Exclusive	!!≈ ;@CODE@: ськамонза
  +Intensive !!≈ ;@CODE@: intensive pronoun
  +Interr 	!!≈ ;@CODE@: interrogative
+ +PerifMod	!!≈ ;@CODE@: periferal modifier ськамонза, кавонест
  +Pers 		!!≈ ;@CODE@: personal
  +Recipr 	!!≈ ;@CODE@: reciprocal
  +Refl 		!!≈ ;@CODE@: reflexive
@@ -472,8 +474,17 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %{АОЕ%}	!!= @CODE@  пула, офта, пинге  О2 !! О1:о О1:а О1:е
  Х1 	!!= @CODE@ Х1:х Х1:0
  Ь2 	!!= @CODE@ Ь2:ь Ь2:0
+ Ъ2	!!= @CODE@ occurs in first syllable and is not written in the Moksha orthography, 
+!! in ped realized as hard sign
 
 !! And following triggers to control variation
+%^Ь2ZERO	!!= @CODE@ removes soft sign before vowel or other combination
+%^Ъ2PED		!!= @CODE@ brings out hard sign, which is otherwise automatically removed
+%^Е2О		!!= @CODE@ Change stem-final vowel сембе:сембось
+%^Е2А		!!= @CODE@ Change stem-final vowel мельге:мельганза
+%^Я2А		!!= @CODE@ Change stem-final vowel рьвя:рьванц
+%^Devoice	!!= @CODE@ for devoicing изь:исть
+
  {front} {back}
  %>
 
@@ -640,19 +651,27 @@ LEXICON PO_
 
 LEXICON PO_КВАЛМА
 +Po: K ;
-+Po: OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Po: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
++Pron: OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PO-INE_
 +Po+Ine:%>сО1 K_вок ;
-+Po+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Po+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
++Pron+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
 
-LEXICON PO_PRL_
-!! мельга:мельга
+LEXICON PO-PRL_
 +Po+Prl: K_вок ;
-+Po+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Po+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
+
+LEXICON PO-PRL_ЁНГА !!= * @CODE@ ёнга:ёнга
++Po+Prl: K_вок ;
++Pron+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
+
+LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
++Po+Prl: K_вок ;
++Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
+
 
 
 LEXICON POSTP-SPAT_

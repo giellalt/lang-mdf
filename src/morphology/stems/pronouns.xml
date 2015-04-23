@@ -2574,7 +2574,7 @@
       <l pos="Pron">сембе</l>
 
       <stg>
-        <st Contlex="PRON_">сембе</st>
+        <st Contlex="PRON-QNT_СЕМБЕ">сембе</st>
       </stg>
     </lg>
 
@@ -2763,6 +2763,24 @@
 
       <tg xml:lang="fin">
         <t/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Pron">ськамонза</l>
+
+      <stg>
+        <st Contlex="PRON-PERIF-MOD_СЬКАМОНЗА">ськам</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t>hän yksin</t>
       </tg>
     </mg>
   </e>
