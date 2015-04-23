@@ -5,6 +5,9 @@ The __UNDEFINED__ language verbs inflect in persons.
 !!VERBS 
 
 
+ * LEXICON V-AUX-NEG-CONJ_АФОЛЬ  афоль:афоль
+
+
 
 
 OBJECT and SUBJECT VERBS 
@@ -38,6 +41,16 @@ VERBS MUTUAL FOR TV and IV !!
  +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
  +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
  +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+COND-ALL
+ +Cond:й%>%{ОЕØ%}ндяря COND-4CONJ-ALL ;  
+
+
+
+ LEXICON V0_НЯЕМС   няемс:ня
+ +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ :й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
 COND-ALL
  +Cond:й%>%{ОЕØ%}ндяря COND-4CONJ-ALL ;  
 

@@ -104,6 +104,17 @@ Alphabet !!≈!!The base @CODE@
 ! I2 and U2 adjectives and nouns need this with their "t" and "s"
 !V2:0 
 
+ Ъ2:0	!!= @CODE@ occurs in first syllable and is not written in the Moksha orthography, 
+!! in ped realized as hard sign
+
+!! !!TRIGGERS
+%^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination
+%^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is otherwise automatically removed
+%^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
+%^Е2А:0		!!= @CODE@ Change stem-final vowel мельге:мельганза
+%^Я2А:0		!!= @CODE@ Change stem-final vowel рьвя:рьванц
+%^Devoice:0	!!= @CODE@ for devoicing изь:исть
+
 TLoss:0
 SLoss:0
 KLoss:0
@@ -247,6 +258,24 @@ Rules !!≈ !!The @CODE@
 
 !!!!!
 
+"е:о"
+!! __@RULENAME@__
+ е:о <=> Cns: _ %^Е2О: %> Cns: ;
+
+"е:а"
+!! __@RULENAME@__
+ е:а <=> Cns: _ %^Е2А: %> Cns: ;
+!!мельге+Pron+Prl+PxSg3: __after__
+!€# мельге%^Е2А%>нзО1
+!€0 мельга00нза
+
+"я:а"
+!! __@RULENAME@__
+ я:а <=> Cns: _ %^Я2А: ;
+!!рьвя+N+Sg+Gen+PxSg3: __wife__
+!€# рьвя%^Я2А%>нц
+!€0 рьва00нц
+
 "O1:a"
 !! __@RULENAME@__  
  О1:а <=> _ [ #: ] ;
@@ -374,6 +403,13 @@ Rules !!≈ !!The @CODE@
 !€ канд>%{Х%}%{КТ%}%{ЬØ%}
 !€ кант%>0т0
 
+"з:с"
+!! __@RULENAME@__
+ з:с <=> Vows _ (ь:) %^Devoice: ;
+!!изь+V+Aux+Neg+Ind+Prt1+ScPl3:	__they did not__
+!€# изь%^Devoice%^Ь2ZERO%>ть
+!€0 ис0000ть
+
 "ж:ч панчсь"
 !! __@RULENAME@__
 ж:ч <=> _  %> с (т) ь  ;
@@ -389,6 +425,7 @@ Rules !!≈ !!The @CODE@
 !€ мярьг%>%{Х%}т%{АЯ%}ма
 !€ мярьк%>0тяма
       CnsVoiceless (ь) %> _ %{АОЕ%}: # ;
+
 
 "с:ц ломань:ломанць"
 !! __@RULENAME@__  
@@ -505,8 +542,10 @@ Rules !!≈ !!The @CODE@
 !€# мяль%>О1зе
 !€0 мял00езе
         CnsDentNoL _ %> [ф т %{ОЕØ%}: м [ %{ОЕØ%}: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
-
-
+        Cns: _ (%^Devoice:) %^Ь2ZERO: ;
+!!изь+V+Aux+Neg+Ind+Prt1+ScPl3: __they did not__
+!€# изь%^Devoice%^Ь2ZERO%>ть
+!€0 ис0000ть
 
 "U2:0"
 !! __@RULENAME@__  
@@ -553,6 +592,11 @@ Rules !!≈ !!The @CODE@
 !!Allow the absence of "ъ" in the first syllable
 "Loss of ъ in the first syllable orthography"
 ъ:0 <= # Cns* _ [ д | з | р | т ] ;
+
+"Ъ2:ъ"
+!! __@RULENAME@__
+ Ъ2:ъ <=>
+ [# | Cns: ] _ \[ # ]* %^Ъ2PED: ;
 
 !! !!Disallow
 
