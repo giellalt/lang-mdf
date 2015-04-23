@@ -52,6 +52,19 @@ LEXICON N_ВАЛЬМЯ-PL
 ! вальмя:вальмя
 +N: NMN_ВАЛЬМЯ-PL ;
 
+LEXICON N_МОКША
+! мокша:мокша
++N: NMN_МОКША ;
++N+Der/Dim+N:%>%{DIM%}я NMN_МОКША ;
+
+LEXICON N_МОКША-SG
+! мокша:мокша
++N: NMN_МОКША-SG ;
+
+LEXICON N_МОКША-PL
+! мокша:мокша
++N: NMN_МОКША-PL ;
+
 LEXICON N_ПАКСЯ
 ! пакся:пакся
 +N: NMN_ПАКСЯ ;
@@ -203,6 +216,22 @@ LEXICON NMN_ВАЛЬМЯ-SG
 LEXICON NMN_ВАЛЬМЯ-PL
 :%^Я2А        NMN-PL ;
 :%^Я2А        NMN-SG/PL       ;
+
+LEXICON NMN_МОКША
+:%^А2Е        NMN-SG  ;
+:%^А2Е        NMN-PL  ;
+:%^А2Е        NMN-SG/PL       ;
+:%^А2Е SP-LAT-INDEF_в ;
+
+LEXICON NMN_МОКША-SG
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+:%^А2Е        NMN-SG ;
+:%^А2Е        NMN-SG/PL       ;
+:%^А2Е SP-LAT-INDEF_в ;
+
+LEXICON NMN_МОКША-PL
+:%^А2Е        NMN-PL ;
+:%^А2Е        NMN-SG/PL       ;
 
 LEXICON NMN_ПАКСЯ
         NMN-SG  ;
