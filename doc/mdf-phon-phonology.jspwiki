@@ -47,6 +47,7 @@ in ped realized as hard sign
  %^Е2О:0		 Change stem-final vowel сембе:сембось
  %^Е2А:0		 Change stem-final vowel мельге:мельганза
  %^Я2А:0		 Change stem-final vowel рьвя:рьванц
+ %^А2Е:0		 Change stem-final vowel мокша:мокшесь
  %^Devoice:0	 for devoicing изь:исть
 
 
@@ -131,6 +132,8 @@ __е:0__
 __е:о__
 
 __е:а__
+
+__а:е__
 
 __я:а__
 

@@ -113,6 +113,7 @@ Alphabet !!≈!!The base @CODE@
 %^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
 %^Е2А:0		!!= @CODE@ Change stem-final vowel мельге:мельганза
 %^Я2А:0		!!= @CODE@ Change stem-final vowel рьвя:рьванц
+%^А2Е:0		!!= @CODE@ Change stem-final vowel мокша:мокшесь
 %^Devoice:0	!!= @CODE@ for devoicing изь:исть
 
 TLoss:0
@@ -269,6 +270,13 @@ Rules !!≈ !!The @CODE@
 !€# мельге%^Е2А%>нзО1
 !€0 мельга00нза
 
+"а:е"
+!! __@RULENAME@__
+ а:е <=> Cns: _ %^А2Е: ;
+!!мокша+N+Sg+Nom+Def: __Moksha__
+!€# мокша%^А2Е%>сь
+!€0 мокше00сь
+
 "я:а"
 !! __@RULENAME@__
  я:а <=> Cns: _ %^Я2А: ;
@@ -298,7 +306,7 @@ Rules !!≈ !!The @CODE@
 "O1:0"
 !! __@RULENAME@__  
 О1:0 <=>  _  %> [ %{АЯ%}:а | %{АЯ%}:я ] ; 
-       :Vows %> _ Cns: ;
+       :Vows (%^Е2О:|%^Е2А:|%^Я2А:|%^А2Е:) %> _ Cns: ;
 
 
 "%{АОЕ%}:о"
