@@ -40,6 +40,11 @@ LEXICON A_ОШ
 +A: K ;
 +A+Der/MWN: N_ОШ ;
 
+LEXICON A_ВАЙ
+!вай:вай
++A: K ;
++A+Der/MWN: N_ВАЙ ;
+
 LEXICON A_КАЛ
 !кал:кал
 +A: K ;
@@ -51,13 +56,17 @@ LEXICON A_КЕЛУ
 +A+Der/MWN: N_КЕЛУ ;
 
 LEXICON A_INT-АЙ
-+Use/SpellNoSugg:ай A_КАЛ ;
++Use/SpellNoSugg:ай A_ВАЙ ;
 LEXICON A_RU-АЙ
-+Use/SpellNoSugg:ай A_КАЛ ;
++Use/SpellNoSugg:ай A_ВАЙ ;
+LEXICON A_INT-ОЙ
++Use/SpellNoSugg:ой A_ВАЙ ;
+LEXICON A_RU-ОЙ
++Use/SpellNoSugg:ой A_ВАЙ ;
 LEXICON A_INT-ЯЙ
-+Use/SpellNoSugg:яй A_КАЛ ;
++Use/SpellNoSugg:яй A_ВАЙ ;
 LEXICON A_RU-ЯЙ
-+Use/SpellNoSugg:яй A_КАЛ ;
++Use/SpellNoSugg:яй A_ВАЙ ;
 
 ! vim: set ft=xfst-lexc:
 
