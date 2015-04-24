@@ -1,0 +1,104 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+
+  Noun - мокша: # Ordinary nouns 'Moksha' - full paradigm including MWN
+     мокша+N+Sg+Nom+Indef: мокша
+     мокша+N+SP+Gen+Indef: мокшень
+     мокша+N+SP+Abl+Indef: мокшеда
+     мокша+N+SP+Dat+Indef: мокшенди
+     мокша+N+SP+Abe+Indef: мокшефтома
+     мокша+N+SP+Comp+Indef: мокшешка
+     мокша+N+SP+Ine+Indef: мокшеса
+     мокша+N+SP+Ela+Indef: мокшеста
+     мокша+N+SP+Ill+Indef: мокшес
+     мокша+N+SP+Prl+Indef: мокшева
+     мокша+N+SP+Tra+Indef: мокшекс
+     мокша+N+Sg+Nom+PxSg1: мокшезе
+     мокша+N+Pl+Nom+PxSg1: мокшене
+     мокша+N+Sg+Gen+PxSg1: мокшезень
+     мокша+N+Pl+Gen+PxSg1: мокшенень
+     мокша+N+Sg+Dat+PxSg1: [мокшезти, мокшезенди]
+     мокша+N+Pl+Dat+PxSg1: мокшененди
+     мокша+N+SP+Abl+PxSg1: мокшедон
+     мокша+N+SP+Abe+PxSg1: мокшефтомон
+     мокша+N+SP+Comp+PxSg1: мокшешкан
+     мокша+N+SP+Ine+PxSg1: мокшесон
+     мокша+N+SP+Ela+PxSg1: мокшестон
+     мокша+N+SP+Ill+PxSg1: мокшезон
+     мокша+N+SP+Prl+PxSg1: мокшеван
+     мокша+N+Sg+Nom+PxSg2: мокшеце
+     мокша+N+Pl+Nom+PxSg2: мокшетне
+     мокша+N+Sg+Gen+PxSg2: мокшецень
+     мокша+N+Pl+Gen+PxSg2: мокшетнень
+     мокша+N+SP+Abl+PxSg2: мокшедот
+     мокша+N+SP+Abe+PxSg2: мокшефтомот
+     мокша+N+SP+Comp+PxSg2: мокшешкат
+     мокша+N+SP+Ine+PxSg2: мокшесот
+     мокша+N+SP+Ela+PxSg2: мокшестот
+     мокша+N+SP+Ill+PxSg2: мокшезт
+     мокша+N+SP+Prl+PxSg2: мокшеват
+     мокша+N+Sg+Nom+PxSg3: мокшец
+     мокша+N+Pl+Nom+PxSg3: мокшенза
+     мокша+N+Sg+Gen+PxSg3: мокшенц
+     мокша+N+Pl+Gen+PxSg3: мокшензон
+     мокша+N+Sg+Dat+PxSg3: мокшенцты
+     мокша+N+Pl+Dat+PxSg3: мокшензонды
+     мокша+N+SP+Abl+PxSg3: мокшедонза
+     мокша+N+SP+Abe+PxSg3: мокшефтомонза
+     мокша+N+SP+Comp+PxSg3: мокшешканза
+     мокша+N+SP+Ine+PxSg3: мокшесонза
+     мокша+N+SP+Ela+PxSg3: мокшестонза
+     мокша+N+SP+Ill+PxSg3: мокшезонза
+     мокша+N+SP+Prl+PxSg3: мокшеванза
+     мокша+N+SP+Nom+PxPl1: мокшеньке
+     мокша+N+SP+Gen+PxPl1: мокшеньконь
+     мокша+N+SP+Dat+PxPl1: мокшеньконди
+     мокша+N+SP+Abl+PxPl1: мокшедонк
+     мокша+N+SP+Abe+PxPl1: мокшефтомонк
+     мокша+N+SP+Comp+PxPl1: мокшешканк
+     мокша+N+SP+Ine+PxPl1: мокшесонк
+     мокша+N+SP+Ela+PxPl1: мокшестонк
+     мокша+N+SP+Ill+PxPl1: мокшезонк
+     мокша+N+SP+Prl+PxPl1: мокшеванк
+     мокша+N+SP+Nom+PxPl2: мокшенте
+     мокша+N+SP+Gen+PxPl2: мокшентень
+     мокша+N+SP+Dat+PxPl2: мокшентенди
+     мокша+N+SP+Abl+PxPl2: мокшедонт
+     мокша+N+SP+Abe+PxPl2: мокшефтомонт
+     мокша+N+SP+Comp+PxPl2: мокшешкант
+     мокша+N+SP+Ine+PxPl2: мокшесонт
+     мокша+N+SP+Ela+PxPl2: мокшестонт
+     мокша+N+SP+Ill+PxPl2: мокшезонт
+     мокша+N+SP+Prl+PxPl2: мокшевант
+     мокша+N+SP+Nom+PxPl3: мокшесна
+     мокша+N+SP+Gen+PxPl3: мокшеснон
+     мокша+N+SP+Dat+PxPl3: мокшеснонды
+     мокша+N+SP+Abl+PxPl3: мокшедост
+     мокша+N+SP+Abe+PxPl3: мокшефтомост
+     мокша+N+SP+Comp+PxPl3: мокшешкаст
+     мокша+N+SP+Ine+PxPl3: мокшесост
+     мокша+N+SP+Ela+PxPl3: мокшестост
+     мокша+N+SP+Ill+PxPl3: мокшезост
+     мокша+N+SP+Prl+PxPl3: мокшеваст
+     мокша+N+Pl+Nom+Indef: мокшет
+     мокша+N+Sg+Nom+Def: мокшесь
+     мокша+N+Sg+Gen+Def: мокшеть
+     мокша+N+Sg+Dat+Def: мокшети
+     мокша+N+Pl+Nom+Def: мокшетне
+     мокша+N+Pl+Gen+Def: мокшетнень
+     мокша+N+Pl+Dat+Def: мокшетненди    
+     мокша+N+Der/Dim+N+Sg+Nom+Indef: мокшеня

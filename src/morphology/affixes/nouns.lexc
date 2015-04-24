@@ -111,8 +111,8 @@ LEXICON N_ПИНГЕ !!= @CODE@
 +N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПУЛА !!= @CODE@
-!пула:пул
-+N:%{АОЕ%} NMN_АВА ;
+!пула:пула
++N: NMN_ПУЛА ;
 +N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КАРЮЦЬКЕ !!= @CODE@
@@ -123,8 +123,8 @@ LEXICON N_КАРЮЦЬКЕ !!= @CODE@
 
 LEXICON N_СЕЛЬМЕ !!= @CODE@
 !сельме:сельм
-+N:%{АОЕ%} NMN_АВА ;
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N: NMN_СЕЛЬМЕ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ !!= @CODE@
 !ош:ош
@@ -197,6 +197,48 @@ LEXICON NMN_АВА-SG
  SP-LAT-INDEF_в ;
 
 LEXICON NMN_АВА-PL
+	NMN-PL ;
+	NMN-SG/PL	;
+
+
+LEXICON NMN_ПУЛА
+!	NMN_ПУЛА-SG	;
+!	NMN_ПУЛА-PL	;
+!	NMN_ПУЛА-SG/PL	;
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+:%^А2О	NMN-SG	;
+:%^А2О	NMN-PL	;
+:%^А2О	NMN-SG/PL	;
+ SP-LAT-INDEF_у ;
+
+LEXICON NMN_ПУЛА-SG
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+:%^А2О 	NMN-SG ;
+:%^А2О	NMN-SG/PL	;
+ SP-LAT-INDEF_в ;
+
+LEXICON NMN_ПУЛА-PL
+	NMN-PL ;
+	NMN-SG/PL	;
+
+
+LEXICON NMN_СЕЛЬМЕ
+!	NMN_СЕЛЬМЕ-SG	;
+!	NMN_СЕЛЬМЕ-PL	;
+!	NMN_СЕЛЬМЕ-SG/PL	;
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+:%^Е2О	NMN-SG	;
+:%^Е2О	NMN-PL	;
+:%^Е2О	NMN-SG/PL	;
+ SP-LAT-INDEF_у ;
+
+LEXICON NMN_СЕЛЬМЕ-SG
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+:%^Е2О 	NMN-SG ;
+:%^Е2О	NMN-SG/PL	;
+ SP-LAT-INDEF_в ;
+
+LEXICON NMN_СЕЛЬМЕ-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
