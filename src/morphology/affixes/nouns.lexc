@@ -110,6 +110,23 @@ LEXICON N_ПИНГЕ !!= @CODE@
  N_КАЛ ; !!= @CODE@ Ela, Ill, Ine, Par 
 +N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
+LEXICON N_ТИШЕ
+! тише:тише
++N: NMN_ТИШЕ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_ТИШЕ-SG
+! тише:тише
++N: NMN_ТИШЕ-SG ;
+
+LEXICON N_ТИШЕ-PL
+! тише:тише
++N: NMN_ТИШЕ-PL ;
+
+!LEXICON N_ТИШЕ-SG/PL
+! тише:тише
+!+N: NMN_ТИШЕ-SG/PL ;
+
 LEXICON N_ПУЛА !!= @CODE@
 !пула:пула
 +N: NMN_ПУЛА ;
@@ -218,6 +235,26 @@ LEXICON NMN_ПУЛА-SG
  SP-LAT-INDEF_в ;
 
 LEXICON NMN_ПУЛА-PL
+	NMN-PL ;
+	NMN-SG/PL	;
+
+
+LEXICON NMN_ТИШЕ
+!	NMN_ТИШЕ-SG	;
+!	NMN_ТИШЕ-PL	;
+!	NMN_ТИШЕ-SG/PL	;
+	NMN-SG	;
+	NMN-PL	;
+	NMN-SG/PL	;
+ SP-LAT-INDEF_в ;
+
+LEXICON NMN_ТИШЕ-SG
++Sg+Nom+Indef+Foc/вок:%>вок K ;
+ 	NMN-SG ;
+	NMN-SG/PL	;
+ SP-LAT-INDEF_в ;
+
+LEXICON NMN_ТИШЕ-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
