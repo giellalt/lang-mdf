@@ -1,9 +1,6 @@
 
 LEXICON particles
 
-а:а PCLE_  "ja" ;
-али:али CC_  "tai" ;
-аля:аля PCLE_АВА  "kyllä" ;
 апак:апак PCLE_  "kieltopartikkeli" ;
 аф:аф Pcle-Neg  "ei" ;
 афи:афи PCLE_  "eikä" ;
@@ -14,19 +11,11 @@ LEXICON particles
 бди:бди CS_  "jos" ;
 бди+Use/SpellNoSugg:бъди CS_  "jos" ;
 бльшем:бльшем PCLE_  "" ;
-вага:вага PCLE_  "kas" ;
 вельф:вельф PCLE_  "" ;
 виде:виде PCLE_  "totta" ;
-видекс:видекс PCLE_  "totta kyllä" ;
-вов:вов PCLE_  "no" ;
-ворьть:ворьть PCLE_  "" ;
-ворьхть:ворьхть PCLE_  "" ;
-вот:вот PCLE_  "" ;
 вдь:вдь PCLE_  "" ;
 вдь+Use/SpellNoSugg:въдь PCLE_  "" ;
 голь:голь PCLE_  "" ;
-да:да PCLE_  "kyllä" ;
-да:да PCLE_  "ja" ;
 дель:дель PCLE_  "" ;
 деряй:деряй PCLE_  "" ;
 дряй:дряй PCLE_  "" ;
@@ -50,20 +39,14 @@ LEXICON particles
 мяле:мяле PCLE_  "" ;
 мянь:мянь PCLE_  "vieläpä" ;
 мярьк:мярьк PCLE_  "" ;
-на:на PCLE_  "no" ;
 най:най PCLE_  "aina" ;
 начас:начас PCLE_  "ehkä" ;
-небось:небось PCLE_  "" ;
 незьля:незьля PCLE_  "" ;
 нетоком:нетоком PCLE_  "" ;
-ни:ни ADV-TEMP  "jo" ;
-ну:ну PCLE_  "no" ;
 нльне:нльне PCLE_  "" ;
 нльне+Use/SpellNoSugg:нъльне PCLE_  "" ;
 няк:няк PCLE_  "" ;
-ожу:ожу INTERJ_  "" ;
 пади:пади PCLE_  "ehkä" ;
-пожалуйста:пожалуйста FORMULAIC_  "ole hyvä" ;
 пчкяль:пчкяль PCLE_  "" ;
 пчкяль+Use/SpellNoSugg:пъчкяль PCLE_  "" ;
 пчкясь:пчкясь PCLE_  "" ;
@@ -74,7 +57,6 @@ LEXICON particles
 саты:саты PCLE_  "riittää" ;
 сембода:сембода PCLE-SUPERL  "" ;
 сембоц:сембоц PCLE_  "yhteensä" ;
-сюкпря:сюкпря PCLE_  "kiitos" ;
 сяда:сяда PCLE_  "komparatiivin apusana" ;
 таки:таки PCLE_  "kuitenkin" ;
 тейне-арам:тейне-арам PCLE_  "minusta" ;

@@ -2,9 +2,9 @@
 LEXICON adpositions
 
 аймак:аймак PO_  "" ;
-ала:ала POSTP-SPAT_  "alla" ;
-алда:алда POSTP-SPAT_  "alta" ;
-алу:алу PO_  "" ;
+ала:ала PO-SPAT_  "alla" ;
+алда:алда PO-SPAT_  "alta" ;
+алу:алу PO-SPAT_  "alle" ;
 башка:башка PO_  "lisäksi" ;
 бокова:бокова PO_  "ohi" ;
 бокс:бокс PO_  "sivuun" ;
@@ -89,7 +89,7 @@ LEXICON adpositions
 пряста:пряста PO_  "päästä" ;
 пяле:пяле PO_  "puoli" ;
 пяли:пяли PO_  "suuntaan" ;
-пяльге:пяльге POSTP-SPAT_  "sivuitse" ;
+пяльге:пяльге PO-SPAT_  "sivuitse" ;
 пяльде:пяльде PO_  "" ;
 серьс:серьс PO_  "" ;
 серьса:серьса PO_  "" ;
@@ -127,7 +127,7 @@ LEXICON adpositions
 эземс:эземс PO_  "" ;
 эрьгава:эрьгава PO_  "samanlainen" ;
 эс:эс PO_  "" ;
-эса:э PO-INE_  "1. siellä. 2. -ssa; -lla" ;
+эса:э PO-INE_  "-ssa" ;
 эшка:эшка PO_  "mittainen" ;
 эшксс:эшксс PO_  "" ;
 эшксса:эшксса PO_  "" ;

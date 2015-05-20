@@ -174,16 +174,16 @@ LEXICON N_КАЛ-SG
 LEXICON N_КАЛ-PL
 +N: NMN_КАЛ-PL ;
 
-LEXICON N_КЕЛЬ !!= @CODE@
- N_КЕЛЬ-SG ;
- N_КЕЛЬ-PL ;
+LEXICON N_КЯЛЬ !!= @CODE@
+ N_КЯЛЬ-SG ;
+ N_КЯЛЬ-PL ;
 +N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
 
-LEXICON N_КЕЛЬ-SG
-+N: NMN_КЕЛЬ-SG ;
+LEXICON N_КЯЛЬ-SG
++N: NMN_КЯЛЬ-SG ;
 
-LEXICON N_КЕЛЬ-PL
-+N: NMN_КЕЛЬ-PL ;
+LEXICON N_КЯЛЬ-PL
++N: NMN_КЯЛЬ-PL ;
 
 LEXICON N_КЕЛУ !!= @CODE@
  N_КЕЛУ-SG ;
@@ -528,17 +528,17 @@ LEXICON NMN_КАЛ-PL
 ! PXPL2 ;
 ! PXPL3 ;
 
-LEXICON NMN_КЕЛЬ
-!	NMN_КЕЛЬ-SG	;
-!	NMN_КЕЛЬ-PL	;
-!	NMN_КЕЛЬ-SG/PL	;
+LEXICON NMN_КЯЛЬ
+!	NMN_КЯЛЬ-SG	;
+!	NMN_КЯЛЬ-PL	;
+!	NMN_КЯЛЬ-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
 
-LEXICON NMN_КЕЛЬ-SG
+LEXICON NMN_КЯЛЬ-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -549,7 +549,7 @@ LEXICON NMN_КЕЛЬ-SG
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
-LEXICON NMN_КЕЛЬ-PL
+LEXICON NMN_КЯЛЬ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl

@@ -622,6 +622,7 @@ LEXICON Root
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
  N_NEWWORDS	;
+ N-Russian-like_NEWWORDS	;
  PROP_NEWWORDS	;
   Acronym		;
   Abbreviation		;
@@ -675,7 +676,7 @@ LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
 
 
 
-LEXICON POSTP-SPAT_
+LEXICON PO-SPAT_
 +Po+Spat: K ;
 
 
