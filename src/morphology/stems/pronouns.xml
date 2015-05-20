@@ -4045,6 +4045,26 @@
 
   <e>
     <lg>
+      <l pos="Pron" type="Refl">эсезонза</l>
+
+      <stg>
+        <st Contlex="PRON_">эсезонза</st>
+      </stg>
+    </lg>
+
+    <phonet>eśezənʒa</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Pron">itsekseen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Pron">эсон</l>
 
       <stg>
@@ -4230,7 +4250,8 @@
 
         <phonet>eś jotkəń lomaťť</phonet>
 
-        <xt xml:lang="fin">meidän laisemme ihmiset, meikäläiset.</xt>
+        <xt xml:lang="fin">meidän laisemme ihmiset</xt>
+        <xt xml:lang="fin">meikäläiset.</xt>
       </xg>
 
       <xg>
@@ -4262,7 +4283,8 @@
 
         <phonet>eś oťam</phonet>
 
-        <xt xml:lang="fin">vaistomaisesti, itsestään.</xt>
+        <xt xml:lang="fin">vaistomaisesti</xt>
+        <xt xml:lang="fin">itsestään</xt>
       </xg>
 
       <xg>

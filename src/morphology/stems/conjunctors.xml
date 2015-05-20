@@ -916,4 +916,90 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="CC">а</l>
+
+      <stg>
+        <st Contlex="CC_">а</st>
+      </stg>
+    </lg>
+    <phonet>a</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">ja</t>
+      </tg>
+      </mg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">mutta</t>
+        <t pos="CC">vaan</t>
+      </tg>
+
+      <xg>
+        <x>мон молян куду, а сон театрав</x>
+
+        <phonet>mon moľan kudu a son ťeatrav</phonet>
+
+        <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">али</l>
+
+      <stg>
+        <st Contlex="CC_">али</st>
+      </stg>
+    </lg>
+
+    <phonet>aľi</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">tai</t>
+        <t pos="CC">vai</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="CC">да</l>
+
+      <stg>
+        <st Contlex="CC_">да</st>
+      </stg>
+    </lg>
+
+    <pos>CC</pos>
+
+    <phonet>də</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="CC">ja</t><t pos="CC">sekä</t><t pos="CC">ynnä</t>
+      </tg>
+
+      <xg>
+        <x>мон да сон</x>
+
+        <phonet>mon də son</phonet>
+
+        <xt xml:lang="fin">minä ja hän.</xt>
+      </xg>
+    </mg>
+  </e>
+
 </r>

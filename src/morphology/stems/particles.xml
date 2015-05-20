@@ -6,85 +6,6 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
   <e>
     <lg>
-      <l pos="CC">а</l>
-
-      <stg>
-        <st Contlex="PCLE_">а</st>
-      </stg>
-    </lg>
-
-    <pos>CC</pos>
-
-    <phonet>a</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="CC">ja</t>
-      </tg>
-      </mg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="CC">mutta</t>
-        <t pos="CC">vaan</t>
-      </tg>
-
-      <xg>
-        <x>мон молян куду, а сон театрав</x>
-
-        <phonet>mon moľan kudu a son ťeatrav</phonet>
-
-        <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="CC">али</l>
-
-      <stg>
-        <st Contlex="CC_">али</st>
-      </stg>
-    </lg>
-
-    <phonet>aľi</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="CC">tai</t>
-        <t pos="CC">vai</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">аля</l>
-
-      <stg>
-        <st Contlex="PCLE_АВА">аля</st>
-      </stg>
-    </lg>
-
-    <phonet>aľä</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">kyllä</t><t pos="Pcle">kylläpä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pcle">апак</l>
 
       <stg>
@@ -410,34 +331,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">вага</l>
-
-      <stg>
-        <st Contlex="PCLE_">вага</st>
-      </stg>
-    </lg>
-
-    <phonet>vaga</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">kas</t><t pos="Interj">kas tässä</t>
-      </tg>
-
-      <xg>
-        <x>вага вдь</x>
-
-        <phonet>vagə vəď</phonet>
-
-        <xt xml:lang="fin">kylläpä.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Ad-A">вельф</l>
 
       <stg>
@@ -477,124 +370,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">видекс</l>
-
-      <stg>
-        <st Contlex="PCLE_">видекс</st>
-      </stg>
-    </lg>
-
-    <phonet>viďəks</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">totta kyllä</t><t pos="Pcle">todellakin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">вов</l>
-
-      <stg>
-        <st Contlex="PCLE_">вов</st>
-      </stg>
-    </lg>
-
-    <phonet>vov</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">no</t><t pos="Interj">kas</t><t pos="Interj">kappas</t><t pos="Interj">katsos</t>
-      </tg>
-
-      <xg>
-        <x>вов вдь</x>
-
-        <phonet>vov vəď</phonet>
-
-        <xt xml:lang="fin">kylläpä.</xt>
-      </xg>
-
-      <xg>
-        <x>вов ни эста</x>
-
-        <phonet>vov ńi esta</phonet>
-
-        <xt xml:lang="fin">kas silloinpa.</xt>
-      </xg>
-
-      <xg>
-        <x>вов сась кизось</x>
-
-        <phonet>vov saś kizəś</phonet>
-
-        <xt xml:lang="fin">niin tuli kesä.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ворьть</l>
-
-      <stg>
-        <st Contlex="PCLE_">ворьть</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">ворьхть</l>
-
-      <stg>
-        <st Contlex="PCLE_">ворьхть</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">вот</l>
-
-      <stg>
-        <st Contlex="PCLE_">вот</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pcle">вдь</l>
 
       <stg>
@@ -627,58 +402,6 @@
       <tg xml:lang="fin">
         <t/>
       </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">да</l>
-
-      <stg>
-        <st Contlex="PCLE_">да</st>
-      </stg>
-    </lg>
-
-    <pos>FORMULAIC</pos>
-
-    <phonet>da</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">kyllä</t><t pos="Interj">niin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="CC">да</l>
-
-      <stg>
-        <st Contlex="PCLE_">да</st>
-      </stg>
-    </lg>
-
-    <pos>CC</pos>
-
-    <phonet>də</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="CC">ja</t><t pos="CC">sekä</t><t pos="CC">ynnä</t>
-      </tg>
-
-      <xg>
-        <x>мон да сон</x>
-
-        <phonet>mon də son</phonet>
-
-        <xt xml:lang="fin">minä ja hän.</xt>
-      </xg>
     </mg>
   </e>
 
@@ -1254,34 +977,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">на</l>
-
-      <stg>
-        <st Contlex="PCLE_">на</st>
-      </stg>
-    </lg>
-
-    <phonet>na</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">no</t>
-      </tg>
-
-      <xg>
-        <x>на, сявк марьть</x>
-
-        <phonet>na, śävk maŕť</phonet>
-
-        <xt xml:lang="fin">no, otahan omenaa.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pcle">най</l>
 
       <stg>
@@ -1346,24 +1041,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">небось</l>
-
-      <stg>
-        <st Contlex="PCLE_">небось</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pcle">незьля</l>
 
       <stg>
@@ -1395,69 +1072,6 @@
       <tg xml:lang="fin">
         <t/>
       </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">ни</l>
-
-      <stg>
-        <st Contlex="ADV-TEMP">ни</st>
-      </stg>
-    </lg>
-    <phonet>ńi</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">jo</t>
-      </tg>
-
-      <xg>
-        <x>нормазень мон пяшкодине ни</x>
-
-        <phonet>normaźəń mon päškəďińə ńi</phonet>
-
-        <xt xml:lang="fin">olen jo täyttänyt normini.</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">ну</l>
-
-      <stg>
-        <st Contlex="PCLE_">ну</st>
-      </stg>
-    </lg>
-
-    <phonet>nu</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">no</t><t pos="Pcle">siispä</t><t pos="Pcle">kylläpä</t>
-      </tg>
-
-      <xg>
-        <x>ну и сизень!</x>
-
-        <phonet>nu i śiźəń</phonet>
-
-        <xt xml:lang="fin">kylläpä väsyttää!</xt>
-      </xg>
-
-      <xg>
-        <x>ну, куроконе!</x>
-
-        <phonet>nu kurəkəńä</phonet>
-
-        <xt xml:lang="fin">pian nyt!</xt>
-      </xg>
     </mg>
   </e>
 
@@ -1500,23 +1114,6 @@
 
   <e>
     <lg>
-      <l pos="Interj">ожу</l>
-
-      <stg>
-        <st Contlex="INTERJ_">ожу</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Pcle">пади</l>
 
       <stg>
@@ -1540,25 +1137,6 @@
 
         <xt xml:lang="fin">lepäämässäkö olet?</xt>
       </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">пожалуйста</l>
-
-      <stg>
-        <st Contlex="FORMULAIC_">пожалуйста</st>
-      </stg>
-    </lg>
-    <phonet>pažaləsta</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">ole hyvä</t><t pos="Pcle">olkaa hyvä(t)</t>
-      </tg>
     </mg>
   </e>
 
@@ -1717,26 +1295,6 @@
 
       <tg xml:lang="fin">
         <t pos="Pcle">yhteensä</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Interj">сюкпря</l>
-
-      <stg>
-        <st Contlex="PCLE_">сюкпря</st>
-      </stg>
-    </lg>
-
-    <phonet>śukpŕä</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">kiitos</t><t pos="Interj">tervehdys</t><t pos="Interj">kumarrus</t><t pos="Interj">terveiset</t>
       </tg>
     </mg>
   </e>
