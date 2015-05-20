@@ -17,9 +17,9 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="A">askel askelelta</t>
+        <t pos="Adv">askel askelelta</t>
 
-        <t pos="A">askelittain</t>
+        <t pos="Adv">askelittain</t>
       </tg>
     </mg>
   </e>
@@ -59,7 +59,7 @@
       <l pos="Adv">авал</l>
 
       <stg>
-        <st Contlex="ADV_">авал</st>
+        <st Contlex="ADV-TEMP_">авал</st>
       </stg>
     </lg>
 
@@ -85,7 +85,7 @@
       <l pos="Adv">авалкиге</l>
 
       <stg>
-        <st Contlex="ADV_">авалкиге</st>
+        <st Contlex="ADV-TEMP_">авалкиге</st>
       </stg>
     </lg>
 
@@ -520,21 +520,6 @@
         <xt xml:lang="fin">alhaalta ylös</xt>
       </xg>
 
-      <xg>
-        <x>парьнясь куяр алда</x>
-
-        <phonet>paŕńäś kujar alda</phonet>
-
-        <xt xml:lang="fin">suolakurkkupytty</xt>
-      </xg>
-
-      <xg>
-        <x>кундазе кенерьбакарь алда</x>
-
-        <phonet>kundaźə keńəŕbakaŕ alda</phonet>
-
-        <xt xml:lang="fin">tarttui kyynärpäähän, otti kiinni kyynäpäästä</xt>
-      </xg>
     </mg>
   </e>
 
@@ -563,7 +548,7 @@
       <l pos="Adv">алу</l>
 
       <stg>
-        <st Contlex="ADV_">алу</st>
+        <st Contlex="ADV-SPAT_">алу</st>
       </stg>
     </lg>
 
@@ -573,48 +558,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. alle.</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
         <t pos="Adv">alas</t>
       </tg>
-
-      <xg>
-        <x>??шрать алу</x>
-
-        <phonet>šrať alu</phonet>
-
-        <xt xml:lang="fin">pöydän alle</xt>
-      </xg>
-
-      <xg>
-        <x>ацамс идть алу</x>
-
-        <phonet>acams iťť alu</phonet>
-
-        <xt xml:lang="fin">sijata lapselle vuode</xt>
-      </xg>
-
-      <xg>
-        <x>??ки алу тусь</x>
-
-        <phonet>ki alu tuś</phonet>
-
-        <xt xml:lang="fin">lähti jonnekin</xt>
-      </xg>
-
-      <xg>
-        <x>??лов алу соксемс</x>
-
-        <phonet>lov alu sokśəms</phonet>
-
-        <xt xml:lang="fin">päättää syyskynnöt</xt>
-      </xg>
 
       <xg>
         <x>алу комафтомс прянц</x>
@@ -622,14 +567,6 @@
         <phonet>alu komaftəms pŕanc</phonet>
 
         <xt xml:lang="fin">riiputtaa päätään</xt>
-      </xg>
-
-      <xg>
-        <x>??тя вастсь катф модамарь алу</x>
-
-        <phonet>ťä vasć katf modamaŕ alu</phonet>
-
-        <xt xml:lang="fin">tämä maa on jätettävä perunalle</xt>
       </xg>
     </mg>
   </e>
@@ -1154,10 +1091,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">аф_содамшка</l>
+      <l pos="Adv">аф содамшка</l>
 
       <stg>
-        <st Contlex="ADV_">аф_содамшка</st>
+        <st Contlex="ADV_">аф содамшка</st>
       </stg>
     </lg>
 
@@ -1174,10 +1111,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">аф_эсь_воля</l>
+      <l pos="Adv">аф эсь воля</l>
 
       <stg>
-        <st Contlex="ADV_">аф_эсь_воля</st>
+        <st Contlex="ADV_">аф эсь воля</st>
       </stg>
     </lg>
 
@@ -1185,7 +1122,8 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">tahtomatta(an)</t>
+        <t pos="Adv">tahtomattaan</t>
+        <t pos="Adv">tahtomatta</t>
 
         <t pos="Adv">vastentahtoisesti</t>
       </tg>
@@ -2801,10 +2739,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">васень_пингть</l>
+      <l pos="Adv">васень пингть</l>
 
       <stg>
-        <st Contlex="ADV_">васень_пингть</st>
+        <st Contlex="ADV_">васень пингть</st>
       </stg>
     </lg>
 
@@ -3113,10 +3051,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вача_пект</l>
+      <l pos="Adv">вача пект</l>
 
       <stg>
-        <st Contlex="ADV_">вача_пект</st>
+        <st Contlex="ADV_">вача пект</st>
       </stg>
     </lg>
 
@@ -3135,10 +3073,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вача_сельме</l>
+      <l pos="Adv">вача сельме</l>
 
       <stg>
-        <st Contlex="ADV_">вача_сельме</st>
+        <st Contlex="ADV_">вача сельме</st>
       </stg>
     </lg>
 
@@ -3225,10 +3163,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вачень_пект</l>
+      <l pos="Adv">вачень пект</l>
 
       <stg>
-        <st Contlex="ADV_">вачень_пект</st>
+        <st Contlex="ADV_">вачень пект</st>
       </stg>
     </lg>
 
@@ -3243,10 +3181,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вачень_седи</l>
+      <l pos="Adv">вачень седи</l>
 
       <stg>
-        <st Contlex="ADV_">вачень_седи</st>
+        <st Contlex="ADV_">вачень седи</st>
       </stg>
     </lg>
 
@@ -3261,10 +3199,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вачень_седихть</l>
+      <l pos="Adv">вачень седихть</l>
 
       <stg>
-        <st Contlex="ADV_">вачень_седихть</st>
+        <st Contlex="ADV_">вачень седихть</st>
       </stg>
     </lg>
 
@@ -3842,10 +3780,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">вень_лангс</l>
+      <l pos="Adv">вень лангс</l>
 
       <stg>
-        <st Contlex="ADV_">вень_лангс</st>
+        <st Contlex="ADV_">вень лангс</st>
       </stg>
     </lg>
 
@@ -4329,10 +4267,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">виде_ваймот</l>
+      <l pos="Adv">виде ваймот</l>
 
       <stg>
-        <st Contlex="ADV_">виде_ваймот</st>
+        <st Contlex="ADV_">виде ваймот</st>
       </stg>
     </lg>
 
@@ -5921,10 +5859,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">горень_горь</l>
+      <l pos="Adv">горень горь</l>
 
       <stg>
-        <st Contlex="ADV_">горень_горь</st>
+        <st Contlex="ADV_">горень горь</st>
       </stg>
     </lg>
 
@@ -8111,10 +8049,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">илештень_кятть</l>
+      <l pos="Adv">илештень кятть</l>
 
       <stg>
-        <st Contlex="ADV_">илештень_кятть</st>
+        <st Contlex="ADV_">илештень кятть</st>
       </stg>
     </lg>
 
@@ -8747,10 +8685,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">кайги_вайгяльхть</l>
+      <l pos="Adv">кайги вайгяльхть</l>
 
       <stg>
-        <st Contlex="ADV_">кайги_вайгяльхть</st>
+        <st Contlex="ADV_">кайги вайгяльхть</st>
       </stg>
     </lg>
 
@@ -12373,7 +12311,7 @@
       <l pos="Adv">круглай</l>
 
       <stg>
-        <st Contlex="ADV-TEMP">круглай</st>
+        <st Contlex="ADV-TEMP_">круглай</st>
       </stg>
     </lg>
 
@@ -13336,10 +13274,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">кядьста_кядьс</l>
+      <l pos="Adv">кядьста кядьс</l>
 
       <stg>
-        <st Contlex="ADV_">кядьста_кядьс</st>
+        <st Contlex="ADV_">кядьста кядьс</st>
       </stg>
     </lg>
 
@@ -13392,10 +13330,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">кяжень_ардомга</l>
+      <l pos="Adv">кяжень ардомга</l>
 
       <stg>
-        <st Contlex="ADV_">кяжень_ардомга</st>
+        <st Contlex="ADV_">кяжень ардомга</st>
       </stg>
     </lg>
 
@@ -15064,10 +15002,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">лов_ланга</l>
+      <l pos="Adv">лов ланга</l>
 
       <stg>
-        <st Contlex="ADV_">лов_ланга</st>
+        <st Contlex="ADV_">лов ланга</st>
       </stg>
     </lg>
 
@@ -17324,7 +17262,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">мзяра_аф_мзяра</l>
+      <l pos="Adv">мзяра аф мзяра</l>
 
       <stg>
         <st Contlex="ADV_">мзяра аф мзяра</st>
@@ -17362,7 +17300,7 @@
 
   <e>
     <lg>
-      <l pos="Adv">мзярда_аф мзярда</l>
+      <l pos="Adv">мзярда аф мзярда</l>
 
       <stg>
         <st Contlex="ADV_">мзярда аф мзярда</st>
@@ -18370,10 +18308,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">недяля_ёткть</l>
+      <l pos="Adv">недяля ёткть</l>
 
       <stg>
-        <st Contlex="ADV_">недяля_ёткть</st>
+        <st Contlex="ADV_">недяля ёткть</st>
       </stg>
     </lg>
 
@@ -18945,10 +18883,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">нолдань_пацяня</l>
+      <l pos="Adv">нолдань пацяня</l>
 
       <stg>
-        <st Contlex="ADV_">нолдань_пацяня</st>
+        <st Contlex="ADV_">нолдань пацяня</st>
       </stg>
     </lg>
 
@@ -20104,10 +20042,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">оцю_вайгяльхть</l>
+      <l pos="Adv">оцю вайгяльхть</l>
 
       <stg>
-        <st Contlex="ADV_">оцю_вайгяльхть</st>
+        <st Contlex="ADV_">оцю вайгяльхть</st>
       </stg>
     </lg>
 
@@ -21241,10 +21179,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пиже_вайгяльса</l>
+      <l pos="Adv">пиже вайгяльса</l>
 
       <stg>
-        <st Contlex="ADV_">пиже_вайгяльса</st>
+        <st Contlex="ADV_">пиже вайгяльса</st>
       </stg>
     </lg>
 
@@ -21261,10 +21199,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пиже_валдоняста</l>
+      <l pos="Adv">пиже валдоняста</l>
 
       <stg>
-        <st Contlex="ADV_">пиже_валдоняста</st>
+        <st Contlex="ADV_">пиже валдоняста</st>
       </stg>
     </lg>
 
@@ -21309,10 +21247,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пилень_пандомшка</l>
+      <l pos="Adv">пилень пандомшка</l>
 
       <stg>
-        <st Contlex="ADV_">пилень_пандомшка</st>
+        <st Contlex="ADV_">пилень пандомшка</st>
       </stg>
     </lg>
 
@@ -21459,10 +21397,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пинге_ётазь</l>
+      <l pos="Adv">пинге ётазь</l>
 
       <stg>
-        <st Contlex="ADV_">пинге_ётазь</st>
+        <st Contlex="ADV_">пинге ётазь</st>
       </stg>
     </lg>
 
@@ -21499,10 +21437,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пингонь_ётазь</l>
+      <l pos="Adv">пингонь ётазь</l>
 
       <stg>
-        <st Contlex="ADV_">пингонь_ётазь</st>
+        <st Contlex="ADV_">пингонь ётазь</st>
       </stg>
     </lg>
 
@@ -21537,10 +21475,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">пингта_инголе</l>
+      <l pos="Adv">пингта инголе</l>
 
       <stg>
-        <st Contlex="ADV_">пингта_инголе</st>
+        <st Contlex="ADV_">пингта инголе</st>
       </stg>
     </lg>
 
@@ -23356,7 +23294,7 @@
       <l pos="Adv">рана</l>
 
       <stg>
-        <st Contlex="ADV-TEMP">рана</st>
+        <st Contlex="ADV-TEMP_">рана</st>
       </stg>
     </lg>
 
@@ -27689,10 +27627,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">сяда_хужа</l>
+      <l pos="Adv">сяда хужа</l>
 
       <stg>
-        <st Contlex="ADV_">сяда_хужа</st>
+        <st Contlex="ADV_">сяда хужа</st>
       </stg>
     </lg>
 
@@ -28924,10 +28862,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">тев_аф_тев</l>
+      <l pos="Adv">тев аф тев</l>
 
       <stg>
-        <st Contlex="ADV_">тев_аф_тев</st>
+        <st Contlex="ADV_">тев аф тев</st>
       </stg>
     </lg>
 
@@ -30087,10 +30025,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">топодень_пект</l>
+      <l pos="Adv">топодень пект</l>
 
       <stg>
-        <st Contlex="ADV_">топодень_пект</st>
+        <st Contlex="ADV_">топодень пект</st>
       </stg>
     </lg>
 
@@ -30637,10 +30575,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">туркс_сельмот</l>
+      <l pos="Adv">туркс сельмот</l>
 
       <stg>
-        <st Contlex="ADV_">туркс_сельмот</st>
+        <st Contlex="ADV_">туркс сельмот</st>
       </stg>
     </lg>
 
@@ -31338,7 +31276,7 @@
       <l pos="V">тянемс</l>
 
       <stg>
-        <st Contlex="ADV-TEMP">тянемс</st>
+        <st Contlex="ADV-TEMP_">тянемс</st>
       </stg>
     </lg>
 
@@ -33964,10 +33902,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">шаба_пряса</l>
+      <l pos="Adv">шаба пряса</l>
 
       <stg>
-        <st Contlex="ADV_">шаба_пряса</st>
+        <st Contlex="ADV_">шаба пряса</st>
       </stg>
     </lg>
 
@@ -34384,10 +34322,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">ширем_сельмот</l>
+      <l pos="Adv">ширем сельмот</l>
 
       <stg>
-        <st Contlex="ADV_">ширем_сельмот</st>
+        <st Contlex="ADV_">ширем сельмот</st>
       </stg>
     </lg>
 
@@ -34804,10 +34742,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">шоподема_ёткть</l>
+      <l pos="Adv">шоподема ёткть</l>
 
       <stg>
-        <st Contlex="ADV_">шоподема_ёткть</st>
+        <st Contlex="ADV_">шоподема ёткть</st>
       </stg>
     </lg>
 
@@ -35882,10 +35820,10 @@
 
   <e>
     <lg>
-      <l pos="Po">эса</l>
+      <l pos="Adv">эса</l>
 
       <stg>
-        <st Contlex="ADV_">эса</st>
+        <st Contlex="ADV-SPAT_">эса</st>
       </stg>
     </lg>
 
@@ -35897,25 +35835,6 @@
       <tg xml:lang="fin">
         <t pos="Adv">siellä</t>
       </tg>
-    </mg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Suf">-ssa</t>
-
-        <t pos="Suf">-lla</t>
-      </tg>
-
-      <xg>
-        <x>кудть эса</x>
-
-        <phonet>kutť esa</phonet>
-
-        <xt xml:lang="fin">talossa</xt>
-      </xg>
-
       <xg>
         <x>сон ащи эса</x>
 
@@ -35923,34 +35842,6 @@
 
         <xt xml:lang="fin">hän on siellä</xt>
       </xg>
-
-      <xg>
-        <x>книгась шрать эса</x>
-
-        <phonet>kńigaś šrať esa</phonet>
-
-        <xt xml:lang="fin">kirja on pöydässä/pöydällä</xt>
-      </xg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">эсезонза</l>
-
-      <stg>
-        <st Contlex="ADV_">эсезонза</st>
-      </stg>
-    </lg>
-
-    <phonet>eśezənʒa</phonet>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Adv">itsekseen</t>
-      </tg>
     </mg>
   </e>
 
@@ -35979,7 +35870,7 @@
       <l pos="Adv">эста</l>
 
       <stg>
-        <st Contlex="ADV_">эста</st>
+        <st Contlex="ADV-TEMP_">эста</st>
       </stg>
     </lg>
 
@@ -35999,7 +35890,7 @@
       <l pos="Adv">эсток</l>
 
       <stg>
-        <st Contlex="ADV_">эсток</st>
+        <st Contlex="ADV-TEMP_">эсток</st>
       </stg>
     </lg>
 
@@ -36021,7 +35912,7 @@
       <l pos="Adv">эстокиге</l>
 
       <stg>
-        <st Contlex="ADV_">эстокиге</st>
+        <st Contlex="ADV-TEMP_">эстокиге</st>
       </stg>
     </lg>
 
@@ -36043,7 +35934,7 @@
       <l pos="Adv">эстоньбере</l>
 
       <stg>
-        <st Contlex="ADV_">эстоньбере</st>
+        <st Contlex="ADV-TEMP_">эстоньбере</st>
       </stg>
     </lg>
 
@@ -36062,10 +35953,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">эсь_воля</l>
+      <l pos="Adv">эсь воля</l>
 
       <stg>
-        <st Contlex="ADV_">эсь_воля</st>
+        <st Contlex="ADV_">эсь воля</st>
       </stg>
     </lg>
 
@@ -36103,7 +35994,7 @@
       <l pos="Adv">эське</l>
 
       <stg>
-        <st Contlex="ADV_">эське</st>
+        <st Contlex="ADV-TEMP_">эське</st>
       </stg>
     </lg>
 
@@ -36201,7 +36092,7 @@
       <l pos="Adv">эхярь</l>
 
       <stg>
-        <st Contlex="ADV_">эхярь</st>
+        <st Contlex="ADV-TEMP_">эхярь</st>
       </stg>
     </lg>
 
@@ -36211,46 +36102,10 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Adv">1. oikea</t>
-
-        <t pos="Adv">aito</t>
-
-        <t pos="Adv">silkka</t>
-
-        <t pos="Adv">pelkkä</t>
-
-        <t pos="Adv">sula</t>
-
-        <t pos="Adv">paljas</t>
-
-        <t pos="Adv">täysi.</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Adv">jokainen.</t>
-      </tg>
-    </mg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
         <t pos="Adv">aina</t>
 
         <t pos="Adv">jatkuvasti</t>
       </tg>
-
-      <xg>
-        <x>эхярь сёра</x>
-
-        <phonet>äxäŕ śora</phonet>
-
-        <xt xml:lang="fin">puhdas vilja</xt>
-      </xg>
     </mg>
   </e>
 
@@ -36327,7 +36182,7 @@
       <l pos="Adv">яла</l>
 
       <stg>
-        <st Contlex="ADV-TEMP">яла</st>
+        <st Contlex="ADV-TEMP_">яла</st>
       </stg>
     </lg>
 
@@ -36407,7 +36262,7 @@
       <l pos="Adv">ярхцампингста</l>
 
       <stg>
-        <st Contlex="ADV_">ярхцампингста</st>
+        <st Contlex="ADV-TEMP_">ярхцампингста</st>
       </stg>
     </lg>
 
@@ -36606,28 +36461,6 @@
 
   <e>
     <lg>
-      <l pos="Adv">ёньфтома</l>
-
-      <stg>
-        <st Contlex="ADV_">ёньфтома</st>
-      </stg>
-    </lg>
-
-    <mg>
-      <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Adv">tyhmä</t>
-
-        <t pos="Adv">järjetön</t>
-
-        <t pos="Adv">älytön</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="Adv">ёньца-мяльса</l>
 
       <stg>
@@ -36812,10 +36645,10 @@
 
   <e>
     <lg>
-      <l pos="Adv">ётконь_путозь</l>
+      <l pos="Adv">ётконь путозь</l>
 
       <stg>
-        <st Contlex="ADV_">ётконь_путозь</st>
+        <st Contlex="ADV_">ётконь путозь</st>
       </stg>
     </lg>
 
@@ -36824,6 +36657,7 @@
 
       <tg xml:lang="fin">
         <t pos="Adv">joskus</t>
+        <t pos="Adv">välillä</t>
       </tg>
     </mg>
   </e>
@@ -36905,4 +36739,31 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="Adv">ни</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ни</st>
+      </stg>
+    </lg>
+    <phonet>ńi</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jo</t>
+      </tg>
+
+      <xg>
+        <x>нормазень мон пяшкодине ни</x>
+
+        <phonet>normaźəń mon päškəďińə ńi</phonet>
+
+        <xt xml:lang="fin">olen jo täyttänyt normini.</xt>
+      </xg>
+    </mg>
+  </e>
+
 </r>

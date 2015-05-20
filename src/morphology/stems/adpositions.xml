@@ -27,7 +27,7 @@
       <l pos="Po">ала</l>
 
       <stg>
-        <st Contlex="POSTP-SPAT_">ала</st>
+        <st Contlex="PO-SPAT_">ала</st>
       </stg>
     </lg>
 
@@ -45,7 +45,7 @@
       <l pos="Po">алда</l>
 
       <stg>
-        <st Contlex="POSTP-SPAT_">алда</st>
+        <st Contlex="PO-SPAT_">алда</st>
       </stg>
     </lg>
 
@@ -55,17 +55,7 @@
       <defNative/>
       <tg xml:lang="fin">
         <t pos="Po">alta</t>
-
-        <t pos="Adv">alhaalta</t>
       </tg>
-
-      <xg>
-        <x>алда вяри</x>
-
-        <phonet>alda väŕi</phonet>
-
-        <xt xml:lang="fin">alhaalta ylös</xt>
-      </xg>
 
       <xg>
         <x>парьнясь куяр алда</x>
@@ -81,6 +71,7 @@
         <phonet>kundaźə keńəŕbakaŕ alda</phonet>
 
         <xt xml:lang="fin">tarttui kyynärpäähän</xt>
+        <xt xml:lang="fin">otti kiinni kyynärpäästä</xt>
       </xg>
     </mg>
   </e>
@@ -90,7 +81,7 @@
       <l pos="Po">алу</l>
 
       <stg>
-        <st Contlex="PO_">алу</st>
+        <st Contlex="PO-SPAT_">алу</st>
       </stg>
     </lg>
 
@@ -98,8 +89,47 @@
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Po"/>
+        <t pos="Po">alle</t>
       </tg>
+      <xg>
+        <x>шрать алу</x>
+
+        <phonet>šrať alu</phonet>
+
+        <xt xml:lang="fin">pöydän alle</xt>
+      </xg>
+
+      <xg>
+        <x>ацамс идть алу</x>
+
+        <phonet>acams iťť alu</phonet>
+
+        <xt xml:lang="fin">sijata lapselle vuode</xt>
+      </xg>
+
+      <xg>
+        <x>ки алу тусь</x>
+
+        <phonet>ki alu tuś</phonet>
+
+        <xt xml:lang="fin">lähti jonnekin</xt>
+      </xg>
+
+      <xg>
+        <x>лов алу соксемс</x>
+
+        <phonet>lov alu sokśəms</phonet>
+
+        <xt xml:lang="fin">päättää syyskynnöt</xt>
+      </xg>
+      <xg>
+        <x>тя вастсь катф модамарь алу</x>
+
+        <phonet>ťä vasć katf modamaŕ alu</phonet>
+
+        <xt xml:lang="fin">tämä maa on jätettävä perunalle</xt>
+      </xg>
+
     </mg>
   </e>
 
@@ -2400,7 +2430,7 @@
       <l pos="Po">пяльге</l>
 
       <stg>
-        <st Contlex="POSTP-SPAT_">пяльге</st>
+        <st Contlex="PO-SPAT_">пяльге</st>
       </stg>
     </lg>
 
@@ -3198,7 +3228,8 @@
     <mg>
       <defNative/>
       <tg xml:lang="fin">
-        <t pos="Po">1. siellä. 2. -ssa; -lla</t>
+        <t pos="Case">-ssa</t>
+	<t pos="Case">-lla</t>
       </tg>
 
       <xg>
@@ -3208,15 +3239,6 @@
 
         <xt xml:lang="fin">talossa</xt>
       </xg>
-
-      <xg>
-        <x>сон ащи эса</x>
-
-        <phonet>son ašši esa</phonet>
-
-        <xt xml:lang="fin">hän on siellä</xt>
-      </xg>
-
       <xg>
         <x>книгась шрать эса</x>
 
