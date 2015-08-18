@@ -16,6 +16,8 @@ LEXICON N_АВА_DIAL
 +Dial+Err/Orth: N_АВА ;
 LEXICON N_ОШ_DIAL
 +Dial+Err/Orth: N_ОШ ;
+LEXICON N_САРАЗ_DIAL
++Dial+Err/Orth: N_САРАЗ ;
 LEXICON N_ОФТА_DIAL
 +Dial+Err/Orth: N_ОФТА ;
 LEXICON N_КАЛ_DIAL
@@ -151,6 +153,15 @@ LEXICON N_ОШ !!= @CODE@
 LEXICON N_ОШ-PL
 !ош:ош
 +N: NMN_ОШ-PL ;
+
+LEXICON N_САРАЗ !!= @CODE@
+!ош:ош
++N: NMN_САРАЗ ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_САРАЗ-PL
+!ош:ош
++N: NMN_САРАЗ-PL ;
 
 LEXICON N_ВАЙ !!= @CODE@
  N_ВАЙ-SG ;
@@ -587,6 +598,32 @@ LEXICON NMN_ОШ-PL
 
 !LEXICON NMN_ОШ-SG/PL
 ! 	NMN_КАЛ-SG/PL	;
+
+LEXICON NMN_САРАЗ
+        NMN-SG ;
+        NMN-PL ;
+        NMN-SG/PL       ;
+ SP-LAT-INDEF_у ;
+
+LEXICON NMN_САРАЗ-SG
+!! Indefinite
+! SG-NOM ;
+!! Definite Sg
+! SGCXDEF ;
+! PXSG1-Sg ;
++Sg+Nom+Indef+Foc/вок:%>г%{АОЕ%} K ;
+!!сараз: саразонь
+        NMN-SG ;
+        NMN-SG/PL       ;
+ SP-LAT-INDEF_у ;
+
+LEXICON NMN_САРАЗ-PL
+!! Indefinite
+! PL-NOM ;
+!! Definite Pl
+! PLCXDEF ;
+        NMN-PL       ;
+        NMN-SG/PL       ;
 
 !! MUTUAL NOMINAL
 LEXICON NMN-SG
