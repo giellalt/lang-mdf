@@ -17,47 +17,47 @@ LEXICON A-IS-GEN
 +Gen+Attr: K ;
 
 LEXICON A_АВА
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_АВА ;
 
 LEXICON A_ОФТА
 !офта:офт
-+A:%>%{АОЕ%} K ;
++A+Sg+Nom:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ОФТА ;
 
 LEXICON A_ПИНГЕ
 !пинге:пинг
-+A:%>%{АОЕ%} K ;
++A+Sg+Nom:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ПИНГЕ ;
 
 LEXICON A_ПУЛА
 !пула:пул
-+A:%>%{АОЕ%} K ;
++A+Sg+Nom:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ПУЛА ;
 
 LEXICON A_ОШ
 !! ош:ош
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_ОШ ;
 
 LEXICON A_КЯЛЬ
 !! кяль:кяль
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_КЯЛЬ ;
 
 LEXICON A_ВАЙ
 !вай:вай
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_ВАЙ ;
 
 LEXICON A_КАЛ
 !кал:кал
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_КАЛ ;
 
 LEXICON A_КЕЛУ
 !! келу:келу
-+A: K ;
++A+Sg+Nom: K ;
 +A+Der/MWN: N_КЕЛУ ;
 
 LEXICON A_INT-АЙ
