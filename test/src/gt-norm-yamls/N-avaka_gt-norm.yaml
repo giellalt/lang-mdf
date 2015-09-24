@@ -1,0 +1,28 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+# Authors: Liovina, Grishunina 2015
+
+  Noun - авака: # Noun or attribute 'female/naaras' - limited paradigm would indicate word is attribute
+     авака+N+Sg+Nom+Indef: авака
+     авака+N+SP+Gen+Indef: авакань
+     авака+N+Pl+Nom+Indef: авакат
+     авака+N+Sg+Nom+Def: авакась
+     авака+N+Sg+Gen+Def: авакать
+     авака+N+Sg+Dat+Def: авакати
+     авака+N+Pl+Nom+Def: авакатне
+     авака+N+Pl+Gen+Def: авакатнень
+     авака+N+Pl+Dat+Def: авакатненди
+     авака+N+Der/Dim+N+Sg+Nom+Indef: аваканя
