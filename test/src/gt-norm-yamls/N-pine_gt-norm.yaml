@@ -1,0 +1,103 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+
+  Noun - пине: # Ordinary nouns 'eye' - full paradigm including MWN
+     пине+N+Sg+Nom+Indef: пине
+     пине+N+SP+Gen+Indef: пинень
+     пине+N+SP+Abl+Indef: пинеда
+     пине+N+SP+Dat+Indef: пиненди
+     пине+N+SP+Abe+Indef: пинефтома
+     пине+N+SP+Comp+Indef: пинешка
+     пине+N+SP+Ine+Indef: пинеса
+     пине+N+SP+Ela+Indef: пинеста
+     пине+N+SP+Ill+Indef: пинес
+     пине+N+SP+Prl+Indef: пинева
+     пине+N+SP+Tra+Indef: пинекс
+     пине+N+Sg+Nom+PxSg1: пинезе
+     пине+N+Pl+Nom+PxSg1: пинене
+     пине+N+Sg+Gen+PxSg1: пинезень
+     пине+N+Pl+Gen+PxSg1: пиненень
+     пине+N+Sg+Dat+PxSg1: [пинезенди, пинезти]
+     пине+N+Pl+Dat+PxSg1: пинененди
+     пине+N+SP+Abl+PxSg1: пинедон
+     пине+N+SP+Abe+PxSg1: пинефтомон
+     пине+N+SP+Comp+PxSg1: пинешкан
+     пине+N+SP+Ine+PxSg1: пинесон
+     пине+N+SP+Ela+PxSg1: пинестон
+     пине+N+SP+Ill+PxSg1: пинезон
+     пине+N+SP+Prl+PxSg1: пиневан
+     пине+N+Sg+Nom+PxSg2: пинеце
+     пине+N+Pl+Nom+PxSg2: пинетне
+     пине+N+Sg+Gen+PxSg2: пинецень
+     пине+N+Pl+Gen+PxSg2: пинетнень
+     пине+N+SP+Abl+PxSg2: пинедот
+     пине+N+SP+Abe+PxSg2: пинефтомот
+     пине+N+SP+Comp+PxSg2: пинешкат
+     пине+N+SP+Ine+PxSg2: пинесот
+     пине+N+SP+Ela+PxSg2: пинестот
+     пине+N+SP+Ill+PxSg2: пинезт
+     пине+N+SP+Prl+PxSg2: пиневат
+     пине+N+Sg+Nom+PxSg3: пинец
+     пине+N+Pl+Nom+PxSg3: пиненза
+     пине+N+Sg+Gen+PxSg3: пиненц
+     пине+N+Pl+Gen+PxSg3: пинензон
+     пине+N+Sg+Dat+PxSg3: пиненцты
+     пине+N+Pl+Dat+PxSg3: пинензонды
+     пине+N+SP+Abl+PxSg3: пинедонза
+     пине+N+SP+Abe+PxSg3: пинефтомонза
+     пине+N+SP+Comp+PxSg3: пинешканза
+     пине+N+SP+Ine+PxSg3: пинесонза
+     пине+N+SP+Ela+PxSg3: пинестонза
+     пине+N+SP+Ill+PxSg3: пинезонза
+     пине+N+SP+Prl+PxSg3: пиневанза
+     пине+N+SP+Nom+PxPl1: пиненьке
+     пине+N+SP+Gen+PxPl1: пиненьконь
+     пине+N+SP+Dat+PxPl1: пиненьконди
+     пине+N+SP+Abl+PxPl1: пинедонк
+     пине+N+SP+Abe+PxPl1: пинефтомонк
+     пине+N+SP+Comp+PxPl1: пинешканк
+     пине+N+SP+Ine+PxPl1: пинесонк
+     пине+N+SP+Ela+PxPl1: пинестонк
+     пине+N+SP+Ill+PxPl1: пинезонк
+     пине+N+SP+Prl+PxPl1: пиневанк
+     пине+N+SP+Nom+PxPl2: пиненте
+     пине+N+SP+Gen+PxPl2: пинентень
+     пине+N+SP+Dat+PxPl2: пинентенди
+     пине+N+SP+Abl+PxPl2: пинедонт
+     пине+N+SP+Abe+PxPl2: пинефтомонт
+     пине+N+SP+Comp+PxPl2: пинешкант
+     пине+N+SP+Ine+PxPl2: пинесонт
+     пине+N+SP+Ela+PxPl2: пинестонт
+     пине+N+SP+Ill+PxPl2: пинезонт
+     пине+N+SP+Prl+PxPl2: пиневант
+     пине+N+SP+Nom+PxPl3: пинесна
+     пине+N+SP+Gen+PxPl3: пинеснон
+     пине+N+SP+Dat+PxPl3: пинеснонды
+     пине+N+SP+Abl+PxPl3: пинедост
+     пине+N+SP+Abe+PxPl3: пинефтомост
+     пине+N+SP+Comp+PxPl3: пинешкаст
+     пине+N+SP+Ine+PxPl3: пинесост
+     пине+N+SP+Ela+PxPl3: пинестост
+     пине+N+SP+Ill+PxPl3: пинезост
+     пине+N+SP+Prl+PxPl3: пиневаст
+     пине+N+Pl+Nom+Indef: пинет
+     пине+N+Sg+Nom+Def: пинесь
+     пине+N+Sg+Gen+Def: пинеть
+     пине+N+Sg+Dat+Def: пинети
+     пине+N+Pl+Nom+Def: пинетне
+     пине+N+Pl+Gen+Def: пинетнень
+     пине+N+Pl+Dat+Def: пинетненди    
