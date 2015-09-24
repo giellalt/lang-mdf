@@ -31,7 +31,7 @@ Tests:
      ава+N+Pl+Nom+PxSg1: аване
      ава+N+Sg+Gen+PxSg1: авазень
      ава+N+Pl+Gen+PxSg1: аванень
-     ава+N+Sg+Dat+PxSg1: [авазенди, авазти]
+     ава+N+Sg+Dat+PxSg1: [авазти, авазенди]
      ава+N+Pl+Dat+PxSg1: аваненди
      ава+N+SP+Abl+PxSg1: авадон
      ава+N+SP+Abe+PxSg1: авафтомон
@@ -100,7 +100,8 @@ Tests:
      ава+N+Sg+Dat+Def: авати
      ава+N+Pl+Nom+Def: аватне
      ава+N+Pl+Gen+Def: аватнень
-     ава+N+Pl+Dat+Def: аватненди    
+     ава+N+Pl+Dat+Def: аватненди  
+     ава+N+Der/Dim+N+Sg+Nom+Indef: аваня  
      ава+N+Sg+Nom+Indef+Foc/вок: ававок
      ава+N+SP+Gen+Indef+Foc/вок: аваньвок
      ава+N+SP+Abl+Indef+Foc/вок: авадовок
