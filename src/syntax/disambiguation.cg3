@@ -344,9 +344,6 @@ REMOVE IV IF (0 OCONJ) ;
 #REMOVE Gen IF (0 Nom OR Gen) ; # argh fix!
 SELECT Gen IF (1 Po) ;
 
-#<псаказояк> remove n sg gen pxsg3 if Ani and n sg nom pxsg3
-REMOVE Gen IF (0 Ani + Sg + Nom + PxSg3) ;
-
 SELECT Interj IF (0 Upper) (1 COMMA) ;
 
 # Select the proper noun reading if the current word can be
