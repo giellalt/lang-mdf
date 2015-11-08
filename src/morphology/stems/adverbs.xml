@@ -1226,6 +1226,77 @@
 
   <e>
     <lg>
+      <l pos="Adv">аяш</l>
+
+      <stg>
+        <st Contlex="ADV-NEG_АЯШ">аяш</st>
+      </stg>
+    </lg>
+
+    <phonet>ajaš</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">ei ole</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">аш</l>
+
+      <stg>
+        <st Contlex="ADV-NEG_АШ">аш</st>
+      </stg>
+    </lg>
+
+    <phonet>aš</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="V">ei ole</t>
+      </tg>
+
+      <xg>
+        <x>аш кода молемс</x>
+
+        <phonet>aš koda moľəms</phonet>
+
+        <xt xml:lang="fin">ei voi mennä.</xt>
+      </xg>
+
+      <xg>
+        <x>ашель месть</x>
+
+        <phonet>ašəľ meśť</phonet>
+
+        <xt xml:lang="fin">ei ollut syytä.</xt>
+      </xg>
+
+      <xg>
+        <x>ашель мзярда</x>
+
+        <phonet>ašəľ məźarda</phonet>
+
+        <xt xml:lang="fin">ei ollut aikaa.</xt>
+      </xg>
+
+      <xg>
+        <x>ашень пяшксе</x>
+
+        <phonet>ašəń päškśä</phonet>
+
+        <xt xml:lang="fin">rutiköyhä.</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Adv">ашуста</l>
 
       <stg>

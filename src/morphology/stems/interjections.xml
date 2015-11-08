@@ -138,6 +138,32 @@
 
   <e>
     <lg>
+      <l pos="Interj">аф</l>
+
+      <stg>
+        <st Contlex="INTERJ-NEG">аф</st>
+      </stg>
+    </lg>
+
+    <phonet>af</phonet>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+	<t pos="Interj">no</t>
+      </tg>
+      <tg xml:lang="fin">
+	<t pos="Interj">ei</t>
+      </tg>
+      <tg xml:lang="myv">
+        <t pos="Interj">арась</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Interj">аха</l>
 
       <stg>

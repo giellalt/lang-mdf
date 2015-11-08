@@ -1,11 +1,10 @@
 
 LEXICON particles
 
-апак:апак PCLE_  "kieltopartikkeli" ;
-аф:аф Pcle-Neg  "ei" ;
+апак:апак PCLE-NEG  "kieltopartikkeli" ;
+аф:аф PCLE-NEG  "ei" ;
 афи:афи PCLE_  "eikä" ;
 афоли:афоли PCLE_  "kuulemma" ;
-аш:аш Pcle-Neg  "ei ole" ;
 бди:бди PCLE_  "ehkä" ;
 бди+Use/SpellNoSugg:бъди PCLE_  "ehkä" ;
 бди:бди CS_  "jos" ;

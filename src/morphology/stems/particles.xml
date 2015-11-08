@@ -9,7 +9,7 @@
       <l pos="Pcle">апак</l>
 
       <stg>
-        <st Contlex="PCLE_">апак</st>
+        <st Contlex="PCLE-NEG">апак</st>
       </stg>
     </lg>
 
@@ -62,7 +62,7 @@
       <l pos="Pcle">аф</l>
 
       <stg>
-        <st Contlex="Pcle-Neg">аф</st>
+        <st Contlex="PCLE-NEG">аф</st>
       </stg>
     </lg>
 
@@ -214,58 +214,6 @@
       <tg xml:lang="fin">
         <t pos="Pcle">kuulemma</t>
       </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="Pcle">аш</l>
-
-      <stg>
-        <st Contlex="Pcle-Neg">аш</st>
-      </stg>
-    </lg>
-
-    <phonet>aš</phonet>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="Pcle">ei ole</t>
-      </tg>
-
-      <xg>
-        <x>аш кода молемс</x>
-
-        <phonet>aš koda moľəms</phonet>
-
-        <xt xml:lang="fin">ei voi mennä.</xt>
-      </xg>
-
-      <xg>
-        <x>ашель месть</x>
-
-        <phonet>ašəľ meśť</phonet>
-
-        <xt xml:lang="fin">ei ollut syytä.</xt>
-      </xg>
-
-      <xg>
-        <x>ашель мзярда</x>
-
-        <phonet>ašəľ məźarda</phonet>
-
-        <xt xml:lang="fin">ei ollut aikaa.</xt>
-      </xg>
-
-      <xg>
-        <x>ашень пяшксе</x>
-
-        <phonet>ašəń päškśä</phonet>
-
-        <xt xml:lang="fin">rutiköyhä.</xt>
-      </xg>
     </mg>
   </e>
 

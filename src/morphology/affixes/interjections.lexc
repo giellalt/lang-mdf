@@ -20,10 +20,11 @@ LEXICON Interj-Imp !!= @CODE@ орхт
 LEXICON FORMULAIC_
 +Interj+Formulaic: K ;
 
+LEXICON INTERJ-NEG
++Interj+Neg: # ;
+
 LEXICON VOCATIVE_
 +Interj+Voc: K ;
-
-
 
 
 ! vim: set ft=xfst-lexc:
