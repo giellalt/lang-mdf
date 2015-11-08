@@ -31,6 +31,21 @@ LEXICON SpatTag
 !LEXICON TempTag
 !+Adv+Temp: K ;
 
+LEXICON ADV-NEG_АЯШ !! Contrastive
++Adv+Neg: # ;
+
+LEXICON ADV-NEG_АШ
++Adv+Neg: # ;
++Adv+Neg: ADV_АШЕЛЬ ;
+
+LEXICON ADV_АШЕЛЬ !! ашель:ашель
++Prt2+ScSg1:%>ень # ;
++Prt2+ScSg2:%>еть # ;
++Prt2+ScSg3: # ;
++Prt2+ScPl1:еме # ;
++Ind+Prt2+ScPl2:еде # ;
++Ind+Prt2+ScPl3:%>%{Х%}ть # ;
+
 
 
 
