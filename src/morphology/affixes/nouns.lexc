@@ -196,6 +196,17 @@ LEXICON N_КЯЛЬ-SG
 LEXICON N_КЯЛЬ-PL
 +N: NMN_КЯЛЬ-PL ;
 
+LEXICON N_ПИНЕ !!= @CODE@
+ N_ПИНЕ-SG ;
+ N_ПИНЕ-PL ;
++N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
+
+LEXICON N_ПИНЕ-SG
++N: NMN_ПИНЕ-SG ;
+
+LEXICON N_ПИНЕ-PL
++N: NMN_ПИНЕ-PL ;
+
 LEXICON N_КЕЛУ !!= @CODE@
  N_КЕЛУ-SG ;
  N_КЕЛУ-PL ;
@@ -206,6 +217,9 @@ LEXICON N_КЕЛУ-SG
 
 LEXICON N_КЕЛУ-PL
 +N: NMN_КЕЛУ-PL ;
+
+
+
 
 !! NMN
 
@@ -561,6 +575,35 @@ LEXICON NMN_КЯЛЬ-SG
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
 LEXICON NMN_КЯЛЬ-PL
+!! Indefinite
+! PL-NOM ;
+!! Definite Pl
+! PLCXDEF ;
+        NMN-PL       ;
+        NMN-SG/PL       ;
+
+LEXICON NMN_ПИНЕ
+!	NMN_ПИНЕ-SG	;
+!	NMN_ПИНЕ-PL	;
+!	NMN_ПИНЕ-SG/PL	;
+        NMN-SG ;
+        NMN-PL ;
+        NMN-SG/PL       ;
+:%^Ь2ZERO SP-LAT-INDEF_и ;
+
+
+LEXICON NMN_ПИНЕ-SG
+!! Indefinite
+! SG-NOM ;
+!! Definite Sg
+! SGCXDEF ;
+! PXSG1-Sg ;
++Sg+Nom+Indef+Foc/вок:%>г%{АОЕ%} K ;
+        NMN-SG ;
+        NMN-SG/PL       ;
+:%^Ь2ZERO SP-LAT-INDEF_и ;
+
+LEXICON NMN_ПИНЕ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
