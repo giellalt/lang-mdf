@@ -1286,7 +1286,8 @@ LEXICON Prc-fks
 +V+Der/фкс+Pss+Prc: K ;
 
 LEXICON Prc-I
-+V+Der/И+Act+Prc: K ;
++V+Der/И+Act+PrsPrc: K ;
++V+Der/И+Der/NomAg: K ;
 
 LEXICON Prc-nj
 +V+Der/Онь+VGen: K ;

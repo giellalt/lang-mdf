@@ -224,6 +224,138 @@
 
   <e>
     <lg>
+      <l pos="Num">кафта</l>
+
+      <stg>
+        <st Contlex="NUM-CARD_ПУЛА">кафта</st>
+      </stg>
+    </lg>
+
+    <phonet>kafta</phonet>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N">kaksi</t>
+      </tg>
+
+      <xg>
+        <x>кафта пряса</x>
+
+        <phonet>kaftə pŕasa</phonet>
+
+        <xt xml:lang="fin">kaksipäinen</xt>
+      </xg>
+
+      <xg>
+        <x>кафта-колма</x>
+
+        <phonet>kafta-kolma</phonet>
+
+        <xt xml:lang="fin">pari kolme</xt>
+      </xg>
+
+      <xg>
+        <x>шида-кафтода меле</x>
+
+        <phonet>šidə-kaftədə/-kafttə meľä</phonet>
+
+        <xt xml:lang="fin">parin päivän päästä</xt>
+      </xg>
+
+      <xg>
+        <x>недяляда-кафтода меле</x>
+
+        <phonet>ńeďäľadə-kaftədə meľä</phonet>
+
+        <xt xml:lang="fin">parin viikon kuluttua</xt>
+      </xg>
+
+      <xg>
+        <x>шис-кафтос</x>
+
+        <phonet>šis-kaftəs</phonet>
+
+        <xt xml:lang="fin">pariksi päiväksi</xt>
+      </xg>
+
+      <xg>
+        <x>недяляс-кафтос</x>
+
+        <phonet>ńeďäľas-kaftəs, ńeďäľas-kafts</phonet>
+
+        <xt xml:lang="fin">pariksi viikoksi</xt>
+      </xg>
+
+      <xg>
+        <x>шиста-кафтоста</x>
+
+        <phonet>šista-kaftəsta</phonet>
+
+        <xt xml:lang="fin">parissa päivässä</xt>
+      </xg>
+
+      <xg>
+        <x>кафту</x>
+
+        <phonet>kaftu</phonet>
+
+        <xt xml:lang="fin">kahtia</xt>
+      </xg>
+
+      <xg>
+        <x>кафтува</x>
+
+        <phonet>kaftuva</phonet>
+
+        <xt xml:lang="fin">(taittaa) kaksinkerroin</xt>
+      </xg>
+
+      <xg>
+        <x>кафцьке</x>
+
+        <phonet>kafćkä</phonet>
+
+        <xt xml:lang="fin">molemmat</xt>
+      </xg>
+
+      <xg>
+        <x>кафцеконди</x>
+
+        <phonet>kafćəkəńďi</phonet>
+
+        <xt xml:lang="fin">molempien, molemmille</xt>
+      </xg>
+
+      <xg>
+        <x>кафтошка</x>
+
+        <phonet>kaftəška</phonet>
+
+        <xt xml:lang="fin">pari (noin kaksi)</xt>
+      </xg>
+
+      <xg>
+        <x>кафтошка-колмошка</x>
+
+        <phonet>kaftəška-kolməška</phonet>
+
+        <xt xml:lang="fin">pari kolme</xt>
+      </xg>
+
+      <xg>
+        <x>кафтошкаксть</x>
+
+        <phonet>kaftəškakśť</phonet>
+
+        <xt xml:lang="fin">parisen kertaa</xt>
+      </xg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="Num">вейхкса</l>
 
       <stg>
