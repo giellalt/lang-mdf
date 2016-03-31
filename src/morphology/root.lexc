@@ -100,7 +100,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Cau 		!!= ;@CODE@: causatative
  +Com 		!!= ;@CODE@: comitative
  +Comp/Sh 	!!= ;@CODE@: comparative -шка
- +Com/Sh 	!!= ;@CODE@: = ???
+ +Com/Sh 	!!= ;@CODE@: comitative
  +Dat 		!!= ;@CODE@: dative
  +Ela 		!!= ;@CODE@: elative
  +Gen 		!!= ;@CODE@: genitive
@@ -473,10 +473,11 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^А2О		!!= @CODE@ used with final а in пула 
 
  А2 	!!= @CODE@ А2:а А2:я
- Г2 	!!= @CODE@ Г2:г Г2:в Г2:к
+ %^Г2 	!!= @CODE@ %^Г2:г %^Г2:в %^Г2:к
  К1 	!!= @CODE@ К1:к К1:т
- О1 	!!= @CODE@ О1:о О1:а О1:0
-%{АОЕ%}	!!= @CODE@  пула, офта, пинге  О2 !! О1:о О1:а О1:е
+ %^О1 	!!= @CODE@ %^О1:о %^О1:а %^О1:0
+%{АОЕ%}	!!= @CODE@  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е
+%{АЕ%}	!!= @CODE@ prolative
  Х1 	!!= @CODE@ Х1:х Х1:0
  Ь2 	!!= @CODE@ Ь2:ь Ь2:0
  Ъ2	!!= @CODE@ occurs in first syllable and is not written in the Moksha orthography, 
@@ -662,9 +663,9 @@ LEXICON PO_КВАЛМА
 +Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PO-INE_
-+Po+Ine:%>сО1 K_вок ;
-+Pron+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Ine:%>сО1 OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
++Po+Ine:%>с%^О1 K_вок ;
++Pron+Ine:%>с%^О1 OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Ine:%>с%^О1 OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
 
 LEXICON PO-PRL_
 +Po+Prl: K_вок ;
