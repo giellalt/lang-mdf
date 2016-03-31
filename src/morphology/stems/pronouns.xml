@@ -4322,4 +4322,94 @@
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейне</l>
+      <stg>
+        <st Contlex="REFL-SG1-IS-DAT">эстейне</st>
+	</stg>
+	</lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+	<t pos="Pron" type="Refl">itselleni</t>
+	</tg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейть</l>
+      <stg>
+        <st Contlex="REFL-SG2-IS-DAT">эстейть</st>
+        <st Contlex="REFL-SG2-IS-DAT">эстееть</st>
+	</stg>
+	</lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+	<t pos="Pron" type="Refl">itsellesi</t>
+	</tg>
+	</mg>
+	</e>
+<e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейнза</l>
+      <stg>
+        <st Contlex="REFL-SG3-IS-DAT">эстейнза</st>
+        <st Contlex="REFL-SG3-IS-DAT">эстеенза</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+        <t pos="Pron" type="Refl" nb="Sg">itselleen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейнек</l>
+      <stg>
+	<st Contlex="REFL-PL1-IS-DAT">эстейнек</st>
+        <st Contlex="REFL-PL1-IS-DAT">эстеенек</st>
+	</stg>
+	</lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+	<t pos="Pron" type="Refl">itsellemme</t>
+	</tg>
+	</mg>
+	</e>
+  <e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейнть</l>
+      <stg>
+	<st Contlex="REFL-PL2-IS-DAT">эстейнть</st>
+        <st Contlex="REFL-PL2-IS-DAT">эстеенть</st>
+	</stg>
+	</lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+	<t pos="Pron" type="Refl">itsellenne</t>
+	</tg>
+	</mg>
+	</e>
+<e>
+    <lg>
+      <l pos="Pron" type="Refl">эстейст</l>
+      <stg>
+        <st Contlex="REFL-PL3-IS-DAT">эстейст</st>
+        <st Contlex="REFL-PL3-IS-DAT">эстеест</st>
+      </stg>
+    </lg>
+    <mg>
+      <defNative/>
+      <tg xml:lang="fin">
+	<t pos="Pron" type="Refl" nb="Pl">itselleen</t>
+      </tg>
+    </mg>
+  </e>
+
 </r>
