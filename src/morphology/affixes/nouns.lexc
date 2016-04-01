@@ -363,7 +363,7 @@ NMN-SG/PL   ;
 :%{АОЕ%} NMN-SG ;
 :%{АОЕ%} NMN-PL ;
 :%{АОЕ%} NMN-SG/PL   ;
-
+ SP-LAT-INDEF_в ;
 
 LEXICON NMN_ОФТА-SG !!= @CODE@
 +Sg+Nom+Indef+Foc/вок:%{АОЕ%}%>вок K ;
@@ -871,11 +871,14 @@ LEXICON SP-INE-INDEF_са
 +SP+Ine:%>с%^О1 Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-LAT-INDEF_в
-+SP+Lat+Indef:%>в K_ГА ;
++SP+Lat+Indef:%>%{ВИУ%} K_ГА ;
+!+SP+Lat+Indef:%>в K_ГА ;
 LEXICON SP-LAT-INDEF_у
-+SP+Lat+Indef:%>у K_ГА ;
++SP+Lat+Indef:%>%{ВИУ%} K_ГА ;
+!+SP+Lat+Indef:%>у K_ГА ;
 LEXICON SP-LAT-INDEF_и
-+SP+Lat+Indef:%>и K_ГА ;
++SP+Lat+Indef:%>%{ВИУ%} K_ГА ;
+!+SP+Lat+Indef:%>и K_ГА ;
 
 LEXICON SP-PRL-INDEF_ва
 +SP+Prl:%>ва Choose-INDEF-OBLPX-ava ;
