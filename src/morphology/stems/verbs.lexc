@@ -26,7 +26,7 @@ LEXICON verbs
 аварьфнемс:аварьфне TV_КУНДАМС  "itkettää" ;
 аварьфтемс:аварьфть IV_НЯФТЕМС  "itkettää" ;
 авкснемс:авксне IV_КУНДАМС  "haukkua" ;
-авкстомс:авкстомс IV_АЛЫЯФТОМС  "haukahtaa" ;
+авкстомс:авкст IV_АЛЫЯФТОМС  "haukahtaa" ;
 авозлавомс:авозлав IV_АНДОВОМС  "tulla testamentatuksi" ;
 авозлакшнемс:авозлакшне IV_КУНДАМС  "testamenttailla" ;
 авозламс:авозла IV_КУНДАМС  "testamentata" ;
@@ -2252,7 +2252,7 @@ LEXICON verbs
 зрналгодомс+Use/SpellNoSugg:зърналгод IV_АНДОМС  "alkaa väristä" ;
 зрнамс:зрна IV_КУНДАМС  "täristä" ;
 зрнамс+Use/SpellNoSugg:зърна IV_КУНДАМС  "täristä" ;
-зрнатомс:зрнат V_  "täristä" ;
+зрнатомс:зрнат IV_АЛЫЯФТОМС  "täristä" ;
 зрнатомс+Use/SpellNoSugg:зърнат V_  "täristä" ;
 зуборендавомс:зуборендав IV_АНДОВОМС  "tulla lovetuksi" ;
 зуборендакшнемс:зуборендакшне IV_КУНДАМС  "tehdä lovia" ;
@@ -2267,7 +2267,7 @@ LEXICON verbs
 зрнакодомс+Use/SpellNoSugg:зърнакод IV_АНДОМС  "alkaa täristä" ;
 зрнакшнемс:зрнакшне IV_КУНДАМС  "täristä" ;
 зрнакшнемс+Use/SpellNoSugg:зърнакшне IV_КУНДАМС  "täristä" ;
-зрнатомс:зрнат V_  "vavahtaa" ;
+зрнатомс:зрнат IV_АЛЫЯФТОМС  "vavahtaa" ;
 зрнатомс+Use/SpellNoSugg:зърнат V_  "vavahtaa" ;
 зрнесемс:зрнесе IV_КУНДАМС  "vapista" ;
 зрнесемс+Use/SpellNoSugg:зърнесе IV_КУНДАМС  "vapista" ;
@@ -2681,7 +2681,7 @@ LEXICON verbs
 канзеркшнемс:канзеркшне IV_КУНДАМС  "kilistä" ;
 канзерфнемс:канзерфне TV_КУНДАМС  "kilisyttää" ;
 канзерфтомс:канзерфт TV_АЛЫЯФТОМС  "helistää" ;
-канзетькстомс:канзетьксто IV_АЛЫЯФТОМС  "kiristellä hampaitaan" ;
+канзетькстомс:канзетькст IV_АЛЫЯФТОМС  "kiristellä hampaitaan" ;
 канзетькшнемс:канзетькшне IV_КУНДАМС  "huolehtia" ;
 канзетьфнемс:канзетьфне TV_КУНДАМС  "huolehtia" ;
 канзетьфтемс:канзетьфть IV_НЯФТЕМС  "huolestuttaa" ;
@@ -2776,7 +2776,7 @@ LEXICON verbs
 карносемс:карносе IV_КУНДАМС  "raakkua" ;
 карнофнемс:карнофне TV_КУНДАМС  "hakata lujaa" ;
 карнофтомс:карнофт TV_АЛЫЯФТОМС  "lyödä lujaa" ;
-кароштомс:карошто V_  "ällistyttää" ;
+кароштомс:карошт IV_АЛЫЯФТОМС  "ällistyttää" ;
 карсемс:карсе TV_КУНДАМС  "kaivella" ;
 кархкамс:кархка IV_КУНДАМС  "kaivella" ;
 кархцадевомс:кархцадев IV_АНДОВОМС  "tulla lyödyksi lujaa" ;
@@ -2790,7 +2790,7 @@ LEXICON verbs
 кархчендамс:кархченда IV_КУНДАМС  "roskata" ;
 кархчсемс:кархчсе TV_КУНДАМС  "roskata" ;
 карштамс:каршта TV_КУНДАМС  "sitoa lyhde" ;
-карштомс:каршто V_  "unohtaa" ;
+карштомс:каршт IV_АЛЫЯФТОМС  "unohtaa" ;
 карьгатьфтемс:карьгатьфть IV_НЯФТЕМС  "pelästyttää" ;
 карьгодемс:карьгодь IV_ПАЧКОДЕМС  "koveta" ;
 карьготкшнемс:карьготкшне IV_КУНДАМС  "" ;
@@ -2915,7 +2915,7 @@ LEXICON verbs
 каштазьгадомс:каштазьгад IV_АНДОМС  "sairastaa jotakin kurkkutautia" ;
 каштамс:кашта TV_КУНДАМС  "(murt.) koota, kerätä" ;
 каштаськодомс:каштаськод IV_АНДОМС  "tulla pikkumaiseksi, saivartelevaksi" ;
-каштомс:кашто V_  "päästää kumea, hiljainen ääni" ;
+каштомс:кашт IV_АЛЫЯФТОМС  "päästää kumea, hiljainen ääni" ;
 кашторгодозевомс:кашторгодозев IV_АНДОВОМС  "alkaa kahista" ;
 кашторгодомс:кашторгод IV_АНДОМС  "alkaa kahista" ;
 каштордовомс:каштордов IV_АНДОВОМС  "voida kahista" ;
@@ -2960,7 +2960,7 @@ LEXICON verbs
 кеворяфтомс:кеворяфт TV_АЛЫЯФТОМС  "kieritellä" ;
 кевярькшнемс:кевярькшне IV_КУНДАМС  "vetelehtiä" ;
 кевярямс:кевяря IV_КУНДАМС  "lojua" ;
-келавакстомс:келаваксто V_  "tulla kälyiksi (mentäessä naimisiin veljesten kanssa)" ;
+келавакстомс:келавакст IV_АЛЫЯФТОМС  "tulla kälyiksi (mentäessä naimisiin veljesten kanssa)" ;
 келемкшнемс:келемкшне IV_КУНДАМС  "levetä" ;
 келемовомс:келемов IV_АНДОВОМС  "voida leventyä" ;
 келемомс:келем IV_АНДОМС  "levetä" ;
@@ -3031,7 +3031,7 @@ LEXICON verbs
 кенордамс:кенорда IV_КУНДАМС  "kiiruhtaa, kiirehtiä, pitää kiirettä" ;
 кенордафнемс:кенордафне TV_КУНДАМС  "hoputtaa" ;
 кенордафтомс:кенордафт TV_АЛЫЯФТОМС  "hoputtaa, kiirehtiä, pitää kiirettä" ;
-кеньжафкстомс:кеньжафксто V_  "saada jokin kavio- tai kynsitauti" ;
+кеньжафкстомс:кеньжафкст IV_АЛЫЯФТОМС  "saada jokin kavio- tai kynsitauti" ;
 кенярдемс:кенярдь IV_ПАЧКОДЕМС  "iloita" ;
 кеняртькшнемс:кеняртькшне IV_КУНДАМС  "riemuita" ;
 кеняртьфнемс:кеняртьфне TV_КУНДАМС  "ilahduttaa" ;
@@ -3190,7 +3190,7 @@ LEXICON verbs
 кичкоряфнемс:кичкоряфне TV_КУНДАМС  "mutkitella" ;
 кичкоряфтомс:кичкоряфт TV_АЛЫЯФТОМС  "mutkitella" ;
 кишкстовомс:кишкстов IV_АНДОВОМС  "olla itsepäinen (esim. lapsi)" ;
-кишкстомс:кишкстомс V_  "pitää puoliansa" ;
+кишкстомс:кишкст IV_АЛЫЯФТОМС  "pitää puoliansa" ;
 киштемс:кишть IV_АЛЫЯФТОМС  "tanssia" ;
 классифицировандавомс:классифицировандав IV_АНДОВОМС  "tulla luokitelluksivoida luokitella" ;
 классифицировандамс:классифицированда IV_КУНДАМС  "luokitella" ;
@@ -3309,7 +3309,7 @@ LEXICON verbs
 кокорьгодовомс:кокорьгодов IV_АНДОВОМС  "voida kouristella" ;
 кокорьгодомс:кокорьгод IV_АНДОМС  "kouristella" ;
 кокснемс:коксне IV_КУНДАМС  "hypellä" ;
-кокстомс:коксто V_  "oksettaa" ;
+кокстомс:кокст IV_АЛЫЯФТОМС  "oksettaa" ;
 кокстыемс:кокстые TV_КУНДАМС  "tuudittaa" ;
 кокстыефнемс:кокстыефне TV_КУНДАМС  "panna oksentamaan" ;
 кокстыефтемс:кокстыефть IV_НЯФТЕМС  "panna oksentamaan" ;
@@ -3369,7 +3369,7 @@ LEXICON verbs
 комачамс:комача IV_КУНДАМС  "kääriä" ;
 комачафнемс:комачафне TV_КУНДАМС  "peitellä" ;
 комбарямс:комбаря IV_КУНДАМС  "sitaista huivi päähänsä huolimattomasti" ;
-комбафкстомс:комбафксто V_  "hyppäyttää" ;
+комбафкстомс:комбафкст IV_АЛЫЯФТОМС  "hyppäyttää" ;
 комбинировандавомс:комбинировандав IV_АНДОВОМС  "tulla yhdistetyksi" ;
 комбинировандамс:комбинированда IV_КУНДАМС  "yhdistää" ;
 комболгодомс:комболгод IV_АНДОМС  "alkaa pulputa" ;
@@ -3479,7 +3479,7 @@ LEXICON verbs
 коркснекшнемс:коркснекшне IV_КУНДАМС  "röyhtäillä" ;
 коркснемс:корксне IV_КУНДАМС  "röyhtäillä" ;
 коркстовомс:коркстов IV_АНДОВОМС  "voda röyhtäistä" ;
-коркстомс:коркстомс V_  "röyhtäistä" ;
+коркстомс:коркст IV_АЛЫЯФТОМС  "röyhtäistä" ;
 кородовомс:кородов IV_АНДОВОМС  "tulla suojatuksi" ;
 кородомс:кород IV_АНДОМС  "säästää, olla säästäväinen" ;
 корхневомс:корхнев IV_АНДОВОМС  "voida jutella" ;
@@ -3831,7 +3831,7 @@ LEXICON verbs
 куродовомс:куродов IV_АНДОВОМС  "tulla aidatuksi" ;
 куродомс:курод IV_АНДОМС  "aidata" ;
 курокстомс:курокст TV_АЛЫЯФТОМС  "nopeuttaa" ;
-курокстоптомс:курокстопт V_  "nopeuttaa (asiaa)" ;
+курокстоптомс:курокстопт IV_АЛЫЯФТОМС  "nopeuttaa (asiaa)" ;
 куроткшневомс:куроткшнев IV_АНДОВОМС  "tulla puristetuksi" ;
 куроткшнемс:куроткшне IV_КУНДАМС  "puristaa, ahdistaa; syleillä" ;
 куротфнемс:куротфне TV_КУНДАМС  "panna puristamaan" ;
@@ -3843,7 +3843,7 @@ LEXICON verbs
 курькснефтевомс:курькснефтев IV_АНДОВОМС  "voida panna hiihtämään" ;
 курькстафтомс:курькстафт TV_АЛЫЯФТОМС  "liu'uttaa" ;
 курькстовомс:курькстов IV_АНДОВОМС  "voida hiihtää" ;
-курькстомс:курькстомс V_  "hiihtää, liukua; kelkkailla" ;
+курькстомс:курькст IV_АЛЫЯФТОМС  "hiihtää, liukua; kelkkailla" ;
 курьксфтомс:курьксфт TV_АЛЫЯФТОМС  "ajeluttaa (kelkalla)" ;
 куряксневомс:курякснев IV_АНДОВОМС  "voida hiihtää" ;
 курякснемс:куряксне IV_КУНДАМС  "hiihtää" ;
@@ -3855,7 +3855,7 @@ LEXICON verbs
 куфкснекшнемс:куфкснекшне IV_КУНДАМС  "huokailla" ;
 куфкснемс:куфксне IV_КУНДАМС  "huokailla" ;
 куфкстовомс:куфкстов IV_АНДОВОМС  "voida huokaista" ;
-куфкстомс:куфкстомс V_  "huoata" ;
+куфкстомс:куфкст IV_АЛЫЯФТОМС  "huoata" ;
 куфцевомс:куфцев IV_АНДОВОМС  "voida vaikeroida" ;
 куфцезевомс:куфцезев IV_АНДОВОМС  "alkaa vaikeroida" ;
 куфцеземс:куфцезе V_  "alkaa voihkia" ;
@@ -4038,7 +4038,7 @@ LEXICON verbs
 кргакснекшнемс+Use/SpellNoSugg:къргакснекшне IV_КУНДАМС  "oksennella" ;
 кргакстовомс:кргакстов IV_АНДОВОМС  "voida oksentaa" ;
 кргакстовомс+Use/SpellNoSugg:къргакстов IV_АНДОВОМС  "voida oksentaa" ;
-кргакстомс:кргакст V_  "oksentaa" ;
+кргакстомс:кргакст IV_АЛЫЯФТОМС  "oksentaa" ;
 кргакстомс+Use/SpellNoSugg:къргакст V_  "oksentaa" ;
 кргамс:крга IV_КУНДАМС  "kaapia" ;
 кргамс+Use/SpellNoSugg:кърга IV_КУНДАМС  "kaapia" ;
@@ -4047,7 +4047,7 @@ LEXICON verbs
 кргафнемс:кргафне TV_КУНДАМС  "kaapia" ;
 кргафнемс+Use/SpellNoSugg:къргафне TV_КУНДАМС  "kaapia" ;
 кржакстомомс:кржакстом IV_АНДОМС  "vähentyä" ;
-кржакстоптомс:кржакстопт V_  "vähentää" ;
+кржакстоптомс:кржакстопт IV_АЛЫЯФТОМС  "vähentää" ;
 кржалгодомс:кржалгод IV_АНДОМС  "vähentyä" ;
 кржалготкшнемс:кржалготкшне IV_КУНДАМС  "vähentää" ;
 кржалгофнемс:кржалгофне TV_КУНДАМС  "vähentää" ;
@@ -4384,7 +4384,7 @@ LEXICON verbs
 ламбамгодомс:ламбамгод IV_АНДОМС  "makeutua" ;
 ламбамомс:ламбам IV_АНДОМС  "makeutua" ;
 ламбапнемс:ламбапне IV_КУНДАМС  "makeuttaa, tehdä makeaksi" ;
-ламбаптомс:ламбаптомс V_  "makeuttaa, tehdä makeaksi" ;
+ламбаптомс:ламбапт IV_АЛЫЯФТОМС  "makeuttaa, tehdä makeaksi" ;
 ламбаськодовомс:ламбаськодов IV_АНДОВОМС  "voida makeutua" ;
 ламбаськодомс:ламбаськод IV_АНДОМС  "makeutua" ;
 ламбаськофнемс:ламбаськофне TV_КУНДАМС  "makeuttaa" ;
@@ -4397,7 +4397,7 @@ LEXICON verbs
 ламокстафнемс:ламокстафне TV_КУНДАМС  "kertoa (luku toisella)" ;
 ламокстомкшнемс:ламокстомкшне IV_КУНДАМС  "enentyä" ;
 ламокстомомс:ламокстом IV_АНДОМС  "enentyä" ;
-ламокстомс:ламокст V_  "enentyä" ;
+ламокстомс:ламокст IV_АЛЫЯФТОМС  "enentyä" ;
 ламокшнемс:ламокшне IV_КУНДАМС  "enentyä" ;
 ламолгодомс:ламолгод IV_АНДОМС  "enentyä" ;
 ламолготкшнемс:ламолготкшне IV_КУНДАМС  "enentyä" ;
@@ -4463,7 +4463,7 @@ LEXICON verbs
 лафчемкшнемс:лафчемкшне IV_КУНДАМС  "heikentyä" ;
 лафчемомс:лафчем IV_АНДОМС  "heikentyä" ;
 лафчепнемс:лафчепне IV_КУНДАМС  "heikentää" ;
-лафчептомс:лафчепт V_  "heikentää" ;
+лафчептомс:лафчепт IV_АЛЫЯФТОМС  "heikentää" ;
 лашадевомс:лашадев IV_АНДОВОМС  "tulla lyödyksi" ;
 лашадемс:лашадь IV_АНДОМС  "lyödä" ;
 лашамс:лаша IV_КУНДАМС  "virtsata" ;
@@ -4639,7 +4639,7 @@ LEXICON verbs
 лишнемс:лишне IV_КУНДАМС  "tulla ulos" ;
 лиякстовомс:лиякстов IV_АНДОВОМС  "muuttua" ;
 лиякстомомс:лиякстом IV_АНДОМС  "muuttua" ;
-лиякстоптомс:лиякстопт V_  "muuttaa" ;
+лиякстоптомс:лиякстопт IV_АЛЫЯФТОМС  "muuttaa" ;
 лкнамс:лкна IV_КУНДАМС  "tutista" ;
 лкнамс+Use/SpellNoSugg:ълкна IV_КУНДАМС  "tutista" ;
 лкнамс+Use/SpellNoSugg:лъкна IV_КУНДАМС  "tutista" ;
@@ -4782,7 +4782,7 @@ LEXICON verbs
 лужатфнемс:лужатфне TV_КУНДАМС  "heikentää" ;
 лужатфтомс:лужатфт TV_АЛЫЯФТОМС  "kuluttaa puhki/rikki" ;
 лужедомс:лужед IV_АНДОМС  "irrottaa pähkinöitä kuorestaan" ;
-лужкстомс:лужкст V_  "painua kasaan" ;
+лужкстомс:лужкст IV_АЛЫЯФТОМС  "painua kasaan" ;
 лужнафтомс:лужнафт TV_АЛЫЯФТОМС  "liehuttaa, heiluttaa (tuuli lippua)" ;
 лужолемс:лужоль V_  "irrotella pähkinöitä ja auringonkukansiemeniä kuorestaan" ;
 лузгодемс:лузгодь IV_ПАЧКОДЕМС  "suomustaa (kala)" ;
@@ -5015,7 +5015,7 @@ LEXICON verbs
 лякшкотфнемс:лякшкотфне TV_КУНДАМС  "istuttaa kyykkyyn" ;
 лякшкотфтомс:лякшкотфт TV_АЛЫЯФТОМС  "istuttaa kyykkyyn" ;
 лямбодемс:лямбодь IV_ПАЧКОДЕМС  "lämmetä" ;
-лямбокстомс:лямбокстомс V_  "lämmetä" ;
+лямбокстомс:лямбокст IV_АЛЫЯФТОМС  "lämmetä" ;
 лямболгодомс:лямболгод IV_АНДОМС  "lämmetä" ;
 лямболготкшнемс:лямболготкшне IV_КУНДАМС  "lämmetä" ;
 лямболгофнемс:лямболгофне TV_КУНДАМС  "lämmittää" ;
@@ -5067,7 +5067,7 @@ LEXICON verbs
 ляценфтемс:ляценфть IV_НЯФТЕМС  "panna ammuskelemaan" ;
 ляцьфнемс:ляцьфне TV_КУНДАМС  "ammuttaa" ;
 ляцьфтемс:ляцьфть IV_НЯФТЕМС  "ammuttaa" ;
-ляцякстомс:ляцякстомс V_  "lennähtää" ;
+ляцякстомс:ляцякст IV_АЛЫЯФТОМС  "lennähtää" ;
 лёдоргодомс:лёдоргод IV_АНДОМС  "hajaantua" ;
 лёдоргодовомс:лёдоргодов IV_АНДОВОМС  "voida hajaantua" ;
 лёкшкодовомс:лёкшкодов IV_АНДОВОМС  "voida kyykistyä" ;
@@ -5115,7 +5115,7 @@ LEXICON verbs
 мазопнекшнемс:мазопнекшне IV_КУНДАМС  "kaunistella" ;
 мазопнемс:мазопне IV_КУНДАМС  "kaunistella" ;
 мазоптовомс:мазоптов IV_АНДОВОМС  "tulla kaunistetuksi" ;
-мазоптомс:мазопт V_  "kaunistaa" ;
+мазоптомс:мазопт IV_АЛЫЯФТОМС  "kaunistaa" ;
 мазоптфнемс:мазоптфне TV_КУНДАМС  "panna kaunistelemaan" ;
 мазоптфтомс:мазоптфт TV_АЛЫЯФТОМС  "panna kaunistamaan" ;
 майсемс:майсе IV_КУНДАМС  "kärsiä" ;
@@ -5131,15 +5131,15 @@ LEXICON verbs
 макшияфтомс:макшияфт TV_АЛЫЯФТОМС  "lahottaa" ;
 маладовомс:маладов IV_АНДОВОМС  "voida lähestyä" ;
 маладомс:малад IV_АНДОМС  "lähestyä" ;
-малаптомс:малапт V_  "lähentää, tuoda lähemmäs" ;
+малаптомс:малапт IV_АЛЫЯФТОМС  "lähentää, tuoda lähemmäs" ;
 маласькодовомс:маласькодов IV_АНДОВОМС  "voida lähestyä" ;
 маласькодомс:маласькод IV_АНДОМС  "lähestyä" ;
 маласькоткшнемс:маласькоткшне IV_КУНДАМС  "lähestyä" ;
 маласькофнемс:маласькофне TV_КУНДАМС  "lähentää, likentää, siirtää lähemmäs; jouduttaa" ;
 маласькофтомс:маласькофт TV_АЛЫЯФТОМС  "lähentää, likentää, siirtää lähemmäs; jouduttaa" ;
 малаткстовомс:малаткстов IV_АНДОВОМС  "voida lähestyä" ;
-малаткстомс:малатксто V_  "lähestyä" ;
-малаткстоптомс:малаткстопт V_  "lähentää" ;
+малаткстомс:малаткст IV_АЛЫЯФТОМС  "lähestyä" ;
+малаткстоптомс:малаткстопт IV_АЛЫЯФТОМС  "lähentää" ;
 малаткшнемс:малаткшне IV_КУНДАМС  "lähestyä" ;
 малатфтомс:малатфт TV_АЛЫЯФТОМС  "lähentää (toisiinsa)" ;
 малачнемс:малачне IV_КУНДАМС  "lähestyä" ;
@@ -5216,7 +5216,7 @@ LEXICON verbs
 матодомс:матод IV_АНДОМС  "nukahtaa" ;
 матодофтомс:матодофт TV_АЛЫЯФТОМС  "unettaa" ;
 матодфнемс:матодфне TV_КУНДАМС  "nukuttaa, tuutia (lasta), tuuditella" ;
-матомс:мат V_  "panna nukkumaan" ;
+матомс:мат IV_АЛЫЯФТОМС  "panna nukkumaan" ;
 маторфтомс:маторфт TV_АЛЫЯФТОМС  "ajaa pois" ;
 матотфнемс:матотфне TV_КУНДАМС  "saada uneen, nukuttaa" ;
 матотфтомс:матотфт TV_АЛЫЯФТОМС  "unettaa" ;
@@ -5231,7 +5231,7 @@ LEXICON verbs
 матфнемс:матфне TV_КУНДАМС  "painatella" ;
 матфтомс:матфт TV_АЛЫЯФТОМС  "panettaa nukkumaan" ;
 мацякстомомс:мацякстом IV_АНДОМС  "madaltua" ;
-мацякстоптомс:мацякстопт V_  "madaltaa" ;
+мацякстоптомс:мацякстопт IV_АЛЫЯФТОМС  "madaltaa" ;
 мацялгодомс:мацялгод IV_АНДОМС  "laskea (vesi), madaltua" ;
 мацялготкшнемс:мацялготкшне IV_КУНДАМС  "laskea (vesi), madaltua" ;
 мацялгофнемс:мацялгофне TV_КУНДАМС  "madaltaa" ;
@@ -5241,8 +5241,8 @@ LEXICON verbs
 машнемс:машне IV_КУНДАМС  "loppua" ;
 машнемс:машне IV_КУНДАМС  "kyllästyttää" ;
 машнефтемс:машнефть IV_НЯФТЕМС  "ikävystyttää" ;
-маштомс:маштомс TV_АЛЫЯФТОМС  "ottaa pois; menettää" ;
-маштомс:маштомс IV_АЛЫЯФТОМС  "kulua" ;
+маштомс:машт TV_АЛЫЯФТОМС  "ottaa pois; menettää" ;
+маштомс:машт IV_АЛЫЯФТОМС  "kulua" ;
 маштомс:машт IV_АЛЫЯФТОМС  "osata, taitaa; pystyä, kyetä" ;
 машфневомс:машфнев IV_АНДОВОМС  "tulla lopetetuksi" ;
 машфнекшнемс:машфнекшне IV_КУНДАМС  "olla lopuillaan" ;
@@ -5346,7 +5346,7 @@ LEXICON verbs
 мзолкшнемс+Use/SpellNoSugg:мъзолкшне IV_КУНДАМС  "hymähdellä" ;
 мивомс:мив IV_АНДОВОМС  "tulla myydyksi" ;
 микстадемс:микстадь IV_АНДОМС  "hirnahtaa" ;
-микстомс:миксто V_  "hirnua" ;
+микстомс:микст IV_АЛЫЯФТОМС  "hirnua" ;
 миледевомс:миледев IV_АНДОВОМС  "tulla soudetuksi" ;
 миледемс:миледь IV_ПАЧКОДЕМС  "soutaa" ;
 милетькшнемс:милетькшне IV_КУНДАМС  "soudella" ;
@@ -5510,7 +5510,7 @@ LEXICON verbs
 муксневомс:мукснев IV_АНДОВОМС  "voida ammua" ;
 мукснемс:муксне IV_КУНДАМС  "ammua" ;
 мукстамс:мукста IV_КУНДАМС  "alkaa ammua" ;
-мукстомс:мукст V_  "ammua" ;
+мукстомс:мукст IV_АЛЫЯФТОМС  "ammua" ;
 муксфнемс:муксфне TV_КУНДАМС  "ammua" ;
 муксфтомс:муксфт TV_АЛЫЯФТОМС  "panna ammumaan" ;
 мумс:му V_  "löytää" ;
@@ -5694,18 +5694,18 @@ LEXICON verbs
 мштерьфнемс+Use/SpellNoSugg:мъштерьфне TV_КУНДАМС  "mutista" ;
 мштерьфтемс:мштерьфть IV_НЯФТЕМС  "mutista" ;
 мштерьфтемс+Use/SpellNoSugg:мъштерьфть IV_НЯФТЕМС  "mutista" ;
-мыйнекстомс:мыйнекст V_  "alkaa hirnua" ;
+мыйнекстомс:мыйнекст IV_АЛЫЯФТОМС  "alkaa hirnua" ;
 мыйнемс:мыйне IV_КУНДАМС  "hirnua" ;
 мыйнямс:мыйня IV_КУНДАМС  "hirnua" ;
 мыкснемс:мыксне IV_КУНДАМС  "myhähdellä" ;
-мыкстомс:мыкст V_  "myhähtää" ;
+мыкстомс:мыкст IV_АЛЫЯФТОМС  "myhähtää" ;
 мынысемс:мынысе IV_КУНДАМС  "" ;
 мыргымс:мыргымс V_  "kuolla" ;
 мыркфтомс:мыркфт TV_АЛЫЯФТОМС  "tappaa" ;
 мявкснемс:мявксне IV_КУНДАМС  "naukua" ;
 мявкстадемс:мявкстадь IV_АНДОМС  "naukaista" ;
 мявкстовомс:мявкстов IV_АНДОВОМС  "voida naukua" ;
-мявкстомс:мявкст V_  "naukua" ;
+мявкстомс:мявкст IV_АЛЫЯФТОМС  "naukua" ;
 мядондавомс:мядондав IV_АНДОВОМС  "tulla rypistetyksi" ;
 мядондакшневомс:мядондакшнев IV_АНДОВОМС  "tulla rypistetyksi" ;
 мядондакшнемс:мядондакшне IV_КУНДАМС  "rypistyä, mennä ryppyyn" ;
@@ -5737,7 +5737,7 @@ LEXICON verbs
 мянкснемс:мянксне IV_КУНДАМС  "kääntää vaatteen helma t. hihansuut" ;
 мянкстамс:мянкста TV_КУНДАМС  "taittaa (alle)" ;
 мянкстовомс:мянкстов IV_АНДОВОМС  "tulla käännetyksi (alle)" ;
-мянкстомс:мянкстомс V_  "kääntää (alle)" ;
+мянкстомс:мянкст IV_АЛЫЯФТОМС  "kääntää (alle)" ;
 мянкстфнемс:мянкстфне TV_КУНДАМС  "käännättää (alle)" ;
 мянкстфтомс:мянкстфт TV_АЛЫЯФТОМС  "käännättää (alle)" ;
 мяннемс:мянне IV_КУНДАМС  "päästää (käsistään), laskea (irti)" ;
@@ -5841,7 +5841,7 @@ LEXICON verbs
 наледемс:наледь IV_ПАЧКОДЕМС  "kirjoa nale-kuvioita" ;
 налетьфнемс:налетьфне TV_КУНДАМС  "panna kirjomaan nale-kuvioita" ;
 налетьфтемс:налетьфть IV_НЯФТЕМС  "panna kirjomaan nale-kuvioita" ;
-налкстомс:налкст V_  "teroittaa" ;
+налкстомс:налкст IV_АЛЫЯФТОМС  "teroittaa" ;
 налхковомс:налхков IV_АНДОВОМС  "voida leikkiä" ;
 налхкозевомс:налхкозев IV_АНДОВОМС  "alkaa leikkiä" ;
 налхкомс:налхк V_  "leikkiä" ;
@@ -5892,7 +5892,7 @@ LEXICON verbs
 нарневомс:нарнев IV_АНДОВОМС  "tulla pyyhityksi" ;
 нарнекшнемс:нарнекшне TV_КУНДАМС  "pyyhkiä" ;
 нарнемс:нарне TV_КУНДАМС  "pyyhiskellä, hinkata, hankailla, kuivailla" ;
-нароштомс:нарошт V_  "poistua" ;
+нароштомс:нарошт IV_АЛЫЯФТОМС  "poistua" ;
 нарсекшнемс:нарсекшне IV_КУНДАМС  "leikkailla tukkaansa" ;
 нарсемс:нарсе TV_КУНДАМС  "leikata/leikkauttaa tukkansa, ajella/ajattaa (partansa)" ;
 наругавомс:наругав IV_АНДОВОМС  "tulla pilkatuksi" ;
@@ -5956,9 +5956,9 @@ LEXICON verbs
 недяфтомс:недяфт TV_АЛЫЯФТОМС  "pujotuttaa" ;
 нежедевомс:нежедев IV_АНДОВОМС  "tulla tuetuksi" ;
 нежедемс:нежедь TV_ПАЧКОДЕМС  "tukеа" ;
-нежекстомс:нежекст V_  "ylensyödä, syödä itsensä kipeäksi" ;
+нежекстомс:нежекст IV_АЛЫЯФТОМС  "ylensyödä, syödä itsensä kipeäksi" ;
 нежекшнемс:нежекшне IV_КУНДАМС  "ahmia jatkuvasti" ;
-нежетькстомс:нежетькст V_  "tukeutua" ;
+нежетькстомс:нежетькст IV_АЛЫЯФТОМС  "tukeutua" ;
 нежетькшнекшнемс:нежетькшнекшне IV_КУНДАМС  "nojailla" ;
 нежетькшнемс:нежетькшне IV_КУНДАМС  "tunkeutua" ;
 нежетьфнемс:нежетьфне TV_КУНДАМС  "panna tukemaan" ;
@@ -5993,7 +5993,7 @@ LEXICON verbs
 нешконзамс:нешконза IV_КУНДАМС  "parveilla" ;
 нзлгофнемс:нзлгофне TV_КУНДАМС  "näyttää hampaitaan, irvistellä" ;
 нзлгофтомс:нзлгофт TV_АЛЫЯФТОМС  "irvistää, näyttää hampaitaan" ;
-нижекстомс:нижекст V_  "ponnistaa" ;
+нижекстомс:нижекст IV_АЛЫЯФТОМС  "ponnistaa" ;
 низелгодовомс:низелгодов IV_АНДОВОМС  "voida näyttää hampaitaan" ;
 низелгодомс:низелгод IV_АНДОМС  "näyttää hampaitaan" ;
 низелготкшнемс:низелготкшне IV_КУНДАМС  "näytellä hampaitaan" ;
@@ -6015,11 +6015,11 @@ LEXICON verbs
 нилентьфнемс:нилентьфне TV_КУНДАМС  "panna nieleskelemään" ;
 нилентьфтемс:нилентьфть IV_НЯФТЕМС  "panna nieleskemään" ;
 нильгодемс:нильгодь IV_ПАЧКОДЕМС  "inhota, tuntea inhoa jotakuta kohtaan" ;
-нильгокстомс:нильгокст V_  "syödä tarpeekseen" ;
+нильгокстомс:нильгокст IV_АЛЫЯФТОМС  "syödä tarpeekseen" ;
 нильготькшнемс:нильготькшне IV_КУНДАМС  "syödä tarpeekseen" ;
 нильготьфнемс:нильготьфне TV_КУНДАМС  "syöttää täyteen" ;
 нильготьфтемс:нильготьфть IV_НЯФТЕМС  "inhottaa" ;
-нилькстомс:нилькст V_  "inhota" ;
+нилькстомс:нилькст IV_АЛЫЯФТОМС  "inhota" ;
 нильфнемс:нильфне TV_КУНДАМС  "panna nieleskelemään" ;
 нильфтемс:нильфть IV_НЯФТЕМС  "pakottaa /panna nielemään" ;
 нильхкснемс:нильхксне IV_КУНДАМС  "saada jstak tarpeekseen" ;
@@ -6059,12 +6059,12 @@ LEXICON verbs
 ноксоряфтомс:ноксоряфт TV_АЛЫЯФТОМС  "panna yrittämään" ;
 нолавомс:нолав IV_АНДОВОМС  "tulla nuolluksi" ;
 нолакстомомс:нолакстом IV_АНДОМС  "laiskistua, tulla laiskaksi" ;
-нолакстомс:нолакст V_  "laiskistua" ;
+нолакстомс:нолакст IV_АЛЫЯФТОМС  "laiskistua" ;
 нолалгодомс:нолалгод IV_АНДОМС  "laiskotella" ;
 ноламс:нола IV_КУНДАМС  "nuolla, nuoleksia; nuolaista, lipaista" ;
 нолафнемс:нолафне TV_КУНДАМС  "panna nuoleskelemaan" ;
 нолашнемс:нолашне IV_КУНДАМС  "liukastella" ;
-нолаштомс:нолашт V_  "liukastua" ;
+нолаштомс:нолашт IV_АЛЫЯФТОМС  "liukastua" ;
 нолгадомс:нолгад IV_АНДОМС  "laiskotella" ;
 нолгажадомс:нолгажад IV_АНДОМС  "olla liukas" ;
 нолгаткшнемс:нолгаткшне IV_КУНДАМС  "laiskotella" ;
@@ -6132,7 +6132,7 @@ LEXICON verbs
 ношкалгодомс:ношкалгод IV_АНДОМС  "tylsistyä" ;
 ношкамомс:ношкам IV_АНДОМС  "tylsyä" ;
 ношкапнемс:ношкапне IV_КУНДАМС  "tylsistää" ;
-ношкаптомс:ношкаптомс V_  "tylsistää" ;
+ношкаптомс:ношкапт IV_АЛЫЯФТОМС  "tylsistää" ;
 ношкапфнемс:ношкапфне TV_КУНДАМС  "tylsistyttää" ;
 ношкапфтомс:ношкапфт TV_АЛЫЯФТОМС  "tylsistyttää" ;
 ношкафтомс:ношкафт TV_АЛЫЯФТОМС  "tylsistää" ;
@@ -6319,7 +6319,7 @@ LEXICON verbs
 одкстомомс:одкстом IV_АНДОМС  "uudistua" ;
 одкстомфнемс:одкстомфне TV_КУНДАМС  "uudistaa" ;
 одкстомфтомс:одкстомфт TV_АЛЫЯФТОМС  "uudistaa" ;
-одкстоптомс:одкстопт V_  "uudistaa" ;
+одкстоптомс:одкстопт IV_АЛЫЯФТОМС  "uudistaa" ;
 одолгодовомс:одолгодов IV_АНДОВОМС  "voida nuorentua" ;
 одолгодомс:одолгод IV_АНДОМС  "nuorentua" ;
 одонзакшнемс:одонзакшне IV_КУНДАМС  "uudistella" ;
@@ -6358,7 +6358,7 @@ LEXICON verbs
 ойдяфтомс:ойдяфт TV_АЛЫЯФТОМС  "ryöstättää" ;
 ойкснемс:ойксне IV_КУНДАМС  "voihkia" ;
 ойкстадемс:ойкстадь IV_АНДОМС  "voihkia" ;
-ойкстомс:ойкст V_  "voihkia" ;
+ойкстомс:ойкст IV_АЛЫЯФТОМС  "voihkia" ;
 оккупировандавомс:оккупировандав IV_АНДОВОМС  "tulla miehitetyksi" ;
 оккупировандамс:оккупированда IV_КУНДАМС  "miehittää" ;
 оккупировандафнемс:оккупировандафне TV_КУНДАМС  "miehityttää" ;
@@ -6392,7 +6392,7 @@ LEXICON verbs
 опамфнемс:опамфне TV_КУНДАМС  "tainnuttaa" ;
 опамфтомс:опамфт TV_АЛЫЯФТОМС  "läkähdyttää" ;
 опапнемс:опапне IV_КУНДАМС  "uuvuttaa" ;
-опаптомс:опапт V_  "uuvuttaa" ;
+опаптомс:опапт IV_АЛЫЯФТОМС  "uuvuttaa" ;
 опафтомс:опафт TV_АЛЫЯФТОМС  "tukahduttaa" ;
 опольдемс:опольдь IV_ПАЧКОДЕМС  "hiljentyä" ;
 оправдандавомс:оправдандав IV_АНДОВОМС  "tulla puolustetuksi" ;
@@ -6445,7 +6445,7 @@ LEXICON verbs
 оржамомс:оржам IV_АНДОМС  "tulla teräväksi, terävöityä" ;
 оржапнемс:оржапне IV_КУНДАМС  "teroitella" ;
 оржаптовомс:оржаптов IV_АНДОВОМС  "tulla teroitetuksi" ;
-оржаптомс:оржапт V_  "teroittaa" ;
+оржаптомс:оржапт IV_АЛЫЯФТОМС  "teroittaa" ;
 ориентировандамс:ориентированда IV_КУНДАМС  "orientoitua" ;
 ормаськодомс:ормаськод IV_АНДОМС  "jähmettyä" ;
 орхкадевомс:орхкадев IV_АНДОВОМС  "tulla tuupituksi" ;
@@ -6505,12 +6505,12 @@ LEXICON verbs
 охотендафнемс:охотендафне TV_КУНДАМС  "panna metsästelemään" ;
 охснемс:охсне IV_КУНДАМС  "voihkia" ;
 охстамс:охста TV_КУНДАМС  "voihkaista" ;
-охстомс:охст V_  "voihkaista" ;
+охстомс:охст IV_АЛЫЯФТОМС  "voihkaista" ;
 оцелгафнекшнемс:оцелгафнекшне IV_КУНДАМС  "kehuskella" ;
 оцюгофтомс:оцюгофт TV_АЛЫЯФТОМС  "suurentaa" ;
 оцюкстомомс:оцюкстом IV_АНДОМС  "suurentua" ;
-оцюкстомс:оцюкст V_  "suurentua" ;
-оцюкстоптомс:оцюкстопт V_  "suurentaa" ;
+оцюкстомс:оцюкст IV_АЛЫЯФТОМС  "suurentua" ;
+оцюкстоптомс:оцюкстопт IV_АЛЫЯФТОМС  "suurentaa" ;
 оцюлгодомс:оцюлгод IV_АНДОМС  "suurentua" ;
 оцюлготкшнемс:оцюлготкшне IV_КУНДАМС  "suurentua" ;
 оцюлгофнемс:оцюлгофне TV_КУНДАМС  "käyttäytyä ylimielisesti" ;
@@ -6658,7 +6658,7 @@ LEXICON verbs
 парфтомс:парфт TV_АЛЫЯФТОМС  "(murt.) väristä, täristä (vilusta)" ;
 парьгодемс:парьгодь IV_ПАЧКОДЕМС  "valella kuumalla vedellä" ;
 парькстамс:парькста IV_КУНДАМС  "vannehtia tynnyri" ;
-парькстомс:парьксто V_  "röyhtäistä" ;
+парькстомс:парькст IV_АЛЫЯФТОМС  "röyhtäistä" ;
 парямс:паря IV_КУНДАМС  "höyryttää" ;
 паряфнекшнемс:паряфнекшне IV_КУНДАМС  "höyrytellä" ;
 паряфнемс:паряфне TV_КУНДАМС  "höyryttää" ;
@@ -6706,8 +6706,8 @@ LEXICON verbs
 пежеклакшнемс:пежеклакшне IV_КУНДАМС  "vannoskella" ;
 пежекламс:пежекла IV_КУНДАМС  "vannoa" ;
 пежекснемс:пежексне IV_КУНДАМС  "vannoa, tehdä vala" ;
-пежекстомс:пежекст V_  "vannoa, tehdä vala" ;
-пежетькстомс:пежетькст V_  "vannoa" ;
+пежекстомс:пежекст IV_АЛЫЯФТОМС  "vannoa, tehdä vala" ;
+пежетькстомс:пежетькст IV_АЛЫЯФТОМС  "vannoa" ;
 пежетькшнемс:пежетькшне IV_КУНДАМС  "vannoa" ;
 пежетьфтемс:пежетьфть IV_НЯФТЕМС  "vannottaa" ;
 пезетькшнемс:пезетькшне IV_КУНДАМС  "vannottaa" ;
@@ -6734,7 +6734,7 @@ LEXICON verbs
 пекияфтомс:пекияфт TV_АЛЫЯФТОМС  "saattaa raskaaksi" ;
 пекодемс:пекодь IV_ПАЧКОДЕМС  "tahtoa" ;
 пелезевомс:пелезев IV_АНДОВОМС  "alkaa pelätä" ;
-пелемс:пель V_  "pelätä" ;
+пелемс:пель IV_ПАЧКОДЕМС  "pelätä" ;
 пелендемс:пелендь IV_ПАЧКОДЕМС  "pelätä" ;
 пеленкшнемс:пеленкшне IV_КУНДАМС  "pelätä" ;
 пеленьфнемс:пеленьфне TV_КУНДАМС  "pelotella" ;
@@ -6742,7 +6742,7 @@ LEXICON verbs
 пельдемс:пельдь IV_ПАЧКОДЕМС  "pyöriä" ;
 пелькстовомс:пелькстов IV_АНДОВОМС  "voida pelätä" ;
 пелькстомомс:пелькстом IV_АНДОМС  "alkaa pelätä" ;
-пелькстомс:пелькст V_  "pelätä" ;
+пелькстомс:пелькст IV_АЛЫЯФТОМС  "pelätä" ;
 пельфнемс:пельфне TV_КУНДАМС  "pelotella" ;
 пельфтемс:пельфть IV_НЯФТЕМС  "pelottaa" ;
 пелядавомс:пелядав IV_АНДОВОМС  "tulla tehtyä lämmönpitäväksi" ;
@@ -6804,7 +6804,7 @@ LEXICON verbs
 печатлафнемс:печатлафне TV_КУНДАМС  "painattaa" ;
 печатлафтомс:печатлафт TV_АЛЫЯФТОМС  "painattaa (kirja), julkaista" ;
 печковомс:печков IV_АНДОВОМС  "tulla teurastetuksi" ;
-печкомс:печк V_  "teurastaa, lahdata (eläin)" ;
+печкомс:печк TV_АНДОМС  "teurastaa, lahdata (eläin)" ;
 печкондемс:печкондь IV_ПАЧКОДЕМС  "teurastaa" ;
 печконкшнемс:печконкшне IV_КУНДАМС  "teurastaa" ;
 печксемс:печксе TV_КУНДАМС  "leikata; tappaa" ;
@@ -6833,14 +6833,14 @@ LEXICON verbs
 пижелгофнемс:пижелгофне TV_КУНДАМС  "panna vihertämään" ;
 пижелгофтомс:пижелгофт TV_АЛЫЯФТОМС  "värjätä vihreäksi" ;
 пижелдомс:пижелд IV_АНДОМС  "vihertää" ;
-пижелкстомс:пижелкст V_  "vihertyä" ;
+пижелкстомс:пижелкст IV_АЛЫЯФТОМС  "vihertyä" ;
 пижемомс:пижем IV_АНДОМС  "vihertyä" ;
 пижиямс:пижия IV_КУНДАМС  "alkaa vihertyä" ;
 пижияфнемс:пижияфне TV_КУНДАМС  "panna vihertymään" ;
 пижияфтомс:пижияфт TV_АЛЫЯФТОМС  "panna vihertymään" ;
 пизевомс:пизев IV_АНДОВОМС  "tulla sateen kastelemaksi" ;
 пиземомс:пизем IV_АНДОМС  "tulla punaiseksi raivosta" ;
-пиземс:пизе V_  "sataa" ;
+пиземс:пизе IV_КУНДАМС  "sataa" ;
 пизсемс:пизсе IV_КУНДАМС  "sataa" ;
 пизьгоныямс:пизьгоныя IV_КУНДАМС  "peittyä pisamiin t. kesakoihin" ;
 пизякодомс:пизякод IV_АНДОМС  "alkaa hyöriä" ;
@@ -6927,7 +6927,7 @@ LEXICON verbs
 пичедемс:пичедь IV_ПАЧКОДЕМС  "surra" ;
 пичелдомс:пичелд IV_АНДОМС  "polttaa (nokkonen)" ;
 пичетемс:пичеть IV_АЛЫЯФТОМС  "kutista" ;
-пичетькстомс:пичетькст V_  "aiheuttaa surua" ;
+пичетькстомс:пичетькст IV_АЛЫЯФТОМС  "aiheuttaa surua" ;
 пичетькшнемс:пичетькшне IV_КУНДАМС  "surra" ;
 пичетьфнемс:пичетьфне TV_КУНДАМС  "tehdä surulliseksi" ;
 пичетьфтемс:пичетьфть IV_НЯФТЕМС  "surettaa" ;
@@ -7072,7 +7072,7 @@ LEXICON verbs
 полалакшнемс:полалакшне IV_КУНДАМС  "asetella" ;
 полаламс:полала IV_КУНДАМС  "panna" ;
 полалафнемс:полалафне TV_КУНДАМС  "asetuttaa" ;
-полаткстомс:полаткст V_  "jatkaa" ;
+полаткстомс:полаткст IV_АЛЫЯФТОМС  "jatkaa" ;
 полаткшемс:полаткше V_  "oksastaa" ;
 полаткшнемс:полаткшне IV_КУНДАМС  "vaihtaa" ;
 полатфнемс:полатфне TV_КУНДАМС  "panna jatkamaan" ;
@@ -7093,7 +7093,7 @@ LEXICON verbs
 полгаськодомс:полгаськод IV_АНДОМС  "katsoa kieroon" ;
 полгодемс:полгодь IV_ПАЧКОДЕМС  "pullistua (silmistä)" ;
 полдаксакшнемс:полдаксакшне IV_КУНДАМС  "lähteä pois" ;
-полдакстомс:полдакстомс V_  "häipyä" ;
+полдакстомс:полдакст IV_АЛЫЯФТОМС  "häipyä" ;
 полдаськофнемс:полдаськофне TV_КУНДАМС  "pullistaa (silmiään)" ;
 полдаськофтомс:полдаськофт TV_АЛЫЯФТОМС  "pullistaa (silmiään)" ;
 полдашкадомс:полдашкад IV_АНДОМС  "kyhmyyntyä" ;
@@ -7225,7 +7225,7 @@ LEXICON verbs
 потомомс:потом IV_АНДОМС  "lievittyä" ;
 потомфнемс:потомфне TV_КУНДАМС  "lievittää" ;
 потомфтомс:потомфт TV_АЛЫЯФТОМС  "lievittää" ;
-потоптомс:потопт V_  "lievittää" ;
+потоптомс:потопт IV_АЛЫЯФТОМС  "lievittää" ;
 потордомс:поторд IV_АНДОМС  "" ;
 потцевомс:потцев IV_АНДОВОМС  "voida perääntyä" ;
 потцекшнемс:потцекшне IV_КУНДАМС  "perääntyä" ;
@@ -7471,7 +7471,7 @@ LEXICON verbs
 пужфнемс:пужфне TV_КУНДАМС  "kuihduttaa" ;
 пужфтомс:пужфт TV_АЛЫЯФТОМС  "kuihduttaa" ;
 пуйкстовомс:пуйкстов IV_АНДОВОМС  "voida paleltua" ;
-пуйкстомс:пуйкст V_  "paleltua" ;
+пуйкстомс:пуйкст IV_АЛЫЯФТОМС  "paleltua" ;
 пуйксфнемс:пуйксфне TV_КУНДАМС  "palelluttaa" ;
 пуйксфтомс:пуйксфт TV_АЛЫЯФТОМС  "palelluttaa" ;
 пукавомс:пукав IV_АНДОВОМС  "voida työskennellä" ;
@@ -7654,12 +7654,12 @@ LEXICON verbs
 пучконтфнемс:пучконтфне TV_КУНДАМС  "lennättää sivuun" ;
 пучконтфтомс:пучконтфт TV_АЛЫЯФТОМС  "lennättää sivuun" ;
 пушкснемс:пушксне IV_КУНДАМС  "puuskuttaa" ;
-пушкстомс:пушксто V_  "huoata" ;
+пушкстомс:пушкст IV_АЛЫЯФТОМС  "huoata" ;
 пушнекшнемс:пушнекшне IV_КУНДАМС  "paistaa" ;
 пушнемс:пушне IV_КУНДАМС  "paistaa, paahtaa; polttaa" ;
 пушнефнекшнемс:пушнефнекшне IV_КУНДАМС  "paistattaa" ;
 пуштовомс:пуштов IV_АНДОВОМС  "tulla paistetuksi" ;
-пуштомс:пушт V_  "paistaa, paahtaa; polttaa" ;
+пуштомс:пушт IV_АЛЫЯФТОМС  "paistaa, paahtaa; polttaa" ;
 пуштфтомс:пуштфт TV_АЛЫЯФТОМС  "paistattaa" ;
 пушфнемс:пушфне TV_КУНДАМС  "paistattaa" ;
 пушфтомс:пушфт TV_АЛЫЯФТОМС  "paistattaa" ;
@@ -7677,7 +7677,7 @@ LEXICON verbs
 пчкоргодомс+Use/SpellNoSugg:пъчкоргод IV_АНДОМС  "purskahtaa (itkuun), puhjeta (kyyneliin)" ;
 пчксемс:пчксе IV_КУНДАМС  "parantua" ;
 пчксемс+Use/SpellNoSugg:пъчксе IV_КУНДАМС  "parantua" ;
-пшакстомс:пшаксто V_  "huoata" ;
+пшакстомс:пшакст IV_АЛЫЯФТОМС  "huoata" ;
 пшикстадемс:пшикстадь IV_АНДОМС  "sihistä" ;
 пшкядемс:пшкядь IV_АНДОМС  "vedota, kääntyä jonkun puoleen, etsiä tukea" ;
 пшкядемс+Use/SpellNoSugg:пъшкядь IV_АНДОМС  "vedota, kääntyä jonkun puoleen, etsiä tukea" ;
@@ -8007,7 +8007,7 @@ LEXICON verbs
 пяльдемс:пяльдь IV_ПАЧКОДЕМС  "vääntää" ;
 пялькснекшнемс:пялькснекшне V_  "kilpailla" ;
 пялькснемс:пяльксне IV_КУНДАМС  "kilpailla" ;
-пялькстомс:пялькст V_  "kilpailla" ;
+пялькстомс:пялькст IV_АЛЫЯФТОМС  "kilpailla" ;
 пяльксфтомс:пяльксфт TV_АЛЫЯФТОМС  "kilpailuttaa" ;
 пяльневомс:пяльнев IV_АНДОВОМС  "tulla kierretyksi" ;
 пяльнекшнемс:пяльнекшне IV_КУНДАМС  "kierrellä" ;
@@ -8097,7 +8097,7 @@ LEXICON verbs
 равжелдомс:равжелд IV_АНДОМС  "mustua" ;
 равжелкшнемс:равжелкшне IV_КУНДАМС  "häämöttää mustana" ;
 равжемомс:равжем IV_АНДОМС  "mustua" ;
-равжептомс:равжепт V_  "mustata" ;
+равжептомс:равжепт IV_АЛЫЯФТОМС  "mustata" ;
 равчкодомс:равчкод IV_АНДОМС  "mustua" ;
 равчкоткшнемс:равчкоткшне IV_КУНДАМС  "mustua" ;
 равчкофнемс:равчкофне TV_КУНДАМС  "mustata" ;
@@ -8105,7 +8105,7 @@ LEXICON verbs
 равчкофтфтомс:равчкофтфт TV_АЛЫЯФТОМС  "panna mustaamaan" ;
 равшкодомс:равшкод IV_АНДОМС  "mustua" ;
 равшкопнемс:равшкопне IV_КУНДАМС  "mustata" ;
-равшкоптомс:равшкопт V_  "mustata" ;
+равшкоптомс:равшкопт IV_АЛЫЯФТОМС  "mustata" ;
 равшкоткшнемс:равшкоткшне IV_КУНДАМС  "mustua" ;
 равшкофнемс:равшкофне TV_КУНДАМС  "mustata" ;
 равшкофтомс:равшкофт TV_АЛЫЯФТОМС  "mustata" ;
@@ -8314,7 +8314,7 @@ LEXICON verbs
 ровнандакшнемс:ровнандакшне IV_КУНДАМС  "tasoitella" ;
 ровнандамс:ровнанда IV_КУНДАМС  "tasoittaa" ;
 ровнандафнемс:ровнандафне TV_КУНДАМС  "tasoituttaa" ;
-ровнаптомс:ровнапт V_  "tasoittaa" ;
+ровнаптомс:ровнапт IV_АЛЫЯФТОМС  "tasoittaa" ;
 рожедомомс:рожедом IV_АНДОМС  "tulla lähelle" ;
 рожодовомс:рожодов IV_АНДОВОМС  "voida rauhoittua" ;
 рожодомс:рожод IV_АНДОМС  "rauhoittua" ;
@@ -8334,7 +8334,7 @@ LEXICON verbs
 ронапневомс:ронапнев IV_АНДОВОМС  "tulla tasoitetuksi" ;
 ронапнемс:ронапне IV_КУНДАМС  "tasoittaa" ;
 ронаптовомс:ронаптов IV_АНДОВОМС  "tulla tasoitetuksi" ;
-ронаптомс:ронапт V_  "tasoittaa" ;
+ронаптомс:ронапт IV_АЛЫЯФТОМС  "tasoittaa" ;
 ронаптфтомс:ронаптфт TV_АЛЫЯФТОМС  "tasoituttaa" ;
 ронапфнемс:ронапфне TV_КУНДАМС  "tasoituttaa" ;
 роскодомомс:роскодом IV_АНДОМС  "kuihtua" ;
@@ -8349,7 +8349,7 @@ LEXICON verbs
 рубцевандакшнемс:рубцевандакшне IV_КУНДАМС  "arpeutua" ;
 рубцевандамс:рубцеванда IV_КУНДАМС  "arpeutua" ;
 рубцевандафнемс:рубцевандафне TV_КУНДАМС  "arpeuttaa" ;
-ружатомс:ружат V_  "täristä" ;
+ружатомс:ружат IV_АЛЫЯФТОМС  "täristä" ;
 рукодельничендакшнемс:рукодельничендакшне IV_КУНДАМС  "tehdä käsitöitä" ;
 рукодельничендамс:рукодельниченда IV_КУНДАМС  "tehdä käsitöitä" ;
 румодемс:румодь IV_ПАЧКОДЕМС  "tulla mustelma" ;
@@ -8467,8 +8467,8 @@ LEXICON verbs
 сатнекшнемс:сатнекшне IV_КУНДАМС  "riittää" ;
 сатнемс:сатне IV_КУНДАМС  "riittää" ;
 сатовомс:сатов IV_АНДОВОМС  "voida riittää" ;
-сатомс:сатомс V_  "riittää" ;
-сатомс:сат V_  "saavuttaa, saada kiinni, tavoittaa" ;
+сатомс:сат IV_АЛЫЯФТОМС  "riittää" ;
+сатомс:сат IV_АЛЫЯФТОМС  "saavuttaa, saada kiinni, tavoittaa" ;
 сатфневомс:сатфнев IV_АНДОВОМС  "tulla saavutetuksi" ;
 сатфнекшнемс:сатфнекшне IV_КУНДАМС  "tavoitella" ;
 сатфнемс:сатфне TV_КУНДАМС  "tavoitella" ;
@@ -8579,7 +8579,7 @@ LEXICON verbs
 сельдердемс:сельдердь IV_ПАЧКОДЕМС  "välkkyä" ;
 сельмодевомс:сельмодев IV_АНДОВОМС  "tulla vahingoitetuksi (pahalla) silmällä" ;
 сельмодемс:сельмодь TV_ПАЧКОДЕМС  "vahingoittaa silmällä" ;
-сельмокстомс:сельмоксто V_  "noitua joku pahalla silmällä" ;
+сельмокстомс:сельмокст IV_АЛЫЯФТОМС  "noitua joku pahalla silmällä" ;
 сельмотькшнекшнемс:сельмотькшнекшне IV_КУНДАМС  "katsella pahalla silmällä" ;
 сельмотькшнемс:сельмотькшне IV_КУНДАМС  "katsella pahalla silmällä" ;
 сельмотькштфтомс:сельмотькштфт TV_АЛЫЯФТОМС  "panna katselemaan pahalla silmällä" ;
@@ -8607,7 +8607,7 @@ LEXICON verbs
 серайготкшнемс:серайготкшне IV_КУНДАМС  "harmaantua" ;
 сервировандамс:сервированда IV_КУНДАМС  "kattaa pöytä ateriointia varten" ;
 сердямс:сердя IV_КУНДАМС  "ottaa hoitoon, huollettavakseen t. hoidettavakseen" ;
-серекстомс:серексто V_  "kohottaa" ;
+серекстомс:серекст IV_АЛЫЯФТОМС  "kohottaa" ;
 серекшнемс:серекшне IV_КУНДАМС  "huutaa" ;
 серемкшнемс:серемкшне IV_КУНДАМС  "palaa" ;
 серемовомс:серемов IV_АНДОВОМС  "voida palaa" ;
@@ -8622,12 +8622,12 @@ LEXICON verbs
 серептевомс:серептев IV_АНДОВОМС  "tulla hehkutetuksi" ;
 серептемс:серепть TV_АЛЫЯФТОМС  "hehkuttaa" ;
 серептемс:серепть TV_АЛЫЯФТОМС  "syventää" ;
-серептомс:серепт V_  "sytyttää" ;
+серептомс:серепт IV_АЛЫЯФТОМС  "sytyttää" ;
 серептьфнемс:серептьфне TV_КУНДАМС  "panna sytyttämään" ;
 серептьфтемс:серептьфть IV_НЯФТЕМС  "panna sytyttämään" ;
 серешкодомс:серешкод IV_АНДОМС  "kohota (ilmasta)" ;
 серикстомомс:серикстом IV_АНДОМС  "kohota" ;
-серикстоптомс:серикстопт V_  "kohottaa" ;
+серикстоптомс:серикстопт IV_АЛЫЯФТОМС  "kohottaa" ;
 сoрнаткшнемс:сoрнаткшне IV_КУНДАМС  "täristä" ;
 серьгядевомс:серьгядев IV_АНДОВОМС  "tulla kutsutuksi" ;
 серьгядемс:серьгядь TV_ПАЧКОДЕМС  "kutsua" ;
@@ -8922,7 +8922,7 @@ LEXICON verbs
 сокорямс:сокоря IV_КУНДАМС  "kaivella" ;
 сокоряфнемс:сокоряфне TV_КУНДАМС  "panna kaivelemaan" ;
 сокоряфтомс:сокоряфт TV_АЛЫЯФТОМС  "panna kaivelemaan" ;
-сокотомс:сокот V_  "väristä" ;
+сокотомс:сокот IV_АЛЫЯФТОМС  "väristä" ;
 сокотфнемс:сокотфне TV_КУНДАМС  "värisyttää" ;
 сокотфтомс:сокотфт TV_АЛЫЯФТОМС  "värisyttää" ;
 соксевомс:соксев IV_АНДОВОМС  "tulla kynnetyksi" ;
@@ -8974,7 +8974,7 @@ LEXICON verbs
 сотнефнекшнемс:сотнефнекшне IV_КУНДАМС  "sidotuttaa" ;
 сотнефтомс:сотнефт TV_АЛЫЯФТОМС  "sidotuttaa" ;
 сотовомс:сотов IV_АНДОВОМС  "tulla solmituksi" ;
-сотомс:сот V_  "sitoa" ;
+сотомс:сот IV_АЛЫЯФТОМС  "sitoa" ;
 сотфнекшнемс:сотфнекшне IV_КУНДАМС  "sidotella" ;
 сотфнемс:сотфне TV_КУНДАМС  "sidottaa" ;
 сотфтомс:сотфт TV_АЛЫЯФТОМС  "sidottaa" ;
@@ -9257,7 +9257,7 @@ LEXICON verbs
 стяшентфтомс+Use/SpellNoSugg:сътяшентфт TV_АЛЫЯФТОМС  "panna nousemaan" ;
 сувавомс:сував IV_АНДОВОМС  "voida mennä t. astua sisään" ;
 сувамс:сува IV_КУНДАМС  "mennä/astua sisään" ;
-суватомс:суватомс V_  "kastella" ;
+суватомс:суват IV_АЛЫЯФТОМС  "kastella" ;
 сувафнемс:сувафне TV_КУНДАМС  "viedä/mahduttaa sisälle" ;
 сувафтомс:сувафт TV_АЛЫЯФТОМС  "viedä/mahduttaa sisälle" ;
 сувиякшнемс:сувиякшне IV_КУНДАМС  "vetäytyä pilveen" ;
@@ -9286,14 +9286,14 @@ LEXICON verbs
 судордамс:судорда TV_КУНДАМС  "silittää (esim. päätä)" ;
 судордомс:судорд IV_АНДОМС  "irrottaa" ;
 судоткстовомс:судоткстов IV_АНДОВОМС  "(voida) saada nuha" ;
-судоткстомс:судоткстомс V_  "saada nuha" ;
+судоткстомс:судоткст IV_АЛЫЯФТОМС  "saada nuha" ;
 судьрязефтемс:судьрязефть IV_НЯФТЕМС  "kampautella" ;
 судьряфнекшнемс:судьряфнекшне IV_КУНДАМС  "kampautella" ;
 судьряфнемс:судьряфне TV_КУНДАМС  "kampauttaa" ;
 судьряфтомс:судьряфт TV_АЛЫЯФТОМС  "kampauttaa" ;
 судямомс:судям IV_АНДОМС  "torkkua" ;
 сузокстомомс:сузокстом IV_АНДОМС  "saada nuha" ;
-сузокстомс:сузокстомс V_  "saada nuha" ;
+сузокстомс:сузокст IV_АЛЫЯФТОМС  "saada nuha" ;
 сузокстувкшнемс:сузокстувкшне IV_КУНДАМС  "(voida) saada nuha (silloin tällöin, odottamatta, äkillisesti)" ;
 сузолгодомс:сузолгод IV_АНДОМС  "lämmitä jonkin verran" ;
 сузолгофтомс:сузолгофт TV_АЛЫЯФТОМС  "lämmittää jonkin verran" ;
@@ -9477,7 +9477,7 @@ LEXICON verbs
 сютямкшнемс:сютямкшне IV_КУНДАМС  "unohtua" ;
 сютямомс:сютям IV_АНДОМС  "hiljentyä" ;
 сютяпнемс:сютяпне IV_КУНДАМС  "hiljentää" ;
-сютяптомс:сютяпт V_  "hiljentää" ;
+сютяптомс:сютяпт IV_АЛЫЯФТОМС  "hiljentää" ;
 сюцевомс:сюцев IV_АНДОВОМС  "tulla torutuksi" ;
 сюцезевомс:сюцезев IV_АНДОВОМС  "alkaa riidellä" ;
 сюцекшнекшнемс:сюцекшнекшне IV_КУНДАМС  "haukkua" ;
@@ -9569,7 +9569,7 @@ LEXICON verbs
 сярядемс:сярядь IV_ПАЧКОДЕМС  "sairastua" ;
 сярякаткшнемс:сярякаткшне IV_КУНДАМС  "alkaa järistä" ;
 сярятькстовомс:сярятькстов IV_АНДОВОМС  "voida sairastua" ;
-сярятькстомс:сярятькст V_  "sairastua" ;
+сярятькстомс:сярятькст IV_АЛЫЯФТОМС  "sairastua" ;
 сярятькшнекшнемс:сярятькшнекшне IV_КУНДАМС  "sairastella" ;
 сярятькшнемс:сярятькшне IV_КУНДАМС  "sairastaa" ;
 сярятьфнемс:сярятьфне TV_КУНДАМС  "sairastuttaa" ;
@@ -9588,7 +9588,7 @@ LEXICON verbs
 сятявгофнемс:сятявгофне TV_КУНДАМС  "rauhoitella" ;
 сятявгофтомс:сятявгофт TV_АЛЫЯФТОМС  "rauhoittaa" ;
 сятявкстомомс:сятявкстом IV_АНДОМС  "rauhoittua" ;
-сятявкстоптомс:сятявкстоптомс V_  "rauhoittaa" ;
+сятявкстоптомс:сятявкстопт IV_АЛЫЯФТОМС  "rauhoittaa" ;
 сятяфтомс:сятяфт TV_АЛЫЯФТОМС  "hiljentää" ;
 сяфонтьфнекшнемс:сяфонтьфнекшне IV_КУНДАМС  "" ;
 сяфонтьфнемс:сяфонтьфне TV_КУНДАМС  "" ;
@@ -9670,9 +9670,9 @@ LEXICON verbs
 талакотфнемс:талакотфне TV_КУНДАМС  "kummastuttaa" ;
 талакотфтомс:талакотфт TV_АЛЫЯФТОМС  "kummastuttaa" ;
 тамшамс:тамша IV_КУНДАМС  "pureskella" ;
-тангодкстоптомс:тангодкстоптомс V_  "kiristää, vetää kireälle" ;
+тангодкстоптомс:тангодкстопт IV_АЛЫЯФТОМС  "kiristää, vetää kireälle" ;
 танготкстомомс:танготкстом IV_АНДОМС  "kiristyä" ;
-танготкстоптомс:танготкстоптомс V_  "kiristää" ;
+танготкстоптомс:танготкстопт IV_АЛЫЯФТОМС  "kiristää" ;
 танготфнемс:танготфне TV_КУНДАМС  "kiristellä" ;
 тандадовомс:тандадов IV_АНДОВОМС  "voida pelästyä" ;
 тандадомс:тандад IV_АНДОМС  "säikähtää" ;
@@ -9794,7 +9794,7 @@ LEXICON verbs
 таштомфнемс:таштомфне TV_КУНДАМС  "vanhentaa" ;
 таштомфтомс:таштомфт TV_АЛЫЯФТОМС  "vanhentaa" ;
 таштоптовомс:таштоптов IV_АНДОВОМС  "tulla vanhennetuksi" ;
-таштоптомс:таштоптомс V_  "vanhentaa" ;
+таштоптомс:таштопт IV_АЛЫЯФТОМС  "vanhentaa" ;
 таштоптфнемс:таштоптфне TV_КУНДАМС  "panna vanhentamaan" ;
 таштоптфтомс:таштоптфт TV_АЛЫЯФТОМС  "panna vanhentamaan" ;
 тащойгодовомс:тащойгодов IV_АНДОВОМС  "voida laihtua" ;
@@ -10003,7 +10003,7 @@ LEXICON verbs
 толонзамс:толонза IV_КУНДАМС  "sytyttää" ;
 толонзафнемс:толонзафне TV_КУНДАМС  "sytytyttää" ;
 толоптовомс:толоптов IV_АНДОВОМС  "tulla työnnetyksi" ;
-толоптомс:толопт V_  "antaa korvapuusti" ;
+толоптомс:толопт IV_АЛЫЯФТОМС  "antaa korvapuusti" ;
 толоптфнемс:толоптфне TV_КУНДАМС  "lyötättää" ;
 толоптфтомс:толоптфт TV_АЛЫЯФТОМС  "lyötättää" ;
 толхмадевомс:толхмадев IV_АНДОВОМС  "tulla työnnetyksi" ;
@@ -10017,7 +10017,7 @@ LEXICON verbs
 толхмиефтемс:толхмиефть IV_НЯФТЕМС  "tuupituttaa" ;
 томбавомс:томбав IV_АНДОВОМС  "tulla tallatuksi" ;
 томбадемс:томбадь IV_АНДОМС  "lyödä" ;
-томбакстоптомс:томбакстоптомс V_  "syventää" ;
+томбакстоптомс:томбакстопт IV_АЛЫЯФТОМС  "syventää" ;
 томбамс:томба IV_КУНДАМС  "polkea" ;
 томбафнемс:томбафне TV_КУНДАМС  "poljettaa" ;
 томбосевомс:томбосев IV_АНДОВОМС  "tulla tallatuksi" ;
@@ -10110,7 +10110,7 @@ LEXICON verbs
 торомфтомс:торомфт TV_АЛЫЯФТОМС  "sytyttää palamaan" ;
 торопнемс:торопне IV_КУНДАМС  "sytyttää palamaan" ;
 тороптовомс:тороптов IV_АНДОВОМС  "tulla sytytetyksi palamaan" ;
-тороптомс:торопт V_  "sytyttää (palamaan)" ;
+тороптомс:торопт IV_АЛЫЯФТОМС  "sytyttää (palamaan)" ;
 торопфнемс:торопфне TV_КУНДАМС  "sytytellä palamaan" ;
 торопфтомс:торопфт TV_АЛЫЯФТОМС  "sytyttää palamaan" ;
 торсекшнемс:торсекшне IV_КУНДАМС  "jyristä" ;
@@ -10226,7 +10226,7 @@ LEXICON verbs
 трнатозевомс+Use/SpellNoSugg:търнатозев IV_АНДОВОМС  "alkaa vapista/väristä" ;
 трнатоземс:трнатозе V_  "alkaa vapista/väristä" ;
 трнатоземс+Use/SpellNoSugg:търнатозе V_  "alkaa vapista/väristä" ;
-трнатомс:трнат V_  "vavahtaa" ;
+трнатомс:трнат IV_АЛЫЯФТОМС  "vavahtaa" ;
 трнатомс+Use/SpellNoSugg:търнат V_  "vavahtaa" ;
 трудендавомс:трудендав IV_АНДОВОМС  "voida työskennellä" ;
 трудендакшнемс:трудендакшне IV_КУНДАМС  "työskennellä" ;
@@ -10336,7 +10336,7 @@ LEXICON verbs
 тустомомс:тустом IV_АНДОМС  "tihentyä" ;
 тустомфтомс:тустомфт TV_АЛЫЯФТОМС  "sakeuttaa" ;
 тустопнемс:тустопне IV_КУНДАМС  "sakeuttaa" ;
-тустоптомс:тустопт V_  "sakeuttaa" ;
+тустоптомс:тустопт IV_АЛЫЯФТОМС  "sakeuttaa" ;
 тустопфнемс:тустопфне TV_КУНДАМС  "panna sakeuttamaan" ;
 тустопфтомс:тустопфт TV_АЛЫЯФТОМС  "panna sakeuttamaan" ;
 тустыякшнемс:тустыякшне IV_КУНДАМС  "sakeutua" ;
@@ -10437,8 +10437,8 @@ LEXICON verbs
 тркстатьфнемс+Use/SpellNoSugg:търкстатьфне TV_КУНДАМС  "hätkäyttää" ;
 тркстатьфтемс:тркстатьфть IV_НЯФТЕМС  "hätkäyttää" ;
 тркстатьфтемс+Use/SpellNoSugg:търкстатьфть IV_НЯФТЕМС  "hätkäyttää" ;
-тркстомс:трксто V_  "" ;
-тркстомс+Use/SpellNoSugg:търксто V_  "" ;
+тркстомс:тркст IV_АЛЫЯФТОМС  "" ;
+тркстомс+Use/SpellNoSugg:търкст V_  "" ;
 трмождовомс:трмождов IV_АНДОВОМС  "voida kitua" ;
 трмождовомс+Use/SpellNoSugg:търмождов IV_АНДОВОМС  "voida kitua" ;
 трмождомс:трможд IV_АНДОМС  "kitua" ;
@@ -10449,7 +10449,7 @@ LEXICON verbs
 трнаткшнемс+Use/SpellNoSugg:търнаткшне IV_КУНДАМС  "täristä" ;
 трнатозевомс:трнатозев IV_АНДОВОМС  "alkaa väristä" ;
 трнатозевомс+Use/SpellNoSugg:търнатозев IV_АНДОВОМС  "alkaa väristä" ;
-трнатомс:трнат V_  "väristä" ;
+трнатомс:трнат IV_АЛЫЯФТОМС  "väristä" ;
 трнатомс+Use/SpellNoSugg:търнат V_  "väristä" ;
 трнатфнемс:трнатфне TV_КУНДАМС  "värisyttää" ;
 трнатфнемс+Use/SpellNoSugg:търнатфне TV_КУНДАМС  "värisyttää" ;
@@ -10763,7 +10763,7 @@ LEXICON verbs
 узгоряфтомс:узгоряфт TV_АЛЫЯФТОМС  "panna kuluttamaan puhki" ;
 узьгорямс:узьгоря IV_КУНДАМС  "raapia" ;
 уйкснемс:уйксне IV_КУНДАМС  "oihkia" ;
-уйкстомс:уйкстомс V_  "oihkaista" ;
+уйкстомс:уйкст IV_АЛЫЯФТОМС  "oihkaista" ;
 уйкшнемс:уйкшне IV_КУНДАМС  "uida" ;
 уйфнемс:уйфне TV_КУНДАМС  "(murt.) alkaa" ;
 уйфтемс:уйфть IV_НЯФТЕМС  "uittaa" ;
@@ -10873,7 +10873,7 @@ LEXICON verbs
 уркстомс:уркст TV_АЛЫЯФТОМС  "karjaista" ;
 урксфнемс:урксфне TV_КУНДАМС  "panna moittimaan" ;
 урксфтомс:урксфт TV_АЛЫЯФТОМС  "panna moittimaan" ;
-урмакстомс:урмакстомс V_  "sairastua" ;
+урмакстомс:урмакст IV_АЛЫЯФТОМС  "sairastua" ;
 урмалгофтомс:урмалгофт TV_АЛЫЯФТОМС  "tehdä sairaaksi" ;
 урмаськодомс:урмаськод IV_АНДОМС  "sairastua" ;
 урмаськоткшнемс:урмаськоткшне IV_КУНДАМС  "sairastella" ;
@@ -10915,7 +10915,7 @@ LEXICON verbs
 уроскотфтомс:уроскотфт TV_АЛЫЯФТОМС  "tehdä orvoksi" ;
 урошнемс:урошне IV_КУНДАМС  "repäistä" ;
 уроштовомс:уроштов IV_АНДОВОМС  "tulla repäistyksi" ;
-уроштомс:урошт V_  "repäistä" ;
+уроштомс:урошт IV_АЛЫЯФТОМС  "repäistä" ;
 уроштфтомс:уроштфт TV_АЛЫЯФТОМС  "panna riuhtaisemaan" ;
 уртомкшнемс:уртомкшне IV_КУНДАМС  "totuttaa lehmä laumaan" ;
 уртомомс:уртом IV_АНДОМС  "tottua laumaan (lehmästä)" ;
@@ -10929,7 +10929,7 @@ LEXICON verbs
 урхтакшнемс:урхтакшне IV_КУНДАМС  "kerääntyä laumaksi t. parveksi" ;
 урхтамс:урхта IV_КУНДАМС  "kerääntyä laumaksi t. parveksi" ;
 урондомс:уронд IV_АНДОМС  "raataa" ;
-урьвакстомс:урьвакстомс V_  "mennä naimisiin (miehestä)" ;
+урьвакстомс:урьвакст IV_АЛЫЯФТОМС  "mennä naimisiin (miehestä)" ;
 урьвакстфтомс:урьвакстфт TV_АЛЫЯФТОМС  "naittaa (mies)" ;
 урьнесекшнемс:урьнесекшне IV_КУНДАМС  "itkeskellä" ;
 урьнесемс:урьнесе IV_КУНДАМС  "itkeskellä" ;
@@ -11000,7 +11000,7 @@ LEXICON verbs
 утькснекшнемс:утькснекшне IV_КУНДАМС  "usutella" ;
 утькснемс:утьксне IV_КУНДАМС  "usutella" ;
 утькстовомс:утькстов IV_АНДОВОМС  "tulla usututeksi" ;
-утькстомс:утькст V_  "usuttaa" ;
+утькстомс:утькст IV_АЛЫЯФТОМС  "usuttaa" ;
 утькстфнемс:утькстфне TV_КУНДАМС  "panna usuttamaan" ;
 утьксфтомс:утьксфт TV_АЛЫЯФТОМС  "panna usuttamaan" ;
 утьцемс:утьце TV_КУНДАМС  "painella" ;
@@ -11028,7 +11028,7 @@ LEXICON verbs
 уфкстатькшнемс:уфкстатькшне IV_КУНДАМС  "voihkituttaa" ;
 уфкстатьфнемс:уфкстатьфне TV_КУНДАМС  "voihkituttaa" ;
 уфкстатьфтемс:уфкстатьфть IV_НЯФТЕМС  "voihkituttaa" ;
-уфкстомс:уфксто V_  "voihkaista" ;
+уфкстомс:уфкст IV_АЛЫЯФТОМС  "voihkaista" ;
 уфкстыемс:уфкстые IV_КУНДАМС  "voihkia" ;
 уфсемс:уфсе IV_КУНДАМС  "puhallella, puhaltaa sammuksiin; pyryttää umpeen" ;
 ухадевомс:ухадев IV_АНДОВОМС  "voida rojahtaa" ;
@@ -11040,10 +11040,10 @@ LEXICON verbs
 ухиемс:ухие V_  "romahdella" ;
 ухкснемс:ухксне IV_КУНДАМС  "ujeltaa" ;
 ухкстовомс:ухкстов IV_АНДОВОМС  "voida ujeltaa" ;
-ухкстомс:ухкст V_  "ujeltaa" ;
+ухкстомс:ухкст IV_АЛЫЯФТОМС  "ujeltaa" ;
 уцезкстомомс:уцезкстом IV_АНДОМС  "halventua" ;
-уцезкстомс:уцезксто V_  "halventaa" ;
-уцезкстоптомс:уцезкстоптомс V_  "halventaa" ;
+уцезкстомс:уцезкст IV_АЛЫЯФТОМС  "halventaa" ;
+уцезкстоптомс:уцезкстопт IV_АЛЫЯФТОМС  "halventaa" ;
 уцескодовомс:уцескодов IV_АНДОВОМС  "voida halventua" ;
 уцескодомс:уцескод IV_АНДОМС  "halventua" ;
 уцескоткшнемс:уцескоткшне IV_КУНДАМС  "halventua" ;
@@ -11078,7 +11078,7 @@ LEXICON verbs
 учфнемс:учфне TV_КУНДАМС  "odotuttaa" ;
 учфтемс:учфть IV_НЯФТЕМС  "odotuttaa" ;
 учфтомс:учфт TV_АЛЫЯФТОМС  "odotuttaa" ;
-ушакстомс:ушакст V_  "puhkua" ;
+ушакстомс:ушакст IV_АЛЫЯФТОМС  "puhkua" ;
 ушардовомс:ушардов IV_АНДОВОМС  "voida sattua olemaan jssakin" ;
 ушедовомс:ушедов IV_АНДОВОМС  "tulla aloitetuksi" ;
 ушедомс:ушед TV_АНДОМС  "aloittaa" ;
@@ -11087,7 +11087,7 @@ LEXICON verbs
 ушепнекшнемс:ушепнекшне IV_КУНДАМС  "aloitella" ;
 ушепнемс:ушепне IV_КУНДАМС  "aloittaa" ;
 ушептовомс:ушептов IV_АНДОВОМС  "tulla aloitetuksi" ;
-ушептомс:ушепт V_  "aloittaa" ;
+ушептомс:ушепт IV_АЛЫЯФТОМС  "aloittaa" ;
 ушептфнемс:ушептфне TV_КУНДАМС  "aloituttaa" ;
 ушептфтомс:ушептфт TV_АЛЫЯФТОМС  "aloituttaa" ;
 ушепфнемс:ушепфне TV_КУНДАМС  "aloituttaa" ;
@@ -11097,7 +11097,7 @@ LEXICON verbs
 ушнекшнемс:ушнекшне IV_КУНДАМС  "lämmittää" ;
 ушнемс:ушне IV_КУНДАМС  "lämmittää" ;
 уштовомс:уштов IV_АНДОВОМС  "tulla lämmitetyksi" ;
-уштомс:ушт V_  "lämmittää" ;
+уштомс:ушт IV_АЛЫЯФТОМС  "lämmittää" ;
 уштфнемс:уштфне TV_КУНДАМС  "lämmityttää" ;
 уштфтомс:уштфт TV_АЛЫЯФТОМС  "lämmityttää" ;
 уянамс:уяна IV_КУНДАМС  "laulaa kevätlauluja suuren paaston aikaan" ;
@@ -11184,7 +11184,7 @@ LEXICON verbs
 фркснемс+Use/SpellNoSugg:фърксне IV_КУНДАМС  "korskua" ;
 фркставомс:фркстав IV_АНДОВОМС  "voida korskua" ;
 фркставомс+Use/SpellNoSugg:фъркстав IV_АНДОВОМС  "voida korskua" ;
-фркстомс:фркст V_  "korskua" ;
+фркстомс:фркст IV_АЛЫЯФТОМС  "korskua" ;
 фркстомс+Use/SpellNoSugg:фъркст V_  "korskua" ;
 фрксфнемс:фрксфне TV_КУНДАМС  "panna korskumaan" ;
 фрксфнемс+Use/SpellNoSugg:фърксфне TV_КУНДАМС  "panna korskumaan" ;
@@ -11207,7 +11207,7 @@ LEXICON verbs
 хворамс+Use/SpellNoSugg:хъвора IV_КУНДАМС  "sairastella" ;
 хикснемс:хиксне IV_КУНДАМС  "hihittää" ;
 хикставомс:хикстав IV_АНДОВОМС  "voida hihittää" ;
-хикстомс:хикст V_  "hihittää" ;
+хикстомс:хикст IV_АЛЫЯФТОМС  "hihittää" ;
 хитрайгодовомс:хитрайгодов IV_АНДОВОМС  "voida olla ovela" ;
 хитрайгодомс:хитрайгод IV_АНДОМС  "olla ovela t. neuvokas" ;
 хитрайготкшнемс:хитрайготкшне IV_КУНДАМС  "olla ovela t. neuvokas" ;
@@ -11314,7 +11314,7 @@ LEXICON verbs
 централизовандамс:централизованда IV_КУНДАМС  "keskittää" ;
 централизовандафнемс:централизовандафне TV_КУНДАМС  "panna keskittämään" ;
 церкнафтфтомс:церкнафтфт TV_АЛЫЯФТОМС  "revityttää" ;
-церкстомс:церксто V_  "välähtää (salama)" ;
+церкстомс:церкст IV_АЛЫЯФТОМС  "välähtää (salama)" ;
 цертамс:церта TV_КУНДАМС  "piirtää" ;
 церякофтовомс:церякофтов IV_АНДОВОМС  "tulla lyödyksi" ;
 церякофтомс:церякофт TV_АЛЫЯФТОМС  "lyödä" ;
@@ -11529,7 +11529,7 @@ LEXICON verbs
 цёфнемс:цёфне TV_КУНДАМС  "viserrellä" ;
 цёфтавомс:цёфтав IV_АНДОВОМС  "rauhoittua" ;
 цёфтамомс:цёфтам IV_АНДОМС  "käydä makuulle" ;
-цёфтаптомс:цёфтапт V_  "tuudittaa" ;
+цёфтаптомс:цёфтапт IV_АЛЫЯФТОМС  "tuudittaa" ;
 цёфтафнемс:цёфтафне TV_КУНДАМС  "tuudittaa" ;
 цёфтердемс:цёфтердь IV_ПАЧКОДЕМС  "puhua" ;
 цёцельгодомс:цёцельгод IV_АНДОМС  "tulla terävämmäksi" ;
@@ -11871,7 +11871,7 @@ LEXICON verbs
 шаржияфтомс:шаржияфт TV_АЛЫЯФТОМС  "harmaannuttaa" ;
 шаркснемс:шарксне IV_КУНДАМС  "mutkitella" ;
 шаркстовомс:шаркстов IV_АНДОВОМС  "voida kääntyä" ;
-шаркстомс:шаркст V_  "kääntyä" ;
+шаркстомс:шаркст IV_АЛЫЯФТОМС  "kääntyä" ;
 шаровомс:шаров IV_АНДОВОМС  "voida pyöriä" ;
 шарозевомс:шарозев IV_АНДОВОМС  "alkaa pyöriä" ;
 шаромс:шар V_  "pyöriä" ;
@@ -11903,7 +11903,7 @@ LEXICON verbs
 шашневомс:шашнев IV_АНДОВОМС  "liikkua" ;
 шашнемс:шашне IV_КУНДАМС  "liikkua" ;
 шаштовомс:шаштов IV_АНДОВОМС  "voida liikahtaa" ;
-шаштомс:шашт V_  "liikahtaa" ;
+шаштомс:шашт IV_АЛЫЯФТОМС  "liikahtaa" ;
 шаштфнекшнемс:шаштфнекшне IV_КУНДАМС  "liikutella" ;
 шашфнемс:шашфне TV_КУНДАМС  "liikutella" ;
 шашфтомс:шашфт TV_АЛЫЯФТОМС  "liikuttaa" ;
@@ -11937,7 +11937,7 @@ LEXICON verbs
 шимортьфнемс:шимортьфне TV_КУНДАМС  "panna vanuttamaan" ;
 шимортьфтемс:шимортьфть IV_НЯФТЕМС  "panna vanuttamaan" ;
 шинекстомомс:шинекстом IV_АНДОМС  "syödä liikaa" ;
-шинекстомс:шинекстомс V_  "syödä liikaa" ;
+шинекстомс:шинекст IV_АЛЫЯФТОМС  "syödä liikaa" ;
 шиниякшнемс:шиниякшне IV_КУНДАМС  "pahentua" ;
 шиниямс:шиния IV_КУНДАМС  "pilaantua" ;
 шинияфнемс:шинияфне TV_КУНДАМС  "pilata" ;
@@ -11950,7 +11950,7 @@ LEXICON verbs
 ширемгодомс:ширемгод IV_АНДОМС  "kallistua" ;
 ширемгофнемс:ширемгофне TV_КУНДАМС  "kallistaa" ;
 ширемгофтомс:ширемгофт TV_АЛЫЯФТОМС  "kallistaa" ;
-ширемкстомс:ширемкст V_  "nojata" ;
+ширемкстомс:ширемкст IV_АЛЫЯФТОМС  "nojata" ;
 ширемкшнемс:ширемкшне IV_КУНДАМС  "nojailla" ;
 ширемомс:ширем IV_АНДОМС  "kallistua" ;
 ширемфнемс:ширемфне TV_КУНДАМС  "kallistaa" ;
@@ -12076,7 +12076,7 @@ LEXICON verbs
 шополгодомс:шополгод IV_АНДОМС  "pimentyä" ;
 шополгофтомс:шополгофт TV_АЛЫЯФТОМС  "pimentää" ;
 шополдомс:шополд IV_АНДОМС  "peittää" ;
-шополкстомс:шополкст V_  "tummua" ;
+шополкстомс:шополкст IV_АЛЫЯФТОМС  "tummua" ;
 шополкшнемс:шополкшне IV_КУНДАМС  "tummua" ;
 шопотькшнемс:шопотькшне IV_КУНДАМС  "pimentyä" ;
 шоркадемс:шоркадь IV_АНДОМС  "pistää" ;
@@ -12192,7 +12192,7 @@ LEXICON verbs
 шумбамс:шумба IV_КУНДАМС  "saada kuhmu t. lommo" ;
 шумбракснемс:шумбраксне IV_КУНДАМС  "tervehtiä" ;
 шумбракстовомс:шумбракстов IV_АНДОВОМС  "tulla tervehdityksi" ;
-шумбракстомс:шумбраксто V_  "tervehtiä" ;
+шумбракстомс:шумбракст IV_АЛЫЯФТОМС  "tervehtiä" ;
 шумбракшнемс:шумбракшне IV_КУНДАМС  "tervehtiä" ;
 шумбралгодомс:шумбралгод IV_АНДОМС  "parantua" ;
 шумбралгофтомс:шумбралгофт TV_АЛЫЯФТОМС  "parantaa" ;
@@ -12242,13 +12242,13 @@ LEXICON verbs
 шурокснемс:шуроксне IV_КУНДАМС  "harvinaistua" ;
 шурокстовомс:шурокстов IV_АНДОВОМС  "voida harvinaistua" ;
 шурокстомомс:шурокстом IV_АНДОМС  "harventua" ;
-шурокстомс:шурокст V_  "harventua" ;
+шурокстомс:шурокст IV_АЛЫЯФТОМС  "harventua" ;
 шурокстопневомс:шурокстопнев IV_АНДОВОМС  "tulla harvennetuksi" ;
 шурокстопнемс:шурокстопне IV_КУНДАМС  "harvennella" ;
-шурокстоптомс:шурокстопт V_  "harventaa (taimia tm.)" ;
+шурокстоптомс:шурокстопт IV_АЛЫЯФТОМС  "harventaa (taimia tm.)" ;
 шурокстопфнемс:шурокстопфне TV_КУНДАМС  "harventaa" ;
 шурокстопфтомс:шурокстопфт TV_АЛЫЯФТОМС  "harventaa" ;
-шуроптомс:шуропт V_  "harventaa" ;
+шуроптомс:шуропт IV_АЛЫЯФТОМС  "harventaa" ;
 шуроптфнемс:шуроптфне TV_КУНДАМС  "harvennuttaa" ;
 шуроптфтомс:шуроптфт TV_АЛЫЯФТОМС  "harvennuttaa" ;
 шутендакшнемс:шутендакшне IV_КУНДАМС  "vitsailla" ;
@@ -12257,7 +12257,7 @@ LEXICON verbs
 шутендафтомс:шутендафт TV_АЛЫЯФТОМС  "laskea leikkiä" ;
 шуфтомовомс:шуфтомов IV_АНДОВОМС  "voida jäykistyä" ;
 шуфтомомс:шуфтом IV_АНДОМС  "jäykistyä" ;
-шуфтоптомс:шуфтопт V_  "puuduttaa" ;
+шуфтоптомс:шуфтопт IV_АЛЫЯФТОМС  "puuduttaa" ;
 шушмондакшнемс:шушмондакшне IV_КУНДАМС  "peittyä kovalla riitteellä" ;
 шушмондамс:шушмонда IV_КУНДАМС  "peittyä kovalla riitteellä" ;
 шушмондафнемс:шушмондафне TV_КУНДАМС  "peittää kovalla riitteellä" ;
@@ -12360,7 +12360,7 @@ LEXICON verbs
 рнакшнемс+Use/SpellNoSugg:ърнакшне IV_КУНДАМС  "murista" ;
 рьвакстовомс:рьвакстов IV_АНДОВОМС  "voida mennä naimisiin (miehestä)" ;
 рьвакстовомс+Use/SpellNoSugg:ърьвакстов IV_АНДОВОМС  "voida mennä naimisiin (miehestä)" ;
-рьвакстомс:рьвакст V_  "mennä naimisiin (miehestä)" ;
+рьвакстомс:рьвакст IV_АЛЫЯФТОМС  "mennä naimisiin (miehestä)" ;
 рьвакстомс+Use/SpellNoSugg:ърьвакст V_  "mennä naimisiin (miehestä)" ;
 рьваксфнемс:рьваксфне TV_КУНДАМС  "naittaa (miehestä)" ;
 рьваксфнемс+Use/SpellNoSugg:ърьваксфне TV_КУНДАМС  "naittaa (miehestä)" ;
@@ -12470,7 +12470,7 @@ LEXICON verbs
 эляньцяфтомс:эляньцяфт TV_АЛЫЯФТОМС  "panna kuljeksimaan" ;
 эмалировандамс:эмалированда IV_КУНДАМС  "emaloida" ;
 энгамомс:энгам IV_АНДОМС  "pyörtyä" ;
-энгаптомс:энгапт V_  "pyörryttää" ;
+энгаптомс:энгапт IV_АЛЫЯФТОМС  "pyörryttää" ;
 энгемс:энгемс V_  "puhua palturia" ;
 энгодемс:энгодь IV_ПАЧКОДЕМС  "peuhata" ;
 энгядемс:энгядь IV_ПАЧКОДЕМС  "pilata" ;
@@ -12490,7 +12490,7 @@ LEXICON verbs
 энялькшнемс:энялькшне IV_КУНДАМС  "rukoilla" ;
 эняльфнемс:эняльфне TV_КУНДАМС  "panna pyytämään" ;
 эняльфтемс:эняльфть IV_НЯФТЕМС  "panna pyytämään" ;
-эпярькстомс:эпярькстo V_  "suuttua" ;
+эпярькстомс:эпярькстo IV_АЛЫЯФТОМС  "suuttua" ;
 эредемс:эредь IV_ПАЧКОДЕМС  "venytellä" ;
 эреклавомс:эреклав IV_АНДОВОМС  "tulla elvytetyksi" ;
 эреклакшнемс:эреклакшне IV_КУНДАМС  "elävöityä" ;
@@ -12498,7 +12498,7 @@ LEXICON verbs
 эреклафнемс:эреклафне TV_КУНДАМС  "elvyttää" ;
 эреклафтомс:эреклафт TV_АЛЫЯФТОМС  "elvyttää" ;
 эрекстомомс:эрекстом IV_АНДОМС  "virkistyä" ;
-эрекстоптомс:эрекстопт V_  "elävöittää" ;
+эрекстоптомс:эрекстопт IV_АЛЫЯФТОМС  "elävöittää" ;
 эрендемс:эрендь IV_ПАЧКОДЕМС  "laiskotella" ;
 эренкшнемс:эренкшне IV_КУНДАМС  "laiskotella" ;
 эретемс:эреть IV_АЛЫЯФТОМС  "ojennella" ;
@@ -12527,7 +12527,7 @@ LEXICON verbs
 эрьхтемс:эрьхть TV_АЛЫЯФТОМС  "lyödä" ;
 эрьхтьфнемс:эрьхтьфне TV_КУНДАМС  "panna lyömään" ;
 эрьхтьфтемс:эрьхтьфть IV_НЯФТЕМС  "panna lyömään" ;
-эрявкстомс:эрявкст V_  "sopia" ;
+эрявкстомс:эрявкст IV_АЛЫЯФТОМС  "sopia" ;
 эрявкшнемс:эрявкшне IV_КУНДАМС  "täytyä" ;
 эрявомс:эряв IV_АНДОВОМС  "täytyä" ;
 эрямс:эря IV_КУНДАМС  "elää" ;
@@ -12571,7 +12571,7 @@ LEXICON verbs
 эчколгофтовомс:эчколгофтов IV_АНДОВОМС  "tulla lihotetuksi" ;
 эчколгофтомс:эчколгофт TV_АЛЫЯФТОМС  "lihottaa" ;
 эчкомомс:эчком IV_АНДОМС  "paksuuntua" ;
-эчкоптомс:эчкоптомс V_  "paisuttaa" ;
+эчкоптомс:эчкопт IV_АЛЫЯФТОМС  "paisuttaa" ;
 эшаптовомс:эшаптов IV_АНДОВОМС  "tulla erehdytetyksi" ;
 эшаптфнемс:эшаптфне TV_КУНДАМС  "erehdyttää" ;
 эшаптфтомс:эшаптфт TV_АЛЫЯФТОМС  "erehdyttää" ;
@@ -12598,7 +12598,7 @@ LEXICON verbs
 юваньтьфтемс:юваньтьфть IV_НЯФТЕМС  "panna kuljeskelemaan" ;
 юваньтьфтемс-яваньтьфтемс:юваньтьфть-яваньтьфть IV_НЯФТЕМС  "panna kuljeskelemaan" ;
 юватькстовомс:юватькстов IV_АНДОВОМС  "tulla huudetuksi" ;
-юватькстомс:юватькст V_  "huudahtaa" ;
+юватькстомс:юватькст IV_АЛЫЯФТОМС  "huudahtaa" ;
 юватькшнемс:юватькшне IV_КУНДАМС  "huutaa" ;
 юватьфнемс:юватьфне TV_КУНДАМС  "huudattaa" ;
 юватьфтемс:юватьфть IV_НЯФТЕМС  "huudattaa" ;
@@ -12715,7 +12715,7 @@ LEXICON verbs
 явонфтомс:явонфт TV_АЛЫЯФТОМС  "panna jakamaan" ;
 явошнемс:явошне IV_КУНДАМС  "irtautua" ;
 явоштовомс:явоштов IV_АНДОВОМС  "tulla jaetuksi" ;
-явоштомс:явошт V_  "jakaa" ;
+явоштомс:явошт IV_АЛЫЯФТОМС  "jakaa" ;
 явоштфнемс:явоштфне TV_КУНДАМС  "panna jakelemaan" ;
 явоштфтомс:явоштфт TV_АЛЫЯФТОМС  "panna jakamaan" ;
 явсевомс:явсев IV_АНДОВОМС  "tulla itketyksi" ;
@@ -12758,7 +12758,7 @@ LEXICON verbs
 якшафнемс:якшафне TV_КУНДАМС  "kylmetä" ;
 якшафтомс:якшафт TV_АЛЫЯФТОМС  "viilentää" ;
 ялгакстомомс:ялгакстом IV_АНДОМС  "ystävystyä" ;
-ялгакстомс:ялгакст V_  "ystävystyä" ;
+ялгакстомс:ялгакст IV_АЛЫЯФТОМС  "ystävystyä" ;
 ямодевомс:ямодев IV_АНДОВОМС  "tulla valkaistuksi (kehruulangoista)" ;
 ямодемс:ямодь IV_ПАЧКОДЕМС  "valkaista (kehruulankoja)" ;
 ямотькшнемс:ямотькшне IV_КУНДАМС  "valkaista (kehruulankoja)" ;
@@ -12775,7 +12775,7 @@ LEXICON verbs
 янгямс:янгя IV_КУНДАМС  "" ;
 янксемс:янксе IV_КУНДАМС  "mennä ohi (jano)" ;
 ярашнекшнемс:ярашнекшне IV_КУНДАМС  "sopia" ;
-яраштомс:ярашт V_  "sopia" ;
+яраштомс:ярашт IV_АЛЫЯФТОМС  "sopia" ;
 ярептевомс:ярептев IV_АНДОВОМС  "pistellä (sormista, kun ne lämpiävät pakkasen jälkeen)" ;
 ярептемс:ярепть TV_АЛЫЯФТОМС  "lyödä nopeasti" ;
 ярмакиякшнемс:ярмакиякшне IV_КУНДАМС  "hankkia rahaa" ;
@@ -12862,7 +12862,7 @@ LEXICON verbs
 ёлошкодомс:ёлошкод IV_АНДОМС  "tulla helläksi" ;
 ёлошкоткшнемс:ёлошкоткшне IV_КУНДАМС  "tulla helläksi" ;
 ёлошнемс:ёлошне IV_КУНДАМС  "painautua" ;
-ёлоштомс:ёлошт V_  "painautua" ;
+ёлоштомс:ёлошт IV_АЛЫЯФТОМС  "painautua" ;
 ёлштадемс:ёлштадь IV_АНДОМС  "keinahtaa" ;
 ёлштыемс:ёлштые IV_КУНДАМС  "keinua" ;
 ёмболдозевомс:ёмболдозев IV_АНДОВОМС  "alkaa pyöriä" ;
@@ -12891,7 +12891,7 @@ LEXICON verbs
 ёрдафнекшнемс:ёрдафнекшне IV_КУНДАМС  "heitätellä pois" ;
 ёрдафнемс:ёрдафне TV_КУНДАМС  "heitättää pois" ;
 ёрдафтомс:ёрдафт TV_АЛЫЯФТОМС  "heitättää pois" ;
-ёроштомс:ёрошт V_  "sopia" ;
+ёроштомс:ёрошт IV_АЛЫЯФТОМС  "sopia" ;
 ёрсемс:ёрсе TV_КУНДАМС  "haluta" ;
 ёрьсекшнемс:ёрьсекшне IV_КУНДАМС  "haluta" ;
 ёрякшнемс:ёрякшне IV_КУНДАМС  "heitellä" ;
