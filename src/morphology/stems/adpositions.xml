@@ -3162,16 +3162,28 @@
       <l pos="Po">эземс</l>
 
       <stg>
-        <st Contlex="PO_">эземс</st>
+        <st Contlex="Po_">эземс</st>
       </stg>
     </lg>
+
+    <phonet>äźəms</phonet>
 
     <mg>
       <defNative/>
 
       <tg xml:lang="fin">
-        <t pos="Po"/>
+        <t pos="Po">sijasta</t>
+
+        <t pos="Po">sijaan</t>
       </tg>
+
+      <xg>
+        <x>фкять эземс максомс лия</x>
+
+        <phonet>fkäť äźəms maksəms ľijä</phonet>
+
+        <xt xml:lang="fin">antaa yhden sijaan toinen</xt>
+      </xg>
     </mg>
   </e>
 
