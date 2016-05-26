@@ -481,7 +481,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %{АЕ%}	!!= @CODE@ prolative
  Х1 	!!= @CODE@ Х1:х Х1:0
  Ь2 	!!= @CODE@ Ь2:ь Ь2:0
- Ъ2	!!= @CODE@ occurs in first syllable and is not written in the Moksha orthography, 
+%{ъØ%}        !!= @CODE@ This will represent schwa in first syllable
+! Ъ2	occurs in first syllable and is not written in the Moksha orthography, 
+
 !! in ped realized as hard sign
 
 !! And following triggers to control variation
