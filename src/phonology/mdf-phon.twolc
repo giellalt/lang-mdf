@@ -7,6 +7,8 @@ Alphabet !!≈!!The base @CODE@
 А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я !!= @CODE@
 !! }}}
 
+%{ъØ%}:0	
+!! This will represent schwa in first syllable
 
 !! 2016-03-12
 %^А2О:0		!!= @CODE@ used with final а in пула 
@@ -114,12 +116,12 @@ Alphabet !!≈!!The base @CODE@
 ! I2 and U2 adjectives and nouns need this with their "t" and "s"
 !V2:0 
 
- Ъ2:0	!!= @CODE@ occurs in first syllable and is not written in the Moksha orthography, 
 !! in ped realized as hard sign
 
 !! !!TRIGGERS
 %^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination
-%^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is otherwise automatically removed
+%^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is
+!! otherwise automatically removed %{ъØ%}
 %^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
 %^Е2А:0		!!= @CODE@ Change stem-final vowel мельге:мельганза
 %^Я2А:0		!!= @CODE@ Change stem-final vowel рьвя:рьванц
@@ -678,9 +680,9 @@ Rules !!≈ !!The @CODE@
 "Loss of ъ in the first syllable orthography"
 ъ:0 <= # Cns* _ [ д | з | р | т ] ;
 
-"Ъ2:ъ"
+"%{ъØ%}:ъ"
 !! __@RULENAME@__
- Ъ2:ъ <=>
+ %{ъØ%}:ъ <=>
  [# | Cns: ] _ \[ # ]* %^Ъ2PED: ;
 
 !! !!Disallow

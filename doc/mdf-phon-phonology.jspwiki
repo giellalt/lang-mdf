@@ -6,6 +6,7 @@
  А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
 }}}
 
+This will represent schwa in first syllable
 
 2016-03-12
  %^А2О:0		 used with final а in пула 
@@ -45,12 +46,12 @@
 
 
 
-  Ъ2:0	 occurs in first syllable and is not written in the Moksha orthography, 
 in ped realized as hard sign
 
 !!TRIGGERS
  %^Ь2ZERO:0	 removes soft sign before vowel or other combination
- %^Ъ2PED:0	 brings out hard sign, which is otherwise automatically removed
+ %^Ъ2PED:0	 brings out hard sign, which is
+otherwise automatically removed %{ъØ%}
  %^Е2О:0		 Change stem-final vowel сембе:сембось
  %^Е2А:0		 Change stem-final vowel мельге:мельганза
  %^Я2А:0		 Change stem-final vowel рьвя:рьванц
@@ -367,7 +368,7 @@ __%{DIM%}:к__
 
 
 
-__Ъ2:ъ__
+__%{ъØ%}:ъ__
 
 !!Disallow
 
