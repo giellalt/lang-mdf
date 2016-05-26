@@ -301,7 +301,8 @@ symbols in the lexicon files:
  %{АЕ%}	 prolative
   Х1 	 Х1:х Х1:0
   Ь2 	 Ь2:ь Ь2:0
-  Ъ2	 occurs in first syllable and is not written in the Moksha orthography, 
+ %{ъØ%}         This will represent schwa in first syllable
+
 in ped realized as hard sign
 
 And following triggers to control variation
