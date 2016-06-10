@@ -65,11 +65,7 @@
 
         <t pos="V">viedä</t>
 
-        <tCtn>
-          <t pos="V">kuljetella</t>
-
-          <re>eläintä markkinoille</re>
-        </tCtn>
+          <t pos="V" re="eläintä markkinoille">kuljetella</t>
 
         <t pos="V">saada kaupaksi</t>
       </tg>
@@ -170,12 +166,7 @@
 
       <tg xml:lang="fin">
         <t pos="V">nukkua</t>
-
-        <tCtn>
-          <t pos="V">nukahtaa</t>
-
-          <re>pienestä lapsesta</re>
-        </tCtn>
+          <t pos="V" re="pienestä lapsesta">nukahtaa</t>
       </tg>
     </mg>
   </e>
