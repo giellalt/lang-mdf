@@ -121,7 +121,7 @@ Alphabet !!≈!!The base @CODE@
 !! !!TRIGGERS
 %^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination
 %^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is
-!! otherwise automatically removed %{ъØ%}
+!! otherwise automatically removed %{ъØ%} 
 %^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
 %^Е2А:0		!!= @CODE@ Change stem-final vowel мельге:мельганза
 %^Я2А:0		!!= @CODE@ Change stem-final vowel рьвя:рьванц
