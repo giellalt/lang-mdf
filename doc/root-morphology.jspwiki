@@ -262,14 +262,6 @@ Question and Focus particles:
 
 
 Semantics are classified with
- * __! +Sem/Kin__  Kinship term (reflected in special PxSg2 forms),
- * __! +Sem/Divinity__  Divinity (god personified),
- * __! +Sem/Constellation__  Constellation,
- * __! +Sem/Kin	__ Kin term
- * __! +Sem/Patr 	__  Patronym
- * __! +Sem/Rvr__  name of river or water way, media of transportation,
- * __! +Sem/Inanim__  Inanimate,
- * __! +Sem/NonHum__  Nonhuman,
 
 
 Derivations are classified under the morphophonetic form of the suffix, the
@@ -296,7 +288,6 @@ symbols in the lexicon files:
   К1 	 К1:к К1:т
   %^О1 	 %^О1:о %^О1:а %^О1:0
  %{АОЕ%}	  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е
-%^О1:о %^О1:а %^О1:е
  %{АЕ%}	 prolative
   Х1 	 Х1:х Х1:0
   Ь2 	 Ь2:ь Ь2:0
@@ -342,7 +333,6 @@ given the proper use of these flags.
  | @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
  | @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-Flags used with serial verbs
 
 
  @D.CONJ-MX.IND@ 	 2012-11-04 should this be __D__ or __N__
