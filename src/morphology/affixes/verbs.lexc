@@ -1268,6 +1268,10 @@ LEXICON INF_ОМ
 +Inf+Abl:%>%{ОЕØ%}м%>да K ;
 +Inf+Abl:%>%{ОЕØ%}м%>д%^О1 OBLIQUECX-PX-ava ;
 +Ger:%>%{ОЕØ%}зь K ;
++Der/NomAct:%>%{ОЕØ%}ма N_АВА ;
+Prc-I ;
+Prc-nj ;
+Prc-zj ;
 
 !!!!!!!!!!!
 !! GERUNDS 
@@ -1290,14 +1294,14 @@ LEXICON Prc-fks
 +V+Der/фкс+Pss+Prc: K ;
 
 LEXICON Prc-I
-+V+Der/И+Act+PrsPrc: K ;
-+V+Der/И+Der/NomAg: K ;
++V+Der/И+Act+PrsPrc:%>%{ИЫЙ%} K ;
++V+Der/И+Der/NomAg:%>%{ИЫЙ%} N_АНДЫ ;
 
 LEXICON Prc-nj
-+V+Der/Онь+VGen: K ;
++V+Der/Онь+VGen:%>%{ОЕØ%}нь K ;
 
 LEXICON Prc-zj
-+V+Der/Озь+Prc: K ;
++V+Der/Озь+Prc:%>%{ОЕØ%}зь K ;
 
 
 ! vim: set ft=xfst-lexc:
