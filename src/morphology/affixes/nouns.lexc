@@ -841,7 +841,7 @@ LEXICON NOTDEF-CAU
 +SP+Cau+Indef:%>%^О1нкса K ;
 
 LEXICON NOTDEF-CMP
-+SP+Comp:%>шка Choose-INDEF-OBLPX-ava ;
++SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-PRL
 +SP+Prl:%>%^Г2%{АЕ%} Choose-INDEF-OBLPX-ava ;
@@ -858,7 +858,7 @@ LEXICON SP-ABL-INDEF_да
 +SP+Abl:%>д%^О1 Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-CMP-INDEF_шка
-+SP+Comp:%>шка Choose-INDEF-OBLPX-ava ;
++SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-DAT-INDEF_нди
 +SP+Dat+Indef:%>нди K_вок ;
