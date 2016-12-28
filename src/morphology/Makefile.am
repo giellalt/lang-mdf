@@ -38,10 +38,10 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/conjunctors.lexc   \
 			 affixes/interjections.lexc \
 			 affixes/nouns.lexc         \
+			 affixes/numbers.lexc   \
 			 affixes/particles.lexc     \
 			 affixes/pronouns.lexc      \
 			 affixes/propernouns.lexc   \
-			 affixes/quantifiers.lexc   \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -62,37 +62,37 @@ GT_LEXC_L2_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
-			 $(srcdir)/stems/adjectives.lexc    \
-			 $(srcdir)/stems/adpositions.lexc   \
-			 $(srcdir)/stems/adverbs.lexc       \
-			 $(srcdir)/stems/conjunctors.lexc   \
-			 $(srcdir)/stems/descriptives.lexc  \
-			 $(srcdir)/stems/gerunds.lexc       \
-			 $(srcdir)/stems/interjections.lexc \
-			 $(srcdir)/stems/nouns.lexc         \
-			 $(srcdir)/stems/participles.lexc   \
-			 $(srcdir)/stems/particles.lexc     \
-			 $(srcdir)/stems/pronouns.lexc      \
-			 $(srcdir)/stems/propernouns.lexc   \
-			 $(srcdir)/stems/quantifiers.lexc   \
-			 $(srcdir)/stems/verbs.lexc
+			 $(srcdir)/stems/A_mdf2x.lexc    \
+			 $(srcdir)/stems/Adp_mdf2x.lexc   \
+			 $(srcdir)/stems/Adv_mdf2x.lexc       \
+			 $(srcdir)/stems/CC_mdf2x.lexc   \
+			 $(srcdir)/stems/Descr_mdf2x.lexc  \
+			 $(srcdir)/stems/Ger_mdf2x.lexc       \
+			 $(srcdir)/stems/Interj_mdf2x.lexc \
+			 $(srcdir)/stems/N_mdf2x.lexc         \
+			 $(srcdir)/stems/N_Prop_mdf2x.lexc   \
+			 $(srcdir)/stems/Num_mdf2x.lexc   \
+			 $(srcdir)/stems/Pcle_mdf2x.lexc     \
+			 $(srcdir)/stems/Prc_mdf2x.lexc   \
+			 $(srcdir)/stems/Pron_mdf2x.lexc      \
+			 $(srcdir)/stems/V_mdf2x.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-			 stems/adjectives.xml    \
-			 stems/adpositions.xml   \
-			 stems/adverbs.xml       \
-			 stems/conjunctors.xml   \
-			 stems/descriptives.xml  \
-			 stems/gerunds.xml       \
-			 stems/interjections.xml \
-			 stems/nouns.xml         \
-			 stems/participles.xml   \
-			 stems/particles.xml     \
-			 stems/pronouns.xml      \
-			 stems/propernouns.xml   \
-			 stems/quantifiers.xml   \
-			 stems/verbs.xml
+			 stems/A_mdf2x.xml    \
+			 stems/Adp_mdf2x.xml   \
+			 stems/Adv_mdf2x.xml       \
+			 stems/CC_mdf2x.xml   \
+			 stems/Descr_mdf2x.xml  \
+			 stems/Ger_mdf2x.xml       \
+			 stems/Interj_mdf2x.xml \
+			 stems/N_mdf2x.xml         \
+			 stems/N_Prop_mdf2x.xml   \
+			 stems/Num_mdf2x.xml   \
+			 stems/Pcle_mdf2x.xml     \
+			 stems/Prc_mdf2x.xml   \
+			 stems/Pron_mdf2x.xml      \
+			 stems/V_mdf2x.xml
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
