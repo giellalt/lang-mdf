@@ -613,20 +613,20 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-  adjectives	;
-  adpositions	;
-  adverbs	;
-  conjunctors	;
-  descriptives	;
-  gerunds	;
-  interjections	;
-  nouns	;
-  participles	;
-  particles	;
-  pronouns	;
-  propernouns	;
-  quantifiers	;
-  verbs	;
+  A_mdf2x	;
+  Adp_mdf2x	;
+  Adv_mdf2x	;
+  CC_mdf2x	;
+  Descr_mdf2x	;
+  Ger_mdf2x	;
+  Interj_mdf2x	;
+  N_mdf2x	;
+  N_Prop_mdf2x	;
+  Num_mdf2x	;
+  Pcle_mdf2x	;
+  Prc_mdf2x	;
+  Pron_mdf2x	;
+  V_mdf2x	;
 
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv

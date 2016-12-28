@@ -10715,7 +10715,7 @@
        <t pos="N">voitatti</t>
      </tg>
      <tg xml:lang="lat">
-       <t pos="N">(Boletus luteus)</t>
+       <t pos="N">Boletus luteus</t>
      </tg>
    </mg>
 </e>
@@ -10763,7 +10763,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">вал</l>
+     <l hid="Hom1" pos="N">вал</l>
      <stg>
        <st Contlex="N_КАЛ">вал</st>
      </stg> <phonet>val</phonet>
@@ -10792,7 +10792,7 @@
 </e>
 <e>
    <lg>
-     <l pos="N">вал</l>
+     <l hid="Hom2" pos="N">вал</l>
      <stg>
        <st Contlex="N_КАЛ">вал</st>
      </stg> <phonet>val</phonet>
@@ -76595,6 +76595,24 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="N">paratiisi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">район</l>
+     <stg>
+       <st Contlex="N_КАЛ">район</st>
+     </stg> <phonet>rajon</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">raion</t>
+       <t pos="N">district</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">piiri</t>
      </tg>
    </mg>
 </e>
