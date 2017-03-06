@@ -50081,7 +50081,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="N"/>
+       <t pos="N">lentäjä</t>
      </tg>
    </mg>
 </e>
@@ -111434,7 +111434,7 @@
    <lg>
      <l pos="N">школа</l>
      <stg>
-       <st Contlex="N_">школа</st>
+       <st Contlex="N_АВА">школа</st>
      </stg> <phonet>škola</phonet>
    </lg>
    <mg>
@@ -119170,6 +119170,104 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin"> <te pos="N">kyntämättä jäänyt osa vakojen välissä</te>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гуляня</l>
+     <stg>
+       <st Contlex="N_АВА">гуляня</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kyyhkynen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">очконя</l>
+     <stg>
+       <st Contlex="N_АВА">очконя</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">карденя</l>
+     <stg>
+       <st Contlex="N_АВА">карденя</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">учёнай</l>
+     <stg>
+       <st Contlex="N_КАЛ">учёнай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">tieteilijä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">парашют</l>
+     <stg>
+       <st Contlex="N_КАЛ">парашют</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">laskuvarjo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">космонавт</l>
+     <stg>
+       <st Contlex="N_КАЛ">космонавт</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kosmonautti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">миша</l>
+     <stg>
+       <st Contlex="N_АВА">миша</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">nalle</t>
      </tg>
    </mg>
 </e>

@@ -344,9 +344,10 @@ Rules !!≈ !!The @CODE@
 
 "%{АОЕ%}:е"
 !! __@RULENAME@__  
- %{АОЕ%}:е <=> [ LFC | ь CnsNonDent | FTV Cns:*  Cns* CnsNonDent: | ь %> г: ] _ [ #: ] ;
+ %{АОЕ%}:е <=> [ LFC | [ Cns - л ]  ь CnsNonDent | FTV Cns:*  Cns* CnsNonDent: | ь %> г: ] _ [ #: ] ;
 !!€# эрьхк%{АОЕ%}#
 !!€0 эрьхке0
+   LFC л ь CnsNonDent _ [ #: ] ;
           [ ш | ч | ж ] _ %> ;
 
 
@@ -600,7 +601,7 @@ Rules !!≈ !!The @CODE@
 !! Plural before definite plural following a consonant
 "t:0"
 !! __@RULENAME@__  
-т:0 <=> [ й | л ( ь: ) | р ( ь: ) ] %> %{Х%}: _ н е ;
+т:0 <=> [б:|д: ( ь: ) |ж:|з: ( ь: )| й |г:|к| л ( ь: ) |м:|н: ( ь: ) |п| р ( ь: ) |с ( ь: ) |т ( ь: ) |ф|х|ц ( ь: ) |ч|ш|щ] %> %{Х%}: _ н е ;
 
 !!SLoss s s > s = s 0 0 s
 "s:0"
