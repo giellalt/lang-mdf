@@ -288,7 +288,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t pos="Po">yläpuolella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">велькска</l>
+     <stg>
+       <st Contlex="PO_">велькска</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Po">yli</t>
      </tg>
    </mg>
 </e>

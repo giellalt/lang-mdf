@@ -22,7 +22,7 @@ LEXICON Pron_mdf2x
 киньге:киньге PRON_  "" ;
 кияк:кияк PRON_  "" ;
 кода:кода ADV_  "kuinka" ;
-кодама:кодама PRON_  "millainen" ;
+кодама:кодам DET_ПИНГЕ  "millainen" ;
 кодамовок:кодамовок PRON_  "" ;
 коданга:коданга PRON-INDEF  "mitenkään" ;
 кой-кие:кой-кие PRON_  "joku" ;
@@ -95,6 +95,7 @@ LEXICON Pron_mdf2x
 сяка:сяка PRON_  "sama" ;
 теене:теене PERS-SG1-IS-DAT  "minulle" ;
 теене:тейне PERS-SG1-IS-DAT  "minulle" ;
+теене:теень PERS-SG1-IS-DAT  "minulle" ;
 тееньк:тееньк PERS-PL1-IS-DAT  "meille" ;
 тееньк:тейнек PERS-PL1-IS-DAT  "meille" ;
 теенза:теенза PERS-SG3-IS-DAT  "hänelle" ;
@@ -131,7 +132,7 @@ LEXICON Pron_mdf2x
 эздонт:эздонт PRON-ABL-PXPL2  "teistä" ;
 эздост:эздост PRON-ABL-PXPL3  "heistä" ;
 эковай:эковай PRON_  "" ;
-эрь:эрь PRON_  "jokainen" ;
+эрь:эрь DET_КАЛ  "joka" ;
 эсезонза:эсезонза PRON_  "itsekseen" ;
 эсон:эсон PRON-INE-PXSG1  "minussa" ;
 эсот:эсот PRON-INE-PXSG2  "sinussa" ;

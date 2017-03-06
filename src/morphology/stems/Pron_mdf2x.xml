@@ -390,7 +390,7 @@
    <lg>
      <l pos="Pron">кодама</l>
      <stg>
-       <st Contlex="PRON_">кодама</st>
+       <st Contlex="DET_ПИНГЕ">кодам</st>
      </stg>
    </lg> <pos>Q_A</pos> <phonet>kodama</phonet>
    <mg>
@@ -1787,6 +1787,7 @@
      <stg>
        <st Contlex="PERS-SG1-IS-DAT">теене</st>
        <st Contlex="PERS-SG1-IS-DAT">тейне</st>
+       <st Contlex="PERS-SG1-IS-DAT">теень</st>
      </stg>
    </lg>
    <mg>
@@ -2410,7 +2411,7 @@
    <lg>
      <l pos="Pron">эрь</l>
      <stg>
-       <st Contlex="PRON_">эрь</st>
+       <st Contlex="DET_КАЛ">эрь</st>
      </stg>
    </lg> <pos>QNT-UNIV</pos> <phonet>äŕ</phonet>
    <mg>
@@ -2418,7 +2419,7 @@
        <head/>
      </m>
      <tg xml:lang="fin">
-       <t pos="Pron">jokainen</t>
+       <t pos="Det">joka</t>
      </tg>
      <xg> <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
        <xt xml:lang="fin">jokapäiväinen.</xt>
