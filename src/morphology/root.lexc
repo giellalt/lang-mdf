@@ -181,7 +181,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +OcPl3 	!!= @CODE@ objject conjugation third person plural
 
 !! Other verb forms are
-  +ConNeg 	!!= @CODE@ connegative, main verb complement to Neg,
+  +ConNeg 	!!= @CODE@ connegative, main verb complement to Neg, vowel-stem
+  +ConNegII 	!!= @CODE@ connegative, main verb complement to Neg, cons-stem
   +Ger 	!!= @CODE@ gerund This is used with Der/Озь and VAbl
   +Inf    	!!= @CODE@ infinitive
   +Neg    	!!= @CODE@ verb of negation эзь, аволь, иля
@@ -446,7 +447,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N +V→V +V→A
+ +Der/Cop
++V→N +V→V +V→A
  +Der/xxx
  +Der/И
  +Der/ф

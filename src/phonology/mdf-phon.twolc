@@ -344,7 +344,7 @@ Rules !!≈ !!The @CODE@
 
 "%{АОЕ%}:е"
 !! __@RULENAME@__  
- %{АОЕ%}:е <=> [ LFC | [ Cns - л ]  ь CnsNonDent | FTV Cns:*  Cns* CnsNonDent: | ь %> г: ] _ [ #: ] ;
+ %{АОЕ%}:е <=> [ LFC | [ Cns - л ]  ь CnsNonDent | FTV Cns:*  Cns* CnsNonDent: | [ь|и] %> г: ] _ [ #: ] ;
 !!€# эрьхк%{АОЕ%}#
 !!€0 эрьхке0
    LFC л ь CnsNonDent _ [ #: ] ;
@@ -708,3 +708,7 @@ VLoss:0 /<= [[ :* [ Letters | А1: | %{АЯ%}: | %{ИЫЙ%}: | К1: | %^О1: | %
 !! __@RULENAME@__  
 WLoss:0 /<= [[ :* Letters ] - [ :* [ в л | в %^О1: л ] ] ] %> _ ;
 
+"Disallow translative linking vowel vs no linking vowel "
+!! __@RULENAME@__
+ k:k /<= [[ :* Letters ] - [ :*  к ]] %> %^О1: _ с  ;
+          к  %>  _ с  ;
