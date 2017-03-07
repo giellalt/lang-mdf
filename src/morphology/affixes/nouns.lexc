@@ -829,16 +829,17 @@ LEXICON NOTDEF-ILL
  SP-ILL-PX_з ;
 
 LEXICON NOTDEF-INE
-+SP+Ine:%>с%^О1 Choose-INDEF-OBLPX-ava ;
++SP+Ine:%>с%^О1 Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 
 LEXICON NOTDEF-ELA
-+SP+Ela:%>ст%^О1 Choose-INDEF-OBLPX-ava ;
++SP+Ela:%>ст%^О1 Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 
 LEXICON NOTDEF-ABE
 +SP+Abe:%>фтом%^О1 Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-TRA
 +SP+Tra+Indef:%>кс K_ГА ;
++SP+Tra+Indef:%>%^О1кс K_ГА ;
 
 LEXICON NOTDEF-CAU
 +SP+Cau+Indef:%>%^О1нкса K ;
@@ -899,6 +900,7 @@ LEXICON SP-PRL-INDEF_ка
 
 LEXICON SP-TRA-INDEF_кс
 +SP+Tra+Indef:%>кс K_ГА ;
++SP+Tra+Indef:%>%^О1кс K_ГА ;
 
 LEXICON PL-NOM-INDEF
 +Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K_ГА ;
@@ -946,6 +948,10 @@ LEXICON OBLIQUECX-PX-osh
 +PxPl3:%>%^О1ст K_ГА ;
 
 
+LEXICON Choose-INDEF-OBLPX-ava_OR_DER/COP
+ Choose-INDEF-OBLPX-ava ;
+ DER/COP ;
+ 
 LEXICON Choose-INDEF-OBLPX-ava
 +Indef: K_вок ;
  OBLIQUECX-PX-ava ;
@@ -958,6 +964,20 @@ LEXICON OBLIQUECX-PX-ava
 +PxPl2:%>нт K_овок ;
 +PxPl3:%>ст K_ГА ;
 
+LEXICON DER/COP
++Der/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
++Der/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
++Der/Cop+Prs+ScSg3: K ;
++Der/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
++Der/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
++Der/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
+
++Der/Cop+Prt2+ScSg1:%>%{ОЕØ%}лень K ;
++Der/Cop+Prt2+ScSg2:%>%{ОЕØ%}леть K ;
++Der/Cop+Prt2+ScSg3:%>%{ОЕØ%}ль K ;
++Der/Cop+Prt2+ScPl1:%>%{ОЕØ%}леме K ;
++Der/Cop+Prt2+ScPl2:%>%{ОЕØ%}леде K ;
++Der/Cop+Prt2+ScPl3:%>%{ОЕØ%}льхть K ;
 
 ! vim: set ft=xfst-lexc:
 

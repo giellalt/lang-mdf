@@ -6,6 +6,7 @@
 !! CLITICS
 !!!!!!!!!!!!!!
 
+
 LEXICON K_CHOOSE_ВОК_OR_НГА
 +Foc/вок:%>вок  # ;
  K ;
@@ -13,7 +14,7 @@ LEXICON K_CHOOSE_ВОК_OR_НГА
 LEXICON K_вок
 !! This is for vowel final Nominatives
 +Foc/вок:%>вок  WORD-END ; 
-+Foc/вок:%>г%{АОЕ%} WORD-END ;
++Foc/Ге:%>г%{АОЕ%} WORD-END ;
  K ;
 LEXICON K_овок
 !! This is for PxPl1 and PxPl2 
@@ -23,7 +24,7 @@ LEXICON K_овок
 LEXICON K_ГА
 !! This is for Consonant-final words
 !+Foc/Ге:%>г%{АОЕ%} WORD-END ;
-+Foc/вок:%>г%{АОЕ%} WORD-END ;
++Foc/Ге:%>г%{АОЕ%} WORD-END ;
  K ;
 
 LEXICON K_НГА

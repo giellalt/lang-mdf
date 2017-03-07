@@ -35113,6 +35113,26 @@
 </e>
 <e>
    <lg>
+     <l pos="N">кизоня</l>
+     <stg>
+       <st Contlex="N_АВА">кизоня</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kesä</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">vuosi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">кизу</l>
      <stg>
        <st Contlex="N_КЕЛУ">кизу</st>
@@ -119268,6 +119288,20 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="N">nalle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пятналанга</l>
+     <stg>
+       <st Contlex="N_ПАНГА">пятналанг</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N"></t>
      </tg>
    </mg>
 </e>
