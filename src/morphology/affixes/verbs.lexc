@@ -164,7 +164,7 @@ LEXICON V0_НЯЕМС  !!= @CODE@ няемс:ня
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
 +ConNeg:й%^О1 K ; 
-+ConNegII:й K ; 
++ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :%>%^О1 Non-Finite-Vws ;
  Non-Finite-Cns ;
@@ -184,6 +184,7 @@ LEXICON Non-Finite-Vws
 +Inf+Loc:%^О1ма K ;
 +Inf+Abl:%^О1м%>да K ;
 +Inf+Abl:%^О1м%>д%^О1 OBLIQUECX-PX-ava ;
++Ger+Ela:%^О1мст%^О1 K ;
 +Ger:%^О1зь K ;
 
 LEXICON Non-Finite-Cns
@@ -267,7 +268,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 OPT-ALL       	;
 	 INF_ОМ		;
 +ConNeg:%^О1 K ;
-+ConNegII: K ;
++ConNegII:%>%{КТ%}%{ЬØ%} K ;
 !! !INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 LEXICON VERB-ZERO-ALL
 @R.CONJ.ObjAll@ VERB-ZERO-OC ;
