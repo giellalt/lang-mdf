@@ -282,6 +282,7 @@
      </tg>
    </mg>
 </e>
+
 <e>
    <lg>
      <l pos="N">авамаци</l>
@@ -42108,7 +42109,7 @@
    <lg>
      <l pos="N">кургопотма</l>
      <stg>
-       <st Contlex="N_СЕЛЬМЕ">курго#потма</st>
+       <st Contlex="N_ПУЛА">курго#потма</st>
      </stg> <phonet>kurgəpotma</phonet>
    </lg>
    <mg>
@@ -44474,7 +44475,7 @@
    <lg>
      <l pos="N">кядьёжа</l>
      <stg>
-       <st Contlex="N_ПУЛА">кядь#ёжа</st>
+       <st Contlex="N_МОКША">кядь#ёжа</st>
      </stg> <phonet>käďjoža</phonet>
    </lg>
    <mg>
@@ -65364,7 +65365,7 @@
    <lg>
      <l pos="N">пекепотма</l>
      <stg>
-       <st Contlex="N_">пеке#потма</st>
+       <st Contlex="N_ПУЛА">пеке#потма</st>
      </stg> <phonet>pekəpotma</phonet>
    </lg>
    <mg>
@@ -69786,7 +69787,7 @@
    <lg>
      <l pos="N">потма</l>
      <stg>
-       <st Contlex="N_">потма</st>
+       <st Contlex="N_ПУЛА">потма</st>
      </stg> <phonet>potma</phonet>
    </lg>
    <mg>
@@ -109700,7 +109701,7 @@
    <lg>
      <l pos="N">шалхкопотма</l>
      <stg>
-       <st Contlex="N_">шалхкопотма</st>
+       <st Contlex="N_ПУЛА">шалхкопотма</st>
      </stg> <phonet>šalxkəpotma</phonet>
    </lg>
    <mg>
@@ -119311,6 +119312,20 @@
      <l pos="N">либорьф</l>
      <stg>
        <st Contlex="N_КАЛ">либорьф</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мурза</l>
+     <stg>
+       <st Contlex="N_АВА">мурза</st>
      </stg>
    </lg>
    <mg>

@@ -37,6 +37,11 @@ LEXICON A_ПУЛА
 +A+Sg+Nom+Indef:%>%{АОЕ%} K ;
 +A+Der/MWN:%>%{АОЕ%} N_ПУЛА ;
 
+LEXICON A_МОКША
+!мокша:мокша
++A+Sg+Nom+Indef: K ;
++A+Der/MWN: N_МОКША ;
+
 LEXICON A_ОШ
 !! ош:ош
 +A+Sg+Nom+Indef: K ;
