@@ -21,7 +21,7 @@ Tests:
      ош+N+SP+Abl+Indef: ошта
      ош+N+SP+Dat+Indef: ошенди
      ош+N+SP+Abe+Indef: ошфтома
-     ош+N+SP+Comp+Indef: ошешка
+     ош+N+SP+Cmpr+Indef: ошешка
      ош+N+SP+Ine+Indef: ошса
      ош+N+SP+Ela+Indef: ошста
      ош+N+SP+Ill+Indef: [ошу, ошс]
@@ -35,7 +35,7 @@ Tests:
      ош+N+Pl+Dat+PxSg1: ошненди
      ош+N+SP+Abl+PxSg1: оштон
      ош+N+SP+Abe+PxSg1: ошфтомон
-     ош+N+SP+Comp+PxSg1: ошешкан
+     ош+N+SP+Cmpr+PxSg1: ошешкан
      ош+N+SP+Ine+PxSg1: ошсон
      ош+N+SP+Ela+PxSg1: ошстон
      ош+N+SP+Ill+PxSg1: ошезон
@@ -46,7 +46,7 @@ Tests:
      ош+N+Pl+Gen+PxSg2: ошнень
      ош+N+SP+Abl+PxSg2: ошдот
      ош+N+SP+Abe+PxSg2: ошфтомот
-     ош+N+SP+Comp+PxSg2: ошешкат
+     ош+N+SP+Cmpr+PxSg2: ошешкат
      ош+N+SP+Ine+PxSg2: ошсот
      ош+N+SP+Ela+PxSg2: ошстот
      ош+N+SP+Ill+PxSg2: ошезот
@@ -59,7 +59,7 @@ Tests:
      ош+N+Pl+Dat+PxSg3: ошензонды
      ош+N+SP+Abl+PxSg3: оштонза
      ош+N+SP+Abe+PxSg3: ошфтомонза
-     ош+N+SP+Comp+PxSg3: ошешканза
+     ош+N+SP+Cmpr+PxSg3: ошешканза
      ош+N+SP+Ine+PxSg3: ошсонза
      ош+N+SP+Ela+PxSg3: ошстонза
      ош+N+SP+Ill+PxSg3: ошезонза
@@ -69,7 +69,7 @@ Tests:
      ош+N+SP+Dat+PxPl1: ошеньконди
      ош+N+SP+Abl+PxPl1: ошедонк
      ош+N+SP+Abe+PxPl1: ошфтомонк
-     ош+N+SP+Comp+PxPl1: ошешканк
+     ош+N+SP+Cmpr+PxPl1: ошешканк
      ош+N+SP+Ine+PxPl1: ошсонк
      ош+N+SP+Ela+PxPl1: ошстонк
      ош+N+SP+Ill+PxPl1: ошезонк
@@ -79,7 +79,7 @@ Tests:
      ош+N+SP+Dat+PxPl2: ошентенди
      ош+N+SP+Abl+PxPl2: ошедонт
      ош+N+SP+Abe+PxPl2: ошфтомонт
-     ош+N+SP+Comp+PxPl2: ошешкант
+     ош+N+SP+Cmpr+PxPl2: ошешкант
      ош+N+SP+Ine+PxPl2: ошсонт
      ош+N+SP+Ela+PxPl2: ошстонт
      ош+N+SP+Ill+PxPl2: ошезонт
@@ -89,7 +89,7 @@ Tests:
      ош+N+SP+Dat+PxPl3: ошснонды
      ош+N+SP+Abl+PxPl3: оштост
      ош+N+SP+Abe+PxPl3: ошфтомост
-     ош+N+SP+Comp+PxPl3: ошешкаст
+     ош+N+SP+Cmpr+PxPl3: ошешкаст
      ош+N+SP+Ine+PxPl3: ошсост
      ош+N+SP+Ela+PxPl3: ошстост
      ош+N+SP+Ill+PxPl3: ошезост
@@ -108,7 +108,7 @@ Tests:
      ош+N+SP+Abl+Indef+Foc/вок: оштовок
      ош+N+SP+Dat+Indef+Foc/вок: ошендивок
      ош+N+SP+Abe+Indef+Foc/вок: ошфтомовок
-     ош+N+SP+Comp+Indef+Foc/вок: ошешкавок
+     ош+N+SP+Cmpr+Indef+Foc/вок: ошешкавок
      ош+N+SP+Ine+Indef+Foc/вок: ошсовок
      ош+N+SP+Ela+Indef+Foc/вок: ошстовок
      ош+N+SP+Ill+Indef+Foc/вок: ошезовок
@@ -122,7 +122,7 @@ Tests:
      ош+N+Pl+Dat+PxSg1+Foc/вок: ошенендивок
      ош+N+SP+Abl+PxSg1+Foc/вок: оштонга
      ош+N+SP+Abe+PxSg1+Foc/вок: ошфтомонга
-     ош+N+SP+Comp+PxSg1+Foc/вок: ошешканка
+     ош+N+SP+Cmpr+PxSg1+Foc/вок: ошешканка
      ош+N+SP+Ine+PxSg1+Foc/вок: ошсонга
      ош+N+SP+Ela+PxSg1+Foc/вок: ошстонга
      ош+N+SP+Ill+PxSg1+Foc/вок: ошезонга
@@ -133,7 +133,7 @@ Tests:
      ош+N+Pl+Gen+PxSg2+Foc/вок: ошненьге
      ош+N+SP+Abl+PxSg2+Foc/вок: оштотка
      ош+N+SP+Abe+PxSg2+Foc/вок: ошфтомотка
-     ош+N+SP+Comp+PxSg2+Foc/вок: ошешкатка
+     ош+N+SP+Cmpr+PxSg2+Foc/вок: ошешкатка
      ош+N+SP+Ine+PxSg2+Foc/вок: ошсотка
      ош+N+SP+Ela+PxSg2+Foc/вок: ошстотка
      ош+N+SP+Ill+PxSg2+Foc/вок: ошезотка
@@ -146,7 +146,7 @@ Tests:
      ош+N+Pl+Dat+PxSg3+Foc/вок: ошензондывок
      ош+N+SP+Abl+PxSg3+Foc/вок: оштонзовок
      ош+N+SP+Abe+PxSg3+Foc/вок: ошфтомонзовок
-     ош+N+SP+Comp+PxSg3+Foc/вок: ошешканзовок
+     ош+N+SP+Cmpr+PxSg3+Foc/вок: ошешканзовок
      ош+N+SP+Ine+PxSg3+Foc/вок: ошсонзовок
      ош+N+SP+Ela+PxSg3+Foc/вок: ошстонзовок
      ош+N+SP+Ill+PxSg3+Foc/вок: ошезонзовок
@@ -156,7 +156,7 @@ Tests:
      ош+N+SP+Dat+PxPl1+Foc/вок: ошенькондивок
      ош+N+SP+Abl+PxPl1+Foc/вок: оштонковок
      ош+N+SP+Abe+PxPl1+Foc/вок: ошфтомонковок
-     ош+N+SP+Comp+PxPl1+Foc/вок: ошешканковок
+     ош+N+SP+Cmpr+PxPl1+Foc/вок: ошешканковок
      ош+N+SP+Ine+PxPl1+Foc/вок: ошсонковок
      ош+N+SP+Ela+PxPl1+Foc/вок: ошстонковок
      ош+N+SP+Ill+PxPl1+Foc/вок: ошезонковок
@@ -166,7 +166,7 @@ Tests:
      ош+N+SP+Dat+PxPl2+Foc/вок: ошентендивок
      ош+N+SP+Abl+PxPl2+Foc/вок: оштонтка
      ош+N+SP+Abe+PxPl2+Foc/вок: ошфтомонтка
-     ош+N+SP+Comp+PxPl2+Foc/вок: ошешкантка
+     ош+N+SP+Cmpr+PxPl2+Foc/вок: ошешкантка
      ош+N+SP+Ine+PxPl2+Foc/вок: ошсонтка
      ош+N+SP+Ela+PxPl2+Foc/вок: ошстонтка
      ош+N+SP+Ill+PxPl2+Foc/вок: ошезонтка
@@ -176,7 +176,7 @@ Tests:
      ош+N+SP+Dat+PxPl3+Foc/вок: ошснондывок
      ош+N+SP+Abl+PxPl3+Foc/вок: оштостка
      ош+N+SP+Abe+PxPl3+Foc/вок: ошфтомостка
-     ош+N+SP+Comp+PxPl3+Foc/вок: ошешкастка
+     ош+N+SP+Cmpr+PxPl3+Foc/вок: ошешкастка
      ош+N+SP+Ine+PxPl3+Foc/вок: ошсостка
      ош+N+SP+Ela+PxPl3+Foc/вок: ошстостка
      ош+N+SP+Ill+PxPl3+Foc/вок: ошезостка

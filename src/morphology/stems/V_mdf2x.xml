@@ -64817,7 +64817,7 @@
    <lg>
      <l pos="V" val="IV">лиемс</l>
      <stg>
-       <st Contlex="IV_КУНДАМС">ли</st>
+       <st Contlex="IV_КУНДАМС">лий</st>
      </stg> <phonet>ľijəms</phonet>
    </lg>
    <mg>
@@ -71055,19 +71055,22 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="V">käydä pitkäkseen /nukkumaan</t>
+       <t pos="V">käydä pitkäkseen</t>
+       <t pos="V">käydä nukkumaan</t>
      </tg>
    </mg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="V">sammua (tuli)</t>
+       <t pos="V">sammua</t>
+       <re>tuli</re>
      </tg>
    </mg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="V">laskea (aurinko)</t>
+       <t pos="V">laskea</t>
+       <r>aurinko</r>
      </tg>
      <tg xml:lang="fra">
        <t pos="V">s'étendre (action)</t>

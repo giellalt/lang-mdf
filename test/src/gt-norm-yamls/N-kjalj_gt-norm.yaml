@@ -21,7 +21,7 @@ Tests:
      кяль+N+SP+Abl+Indef: кяльда
      кяль+N+SP+Dat+Indef: кяленди
      кяль+N+SP+Abe+Indef: кяльфтома
-     кяль+N+SP+Comp+Indef: кяльшка
+     кяль+N+SP+Cmpr+Indef: кяльшка
      кяль+N+SP+Ine+Indef: кяльса
      кяль+N+SP+Ela+Indef: кяльста
      кяль+N+SP+Ill+Indef: кяльс
@@ -35,7 +35,7 @@ Tests:
      кяль+N+Pl+Dat+PxSg1: кяльненди
      кяль+N+SP+Abl+PxSg1: кяльдон
      кяль+N+SP+Abe+PxSg1: кяльфтомон
-     кяль+N+SP+Comp+PxSg1: кяльшкан
+     кяль+N+SP+Cmpr+PxSg1: кяльшкан
      кяль+N+SP+Ine+PxSg1: кяльсон
      кяль+N+SP+Ela+PxSg1: кяльстон
      кяль+N+SP+Ill+PxSg1: кялезон
@@ -46,7 +46,7 @@ Tests:
      кяль+N+Pl+Gen+PxSg2: кяльхнень
      кяль+N+SP+Abl+PxSg2: кяльдот
      кяль+N+SP+Abe+PxSg2: кяльфтомот
-     кяль+N+SP+Comp+PxSg2: кяльшкат
+     кяль+N+SP+Cmpr+PxSg2: кяльшкат
      кяль+N+SP+Ine+PxSg2: кяльсот
      кяль+N+SP+Ela+PxSg2: кяльстот
      кяль+N+SP+Ill+PxSg2: кялезот
@@ -59,7 +59,7 @@ Tests:
      кяль+N+Pl+Dat+PxSg3: кялензонды
      кяль+N+SP+Abl+PxSg3: кяльдонза
      кяль+N+SP+Abe+PxSg3: кяльфтомонза
-     кяль+N+SP+Comp+PxSg3: кяльшканза
+     кяль+N+SP+Cmpr+PxSg3: кяльшканза
      кяль+N+SP+Ine+PxSg3: кяльсонза
      кяль+N+SP+Ela+PxSg3: кяльстонза
      кяль+N+SP+Ill+PxSg3: кяльзонза
@@ -69,7 +69,7 @@ Tests:
      кяль+N+SP+Dat+PxPl1: кяленьконди
      кяль+N+SP+Abl+PxPl1: кяльдонк
      кяль+N+SP+Abe+PxPl1: кяльфтомонк
-     кяль+N+SP+Comp+PxPl1: кяльшканк
+     кяль+N+SP+Cmpr+PxPl1: кяльшканк
      кяль+N+SP+Ine+PxPl1: кяльсонк
      кяль+N+SP+Ela+PxPl1: кяльстонк
      кяль+N+SP+Ill+PxPl1: кяльзонк
@@ -79,7 +79,7 @@ Tests:
      кяль+N+SP+Dat+PxPl2: кялентенди
      кяль+N+SP+Abl+PxPl2: кяльдонт
      кяль+N+SP+Abe+PxPl2: кяльфтомонт
-     кяль+N+SP+Comp+PxPl2: кяльшкант
+     кяль+N+SP+Cmpr+PxPl2: кяльшкант
      кяль+N+SP+Ine+PxPl2: кяльсонт
      кяль+N+SP+Ela+PxPl2: кяльстонт
      кяль+N+SP+Ill+PxPl2: кялезонт
@@ -89,7 +89,7 @@ Tests:
      кяль+N+SP+Dat+PxPl3: кяльснонды
      кяль+N+SP+Abl+PxPl3: кяльдост
      кяль+N+SP+Abe+PxPl3: кяльфтомост
-     кяль+N+SP+Comp+PxPl3: кяльшкаст
+     кяль+N+SP+Cmpr+PxPl3: кяльшкаст
      кяль+N+SP+Ine+PxPl3: кяльсост
      кяль+N+SP+Ela+PxPl3: кяльстост
      кяль+N+SP+Ill+PxPl3: кялезост
@@ -108,7 +108,7 @@ Tests:
      кяль+N+SP+Abl+Indef+Foc/вок: кяльдовок
      кяль+N+SP+Dat+Indef+Foc/вок: кяленьдивок
      кяль+N+SP+Abe+Indef+Foc/вок: кяльфтомовок
-     кяль+N+SP+Comp+Indef+Foc/вок: кяльшкавок
+     кяль+N+SP+Cmpr+Indef+Foc/вок: кяльшкавок
      кяль+N+SP+Ine+Indef+Foc/вок: кяльсовок
      кяль+N+SP+Ela+Indef+Foc/вок: кяльстовок
      кяль+N+SP+Ill+Indef+Foc/вок: кяльска
@@ -122,7 +122,7 @@ Tests:
      кяль+N+Pl+Dat+PxSg1+Foc/вок: кяленендивок
      кяль+N+SP+Abl+PxSg1+Foc/вок: кяльдонга
      кяль+N+SP+Abe+PxSg1+Foc/вок: кяльфтомонга
-     кяль+N+SP+Comp+PxSg1+Foc/вок: кяльшканка
+     кяль+N+SP+Cmpr+PxSg1+Foc/вок: кяльшканка
      кяль+N+SP+Ine+PxSg1+Foc/вок: кяльсонга
      кяль+N+SP+Ela+PxSg1+Foc/вок: кяльстонга
      кяль+N+SP+Ill+PxSg1+Foc/вок: кялезонга
@@ -133,7 +133,7 @@ Tests:
      кяль+N+Pl+Gen+PxSg2+Foc/вок: кяльхненьге
      кяль+N+SP+Abl+PxSg2+Foc/вок: кяльдотка
      кяль+N+SP+Abe+PxSg2+Foc/вок: кяльфтомотка
-     кяль+N+SP+Comp+PxSg2+Foc/вок: кяльшкатка
+     кяль+N+SP+Cmpr+PxSg2+Foc/вок: кяльшкатка
      кяль+N+SP+Ine+PxSg2+Foc/вок: кяльсотка
      кяль+N+SP+Ela+PxSg2+Foc/вок: кяльстотка
      кяль+N+SP+Ill+PxSg2+Foc/вок: кялезотка
@@ -146,7 +146,7 @@ Tests:
      кяль+N+Pl+Dat+PxSg3+Foc/вок: кялензондывок
      кяль+N+SP+Abl+PxSg3+Foc/вок: кяльдонзовок
      кяль+N+SP+Abe+PxSg3+Foc/вок: кяльфтомонзовок
-     кяль+N+SP+Comp+PxSg3+Foc/вок: кяльшканзовок
+     кяль+N+SP+Cmpr+PxSg3+Foc/вок: кяльшканзовок
      кяль+N+SP+Ine+PxSg3+Foc/вок: кяльсонзовок
      кяль+N+SP+Ela+PxSg3+Foc/вок: кяльстонзовок
      кяль+N+SP+Ill+PxSg3+Foc/вок: кяльзонзовок
@@ -156,7 +156,7 @@ Tests:
      кяль+N+SP+Dat+PxPl1+Foc/вок: кяленькондивок
      кяль+N+SP+Abl+PxPl1+Foc/вок: кяльдонковок
      кяль+N+SP+Abe+PxPl1+Foc/вок: кяльфтомонковок
-     кяль+N+SP+Comp+PxPl1+Foc/вок: кяльшканковок
+     кяль+N+SP+Cmpr+PxPl1+Foc/вок: кяльшканковок
      кяль+N+SP+Ine+PxPl1+Foc/вок: кяльсонковок
      кяль+N+SP+Ela+PxPl1+Foc/вок: кяльстонковок
      кяль+N+SP+Ill+PxPl1+Foc/вок: кяльзонковок
@@ -166,7 +166,7 @@ Tests:
      кяль+N+SP+Dat+PxPl2+Foc/вок: кялентендивок
      кяль+N+SP+Abl+PxPl2+Foc/вок: кяльдонтка
      кяль+N+SP+Abe+PxPl2+Foc/вок: кяльфтомонтовок
-     кяль+N+SP+Comp+PxPl2+Foc/вок: кяльшкантовок
+     кяль+N+SP+Cmpr+PxPl2+Foc/вок: кяльшкантовок
      кяль+N+SP+Ine+PxPl2+Foc/вок: кяльсонтка
      кяль+N+SP+Ela+PxPl2+Foc/вок: кяльстонтка
      кяль+N+SP+Ill+PxPl2+Foc/вок: кялезонтка
@@ -176,7 +176,7 @@ Tests:
      кяль+N+SP+Dat+PxPl3+Foc/вок: кяльснондывок
      кяль+N+SP+Abl+PxPl3+Foc/вок: кяльдостка
      кяль+N+SP+Abe+PxPl3+Foc/вок: кяльфтомостка
-     кяль+N+SP+Comp+PxPl3+Foc/вок: кяльшкастка
+     кяль+N+SP+Cmpr+PxPl3+Foc/вок: кяльшкастка
      кяль+N+SP+Ine+PxPl3+Foc/вок: кяльсостка
      кяль+N+SP+Ela+PxPl3+Foc/вок: кяльстостка
      кяль+N+SP+Ill+PxPl3+Foc/вок: кялезостка
