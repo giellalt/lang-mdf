@@ -21,7 +21,7 @@ Tests:
      офта+N+SP+Abl+Indef: офтта
      офта+N+SP+Dat+Indef: офтонди
      офта+N+SP+Abe+Indef: офтфтома
-     офта+N+SP+Comp+Indef: офтошка
+     офта+N+SP+Cmpr+Indef: офтошка
      офта+N+SP+Ine+Indef: офтса
      офта+N+SP+Ela+Indef: офтста
      офта+N+SP+Ill+Indef: офтс
@@ -35,7 +35,7 @@ Tests:
      офта+N+Pl+Dat+PxSg1: офтоненди
      офта+N+SP+Abl+PxSg1: офтодон
      офта+N+SP+Abe+PxSg1: офтфтомон
-     офта+N+SP+Comp+PxSg1: офтошкан
+     офта+N+SP+Cmpr+PxSg1: офтошкан
      офта+N+SP+Ine+PxSg1: офтсон
      офта+N+SP+Ela+PxSg1: офтстон
      офта+N+SP+Ill+PxSg1: офтозон
@@ -46,7 +46,7 @@ Tests:
      офта+N+Pl+Gen+PxSg2: офттнень
      офта+N+SP+Abl+PxSg2: офттот
      офта+N+SP+Abe+PxSg2: офтфтомот
-     офта+N+SP+Comp+PxSg2: офтошкат
+     офта+N+SP+Cmpr+PxSg2: офтошкат
      офта+N+SP+Ine+PxSg2: офтсот
      офта+N+SP+Ela+PxSg2: офтстот
      офта+N+SP+Ill+PxSg2: офтозт
@@ -59,7 +59,7 @@ Tests:
      офта+N+Pl+Dat+PxSg3: офтонзонды
      офта+N+SP+Abl+PxSg3: офттонза
      офта+N+SP+Abe+PxSg3: офтфтомонза
-     офта+N+SP+Comp+PxSg3: офтошканза
+     офта+N+SP+Cmpr+PxSg3: офтошканза
      офта+N+SP+Ine+PxSg3: офтсонза
      офта+N+SP+Ela+PxSg3: офтстонза
      офта+N+SP+Ill+PxSg3: офтозонза
@@ -69,7 +69,7 @@ Tests:
      офта+N+SP+Dat+PxPl1: офтоньконди
      офта+N+SP+Abl+PxPl1: офттонк
      офта+N+SP+Abe+PxPl1: офтфтомонк
-     офта+N+SP+Comp+PxPl1: офтошканк
+     офта+N+SP+Cmpr+PxPl1: офтошканк
      офта+N+SP+Ine+PxPl1: офтсонк
      офта+N+SP+Ela+PxPl1: офтстонк
      офта+N+SP+Ill+PxPl1: офтозонк
@@ -79,7 +79,7 @@ Tests:
      офта+N+SP+Dat+PxPl2: офтонтенди
      офта+N+SP+Abl+PxPl2: офттонт
      офта+N+SP+Abe+PxPl2: офтфтомонт
-     офта+N+SP+Comp+PxPl2: офтошкант
+     офта+N+SP+Cmpr+PxPl2: офтошкант
      офта+N+SP+Ine+PxPl2: офтсонт
      офта+N+SP+Ela+PxPl2: офтстонт
      офта+N+SP+Ill+PxPl2: офтозонт
@@ -89,7 +89,7 @@ Tests:
      офта+N+SP+Dat+PxPl3: офтснонды
      офта+N+SP+Abl+PxPl3: офтодост
      офта+N+SP+Abe+PxPl3: офтфтомост
-     офта+N+SP+Comp+PxPl3: офтошкаст
+     офта+N+SP+Cmpr+PxPl3: офтошкаст
      офта+N+SP+Ine+PxPl3: офтсост
      офта+N+SP+Ela+PxPl3: офтстост
      офта+N+SP+Ill+PxPl3: офтозост
@@ -108,7 +108,7 @@ Tests:
      офта+N+SP+Abl+Indef+Foc/вок: офттовок
      офта+N+SP+Dat+Indef+Foc/вок: офтондивок
      офта+N+SP+Abe+Indef+Foc/вок: офтфтомовок
-     офта+N+SP+Comp+Indef+Foc/вок: офтошкавок
+     офта+N+SP+Cmpr+Indef+Foc/вок: офтошкавок
      офта+N+SP+Ine+Indef+Foc/вок: офтсовок
      офта+N+SP+Ela+Indef+Foc/вок: офтстовок
      офта+N+SP+Ill+Indef+Foc/вок: офтозовок
@@ -122,7 +122,7 @@ Tests:
      офта+N+Pl+Dat+PxSg1+Foc/вок: офтонендивок
      офта+N+SP+Abl+PxSg1+Foc/вок: офттонга
      офта+N+SP+Abe+PxSg1+Foc/вок: офтфтомонга
-     офта+N+SP+Comp+PxSg1+Foc/вок: офтошканка
+     офта+N+SP+Cmpr+PxSg1+Foc/вок: офтошканка
      офта+N+SP+Ine+PxSg1+Foc/вок: офтсонга
      офта+N+SP+Ela+PxSg1+Foc/вок: офтстонга
      офта+N+SP+Ill+PxSg1+Foc/вок: офтозонга
@@ -133,7 +133,7 @@ Tests:
      офта+N+Pl+Gen+PxSg2+Foc/вок: офттненьге
      офта+N+SP+Abl+PxSg2+Foc/вок: офттотка
      офта+N+SP+Abe+PxSg2+Foc/вок: офтфтомотка
-     офта+N+SP+Comp+PxSg2+Foc/вок: офтошкатка
+     офта+N+SP+Cmpr+PxSg2+Foc/вок: офтошкатка
      офта+N+SP+Ine+PxSg2+Foc/вок: офтсотка
      офта+N+SP+Ela+PxSg2+Foc/вок: офтстотка
      офта+N+SP+Ill+PxSg2+Foc/вок: офтозотка
@@ -146,7 +146,7 @@ Tests:
      офта+N+Pl+Dat+PxSg3+Foc/вок: офтонзондывок
      офта+N+SP+Abl+PxSg3+Foc/вок: офттонзовок
      офта+N+SP+Abe+PxSg3+Foc/вок: офтфтомонзовок
-     офта+N+SP+Comp+PxSg3+Foc/вок: офтошканзовок
+     офта+N+SP+Cmpr+PxSg3+Foc/вок: офтошканзовок
      офта+N+SP+Ine+PxSg3+Foc/вок: офтсонзовок
      офта+N+SP+Ela+PxSg3+Foc/вок: офтстонзовок
      офта+N+SP+Ill+PxSg3+Foc/вок: офтозонзовок
@@ -156,7 +156,7 @@ Tests:
      офта+N+SP+Dat+PxPl1+Foc/вок: офтонькондивок
      офта+N+SP+Abl+PxPl1+Foc/вок: офттонковок
      офта+N+SP+Abe+PxPl1+Foc/вок: офтфтомонковок
-     офта+N+SP+Comp+PxPl1+Foc/вок: офтошканковок
+     офта+N+SP+Cmpr+PxPl1+Foc/вок: офтошканковок
      офта+N+SP+Ine+PxPl1+Foc/вок: офтсонковок
      офта+N+SP+Ela+PxPl1+Foc/вок: офтстонковок
      офта+N+SP+Ill+PxPl1+Foc/вок: офтозонковок
@@ -166,7 +166,7 @@ Tests:
      офта+N+SP+Dat+PxPl2+Foc/вок: офтонтендивок
      офта+N+SP+Abl+PxPl2+Foc/вок: офттонтка
      офта+N+SP+Abe+PxPl2+Foc/вок: офтфтомонтка
-     офта+N+SP+Comp+PxPl2+Foc/вок: офтошкантка
+     офта+N+SP+Cmpr+PxPl2+Foc/вок: офтошкантка
      офта+N+SP+Ine+PxPl2+Foc/вок: офтсонтка
      офта+N+SP+Ela+PxPl2+Foc/вок: офтстонтка
      офта+N+SP+Ill+PxPl2+Foc/вок: офтозонтка
@@ -176,7 +176,7 @@ Tests:
      офта+N+SP+Dat+PxPl3+Foc/вок: офтснондывок
      офта+N+SP+Abl+PxPl3+Foc/вок: офттостка
      офта+N+SP+Abe+PxPl3+Foc/вок: офтфтомостка
-     офта+N+SP+Comp+PxPl3+Foc/вок: офтошкастка
+     офта+N+SP+Cmpr+PxPl3+Foc/вок: офтошкастка
      офта+N+SP+Ine+PxPl3+Foc/вок: офтсостка
      офта+N+SP+Ela+PxPl3+Foc/вок: офтстостка
      офта+N+SP+Ill+PxPl3+Foc/вок: офтозостка
