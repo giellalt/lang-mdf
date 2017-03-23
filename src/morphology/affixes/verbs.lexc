@@ -113,17 +113,17 @@ LEXICON IV_НЯЕМС
 
 LEXICON V0_КУНДАМС
  VERBAL-CONJUGATIONS-ALL ;
-:%> Non-Finite-Vws ;
+: Non-Finite-Vws ;
  Non-Finite-Cns ;
 
 LEXICON V0_АНДОМС
  VERBAL-CONJUGATIONS-ALL ;
-:%>%^О1 Non-Finite-Vws ;
+: Non-Finite-Vws ;
  Non-Finite-Cns ;
 
 LEXICON V0_ПАЧКОДЕМС
  VERBAL-CONJUGATIONS-ALL ;
-:%>%^О1 Non-Finite-Vws ;
+: Non-Finite-Vws ;
  Non-Finite-Cns ;
 
 LEXICON V0_ТИЕМС
@@ -180,12 +180,12 @@ LEXICON V0_АЛЫЯФТОМС
 :%> Non-Finite-Cns ;
 
 LEXICON Non-Finite-Vws
-+Inf:%^О1мс K ;
-+Inf+Loc:%^О1ма K ;
-+Inf+Abl:%^О1м%>да K ;
-+Inf+Abl:%^О1м%>д%^О1 OBLIQUECX-PX-ava ;
-+Ger+Ela:%^О1мст%^О1 K ;
-+Ger:%^О1зь K ;
++Inf:%>%^О1мс K ;
++Inf+Loc:%>%^О1ма K ;
++Inf+Abl:%>%^О1м%>да K ;
++Inf+Abl:%>%^О1м%>д%^О1 OBLIQUECX-PX-ava ;
++Ger+Ela:%>%^О1мст%^О1 K ;
++Ger:%>%^О1зь K ;
 
 LEXICON Non-Finite-Cns
 +PrfPrc:%^Devoice%>ф K ;

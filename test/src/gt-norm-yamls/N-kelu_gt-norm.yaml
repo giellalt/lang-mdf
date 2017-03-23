@@ -21,7 +21,7 @@ Tests:
      келу+N+SP+Abl+Indef: келуда
      келу+N+SP+Dat+Indef: келунди
      келу+N+SP+Abe+Indef: келуфтома
-     келу+N+SP+Comp+Indef: келушка
+     келу+N+SP+Cmpr+Indef: келушка
      келу+N+SP+Ine+Indef: келуса
      келу+N+SP+Ela+Indef: келуста
      келу+N+SP+Ill+Indef: келус
@@ -35,7 +35,7 @@ Tests:
      келу+N+Pl+Dat+PxSg1: келуненди
      келу+N+SP+Abl+PxSg1: келудон
      келу+N+SP+Abe+PxSg1: келуфтомон
-     келу+N+SP+Comp+PxSg1: келушкан
+     келу+N+SP+Cmpr+PxSg1: келушкан
      келу+N+SP+Ine+PxSg1: келусон
      келу+N+SP+Ela+PxSg1: келустон
      келу+N+SP+Ill+PxSg1: келузон
@@ -46,7 +46,7 @@ Tests:
      келу+N+Pl+Gen+PxSg2: келуфнень
      келу+N+SP+Abl+PxSg2: келудот
      келу+N+SP+Abe+PxSg2: келуфтомот
-     келу+N+SP+Comp+PxSg2: келушкат
+     келу+N+SP+Cmpr+PxSg2: келушкат
      келу+N+SP+Ine+PxSg2: келусот
      келу+N+SP+Ela+PxSg2: келустот
      келу+N+SP+Ill+PxSg2: келузт
@@ -59,7 +59,7 @@ Tests:
      келу+N+Pl+Dat+PxSg3: келунзонды
      келу+N+SP+Abl+PxSg3: келудонза
      келу+N+SP+Abe+PxSg3: келуфтомонза
-     келу+N+SP+Comp+PxSg3: келушканза
+     келу+N+SP+Cmpr+PxSg3: келушканза
      келу+N+SP+Ine+PxSg3: келусонза
      келу+N+SP+Ela+PxSg3: келустонза
      келу+N+SP+Ill+PxSg3: келузонза
@@ -69,7 +69,7 @@ Tests:
      келу+N+SP+Dat+PxPl1: келуньконди
      келу+N+SP+Abl+PxPl1: келудонк
      келу+N+SP+Abe+PxPl1: келуфтомонк
-     келу+N+SP+Comp+PxPl1: келушканк
+     келу+N+SP+Cmpr+PxPl1: келушканк
      келу+N+SP+Ine+PxPl1: келусонк
      келу+N+SP+Ela+PxPl1: келустонк
      келу+N+SP+Ill+PxPl1: келузонк
@@ -79,7 +79,7 @@ Tests:
      келу+N+SP+Dat+PxPl2: келунтенди
      келу+N+SP+Abl+PxPl2: келудонт
      келу+N+SP+Abe+PxPl2: келуфтомонт
-     келу+N+SP+Comp+PxPl2: келушкант
+     келу+N+SP+Cmpr+PxPl2: келушкант
      келу+N+SP+Ine+PxPl2: келусонт
      келу+N+SP+Ela+PxPl2: келустонт
      келу+N+SP+Ill+PxPl2: келузонт
@@ -89,7 +89,7 @@ Tests:
      келу+N+SP+Dat+PxPl3: келуснонды
      келу+N+SP+Abl+PxPl3: келудост
      келу+N+SP+Abe+PxPl3: келуфтомост
-     келу+N+SP+Comp+PxPl3: келушкаст
+     келу+N+SP+Cmpr+PxPl3: келушкаст
      келу+N+SP+Ine+PxPl3: келусост
      келу+N+SP+Ela+PxPl3: келустост
      келу+N+SP+Ill+PxPl3: келузост
@@ -108,7 +108,7 @@ Tests:
      келу+N+SP+Abl+Indef+Foc/вок: келудовок
      келу+N+SP+Dat+Indef+Foc/вок: [келутивок, келундивок]
      келу+N+SP+Abe+Indef+Foc/вок: келуфтомовок
-     келу+N+SP+Comp+Indef+Foc/вок: келушкавок
+     келу+N+SP+Cmpr+Indef+Foc/вок: келушкавок
      келу+N+SP+Ine+Indef+Foc/вок: келусовок
      келу+N+SP+Ela+Indef+Foc/вок: келустовок
      келу+N+SP+Ill+Indef+Foc/вок: келуска
@@ -122,7 +122,7 @@ Tests:
      келу+N+Pl+Dat+PxSg1+Foc/вок: келунендивок
      келу+N+SP+Abl+PxSg1+Foc/вок: келудонга
      келу+N+SP+Abe+PxSg1+Foc/вок: келуфтомонга
-     келу+N+SP+Comp+PxSg1+Foc/вок: келушканка
+     келу+N+SP+Cmpr+PxSg1+Foc/вок: келушканка
      келу+N+SP+Ine+PxSg1+Foc/вок: келусонга
      келу+N+SP+Ela+PxSg1+Foc/вок: келустонга
      келу+N+SP+Ill+PxSg1+Foc/вок: келузонга
@@ -133,7 +133,7 @@ Tests:
      келу+N+Pl+Gen+PxSg2+Foc/вок: келуфненьге
      келу+N+SP+Abl+PxSg2+Foc/вок: келудотка
      келу+N+SP+Abe+PxSg2+Foc/вок: келуфтомотка
-     келу+N+SP+Comp+PxSg2+Foc/вок: келушкатка
+     келу+N+SP+Cmpr+PxSg2+Foc/вок: келушкатка
      келу+N+SP+Ine+PxSg2+Foc/вок: келусотка
      келу+N+SP+Ela+PxSg2+Foc/вок: келустотка
      келу+N+SP+Ill+PxSg2+Foc/вок: келузотка
@@ -146,7 +146,7 @@ Tests:
      келу+N+Pl+Dat+PxSg3+Foc/вок: келунзондывок
      келу+N+SP+Abl+PxSg3+Foc/вок: келудонзовок
      келу+N+SP+Abe+PxSg3+Foc/вок: келуфтомонзовок
-     келу+N+SP+Comp+PxSg3+Foc/вок: келушканзовок
+     келу+N+SP+Cmpr+PxSg3+Foc/вок: келушканзовок
      келу+N+SP+Ine+PxSg3+Foc/вок: келусонзовок
      келу+N+SP+Ela+PxSg3+Foc/вок: келустонзовок
      келу+N+SP+Ill+PxSg3+Foc/вок: келузонзовок
@@ -156,7 +156,7 @@ Tests:
      келу+N+SP+Dat+PxPl1+Foc/вок: келунькондивок
      келу+N+SP+Abl+PxPl1+Foc/вок: келудонковок
      келу+N+SP+Abe+PxPl1+Foc/вок: келуфтомонковок
-     келу+N+SP+Comp+PxPl1+Foc/вок: келушканковок
+     келу+N+SP+Cmpr+PxPl1+Foc/вок: келушканковок
      келу+N+SP+Ine+PxPl1+Foc/вок: келусонковок
      келу+N+SP+Ela+PxPl1+Foc/вок: келустонковок
      келу+N+SP+Ill+PxPl1+Foc/вок: келузонковок
@@ -166,7 +166,7 @@ Tests:
      келу+N+SP+Dat+PxPl2+Foc/вок: келунтендивок
      келу+N+SP+Abl+PxPl2+Foc/вок: келудонтка
      келу+N+SP+Abe+PxPl2+Foc/вок: келуфтомонтка
-     келу+N+SP+Comp+PxPl2+Foc/вок: келушкантка
+     келу+N+SP+Cmpr+PxPl2+Foc/вок: келушкантка
      келу+N+SP+Ine+PxPl2+Foc/вок: келусонтка
      келу+N+SP+Ela+PxPl2+Foc/вок: келустонтка
      келу+N+SP+Ill+PxPl2+Foc/вок: келузонтка
@@ -176,7 +176,7 @@ Tests:
      келу+N+SP+Dat+PxPl3+Foc/вок: келуснондывок
      келу+N+SP+Abl+PxPl3+Foc/вок: келудостка
      келу+N+SP+Abe+PxPl3+Foc/вок: келуфтомостка
-     келу+N+SP+Comp+PxPl3+Foc/вок: келушкастка
+     келу+N+SP+Cmpr+PxPl3+Foc/вок: келушкастка
      келу+N+SP+Ine+PxPl3+Foc/вок: келусостка
      келу+N+SP+Ela+PxPl3+Foc/вок: келустостка
      келу+N+SP+Ill+PxPl3+Foc/вок: келузостка

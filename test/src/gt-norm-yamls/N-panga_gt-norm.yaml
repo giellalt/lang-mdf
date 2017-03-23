@@ -21,7 +21,7 @@ Tests:
      панга+N+SP+Abl+Indef: пангода
      панга+N+SP+Dat+Indef: пангонди
      панга+N+SP+Abe+Indef: пангофтома
-     панга+N+SP+Comp+Indef: пангошка
+     панга+N+SP+Cmpr+Indef: пангошка
      панга+N+SP+Ine+Indef: пангоса
      панга+N+SP+Ela+Indef: пангоста
      панга+N+SP+Ill+Indef: пангос
@@ -35,7 +35,7 @@ Tests:
      панга+N+Pl+Dat+PxSg1: пангоненди
      панга+N+SP+Abl+PxSg1: пангодон
      панга+N+SP+Abe+PxSg1: пангофтомон
-     панга+N+SP+Comp+PxSg1: пангошкан
+     панга+N+SP+Cmpr+PxSg1: пангошкан
      панга+N+SP+Ine+PxSg1: пангосон
      панга+N+SP+Ela+PxSg1: пангостон
      панга+N+SP+Ill+PxSg1: пангозон
@@ -46,7 +46,7 @@ Tests:
      панга+N+Pl+Gen+PxSg2: панготнень
      панга+N+SP+Abl+PxSg2: пангодот
      панга+N+SP+Abe+PxSg2: пангофтомот
-     панга+N+SP+Comp+PxSg2: пангошкат
+     панга+N+SP+Cmpr+PxSg2: пангошкат
      панга+N+SP+Ine+PxSg2: пангосот
      панга+N+SP+Ela+PxSg2: пангостот
      панга+N+SP+Ill+PxSg2: пангозт
@@ -59,7 +59,7 @@ Tests:
      панга+N+Pl+Dat+PxSg3: пангонзонды
      панга+N+SP+Abl+PxSg3: пангодонза
      панга+N+SP+Abe+PxSg3: пангофтомонза
-     панга+N+SP+Comp+PxSg3: пангошканза
+     панга+N+SP+Cmpr+PxSg3: пангошканза
      панга+N+SP+Ine+PxSg3: пангосонза
      панга+N+SP+Ela+PxSg3: пангостонза
      панга+N+SP+Ill+PxSg3: пангозонза
@@ -69,7 +69,7 @@ Tests:
      панга+N+SP+Dat+PxPl1: пангоньконди
      панга+N+SP+Abl+PxPl1: пангодонк
      панга+N+SP+Abe+PxPl1: пангофтомонк
-     панга+N+SP+Comp+PxPl1: пангошканк
+     панга+N+SP+Cmpr+PxPl1: пангошканк
      панга+N+SP+Ine+PxPl1: пангосонк
      панга+N+SP+Ela+PxPl1: пангостонк
      панга+N+SP+Ill+PxPl1: пангозонк
@@ -79,7 +79,7 @@ Tests:
      панга+N+SP+Dat+PxPl2: пангонтенди
      панга+N+SP+Abl+PxPl2: пангодонт
      панга+N+SP+Abe+PxPl2: пангофтомонт
-     панга+N+SP+Comp+PxPl2: пангошкант
+     панга+N+SP+Cmpr+PxPl2: пангошкант
      панга+N+SP+Ine+PxPl2: пангосонт
      панга+N+SP+Ela+PxPl2: пангостонт
      панга+N+SP+Ill+PxPl2: пангозонт
@@ -89,7 +89,7 @@ Tests:
      панга+N+SP+Dat+PxPl3: пангоснонды
      панга+N+SP+Abl+PxPl3: пангодост
      панга+N+SP+Abe+PxPl3: пангофтомост
-     панга+N+SP+Comp+PxPl3: пангошкаст
+     панга+N+SP+Cmpr+PxPl3: пангошкаст
      панга+N+SP+Ine+PxPl3: пангосост
      панга+N+SP+Ela+PxPl3: пангостост
      панга+N+SP+Ill+PxPl3: пангозост
@@ -106,7 +106,7 @@ Tests:
      панга+N+SP+Abl+Indef+Foc/вок: пангодовок
      панга+N+SP+Dat+Indef+Foc/вок: пангондивок
      панга+N+SP+Abe+Indef+Foc/вок: пангофтомовок
-     панга+N+SP+Comp+Indef+Foc/вок: пангошкавок
+     панга+N+SP+Cmpr+Indef+Foc/вок: пангошкавок
      панга+N+SP+Ine+Indef+Foc/вок: пангосовок
      панга+N+SP+Ela+Indef+Foc/вок: пангостовок
      панга+N+SP+Ill+Indef+Foc/вок: пангоска
@@ -120,7 +120,7 @@ Tests:
      панга+N+Pl+Dat+PxSg1+Foc/вок: пангонендивок
      панга+N+SP+Abl+PxSg1+Foc/вок: пангодонга
      панга+N+SP+Abe+PxSg1+Foc/вок: пангофтомонга
-     панга+N+SP+Comp+PxSg1+Foc/вок: пангошканга
+     панга+N+SP+Cmpr+PxSg1+Foc/вок: пангошканга
      панга+N+SP+Ine+PxSg1+Foc/вок: пангосонга
      панга+N+SP+Ela+PxSg1+Foc/вок: пангостонга
      панга+N+SP+Ill+PxSg1+Foc/вок: пангозонга
@@ -131,7 +131,7 @@ Tests:
      панга+N+Pl+Gen+PxSg2+Foc/вок: панготненьге
      панга+N+SP+Abl+PxSg2+Foc/вок: пангодотка
      панга+N+SP+Abe+PxSg2+Foc/вок: пангофтомотка
-     панга+N+SP+Comp+PxSg2+Foc/вок: пангошкатка
+     панга+N+SP+Cmpr+PxSg2+Foc/вок: пангошкатка
      панга+N+SP+Ine+PxSg2+Foc/вок: пангосотка
      панга+N+SP+Ela+PxSg2+Foc/вок: пангостотка
      панга+N+SP+Ill+PxSg2+Foc/вок: пангозтка
@@ -144,7 +144,7 @@ Tests:
      панга+N+Pl+Dat+PxSg3+Foc/вок: пангонзондывок
      панга+N+SP+Abl+PxSg3+Foc/вок: пангодонзовок
      панга+N+SP+Abe+PxSg3+Foc/вок: пангофтомонзовок
-     панга+N+SP+Comp+PxSg3+Foc/вок: пангошканзовок
+     панга+N+SP+Cmpr+PxSg3+Foc/вок: пангошканзовок
      панга+N+SP+Ine+PxSg3+Foc/вок: пангосонзовок
      панга+N+SP+Ela+PxSg3+Foc/вок: пангостонзовок
      панга+N+SP+Ill+PxSg3+Foc/вок: пангозонзовок
@@ -154,7 +154,7 @@ Tests:
      панга+N+SP+Dat+PxPl1+Foc/вок: пангонькондивок
      панга+N+SP+Abl+PxPl1+Foc/вок: пангодонковок
      панга+N+SP+Abe+PxPl1+Foc/вок: пангофтомонковок
-     панга+N+SP+Comp+PxPl1+Foc/вок: пангошканковок
+     панга+N+SP+Cmpr+PxPl1+Foc/вок: пангошканковок
      панга+N+SP+Ine+PxPl1+Foc/вок: пангосонковок
      панга+N+SP+Ela+PxPl1+Foc/вок: пангостонковок
      панга+N+SP+Ill+PxPl1+Foc/вок: пангозонковок
@@ -164,7 +164,7 @@ Tests:
      панга+N+SP+Dat+PxPl2+Foc/вок: пангонтендивок
      панга+N+SP+Abl+PxPl2+Foc/вок: пангодонтовок
      панга+N+SP+Abe+PxPl2+Foc/вок: пангофтомонтовок
-     панга+N+SP+Comp+PxPl2+Foc/вок: пангошкантовок
+     панга+N+SP+Cmpr+PxPl2+Foc/вок: пангошкантовок
      панга+N+SP+Ine+PxPl2+Foc/вок: пангосонтовок
      панга+N+SP+Ela+PxPl2+Foc/вок: пангостонтовок
      панга+N+SP+Ill+PxPl2+Foc/вок: пангозонтовок
@@ -174,7 +174,7 @@ Tests:
      панга+N+SP+Dat+PxPl3+Foc/вок: пангоснондывок
      панга+N+SP+Abl+PxPl3+Foc/вок: пангодостка
      панга+N+SP+Abe+PxPl3+Foc/вок: пангофтомостка
-     панга+N+SP+Comp+PxPl3+Foc/вок: пангошкастка
+     панга+N+SP+Cmpr+PxPl3+Foc/вок: пангошкастка
      панга+N+SP+Ine+PxPl3+Foc/вок: пангосостка
      панга+N+SP+Ela+PxPl3+Foc/вок: пангостостка
      панга+N+SP+Ill+PxPl3+Foc/вок: пангозостка

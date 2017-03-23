@@ -21,7 +21,7 @@ Tests:
      вальмя+N+SP+Abl+Indef: вальмяда
      вальмя+N+SP+Dat+Indef: вальмянди
      вальмя+N+SP+Abe+Indef: вальмяфтома
-     вальмя+N+SP+Comp+Indef: вальмяшка
+     вальмя+N+SP+Cmpr+Indef: вальмяшка
      вальмя+N+SP+Ine+Indef: вальмяса
      вальмя+N+SP+Ela+Indef: вальмяста
      вальмя+N+SP+Ill+Indef: вальмяс
@@ -35,7 +35,7 @@ Tests:
      вальмя+N+Pl+Dat+PxSg1: вальмяненди
      вальмя+N+SP+Abl+PxSg1: вальмядон
      вальмя+N+SP+Abe+PxSg1: вальмяфтомон
-     вальмя+N+SP+Comp+PxSg1: вальмяшкан
+     вальмя+N+SP+Cmpr+PxSg1: вальмяшкан
      вальмя+N+SP+Ine+PxSg1: вальмясон
      вальмя+N+SP+Ela+PxSg1: вальмястон
      вальмя+N+SP+Ill+PxSg1: вальмязон
@@ -46,7 +46,7 @@ Tests:
      вальмя+N+Pl+Gen+PxSg2: вальмятнень
      вальмя+N+SP+Abl+PxSg2: вальмядот
      вальмя+N+SP+Abe+PxSg2: вальмяфтомот
-     вальмя+N+SP+Comp+PxSg2: вальмяшкат
+     вальмя+N+SP+Cmpr+PxSg2: вальмяшкат
      вальмя+N+SP+Ine+PxSg2: вальмясот
      вальмя+N+SP+Ela+PxSg2: вальмястот
      вальмя+N+SP+Ill+PxSg2: вальмязт
@@ -59,7 +59,7 @@ Tests:
      вальмя+N+Pl+Dat+PxSg3: вальмянзонды
      вальмя+N+SP+Abl+PxSg3: вальмядонза
      вальмя+N+SP+Abe+PxSg3: вальмяфтомонза
-     вальмя+N+SP+Comp+PxSg3: вальмяшканза
+     вальмя+N+SP+Cmpr+PxSg3: вальмяшканза
      вальмя+N+SP+Ine+PxSg3: вальмясонза
      вальмя+N+SP+Ela+PxSg3: вальмястонза
      вальмя+N+SP+Ill+PxSg3: вальмязонза
@@ -69,7 +69,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl1: вальмяньконди
      вальмя+N+SP+Abl+PxPl1: вальмядонк
      вальмя+N+SP+Abe+PxPl1: вальмяфтомонк
-     вальмя+N+SP+Comp+PxPl1: вальмяшканк
+     вальмя+N+SP+Cmpr+PxPl1: вальмяшканк
      вальмя+N+SP+Ine+PxPl1: вальмясонк
      вальмя+N+SP+Ela+PxPl1: вальмястонк
      вальмя+N+SP+Ill+PxPl1: вальмязонк
@@ -79,7 +79,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl2: вальмянтенди
      вальмя+N+SP+Abl+PxPl2: вальмядонт
      вальмя+N+SP+Abe+PxPl2: вальмяфтомонт
-     вальмя+N+SP+Comp+PxPl2: вальмяшкант
+     вальмя+N+SP+Cmpr+PxPl2: вальмяшкант
      вальмя+N+SP+Ine+PxPl2: вальмясонт
      вальмя+N+SP+Ela+PxPl2: вальмястонт
      вальмя+N+SP+Ill+PxPl2: вальмязонт
@@ -89,7 +89,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl3: вальмяснонды
      вальмя+N+SP+Abl+PxPl3: вальмядост
      вальмя+N+SP+Abe+PxPl3: вальмяфтомост
-     вальмя+N+SP+Comp+PxPl3: вальмяшкаст
+     вальмя+N+SP+Cmpr+PxPl3: вальмяшкаст
      вальмя+N+SP+Ine+PxPl3: вальмясост
      вальмя+N+SP+Ela+PxPl3: вальмястост
      вальмя+N+SP+Ill+PxPl3: вальмязост
@@ -106,7 +106,7 @@ Tests:
      вальмя+N+SP+Abl+Indef+Foc/вок: вальмядовок
      вальмя+N+SP+Dat+Indef+Foc/вок: вальмяндивок
      вальмя+N+SP+Abe+Indef+Foc/вок: вальмяфтомовок
-     вальмя+N+SP+Comp+Indef+Foc/вок: вальмяшкавок
+     вальмя+N+SP+Cmpr+Indef+Foc/вок: вальмяшкавок
      вальмя+N+SP+Ine+Indef+Foc/вок: вальмясовок
      вальмя+N+SP+Ela+Indef+Foc/вок: вальмястовок
      вальмя+N+SP+Ill+Indef+Foc/вок: вальмясвок
@@ -120,7 +120,7 @@ Tests:
      вальмя+N+Pl+Dat+PxSg1+Foc/вок: вальмянендивок
      вальмя+N+SP+Abl+PxSg1+Foc/вок: вальмядонвок
      вальмя+N+SP+Abe+PxSg1+Foc/вок: вальмяфтомонвок
-     вальмя+N+SP+Comp+PxSg1+Foc/вок: вальмяшканвок
+     вальмя+N+SP+Cmpr+PxSg1+Foc/вок: вальмяшканвок
      вальмя+N+SP+Ine+PxSg1+Foc/вок: вальмясонвок
      вальмя+N+SP+Ela+PxSg1+Foc/вок: вальмястонвок
      вальмя+N+SP+Ill+PxSg1+Foc/вок: вальмязонвок
@@ -131,7 +131,7 @@ Tests:
      вальмя+N+Pl+Gen+PxSg2+Foc/вок: вальмятненьвок
      вальмя+N+SP+Abl+PxSg2+Foc/вок: вальмядотвок
      вальмя+N+SP+Abe+PxSg2+Foc/вок: вальмяфтомотвок
-     вальмя+N+SP+Comp+PxSg2+Foc/вок: вальмяшкатвок
+     вальмя+N+SP+Cmpr+PxSg2+Foc/вок: вальмяшкатвок
      вальмя+N+SP+Ine+PxSg2+Foc/вок: вальмясотвок
      вальмя+N+SP+Ela+PxSg2+Foc/вок: вальмястотвок
      вальмя+N+SP+Ill+PxSg2+Foc/вок: вальмязтвок
@@ -144,7 +144,7 @@ Tests:
      вальмя+N+Pl+Dat+PxSg3+Foc/вок: вальмянзондывок
      вальмя+N+SP+Abl+PxSg3+Foc/вок: вальмядонзовок
      вальмя+N+SP+Abe+PxSg3+Foc/вок: вальмяфтомонзовок
-     вальмя+N+SP+Comp+PxSg3+Foc/вок: вальмяшканзовок
+     вальмя+N+SP+Cmpr+PxSg3+Foc/вок: вальмяшканзовок
      вальмя+N+SP+Ine+PxSg3+Foc/вок: вальмясонзовок
      вальмя+N+SP+Ela+PxSg3+Foc/вок: вальмястонзовок
      вальмя+N+SP+Ill+PxSg3+Foc/вок: вальмязонзовок
@@ -154,7 +154,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl1+Foc/вок: вальмянькондивок
      вальмя+N+SP+Abl+PxPl1+Foc/вок: вальмядонквок
      вальмя+N+SP+Abe+PxPl1+Foc/вок: вальмяфтомонквок
-     вальмя+N+SP+Comp+PxPl1+Foc/вок: вальмяшканквок
+     вальмя+N+SP+Cmpr+PxPl1+Foc/вок: вальмяшканквок
      вальмя+N+SP+Ine+PxPl1+Foc/вок: вальмясонквок
      вальмя+N+SP+Ela+PxPl1+Foc/вок: вальмястонквок
      вальмя+N+SP+Ill+PxPl1+Foc/вок: вальмязонквок
@@ -164,7 +164,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl2+Foc/вок: вальмянтендивок
      вальмя+N+SP+Abl+PxPl2+Foc/вок: вальмядонтвок
      вальмя+N+SP+Abe+PxPl2+Foc/вок: вальмяфтомонтвок
-     вальмя+N+SP+Comp+PxPl2+Foc/вок: вальмяшкантвок
+     вальмя+N+SP+Cmpr+PxPl2+Foc/вок: вальмяшкантвок
      вальмя+N+SP+Ine+PxPl2+Foc/вок: вальмясонтвок
      вальмя+N+SP+Ela+PxPl2+Foc/вок: вальмястонтвок
      вальмя+N+SP+Ill+PxPl2+Foc/вок: вальмязонтвок
@@ -174,7 +174,7 @@ Tests:
      вальмя+N+SP+Dat+PxPl3+Foc/вок: вальмяснондывок
      вальмя+N+SP+Abl+PxPl3+Foc/вок: вальмядоствок
      вальмя+N+SP+Abe+PxPl3+Foc/вок: вальмяфтомоствок
-     вальмя+N+SP+Comp+PxPl3+Foc/вок: вальмяшкаствок
+     вальмя+N+SP+Cmpr+PxPl3+Foc/вок: вальмяшкаствок
      вальмя+N+SP+Ine+PxPl3+Foc/вок: вальмясоствок
      вальмя+N+SP+Ela+PxPl3+Foc/вок: вальмястоствок
      вальмя+N+SP+Ill+PxPl3+Foc/вок: вальмязоствок

@@ -25863,5 +25863,214 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">эсон</l>
+     <stg>
+       <st Contlex="ADV-INE-PXSG1">эсон</st>
+     </stg> <phonet>esən</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in me</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">minussa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эсот</l>
+     <stg>
+       <st Contlex="ADV-INE-PXSG2">эсот</st>
+     </stg> <phonet>esət</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in you</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">sinussa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эсонза</l>
+     <stg>
+       <st Contlex="ADV-INE-PXSG3">эсонза</st>
+     </stg> <phonet>esənzə</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in him</t>
+       <t>in her</t>
+       <t>in it</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">hänessä</t>
+       <t pos="Pron">siinä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эсонк</l>
+     <stg>
+       <st Contlex="ADV-INE-PXPL1">эсонк</st>
+     </stg> <phonet>esənk</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in us</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">meissä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эсонт</l>
+     <stg>
+       <st Contlex="ADV-INE-PXPL2">эсонт</st>
+     </stg> <phonet>esənt</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in you guys</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">teissä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эсост</l>
+     <stg>
+       <st Contlex="ADV-INE-PXPL3">эсост</st>
+     </stg> <phonet>esəst</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>in them</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">heissä</t>
+       <t pos="Pron">niissä</t>
+     </tg>
+   </mg>
+</e>
+
+<!-- djkaö -->
+<e>
+   <lg>
+     <l pos="Adv">эзон</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXSG1">эзон</st>
+     </stg> <phonet>ezən</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>at me</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">minuun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эзот</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXSG2">эзот</st>
+     </stg> <phonet>ezət</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>at you</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">sinuun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эзонза</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXSG3">эзонза</st>
+     </stg> <phonet>ezənzə</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Pron">häneen</t>
+       <t pos="Pron">siihen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эзонк</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXPL1">эзонк</st>
+     </stg> <phonet>ezənk</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>at us</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">meihin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эзонт</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXPL2">эзонт</st>
+     </stg> <phonet>ezənt</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>at you guys</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">teihin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">эзост</l>
+     <stg>
+       <st Contlex="ADV-ILL-PXPL3">эзост</st>
+     </stg> <phonet>ezəst</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t>at them</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">heihin</t>
+       <t pos="Pron">niihin</t>
+     </tg>
+   </mg>
+</e>
 
 </r> 

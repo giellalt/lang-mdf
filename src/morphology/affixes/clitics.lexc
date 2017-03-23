@@ -7,9 +7,14 @@
 !!!!!!!!!!!!!!
 
 
-LEXICON K_CHOOSE_ВОК_OR_НГА
-+Foc/вок:%>вок  # ;
- K ;
+LEXICON K_CHOOSE_ВОК_OR_НГА_OR_WORD-END
++Foc/вок:%>вок  WORD-END ;
++Foc/вок:%>нг%{АОЕ%} WORD-END ;
+ WORD-END ;
+
+LEXICON K_CHOOSE_ВОК_OR_WORD-END
++Foc/вок:%>вок  WORD-END ;
+ WORD-END ;
 
 LEXICON K_вок
 !! This is for vowel final Nominatives

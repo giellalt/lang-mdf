@@ -21,7 +21,7 @@ Tests:
      сараз+N+SP+Abl+Indef: саразта
      сараз+N+SP+Dat+Indef: саразонди
      сараз+N+SP+Abe+Indef: саразфтома
-     сараз+N+SP+Comp+Indef: саразошка
+     сараз+N+SP+Cmpr+Indef: саразошка
      сараз+N+SP+Ine+Indef: саразса
      сараз+N+SP+Ela+Indef: саразста
      сараз+N+SP+Ill+Indef: [саразу, саразс]
@@ -35,7 +35,7 @@ Tests:
      сараз+N+Pl+Dat+PxSg1: саразненди
      сараз+N+SP+Abl+PxSg1: саразтон
      сараз+N+SP+Abe+PxSg1: саразфтомон
-     сараз+N+SP+Comp+PxSg1: саразошкан
+     сараз+N+SP+Cmpr+PxSg1: саразошкан
      сараз+N+SP+Ine+PxSg1: саразсон
      сараз+N+SP+Ela+PxSg1: саразстон
      сараз+N+SP+Ill+PxSg1: саразозон
@@ -46,7 +46,7 @@ Tests:
      сараз+N+Pl+Gen+PxSg2: саразнень
      сараз+N+SP+Abl+PxSg2: сараздот
      сараз+N+SP+Abe+PxSg2: саразфтомот
-     сараз+N+SP+Comp+PxSg2: саразошкат
+     сараз+N+SP+Cmpr+PxSg2: саразошкат
      сараз+N+SP+Ine+PxSg2: саразсот
      сараз+N+SP+Ela+PxSg2: саразстот
      сараз+N+SP+Ill+PxSg2: саразозот
@@ -59,7 +59,7 @@ Tests:
      сараз+N+Pl+Dat+PxSg3: саразонзонды
      сараз+N+SP+Abl+PxSg3: саразтонза
      сараз+N+SP+Abe+PxSg3: саразфтомонза
-     сараз+N+SP+Comp+PxSg3: саразошканза
+     сараз+N+SP+Cmpr+PxSg3: саразошканза
      сараз+N+SP+Ine+PxSg3: саразсонза
      сараз+N+SP+Ela+PxSg3: саразстонза
      сараз+N+SP+Ill+PxSg3: саразозонза
@@ -69,7 +69,7 @@ Tests:
      сараз+N+SP+Dat+PxPl1: саразоньконди
      сараз+N+SP+Abl+PxPl1: саразодонк
      сараз+N+SP+Abe+PxPl1: саразфтомонк
-     сараз+N+SP+Comp+PxPl1: саразошканк
+     сараз+N+SP+Cmpr+PxPl1: саразошканк
      сараз+N+SP+Ine+PxPl1: саразсонк
      сараз+N+SP+Ela+PxPl1: саразстонк
      сараз+N+SP+Ill+PxPl1: саразозонк
@@ -79,7 +79,7 @@ Tests:
      сараз+N+SP+Dat+PxPl2: саразонтенди
      сараз+N+SP+Abl+PxPl2: саразодонт
      сараз+N+SP+Abe+PxPl2: саразфтомонт
-     сараз+N+SP+Comp+PxPl2: саразошкант
+     сараз+N+SP+Cmpr+PxPl2: саразошкант
      сараз+N+SP+Ine+PxPl2: саразсонт
      сараз+N+SP+Ela+PxPl2: саразстонт
      сараз+N+SP+Ill+PxPl2: саразозонт
@@ -89,7 +89,7 @@ Tests:
      сараз+N+SP+Dat+PxPl3: саразснонды
      сараз+N+SP+Abl+PxPl3: саразтост
      сараз+N+SP+Abe+PxPl3: саразфтомост
-     сараз+N+SP+Comp+PxPl3: саразошкаст
+     сараз+N+SP+Cmpr+PxPl3: саразошкаст
      сараз+N+SP+Ine+PxPl3: саразсост
      сараз+N+SP+Ela+PxPl3: саразстост
      сараз+N+SP+Ill+PxPl3: саразозост
@@ -106,7 +106,7 @@ Tests:
      сараз+N+SP+Abl+Indef+Foc/вок: саразтовок
      сараз+N+SP+Dat+Indef+Foc/вок: саразондивок
      сараз+N+SP+Abe+Indef+Foc/вок: саразфтомовок
-     сараз+N+SP+Comp+Indef+Foc/вок: саразошкавок
+     сараз+N+SP+Cmpr+Indef+Foc/вок: саразошкавок
      сараз+N+SP+Ine+Indef+Foc/вок: саразсовок
      сараз+N+SP+Ela+Indef+Foc/вок: саразстовок
      сараз+N+SP+Ill+Indef+Foc/вок: саразозовок
@@ -120,7 +120,7 @@ Tests:
      сараз+N+Pl+Dat+PxSg1+Foc/вок: саразонендивок
      сараз+N+SP+Abl+PxSg1+Foc/вок: саразтонга
      сараз+N+SP+Abe+PxSg1+Foc/вок: саразфтомонга
-     сараз+N+SP+Comp+PxSg1+Foc/вок: саразошканка
+     сараз+N+SP+Cmpr+PxSg1+Foc/вок: саразошканка
      сараз+N+SP+Ine+PxSg1+Foc/вок: саразсонга
      сараз+N+SP+Ela+PxSg1+Foc/вок: саразстонга
      сараз+N+SP+Ill+PxSg1+Foc/вок: саразозонга
@@ -131,7 +131,7 @@ Tests:
      сараз+N+Pl+Gen+PxSg2+Foc/вок: саразненьге
      сараз+N+SP+Abl+PxSg2+Foc/вок: саразтотка
      сараз+N+SP+Abe+PxSg2+Foc/вок: саразфтомотка
-     сараз+N+SP+Comp+PxSg2+Foc/вок: саразошкатка
+     сараз+N+SP+Cmpr+PxSg2+Foc/вок: саразошкатка
      сараз+N+SP+Ine+PxSg2+Foc/вок: саразсотка
      сараз+N+SP+Ela+PxSg2+Foc/вок: саразстотка
      сараз+N+SP+Ill+PxSg2+Foc/вок: саразозотка
@@ -144,7 +144,7 @@ Tests:
      сараз+N+Pl+Dat+PxSg3+Foc/вок: саразонзондывок
      сараз+N+SP+Abl+PxSg3+Foc/вок: саразтонзовок
      сараз+N+SP+Abe+PxSg3+Foc/вок: саразфтомонзовок
-     сараз+N+SP+Comp+PxSg3+Foc/вок: саразошканзовок
+     сараз+N+SP+Cmpr+PxSg3+Foc/вок: саразошканзовок
      сараз+N+SP+Ine+PxSg3+Foc/вок: саразсонзовок
      сараз+N+SP+Ela+PxSg3+Foc/вок: саразстонзовок
      сараз+N+SP+Ill+PxSg3+Foc/вок: саразозонзовок
@@ -154,7 +154,7 @@ Tests:
      сараз+N+SP+Dat+PxPl1+Foc/вок: саразонькондивок
      сараз+N+SP+Abl+PxPl1+Foc/вок: саразтонковок
      сараз+N+SP+Abe+PxPl1+Foc/вок: саразфтомонковок
-     сараз+N+SP+Comp+PxPl1+Foc/вок: саразошканковок
+     сараз+N+SP+Cmpr+PxPl1+Foc/вок: саразошканковок
      сараз+N+SP+Ine+PxPl1+Foc/вок: саразсонковок
      сараз+N+SP+Ela+PxPl1+Foc/вок: саразстонковок
      сараз+N+SP+Ill+PxPl1+Foc/вок: саразозонковок
@@ -164,7 +164,7 @@ Tests:
      сараз+N+SP+Dat+PxPl2+Foc/вок: саразонтендивок
      сараз+N+SP+Abl+PxPl2+Foc/вок: саразтонтка
      сараз+N+SP+Abe+PxPl2+Foc/вок: саразфтомонтка
-     сараз+N+SP+Comp+PxPl2+Foc/вок: саразошкантка
+     сараз+N+SP+Cmpr+PxPl2+Foc/вок: саразошкантка
      сараз+N+SP+Ine+PxPl2+Foc/вок: саразсонтка
      сараз+N+SP+Ela+PxPl2+Foc/вок: саразстонтка
      сараз+N+SP+Ill+PxPl2+Foc/вок: саразозонтка
@@ -174,7 +174,7 @@ Tests:
      сараз+N+SP+Dat+PxPl3+Foc/вок: саразснондывок
      сараз+N+SP+Abl+PxPl3+Foc/вок: саразтостка
      сараз+N+SP+Abe+PxPl3+Foc/вок: саразфтомостка
-     сараз+N+SP+Comp+PxPl3+Foc/вок: саразошкастка
+     сараз+N+SP+Cmpr+PxPl3+Foc/вок: саразошкастка
      сараз+N+SP+Ine+PxPl3+Foc/вок: саразсостка
      сараз+N+SP+Ela+PxPl3+Foc/вок: саразстостка
      сараз+N+SP+Ill+PxPl3+Foc/вок: саразозостка

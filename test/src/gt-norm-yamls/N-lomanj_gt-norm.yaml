@@ -21,7 +21,7 @@ Tests:
      ломань+N+SP+Abl+Indef: ломаньда
      ломань+N+SP+Dat+Indef: ломаненди
      ломань+N+SP+Abe+Indef: ломаньфтома
-     ломань+N+SP+Comp+Indef: ломаньшка
+     ломань+N+SP+Cmpr+Indef: ломаньшка
      ломань+N+SP+Ine+Indef: ломаньца
      ломань+N+SP+Ela+Indef: ломаньцта
      ломань+N+SP+Ill+Indef: ломаньц
@@ -35,7 +35,7 @@ Tests:
      ломань+N+Pl+Dat+PxSg1: ломаньненди
      ломань+N+SP+Abl+PxSg1: ломаньдон
      ломань+N+SP+Abe+PxSg1: ломаньфтомон
-     ломань+N+SP+Comp+PxSg1: ломаньшкан
+     ломань+N+SP+Cmpr+PxSg1: ломаньшкан
      ломань+N+SP+Ine+PxSg1: ломаньцон
      ломань+N+SP+Ela+PxSg1: ломаньцтон
      ломань+N+SP+Ill+PxSg1: ломанезон
@@ -46,7 +46,7 @@ Tests:
      ломань+N+Pl+Gen+PxSg2: ломаньхнень
      ломань+N+SP+Abl+PxSg2: ломаньдот
      ломань+N+SP+Abe+PxSg2: ломаньфтомот
-     ломань+N+SP+Comp+PxSg2: ломаньшкат
+     ломань+N+SP+Cmpr+PxSg2: ломаньшкат
      ломань+N+SP+Ine+PxSg2: ломаньцот
      ломань+N+SP+Ela+PxSg2: ломаньцтот
      ломань+N+SP+Ill+PxSg2: ломанезот
@@ -59,7 +59,7 @@ Tests:
      ломань+N+Pl+Dat+PxSg3: ломанензонды
      ломань+N+SP+Abl+PxSg3: ломаньдонза
      ломань+N+SP+Abe+PxSg3: ломаньфтомонза
-     ломань+N+SP+Comp+PxSg3: ломаньшканза
+     ломань+N+SP+Cmpr+PxSg3: ломаньшканза
      ломань+N+SP+Ine+PxSg3: ломаньцонза
      ломань+N+SP+Ela+PxSg3: ломаньцтонза
      ломань+N+SP+Ill+PxSg3: ломаньзонза
@@ -69,7 +69,7 @@ Tests:
      ломань+N+SP+Dat+PxPl1: ломаненьконди
      ломань+N+SP+Abl+PxPl1: ломаньдонк
      ломань+N+SP+Abe+PxPl1: ломаньфтомонк
-     ломань+N+SP+Comp+PxPl1: ломаньшканк
+     ломань+N+SP+Cmpr+PxPl1: ломаньшканк
      ломань+N+SP+Ine+PxPl1: ломаньцонк
      ломань+N+SP+Ela+PxPl1: ломаньцтонк
      ломань+N+SP+Ill+PxPl1: ломаньзонк
@@ -79,7 +79,7 @@ Tests:
      ломань+N+SP+Dat+PxPl2: ломанентенди
      ломань+N+SP+Abl+PxPl2: ломаньдонт
      ломань+N+SP+Abe+PxPl2: ломаньфтомонт
-     ломань+N+SP+Comp+PxPl2: ломаньшкант
+     ломань+N+SP+Cmpr+PxPl2: ломаньшкант
      ломань+N+SP+Ine+PxPl2: ломаньцонт
      ломань+N+SP+Ela+PxPl2: ломаньцтонт
      ломань+N+SP+Ill+PxPl2: ломанезонт
@@ -89,7 +89,7 @@ Tests:
      ломань+N+SP+Dat+PxPl3: ломаньцнонды
      ломань+N+SP+Abl+PxPl3: ломаньдост
      ломань+N+SP+Abe+PxPl3: ломаньфтомост
-     ломань+N+SP+Comp+PxPl3: ломаньшкаст
+     ломань+N+SP+Cmpr+PxPl3: ломаньшкаст
      ломань+N+SP+Ine+PxPl3: ломаньцост
      ломань+N+SP+Ela+PxPl3: ломаньцтост
      ломань+N+SP+Ill+PxPl3: ломанезост
@@ -108,7 +108,7 @@ Tests:
      ломань+N+SP+Abl+Indef+Foc/вок: ломаньдовок
      ломань+N+SP+Dat+Indef+Foc/вок: ломаненьдивок
      ломань+N+SP+Abe+Indef+Foc/вок: ломаньфтомовок
-     ломань+N+SP+Comp+Indef+Foc/вок: ломаньшкавок
+     ломань+N+SP+Cmpr+Indef+Foc/вок: ломаньшкавок
      ломань+N+SP+Ine+Indef+Foc/вок: ломаньцовок
      ломань+N+SP+Ela+Indef+Foc/вок: ломаньцтовок
      ломань+N+SP+Ill+Indef+Foc/вок: ломаньцка
@@ -122,7 +122,7 @@ Tests:
      ломань+N+Pl+Dat+PxSg1+Foc/вок: ломаненендивок
      ломань+N+SP+Abl+PxSg1+Foc/вок: ломаньдонга
      ломань+N+SP+Abe+PxSg1+Foc/вок: ломаньфтомонга
-     ломань+N+SP+Comp+PxSg1+Foc/вок: ломаньшканка
+     ломань+N+SP+Cmpr+PxSg1+Foc/вок: ломаньшканка
      ломань+N+SP+Ine+PxSg1+Foc/вок: ломаньцонга
      ломань+N+SP+Ela+PxSg1+Foc/вок: ломаньцтонга
      ломань+N+SP+Ill+PxSg1+Foc/вок: ломанезонга
@@ -133,7 +133,7 @@ Tests:
      ломань+N+Pl+Gen+PxSg2+Foc/вок: ломаттеньге
      ломань+N+SP+Abl+PxSg2+Foc/вок: ломаньдотка
      ломань+N+SP+Abe+PxSg2+Foc/вок: ломаньфтомотка
-     ломань+N+SP+Comp+PxSg2+Foc/вок: ломаньшкатка
+     ломань+N+SP+Cmpr+PxSg2+Foc/вок: ломаньшкатка
      ломань+N+SP+Ine+PxSg2+Foc/вок: ломаньцотка
      ломань+N+SP+Ela+PxSg2+Foc/вок: ломаньцтотка
      ломань+N+SP+Ill+PxSg2+Foc/вок: ломанезотка
@@ -146,7 +146,7 @@ Tests:
      ломань+N+Pl+Dat+PxSg3+Foc/вок: ломанензондывок
      ломань+N+SP+Abl+PxSg3+Foc/вок: ломаньдонзовок
      ломань+N+SP+Abe+PxSg3+Foc/вок: ломаньфтомонзовок
-     ломань+N+SP+Comp+PxSg3+Foc/вок: ломаньшканзовок
+     ломань+N+SP+Cmpr+PxSg3+Foc/вок: ломаньшканзовок
      ломань+N+SP+Ine+PxSg3+Foc/вок: ломаньцонзовок
      ломань+N+SP+Ela+PxSg3+Foc/вок: ломаньцтонзовок
      ломань+N+SP+Ill+PxSg3+Foc/вок: ломаньзонзовок
@@ -156,7 +156,7 @@ Tests:
      ломань+N+SP+Dat+PxPl1+Foc/вок: ломаненькондивок
      ломань+N+SP+Abl+PxPl1+Foc/вок: ломаньдонковок
      ломань+N+SP+Abe+PxPl1+Foc/вок: ломаньфтомонковок
-     ломань+N+SP+Comp+PxPl1+Foc/вок: ломаньшканковок
+     ломань+N+SP+Cmpr+PxPl1+Foc/вок: ломаньшканковок
      ломань+N+SP+Ine+PxPl1+Foc/вок: ломаньцонковок
      ломань+N+SP+Ela+PxPl1+Foc/вок: ломаньцтонковок
      ломань+N+SP+Ill+PxPl1+Foc/вок: ломаньзонковок
@@ -166,7 +166,7 @@ Tests:
      ломань+N+SP+Dat+PxPl2+Foc/вок: ломанентендивок
      ломань+N+SP+Abl+PxPl2+Foc/вок: ломаньдонтка
      ломань+N+SP+Abe+PxPl2+Foc/вок: ломаньфтомонтовок
-     ломань+N+SP+Comp+PxPl2+Foc/вок: ломаньшкантовок
+     ломань+N+SP+Cmpr+PxPl2+Foc/вок: ломаньшкантовок
      ломань+N+SP+Ine+PxPl2+Foc/вок: ломаньцонтка
      ломань+N+SP+Ela+PxPl2+Foc/вок: ломаньцтонтка
      ломань+N+SP+Ill+PxPl2+Foc/вок: ломанезонтка
@@ -176,7 +176,7 @@ Tests:
      ломань+N+SP+Dat+PxPl3+Foc/вок: ломаньцнондывок
      ломань+N+SP+Abl+PxPl3+Foc/вок: ломаньдостка
      ломань+N+SP+Abe+PxPl3+Foc/вок: ломаньфтомостка
-     ломань+N+SP+Comp+PxPl3+Foc/вок: ломаньшкастка
+     ломань+N+SP+Cmpr+PxPl3+Foc/вок: ломаньшкастка
      ломань+N+SP+Ine+PxPl3+Foc/вок: ломаньцостка
      ломань+N+SP+Ela+PxPl3+Foc/вок: ломаньцтостка
      ломань+N+SP+Ill+PxPl3+Foc/вок: ломанезостка

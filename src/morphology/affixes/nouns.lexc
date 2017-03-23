@@ -44,7 +44,7 @@ LEXICON N_АВА-PL
 LEXICON N_ВАЛЬМЯ
 ! вальмя:вальмя
 +N: NMN_ВАЛЬМЯ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_ВАЛЬМЯ ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_ВАЛЬМЯ ;
 
 LEXICON N_ВАЛЬМЯ-SG
 ! вальмя:вальмя
@@ -57,7 +57,7 @@ LEXICON N_ВАЛЬМЯ-PL
 LEXICON N_МОКША
 ! мокша:мокша
 +N: NMN_МОКША ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_МОКША ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_МОКША ;
 
 LEXICON N_МОКША-SG
 ! мокша:мокша
@@ -70,7 +70,7 @@ LEXICON N_МОКША-PL
 LEXICON N_ПАКСЯ
 ! пакся:пакся
 +N: NMN_ПАКСЯ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_ПАКСЯ ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_ПАКСЯ ;
 
 LEXICON N_ПАКСЯ-SG
 ! пакся:пакся
@@ -83,7 +83,7 @@ LEXICON N_ПАКСЯ-PL
 
 LEXICON N_АНДЫ !!= * @CODE@ анды:анды
 +N: NMN_АНДЫ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_АНДЫ-SG
 ! анды:анды
@@ -110,12 +110,12 @@ LEXICON N_ПИНГЕ !!= @CODE@
 !пинге:пинг
 +N:%{АОЕ%} NMN_АВА ;
  N_КАЛ ; !!= @CODE@ Ela, Ill, Ine, Par 
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ТИШЕ
 ! тише:тише
 +N: NMN_ТИШЕ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ТИШЕ-SG
 ! тише:тише
@@ -132,23 +132,23 @@ LEXICON N_ТИШЕ-PL
 LEXICON N_ПУЛА !!= @CODE@
 !пула:пула
 +N: NMN_ПУЛА ;
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КАРЮЦЬКЕ !!= @CODE@
 !карюцьке:карюцьк
 +N:%{АОЕ%} NMN_АВА ;
-+N+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 !€ карюцькат
 
 LEXICON N_СЕЛЬМЕ !!= @CODE@
 !сельме:сельме
 +N: NMN_СЕЛЬМЕ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ !!= @CODE@
 !ош:ош
 +N: NMN_ОШ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ОШ-PL
 !ош:ош
@@ -157,7 +157,7 @@ LEXICON N_ОШ-PL
 LEXICON N_САРАЗ !!= @CODE@
 !ош:ош
 +N: NMN_САРАЗ ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_САРАЗ-PL
 !ош:ош
@@ -166,7 +166,7 @@ LEXICON N_САРАЗ-PL
 LEXICON N_ВАЙ !!= @CODE@
  N_ВАЙ-SG ;
  N_ВАЙ-PL ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ВАЙ-SG
 +N: NMN_ВАЙ-SG ;
@@ -177,7 +177,7 @@ LEXICON N_ВАЙ-PL
 LEXICON N_КАЛ !!= @CODE@
  N_КАЛ-SG ;
  N_КАЛ-PL ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КАЛ-SG
 +N: NMN_КАЛ-SG ;
@@ -188,7 +188,7 @@ LEXICON N_КАЛ-PL
 LEXICON N_КЯЛЬ !!= @CODE@
  N_КЯЛЬ-SG ;
  N_КЯЛЬ-PL ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КЯЛЬ-SG
 +N: NMN_КЯЛЬ-SG ;
@@ -199,7 +199,7 @@ LEXICON N_КЯЛЬ-PL
 LEXICON N_ПИНЕ !!= @CODE@
  N_ПИНЕ-SG ;
  N_ПИНЕ-PL ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ПИНЕ-SG
 +N: NMN_ПИНЕ-SG ;
@@ -210,7 +210,7 @@ LEXICON N_ПИНЕ-PL
 LEXICON N_КЕЛУ !!= @CODE@
  N_КЕЛУ-SG ;
  N_КЕЛУ-PL ;
-+N+Der/Dim+N:%>%{DIM%}я NMN_АВА ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_КЕЛУ-SG
 +N: NMN_КЕЛУ-SG ;
@@ -371,14 +371,14 @@ LEXICON NMN_ОФТА-SG !!= @CODE@
 	 NMN-SG ;
 :%{АОЕ%} NMN-SG/PL   ;
 	 NMN-SG/PL   ;
-+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-SG ;
++Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-SG ;
 
 LEXICON NMN_ОФТА-PL !!= @CODE@
 :%{АОЕ%} NMN-PL ;
 	 NMN-PL ;
 :%{АОЕ%} NMN-SG/PL   ;
          NMN-SG/PL   ;
-+Der/Dim+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
++Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
 
 LEXICON NMN_КЕЛУ
 	NMN_КЕЛУ-SG	;
@@ -769,12 +769,12 @@ LEXICON SG-CX-PXSG1
 +Sg+Dat+PxSg1:%>%^О1з%>ти K_вок ;
 
 LEXICON PL-CX-PXSG1
-+Pl+Nom+PxSg1:%>не K_вок ;
++Pl+Nom+PxSg1:%>не K_вок ; !CHECKME $валнэ
 +Pl+Gen+PxSg1:%>не%>нь K_ГА ;
 +Pl+Dat+PxSg1:%>не%>нди K_вок ;
-!+Pl+Nom+PxSg1:%>%^О1не K_вок ;
-!+Pl+Gen+PxSg1:%>%^О1не%>нь K_ГА ;
-!+Pl+Dat+PxSg1:%>%^О1не%>нди K_вок ;
++Pl+Nom+PxSg1:%>%^О1не K_вок ; !€валоне
++Pl+Gen+PxSg1:%>%^О1не%>нь K_ГА ;
++Pl+Dat+PxSg1:%>%^О1не%>нди K_вок ;
 
 LEXICON SG-CX-PXSG2
 +Sg+Nom+PxSg2:%>це K_вок ;
@@ -839,7 +839,7 @@ LEXICON NOTDEF-ABE
 
 LEXICON NOTDEF-TRA
 +SP+Tra+Indef:%>кс K_ГА ;
-+SP+Tra+Indef:%>%^О1кс K_ГА ;
++SP+Tra+Indef:%>%^О1кс K_ГА ; !CHECKME 2017-03-22 $валокс
 
 LEXICON NOTDEF-CAU
 +SP+Cau+Indef:%>%^О1нкса K ;
