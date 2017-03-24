@@ -465,7 +465,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  %{ИЫЙ%}	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
- %{ОЕØ%}	!!= @CODE@ for morphemes requiring a preceding vowel
+ %{ЕОØ%}	!!= @CODE@ for morphemes requiring a preceding vowel
  %{АЯ%} 	!!= @CODE@ А2 in кундамс:кундан
  %{ВИУ%}        !!= @CODE@ lative
  %{Х%}		!!= @CODE@ This usually precedes the plural marker
@@ -477,7 +477,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^А2О		!!= @CODE@ used with final а in пула 
 
  А2 	!!= @CODE@ А2:а А2:я
- %^Г2 	!!= @CODE@ %^Г2:г %^Г2:в %^Г2:к
+ %{вгк%} 	!!= @CODE@ %{вгк%}:г %{вгк%}:в %{вгк%}:к
+ %{гк%}	!!= @CODE@ clitic in %{гк%} %{АЕ%}
  К1 	!!= @CODE@ К1:к К1:т
  %^О1 	!!= @CODE@ %^О1:о %^О1:а %^О1:0
 %{АОЕ%}	!!= @CODE@  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е
