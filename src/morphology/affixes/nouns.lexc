@@ -109,7 +109,11 @@ LEXICON N_ПАНГА !!= @CODE@
 LEXICON N_ПИНГЕ !!= @CODE@
 !пинге:пинг
 +N:%{АОЕ%} NMN_АВА ;
- N_КАЛ ; !!= @CODE@ Ela, Ill, Ine, Par 
++N: NOTDEF-ABL ;
++N: NOTDEF-ILL ;
++N: NOTDEF-INE ;
++N: NOTDEF-ELA ;
+! N_КАЛ ;  Ela, Ill, Ine, Par 
 +N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
 
 LEXICON N_ТИШЕ
