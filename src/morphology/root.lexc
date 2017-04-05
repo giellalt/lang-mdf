@@ -465,7 +465,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
  %{ИЫЙ%}	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
- %{ЕОØ%}	!!= @CODE@ for morphemes requiring a preceding vowel
+ %{ЕОØ%}	!!= @CODE@ morphemes requiring a preceding vowel; also пинге
+ %{ЕО%} 	!!= @CODE@ сельме
+ %{ЕØ%}	!!= @CODE@ кече
  %{АЯ%} 	!!= @CODE@ А2 in кундамс:кундан
  %{ВИУ%}        !!= @CODE@ lative
  %{Х%}		!!= @CODE@ This usually precedes the plural marker
@@ -481,7 +483,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  %{гк%}	!!= @CODE@ clitic in %{гк%} %{АЕ%}
  К1 	!!= @CODE@ К1:к К1:т
  %^О1 	!!= @CODE@ %^О1:о %^О1:а %^О1:0
-%{АОЕ%}	!!= @CODE@  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е
+%{АЕО%}	!!= @CODE@  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е phase out
+%{АО%}	!!= @CODE@  пула stem
+%{АОØ%}	!!= @CODE@  офта stem
 %{АЕ%}	!!= @CODE@ prolative
  Х1 	!!= @CODE@ Х1:х Х1:0
  Ь2 	!!= @CODE@ Ь2:ь Ь2:0
@@ -491,6 +495,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! in ped realized as hard sign
 
 !! And following triggers to control variation
+%^RmVow 	!!= * @CODE@ for removing vowels
 %^Ь2ZERO	!!= @CODE@ removes soft sign before vowel or other combination
 %^Ъ2PED		!!= @CODE@ brings out hard sign, which is otherwise automatically removed
 %^Е2О		!!= @CODE@ Change stem-final vowel сембе:сембось

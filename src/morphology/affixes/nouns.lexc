@@ -12,388 +12,388 @@ LEXICON NTag
 LEXICON N_
 +N+Sg+Nom+Indef+TYÄ: #;
 
-LEXICON N_АВА_DIAL
-+Dial+Err/Orth: N_АВА ;
-LEXICON N_ОШ_DIAL
-+Dial+Err/Orth: N_ОШ ;
-LEXICON N_САРАЗ_DIAL
-+Dial+Err/Orth: N_САРАЗ ;
-LEXICON N_ОФТА_DIAL
-+Dial+Err/Orth: N_ОФТА ;
-LEXICON N_КАЛ_DIAL
-+Dial+Err/Orth: N_КАЛ ;
+LEXICON N_AVA_DIAL
++Dial+Err/Orth: N_AVA ;
+LEXICON N_OSH_DIAL
++Dial+Err/Orth: N_OSH ;
+LEXICON N_SARAZ_DIAL
++Dial+Err/Orth: N_SARAZ ;
+LEXICON N_OFTA_DIAL
++Dial+Err/Orth: N_OFTA ;
+LEXICON N_KAL_DIAL
++Dial+Err/Orth: N_KAL ;
 
 
-LEXICON N_АВА
+LEXICON N_AVA
 ! ава:ава
-+N: NMN_АВА ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
++N: NMN_AVA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_АВА-SG
+LEXICON N_AVA-SG
 ! ава:ава
-+N: NMN_АВА-SG ;
++N: NMN_AVA-SG ;
 
-LEXICON N_АВА-PL
+LEXICON N_AVA-PL
 ! ава:ава
-+N: NMN_АВА-PL ;
++N: NMN_AVA-PL ;
 
-!LEXICON N_АВА-SG/PL
+!LEXICON N_AVA-SG/PL
 ! ава:ава
-!+N: NMN_АВА-SG/PL ;
+!+N: NMN_AVA-SG/PL ;
 
-LEXICON N_ВАЛЬМЯ
+LEXICON N_VAL1MIA
 ! вальмя:вальмя
-+N: NMN_ВАЛЬМЯ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_ВАЛЬМЯ ;
++N: NMN_VAL1MIA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
 
-LEXICON N_ВАЛЬМЯ-SG
+LEXICON N_VAL1MIA-SG
 ! вальмя:вальмя
-+N: NMN_ВАЛЬМЯ-SG ;
++N: NMN_VAL1MIA-SG ;
 
-LEXICON N_ВАЛЬМЯ-PL
+LEXICON N_VAL1MIA-PL
 ! вальмя:вальмя
-+N: NMN_ВАЛЬМЯ-PL ;
++N: NMN_VAL1MIA-PL ;
 
-LEXICON N_МОКША
-! мокша:мокша
-+N: NMN_МОКША ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_МОКША ;
+LEXICON N_MOKSHA
+! мокша:мокш%{АЕ%}
++N: NMN_MOKSHA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_МОКША-SG
-! мокша:мокша
-+N: NMN_МОКША-SG ;
+LEXICON N_MOKSHA-SG
+! мокша:мокш%{АЕ%}
++N: NMN_MOKSHA-SG ;
 
-LEXICON N_МОКША-PL
-! мокша:мокша
-+N: NMN_МОКША-PL ;
+LEXICON N_MOKSHA-PL
+! мокша:мокш%{АЕ%}
++N: NMN_MOKSHA-PL ;
 
-LEXICON N_ПАКСЯ
+LEXICON N_PAKSIA
 ! пакся:пакся
-+N: NMN_ПАКСЯ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_ПАКСЯ ;
++N: NMN_PAKSIA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_PAKSIA ;
 
-LEXICON N_ПАКСЯ-SG
+LEXICON N_PAKSIA-SG
 ! пакся:пакся
-+N: NMN_ПАКСЯ-SG ;
++N: NMN_PAKSIA-SG ;
 
-LEXICON N_ПАКСЯ-PL
+LEXICON N_PAKSIA-PL
 ! пакся:пакся
-+N: NMN_ПАКСЯ-PL ;
++N: NMN_PAKSIA-PL ;
 
 
-LEXICON N_АНДЫ !!= * @CODE@ анды:анды
-+N: NMN_АНДЫ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_ANDY !!= * @CODE@ анды:анды
++N: NMN_ANDY ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_АНДЫ-SG
+LEXICON N_ANDY-SG
 ! анды:анды
-+N: NMN_АВА-SG ;
++N: NMN_AVA-SG ;
 
-LEXICON N_АНДЫ-PL
+LEXICON N_ANDY-PL
 ! анды:анды
-+N: NMN_АВА-PL ;
++N: NMN_AVA-PL ;
 
-LEXICON N_ОФТА !!= @CODE@ 
-!!офта:офт
-+N: NMN_ОФТА ;
+LEXICON N_OFTA !!= @CODE@ 
+!!офта:офт%{АОØ%}
++N: NMN_OFTA ;
 
-LEXICON N_ОФТА-SG !!= @CODE@
-+N: NMN_ОФТА-SG ;
-LEXICON N_ОФТА-PL !!= @CODE@
-+N: NMN_ОФТА-PL ;
+LEXICON N_OFTA-SG !!= @CODE@
++N: NMN_OFTA-SG ;
+LEXICON N_OFTA-PL !!= @CODE@
++N: NMN_OFTA-PL ;
 
-LEXICON N_ПАНГА !!= @CODE@
-!!панга:панг
- N_ОФТА ;
+LEXICON N_PANGA !!= @CODE@
+!!панга:панг%{АОØ%}
+ N_OFTA ;
 
-LEXICON N_ПИНГЕ !!= @CODE@
-!пинге:пинг
-+N:%{АОЕ%} NMN_АВА ;
-+N: NOTDEF-ABL ;
-+N: NOTDEF-ILL ;
-+N: NOTDEF-INE ;
-+N: NOTDEF-ELA ;
-! N_КАЛ ;  Ela, Ill, Ine, Par 
-+N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+LEXICON N_PINGE !!= @CODE@
+!пинге:пинг%{ЕОØ%}
++N: NMN_AVA ;
++N:%^RmVow NOTDEF-ABL ;
++N:%^RmVow NOTDEF-ILL ;
++N:%^RmVow NOTDEF-INE ;
++N:%^RmVow NOTDEF-ELA ;
+! N_KAL ;  Ela, Ill, Ine, Par 
++N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ТИШЕ
+LEXICON N_TISHE
 ! тише:тише
-+N: NMN_ТИШЕ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
++N: NMN_TISHE ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ТИШЕ-SG
+LEXICON N_TISHE-SG
 ! тише:тише
-+N: NMN_ТИШЕ-SG ;
++N: NMN_TISHE-SG ;
 
-LEXICON N_ТИШЕ-PL
+LEXICON N_TISHE-PL
 ! тише:тише
-+N: NMN_ТИШЕ-PL ;
++N: NMN_TISHE-PL ;
 
-!LEXICON N_ТИШЕ-SG/PL
+!LEXICON N_TISHE-SG/PL
 ! тише:тише
-!+N: NMN_ТИШЕ-SG/PL ;
+!+N: NMN_TISHE-SG/PL ;
 
-LEXICON N_ПУЛА !!= @CODE@
-!пула:пула
-+N: NMN_ПУЛА ;
-+N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+LEXICON N_PULA !!= @CODE@
+!пула:пул%{АО%}
++N: NMN_PULA ;
++N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_КАРЮЦЬКЕ !!= @CODE@
-!карюцьке:карюцьк
-+N:%{АОЕ%} NMN_АВА ;
-+N+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА ;
+LEXICON N_KARIUC1KE !!= @CODE@
+!карюцьке:карюцьк%{АЕ1%}
++N: NMN_AVA ;
++N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
 !€ карюцькат
 
-LEXICON N_СЕЛЬМЕ !!= @CODE@
-!сельме:сельме
-+N: NMN_СЕЛЬМЕ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_SEL1ME !!= @CODE@
+!сельме:сельм%{ЕО%}
++N: NMN_SEL1ME ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ОШ !!= @CODE@
+LEXICON N_OSH !!= @CODE@
 !ош:ош
-+N: NMN_ОШ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
++N: NMN_OSH ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ОШ-PL
+LEXICON N_OSH-PL
 !ош:ош
-+N: NMN_ОШ-PL ;
++N: NMN_OSH-PL ;
 
-LEXICON N_САРАЗ !!= @CODE@
+LEXICON N_SARAZ !!= @CODE@
 !ош:ош
-+N: NMN_САРАЗ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
++N: NMN_SARAZ ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_САРАЗ-PL
+LEXICON N_SARAZ-PL
 !ош:ош
-+N: NMN_САРАЗ-PL ;
++N: NMN_SARAZ-PL ;
 
-LEXICON N_ВАЙ !!= @CODE@
- N_ВАЙ-SG ;
- N_ВАЙ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_VAJ !!= @CODE@
+ N_VAJ-SG ;
+ N_VAJ-PL ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ВАЙ-SG
-+N: NMN_ВАЙ-SG ;
+LEXICON N_VAJ-SG
++N: NMN_VAJ-SG ;
 
-LEXICON N_ВАЙ-PL
-+N: NMN_ВАЙ-PL ;
+LEXICON N_VAJ-PL
++N: NMN_VAJ-PL ;
 
-LEXICON N_КАЛ !!= @CODE@
- N_КАЛ-SG ;
- N_КАЛ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_KAL !!= @CODE@
+ N_KAL-SG ;
+ N_KAL-PL ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_КАЛ-SG
-+N: NMN_КАЛ-SG ;
+LEXICON N_KAL-SG
++N: NMN_KAL-SG ;
 
-LEXICON N_КАЛ-PL
-+N: NMN_КАЛ-PL ;
+LEXICON N_KAL-PL
++N: NMN_KAL-PL ;
 
-LEXICON N_КЯЛЬ !!= @CODE@
- N_КЯЛЬ-SG ;
- N_КЯЛЬ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_KIAL1 !!= @CODE@
+ N_KIAL1-SG ;
+ N_KIAL1-PL ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_КЯЛЬ-SG
-+N: NMN_КЯЛЬ-SG ;
+LEXICON N_KIAL1-SG
++N: NMN_KIAL1-SG ;
 
-LEXICON N_КЯЛЬ-PL
-+N: NMN_КЯЛЬ-PL ;
+LEXICON N_KIAL1-PL
++N: NMN_KIAL1-PL ;
 
-LEXICON N_ПИНЕ !!= @CODE@
- N_ПИНЕ-SG ;
- N_ПИНЕ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_PINE !!= @CODE@
+ N_PINE-SG ;
+ N_PINE-PL ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_ПИНЕ-SG
-+N: NMN_ПИНЕ-SG ;
+LEXICON N_PINE-SG
++N: NMN_PINE-SG ;
 
-LEXICON N_ПИНЕ-PL
-+N: NMN_ПИНЕ-PL ;
+LEXICON N_PINE-PL
++N: NMN_PINE-PL ;
 
-LEXICON N_КЕЛУ !!= @CODE@
- N_КЕЛУ-SG ;
- N_КЕЛУ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_АВА ;
+LEXICON N_KELU !!= @CODE@
+ N_KELU-SG ;
+ N_KELU-PL ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_КЕЛУ-SG
-+N: NMN_КЕЛУ-SG ;
+LEXICON N_KELU-SG
++N: NMN_KELU-SG ;
 
-LEXICON N_КЕЛУ-PL
-+N: NMN_КЕЛУ-PL ;
+LEXICON N_KELU-PL
++N: NMN_KELU-PL ;
 
 
 
 
 !! NMN
 
-LEXICON NMN_АВА
-!	NMN_АВА-SG	;
-!	NMN_АВА-PL	;
-!	NMN_АВА-SG/PL	;
+LEXICON NMN_AVA
+!	NMN_AVA-SG	;
+!	NMN_AVA-PL	;
+!	NMN_AVA-SG/PL	;
 	NMN-SG	;
 	NMN-PL	;
 	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_АВА-SG
+LEXICON NMN_AVA-SG
 +Sg+Nom+Indef: K ;
  	NMN-SG ;
 	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_АВА-PL
+LEXICON NMN_AVA-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
 
-LEXICON NMN_ПУЛА
-!	NMN_ПУЛА-SG	;
-!	NMN_ПУЛА-PL	;
-!	NMN_ПУЛА-SG/PL	;
+LEXICON NMN_PULA
+!	NMN_PULA-SG	;
+!	NMN_PULA-PL	;
+!	NMN_PULA-SG/PL	;
 +Sg+Nom+Indef: K ;
 :%^А2О	NMN-SG	;
 :%^А2О	NMN-PL	;
 :%^А2О	NMN-SG/PL	;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_ПУЛА-SG
+LEXICON NMN_PULA-SG
 +Sg+Nom+Indef: K ;
 :%^А2О 	NMN-SG ;
 :%^А2О	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ПУЛА-PL
+LEXICON NMN_PULA-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
 
-LEXICON NMN_ТИШЕ
-!	NMN_ТИШЕ-SG	;
-!	NMN_ТИШЕ-PL	;
-!	NMN_ТИШЕ-SG/PL	;
+LEXICON NMN_TISHE
+!	NMN_TISHE-SG	;
+!	NMN_TISHE-PL	;
+!	NMN_TISHE-SG/PL	;
 	NMN-SG	;
 	NMN-PL	;
 	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ТИШЕ-SG
+LEXICON NMN_TISHE-SG
 +Sg+Nom+Indef: K ;
  	NMN-SG ;
 	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ТИШЕ-PL
+LEXICON NMN_TISHE-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
 
-LEXICON NMN_СЕЛЬМЕ
-!	NMN_СЕЛЬМЕ-SG	;
-!	NMN_СЕЛЬМЕ-PL	;
-!	NMN_СЕЛЬМЕ-SG/PL	;
+LEXICON NMN_SEL1ME
+!	NMN_SEL1ME-SG	;
+!	NMN_SEL1ME-PL	;
+!	NMN_SEL1ME-SG/PL	;
 +Sg+Nom+Indef: K ;
 +Sg+Nom+Indef: K ;
-:%^Е2О	NMN-SG	;
-:%^Е2О	NMN-PL	;
-:%^Е2О	NMN-SG/PL	;
+:	NMN-SG	;
+:	NMN-PL	;
+:	NMN-SG/PL	;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_СЕЛЬМЕ-SG
+LEXICON NMN_SEL1ME-SG
 +Sg+Nom+Indef: K ;
-:%^Е2О 	NMN-SG ;
-:%^Е2О	NMN-SG/PL	;
+: 	NMN-SG ;
+:	NMN-SG/PL	;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_СЕЛЬМЕ-PL
+LEXICON NMN_SEL1ME-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
 
-LEXICON NMN_ВАЛЬМЯ
+LEXICON NMN_VAL1MIA
 :%^Я2А        NMN-SG  ;
 :%^Я2А        NMN-PL  ;
 :%^Я2А        NMN-SG/PL       ;
 :%^Я2А SP-LAT-INDEF_в ;
 
-LEXICON NMN_ВАЛЬМЯ-SG
+LEXICON NMN_VAL1MIA-SG
 +Sg+Nom+Indef: K ;
 :%^Я2А        NMN-SG ;
 :%^Я2А        NMN-SG/PL       ;
 :%^Я2А SP-LAT-INDEF_в ;
 
-LEXICON NMN_ВАЛЬМЯ-PL
+LEXICON NMN_VAL1MIA-PL
 :%^Я2А        NMN-PL ;
 :%^Я2А        NMN-SG/PL       ;
 
-LEXICON NMN_МОКША
-:%^А2Е        NMN-SG  ;
-:%^А2Е        NMN-PL  ;
-:%^А2Е        NMN-SG/PL       ;
-:%^А2Е SP-LAT-INDEF_в ;
+LEXICON NMN_MOKSHA
+:        NMN-SG  ;
+:        NMN-PL  ;
+:        NMN-SG/PL       ;
+: SP-LAT-INDEF_в ;
 
-LEXICON NMN_МОКША-SG
+LEXICON NMN_MOKSHA-SG
 +Sg+Nom+Indef: K ;
-:%^А2Е        NMN-SG ;
-:%^А2Е        NMN-SG/PL       ;
-:%^А2Е SP-LAT-INDEF_в ;
+:        NMN-SG ;
+:        NMN-SG/PL       ;
+: SP-LAT-INDEF_в ;
 
-LEXICON NMN_МОКША-PL
-:%^А2Е        NMN-PL ;
-:%^А2Е        NMN-SG/PL       ;
+LEXICON NMN_MOKSHA-PL
+:        NMN-PL ;
+:        NMN-SG/PL       ;
 
-LEXICON NMN_ПАКСЯ
+LEXICON NMN_PAKSIA
         NMN-SG  ;
         NMN-PL  ;
         NMN-SG/PL       ;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ПАКСЯ-SG
+LEXICON NMN_PAKSIA-SG
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ПАКСЯ-PL
+LEXICON NMN_PAKSIA-PL
         NMN-PL ;
         NMN-SG/PL       ;
 
 
-LEXICON NMN_ОФТА !!= @CODE@
+LEXICON NMN_OFTA !!= @CODE@
 !!офта:офт
 NMN-SG ;
 NMN-PL ;
 NMN-SG/PL   ;
-:%{АОЕ%} NMN-SG ;
-:%{АОЕ%} NMN-PL ;
-:%{АОЕ%} NMN-SG/PL   ;
+:%^RmVow NMN-SG ;
+:%^RmVow NMN-PL ;
+:%^RmVow NMN-SG/PL   ;
  SP-LAT-INDEF_в ;
 
-LEXICON NMN_ОФТА-SG !!= @CODE@
-+Sg+Nom+Indef:%{АОЕ%} K ;
-:%{АОЕ%} NMN-SG ;
+LEXICON NMN_OFTA-SG !!= @CODE@
++Sg+Nom+Indef: K ;
+:%^RmVow NMN-SG ;
 	 NMN-SG ;
-:%{АОЕ%} NMN-SG/PL   ;
+:%^RmVow NMN-SG/PL   ;
 	 NMN-SG/PL   ;
-+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-SG ;
++Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA-SG ;
 
-LEXICON NMN_ОФТА-PL !!= @CODE@
-:%{АОЕ%} NMN-PL ;
+LEXICON NMN_OFTA-PL !!= @CODE@
+:%^RmVow NMN-PL ;
 	 NMN-PL ;
-:%{АОЕ%} NMN-SG/PL   ;
+:%^RmVow NMN-SG/PL   ;
          NMN-SG/PL   ;
-+Der/Dimin+N:%{АОЕ%}%>%{DIM%}я NMN_АВА-PL ;
++Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA-PL ;
 
-LEXICON NMN_КЕЛУ
-	NMN_КЕЛУ-SG	;
-	NMN_КЕЛУ-PL	;
-	NMN_КЕЛУ-SG/PL	;
+LEXICON NMN_KELU
+	NMN_KELU-SG	;
+	NMN_KELU-PL	;
+	NMN_KELU-SG/PL	;
 !        NMN-SG ;
 !        NMN-PL ;
 !        NMN-SG/PL       ;
 
 
-LEXICON NMN_КЕЛУ-SG
+LEXICON NMN_KELU-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -402,20 +402,20 @@ LEXICON NMN_КЕЛУ-SG
 +Sg+Nom+Indef: K ;
         NMN-SG ;
 !        NMN-SG/PL       ;
-        NMN_КЕЛУ-SG/PL  ;
+        NMN_KELU-SG/PL  ;
 
 
-LEXICON NMN_КЕЛУ-PL
+LEXICON NMN_KELU-PL
 !! Indefinite
 !+Pl:в PL-NOM ;
 !! Definite Pl
 !+Pl:в PLCXDEF ;
 +Pl:в        NMN-PL       ;
 !        NMN-SG/PL       ;
-        NMN_КЕЛУ-SG/PL  ;
+        NMN_KELU-SG/PL  ;
 
 
-LEXICON NMN_КЕЛУ-SG/PL
+LEXICON NMN_KELU-SG/PL
 :в NOTDEF-GEN ;
 :в NOTDEF-CAU ;
  NOTDEF-DAT ;
@@ -428,16 +428,16 @@ LEXICON NMN_КЕЛУ-SG/PL
  NOTDEF-CMP ;
  NOTDEF-PRL ;
 
-LEXICON NMN_АНДЫ
-	NMN_АНДЫ-SG	;
-	NMN_АНДЫ-PL	;
-	NMN_АНДЫ-SG/PL	;
+LEXICON NMN_ANDY
+	NMN_ANDY-SG	;
+	NMN_ANDY-PL	;
+	NMN_ANDY-SG/PL	;
 !        NMN-SG ;
 !        NMN-PL ;
 !        NMN-SG/PL       ;
 
 
-LEXICON NMN_АНДЫ-SG
+LEXICON NMN_ANDY-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -453,20 +453,20 @@ LEXICON NMN_АНДЫ-SG
 :й SG-CX-PXSG3 ;
 !        NMN-SG ;
 !        NMN-SG/PL       ;
-        NMN_АНДЫ-SG/PL  ;
+        NMN_ANDY-SG/PL  ;
 
 
-LEXICON NMN_АНДЫ-PL
+LEXICON NMN_ANDY-PL
 !! Indefinite
 !+Pl:в PL-NOM ;
 !! Definite Pl
 !+Pl:в PLCXDEF ;
 +Pl:й        NMN-PL       ;
 !        NMN-SG/PL       ;
-        NMN_АНДЫ-SG/PL  ;
+        NMN_ANDY-SG/PL  ;
 
 
-LEXICON NMN_АНДЫ-SG/PL
+LEXICON NMN_ANDY-SG/PL
 :й NOTDEF-GEN ;
 :й NOTDEF-CAU ;
  NOTDEF-DAT ;
@@ -481,16 +481,16 @@ LEXICON NMN_АНДЫ-SG/PL
  NOTDEF-CMP ;
  NOTDEF-PRL ;
 
-LEXICON NMN_ВАЙ
-!	NMN_ВАЙ-SG	;
-!	NMN_ВАЙ-PL	;
-!	NMN_ВАЙ-SG/PL	;
+LEXICON NMN_VAJ
+!	NMN_VAJ-SG	;
+!	NMN_VAJ-PL	;
+!	NMN_VAJ-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
 
 
-LEXICON NMN_ВАЙ-SG
+LEXICON NMN_VAJ-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -501,7 +501,7 @@ LEXICON NMN_ВАЙ-SG
         NMN-SG/PL       ;
 
 
-LEXICON NMN_ВАЙ-PL
+LEXICON NMN_VAJ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -509,17 +509,17 @@ LEXICON NMN_ВАЙ-PL
         NMN-PL       ;
         NMN-SG/PL       ;
 
-LEXICON NMN_КАЛ
-!	NMN_КАЛ-SG	;
-!	NMN_КАЛ-PL	;
-!	NMN_КАЛ-SG/PL	;
+LEXICON NMN_KAL
+!	NMN_KAL-SG	;
+!	NMN_KAL-PL	;
+!	NMN_KAL-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
  SP-LAT-INDEF_у ;
 
 
-LEXICON NMN_КАЛ-SG
+LEXICON NMN_KAL-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -531,7 +531,7 @@ LEXICON NMN_КАЛ-SG
  SP-LAT-INDEF_у ;
 
 
-LEXICON NMN_КАЛ-PL
+LEXICON NMN_KAL-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -540,7 +540,7 @@ LEXICON NMN_КАЛ-PL
         NMN-SG/PL       ;
 
 
-!LEXICON NMN_КАЛ-SG/PL
+!LEXICON NMN_KAL-SG/PL
 ! NOTDEF-GEN ;
 ! NOTDEF-DAT ;
 ! NOTDEF-ABL ;
@@ -560,17 +560,17 @@ LEXICON NMN_КАЛ-PL
 ! PXPL2 ;
 ! PXPL3 ;
 
-LEXICON NMN_КЯЛЬ
-!	NMN_КЯЛЬ-SG	;
-!	NMN_КЯЛЬ-PL	;
-!	NMN_КЯЛЬ-SG/PL	;
+LEXICON NMN_KIAL1
+!	NMN_KIAL1-SG	;
+!	NMN_KIAL1-PL	;
+!	NMN_KIAL1-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
 
-LEXICON NMN_КЯЛЬ-SG
+LEXICON NMN_KIAL1-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -581,7 +581,7 @@ LEXICON NMN_КЯЛЬ-SG
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
-LEXICON NMN_КЯЛЬ-PL
+LEXICON NMN_KIAL1-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -589,17 +589,17 @@ LEXICON NMN_КЯЛЬ-PL
         NMN-PL       ;
         NMN-SG/PL       ;
 
-LEXICON NMN_ПИНЕ
-!	NMN_ПИНЕ-SG	;
-!	NMN_ПИНЕ-PL	;
-!	NMN_ПИНЕ-SG/PL	;
+LEXICON NMN_PINE
+!	NMN_PINE-SG	;
+!	NMN_PINE-PL	;
+!	NMN_PINE-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
 
-LEXICON NMN_ПИНЕ-SG
+LEXICON NMN_PINE-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -610,7 +610,7 @@ LEXICON NMN_ПИНЕ-SG
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF_и ;
 
-LEXICON NMN_ПИНЕ-PL
+LEXICON NMN_PINE-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -618,16 +618,16 @@ LEXICON NMN_ПИНЕ-PL
         NMN-PL       ;
         NMN-SG/PL       ;
 
-LEXICON NMN_ОШ
-!	NMN_КАЛ-SG	;
-!	NMN_КАЛ-PL	;
-!	NMN_КАЛ-SG/PL	;
+LEXICON NMN_OSH
+!	NMN_KAL-SG	;
+!	NMN_KAL-PL	;
+!	NMN_KAL-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_ОШ-SG
+LEXICON NMN_OSH-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -638,7 +638,7 @@ LEXICON NMN_ОШ-SG
         NMN-SG/PL       ;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_ОШ-PL
+LEXICON NMN_OSH-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -646,16 +646,16 @@ LEXICON NMN_ОШ-PL
         NMN-PL       ;
         NMN-SG/PL       ;
 
-!LEXICON NMN_ОШ-SG/PL
-! 	NMN_КАЛ-SG/PL	;
+!LEXICON NMN_OSH-SG/PL
+! 	NMN_KAL-SG/PL	;
 
-LEXICON NMN_САРАЗ
+LEXICON NMN_SARAZ
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_САРАЗ-SG
+LEXICON NMN_SARAZ-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
@@ -667,7 +667,7 @@ LEXICON NMN_САРАЗ-SG
         NMN-SG/PL       ;
  SP-LAT-INDEF_у ;
 
-LEXICON NMN_САРАЗ-PL
+LEXICON NMN_SARAZ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
@@ -783,7 +783,8 @@ LEXICON PL-CX-PXSG1
 LEXICON SG-CX-PXSG2
 +Sg+Nom+PxSg2:%>це K_вок ;
 +Sg+Gen+PxSg2:%>це%>%{ЕОØ%}нь K_ГА ;
-+Sg+Dat+PxSg2:%>це%>нди K_вок ;
++Sg+Dat+PxSg2:%>це%>нди K_ГА ; !-ге Бебан, Кирдяшкин, Ларионов, Левчаев, Алёшкин
++Sg+Dat+PxSg2:%>цти K_ГА ; !-ге/вок Бебан, Девин, Кирдяшкин, Кишняшкин, Кудашов, Кузнецов, Ларионов, Левчаев, Макулов, Моисеев, Мокша А 1998, Носиков,  
 LEXICON PL-CX-PXSG2
 +Pl+Nom+PxSg2:%>%{Х%}тне K_вок ;
 +Pl+Gen+PxSg2:%>%{Х%}тне%>%{ЕОØ%}нь K_ГА ;
@@ -842,16 +843,19 @@ LEXICON NOTDEF-ABE
 +SP+Abe:%>фтом%^О1 Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-TRA
-+SP+Tra+Indef:%>%{ЕОØ%}кс K_ГА ; !CHECKME 2017-03-22 $валокс
++SP+Tra+Indef:%>%{ЕОØ%}кс K_ГА ; !! Ананьина К.И. 2000 53
++SP+Tra+Indef:%>кс K_ГА ; !CHECKME 2017-03-22 $валокс
 
 LEXICON NOTDEF-CAU
 +SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
 
 LEXICON NOTDEF-CMP
 +SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
++SP+Cmpr:%>%{ЕО%}%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-PRL
 +SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
++SP+Prl:%>гя Choose-INDEF-OBLPX-ava ;
 
 !!!
 
@@ -903,6 +907,7 @@ LEXICON SP-PRL-INDEF_ка
 
 LEXICON SP-TRA-INDEF_кс
 +SP+Tra+Indef:%>%{ЕОØ%}кс K_ГА ;
++SP+Tra+Indef:%>кс K_ГА ;
 
 LEXICON PL-NOM-INDEF
 +Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K_ГА ;
@@ -944,7 +949,8 @@ LEXICON Choose-INDEF-OBLPX-osh
 
 LEXICON OBLIQUECX-PX-osh
 +PxSg1:%>%{ЕОØ%}н K_ГА ;
-+PxSg2:%{ЕОØ%}%>т K_ГА ;
++PxSg2:%>т K_ГА ;
+!+PxSg2:%>%{ЕОØ%}т K_ГА ;
 +PxSg3:%>%{ЕОØ%}нз%^О1 K_вок ;
 +PxPl1:%>%{ЕОØ%}нк K_овок ;
 +PxPl2:%>%{ЕОØ%}нт K_овок ;
