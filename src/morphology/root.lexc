@@ -675,9 +675,9 @@ LEXICON PO_КВАЛМА
 +Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PO-INE_
-+Po+Ine:%>с%^О1 K_вок ;
-+Pron+Ine:%>с%^О1 OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Ine:%>с%^О1 OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
++Po+Ine:%>с%{АО%} K_вок ;
++Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
 
 LEXICON PO-PRL_
 +Po+Prl: K_вок ;
