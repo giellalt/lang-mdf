@@ -31,7 +31,7 @@ LEXICON PERS-SG1
 LEXICON PERS-SG2
 ! тон:тон
 +Pron+Pers+Sg2+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Sg2+Der/MWN+N+SP+Abe+Indef:нефтом%^О1 K_вок ;
++Pron+Pers+Sg2+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
 +Pron+Pers+Sg2+Nom: K_ГА ;
 +Pron+Pers+Sg2+Gen:ь K_ГА ;
 +Pron+Pers+Sg2+Dat:дейть K_ГА ;
@@ -47,12 +47,12 @@ LEXICON PERS-SG2
 LEXICON PERS-SG3
 ! сон:сон
 +Pron+Pers+Sg3+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Sg3+Der/MWN+N+SP+Abe+Indef:нефтом%^О1 K_вок ;
++Pron+Pers+Sg3+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
 +Pron+Pers+Sg3+Nom: K_ГА ;
 +Pron+Pers+Sg3+Gen:ь K_ГА ;
-+Pron+Pers+Sg3+Dat:дейнз%^О1 K_вок ;
-+Pron+Pers+Sg3+Abl:дедонз%^О1 K_вок ;
-+Pron+Pers+Sg3+Abe:ьфтемонз%^О1 K_вок ;
++Pron+Pers+Sg3+Dat:дейнз%{АО%} K_вок ;
++Pron+Pers+Sg3+Abl:дедонз%{АО%} K_вок ;
++Pron+Pers+Sg3+Abe:ьфтемонз%{АО%} K_вок ;
 +Pron+Pers+Sg3+Gen+Der/не+Sg+Nom+Indef:не K_вок ;
 +Pron+Pers+Sg3+Gen+Der/не+Pl+Nom+Indef:нет K_ГА ;
 +Pron+Pers+Sg3+Gen+Der/не+Sg+Nom+Def:несь K_ГА ;
@@ -94,19 +94,19 @@ LEXICON PERS-PL3
 
 LEXICON PERS-POSSESSA
 !! !Indefinite
-+Intensive+SP+Abe+Indef:ценнефтом%^О1 K_вок ;
-+SP+Abl+Indef:нед%^О1 K_вок ;
-+Intensive+SP+Abl+Indef:ценнед%^О1 K_вок ;
-+SP+Cau+Indef:ненкс%^О1 K_вок ;
-+Intensive+SP+Cau+Indef:ценненкс%^О1 K_вок ;
++Intensive+SP+Abe+Indef:ценнефтом%{АО%} K_вок ;
++SP+Abl+Indef:нед%{АО%} K_вок ;
++Intensive+SP+Abl+Indef:ценнед%{АО%} K_вок ;
++SP+Cau+Indef:ненкс%{АО%} K_вок ;
++Intensive+SP+Cau+Indef:ценненкс%{АО%} K_вок ;
 +SP+Cmpr+Indef:нешка K_вок ;
 +Intensive+SP+Cmpr+Indef:ценнешка K_вок ;
-+SP+Ela+Indef:нест%^О1 K_вок ;
-+Intensive+SP+Ela+Indef:ценнест%^О1 K_вок ;
++SP+Ela+Indef:нест%{АО%} K_вок ;
++Intensive+SP+Ela+Indef:ценнест%{АО%} K_вок ;
 +SP+Ill+Indef:нес K_ГА ;
 +Intensive+SP+Ill+Indef:ценнес K_ГА ;
-+SP+Ine+Indef:нес%^О1 K_вок ;
-+Intensive+SP+Ine+Indef:ценнес%^О1 K_вок ;
++SP+Ine+Indef:нес%{АО%} K_вок ;
++Intensive+SP+Ine+Indef:ценнес%{АО%} K_вок ;
 +SP+Prl+Indef:нева K_вок ;
 +Intensive+SP+Prl+Indef:ценнева K_вок ;
 +SP+Tra+Indef:некс K_ГА ;
@@ -140,7 +140,7 @@ LEXICON PRON-DEM_
 +Pron+Dem: PRON-DEM-SG ;
 
 LEXICON PRON-DEM-SG
-+SP+Abl:%>д%^О1 K_вок ;
++SP+Abl:%>д%{АО%} K_вок ;
 +SP+Dat:%>%{ЕОØ%}нди K_вок ;
 +SP+Gen:%>%{ЕОØ%}нь K_ГА ;
 +Sg+Nom: K_вок ;
@@ -160,18 +160,18 @@ LEXICON PRON-INDEF_МЕЗЕ-БДИ
 +Pron+Indef+Sg+Nom: PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ-SG
-+Abe:%>фтом%^О1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Abe:%>фтом%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Cau:нкса PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Com:%>шка PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +DatCx:%>нди PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
-+Ela:%>ст%^О1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Ela:%>ст%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Gen:%>ньге WORD-END ;
 +Gen:%>нь%-бди WORD-END ;
 +Gen:%>нь%-повсь WORD-END ;
 +Ill:%>ска WORD-END ;
 +Ill:%>с%-бди WORD-END ;
 +Ill:%>с%-повсь WORD-END ;
-+Ine:%>с%^О1 PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Ine:%>с%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Prl:%>ва PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Tra:%>кска WORD-END ;
 +Tra:%>кс%-бди WORD-END ;
@@ -205,11 +205,11 @@ LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
 
 LEXICON PRON-QNT_СЕМБЕ
 +Pron+Qnt+Pl+Nom+Indef:%^Е2О%>т WORD-END ;
-+Pron+Qnt+SP+Abl+Indef:%^Е2О%>д%^О1 K_НГА ;
++Pron+Qnt+SP+Abl+Indef:%^Е2О%>д%{АО%} K_НГА ;
 +Pron+Qnt+SP+Cau+Indef:%^Е2О%>нкса WORD-END ;
 +Pron+Qnt+SP+Dat+Indef:%^Е2О%>нди WORD-END ;
 +Pron+Qnt+SP+Gen+Indef:%^Е2О%>нь WORD-END ;
-+Pron+Qnt+SP+Ine+Indef:%^Е2О%>с%^О1 K_вок ;
++Pron+Qnt+SP+Ine+Indef:%^Е2О%>с%{АО%} K_вок ;
 +Pron+Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
 +Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть WORD-END ;
 +Pron+Qnt+Sg+Nom+Indef: WORD-END ;
@@ -222,8 +222,8 @@ LEXICON PRON-QNT_СЕМБЕ
  PXPL3 ;
 
 LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськам
-+Pron+Exclusive+PerifMod:%^О1 OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Exclusive+PerifMod:%^О1 OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
++Pron+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 !! !REFLEXIVE PRONOUNS
 !! !NON-STRESSED REFLEXIVE DATIVES
