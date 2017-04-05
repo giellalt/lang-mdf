@@ -163,7 +163,7 @@ LEXICON V0_НЯЕМС  !!= @CODE@ няемс:ня
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
-+ConNeg:й%^О1 K ; 
++ConNeg:й%{АО%} K ; 
 +ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
@@ -183,8 +183,8 @@ LEXICON Non-Finite-Vws
 +Inf:%>%{ЕОØ%}мс K ;
 +Inf+Loc:%>%{ЕОØ%}ма K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
-+Inf+Abl:%>%{ЕОØ%}м%>д%^О1 OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}мст%^О1 K ;
++Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
++Ger+Ela:%>%{ЕОØ%}мст%{АО%} K ;
 +Ger:%>%{ЕОØ%}зь K ;
 
 LEXICON Non-Finite-Cns
@@ -267,7 +267,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
 	 INF_ОМ		;
-+ConNeg:%^О1 K ;
++ConNeg:%{АО%} K ;
 +ConNegII:%>%{КТ%}%{ЬØ%} K ;
 !! !INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 LEXICON VERB-ZERO-ALL
@@ -1270,7 +1270,7 @@ LEXICON INF_ОМ
 +Inf:%>%{ЕОØ%}мс K ;
 +Inf+Ill:%>%{ЕОØ%}мс K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
-+Inf+Abl:%>%{ЕОØ%}м%>д%^О1 OBLIQUECX-PX-ava ;
++Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
 +Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
 Prc-I ;
