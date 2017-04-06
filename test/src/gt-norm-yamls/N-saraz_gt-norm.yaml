@@ -24,14 +24,15 @@ Tests:
      сараз+N+SP+Cmpr+Indef: саразшка
      сараз+N+SP+Ine+Indef: саразса
      сараз+N+SP+Ela+Indef: саразста
-     сараз+N+SP+Ill+Indef: [саразу, саразс]
+     сараз+N+SP+Ill+Indef: саразс
+     сараз+N+SP+Lat+Indef: саразу
      сараз+N+SP+Prl+Indef: саразга
      сараз+N+SP+Tra+Indef: саразкс
      сараз+N+Sg+Nom+PxSg1: саразозе
      сараз+N+Pl+Nom+PxSg1: саразне
      сараз+N+Sg+Gen+PxSg1: саразозень
      сараз+N+Pl+Gen+PxSg1: саразнень
-     сараз+N+Sg+Dat+PxSg1: саразозти
+     сараз+N+Sg+Dat+PxSg1: [саразозти, саразозенди]
      сараз+N+Pl+Dat+PxSg1: саразненди
      сараз+N+SP+Abl+PxSg1: сараздон
      сараз+N+SP+Abe+PxSg1: саразфтомон
@@ -94,17 +95,17 @@ Tests:
      сараз+N+SP+Ela+PxPl3: саразстост
      сараз+N+SP+Ill+PxPl3: саразозост
      сараз+N+SP+Prl+PxPl3: саразгаст
-     сараз+N+Pl+Nom+Indef: саразт
+     сараз+N+Pl+Nom+Indef: сараст
      сараз+N+Sg+Nom+Def: саразсь
      сараз+N+Sg+Gen+Def: саразть
      сараз+N+Sg+Dat+Def: саразти
-     сараз+N+Pl+Nom+Def: саразне
-     сараз+N+Pl+Gen+Def: саразнень
-     сараз+N+Pl+Dat+Def: саразненди    
+     сараз+N+Pl+Nom+Def: сарасне
+     сараз+N+Pl+Gen+Def: сараснень
+     сараз+N+Pl+Dat+Def: сарасненди    
      сараз+N+Sg+Nom+Indef+Foc: саразовок
      сараз+N+SP+Gen+Indef+Foc: саразоньге 
      сараз+N+SP+Abl+Indef+Foc: сараздовок
-     сараз+N+SP+Dat+Indef+Foc: саразондивок
+     сараз+N+SP+Dat+Indef+Foc: [саразондивок, саразондиге, саразондинге]
      сараз+N+SP+Abe+Indef+Foc: саразфтомовок
      сараз+N+SP+Cmpr+Indef+Foc: саразшкавок
      сараз+N+SP+Ine+Indef+Foc: саразсовок
@@ -116,8 +117,8 @@ Tests:
      сараз+N+Pl+Nom+PxSg1+Foc: саразневок
      сараз+N+Sg+Gen+PxSg1+Foc: саразозеньге
      сараз+N+Pl+Gen+PxSg1+Foc: саразненьге
-     сараз+N+Sg+Dat+PxSg1+Foc: саразозтивок
-     сараз+N+Pl+Dat+PxSg1+Foc: саразнендивок
+     сараз+N+Sg+Dat+PxSg1+Foc: [саразозтивок, саразозтиге, саразозтинге]
+     сараз+N+Pl+Dat+PxSg1+Foc: [саразнендивок, саразнендиге, саразнендинге]
      сараз+N+SP+Abl+PxSg1+Foc: сараздонга
      сараз+N+SP+Abe+PxSg1+Foc: саразфтомонга
      сараз+N+SP+Cmpr+PxSg1+Foc: саразшканга
@@ -179,10 +180,10 @@ Tests:
      сараз+N+SP+Ela+PxPl3+Foc: саразстостка
      сараз+N+SP+Ill+PxPl3+Foc: саразозостка
      сараз+N+SP+Prl+PxPl3+Foc: саразгастка
-     сараз+N+Pl+Nom+Indef+Foc: саразтка
+     сараз+N+Pl+Nom+Indef+Foc: сарастка
      сараз+N+Sg+Nom+Def+Foc: саразське
      сараз+N+Sg+Gen+Def+Foc: саразтьке
      сараз+N+Sg+Dat+Def+Foc: саразтивок
-     сараз+N+Pl+Nom+Def+Foc: саразневок
-     сараз+N+Pl+Gen+Def+Foc: саразненьге
-     сараз+N+Pl+Dat+Def+Foc: саразнендивок
+     сараз+N+Pl+Nom+Def+Foc: сарасневок
+     сараз+N+Pl+Gen+Def+Foc: сарасненьге
+     сараз+N+Pl+Dat+Def+Foc: сараснендивок
