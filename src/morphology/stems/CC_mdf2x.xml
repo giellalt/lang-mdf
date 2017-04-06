@@ -15,6 +15,26 @@
 </e>
 <e>
    <lg>
+     <l pos="CS">кли</l>
+     <stg>
+       <st Contlex="CS_">кли</st>
+     </stg> <phonet>kəľi</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="eng">
+       <t pos="CS">if</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="CS">jos</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="CS">если</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="CC">а</l>
      <stg>
        <st Contlex="CC_">а</st>
