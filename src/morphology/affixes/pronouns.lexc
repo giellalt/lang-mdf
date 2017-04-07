@@ -214,12 +214,12 @@ LEXICON PRON-QNT_СЕМБЕ
 +Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть WORD-END ;
 +Pron+Qnt+Sg+Nom+Indef: WORD-END ;
 +Pron+Qnt+Sg+Nom+Def:%^Е2О%>сь WORD-END ;
- SG-CX-PXSG1 ;
- SG-CX-PXSG2 ;
- SG-CX-PXSG3 ;
- PXPL1 ;
- PXPL2 ;
- PXPL3 ;
+ SG-DAT/GEN/NOM-PXSG1 ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+ SG-DAT/GEN/NOM-PXSG3 ;
+ SP-DAT/GEN/NOM-PXPL1 ;
+ SP-DAT/GEN/NOM-PXPL2 ;
+ SP-DAT/GEN/NOM-PXPL3 ;
 
 LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськам
 +Pron+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
