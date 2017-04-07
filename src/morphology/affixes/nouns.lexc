@@ -114,7 +114,7 @@ LEXICON N_PINGE !!= @CODE@
 +N:%^RmVow NOTDEF-INE ;
 +N:%^RmVow NOTDEF-ELA ;
 ! N_KAL ;  Ela, Ill, Ine, Par 
-+N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_TISHE
 ! тише:тише
@@ -136,12 +136,12 @@ LEXICON N_TISHE-PL
 LEXICON N_PULA !!= @CODE@
 !пула:пул%{АО%}
 +N: NMN_PULA ;
-+N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KARIUC1KE !!= @CODE@
 !карюцьке:карюцьк%{АЕ1%}
 +N: NMN_AVA ;
-+N+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA ;
++N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 !€ карюцькат
 
 LEXICON N_SEL1ME !!= @CODE@
@@ -374,14 +374,14 @@ LEXICON NMN_OFTA-SG !!= @CODE@
 	 NMN-SG ;
 :%^RmVow NMN-SG/PL   ;
 	 NMN-SG/PL   ;
-+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA-SG ;
++Der/Dimin+N:%>%{DIM%}я NMN_AVA-SG ;
 
 LEXICON NMN_OFTA-PL !!= @CODE@
 :%^RmVow NMN-PL ;
 	 NMN-PL ;
 :%^RmVow NMN-SG/PL   ;
          NMN-SG/PL   ;
-+Der/Dimin+N:%{АЕО%}%>%{DIM%}я NMN_AVA-PL ;
++Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
 
 LEXICON NMN_KELU
 	NMN_KELU-SG	;

@@ -85,6 +85,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Use/-Ped   !!≈ * _@CODE@_ * Remove from pedagogical speller
  +Use/NG    !!≈ * _@CODE@_ * Do not generate, for isme-ped.fst and apertium
 
+ +SerialVerb	!!≈ * _@CODE@_ * serial verbs, is this necessary
+
  +Err/Lex !!≈ * _@CODE@_ * The lemma is not a Moksha word
  +Dial
 !!
@@ -483,7 +485,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  %{гк%}	!!= @CODE@ clitic in %{гк%} %{АЕ%}
  К1 	!!= @CODE@ К1:к К1:т
  %^О1 	!!= @CODE@ %^О1:о %^О1:а %^О1:0
-%{АЕО%}	!!= @CODE@  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е phase out
+%{АЕØ%}	!!= @CODE@  ConNeg with ашень, тят, афоль
 %{АО%}	!!= @CODE@  пула stem
 %{АОØ%}	!!= @CODE@  офта stem
 %{АЕ%}	!!= @CODE@ prolative
@@ -655,8 +657,11 @@ LEXICON Root
 ! Compounding
 
 LEXICON R
-%- N_mdf2x ;
++Use/Circ+Cmp%-:%- N_mdf2x ;
 
+LEXICON VerbEnd
++SerialVerb+Use/Circ+Cmp%-:%- V_mdf2x       ;
+ K ;
 
 
 ! ============ !

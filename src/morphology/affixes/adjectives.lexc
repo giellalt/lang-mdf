@@ -23,22 +23,22 @@ LEXICON A_AVA
 +A+Der/MWN: N_AVA ;
 
 LEXICON A_OFTA
-!офта:офт
-+A+Sg+Nom+Indef:%>%{АЕО%} K ;
-+A+Der/MWN:%>%{АЕО%} N_OFTA ;
+!офта:офт%{АОØ%}
++A+Sg+Nom+Indef: K ;
++A+Der/MWN: N_OFTA ;
 
 LEXICON A_PINGE
-!пинге:пинг
-+A+Sg+Nom+Indef:%>%{АЕО%} K ;
-+A+Der/MWN:%>%{АЕО%} N_PINGE ;
+!пинге:пинг%{ЕОØ%}
++A+Sg+Nom+Indef: K ;
++A+Der/MWN: N_PINGE ;
 
 LEXICON A_PULA
-!пула:пул
-+A+Sg+Nom+Indef:%>%{АЕО%} K ;
-+A+Der/MWN:%>%{АЕО%} N_PULA ;
+!пула:пул%{АО%}
++A+Sg+Nom+Indef: K ;
++A+Der/MWN: N_PULA ;
 
 LEXICON A_MOKSHA
-!мокша:мокша
+!мокша:мокш%{АЕ%}
 +A+Sg+Nom+Indef: K ;
 +A+Der/MWN: N_MOKSHA ;
 
@@ -85,19 +85,19 @@ LEXICON DET_AVA
 +Det+Der/MWN: N_AVA ;
 
 LEXICON DET_OFTA
-!офта:офт
-+Det+Sg+Nom+Indef:%>%{АЕО%} K ;
-+Det+Der/MWN:%>%{АЕО%} N_OFTA ;
+!офта:офт%{АОØ%}
++Det+Sg+Nom+Indef: K ;
++Det+Der/MWN: N_OFTA ;
 
 LEXICON DET_PINGE
-!пинге:пинг
-+Det+Sg+Nom+Indef:%>%{АЕО%} K ;
-+Det+Der/MWN:%>%{АЕО%} N_PINGE ;
+!пинге:пинг%{ЕО%}
++Det+Sg+Nom+Indef: K ;
++Det+Der/MWN: N_PINGE ;
 
 LEXICON DET_PULA
-!пула:пул
-+Det+Sg+Nom+Indef:%>%{АЕО%} K ;
-+Det+Der/MWN:%>%{АЕО%} N_PULA ;
+!пула:пул%{АО%}
++Det+Sg+Nom+Indef: K ;
++Det+Der/MWN: N_PULA ;
 
 LEXICON DET_OSH
 !! ош:ош
