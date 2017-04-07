@@ -95,7 +95,8 @@ LEXICON N_ANDY-PL
 
 LEXICON N_OFTA !!= @CODE@ 
 !!офта:офт%{АОØ%}
-+N: NMN_OFTA ;
+!+N: NMN_OFTA ;
+ N_PINGE ;
 
 LEXICON N_OFTA-SG !!= @CODE@
 +N: NMN_OFTA-SG ;
@@ -104,15 +105,20 @@ LEXICON N_OFTA-PL !!= @CODE@
 
 LEXICON N_PANGA !!= @CODE@
 !!панга:панг%{АОØ%}
- N_OFTA ;
+ N_PINGE ;
 
 LEXICON N_PINGE !!= @CODE@
 !пинге:пинг%{ЕОØ%}
-+N: NMN_AVA ;
-+N:%^RmVow NOTDEF-ABL ;
-+N:%^RmVow NOTDEF-ILL ;
-+N:%^RmVow NOTDEF-INE ;
-+N:%^RmVow NOTDEF-ELA ;
+!! Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
++N: SG-NOM ;
++N: NMN_DECLENSION-WITH-ONSET-VOWEL ;
+
+!! Floating
++N: NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT ;
+
+!! Without vowel
++N:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL ;
+
 ! N_KAL ;  Ela, Ill, Ine, Par 
 +N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
@@ -234,13 +240,13 @@ LEXICON NMN_AVA
 	NMN-SG	;
 	NMN-PL	;
 	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_AVA-SG
 +Sg+Nom+Indef: K ;
  	NMN-SG ;
 	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_AVA-PL
 	NMN-PL ;
@@ -255,13 +261,13 @@ LEXICON NMN_PULA
 :%^А2О	NMN-SG	;
 :%^А2О	NMN-PL	;
 :%^А2О	NMN-SG/PL	;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_PULA-SG
 +Sg+Nom+Indef: K ;
 :%^А2О 	NMN-SG ;
 :%^А2О	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_PULA-PL
 	NMN-PL ;
@@ -275,13 +281,13 @@ LEXICON NMN_TISHE
 	NMN-SG	;
 	NMN-PL	;
 	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_TISHE-SG
 +Sg+Nom+Indef: K ;
  	NMN-SG ;
 	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_TISHE-PL
 	NMN-PL ;
@@ -296,13 +302,13 @@ LEXICON NMN_SEL1ME
 :	NMN-SG	;
 :	NMN-PL	;
 :	NMN-SG/PL	;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_SEL1ME-SG
 +Sg+Nom+Indef: K ;
 : 	NMN-SG ;
 :	NMN-SG/PL	;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_SEL1ME-PL
 	NMN-PL ;
@@ -313,13 +319,13 @@ LEXICON NMN_VAL1MIA
 :%^Я2А        NMN-SG  ;
 :%^Я2А        NMN-PL  ;
 :%^Я2А        NMN-SG/PL       ;
-:%^Я2А SP-LAT-INDEF_в ;
+:%^Я2А SP-LAT-INDEF ;
 
 LEXICON NMN_VAL1MIA-SG
 +Sg+Nom+Indef: K ;
 :%^Я2А        NMN-SG ;
 :%^Я2А        NMN-SG/PL       ;
-:%^Я2А SP-LAT-INDEF_в ;
+:%^Я2А SP-LAT-INDEF ;
 
 LEXICON NMN_VAL1MIA-PL
 :%^Я2А        NMN-PL ;
@@ -329,13 +335,13 @@ LEXICON NMN_MOKSHA
 :        NMN-SG  ;
 :        NMN-PL  ;
 :        NMN-SG/PL       ;
-: SP-LAT-INDEF_в ;
+: SP-LAT-INDEF ;
 
 LEXICON NMN_MOKSHA-SG
 +Sg+Nom+Indef: K ;
 :        NMN-SG ;
 :        NMN-SG/PL       ;
-: SP-LAT-INDEF_в ;
+: SP-LAT-INDEF ;
 
 LEXICON NMN_MOKSHA-PL
 :        NMN-PL ;
@@ -345,13 +351,13 @@ LEXICON NMN_PAKSIA
         NMN-SG  ;
         NMN-PL  ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_PAKSIA-SG
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_PAKSIA-PL
         NMN-PL ;
@@ -366,7 +372,7 @@ NMN-SG/PL   ;
 :%^RmVow NMN-SG ;
 :%^RmVow NMN-PL ;
 :%^RmVow NMN-SG/PL   ;
- SP-LAT-INDEF_в ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_OFTA-SG !!= @CODE@
 +Sg+Nom+Indef: K ;
@@ -396,7 +402,7 @@ LEXICON NMN_KELU-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
@@ -408,7 +414,7 @@ LEXICON NMN_KELU-PL
 !! Indefinite
 !+Pl:в PL-NOM ;
 !! Definite Pl
-!+Pl:в PLCXDEF ;
+!+Pl:в PL-DAT/GEN/NOM-DEF ;
 +Pl:в        NMN-PL       ;
 !        NMN-SG/PL       ;
         NMN_KELU-SG/PL  ;
@@ -424,7 +430,7 @@ LEXICON NMN_KELU-SG/PL
  NOTDEF-ELA ;
  NOTDEF-ABE ;
  NOTDEF-TRA ;
- NOTDEF-CMP ;
+ NOTDEF-CMPR ;
  NOTDEF-PRL ;
 
 LEXICON NMN_ANDY
@@ -440,16 +446,16 @@ LEXICON NMN_ANDY-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
 ! SG-NOM ;
 !! Definite Sg
-:й SGCXDEF ;
+:й SG-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
- SG-CX-PXSG1 ;
- SG-CX-PXSG2 ;
-:й SG-CX-PXSG3 ;
+ SG-DAT/GEN/NOM-PXSG1 ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+:й SG-DAT/GEN/NOM-PXSG3 ;
 !        NMN-SG ;
 !        NMN-SG/PL       ;
         NMN_ANDY-SG/PL  ;
@@ -459,7 +465,7 @@ LEXICON NMN_ANDY-PL
 !! Indefinite
 !+Pl:в PL-NOM ;
 !! Definite Pl
-!+Pl:в PLCXDEF ;
+!+Pl:в PL-DAT/GEN/NOM-DEF ;
 +Pl:й        NMN-PL       ;
 !        NMN-SG/PL       ;
         NMN_ANDY-SG/PL  ;
@@ -470,14 +476,14 @@ LEXICON NMN_ANDY-SG/PL
 :й NOTDEF-CAU ;
  NOTDEF-DAT ;
  NOTDEF-ABL ;
- SP-ILL-INDEF_с ;
-:й SP-ILL-PX_з ;
+ SP-ILL-INDEF ;
+:й SP-ILL-PX ;
  NOTDEF-ILL ;
  NOTDEF-INE ;
  NOTDEF-ELA ;
  NOTDEF-ABE ;
  NOTDEF-TRA ;
- NOTDEF-CMP ;
+ NOTDEF-CMPR ;
  NOTDEF-PRL ;
 
 LEXICON NMN_VAJ
@@ -493,7 +499,7 @@ LEXICON NMN_VAJ-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
@@ -504,7 +510,7 @@ LEXICON NMN_VAJ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
@@ -515,26 +521,26 @@ LEXICON NMN_KAL
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 
 LEXICON NMN_KAL-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 
 LEXICON NMN_KAL-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
@@ -548,7 +554,7 @@ LEXICON NMN_KAL-PL
 ! NOTDEF-ELA ;
 ! NOTDEF-ABE ;
 ! NOTDEF-TRA ;
-! NOTDEF-CMP ;
+! NOTDEF-CMPR ;
 ! NOTDEF-PRL ;
 
 !! Possessor Indices
@@ -566,25 +572,25 @@ LEXICON NMN_KIAL1
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF_и ;
+:%^Ь2ZERO SP-LAT-INDEF ;
 
 
 LEXICON NMN_KIAL1-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF_и ;
+:%^Ь2ZERO SP-LAT-INDEF ;
 
 LEXICON NMN_KIAL1-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
@@ -595,25 +601,25 @@ LEXICON NMN_PINE
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF_и ;
+:%^Ь2ZERO SP-LAT-INDEF ;
 
 
 LEXICON NMN_PINE-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF_и ;
+:%^Ь2ZERO SP-LAT-INDEF ;
 
 LEXICON NMN_PINE-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
@@ -624,24 +630,24 @@ LEXICON NMN_OSH
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_OSH-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
         NMN-SG ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_OSH-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
@@ -652,45 +658,87 @@ LEXICON NMN_SARAZ
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_SARAZ-SG
 !! Indefinite
 ! SG-NOM ;
 !! Definite Sg
-! SGCXDEF ;
+! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
 +Sg+Nom+Indef: K ;
 !!сараз: саразонь
         NMN-SG ;
         NMN-SG/PL       ;
- SP-LAT-INDEF_у ;
+ SP-LAT-INDEF ;
 
 LEXICON NMN_SARAZ-PL
 !! Indefinite
 ! PL-NOM ;
 !! Definite Pl
-! PLCXDEF ;
+! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
         NMN-SG/PL       ;
 
 !! MUTUAL NOMINAL
+LEXICON NMN_DECLENSION-WITH-ONSET-VOWEL
+ PL-NOM-INDEF ;
+ SG-NOM-INDEF ;
+ SG-DAT/GEN/NOM-PXSG1 ;
+
+ SG-DAT/GEN/NOM-PXSG3 ;
+ PL-DAT/GEN/NOM-PXSG3 ;
+ 
+ SP-CAU ;
+ SP-CMPR ;
+ SP-DAT-INDEF ;
+ SP-DAT/GEN/NOM-PXPL1 ;
+ SP-DAT/GEN/NOM-PXPL2 ;
+ SP-GEN-INDEF ;
+ SP-ILL-PX ;
+ SP-LAT-INDEF ;
+ SP-PRL_Ova ;
+ SP-TRA-INDEF_Oks ;
+
+LEXICON NMN_DECLENSION-WITHOUT-ONSET-VOWEL-ALL
+ NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT ;
+  NMN_DECLENSION-WITHOUT-ONSET-VOWEL ;
+  
+
+LEXICON NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT
+ PL-DAT/GEN/NOM-PXSG1 ;
+ SP-TRA-INDEF_ks ;
+
+LEXICON NMN_DECLENSION-WITHOUT-ONSET-VOWEL
+ PL-DAT/GEN/NOM-DEF ;
+ PL-DAT/GEN/NOM-PXSG2 ;
+ PL-NOM-INDEF ;
+ SG-DAT/GEN/NOM-DEF ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+ SP-ABE ;
+ SP-ABL ;
+ SP-DAT/GEN/NOM-PXPL3 ;
+ SP-ELA ;
+ SP-ILL-INDEF ;
+ SP-INE ;
+ SP-PRL_Ga ;
+
 LEXICON NMN-SG
  SG-NOM ;
 !! Definite Sg
- SGCXDEF ;
+ SG-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
- SG-CX-PXSG1 ;
- SG-CX-PXSG2 ;
- SG-CX-PXSG3 ;
+ SG-DAT/GEN/NOM-PXSG1 ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+ SG-DAT/GEN/NOM-PXSG3 ;
 
 LEXICON NMN-PL
  PL-NOM ;
 !! Definite Pl
- PLCXDEF ;
+ PL-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
 ! PXSG1-Pl ;
- PL-CX-PXSG1 ;
+ PL-DAT/GEN/NOM-PXSG1 ;
  PL-CX-PXSG2 ;
  PL-CX-PXSG3 ;
 
@@ -704,7 +752,7 @@ LEXICON NMN-SG/PL
  NOTDEF-ELA ;
  NOTDEF-ABE ;
  NOTDEF-TRA ;
- NOTDEF-CMP ;
+ NOTDEF-CMPR ;
  NOTDEF-PRL ;
 
 !! Possessor Indices
@@ -716,19 +764,19 @@ LEXICON NMN-SG/PL
 LEXICON MUTUAL_NMN-SG
  SG-NOM ;
 !! Definite Sg
- SGCXDEF ;
+ SG-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
- SG-CX-PXSG1 ;
- SG-CX-PXSG2 ;
- SG-CX-PXSG3 ;
+ SG-DAT/GEN/NOM-PXSG1 ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+ SG-DAT/GEN/NOM-PXSG3 ;
 
 LEXICON MUTUAL_NMN-PL
  PL-NOM ;
 !! Definite Pl
- PLCXDEF ;
+ PL-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
 ! PXSG1-Pl ;
- PL-CX-PXSG1 ;
+ PL-DAT/GEN/NOM-PXSG1 ;
  PL-CX-PXSG2 ;
  PL-CX-PXSG3 ;
 
@@ -742,7 +790,7 @@ LEXICON MUTUAL_NMN-SG/PL
  NOTDEF-ELA ;
  NOTDEF-ABE ;
  NOTDEF-TRA ;
- NOTDEF-CMP ;
+ NOTDEF-CMPR ;
  NOTDEF-PRL ;
 !! Possessor Indices
  PXPL1 ;
@@ -753,25 +801,28 @@ LEXICON MUTUAL_NMN-SG/PL
 
 
 
-LEXICON SGCXDEF
+LEXICON SG-DAT/GEN/NOM-DEF
 +Sg+Nom+Def:%>сь K ;
 +Sg+Gen+Def:%>ть K ;
 +Sg+Dat+Def:%>ти K ;
 
 
-LEXICON PLCXDEF
+LEXICON PL-DAT/GEN/NOM-DEF
 +Pl+Nom+Def:%>%{Х%}тне K ;
 +Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь K ;
 +Pl+Dat+Def:%>%{Х%}тне%>нди K ;
 
 
-LEXICON SG-CX-PXSG1
+LEXICON SG-DAT/GEN/NOM-PXSG1
 +Sg+Nom+PxSg1:%>%{ЕОØ%}зе K ;
 +Sg+Gen+PxSg1:%>%{ЕОØ%}зе%>%{ЕОØ%}нь K ;
 +Sg+Dat+PxSg1:%>%{ЕОØ%}зе%>нди K ;
 +Sg+Dat+PxSg1:%>%{ЕОØ%}з%>ти K ;
 
 LEXICON PL-CX-PXSG1
+ PL-DAT/GEN/NOM-PXSG1 ;
+
+LEXICON PL-DAT/GEN/NOM-PXSG1
 +Pl+Nom+PxSg1:%>не K ;
 +Pl+Gen+PxSg1:%>не%>%{ЕОØ%}нь K ;
 +Pl+Dat+PxSg1:%>не%>нди K ;
@@ -779,37 +830,50 @@ LEXICON PL-CX-PXSG1
 !+Pl+Gen+PxSg1:%>%{ЕОØ%}не%>нь K ;
 !+Pl+Dat+PxSg1:%>%{ЕОØ%}не%>нди K ;
 
-LEXICON SG-CX-PXSG2
+LEXICON SG-DAT/GEN/NOM-PXSG2
 +Sg+Nom+PxSg2:%>це K ;
 +Sg+Gen+PxSg2:%>це%>%{ЕОØ%}нь K ;
 +Sg+Dat+PxSg2:%>це%>нди K ; !-ге Бебан, Кирдяшкин, Ларионов, Левчаев, Алёшкин
 +Sg+Dat+PxSg2:%>цти K ; !-ге/вок Бебан, Девин, Кирдяшкин, Кишняшкин, Кудашов, Кузнецов, Ларионов, Левчаев, Макулов, Моисеев, Мокша А 1998, Носиков,  
+
 LEXICON PL-CX-PXSG2
+ PL-DAT/GEN/NOM-PXSG2 ;
+LEXICON PL-DAT/GEN/NOM-PXSG2
 +Pl+Nom+PxSg2:%>%{Х%}тне K ;
 +Pl+Gen+PxSg2:%>%{Х%}тне%>%{ЕОØ%}нь K ;
 +Pl+Dat+PxSg2:%>%{Х%}тне%>нди K ;
 
-LEXICON SG-CX-PXSG3
+LEXICON SG-DAT/GEN/NOM-PXSG3
 +Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
 +Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
 +Sg+Dat+PxSg3:%>%{ЕОØ%}нцты K ;
 LEXICON PL-CX-PXSG3
+ PL-DAT/GEN/NOM-PXSG3 ;
+LEXICON PL-DAT/GEN/NOM-PXSG3
 +Pl+Nom+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
 +Pl+Gen+PxSg3:%>%{ЕОØ%}нз%{АО%}%>%{ЕОØ%}н K ;
 +Pl+Dat+PxSg3:%>%{ЕОØ%}нз%{АО%}%>нды K ;
 
 
 LEXICON PXPL1
+ SP-DAT/GEN/NOM-PXPL1 ;
+LEXICON PXPL2
+ SP-DAT/GEN/NOM-PXPL2 ;
+LEXICON PXPL3
+ SP-DAT/GEN/NOM-PXPL3 ;
+
+
+LEXICON SP-DAT/GEN/NOM-PXPL1
 +SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
 +SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
 +SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
 
-LEXICON PXPL2
+LEXICON SP-DAT/GEN/NOM-PXPL2
 +SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
 +SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
 +SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 
-LEXICON PXPL3
+LEXICON SP-DAT/GEN/NOM-PXPL3
 +SP+Nom+PxPl3:%>сн%{АО%} K ;
 +SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
 +SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
@@ -828,87 +892,83 @@ LEXICON NOTDEF-GEN
 LEXICON NOTDEF-DAT
 +SP+Dat+Indef:%>%{ЕОØ%}нди K ;
 
+LEXICON NOTDEF-ABE
++SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
+
 LEXICON NOTDEF-ABL
 +SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
 
-LEXICON NOTDEF-ILL
- SP-ILL-INDEF_с ;
- SP-ILL-PX_з ;
+LEXICON NOTDEF-CAU
+ SP-CAU ;
 
-LEXICON NOTDEF-INE
-+SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+LEXICON NOTDEF-CMPR
++SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
++SP+Cmpr:%>%{ЕО%}%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-ELA
 +SP+Ela:%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 
-LEXICON NOTDEF-ABE
-+SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
+LEXICON NOTDEF-ILL
+ SP-ILL-INDEF ;
+ SP-ILL-PX ;
+
+LEXICON NOTDEF-INE
++SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+
+LEXICON NOTDEF-PRL
++SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
++SP+Prl:%>гя Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-TRA
 +SP+Tra+Indef:%>%{ЕОØ%}кс K ; !! Ананьина К.И. 2000 53
 +SP+Tra+Indef:%>кс K ; !CHECKME 2017-03-22 $валокс
 
-LEXICON NOTDEF-CAU
-+SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
-
-LEXICON NOTDEF-CMP
-+SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
-+SP+Cmpr:%>%{ЕО%}%>шка Choose-INDEF-OBLPX-ava ;
-
-LEXICON NOTDEF-PRL
-+SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
-+SP+Prl:%>гя Choose-INDEF-OBLPX-ava ;
 
 !!!
 
 LEXICON SG-NOM-INDEF
 +Sg+Nom+Indef: K ;
 
-LEXICON SP-ABE-INDEF_фтома
+LEXICON SP-ABE
 +SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-ABL-INDEF_да
+LEXICON SP-ABL
 +SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-CMP-INDEF_шка
+LEXICON SP-CAU
++SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
+
+LEXICON SP-CMPR
 +SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-DAT-INDEF_нди
-+SP+Dat+Indef:%>нди K ;
+LEXICON SP-DAT-INDEF
++SP+Dat+Indef:%>%{ЕОØ%}нди K ;
 
-LEXICON SP-ELA-INDEF_ста
+LEXICON SP-ELA
 +SP+Ela:%>ст%{АО%} Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-GEN-INDEF_нь
+LEXICON SP-GEN-INDEF
 +SP+Gen+Indef:%>%{ЕОØ%}нь K ;
 
-LEXICON SP-ILL-INDEF_с
+LEXICON SP-ILL-INDEF
 +SP+Ill+Indef:%>с K ;
-LEXICON SP-ILL-PX_з
+LEXICON SP-ILL-PX
 +SP+Ill:%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
 
-LEXICON SP-INE-INDEF_са
+LEXICON SP-INE
 +SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-LAT-INDEF_в
+LEXICON SP-LAT-INDEF
 +SP+Lat+Indef:%>%{ВИУ%} K ;
-!+SP+Lat+Indef:%>в K ;
-LEXICON SP-LAT-INDEF_у
-+SP+Lat+Indef:%>%{ВИУ%} K ;
-!+SP+Lat+Indef:%>у K ;
-LEXICON SP-LAT-INDEF_и
-+SP+Lat+Indef:%>%{ВИУ%} K ;
-!+SP+Lat+Indef:%>и K ;
 
-LEXICON SP-PRL-INDEF_ва
-+SP+Prl:%>ва Choose-INDEF-OBLPX-ava ;
-LEXICON SP-PRL-INDEF_га
+LEXICON SP-PRL_Ova
++SP+Prl:%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
+LEXICON SP-PRL_Ga
 +SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
-LEXICON SP-PRL-INDEF_ка
-+SP+Prl:%>ка Choose-INDEF-OBLPX-ava ;
 
-LEXICON SP-TRA-INDEF_кс
+LEXICON SP-TRA-INDEF_Oks
 +SP+Tra+Indef:%>%{ЕОØ%}кс K ;
+LEXICON SP-TRA-INDEF_ks
 +SP+Tra+Indef:%>кс K ;
 
 LEXICON PL-NOM-INDEF
