@@ -1308,8 +1308,8 @@ LEXICON Prc-fks
 +V+Der/фкс+Pss+Prc: K ;
 
 LEXICON Prc-I
-+V+Der/И+Act+PrsPrc:%>%{ИЫЙ%} K ;
-+V+Der/И+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
++V+Act+PrsPrc:%>%{ИЫЙ%} K ;
++V+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
 +V+Der/Онь+VGen:%>%{ЕОØ%}нь K ;
