@@ -104,7 +104,7 @@ Tests:
      вал+Hom1+N+Sg+Nom+Indef+Foc: валга
      вал+Hom1+N+SP+Gen+Indef+Foc: валоньге
      вал+Hom1+N+SP+Abl+Indef+Foc: валдовок
-     вал+Hom1+N+SP+Dat+Indef+Foc: валондивок
+     вал+Hom1+N+SP+Dat+Indef+Foc: [валондивок, валондиге, валондинге]
      вал+Hom1+N+SP+Abe+Indef+Foc: валфтомовок
      вал+Hom1+N+SP+Cmpr+Indef+Foc: валшкавок
      вал+Hom1+N+SP+Ine+Indef+Foc: валсовок
@@ -116,8 +116,8 @@ Tests:
      вал+Hom1+N+Pl+Nom+PxSg1+Foc: валневок
      вал+Hom1+N+Sg+Gen+PxSg1+Foc: валозеньге
      вал+Hom1+N+Pl+Gen+PxSg1+Foc: валненьге
-     вал+Hom1+N+Sg+Dat+PxSg1+Foc: [валозендивок, валозтивок]
-     вал+Hom1+N+Pl+Dat+PxSg1+Foc: валнендивок
+     вал+Hom1+N+Sg+Dat+PxSg1+Foc: [валозендивок, валозтивок, валозендиге, валозтиге, валозендинге, валозтинге]
+     вал+Hom1+N+Pl+Dat+PxSg1+Foc: [валнендивок, валнендиге, валнендинге]
      вал+Hom1+N+SP+Abl+PxSg1+Foc: валдонга
      вал+Hom1+N+SP+Abe+PxSg1+Foc: валфтомонга
      вал+Hom1+N+SP+Cmpr+PxSg1+Foc: валшканга
@@ -151,7 +151,7 @@ Tests:
      вал+Hom1+N+SP+Prl+PxSg3+Foc: валганзовок
      вал+Hom1+N+SP+Nom+PxPl1+Foc: валонькевок
      вал+Hom1+N+SP+Gen+PxPl1+Foc: валоньконьге
-     вал+Hom1+N+SP+Dat+PxPl1+Foc: валонькондивок
+     вал+Hom1+N+SP+Dat+PxPl1+Foc: [валонькондивок, валонькондиге, валонькондинге]
      вал+Hom1+N+SP+Abl+PxPl1+Foc: валдонковок
      вал+Hom1+N+SP+Abe+PxPl1+Foc: валфтомонковок
      вал+Hom1+N+SP+Cmpr+PxPl1+Foc: валшканковок
@@ -161,7 +161,7 @@ Tests:
      вал+Hom1+N+SP+Prl+PxPl1+Foc: валганковок
      вал+Hom1+N+SP+Nom+PxPl2+Foc: валонтевок
      вал+Hom1+N+SP+Gen+PxPl2+Foc: валонтеньге
-     вал+Hom1+N+SP+Dat+PxPl2+Foc: валонтендивок
+     вал+Hom1+N+SP+Dat+PxPl2+Foc: [валонтендивок, валонтендиге, валонтендинге]
      вал+Hom1+N+SP+Abl+PxPl2+Foc: валдонтовок
      вал+Hom1+N+SP+Abe+PxPl2+Foc: валфтомонтовок
      вал+Hom1+N+SP+Cmpr+PxPl2+Foc: валшкантовок
@@ -182,7 +182,7 @@ Tests:
      вал+Hom1+N+Pl+Nom+Indef+Foc: валхтка
      вал+Hom1+N+Sg+Nom+Def+Foc: валське
      вал+Hom1+N+Sg+Gen+Def+Foc: валтьке
-     вал+Hom1+N+Sg+Dat+Def+Foc: валтивок
+     вал+Hom1+N+Sg+Dat+Def+Foc: [валтивок, валтиге, валтинге]
      вал+Hom1+N+Pl+Nom+Def+Foc: валхневок
      вал+Hom1+N+Pl+Gen+Def+Foc: валхненьге
-     вал+Hom1+N+Pl+Dat+Def+Foc: валхнендивок
+     вал+Hom1+N+Pl+Dat+Def+Foc: [валхнендивок, валхнендиге, валхнендинге]
