@@ -14758,6 +14758,20 @@
 </e>
 <e>
    <lg>
+     <l pos="V">ванондомс</l>
+     <stg>
+       <st Contlex="IV_АНДОМС">ванонд</st>
+     </stg> <phonet>vanəndəms</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">katsella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="V" val="IV">ванонкшнемс</l>
      <stg>
        <st Contlex="IV_КУНДАМС">ванонкшне</st>
@@ -119489,6 +119503,12 @@
      <defNative/>
      <tg xml:lang="fin">
        <t pos="V">katsella pahalla silmällä</t>
+     </tg>
+   </mg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla kateellinen</t>
      </tg>
    </mg>
 </e>
