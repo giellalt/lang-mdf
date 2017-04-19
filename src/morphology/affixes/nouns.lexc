@@ -451,7 +451,8 @@ LEXICON NMN_ANDY-SG
 +Sg+Nom+Indef: K ;
 ! SG-NOM ;
 !! Definite Sg
-:й SG-DAT/GEN/NOM-DEF ;
+: SG-DAT/GEN/NOM-DEF ;
+!:й SG-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
  SG-DAT/GEN/NOM-PXSG1 ;
  SG-DAT/GEN/NOM-PXSG2 ;
@@ -466,7 +467,7 @@ LEXICON NMN_ANDY-PL
 !+Pl:в PL-NOM ;
 !! Definite Pl
 !+Pl:в PL-DAT/GEN/NOM-DEF ;
-+Pl:й        NMN-PL       ;
+:й        NMN-PL       ;
 !        NMN-SG/PL       ;
         NMN_ANDY-SG/PL  ;
 
@@ -864,19 +865,38 @@ LEXICON PXPL3
 
 
 LEXICON SP-DAT/GEN/NOM-PXPL1
-+SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-+SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
+!+SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
+!+SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
+!+SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
++Sg+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
++Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
++Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
++Pl+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
++Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
++Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
+
 
 LEXICON SP-DAT/GEN/NOM-PXPL2
-+SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-+SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
+!+SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
+!+SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
+!+SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
++Sg+Nom+PxPl2:%>%{ЕОØ%}нте K ;
++Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
++Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
++Pl+Nom+PxPl2:%>%{ЕОØ%}нте K ;
++Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
++Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 
 LEXICON SP-DAT/GEN/NOM-PXPL3
-+SP+Nom+PxPl3:%>сн%{АО%} K ;
-+SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-+SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
+!+SP+Nom+PxPl3:%>сн%{АО%} K ;
+!+SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
+!+SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
++Sg+Nom+PxPl3:%>сн%{АО%} K ;
++Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
++Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
++Pl+Nom+PxPl3:%>сн%{АО%} K ;
++Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
++Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
 
 
 
