@@ -4,138 +4,268 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-      <xg>
-        <x>илядень зарят</x>
+      <e>
+   <lg>
+     <l pos="Adv">илядень зарят</l>
+     <stg>
+       <st Contlex="ADV_">илядень зарят</st>
+     </stg>
+   <phonet>iľäďəń zaŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">iltahämärissä</t>
+       <t pos="Adv">hämärän aikaan</t>
+     </tg>
+   </mg>
+</e>
+      <e>
+   <lg>
+     <l pos="Adv">илядень зарят</l>
+     <stg>
+       <st Contlex="ADV_">илядень зарят</st>
+     </stg>
+   <phonet>iľäďəń zaŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">iltahämärän aikaan</t>
+     </tg>
+   </mg>
+</e>
 
-        <phonet>iľäďəń zaŕat</phonet>
+      <e>
+   <lg>
+     <l pos="Adv">кундань кятть</l>
+     <stg>
+       <st Contlex="ADV_">кундань кятть</st>
+     </stg>
+   <phonet>kundań käťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">toistensa käteen tarttuen</t>
+     </tg>
+   </mg>
+</e>
 
-        <xt xml:lang="fin">iltahämärissä, hämärän aikaan.</xt>
-      </xg>
-      <xg>
-        <x>илядень зарят</x>
+      <e>
+   <lg>
+     <l pos="Adv">сусконь пейхть</l>
+     <stg>
+       <st Contlex="ADV_">сусконь пейхть</st>
+     </stg>
+   <phonet>suskəń pejxť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">hammasta purren</t>
+     </tg>
+   </mg>
+</e>
 
-        <phonet>iľäďəń zaŕat</phonet>
+      <e>
+   <lg>
+     <l pos="Adv">потань пилькт</l>
+     <stg>
+       <st Contlex="ADV_">потань пилькт</st>
+     </stg>
+   <phonet>potań piľkt</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">takaperin</t>
+     </tg>
+     <xg>
+       <x>потань пилькт моли</x>
+       <phonet>potań piľkt moľi</phonet>
+       <xt xml:lang="fin">peruuttaa</xt>
+       <xt xml:lang="fin">kulkee takaperin</xt>
+     </xg>
+     </tg>
+   </mg>
+</e>
 
-        <xt xml:lang="fin">iltahämärän aikaan.</xt>
-      </xg>
+      <e>
+   <lg>
+     <l pos="Adv">нолдань прят</l>
+     <stg>
+       <st Contlex="ADV_">нолдань прят</st>
+     </stg>
+   <phonet>noldań pŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">pää painuksissa</t>
+     </tg>
+   </mg>
+</e>
 
-      <xg>
-        <x>кундань кятть</x>
+      <e>
+   <lg>
+     <l pos="Adv">пиженянь прят</l>
+     <stg>
+       <st Contlex="ADV_">пиженянь прят</st>
+     </stg>
+   <phonet>pižəńäń pŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">lapsuudessa</t>
+       <t pos="Adv">lapsuusaikana</t>
+     </tg>
+   </mg>
+</e>
 
-        <phonet>kundań käťť</phonet>
+      <e>
+   <lg>
+     <l pos="Adv">штада прят</l>
+     <stg>
+       <st Contlex="ADV_">штада прят</st>
+     </stg>
+   <phonet>štadə pŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paljain päin</t>
+     </tg>
+   </mg>
+</e>
 
-        <xt xml:lang="fin">toistensa käteen tarttuen.</xt>
-      </xg>
+      <e>
+   <lg>
+     <l pos="Adv">кенярдень седихть</l>
+     <stg>
+       <st Contlex="ADV_">кенярдень седихть</st>
+     </stg>
+   <phonet>keńäŕďəń śeďixť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">ilolla</t>
+       <t pos="Adv">iloisesti</t>
+     </tg>
+   </mg>
+</e>
 
-      <xg>
-        <x>сусконь пейхть</x>
+      <e>
+   <lg>
+     <l pos="Adv">конень сельмот</l>
+     <stg>
+       <st Contlex="ADV_">конень сельмот</st>
+     </stg>
+   <phonet>końəń śeľmət</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">silmät kiinni</t>
+       <t pos="Adv">suljetuin silmin</t>
+     </tg>
+   </mg>
+</e>
 
-        <phonet>suskəń pejxť</phonet>
+      <e>
+   <lg>
+     <l pos="Adv">стядонь пилет</l>
+     <stg>
+       <st Contlex="ADV_">стядонь пилет</st>
+     </stg>
+   <phonet>śťadəń piľət</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">höristellen korviaan</t>
+     </tg>
+   </mg>
+</e>
 
-        <xt xml:lang="fin">hammasta purren.</xt>
-      </xg>
+      <e>
+   <lg>
+     <l pos="Adv">стядонь сельмот</l>
+     <stg>
+       <st Contlex="ADV_">стядонь сельмот</st>
+     </stg>
+   <phonet>śťadəń śeľmət</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">siristellen silmiään</t>
+     </tg>
+   </mg>
+</e>
 
-      <xg>
-        <x>потань пилькт моли</x>
+      <e>
+   <lg>
+     <l pos="Adv">стядонь тутмат</l>
+     <stg>
+       <st Contlex="ADV_">стядонь тутмат</st>
+     </stg>
+   <phonet>śťadəń tutmat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">röyhistäen rintaansa</t>
+     </tg>
+   </mg>
+</e>
+      <e>
+   <lg>
+     <l pos="Adv">штадонь кятть</l>
+     <stg>
+       <st Contlex="ADV_">штадонь кятть</st>
+     </stg>
+   <phonet>štadəń käťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paljain käsin</t>
+     </tg>
+   </mg>
+</e>
 
-        <phonet>potań piľkt moľi</phonet>
+      <e>
+   <lg>
+     <l pos="Adv">штадонь прят</l>
+     <stg>
+       <st Contlex="ADV_">штадонь прят</st>
+     </stg>
+   <phonet>štadəń pŕat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paljain päin</t>
+     </tg>
+   </mg>
+</e>
+      <e>
+   <lg>
+     <l pos="Adv">шава кятть</l>
+     <stg>
+       <st Contlex="ADV_">шава кятть</st>
+     </stg>
+   <phonet>šavə käťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">tyhjin käsin</t>
+     </tg>
+   </mg>
+</e>
 
-        <xt xml:lang="fin">peruuttaa, kulkee takaperin.</xt>
-      </xg>
-
-      <xg>
-        <x>нолдань прят</x>
-
-        <phonet>noldań pŕat</phonet>
-
-        <xt xml:lang="fin">pää painuksissa.</xt>
-      </xg>
-
-      <xg>
-        <x>пиженянь прят</x>
-
-        <phonet>pižəńäń pŕat</phonet>
-
-        <xt xml:lang="fin">lapsuudessa, lapsuusaikana.</xt>
-      </xg>
-
-      <xg>
-        <x>штада прят</x>
-
-        <phonet>štadə pŕat</phonet>
-
-        <xt xml:lang="fin">paljain päin.</xt>
-      </xg>
-
-      <xg>
-        <x>кенярдень седихть</x>
-
-        <phonet>keńäŕďəń śeďixť</phonet>
-
-        <xt xml:lang="fin">ilolla, iloisesti.</xt>
-      </xg>
-
-      <xg>
-        <x>конень сельмот</x>
-
-        <phonet>końəń śeľmət</phonet>
-
-        <xt xml:lang="fin">silmät kiinni, suljetuin silmin.</xt>
-      </xg>
-
-      <xg>
-        <x>стядонь пилет</x>
-
-        <phonet>śťadəń piľət</phonet>
-
-        <xt xml:lang="fin">höristellen korviaan.</xt>
-      </xg>
-
-      <xg>
-        <x>стядонь сельмот</x>
-
-        <phonet>śťadəń śeľmət</phonet>
-
-        <xt xml:lang="fin">siristellen silmiään.</xt>
-      </xg>
-
-      <xg>
-        <x>стядонь тутмат</x>
-
-        <phonet>śťadəń tutmat</phonet>
-
-        <xt xml:lang="fin">röyhistäen rintaansa.</xt>
-      </xg>
-      <xg>
-        <x>штадонь кятть</x>
-
-        <phonet>štadəń käťť</phonet>
-
-        <xt xml:lang="fin">paljain käsin.</xt>
-      </xg>
-
-      <xg>
-        <x>штадонь прят</x>
-
-        <phonet>štadəń pŕat</phonet>
-
-        <xt xml:lang="fin">paljain päin.</xt>
-      </xg>
-      <xg>
-        <x>шава кятть</x>
-
-        <phonet>šavə käťť</phonet>
-
-        <xt xml:lang="fin">tyhjin käsin.</xt>
-      </xg>
-
-      <xg>
-        <x>штада кятть</x>
-
-        <phonet>štadə käťť</phonet>
-
-        <xt xml:lang="fin">paljain käsin.</xt>
-      </xg>
+      <e>
+   <lg>
+     <l pos="Adv">штада кятть</l>
+     <stg>
+       <st Contlex="ADV_">штада кятть</st>
+     </stg>
+   <phonet>štadə käťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paljain käsin</t>
+     </tg>
+   </mg>
+</e>
 
 
 </r>
