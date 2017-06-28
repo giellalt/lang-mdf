@@ -4,47 +4,105 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-      <xg>
-        <x>акша куд</x>
-
-        <phonet>akša kud</phonet>
-
-        <xt xml:lang="fin">1. valkoinen talo. 2. vankila.</xt>
-      </xg>
-      <xg>
-        <x>акша келе</x>
-
-        <phonet>akša keľä</phonet>
-
-        <xt xml:lang="fin">1. valkea liina. 2.pienen lapsen verkapeite.</xt>
-      </xg>
-      <xg>
-        <x>аляфтома-тядяфтома идь</x>
-
-        <phonet>aľaftəmə-ďäďaftəm(ə) iď</phonet>
-
-        <xt xml:lang="fin">orpolapsi.</xt>
-      </xg>
-      <xg>
-        <x>апрель ков</x>
-
-        <phonet>apŕeľ kov</phonet>
-
-        <xt xml:lang="fin">huhtikuu.</xt>
-      </xg>
-      <xg>
-        <x>прянь аралама</x>
-
-        <phonet>pŕäń aralama</phonet>
-
-        <xt xml:lang="fin">puolustautuminen, itsesuojelu.</xt>
-      </xg>
-      <xg>
-        <x>илиень байдек</x>
-
-        <phonet>iľijəń bajďək</phonet>
-
-        <xt xml:lang="fin">palikka; puikko.</xt>
-      </xg>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">акша куд</l>
+     <stg>
+       <st Contlex="N_">акша куд</st>
+     </stg>
+   <phonet>akša kud</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">valkoinen talo</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">vankila</t>
+     </tg>
+   </mg>
+</e>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">акша келе</l>
+     <stg>
+       <st Contlex="N_">акша келе</st>
+     </stg>
+   <phonet>akša keľä</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">valkea liina</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">pienen lapsen verkapeite</t>
+     </tg>
+   </mg>
+</e>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">аляфтома-тядяфтома идь</l>
+     <stg>
+       <st Contlex="N_">аляфтома-тядяфтома идь</st>
+     </stg>
+   <phonet>aľaftəmə-ďäďaftəm(ə) iď</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">orpolapsi</t>
+     </tg>
+   </mg>
+</e>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">апрель ков</l>
+     <stg>
+       <st Contlex="N_">апрель ков</st>
+     </stg>
+   <phonet>apŕeľ kov</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">huhtikuu</t>
+     </tg>
+   </mg>
+</e>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">прянь аралама</l>
+     <stg>
+       <st Contlex="N_">прянь аралама</st>
+     </stg>
+   <phonet>pŕäń aralama</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">puolustautuminen</t>
+       <t pos="N">itsesuojelu</t>
+     </tg>
+   </mg>
+</e>
+      <e exclude="fst">
+   <lg>
+     <l pos="N">илиень байдек</l>
+     <stg>
+       <st Contlex="N_">илиень байдек</st>
+     </stg>
+   <phonet>iľijəń bajďək</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">palikka</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">puikko</t>
+     </tg>
+   </mg>
+</e>
 
 </r>
