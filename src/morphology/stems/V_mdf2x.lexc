@@ -2161,7 +2161,7 @@ LEXICON V_mdf2x
 иллюстрировандафнемс:иллюстрировандафне TV_КУНДАМС  "kuvittaa" ;
 ильхнекшнемс:ильхнекшне IV_КУНДАМС  "saatella" ;
 ильхнемс:ильхне IV_КУНДАМС  "viettää läksiäisiä" ;
-ильхтевомс:ильхтев IV_АНДОВОМС  "tulla saatetuksivoida saattaa" ;
+ильхтевомс:ильхтев IV_АНДОВОМС  "tulla saatetuksi" ;
 ильхтемс:ильхть TV_АЛЫЯФТОМС  "saattaa" ;
 ильхтьфнемс:ильхтьфне TV_КУНДАМС  "panna saattamaan" ;
 ильхтьфтемс:ильхтьфть IV_НЯФТЕМС  "panna saattamaan" ;
@@ -8724,13 +8724,9 @@ LEXICON V_mdf2x
 стакалгодомс:стакалгод IV_АНДОМС  "tulla painavammaksi/vaikeammaksi, vaikeutua" ;
 стакалгодомс+Use/SpellNoSugg:сътакалгод IV_АНДОМС  "tulla painavammaksi/vaikeammaksi, vaikeutua" ;
 стакалготкшнемс:стакалготкшне IV_КУНДАМС  "tulla painavammaksi/vaikeammaksi, vaikeutua" ;
-стакалготкшнемс+Use/SpellNoSugg:сътакалготкшне IV_КУНДАМС  "tulla painavammaksi/vaikeammaksi, vaikeutua" ;
 стакалгофнемс:стакалгофне TV_КУНДАМС  "vaikeuttaa" ;
-стакалгофнемс+Use/SpellNoSugg:сътакалгофне TV_КУНДАМС  "vaikeuttaa" ;
 стакалгофтомс:стакалгофт TV_АЛЫЯФТОМС  "vaikeuttaa" ;
-стакалгофтомс+Use/SpellNoSugg:сътакалгофт TV_АЛЫЯФТОМС  "vaikeuttaa" ;
 стакшнемс:стакшне IV_КУНДАМС  "ommella" ;
-стакшнемс+Use/SpellNoSugg:сътакшне IV_КУНДАМС  "ommella" ;
 сталгадомс:сталгад IV_АНДОМС  "vaikeutua" ;
 сталгадомс+Use/SpellNoSugg:съталгад IV_АНДОМС  "vaikeutua" ;
 сталгодовомс:сталгодов IV_АНДОВОМС  "voida väsyä" ;
@@ -8738,7 +8734,6 @@ LEXICON V_mdf2x
 сталгодомс:сталгод IV_АНДОМС  "tulla painavammaksi" ;
 сталгодомс+Use/SpellNoSugg:съталгод IV_АНДОМС  "tulla painavammaksi" ;
 сталготкшнемс:сталготкшне IV_КУНДАМС  "tulla painavammaksi" ;
-сталготкшнемс+Use/SpellNoSugg:съталготкшне IV_КУНДАМС  "tulla painavammaksi" ;
 сталгофтомс:сталгофт TV_АЛЫЯФТОМС  "tehdä painavammaksi" ;
 сталгофтомс+Use/SpellNoSugg:съталгофт TV_АЛЫЯФТОМС  "tehdä painavammaksi" ;
 стамс:ста TV_КУНДАМС  "ommella; parsia, paikata" ;
@@ -8842,7 +8837,6 @@ LEXICON V_mdf2x
 строчиндафнемс:строчиндафне TV_КУНДАМС  "panna tikkaamaan" ;
 строчиндафнемс+Use/SpellNoSugg:сътрочиндафне TV_КУНДАМС  "panna tikkaamaan" ;
 строякшнемс:строякшне IV_КУНДАМС  "rakentaa" ;
-строякшнемс+Use/SpellNoSugg:сътроякшне IV_КУНДАМС  "rakentaa" ;
 строямс:строя IV_КУНДАМС  "rakentaa" ;
 строямс+Use/SpellNoSugg:сътроя IV_КУНДАМС  "rakentaa" ;
 строяфнемс:строяфне TV_КУНДАМС  "rakennuttaa" ;
@@ -8856,7 +8850,6 @@ LEXICON V_mdf2x
 стрякандамс:стряканда IV_КУНДАМС  "hävetä" ;
 стрякандамс+Use/SpellNoSugg:сътряканда IV_КУНДАМС  "hävetä" ;
 стряндакшнемс:стряндакшне IV_КУНДАМС  "aavistella" ;
-стряндакшнемс+Use/SpellNoSugg:сътряндакшне IV_КУНДАМС  "aavistella" ;
 стряндамс:стрянда IV_КУНДАМС  "aavistaa" ;
 стряндамс+Use/SpellNoSugg:сътрянда IV_КУНДАМС  "aavistaa" ;
 стрянондамс:стрянонда IV_КУНДАМС  "huomata" ;
@@ -8888,13 +8881,11 @@ LEXICON V_mdf2x
 стякшневомс:стякшнев IV_АНДОВОМС  "voida nousta" ;
 стякшневомс+Use/SpellNoSugg:сътякшнев IV_АНДОВОМС  "voida nousta" ;
 стякшнемс:стякшне IV_КУНДАМС  "nousta ylös" ;
-стякшнемс+Use/SpellNoSugg:сътякшне IV_КУНДАМС  "nousta ylös" ;
 стямс:стя IV_КУНДАМС  "nousta" ;
 стямс+Use/SpellNoSugg:сътя IV_КУНДАМС  "nousta" ;
 стяфневомс:стяфнев IV_АНДОВОМС  "tulla herätetyksi" ;
 стяфневомс+Use/SpellNoSugg:сътяфнев IV_АНДОВОМС  "tulla herätetyksi" ;
 стяфнемс:стяфне TV_КУНДАМС  "pysäyttää" ;
-стяфнемс+Use/SpellNoSugg:сътяфне TV_КУНДАМС  "pysäyttää" ;
 стяфтовомс:стяфтов IV_АНДОВОМС  "tulla pysäytetyksi" ;
 стяфтовомс+Use/SpellNoSugg:сътяфтов IV_АНДОВОМС  "tulla pysäytetyksi" ;
 стяфтомс:стяфт TV_АЛЫЯФТОМС  "seisauttaa" ;
