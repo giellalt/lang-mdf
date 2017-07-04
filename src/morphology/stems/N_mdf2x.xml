@@ -11041,6 +11041,10 @@
      <stg>
        <st Contlex="N_PANGA">вальмя#ланг%{АОØ%}</st>
      </stg> <phonet>vaľmälaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">вальмя</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -11099,6 +11103,10 @@
      <stg>
        <st Contlex="N_SEL1ME">вальмя#сельм%{ЕО%}</st>
      </stg> <phonet>vaľmäśeľmä</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">вальмя</comp>
+      <comp ord="E2" pos="N">сельме</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -12378,6 +12386,10 @@
      <stg>
        <st Contlex="N_KAL">ватракшкуд</st>
      </stg> <phonet>vatrakškud</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">ватракш</comp>
+      <comp ord="E2" pos="N">куд</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -13580,7 +13592,7 @@
      </xg>
      <xg> <x>веронь шокши лопа</x> <phonet>verəń šokši lopa</phonet>
        <xt xml:lang="fin">ratamo</xt>
-       <xt xml:lang="lat">(Plantago)</xt>
+       <xt xml:lang="lat">Plantago</xt>
      </xg>
      <xg> <x>веронь шудема</x> <phonet>verəń šuďəma</phonet>
        <xt xml:lang="fin">verenvuoto</xt>
@@ -13627,7 +13639,7 @@
        <t pos="N">paju</t>
      </tg>
      <tg xml:lang="lat">
-       <t pos="N">(Salix)</t>
+       <t pos="N">Salix</t>
      </tg>
    </mg>
 </e>
@@ -13668,6 +13680,10 @@
      <stg>
        <st Contlex="N_PINGE">вермяшть%{ЕØ%}</st>
      </stg> <phonet>vermäšťä</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">вер</comp>
+      <comp ord="E2" pos="N">мяште</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -13675,7 +13691,7 @@
        <t pos="N">punatulkku</t>
      </tg>
      <tg xml:lang="lat">
-       <t pos="N">(Pyrrhula pyrrhula)</t>
+       <t pos="N">Pyrrhula pyrrhula</t>
      </tg>
    </mg>
 </e>
@@ -13745,7 +13761,12 @@
      <l pos="N">версан</l>
      <stg>
        <st Contlex="N_KAL">версан</st>
-     </stg> <phonet>versan</phonet>
+     </stg>
+     <phonet>versan</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">вер</comp>
+      <comp ord="E2" pos="N">сан</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -14294,17 +14315,17 @@
 </e>
 <e>
    <lg>
-     <l pos="N">вийфтома</l>
+     <l pos="A">вийфтома</l>
      <stg>
-       <st Contlex="N_AVA">вийфтома</st>
+       <st Contlex="A_AVA">вийфтома</st>
      </stg> <phonet>vijftəma</phonet>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="N">voimaton</t>
-       <t pos="N">vähävoimainen</t>
-       <t pos="N">heikko</t>
+       <t pos="A">voimaton</t>
+       <t pos="A">vähävoimainen</t>
+       <t pos="A">heikko</t>
      </tg>
    </mg>
 </e>
@@ -29764,6 +29785,10 @@
      <stg>
        <st Contlex="N_PANGA">калмо#ланг%{АОØ%}</st>
      </stg> <phonet>kalməlaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom1">калма</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -29779,6 +29804,10 @@
      <stg>
        <st Contlex="N_KAL">калмомар</st>
      </stg> <phonet>kalməmar</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom1">калма</comp>
+      <comp ord="E2" pos="N">мар</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -33428,6 +33457,10 @@
      <stg>
        <st Contlex="N_KAL">кевкуд</st>
      </stg> <phonet>kevgud</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">кев</comp>
+      <comp ord="E2" pos="N">куд</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -34292,6 +34325,10 @@
      <stg>
        <st Contlex="N_PANGA">кенкш#ланг%{АОØ%}</st>
      </stg> <phonet>keŋkšlaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">кенкш</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -40962,6 +40999,10 @@
      <stg>
        <st Contlex="N_KAL">кудазор</st>
      </stg> <phonet>kudazər</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">азор</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -40976,6 +41017,10 @@
      <stg>
        <st Contlex="N_AVA">кудазорава</st>
      </stg> <phonet>kudazərava</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">азорава</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -41018,6 +41063,10 @@
      <stg>
        <st Contlex="N_AVA">кудбока</st>
      </stg> <phonet>kudboka</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">бока</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -41033,6 +41082,10 @@
      <stg>
        <st Contlex="N_SEL1ME">куд#ботм%{АО%}</st>
      </stg> <phonet>kudbotma</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">потма</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -41048,6 +41101,10 @@
      <stg>
        <st Contlex="N_OFTA">куд#васт%{АОØ%}</st>
      </stg> <phonet>kudvasta</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">васта</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -41062,6 +41119,10 @@
      <stg>
        <st Contlex="N_KAL">куднумол</st>
      </stg> <phonet>kudnuməl</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">куд</comp>
+      <comp ord="E2" pos="N">нумол</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -48929,6 +48990,10 @@
      <stg>
        <st Contlex="N_PANGA">лофцо#ланг%{АОØ%}</st>
      </stg> <phonet>lofcəlaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom1">лофца</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -52484,6 +52549,10 @@
      <stg>
        <st Contlex="N_KAL">медькуд</st>
      </stg> <phonet>meďkud</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">медь</comp>
+      <comp ord="E2" pos="N">куд</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -52498,6 +52567,10 @@
      <stg>
        <st Contlex="N_OSH-PL">медь#кяряз</st>
      </stg> <phonet>meďkäŕast</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">медь</comp>
+      <comp ord="E2" pos="N">кяряз</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -61404,6 +61477,10 @@
      <stg>
        <st Contlex="N_PANGA">орта#ланг%{АОØ%}</st>
      </stg> <phonet>ortalaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">орта</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -63788,6 +63865,10 @@
      <stg>
        <st Contlex="N_PANGA">пандо#ланг%{АОØ%}</st>
      </stg> <phonet>pandəlaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom1">панда</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -65489,6 +65570,10 @@
      <stg>
        <st Contlex="N_KAL">пенгякуд</st>
      </stg> <phonet>peŋgäkud</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">пенгя</comp>
+      <comp ord="E2" pos="N">куд</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -69089,6 +69174,10 @@
      <stg>
        <st Contlex="N_PANGA">полка#ланг%{АОØ%}</st>
      </stg> <phonet>polkalaŋga, bolkalaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">полка</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -75635,6 +75724,10 @@
      <stg>
        <st Contlex="N_KAL">пянакуд</st>
      </stg> <phonet>pänakud, päńakud, pätnagəd</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">пяна</comp>
+      <comp ord="E2" pos="N">куд</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -75655,7 +75748,11 @@
      <stg>
        <st Contlex="N_PANGA">пяна#куд#ланг%{АОØ%}</st>
      </stg> <phonet>pänakudlaŋga</phonet>
-   </lg>
+          <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">пянакуд</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
+</lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
@@ -80605,6 +80702,10 @@
      <stg>
        <st Contlex="N_KAL">саразал</st>
      </stg> <phonet>sarazal</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">сараз</comp>
+      <comp ord="E2" pos="N">ал</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -94088,6 +94189,10 @@
      <stg>
        <st Contlex="N_PANGA">тинге#ланг%{АОØ%}</st>
      </stg> <phonet>ťińgəlaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">тинге</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -94852,6 +94957,10 @@
      <stg>
        <st Contlex="N_PANGA">томбам#ланг%{АОØ%}</st>
      </stg> <phonet>tombamlaŋga, tombalaŋga</phonet>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">томбам</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
@@ -119313,6 +119422,10 @@
      <stg>
        <st Contlex="N_PANGA">пятналанг%{АОØ%}</st>
      </stg>
+     <compg type="Cmp" drv="N:N»N">
+      <comp ord="E1" pos="N" ms="Sg.Nom">пятна</comp>
+      <comp ord="E2" pos="N">ланга</comp>
+    </compg>
    </lg>
    <mg>
      <defNative/>
