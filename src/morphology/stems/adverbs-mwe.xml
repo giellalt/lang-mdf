@@ -4,11 +4,11 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst"> <lg><l pos="Adv">кода эряви</l><l_ref>эрявомс</l_ref><stg><st>кода эряви</st></stg> <phonet>koda eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t>asianmukaisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">мяляфтовиста</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтовиста</st></stg> <phonet>mäľaftəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ikimuistoisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">сярядиста</l><l_ref>сярядемс</l_ref><stg><st>сярядиста</st></stg> <phonet>śäŕäďista</phonet> </lg><mg><tg xml:lang="fin"><t>tuskallisesti, kivulloisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">удалафста</l><l_ref>удаламс</l_ref><stg><st>удалафста</st></stg> <phonet>udalafsta</phonet> </lg><mg><tg xml:lang="fin"><t>onnistuneesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ymmärrettävästi, selvästi</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">кода эряви</l><l_ref>эрявомс</l_ref><stg><st>кода эряви</st></stg> <phonet>koda eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">asianmukaisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">мяляфтовиста</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтовиста</st></stg> <phonet>mäľaftəvista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">ikimuistoisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">сярядиста</l><l_ref>сярядемс</l_ref><stg><st>сярядиста</st></stg> <phonet>śäŕäďista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">tuskallisesti, kivulloisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">удалафста</l><l_ref>удаламс</l_ref><stg><st>удалафста</st></stg> <phonet>udalafsta</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">onnistuneesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">ymmärrettävästi, selvästi</t></tg></mg></e>
   <e exclude="fst">
     <lg>
       <l pos="Adv">аксяла</l>
@@ -24,7 +24,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lavitsan alla</t>
+        <t pos="Adv">lavitsan alla</t>
       </tg>
     </mg>
   </e>
@@ -44,7 +44,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lavitsan alle</t>
+        <t pos="Adv">lavitsan alle</t>
       </tg>
     </mg>
   </e>
@@ -64,7 +64,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>aakkosjärjestyksessä</t>
+        <t pos="Adv">aakkosjärjestyksessä</t>
       </tg>
     </mg>
   </e>
@@ -84,7 +84,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vanhaan tapaan</t>
+        <t pos="Adv">vanhaan tapaan</t>
       </tg>
     </mg>
   </e>
@@ -104,9 +104,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kauhistuneella äänellä</t>
+        <t pos="Adv">kauhistuneella äänellä</t>
 
-        <t>pelästyneellä äänellä</t>
+        <t pos="Adv">pelästyneellä äänellä</t>
       </tg>
     </mg>
   </e>
@@ -126,9 +126,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lakitta</t>
+        <t pos="Adv">lakitta</t>
 
-        <t>ilman lakkia</t>
+        <t pos="Adv">ilman lakkia</t>
       </tg>
     </mg>
   </e>
@@ -148,7 +148,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>koko sydämestään ja sielustaan</t>
+        <t pos="Adv">koko sydämestään ja sielustaan</t>
       </tg>
     </mg>
   </e>
@@ -168,9 +168,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>halunsa mukaan</t>
+        <t pos="Adv">halunsa mukaan</t>
 
-        <t>miten miellyttää</t>
+        <t pos="Adv">miten miellyttää</t>
       </tg>
     </mg>
   </e>
@@ -190,7 +190,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>täydessä sovussa</t>
+        <t pos="Adv">täydessä sovussa</t>
       </tg>
     </mg>
   </e>
@@ -210,9 +210,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>sanasta sanaan</t>
+        <t pos="Adv">sanasta sanaan</t>
 
-        <t>sanatarkasti</t>
+        <t pos="Adv">sanatarkasti</t>
       </tg>
     </mg>
   </e>
@@ -232,9 +232,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>loitsuillaan</t>
+        <t pos="Adv">loitsuillaan</t>
 
-        <t>taikasanoillaan</t>
+        <t pos="Adv">taikasanoillaan</t>
       </tg>
     </mg>
   </e>
@@ -254,9 +254,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>paikkaan</t>
+        <t pos="Adv">paikkaan</t>
 
-        <t>paikalle</t>
+        <t pos="Adv">paikalle</t>
       </tg>
     </mg>
   </e>
@@ -276,7 +276,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kylän reunalla</t>
+        <t pos="Adv">kylän reunalla</t>
       </tg>
     </mg>
   </e>
@@ -296,7 +296,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kylän laidalla</t>
+        <t pos="Adv">kylän laidalla</t>
       </tg>
     </mg>
   </e>
@@ -316,7 +316,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ulkona</t>
+        <t pos="Adv">ulkona</t>
       </tg>
     </mg>
   </e>
@@ -336,7 +336,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>viiden metrin pituudelta</t>
+        <t pos="Adv">viiden metrin pituudelta</t>
       </tg>
     </mg>
   </e>
@@ -356,7 +356,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>oikealla puolella</t>
+        <t pos="Adv">oikealla puolella</t>
       </tg>
     </mg>
   </e>
@@ -376,9 +376,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>voimalla</t>
+        <t pos="Adv">voimalla</t>
 
-        <t>voimin</t>
+        <t pos="Adv">voimin</t>
       </tg>
     </mg>
   </e>
@@ -398,9 +398,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>solisten; liristen</t>
+        <t pos="Adv">solisten; liristen</t>
 
-        <t>loristen</t>
+        <t pos="Adv">loristen</t>
       </tg>
     </mg>
   </e>
@@ -420,7 +420,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kovaan ääneen</t>
+        <t pos="Adv">kovaan ääneen</t>
       </tg>
     </mg>
   </e>
@@ -440,9 +440,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>imartelivat</t>
+        <t pos="Adv">imartelivat</t>
 
-        <t>mielistelivät</t>
+        <t pos="Adv">mielistelivät</t>
       </tg>
     </mg>
   </e>
@@ -462,7 +462,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>haudalla; haudan äärellä</t>
+        <t pos="Adv">haudalla; haudan äärellä</t>
       </tg>
     </mg>
   </e>
@@ -482,7 +482,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>tyhjän takia</t>
+        <t pos="Adv">tyhjän takia</t>
       </tg>
     </mg>
   </e>
@@ -502,9 +502,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vastassa</t>
+        <t pos="Adv">vastassa</t>
 
-        <t>vastatusten</t>
+        <t pos="Adv">vastatusten</t>
       </tg>
     </mg>
   </e>
@@ -524,7 +524,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kahden metrin korkeudessa</t>
+        <t pos="Adv">kahden metrin korkeudessa</t>
       </tg>
     </mg>
   </e>
@@ -544,7 +544,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kaksipäinen</t>
+        <t pos="Adv">kaksipäinen</t>
       </tg>
     </mg>
   </e>
@@ -564,7 +564,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kahtia</t>
+        <t pos="Adv">kahtia</t>
       </tg>
     </mg>
   </e>
@@ -584,7 +584,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>(taittaa) kaksinkerroin</t>
+        <t pos="Adv">(taittaa) kaksinkerroin</t>
       </tg>
     </mg>
   </e>
@@ -604,7 +604,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>matkalla</t>
+        <t pos="Adv">matkalla</t>
       </tg>
     </mg>
   </e>
@@ -624,7 +624,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lattialle</t>
+        <t pos="Adv">lattialle</t>
       </tg>
     </mg>
   </e>
@@ -644,7 +644,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>pelaavat korttia</t>
+        <t pos="Adv">pelaavat korttia</t>
       </tg>
     </mg>
   </e>
@@ -664,9 +664,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>silmät kiinni</t>
+        <t pos="Adv">silmät kiinni</t>
 
-        <t>suljetuin silmin</t>
+        <t pos="Adv">suljetuin silmin</t>
       </tg>
     </mg>
   </e>
@@ -686,7 +686,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>talon taakse; takapihalle</t>
+        <t pos="Adv">talon taakse; takapihalle</t>
       </tg>
     </mg>
   </e>
@@ -706,7 +706,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kotona</t>
+        <t pos="Adv">kotona</t>
       </tg>
     </mg>
   </e>
@@ -726,7 +726,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>hän soittaa harmonikkaa</t>
+        <t pos="Adv">hän soittaa harmonikkaa</t>
       </tg>
     </mg>
   </e>
@@ -746,9 +746,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>yhdessä</t>
+        <t pos="Adv">yhdessä</t>
 
-        <t>yhteisesti</t>
+        <t pos="Adv">yhteisesti</t>
       </tg>
     </mg>
   </e>
@@ -768,9 +768,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>käsin tunnustelemalla</t>
+        <t pos="Adv">käsin tunnustelemalla</t>
 
-        <t>hapuillen</t>
+        <t pos="Adv">hapuillen</t>
       </tg>
     </mg>
   </e>
@@ -790,7 +790,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>monikerroksinen</t>
+        <t pos="Adv">monikerroksinen</t>
       </tg>
     </mg>
   </e>
@@ -810,7 +810,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vieraalla maalla</t>
+        <t pos="Adv">vieraalla maalla</t>
       </tg>
     </mg>
   </e>
@@ -830,9 +830,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lähellä</t>
+        <t pos="Adv">lähellä</t>
 
-        <t>läheisyydessä</t>
+        <t pos="Adv">läheisyydessä</t>
       </tg>
     </mg>
   </e>
@@ -852,7 +852,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kasoiksi</t>
+        <t pos="Adv">kasoiksi</t>
       </tg>
     </mg>
   </e>
@@ -872,7 +872,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>yhteisvoimin</t>
+        <t pos="Adv">yhteisvoimin</t>
       </tg>
     </mg>
   </e>
@@ -892,15 +892,15 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>maahan</t>
+        <t pos="Adv">maahan</t>
 
-        <t>alas (­päin)</t>
+        <t pos="Adv">alas (­päin)</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t>lattialle</t>
+        <t pos="Adv">lattialle</t>
       </tg>
     </mg>
   </e>
@@ -920,7 +920,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kokouksessa</t>
+        <t pos="Adv">kokouksessa</t>
       </tg>
     </mg>
   </e>
@@ -940,7 +940,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>nelinkontin</t>
+        <t pos="Adv">nelinkontin</t>
       </tg>
     </mg>
   </e>
@@ -960,7 +960,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>nelinkontin</t>
+        <t pos="Adv">nelinkontin</t>
       </tg>
     </mg>
   </e>
@@ -980,7 +980,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>niin nuori; niin nuorena</t>
+        <t pos="Adv">niin nuori; niin nuorena</t>
       </tg>
     </mg>
   </e>
@@ -1000,7 +1000,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kasvaa kohisten</t>
+        <t pos="Adv">kasvaa kohisten</t>
       </tg>
     </mg>
   </e>
@@ -1020,9 +1020,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>jumalan selän takana</t>
+        <t pos="Adv">jumalan selän takana</t>
 
-        <t>peräkorvessa</t>
+        <t pos="Adv">peräkorvessa</t>
       </tg>
     </mg>
   </e>
@@ -1042,9 +1042,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>jumalan selän takana</t>
+        <t pos="Adv">jumalan selän takana</t>
 
-        <t>peräkorvessa</t>
+        <t pos="Adv">peräkorvessa</t>
       </tg>
     </mg>
   </e>
@@ -1064,7 +1064,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>pitkin askelin</t>
+        <t pos="Adv">pitkin askelin</t>
       </tg>
     </mg>
   </e>
@@ -1084,7 +1084,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>suureen ääneen</t>
+        <t pos="Adv">suureen ääneen</t>
       </tg>
     </mg>
   </e>
@@ -1104,9 +1104,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>mielellään</t>
+        <t pos="Adv">mielellään</t>
 
-        <t>omasta halustaan</t>
+        <t pos="Adv">omasta halustaan</t>
       </tg>
     </mg>
   </e>
@@ -1126,7 +1126,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kaupungissa</t>
+        <t pos="Adv">kaupungissa</t>
       </tg>
     </mg>
   </e>
@@ -1146,7 +1146,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kaupungista kaupunkiin</t>
+        <t pos="Adv">kaupungista kaupunkiin</t>
       </tg>
     </mg>
   </e>
@@ -1166,7 +1166,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>hyvät ihmiset me otamme vastaan leivän ja suolan kanssa</t>
+        <t pos="Adv">hyvät ihmiset me otamme vastaan leivän ja suolan kanssa</t>
       </tg>
     </mg>
   </e>
@@ -1186,7 +1186,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>korvia myöten veloissa</t>
+        <t pos="Adv">korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
@@ -1206,7 +1206,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>korvia myöten veloissa</t>
+        <t pos="Adv">korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
@@ -1226,7 +1226,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>korvia myöten veloissa</t>
+        <t pos="Adv">korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
@@ -1246,7 +1246,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>polveen asti</t>
+        <t pos="Adv">polveen asti</t>
       </tg>
     </mg>
   </e>
@@ -1266,9 +1266,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>sisällä</t>
+        <t pos="Adv">sisällä</t>
 
-        <t>sisässä</t>
+        <t pos="Adv">sisässä</t>
       </tg>
     </mg>
   </e>
@@ -1288,9 +1288,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>sisään</t>
+        <t pos="Adv">sisään</t>
 
-        <t>sisälle</t>
+        <t pos="Adv">sisälle</t>
       </tg>
     </mg>
   </e>
@@ -1310,7 +1310,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>puoliääneen</t>
+        <t pos="Adv">puoliääneen</t>
       </tg>
     </mg>
   </e>
@@ -1330,9 +1330,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>murheessa</t>
+        <t pos="Adv">murheessa</t>
 
-        <t>kurjuudessa</t>
+        <t pos="Adv">kurjuudessa</t>
       </tg>
     </mg>
   </e>
@@ -1352,7 +1352,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>aikaisin aamulla</t>
+        <t pos="Adv">aikaisin aamulla</t>
       </tg>
     </mg>
   </e>
@@ -1372,7 +1372,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>komppanioittain</t>
+        <t pos="Adv">komppanioittain</t>
       </tg>
     </mg>
   </e>
@@ -1392,7 +1392,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>hämäräsokea</t>
+        <t pos="Adv">hämäräsokea</t>
       </tg>
     </mg>
   </e>
@@ -1412,7 +1412,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>hämäräsokea</t>
+        <t pos="Adv">hämäräsokea</t>
       </tg>
     </mg>
   </e>
@@ -1432,9 +1432,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kaikkialle</t>
+        <t pos="Adv">kaikkialle</t>
 
-        <t>joka paikkaan</t>
+        <t pos="Adv">joka paikkaan</t>
       </tg>
     </mg>
   </e>
@@ -1454,7 +1454,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vanhaan tapaan</t>
+        <t pos="Adv">vanhaan tapaan</t>
       </tg>
     </mg>
   </e>
@@ -1474,7 +1474,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vanhaan malliin</t>
+        <t pos="Adv">vanhaan malliin</t>
       </tg>
     </mg>
   </e>
@@ -1494,7 +1494,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>suurella hälyllä</t>
+        <t pos="Adv">suurella hälyllä</t>
       </tg>
     </mg>
   </e>
@@ -1514,7 +1514,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>hän on kauttaaltaan kurassa</t>
+        <t pos="Adv">hän on kauttaaltaan kurassa</t>
       </tg>
     </mg>
   </e>
@@ -1534,7 +1534,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>huolimattomasti</t>
+        <t pos="Adv">huolimattomasti</t>
       </tg>
     </mg>
   </e>
@@ -1554,7 +1554,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>huolimattomasti</t>
+        <t pos="Adv">huolimattomasti</t>
       </tg>
     </mg>
   </e>
@@ -1574,9 +1574,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kesken kaiken</t>
+        <t pos="Adv">kesken kaiken</t>
 
-        <t>sillä välin</t>
+        <t pos="Adv">sillä välin</t>
       </tg>
     </mg>
   </e>
@@ -1596,7 +1596,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>paljetein koristettu</t>
+        <t pos="Adv">paljetein koristettu</t>
       </tg>
     </mg>
   </e>
@@ -1616,7 +1616,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>luudalla</t>
+        <t pos="Adv">luudalla</t>
       </tg>
     </mg>
   </e>
@@ -1636,7 +1636,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>näin kylmällä</t>
+        <t pos="Adv">näin kylmällä</t>
       </tg>
     </mg>
   </e>
@@ -1656,9 +1656,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kohinalla</t>
+        <t pos="Adv">kohinalla</t>
 
-        <t>kohisten</t>
+        <t pos="Adv">kohisten</t>
       </tg>
     </mg>
   </e>
@@ -1678,7 +1678,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>nurkkiin</t>
+        <t pos="Adv">nurkkiin</t>
       </tg>
     </mg>
   </e>
@@ -1698,7 +1698,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>nurkassa</t>
+        <t pos="Adv">nurkassa</t>
       </tg>
     </mg>
   </e>
@@ -1718,7 +1718,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>tunnilla</t>
+        <t pos="Adv">tunnilla</t>
       </tg>
     </mg>
   </e>
@@ -1738,7 +1738,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>vastatuuleen</t>
+        <t pos="Adv">vastatuuleen</t>
       </tg>
     </mg>
   </e>
@@ -1758,7 +1758,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ulkona</t>
+        <t pos="Adv">ulkona</t>
       </tg>
     </mg>
   </e>
@@ -1778,7 +1778,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ulos</t>
+        <t pos="Adv">ulos</t>
       </tg>
     </mg>
   </e>
@@ -1798,15 +1798,15 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>yhteen ääneen</t>
+        <t pos="Adv">yhteen ääneen</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t>monotonisesti</t>
+        <t pos="Adv">monotonisesti</t>
 
-        <t>yksitoikkoisesti</t>
+        <t pos="Adv">yksitoikkoisesti</t>
       </tg>
     </mg>
   </e>
@@ -1826,13 +1826,13 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>Jumalan nimeen</t>
+        <t pos="Adv">Jumalan nimeen</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t>Jumalan nimessä</t>
+        <t pos="Adv">Jumalan nimessä</t>
       </tg>
     </mg>
   </e>
@@ -1852,9 +1852,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>eläessään</t>
+        <t pos="Adv">eläessään</t>
 
-        <t>elämässään</t>
+        <t pos="Adv">elämässään</t>
       </tg>
     </mg>
   </e>
@@ -1874,7 +1874,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>asua vanhempiensa luona</t>
+        <t pos="Adv">asua vanhempiensa luona</t>
       </tg>
     </mg>
   </e>
@@ -1894,7 +1894,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>mielensä mukaan</t>
+        <t pos="Adv">mielensä mukaan</t>
       </tg>
     </mg>
   </e>
@@ -1914,9 +1914,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>mielellään</t>
+        <t pos="Adv">mielellään</t>
 
-        <t>omasta halustaan</t>
+        <t pos="Adv">omasta halustaan</t>
       </tg>
     </mg>
   </e>
@@ -1936,7 +1936,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>kylmästi</t>
+        <t pos="Adv">kylmästi</t>
       </tg>
     </mg>
   </e>
@@ -1956,7 +1956,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ystävien kesken</t>
+        <t pos="Adv">ystävien kesken</t>
       </tg>
     </mg>
   </e>
@@ -1976,7 +1976,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ystävien kesken</t>
+        <t pos="Adv">ystävien kesken</t>
       </tg>
     </mg>
   </e>
@@ -1996,7 +1996,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ystävien kesken</t>
+        <t pos="Adv">ystävien kesken</t>
       </tg>
     </mg>
   </e>
@@ -2016,7 +2016,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>ruuan jälkeen</t>
+        <t pos="Adv">ruuan jälkeen</t>
       </tg>
     </mg>
   </e>
@@ -2036,7 +2036,7 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>joskus</t>
+        <t pos="Adv">joskus</t>
       </tg>
     </mg>
   </e>
@@ -2056,13 +2056,13 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>joskus</t>
+        <t pos="Adv">joskus</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t>paikka paikoin</t>
+        <t pos="Adv">paikka paikoin</t>
       </tg>
     </mg>
   </e>
@@ -2082,9 +2082,261 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t>lauantaina</t>
+        <t pos="Adv">lauantaina</t>
       </tg>
     </mg>
   </e>
 
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">фкя вайгяльса</l>
+     <stg>
+       <st Contlex="ADV_">фкя вайгяльса</st>
+     </stg>
+   <phonet>fkä vajgäľsa</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">1. yhteen ääneen. 2. monotonisesti, yksitoikkoisesti</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">ваймоса-мяльса</l>
+     <stg>
+       <st Contlex="ADV_">ваймоса-мяльса</st>
+     </stg>
+   <phonet>vajməsa-mäľsa</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">täydessä sovussa</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">ваймокс-седикс</l>
+     <stg>
+       <st Contlex="ADV_">ваймокс-седикс</st>
+     </stg>
+   <phonet>vajməks-śeďiks</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">koko sydämestään ja sielustaan</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">валсост-кяльсост</l>
+     <stg>
+       <st Contlex="ADV_">валсост-кяльсост</st>
+     </stg>
+   <phonet>valsəst-käľsəst</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">loitsuillaan, taikasanoillaan</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">валда валс</l>
+     <stg>
+       <st Contlex="ADV_">валда валс</st>
+     </stg>
+   <phonet>valdə vals</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">sanasta sanaan, sanatarkasti</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">алу вармат</l>
+     <stg>
+       <st Contlex="ADV_">алу вармат</st>
+     </stg>
+   <phonet>alu varmat</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">myötätuuleen</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">варсикс</l>
+     <stg>
+       <st Contlex="ADV_">варсикс</st>
+     </stg>
+   <phonet>varśiks</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">variksen lailla, variksen tapaan</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">вастста вастс</l>
+     <stg>
+       <st Contlex="ADV_">вастста вастс</st>
+     </stg>
+   <phonet>vasctə vasc</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paikasta toiseen</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">васту</l>
+     <stg>
+       <st Contlex="ADV_">васту</st>
+     </stg>
+   <phonet>vastu</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">paikkaan, paikalle</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">ве-вешка</l>
+     <stg>
+       <st Contlex="ADV_">ве-вешка</st>
+     </stg>
+   <phonet>ve-veška</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">koko yön (ajan), läpi yön</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">веть</l>
+     <stg>
+       <st Contlex="ADV_">веть</st>
+     </stg>
+   <phonet>veť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">yöllä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">шить-веть ётамс</l>
+     <stg>
+       <st Contlex="ADV_">шить-веть ётамс</st>
+     </stg>
+   <phonet>šiť-veť jotams</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">vuorokaudessa</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">ветемба</l>
+     <stg>
+       <st Contlex="ADV_">ветемба</st>
+     </stg>
+   <phonet>veťəmba</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">vuorokaudessa</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">вень-вень</l>
+     <stg>
+       <st Contlex="ADV_">вень-вень</st>
+     </stg>
+   <phonet>veń-veń</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">öisin</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">вень кучкада</l>
+     <stg>
+       <st Contlex="ADV_">вень кучкада</st>
+     </stg>
+   <phonet>veń gučkada</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">keskiyöllä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">вень веняста</l>
+     <stg>
+       <st Contlex="ADV_">вень веняста</st>
+     </stg>
+   <phonet>veń veńasta</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">yön aikana</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">алу ветть</l>
+     <stg>
+       <st Contlex="ADV_">алу ветть</st>
+     </stg>
+   <phonet>alu veťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">myötävirtaan</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">вяри ветть</l>
+     <stg>
+       <st Contlex="ADV_">вяри ветть</st>
+     </stg>
+   <phonet>väŕi veťť</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="Adv">vastavirtaan</t>
+     </tg>
+   </mg>
+</e>
 </r>

@@ -892,7 +892,8 @@ LEXICON N_mdf2x
 видептема:видептема N_AVA  "" ;
 видеф:видеф N_KAL  "kylvös" ;
 видеши:видеши N_AVA  "suoruus" ;
-види:види N_ANDY  "oikealle" ;
+види:види ADV_  "oikealle" ;
+види:види A_ANDY  "oikeanpuoleinen" ;
 видьме:видьм%{ЕО%} N_SEL1ME  "siemen" ;
 виензама:виензама N_AVA  "" ;
 виза:виза N_AVA  "" ;
@@ -5869,7 +5870,7 @@ LEXICON N_mdf2x
 сока:сока N_AVA  "(puu)aura" ;
 сокай:сокай N_VAJ  "kyntäjä" ;
 сокама:сокама N_AVA  "kyntö" ;
-сокасюра:сокасюра N_  "auransarvi" ;
+сокасюра:сока#сюр%{АО%} N_PULA  "auransarvi" ;
 сокор:сокор N_KAL  "sokea" ;
 сокорши:сокорши N_AVA  "sokeus" ;
 сокс:сокс N_OSH  "suksi" ;
@@ -5928,7 +5929,6 @@ LEXICON N_mdf2x
 списка:списка N_AVA  "luettelo" ;
 списка+Use/SpellNoSugg:с%{ъØ%}писка N_AVA  "luettelo" ;
 спица:спица N_AVA  "" ;
-спица+Use/SpellNoSugg:с%{ъØ%}пица N_  "" ;
 спицька:спицька N_AVA  "" ;
 спицька+Use/SpellNoSugg:с%{ъØ%}пицька N_AVA  "" ;
 спичка:спичка N_AVA  "tulitikku" ;
@@ -5978,7 +5978,6 @@ LEXICON N_mdf2x
 стада:стада N_AVA  "lauma" ;
 стада+Use/SpellNoSugg:с%{ъØ%}тада N_AVA  "lauma" ;
 стадаваны:стадаваны N_ANDY  "paimen" ;
-стадаваны+Use/SpellNoSugg:с%{ъØ%}тадаваны N_  "paimen" ;
 стадия:стадия N_AVA  "" ;
 стадия+Use/SpellNoSugg:с%{ъØ%}тадия N_AVA  "" ;
 стаж:стаж N_OSH  "" ;
@@ -6003,7 +6002,6 @@ LEXICON N_mdf2x
 стандарт:стандарт N_KAL  "" ;
 стандарт+Use/SpellNoSugg:с%{ъØ%}тандарт N_KAL  "" ;
 станица:станица N_AVA  "" ;
-станица+Use/SpellNoSugg:с%{ъØ%}таница N_  "" ;
 станка:станка N_AVA  "" ;
 станка+Use/SpellNoSugg:с%{ъØ%}танка N_AVA  "" ;
 стання:стання N_AVA  "" ;
@@ -6019,7 +6017,6 @@ LEXICON N_mdf2x
 стардома:стардома N_AVA  "" ;
 стардома+Use/SpellNoSugg:с%{ъØ%}тардома N_AVA  "" ;
 староста:староста N_AVA  "" ;
-староста+Use/SpellNoSugg:с%{ъØ%}тароста N_  "" ;
 старт:старт N_KAL  "" ;
 старт+Use/SpellNoSugg:с%{ъØ%}тарт N_KAL  "" ;
 статистика:статистика N_AVA  "" ;
@@ -6041,7 +6038,6 @@ LEXICON N_mdf2x
 ствол:ствол N_KAL  "" ;
 ствол+Use/SpellNoSugg:с%{ъØ%}твол N_KAL  "" ;
 стегла:стегла N_AVA  "" ;
-стегла+Use/SpellNoSugg:с%{ъØ%}тегла N_  "" ;
 стекольщик:стекольщик N_KAL  "" ;
 стекольщик+Use/SpellNoSugg:с%{ъØ%}текольщик N_KAL  "" ;
 стеллаж:стеллаж N_OSH  "" ;
@@ -6049,7 +6045,6 @@ LEXICON N_mdf2x
 стелька:стелька N_AVA  "" ;
 стелька+Use/SpellNoSugg:с%{ъØ%}телька N_AVA  "" ;
 стена:стена N_AVA  "seinä" ;
-стена+Use/SpellNoSugg:с%{ъØ%}тена N_  "seinä" ;
 стенограмма:стенограмма N_AVA  "" ;
 стенограмма+Use/SpellNoSugg:с%{ъØ%}тенограмма N_AVA  "" ;
 стенографист:стенографист N_KAL  "" ;
@@ -6065,9 +6060,7 @@ LEXICON N_mdf2x
 стереометрия:стереометрия N_AVA  "" ;
 стереометрия+Use/SpellNoSugg:с%{ъØ%}тереометрия N_AVA  "" ;
 стереоскоп:стереоскоп N_  "" ;
-стереоскоп+Use/SpellNoSugg:с%{ъØ%}тереоскоп N_  "" ;
 стереотип:стереотип N_  "" ;
-стереотип+Use/SpellNoSugg:с%{ъØ%}тереотип N_  "" ;
 стержень:стержень N_KIAL1  "" ;
 стержень+Use/SpellNoSugg:с%{ъØ%}тержень N_KAL  "" ;
 стерляк:стерляк N_KAL  "" ;
@@ -6087,9 +6080,7 @@ LEXICON N_mdf2x
 стирьмор:стирьмор N_KAL  "pikkutyttö" ;
 стирьмор+Use/SpellNoSugg:с%{ъØ%}тирьмор N_KAL  "pikkutyttö" ;
 стирьшаба:стирьшаба N_AVA  "tyttö" ;
-стирьшаба+Use/SpellNoSugg:с%{ъØ%}тирьшаба N_  "tyttö" ;
 стих:стих N_  "" ;
-стих+Use/SpellNoSugg:с%{ъØ%}тих N_  "" ;
 стихия:стихия N_AVA  "" ;
 стихия+Use/SpellNoSugg:с%{ъØ%}тихия N_AVA  "" ;
 стихосложения:стихосложения N_AVA  "" ;
@@ -6099,9 +6090,7 @@ LEXICON N_mdf2x
 стойка:стойка N_AVA  "hylly" ;
 стойка+Use/SpellNoSugg:с%{ъØ%}тойка N_AVA  "hylly" ;
 стойла:стойла N_AVA  "parsi" ;
-стойла+Use/SpellNoSugg:с%{ъØ%}тойла N_  "parsi" ;
 столба:столба N_AVA  "pylväs" ;
-столба+Use/SpellNoSugg:с%{ъØ%}толба N_  "pylväs" ;
 столовай:столовай N_VAJ  "ruokala" ;
 столовай+Use/SpellNoSugg:с%{ъØ%}толовай N_KAL  "ruokala" ;
 столяр:столяр N_KAL  "puuseppä" ;
@@ -6115,7 +6104,6 @@ LEXICON N_mdf2x
 стражник:стражник N_KAL  "" ;
 стражник+Use/SpellNoSugg:с%{ъØ%}тражник N_KAL  "" ;
 страница:страница N_AVA  "sivu (kirjan tms.)" ;
-страница+Use/SpellNoSugg:с%{ъØ%}траница N_  "sivu (kirjan tms.)" ;
 странник:странник N_KAL  "" ;
 странник+Use/SpellNoSugg:с%{ъØ%}транник N_KAL  "" ;
 странность:странность N_KIAL1  "" ;
@@ -6141,7 +6129,6 @@ LEXICON N_mdf2x
 стрекама:стрекама N_AVA  "" ;
 стрекама+Use/SpellNoSugg:с%{ъØ%}трекама N_AVA  "" ;
 стрела:стрела N_AVA  "" ;
-стрела+Use/SpellNoSugg:с%{ъØ%}трела N_  "" ;
 стрелка:стрелка N_AVA  "viisari" ;
 стрелка+Use/SpellNoSugg:с%{ъØ%}трелка N_AVA  "viisari" ;
 стрелок:стрелок N_KAL  "" ;
@@ -6163,7 +6150,6 @@ LEXICON N_mdf2x
 строй:строй N_VAJ  "rivistö" ;
 строй+Use/SpellNoSugg:с%{ъØ%}трой N_KAL  "rivistö" ;
 стропа:стропа N_AVA  "" ;
-стропа+Use/SpellNoSugg:с%{ъØ%}тропа N_  "" ;
 строчама:строчама N_AVA  "" ;
 строчама+Use/SpellNoSugg:с%{ъØ%}трочама N_AVA  "" ;
 строчиндама:строчиндама N_AVA  "" ;
@@ -6173,7 +6159,6 @@ LEXICON N_mdf2x
 струга:струга N_AVA  "" ;
 струга+Use/SpellNoSugg:с%{ъØ%}труга N_AVA  "" ;
 струна:струна N_AVA  "" ;
-струна+Use/SpellNoSugg:с%{ъØ%}труна N_  "" ;
 струпкя:струпкя N_AVA  "" ;
 струпкя+Use/SpellNoSugg:с%{ъØ%}трупкя N_AVA  "" ;
 струя:струя N_AVA  "" ;
@@ -6184,7 +6169,6 @@ LEXICON N_mdf2x
 стряпондама:стряпондама N_AVA  "ruuanlaitto" ;
 стряпондама+Use/SpellNoSugg:с%{ъØ%}тряпондама N_AVA  "ruuanlaitto" ;
 стряпуха:стряпуха N_AVA  "keittäjä" ;
-стряпуха+Use/SpellNoSugg:с%{ъØ%}тряпуха N_  "keittäjä" ;
 студент:студент N_KAL  "opiskelija" ;
 студент+Use/SpellNoSugg:с%{ъØ%}тудент N_KAL  "opiskelija" ;
 студия:студия N_AVA  "" ;
@@ -6196,11 +6180,9 @@ LEXICON N_mdf2x
 стул:стул N_KAL  "nojatuoli" ;
 стул+Use/SpellNoSugg:с%{ъØ%}тул N_KAL  "nojatuoli" ;
 ступце:ступце N_  "" ;
-ступце+Use/SpellNoSugg:с%{ъØ%}тупце N_  "" ;
 стрнаня:стрнаня N_AVA  "" ;
 стрнаня+Use/SpellNoSugg:с%{ъØ%}трнаня N_AVA  "" ;
 сты:сты N_ANDY  "" ;
-сты+Use/SpellNoSugg:с%{ъØ%}ты N_  "" ;
 стюдень:стюдень N_KIAL1  "" ;
 стюдень+Use/SpellNoSugg:с%{ъØ%}тюдень N_KAL  "" ;
 стяда:стяда N_AVA  "seisten" ;
@@ -6214,7 +6196,6 @@ LEXICON N_mdf2x
 стяшендома:стяшендома N_AVA  "" ;
 стяшендома+Use/SpellNoSugg:с%{ъØ%}тяшендома N_AVA  "" ;
 стёкла:стёкла N_AVA  "" ;
-стёкла+Use/SpellNoSugg:с%{ъØ%}тёкла N_  "" ;
 су:су N_KELU  "" ;
 субботник:субботник N_KAL  "" ;
 субъект:субъект N_KAL  "" ;
@@ -6280,7 +6261,6 @@ LEXICON N_mdf2x
 схема:схема N_AVA  "" ;
 схотка:схотка N_AVA  "" ;
 сцена:сцена N_AVA  "" ;
-сцена+Use/SpellNoSugg:с%{ъØ%}цена N_  "" ;
 счёт:счёт N_KAL  "luettelo" ;
 счёт+Use/SpellNoSugg:с%{ъØ%}чёт N_KAL  "luettelo" ;
 сезд:сезд N_KAL  "" ;
@@ -6336,7 +6316,7 @@ LEXICON N_mdf2x
 сюзял:сюзял N_KAL  "suolimato" ;
 сюконяма:сюконяма N_AVA  "tervehdys" ;
 сюкпря:сюкпря N_AVA  "kiitos" ;
-сюла:сюла N_  "suoli" ;
+сюла:сюл%{АО%} N_PULA  "suoli" ;
 сюлга:сюлга N_  "" ;
 сюлгам:сюлгам N_KAL  "solki" ;
 сюлека:сюлека N_AVA  "(lasi)pullo" ;
@@ -6351,7 +6331,7 @@ LEXICON N_mdf2x
 сюнерь:сюнерь N_KIAL1  "" ;
 сюнерьгофтома:сюнерьгофтома N_AVA  "" ;
 сюнощнай:сюнощнай N_VAJ  "" ;
-сюра:сюра N_  "sarvi" ;
+сюра:сюр%{АО%} N_PULA  "sarvi" ;
 сюре:сюре N_PINE  "lanka" ;
 сюрок:сюрок N_KAL  "lonkkaluu" ;
 сюролда:сюролда N_AVA  "juuririhma" ;
@@ -8041,7 +8021,7 @@ LEXICON N_mdf2x
 эйгажа:эйгажа N_  "jäälautta" ;
 эйпеезь:эйпеезь N_KIAL1  "riite" ;
 эйсокс:эйсокс N_OSH  "(vanh.) luistin" ;
-эйсюра:эйсюра N_  "jääpuikko" ;
+эйсюра:эйсюр%{АО%} N_PULA  "jääpuikko" ;
 экзамен:экзамен N_KAL  "" ;
 экзема:экзема N_AVA  "" ;
 экземпляр:экземпляр N_KAL  "" ;
