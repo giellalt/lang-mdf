@@ -4,8 +4,8 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst"> <lg><l pos="A">лпнай пиле</l><l_ref>лпнамс</l_ref><stg><st>лпнай пиле</st></stg> <phonet>ləpnaj piľä</phonet> </lg><mg><tg xml:lang="fin"><t>luppakorva(inen)</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="A">нюрьги нолга</l><l_ref>нюрьгомс</l_ref><stg><st>нюрьги нолга</st></stg> <phonet>ńuŕgi nolga</phonet> </lg><mg><tg xml:lang="fin"><t>toimeton</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="A">лпнай пиле</l><l_ref>лпнамс</l_ref><stg><st>лпнай пиле</st></stg> <phonet>ləpnaj piľä</phonet> </lg><mg><tg xml:lang="fin"><t pos="A">luppakorva(inen)</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="A">нюрьги нолга</l><l_ref>нюрьгомс</l_ref><stg><st>нюрьги нолга</st></stg> <phonet>ńuŕgi nolga</phonet> </lg><mg><tg xml:lang="fin"><t pos="A">toimeton</t></tg></mg></e>
   <e exclude="fst">
     <lg>
       <l pos="A">вазнянь пеке</l>
@@ -67,5 +67,61 @@
       </tg>
     </mg>
   </e>
+<e exclude="fst">
+   <lg>
+     <l pos="A">вазнянь пеке</l>
+     <stg>
+       <st Contlex="A_">вазнянь пеке</st>
+     </stg>
+   <phonet>vazńäń bekä</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="A">isomahainen</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="A">цебярь вайме</l>
+     <stg>
+       <st Contlex="A_">цебярь вайме</st>
+     </stg>
+   <phonet>ćebäŕ vajmä</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="A">hyväntahtoinen</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="A">вень</l>
+     <stg>
+       <st Contlex="A_">вень</st>
+     </stg>
+   <phonet>veń</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="A">öinen, yö-</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="A">веронь шудефти</l>
+     <stg>
+       <st Contlex="A_">веронь шудефти</st>
+     </stg>
+   <phonet>verəń šuďəfťi</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="A">verta vuotava</t>
+     </tg>
+   </mg>
+</e>
 
 </r>

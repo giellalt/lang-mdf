@@ -67,6 +67,11 @@ LEXICON A_KELU
 +A+Sg+Nom+Indef: K ;
 +A+Der/MWN: N_KELU ;
 
+LEXICON A_ANDY
+!! келу:келу
++A+Sg+Nom+Indef: K ;
++A+Der/MWN: N_ANDY ;
+
 LEXICON A_INT-АЙ
 +Use/SpellNoSugg:ай A_VAJ ;
 LEXICON A_RU-АЙ
