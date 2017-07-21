@@ -824,12 +824,16 @@ LEXICON PL-CX-PXSG1
  PL-DAT/GEN/NOM-PXSG1 ;
 
 LEXICON PL-DAT/GEN/NOM-PXSG1
-+Pl+Nom+PxSg1:%>не K ;
-+Pl+Gen+PxSg1:%>не%>%{ЕОØ%}нь K ;
-+Pl+Dat+PxSg1:%>не%>нди K ;
-!+Pl+Nom+PxSg1:%>%{ЕОØ%}не K ; !?€валоне
-!+Pl+Gen+PxSg1:%>%{ЕОØ%}не%>нь K ;
-!+Pl+Dat+PxSg1:%>%{ЕОØ%}не%>нди K ;
++Pl+Nom+PxSg1:%^PXSG1%>не K ;
++Pl+Gen+PxSg1:%^PXSG1%>не%>%{ЕОØ%}нь K ;
++Pl+Dat+PxSg1:%^PXSG1%>не%>нди K ;
++Pl+Nom+PxSg1:%^PXSG1%>%{ЕОØ%}не K ;
++Pl+Gen+PxSg1:%^PXSG1%>%{ЕОØ%}не%>нь K ;
++Pl+Dat+PxSg1:%^PXSG1%>%{ЕОØ%}не%>нди K ;
+!!€ кядь%^PXSG1%>не
+!!€ кяд00%>не
+!!€ ярмак%^PXSG1%>%{ЕОØ%}не
+!!€ ярмак0%>оне
 
 LEXICON SG-DAT/GEN/NOM-PXSG2
 +Sg+Nom+PxSg2:%>це K ;
