@@ -61,6 +61,8 @@ The Usage extents are marked using following tags:
  * _+Use/-Ped_ * Remove from pedagogical speller
  * _+Use/NG_ * Do not generate, for isme-ped.fst and apertium
 
+ * _+SerialVerb	_ * serial verbs, is this necessary
+
  * _+Err/Lex_ * The lemma is not a Moksha word
 The nominals are inflected in the following Case and Number
  ; +Sg 		: singular
@@ -144,11 +146,13 @@ Verb personal forms are:
   +OcPl3 	 objject conjugation third person plural
 
 Other verb forms are
-   +ConNeg 	 connegative, main verb complement to Neg,
+   +ConNeg 	 connegative, main verb complement to Neg, vowel-stem
+   +ConNegII 	 connegative, main verb complement to Neg, cons-stem
    +Ger 	 gerund This is used with Der/Озь and VAbl
    +Inf    	 infinitive
    +Neg    	 verb of negation эзь, аволь, иля
-   +Prc 	 participle
+   +Aux		 auxiliary verb
+ +Prc 	 participle
    +VGen   	 Verb Genitive, genitive form participle
    +VAbl   	 Verb Ablative "озадо"
 
@@ -262,6 +266,7 @@ Question and Focus particles:
 
 
 Semantics are classified with
+ * __+Sem/Kin	__ Kin term
 
 
 Derivations are classified under the morphophonetic form of the suffix, the
@@ -272,7 +277,9 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
   %{ИЫЙ%}	 phasing out Ы2, eg кундамс:кундай
-  %{ОЕØ%}	 for morphemes requiring a preceding vowel
+  %{ЕОØ%}	 morphemes requiring a preceding vowel; also пинге
+  %{ЕО%} 	 сельме
+  %{ЕØ%}	 кече
   %{АЯ%} 	 А2 in кундамс:кундан
   %{ВИУ%}         lative
   %{Х%}		 This usually precedes the plural marker
@@ -284,10 +291,12 @@ symbols in the lexicon files:
  %^А2О		 used with final а in пула 
 
   А2 	 А2:а А2:я
-  %^Г2 	 %^Г2:г %^Г2:в %^Г2:к
+  %{вгк%} 	 %{вгк%}:г %{вгк%}:в %{вгк%}:к
+  %{гк%}	 clitic in %{гк%} %{АЕ%}
   К1 	 К1:к К1:т
-  %^О1 	 %^О1:о %^О1:а %^О1:0
- %{АОЕ%}	  пула, офта, пинге  О2 !! %^О1:о %^О1:а %^О1:е
+ %{АЕØ%}	  ConNeg with ашень, тят, афоль
+ %{АО%}	  пула stem
+ %{АОØ%}	  офта stem
  %{АЕ%}	 prolative
   Х1 	 Х1:х Х1:0
   Ь2 	 Ь2:ь Ь2:0
@@ -296,6 +305,7 @@ symbols in the lexicon files:
 in ped realized as hard sign
 
 And following triggers to control variation
+ * %^RmVow 	 for removing vowels
  %^Ь2ZERO	 removes soft sign before vowel or other combination
  %^Ъ2PED		 brings out hard sign, which is otherwise automatically removed
  %^Е2О		 Change stem-final vowel сембе:сембось
