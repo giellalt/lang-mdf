@@ -22,53 +22,58 @@ NOUNS
 
 
 
- * LEXICON N_АНДЫ  анды:анды
+ * LEXICON N_ANDY  анды:анды
 
 
 
- LEXICON N_ОФТА  
+ LEXICON N_OFTA  
 
- LEXICON N_ОФТА-SG 
- LEXICON N_ОФТА-PL 
+ LEXICON N_OFTA-SG 
+ LEXICON N_OFTA-PL 
 
- LEXICON N_ПАНГА 
+ LEXICON N_PANGA 
 
- LEXICON N_ПИНГЕ 
-  N_КАЛ ;  Ela, Ill, Ine, Par 
+ LEXICON N_PINGE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
+Floating
 
-
-
-
- LEXICON N_ПУЛА 
-
- LEXICON N_КАРЮЦЬКЕ 
-
- LEXICON N_СЕЛЬМЕ 
-
- LEXICON N_ОШ 
-
-
- LEXICON N_САРАЗ 
-
-
- LEXICON N_ВАЙ 
+Without vowel
 
 
 
- LEXICON N_КАЛ 
 
 
 
- LEXICON N_КЯЛЬ 
+ LEXICON N_PULA 
+
+ LEXICON N_KARIUC1KE 
+
+ LEXICON N_SEL1ME 
+
+ LEXICON N_OSH 
+
+
+ LEXICON N_SARAZ 
+
+
+ LEXICON N_VAJ 
 
 
 
- LEXICON N_ПИНЕ 
+ LEXICON N_KAL 
 
 
 
- LEXICON N_КЕЛУ 
+ LEXICON N_KIAL1 
+
+
+
+ LEXICON N_PINE 
+
+
+
+ LEXICON N_KELU 
 
 
 
@@ -103,11 +108,11 @@ NMN
 
 
 
- LEXICON NMN_ОФТА 
+ LEXICON NMN_OFTA 
 
- LEXICON NMN_ОФТА-SG 
+ LEXICON NMN_OFTA-SG 
 
- LEXICON NMN_ОФТА-PL 
+ LEXICON NMN_OFTA-PL 
 
 
 
@@ -187,6 +192,13 @@ Indefinite
 Definite Pl
 
 MUTUAL NOMINAL
+
+
+
+
+
+
+
 Definite Sg
 Possessor Indices
 
@@ -227,6 +239,20 @@ Possessor Indices
 
 
 
+сельме+N+SP+Gen+Indef
+* __сельм%{ЕО%}%>%{ЕОØ%}нь __
+* __сельмо%>0нь __
+
+
+
+
+
+
+
+
+
+
+Ананьина К.И. 2000 53
 
 
 
@@ -244,8 +270,8 @@ Possessor Indices
 
 
 
-
-
+* __киза%^А2О%>%{Х%}т%{ЬØ%} __
+* __кизо0%>0т0 __
 
 
 
