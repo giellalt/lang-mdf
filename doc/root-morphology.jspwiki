@@ -292,7 +292,7 @@ symbols in the lexicon files:
 
   А2 	 А2:а А2:я
   %{вгк%} 	 %{вгк%}:г %{вгк%}:в %{вгк%}:к
-  %{гк%}	 clitic in %{гк%} %{АЕ%}
+  %{гк%}	 clitic in {{{ %{гк%} %{АЕ%} }}}
   К1 	 К1:к К1:т
  %{АЕØ%}	  ConNeg with ашень, тят, афоль
  %{АО%}	  пула stem
@@ -313,7 +313,7 @@ And following triggers to control variation
  %^Я2А		 Change stem-final vowel рьвя:рьванц
  %^А2Е		 Change stem-final vowel мокша:мокшесь
  %^Devoice	 for devoicing изь:исть
-
+ %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
 
 !!Flag diacritics
 We have manually optimised the structure of our lexicon using following
