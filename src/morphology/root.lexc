@@ -481,7 +481,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
  А2 	!!= @CODE@ А2:а А2:я
  %{вгк%} 	!!= @CODE@ %{вгк%}:г %{вгк%}:в %{вгк%}:к
- %{гк%}	!!= @CODE@ clitic in %{гк%} %{АЕ%}
+ %{гк%}	!!= @CODE@ clitic in {{{ %{гк%} %{АЕ%} }}}
  К1 	!!= @CODE@ К1:к К1:т
 %{АЕØ%}	!!= @CODE@  ConNeg with ашень, тят, афоль
 %{АО%}	!!= @CODE@  пула stem
