@@ -76,6 +76,7 @@ otherwise automatically removed %{ъØ%}
  %^Я2А:0		 Change stem-final vowel рьвя:рьванц
  %^А2Е:0		 Change stem-final vowel мокша:мокшесь
  %^Devoice:0	 for devoicing изь:исть
+ %^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
 
 
  * {{ %- }} – Hyphen with constructions like "-buti"
@@ -500,3 +501,5 @@ __Disallow Онга__
 __Disallow -кс: нетькскс__
 
 __Disallow -гя only after a few__
+
+__Disallow onset vowel after voiced cons__
