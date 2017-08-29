@@ -6231,8 +6231,8 @@ LEXICON V_mdf2x
 пандемс:пандь IV_ПАЧКОДЕМС  "ХХ" ;
 пандовомс:пандов IV_АНДОВОМС  "tulla tukituksi" ;
 пандовомс:пандов IV_АНДОВОМС  "tulla maksetuksi" ;
-пандомс:панд IV_АНДОМС  "maksaa" ;
-пандомс:панд TV_АНДОМС  "tukkia, sulkea; paikata" ;
+пандомс+Hom1:панд IV_АНДОМС  "maksaa" ;
+пандомс+Hom2:панд TV_АНДОМС  "tukkia, sulkea; paikata" ;
 паневомс:панев IV_АНДОВОМС  "tulla ajetuksi pois" ;
 панемс:пань IV_АНДОМС  "karkottaa, häätää, ajaa pois/liikkeelle; erottaa, irtisanoa (työstä)" ;
 панемс:пань TV_АНДОМС  "polttaa" ;
@@ -6242,8 +6242,8 @@ LEXICON V_mdf2x
 панжемс:панж TV_АНДОМС  "avata" ;
 панксыямс:панксыя IV_КУНДАМС  "aukoa" ;
 паннекшнемс:паннекшне IV_КУНДАМС  "maksaa" ;
-паннемс:панне IV_КУНДАМС  "sulkea" ;
-паннемс:панне IV_КУНДАМС  "maksaa" ;
+паннемс+Hom2:панне IV_КУНДАМС  "sulkea" ;
+паннемс+Hom1:панне IV_КУНДАМС  "maksaa" ;
 пантфнемс:пантфне TV_КУНДАМС  "maksattaa" ;
 пантфтомс:пантфт TV_АЛЫЯФТОМС  "maksattaa" ;
 панцемс:панце TV_КУНДАМС  "ajaa takaa, ahdistella" ;
@@ -6321,7 +6321,8 @@ LEXICON V_mdf2x
 педентьфтемс:педентьфть IV_НЯФТЕМС  "kiinnittää" ;
 педсемс:педсе IV_КУНДАМС  "olla tekemisissä (jnkn kanssa)" ;
 педявомс:педяв IV_АНДОВОМС  "tulla siivilöidyksi" ;
-педямс:педя IV_КУНДАМС  "siivilöidä" ;
+педямс+Hom1:педя TV_КУНДАМС  "siivilöidä" ;
+педямс+Hom2:педя IV_КУНДАМС  "liimautua" ;
 педяфнемс:педяфне TV_КУНДАМС  "panna siivilöimään" ;
 педяфтомс:педяфт TV_АЛЫЯФТОМС  "panna siivilöimään" ;
 пеедевомс:пеедев IV_АНДОВОМС  "naurahtaa" ;
@@ -6460,7 +6461,6 @@ LEXICON V_mdf2x
 пжнакшнемс+Use/SpellNoSugg:пъжнакшне IV_КУНДАМС  "sähistä" ;
 пжнамс:п%{ъØ%}жна IV_КУНДАМС  "sähistä" ;
 пжнамс+Use/SpellNoSugg:пъжна IV_КУНДАМС  "sähistä" ;
-пжнамс:п%{ъØ%}жна IV_КУНДАМС  "sähistä" ;
 пзмолдомс:п%{ъØ%}змолд IV_АНДОМС  "liikkua" ;
 пзмолдомс+Use/SpellNoSugg:пъзмолд IV_АНДОМС  "liikkua" ;
 пзмолфнемс:п%{ъØ%}змолфне TV_КУНДАМС  "liikuttaa" ;
@@ -6591,8 +6591,6 @@ LEXICON V_mdf2x
 пиштетьфтемс:пиштетьфть IV_НЯФТЕМС  "panna kärsimään" ;
 пкамс:п%{ъØ%}ка IV_КУНДАМС  "kopistella (jaloilla, kepillä)" ;
 пкамс+Use/SpellNoSugg:пъка IV_КУНДАМС  "kopistella (jaloilla, kepillä)" ;
-пкамс:пка IV_КУНДАМС  "työskennellä, tehdä työtä" ;
-пкамс+Use/SpellNoSugg:пъка IV_КУНДАМС  "työskennellä, tehdä työtä" ;
 пкафтомс:пкафт TV_АЛЫЯФТОМС  "teettää työtä, panna töihin" ;
 пкафтомс+Use/SpellNoSugg:пъкафт TV_АЛЫЯФТОМС  "teettää työtä, panna töihin" ;
 пкштадевомс:п%{ъØ%}кштадев IV_АНДОВОМС  "voida näpsäyttää" ;
