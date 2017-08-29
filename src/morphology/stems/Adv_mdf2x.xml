@@ -1,4 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">сельме ала</l>
+     <stg>
+       <st Contlex="ADV_">сельме ала</st>
+     </stg>
+   </lg> <pos>SPAT</pos> <phonet>śeľm(ə) ala</phonet>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">valvonnassa</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">арнефтома пингста</l>
+     <stg>
+       <st Contlex="ADV_">арнефтома пингста</st>
+     </stg> <phonet>arńəfťəma/ arnəftəma piŋksta</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">astutusaikaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">види</l>
+     <stg>
+       <st Contlex="ADV_">види</st>
+     </stg> <phonet>viďi</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">oikealle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дружнайста</l>
+     <stg>
+       <st Contlex="ADV_">дружнайста</st>
+     </stg> <phonet>družnajsta</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">sovussa</t>
+       <t pos="Adv">yksimielisesti</t>
+       <t pos="Adv">yksissä miehin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv" type="Degree">клёк</l>
+     <stg>
+       <st Contlex="Ad-A_">клёк</st>
+     </stg> <phonet>kľok</phonet>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="Degree">ihan</t>
+       <t pos="Adv" type="Degree">oikein</t>
+       <t pos="Adv" type="Degree">kaikkein</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">менель ала</l>
+     <stg>
+       <st Contlex="ADV_">менель ала</st>
+     </stg>
+   </lg> <pos>SPAT</pos> <phonet>meńəľ ala</phonet>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">taivasalla</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv">паця алон</l>
+     <stg>
+       <st Contlex="N_KAL">паця алон</st>
+     </stg>
+   </lg> <pos>SPAT</pos> <phonet>pać(ä) alən</phonet>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">siipeni alla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">рана</l>
+     <stg>
+       <st Contlex="ADV_">рана</st>
+     </stg>
+   </lg> <pos>TEMP</pos> <phonet>rana</phonet>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">varhain</t>
+       <t pos="Adv">aikaisin</t>
+     </tg>
+     <xg> <x>рана шобдава</x> <phonet>rana šobdava</phonet>
+       <xt xml:lang="fin">aikaisin aamulla</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">аськолдамань-аськолдамань</l>
@@ -24893,7 +25013,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Ad-A">эй</l>
+     <l pos="Adv" type="Degree">эй</l>
      <stg>
        <st Contlex="Ad-A_">эй</st>
      </stg> <phonet>ej</phonet>

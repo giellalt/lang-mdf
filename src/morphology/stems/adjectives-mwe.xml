@@ -48,25 +48,6 @@
     </mg>
   </e>
 
-  <e exclude="fst">
-    <lg>
-      <l pos="A">цебярь вайме</l>
-
-      <l_ref>вайме</l_ref>
-
-      <stg>
-        <st>цебярь вайме</st>
-      </stg>
-
-      <phonet>ćebäŕ vajmä</phonet>
-    </lg>
-
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="A">hyväntahtoinen</t>
-      </tg>
-    </mg>
-  </e>
 <e exclude="fst">
    <lg>
      <l pos="A">вазнянь пеке</l>
@@ -123,5 +104,22 @@
      </tg>
    </mg>
 </e>
+  <e exclude="fst">
+    <lg>
+      <l pos="A">кувака сялдаз</l>
+      <stg>
+        <st>кувака сялдаз</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <tg xml:lang="fin">
+        <t pos="A">pitkäkaulainen</t>
+      </tg>
+      <xg>
+	<x>кувака сялдаз сюлека</x>
+	<xt xml:lang="myv">кувака кирга сулика</xt>
+    </mg>
+  </e>
 
 </r>
