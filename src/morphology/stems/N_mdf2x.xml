@@ -21,6 +21,19 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="N">концерт</l>
+     <stg>
+       <st Contlex="N_KAL">концерт</st>
+     </stg> <phonet>koncert</phonet>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">konsertti</t>
+     </tg>
+   </mg>
+</e>
 <e exclude="fst">
    <lg>
      <l pos="N">кархчне</l>
