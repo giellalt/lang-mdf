@@ -42,6 +42,24 @@
 
   <e>
     <lg>
+      <l pos="N" type="Prop">Мордва</l>
+
+      <stg>
+        <st Contlex="PROP_">Мордва</st>
+      </stg>
+    </lg>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
       <l pos="N" type="Prop">Ага</l>
 
       <stg>
@@ -3394,6 +3412,24 @@
 
       <stg>
         <st Contlex="PROP_VAJ">Саранскяй</st>
+      </stg>
+    </lg>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="N" type="Prop"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N" type="Prop" sem_type="Plc">Саранск</l>
+
+      <stg>
+        <st Contlex="PROP_">Саранск</st>
       </stg>
     </lg>
 

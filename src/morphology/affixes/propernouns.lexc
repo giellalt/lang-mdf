@@ -7,6 +7,10 @@ LEXICON PropTag
  PROP_ ;
 LEXICON PROP_
 +N+Prop+Sg+Nom+Indef+TYÄ: K ;
++N+Prop+Sg+Nom+Def+TYÄ:%>сь K ;
++N+Prop+Sg+Gen+Indef+TYÄ:%>нь K ;
++N+Prop+Sg+Gen+Def+TYÄ:%>ть K ;
++N+Prop+Sg+Dat+Def+TYÄ:%>ти K ;
 
 LEXICON PROP_KAL
 +N+Prop: NMN_KAL	;
