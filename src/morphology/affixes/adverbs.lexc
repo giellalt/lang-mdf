@@ -13,9 +13,18 @@ LEXICON Ad-A_ 	!!= @CODE@ пяк
 LEXICON ADV_ 	!!= @CODE@ 
 +Adv: K ;
 
+LEXICON ADV-ITER
+!! кафксть
++Adv+Iter: K ;
+
+LEXICON ADV-INTERR-ITER
+!! мзярксть
++Adv+Interr+Iter: K ;
+
 
 LEXICON ADV-TEMP_ 	!!= @CODE@ 
 +Adv+Temp: K ;
+
 
 LEXICON GER_
 +Ger: K ;

@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst"> <lg><l pos="Adv">кода эряви</l><l_ref>эрявомс</l_ref><stg><st>кода эряви</st></stg> <phonet>koda eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">asianmukaisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">мяляфтовиста</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтовиста</st></stg> <phonet>mäľaftəvista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">ikimuistoisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">сярядиста</l><l_ref>сярядемс</l_ref><stg><st>сярядиста</st></stg> <phonet>śäŕäďista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">tuskallisesti, kivulloisesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">удалафста</l><l_ref>удаламс</l_ref><stg><st>удалафста</st></stg> <phonet>udalafsta</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">onnistuneesti</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Adv">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">ymmärrettävästi, selvästi</t></tg></mg></e>
+
+ <e exclude="fst"> <lg><l pos="Adv">кода эряви</l><l_ref>эрявомс</l_ref><stg><st>кода эряви</st></stg> <phonet>koda eŕavi</phonet> </lg><mg><tg xml:lang="fin"><t>asianmukaisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">мяляфтовиста</l><l_ref>мяляфтовомс</l_ref><stg><st>мяляфтовиста</st></stg> <phonet>mäľaftəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ikimuistoisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">сярядиста</l><l_ref>сярядемс</l_ref><stg><st>сярядиста</st></stg> <phonet>śäŕäďista</phonet> </lg><mg><tg xml:lang="fin"><t>tuskallisesti, kivulloisesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">удалафста</l><l_ref>удаламс</l_ref><stg><st>удалафста</st></stg> <phonet>udalafsta</phonet> </lg><mg><tg xml:lang="fin"><t>onnistuneesti</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Adv">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st>шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t>ymmärrettävästi, selvästi</t></tg></mg></e>
   <e exclude="fst">
     <lg>
-      <l pos="Adv">аксяла</l>
+      <l pos="Adv" type="mwe">аксяла</l>
 
       <l_ref>аксял</l_ref>
 
       <stg>
-        <st>аксяла</st>
+        <st Contlex="ADV_">аксяла</st>
       </stg>
 
       <phonet>akśala</phonet>
@@ -24,19 +25,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lavitsan alla</t>
+        <t>lavitsan alla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">аксялу</l>
+      <l pos="Adv" type="mwe">аксялу</l>
 
       <l_ref>аксял</l_ref>
 
       <stg>
-        <st>аксялу</st>
+        <st Contlex="ADV_">аксялу</st>
       </stg>
 
       <phonet>akśalu</phonet>
@@ -44,19 +45,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lavitsan alle</t>
+        <t>lavitsan alle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">алфавитонь коряс</l>
+      <l pos="Adv" type="mwe">алфавитонь коряс</l>
 
       <l_ref>алфавит</l_ref>
 
       <stg>
-        <st>алфавитонь коряс</st>
+        <st Contlex="ADV_">алфавитонь коряс</st>
       </stg>
 
       <phonet>alfavitəń koŕas</phonet>
@@ -64,19 +65,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aakkosjärjestyksessä</t>
+        <t>aakkosjärjestyksessä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">атянь-атяснон ёньца-лаца</l>
+      <l pos="Adv" type="mwe">атянь-атяснон ёньца-лаца</l>
 
       <l_ref>ёнь</l_ref>
 
       <stg>
-        <st>атянь-атяснон ёньца-лаца</st>
+        <st Contlex="ADV_">атянь-атяснон ёньца-лаца</st>
       </stg>
 
       <phonet>aťäń-aťasnən jońcə-laca</phonet>
@@ -84,19 +85,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vanhaan tapaan</t>
+        <t>vanhaan tapaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">аф пара вайгяльса</l>
+      <l pos="Adv" type="mwe">аф пара вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>аф пара вайгяльса</st>
+        <st Contlex="ADV_">аф пара вайгяльса</st>
       </stg>
 
       <phonet>af par(ə) vajgäľsa</phonet>
@@ -104,21 +105,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kauhistuneella äänellä</t>
+        <t>kauhistuneella äänellä</t>
 
-        <t pos="Adv">pelästyneellä äänellä</t>
+        <t>pelästyneellä äänellä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">вазьфтома</l>
+      <l pos="Adv" type="mwe">вазьфтома</l>
 
       <l_ref>вазь</l_ref>
 
       <stg>
-        <st>вазьфтома</st>
+        <st Contlex="ADV_">вазьфтома</st>
       </stg>
 
       <phonet>vaźftəma, vaźfťəmä</phonet>
@@ -126,21 +127,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lakitta</t>
+        <t>lakitta</t>
 
-        <t pos="Adv">ilman lakkia</t>
+        <t>ilman lakkia</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ваймокс-седикс</l>
+      <l pos="Adv" type="mwe">ваймокс-седикс</l>
 
       <l_ref>вайме</l_ref>
 
       <stg>
-        <st>ваймокс-седикс</st>
+        <st Contlex="ADV_">ваймокс-седикс</st>
       </stg>
 
       <phonet>vajməks-śeďiks</phonet>
@@ -148,19 +149,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">koko sydämestään ja sielustaan</t>
+        <t>koko sydämestään ja sielustaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ваймопола видева</l>
+      <l pos="Adv" type="mwe">ваймопола видева</l>
 
       <l_ref>вайме</l_ref>
 
       <stg>
-        <st>ваймопола видева</st>
+        <st Contlex="ADV_">ваймопола видева</st>
       </stg>
 
       <phonet>vajməpola viďəva</phonet>
@@ -168,21 +169,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">halunsa mukaan</t>
+        <t>halunsa mukaan</t>
 
-        <t pos="Adv">miten miellyttää</t>
+        <t>miten miellyttää</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ваймоса-мяльса</l>
+      <l pos="Adv" type="mwe">ваймоса-мяльса</l>
 
       <l_ref>вайме</l_ref>
 
       <stg>
-        <st>ваймоса-мяльса</st>
+        <st Contlex="ADV_">ваймоса-мяльса</st>
       </stg>
 
       <phonet>vajməsa-mäľsa</phonet>
@@ -190,19 +191,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">täydessä sovussa</t>
+        <t>täydessä sovussa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">валда валс</l>
+      <l pos="Adv" type="mwe">валда валс</l>
 
       <l_ref>вал</l_ref>
 
       <stg>
-        <st>валда валс</st>
+        <st Contlex="ADV_">валда валс</st>
       </stg>
 
       <phonet>valdə vals</phonet>
@@ -210,21 +211,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sanasta sanaan</t>
+        <t>sanasta sanaan</t>
 
-        <t pos="Adv">sanatarkasti</t>
+        <t>sanatarkasti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">валсост-кяльсост</l>
+      <l pos="Adv" type="mwe">валсост-кяльсост</l>
 
       <l_ref>вал</l_ref>
 
       <stg>
-        <st>валсост-кяльсост</st>
+        <st Contlex="ADV_">валсост-кяльсост</st>
       </stg>
 
       <phonet>valsəst-käľsəst</phonet>
@@ -232,21 +233,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">loitsuillaan</t>
+        <t>loitsuillaan</t>
 
-        <t pos="Adv">taikasanoillaan</t>
+        <t>taikasanoillaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">васту</l>
+      <l pos="Adv" type="mwe">васту</l>
 
       <l_ref>васта</l_ref>
 
       <stg>
-        <st>васту</st>
+        <st Contlex="ADV_">васту</st>
       </stg>
 
       <phonet>vastu</phonet>
@@ -254,21 +255,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paikkaan</t>
+        <t>paikkaan</t>
 
-        <t pos="Adv">paikalle</t>
+        <t>paikalle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">велень песа</l>
+      <l pos="Adv" type="mwe">велень песа</l>
 
       <l_ref>веле</l_ref>
 
       <stg>
-        <st>велень песа</st>
+        <st Contlex="ADV_">велень песа</st>
       </stg>
 
       <phonet>veľəń besa</phonet>
@@ -276,19 +277,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kylän reunalla</t>
+        <t>kylän reunalla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">велеть пева</l>
+      <l pos="Adv" type="mwe">велеть пева</l>
 
       <l_ref>пе</l_ref>
 
       <stg>
-        <st>велеть пева</st>
+        <st Contlex="ADV_">велеть пева</st>
       </stg>
 
       <phonet>veľəť peva</phonet>
@@ -296,19 +297,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kylän laidalla</t>
+        <t>kylän laidalla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">венельса</l>
+      <l pos="Adv" type="mwe">венельса</l>
 
       <l_ref>венель</l_ref>
 
       <stg>
-        <st>венельса</st>
+        <st Contlex="ADV_">венельса</st>
       </stg>
 
       <phonet>veńəľsa</phonet>
@@ -316,19 +317,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulkona</t>
+        <t>ulkona</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">вете метрань кувалмоса</l>
+      <l pos="Adv" type="mwe">вете метрань кувалмоса</l>
 
       <l_ref>кувалма</l_ref>
 
       <stg>
-        <st>вете метрань кувалмоса</st>
+        <st Contlex="ADV_">вете метрань кувалмоса</st>
       </stg>
 
       <phonet>veťə metrań kuvalməsa</phonet>
@@ -336,19 +337,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">viiden metrin pituudelta</t>
+        <t>viiden metrin pituudelta</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">види ширеса</l>
+      <l pos="Adv" type="mwe">види ширеса</l>
 
       <l_ref>види</l_ref>
 
       <stg>
-        <st>види ширеса</st>
+        <st Contlex="ADV_">види ширеса</st>
       </stg>
 
       <phonet>viďi šiŕəsa</phonet>
@@ -356,19 +357,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">oikealla puolella</t>
+        <t>oikealla puolella</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">вийса</l>
+      <l pos="Adv" type="mwe">вийса</l>
 
       <l_ref>вий</l_ref>
 
       <stg>
-        <st>вийса</st>
+        <st Contlex="ADV_">вийса</st>
       </stg>
 
       <phonet>vijsa</phonet>
@@ -376,21 +377,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">voimalla</t>
+        <t>voimalla</t>
 
-        <t pos="Adv">voimin</t>
+        <t>voimin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">жольфса</l>
+      <l pos="Adv" type="mwe">жольфса</l>
 
       <l_ref>жольф</l_ref>
 
       <stg>
-        <st>жольфса</st>
+        <st Contlex="ADV_">жольфса</st>
       </stg>
 
       <phonet>žoľfsa</phonet>
@@ -398,21 +399,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">solisten; liristen</t>
+        <t>solisten; liristen</t>
 
-        <t pos="Adv">loristen</t>
+        <t>loristen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кайги вайгяльса</l>
+      <l pos="Adv" type="mwe">кайги вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>кайги вайгяльса</st>
+        <st Contlex="ADV_">кайги вайгяльса</st>
       </stg>
 
       <phonet>kajgi vajgäľsa</phonet>
@@ -420,19 +421,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kovaan ääneen</t>
+        <t>kovaan ääneen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кайсесть пулоснон эса</l>
+      <l pos="Adv" type="mwe">кайсесть пулоснон эса</l>
 
       <l_ref>пула</l_ref>
 
       <stg>
-        <st>кайсесть пулоснон эса</st>
+        <st Contlex="ADV_">кайсесть пулоснон эса</st>
       </stg>
 
       <phonet>kajśəśť puləsnən esa</phonet>
@@ -440,21 +441,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">imartelivat</t>
+        <t>imartelivat</t>
 
-        <t pos="Adv">mielistelivät</t>
+        <t>mielistelivät</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">калма лангса</l>
+      <l pos="Adv" type="mwe">калма лангса</l>
 
       <l_ref>калма</l_ref>
 
       <stg>
-        <st>калма лангса</st>
+        <st Contlex="ADV_">калма лангса</st>
       </stg>
 
       <phonet>kalmə laŋksa</phonet>
@@ -462,19 +463,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">haudalla; haudan äärellä</t>
+        <t>haudalla; haudan äärellä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кархченкса-курхченкса</l>
+      <l pos="Adv" type="mwe">кархченкса-курхченкса</l>
 
       <l_ref>кархча</l_ref>
 
       <stg>
-        <st>кархченкса-курхченкса</st>
+        <st Contlex="ADV_">кархченкса-курхченкса</st>
       </stg>
 
       <phonet>karxčəŋksa- kurxčəŋksa</phonet>
@@ -482,19 +483,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tyhjän takia</t>
+        <t>tyhjän takia</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">каршеса</l>
+      <l pos="Adv" type="mwe">каршеса</l>
 
       <l_ref>карша</l_ref>
 
       <stg>
-        <st>каршеса</st>
+        <st Contlex="ADV_">каршеса</st>
       </stg>
 
       <phonet>karšəsa</phonet>
@@ -502,21 +503,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastassa</t>
+        <t>vastassa</t>
 
-        <t pos="Adv">vastatusten</t>
+        <t>vastatusten</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кафта метрань сереса</l>
+      <l pos="Adv" type="mwe">кафта метрань сереса</l>
 
       <l_ref>сере</l_ref>
 
       <stg>
-        <st>кафта метрань сереса</st>
+        <st Contlex="ADV_">кафта метрань сереса</st>
       </stg>
 
       <phonet>kafta metrań śeŕəsa</phonet>
@@ -524,19 +525,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kahden metrin korkeudessa</t>
+        <t>kahden metrin korkeudessa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кафта пряса</l>
+      <l pos="Adv" type="mwe">кафта пряса</l>
 
       <l_ref>кафта</l_ref>
 
       <stg>
-        <st>кафта пряса</st>
+        <st Contlex="ADV_">кафта пряса</st>
       </stg>
 
       <phonet>kaftə pŕasa</phonet>
@@ -544,19 +545,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaksipäinen</t>
+        <t>kaksipäinen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кафту</l>
+      <l pos="Adv" type="mwe">кафту</l>
 
       <l_ref>кафта</l_ref>
 
       <stg>
-        <st>кафту</st>
+        <st Contlex="ADV_">кафту</st>
       </stg>
 
       <phonet>kaftu</phonet>
@@ -564,19 +565,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kahtia</t>
+        <t>kahtia</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кафтува</l>
+      <l pos="Adv" type="mwe">кафтува</l>
 
       <l_ref>кафта</l_ref>
 
       <stg>
-        <st>кафтува</st>
+        <st Contlex="ADV_">кафтува</st>
       </stg>
 
       <phonet>kaftuva</phonet>
@@ -584,19 +585,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">(taittaa) kaksinkerroin</t>
+        <t>(taittaa) kaksinkerroin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ки лангса</l>
+      <l pos="Adv" type="mwe">ки лангса</l>
 
       <l_ref>ки</l_ref>
 
       <stg>
-        <st>ки лангса</st>
+        <st Contlex="ADV_">ки лангса</st>
       </stg>
 
       <phonet>ki laŋksa</phonet>
@@ -604,19 +605,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">matkalla</t>
+        <t>matkalla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кияксу</l>
+      <l pos="Adv" type="mwe">кияксу</l>
 
       <l_ref>киякс</l_ref>
 
       <stg>
-        <st>кияксу</st>
+        <st Contlex="ADV_">кияксу</st>
       </stg>
 
       <phonet>kijaksu</phonet>
@@ -624,19 +625,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lattialle</t>
+        <t>lattialle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">колендихть картаса</l>
+      <l pos="Adv" type="mwe">колендихть картаса</l>
 
       <l_ref>карта</l_ref>
 
       <stg>
-        <st>колендихть картаса</st>
+        <st Contlex="ADV_">колендихть картаса</st>
       </stg>
 
       <phonet>koľəńďixť kartasa</phonet>
@@ -644,19 +645,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pelaavat korttia</t>
+        <t>pelaavat korttia</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">коньф сельмоса</l>
+      <l pos="Adv" type="mwe">коньф сельмоса</l>
 
       <l_ref>сельме</l_ref>
 
       <stg>
-        <st>коньф сельмоса</st>
+        <st Contlex="ADV_">коньф сельмоса</st>
       </stg>
 
       <phonet>końf śeľməsа</phonet>
@@ -664,21 +665,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">silmät kiinni</t>
+        <t>silmät kiinni</t>
 
-        <t pos="Adv">suljetuin silmin</t>
+        <t>suljetuin silmin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">куд фталу</l>
+      <l pos="Adv" type="mwe">куд фталу</l>
 
       <l_ref>фтал</l_ref>
 
       <stg>
-        <st>куд фталу</st>
+        <st Contlex="ADV_">куд фталу</st>
       </stg>
 
       <phonet>kud ftalu</phonet>
@@ -686,19 +687,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">talon taakse; takapihalle</t>
+        <t>talon taakse; takapihalle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кудса</l>
+      <l pos="Adv" type="mwe">кудса</l>
 
       <l_ref>куд</l_ref>
 
       <stg>
-        <st>кудса</st>
+        <st Contlex="ADV_">кудса</st>
       </stg>
 
       <phonet>kuca</phonet>
@@ -706,19 +707,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kotona</t>
+        <t>kotona</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кукафни гармониятнень эса</l>
+      <l pos="Adv" type="mwe">кукафни гармониятнень эса</l>
 
       <l_ref>гармония</l_ref>
 
       <stg>
-        <st>кукафни гармониятнень эса</st>
+        <st Contlex="ADV_">кукафни гармониятнень эса</st>
       </stg>
 
       <phonet>kukafńi garmońijäťńəń esa</phonet>
@@ -726,19 +727,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hän soittaa harmonikkaa</t>
+        <t>hän soittaa harmonikkaa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">курнянь келеса</l>
+      <l pos="Adv" type="mwe">курнянь келеса</l>
 
       <l_ref>курня</l_ref>
 
       <stg>
-        <st>курнянь келеса</st>
+        <st Contlex="ADV_">курнянь келеса</st>
       </stg>
 
       <phonet>kurńäń keľəsa</phonet>
@@ -746,21 +747,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yhdessä</t>
+        <t>yhdessä</t>
 
-        <t pos="Adv">yhteisesti</t>
+        <t>yhteisesti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">кядь ёжеса</l>
+      <l pos="Adv" type="mwe">кядь ёжеса</l>
 
       <l_ref>ёжа</l_ref>
 
       <stg>
-        <st>кядь ёжеса</st>
+        <st Contlex="ADV_">кядь ёжеса</st>
       </stg>
 
       <phonet>käď jožəsa</phonet>
@@ -768,21 +769,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">käsin tunnustelemalla</t>
+        <t>käsin tunnustelemalla</t>
 
-        <t pos="Adv">hapuillen</t>
+        <t>hapuillen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">лама этажса</l>
+      <l pos="Adv" type="mwe">лама этажса</l>
 
       <l_ref>лама</l_ref>
 
       <stg>
-        <st>лама этажса</st>
+        <st Contlex="ADV_">лама этажса</st>
       </stg>
 
       <phonet>lam(ə) etažsa</phonet>
@@ -790,19 +791,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">monikerroksinen</t>
+        <t>monikerroksinen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ломанень масторса</l>
+      <l pos="Adv" type="mwe">ломанень масторса</l>
 
       <l_ref>мастор</l_ref>
 
       <stg>
-        <st>ломанень масторса</st>
+        <st Contlex="ADV_">ломанень масторса</st>
       </stg>
 
       <phonet>lomańəń mastərsa</phonet>
@@ -810,19 +811,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vieraalla maalla</t>
+        <t>vieraalla maalla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">маласа</l>
+      <l pos="Adv" type="mwe">маласа</l>
 
       <l_ref>мала</l_ref>
 
       <stg>
-        <st>маласа</st>
+        <st Contlex="ADV_">маласа</st>
       </stg>
 
       <phonet>malasa</phonet>
@@ -830,21 +831,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lähellä</t>
+        <t>lähellä</t>
 
-        <t pos="Adv">läheisyydessä</t>
+        <t>läheisyydessä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">марнява</l>
+      <l pos="Adv" type="mwe">марнява</l>
 
       <l_ref>марня</l_ref>
 
       <stg>
-        <st>марнява</st>
+        <st Contlex="ADV_">марнява</st>
       </stg>
 
       <phonet>marńava</phonet>
@@ -852,19 +853,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kasoiksi</t>
+        <t>kasoiksi</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">марстонь вийса</l>
+      <l pos="Adv" type="mwe">марстонь вийса</l>
 
       <l_ref>вий</l_ref>
 
       <stg>
-        <st>марстонь вийса</st>
+        <st Contlex="ADV_">марстонь вийса</st>
       </stg>
 
       <phonet>marstəń vijsa</phonet>
@@ -872,19 +873,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yhteisvoimin</t>
+        <t>yhteisvoimin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">мастору</l>
+      <l pos="Adv" type="mwe">мастору</l>
 
       <l_ref>мастор</l_ref>
 
       <stg>
-        <st>мастору</st>
+        <st Contlex="ADV_">мастору</st>
       </stg>
 
       <phonet>mastəru</phonet>
@@ -892,27 +893,27 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">maahan</t>
+        <t>maahan</t>
 
-        <t pos="Adv">alas (­päin)</t>
+        <t>alas (­päin)</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lattialle</t>
+        <t>lattialle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">митингса</l>
+      <l pos="Adv" type="mwe">митингса</l>
 
       <l_ref>митинг</l_ref>
 
       <stg>
-        <st>митингса</st>
+        <st Contlex="ADV_">митингса</st>
       </stg>
 
       <phonet>miťiŋksa</phonet>
@@ -920,19 +921,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kokouksessa</t>
+        <t>kokouksessa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ниле кядьса-пильгса</l>
+      <l pos="Adv" type="mwe">ниле кядьса-пильгса</l>
 
       <l_ref>кядь</l_ref>
 
       <stg>
-        <st>ниле кядьса-пильгса</st>
+        <st Contlex="ADV_">ниле кядьса-пильгса</st>
       </stg>
 
       <phonet>ńiľə käcə-piľksa</phonet>
@@ -940,19 +941,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nelinkontin</t>
+        <t>nelinkontin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ниле кядьса-пильгса</l>
+      <l pos="Adv" type="mwe">ниле кядьса-пильгса</l>
 
       <l_ref>пильге</l_ref>
 
       <stg>
-        <st>ниле кядьса-пильгса</st>
+        <st Contlex="ADV_">ниле кядьса-пильгса</st>
       </stg>
 
       <phonet>ńiľə käcə-piľksa</phonet>
@@ -960,19 +961,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nelinkontin</t>
+        <t>nelinkontin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">од пара пряса</l>
+      <l pos="Adv" type="mwe">од пара пряса</l>
 
       <l_ref>од</l_ref>
 
       <stg>
-        <st>од пара пряса</st>
+        <st Contlex="ADV_">од пара пряса</st>
       </stg>
 
       <phonet>od par(ə) pŕasa</phonet>
@@ -980,19 +981,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">niin nuori; niin nuorena</t>
+        <t>niin nuori; niin nuorena</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">офтокс касы</l>
+      <l pos="Adv" type="mwe">офтокс касы</l>
 
       <l_ref>офта</l_ref>
 
       <stg>
-        <st>офтокс касы</st>
+        <st Contlex="ADV_">офтокс касы</st>
       </stg>
 
       <phonet>oftəks kasi</phonet>
@@ -1000,19 +1001,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kasvaa kohisten</t>
+        <t>kasvaa kohisten</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">офтонь ужеса</l>
+      <l pos="Adv" type="mwe">офтонь ужеса</l>
 
       <l_ref>офта</l_ref>
 
       <stg>
-        <st>офтонь ужеса</st>
+        <st Contlex="ADV_">офтонь ужеса</st>
       </stg>
 
       <phonet>oftəń užəsa</phonet>
@@ -1020,21 +1021,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jumalan selän takana</t>
+        <t>jumalan selän takana</t>
 
-        <t pos="Adv">peräkorvessa</t>
+        <t>peräkorvessa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">офтонь ужеса</l>
+      <l pos="Adv" type="mwe">офтонь ужеса</l>
 
       <l_ref>ужа</l_ref>
 
       <stg>
-        <st>офтонь ужеса</st>
+        <st Contlex="ADV_">офтонь ужеса</st>
       </stg>
 
       <phonet>oftəń užəsa</phonet>
@@ -1042,21 +1043,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">jumalan selän takana</t>
+        <t>jumalan selän takana</t>
 
-        <t pos="Adv">peräkorvessa</t>
+        <t>peräkorvessa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">оцю аськолксса</l>
+      <l pos="Adv" type="mwe">оцю аськолксса</l>
 
       <l_ref>аськолкс</l_ref>
 
       <stg>
-        <st>оцю аськолксса</st>
+        <st Contlex="ADV_">оцю аськолксса</st>
       </stg>
 
       <phonet>oću aśkəlkssa</phonet>
@@ -1064,19 +1065,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">pitkin askelin</t>
+        <t>pitkin askelin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">оцю вайгяльса</l>
+      <l pos="Adv" type="mwe">оцю вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>оцю вайгяльса</st>
+        <st Contlex="ADV_">оцю вайгяльса</st>
       </stg>
 
       <phonet>oću vajgäľsa</phonet>
@@ -1084,19 +1085,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suureen ääneen</t>
+        <t>suureen ääneen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">оцю мяльса</l>
+      <l pos="Adv" type="mwe">оцю мяльса</l>
 
       <l_ref>мяль</l_ref>
 
       <stg>
-        <st>оцю мяльса</st>
+        <st Contlex="ADV_">оцю мяльса</st>
       </stg>
 
       <phonet>oću mäľsa</phonet>
@@ -1104,21 +1105,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mielellään</t>
+        <t>mielellään</t>
 
-        <t pos="Adv">omasta halustaan</t>
+        <t>omasta halustaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ошса</l>
+      <l pos="Adv" type="mwe">ошса</l>
 
       <l_ref>ош</l_ref>
 
       <stg>
-        <st>ошса</st>
+        <st Contlex="ADV_">ошса</st>
       </stg>
 
       <phonet>ošsa</phonet>
@@ -1126,19 +1127,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaupungissa</t>
+        <t>kaupungissa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ошста ошс</l>
+      <l pos="Adv" type="mwe">ошста ошс</l>
 
       <l_ref>ош</l_ref>
 
       <stg>
-        <st>ошста ошс</st>
+        <st Contlex="ADV_">ошста ошс</st>
       </stg>
 
       <phonet>ošst(ə) ošs</phonet>
@@ -1146,19 +1147,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaupungista kaupunkiin</t>
+        <t>kaupungista kaupunkiin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">пара ломаттнень минь васетькшнесаськ кшиса-салса</l>
+      <l pos="Adv" type="mwe">пара ломаттнень минь васетькшнесаськ кшиса-салса</l>
 
       <l_ref>кши</l_ref>
 
       <stg>
-        <st>пара ломаттнень минь васетькшнесаськ кшиса-салса</st>
+        <st Contlex="ADV_">пара ломаттнень минь васетькшнесаськ кшиса-салса</st>
       </stg>
 
       <phonet>parə lomaťťńəń miń vaśəťkšńəsaśk kšisə-salsa</phonet>
@@ -1166,19 +1167,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hyvät ihmiset me otamme vastaan leivän ja suolan kanssa</t>
+        <t>hyvät ihmiset me otamme vastaan leivän ja suolan kanssa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">пиле видева долг-шума потмоса</l>
+      <l pos="Adv" type="mwe">пиле видева долг-шума потмоса</l>
 
       <l_ref>шума</l_ref>
 
       <stg>
-        <st>пиле видева долг-шума потмоса</st>
+        <st Contlex="ADV_">пиле видева долг-шума потмоса</st>
       </stg>
 
       <phonet>piľä viďəva dolk-šumə potməsa</phonet>
@@ -1186,19 +1187,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">korvia myöten veloissa</t>
+        <t>korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">пиле видева долга-шума потмоса</l>
+      <l pos="Adv" type="mwe">пиле видева долга-шума потмоса</l>
 
       <l_ref>потма</l_ref>
 
       <stg>
-        <st>пиле видева долга-шума потмоса</st>
+        <st Contlex="ADV_">пиле видева долга-шума потмоса</st>
       </stg>
 
       <phonet>piľə viďəva dolgə-šumə potməsa</phonet>
@@ -1206,19 +1207,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">korvia myöten veloissa</t>
+        <t>korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">пиле видева долгу-шума потмоса</l>
+      <l pos="Adv" type="mwe">пиле видева долгу-шума потмоса</l>
 
       <l_ref>пиле</l_ref>
 
       <stg>
-        <st>пиле видева долгу-шума потмоса</st>
+        <st Contlex="ADV_">пиле видева долгу-шума потмоса</st>
       </stg>
 
       <phonet>piľə viďəva dolgu-šumə potməsa</phonet>
@@ -1226,19 +1227,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">korvia myöten veloissa</t>
+        <t>korvia myöten veloissa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">плманжа видева</l>
+      <l pos="Adv" type="mwe">плманжа видева</l>
 
       <l_ref>плманжа</l_ref>
 
       <stg>
-        <st>плманжа видева</st>
+        <st Contlex="ADV_">плманжа видева</st>
       </stg>
 
       <phonet>pəlmanǯa viďəva</phonet>
@@ -1246,19 +1247,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">polveen asti</t>
+        <t>polveen asti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">потмоса</l>
+      <l pos="Adv" type="mwe">потмоса</l>
 
       <l_ref>потма</l_ref>
 
       <stg>
-        <st>потмоса</st>
+        <st Contlex="ADV_">потмоса</st>
       </stg>
 
       <phonet>potməsa</phonet>
@@ -1266,21 +1267,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sisällä</t>
+        <t>sisällä</t>
 
-        <t pos="Adv">sisässä</t>
+        <t>sisässä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">потму</l>
+      <l pos="Adv" type="mwe">потму</l>
 
       <l_ref>потма</l_ref>
 
       <stg>
-        <st>потму</st>
+        <st Contlex="ADV_">потму</st>
       </stg>
 
       <phonet>potmu</phonet>
@@ -1288,21 +1289,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">sisään</t>
+        <t>sisään</t>
 
-        <t pos="Adv">sisälle</t>
+        <t>sisälle</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">пяле вайгяльса</l>
+      <l pos="Adv" type="mwe">пяле вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>пяле вайгяльса</st>
+        <st Contlex="ADV_">пяле вайгяльса</st>
       </stg>
 
       <phonet>päľə vajgäľsa</phonet>
@@ -1310,19 +1311,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">puoliääneen</t>
+        <t>puoliääneen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">равжа пакарьса</l>
+      <l pos="Adv" type="mwe">равжа пакарьса</l>
 
       <l_ref>равжа</l_ref>
 
       <stg>
-        <st>равжа пакарьса</st>
+        <st Contlex="ADV_">равжа пакарьса</st>
       </stg>
 
       <phonet>ravžə pakaŕsa</phonet>
@@ -1330,21 +1331,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">murheessa</t>
+        <t>murheessa</t>
 
-        <t pos="Adv">kurjuudessa</t>
+        <t>kurjuudessa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">рана шобдава</l>
+      <l pos="Adv" type="mwe">рана шобдава</l>
 
       <l_ref>рана</l_ref>
 
       <stg>
-        <st>рана шобдава</st>
+        <st Contlex="ADV_">рана шобдава</st>
       </stg>
 
       <phonet>rana šobdava</phonet>
@@ -1352,19 +1353,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">aikaisin aamulla</t>
+        <t>aikaisin aamulla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ротаса-ротаса</l>
+      <l pos="Adv" type="mwe">ротаса-ротаса</l>
 
       <l_ref>рота</l_ref>
 
       <stg>
-        <st>ротаса-ротаса</st>
+        <st Contlex="ADV_">ротаса-ротаса</st>
       </stg>
 
       <phonet>rotasa-rotasa</phonet>
@@ -1372,19 +1373,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">komppanioittain</t>
+        <t>komppanioittain</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">саразонь сельмоса</l>
+      <l pos="Adv" type="mwe">саразонь сельмоса</l>
 
       <l_ref>сараз</l_ref>
 
       <stg>
-        <st>саразонь сельмоса</st>
+        <st Contlex="ADV_">саразонь сельмоса</st>
       </stg>
 
       <phonet>sarazəń śeľməsa</phonet>
@@ -1392,19 +1393,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hämäräsokea</t>
+        <t>hämäräsokea</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">саразонь сельмоса</l>
+      <l pos="Adv" type="mwe">саразонь сельмоса</l>
 
       <l_ref>сельме</l_ref>
 
       <stg>
-        <st>саразонь сельмоса</st>
+        <st Contlex="ADV_">саразонь сельмоса</st>
       </stg>
 
       <phonet>sarazəń śeľməsa</phonet>
@@ -1412,19 +1413,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hämäräsokea</t>
+        <t>hämäräsokea</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сембе вастова</l>
+      <l pos="Adv" type="mwe">сембе вастова</l>
 
       <l_ref>васта</l_ref>
 
       <stg>
-        <st>сембе вастова</st>
+        <st Contlex="ADV_">сембе вастова</st>
       </stg>
 
       <phonet>śembə vastəva</phonet>
@@ -1432,21 +1433,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kaikkialle</t>
+        <t>kaikkialle</t>
 
-        <t pos="Adv">joka paikkaan</t>
+        <t>joka paikkaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сире койса-киса</l>
+      <l pos="Adv" type="mwe">сире койса-киса</l>
 
       <l_ref>ки</l_ref>
 
       <stg>
-        <st>сире койса-киса</st>
+        <st Contlex="ADV_">сире койса-киса</st>
       </stg>
 
       <phonet>śiŕə kojsə-kisa</phonet>
@@ -1454,19 +1455,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vanhaan tapaan</t>
+        <t>vanhaan tapaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сире койса-киса</l>
+      <l pos="Adv" type="mwe">сире койса-киса</l>
 
       <l_ref>кой</l_ref>
 
       <stg>
-        <st>сире койса-киса</st>
+        <st Contlex="ADV_">сире койса-киса</st>
       </stg>
 
       <phonet>śiŕə kojsə-kisa</phonet>
@@ -1474,19 +1475,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vanhaan malliin</t>
+        <t>vanhaan malliin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сисем вайгяльса</l>
+      <l pos="Adv" type="mwe">сисем вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>сисем вайгяльса</st>
+        <st Contlex="ADV_">сисем вайгяльса</st>
       </stg>
 
       <phonet>śiśəm vajgäľsa</phonet>
@@ -1494,19 +1495,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">suurella hälyllä</t>
+        <t>suurella hälyllä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сон рдаз потмоса</l>
+      <l pos="Adv" type="mwe">сон рдаз потмоса</l>
 
       <l_ref>потма</l_ref>
 
       <stg>
-        <st>сон рдаз потмоса</st>
+        <st Contlex="ADV_">сон рдаз потмоса</st>
       </stg>
 
       <phonet>son ərdas potməsa</phonet>
@@ -1514,19 +1515,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">hän on kauttaaltaan kurassa</t>
+        <t>hän on kauttaaltaan kurassa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сур ёткова</l>
+      <l pos="Adv" type="mwe">сур ёткова</l>
 
       <l_ref>сур</l_ref>
 
       <stg>
-        <st>сур ёткова</st>
+        <st Contlex="ADV_">сур ёткова</st>
       </stg>
 
       <phonet>sur jotkəva</phonet>
@@ -1534,19 +1535,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">huolimattomasti</t>
+        <t>huolimattomasti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сур ёткова</l>
+      <l pos="Adv" type="mwe">сур ёткова</l>
 
       <l_ref>ётка</l_ref>
 
       <stg>
-        <st>сур ёткова</st>
+        <st Contlex="ADV_">сур ёткова</st>
       </stg>
 
       <phonet>sur jotkəva</phonet>
@@ -1554,19 +1555,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">huolimattomasti</t>
+        <t>huolimattomasti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сяконь ёткова</l>
+      <l pos="Adv" type="mwe">сяконь ёткова</l>
 
       <l_ref>ётка</l_ref>
 
       <stg>
-        <st>сяконь ёткова</st>
+        <st Contlex="ADV_">сяконь ёткова</st>
       </stg>
 
       <phonet>śakəń jotkəva</phonet>
@@ -1574,21 +1575,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kesken kaiken</t>
+        <t>kesken kaiken</t>
 
-        <t pos="Adv">sillä välin</t>
+        <t>sillä välin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">сёрматф блёсткаса</l>
+      <l pos="Adv" type="mwe">сёрматф блёсткаса</l>
 
       <l_ref>блёстка</l_ref>
 
       <stg>
-        <st>сёрматф блёсткаса</st>
+        <st Contlex="ADV_">сёрматф блёсткаса</st>
       </stg>
 
       <phonet>śormatf bľos(t)kasa</phonet>
@@ -1596,19 +1597,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paljetein koristettu</t>
+        <t>paljetein koristettu</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">тяльмоса</l>
+      <l pos="Adv" type="mwe">тяльмоса</l>
 
       <l_ref>тяльме</l_ref>
 
       <stg>
-        <st>тяльмоса</st>
+        <st Contlex="ADV_">тяльмоса</st>
       </stg>
 
       <phonet>ťäľməsa</phonet>
@@ -1616,19 +1617,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">luudalla</t>
+        <t>luudalla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">тяфтама якшамня</l>
+      <l pos="Adv" type="mwe">тяфтама якшамня</l>
 
       <l_ref>якшама</l_ref>
 
       <stg>
-        <st>тяфтама якшамня</st>
+        <st Contlex="ADV_">тяфтама якшамня</st>
       </stg>
 
       <phonet>ťaftam(ə) jakšamńä</phonet>
@@ -1636,19 +1637,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">näin kylmällä</t>
+        <t>näin kylmällä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">увфса</l>
+      <l pos="Adv" type="mwe">увфса</l>
 
       <l_ref>увф</l_ref>
 
       <stg>
-        <st>увфса</st>
+        <st Contlex="ADV_">увфса</st>
       </stg>
 
       <phonet>uvfsa</phonet>
@@ -1656,21 +1657,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kohinalla</t>
+        <t>kohinalla</t>
 
-        <t pos="Adv">kohisten</t>
+        <t>kohisten</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ужева</l>
+      <l pos="Adv" type="mwe">ужева</l>
 
       <l_ref>ужа</l_ref>
 
       <stg>
-        <st>ужева</st>
+        <st Contlex="ADV_">ужева</st>
       </stg>
 
       <phonet>užəva</phonet>
@@ -1678,19 +1679,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nurkkiin</t>
+        <t>nurkkiin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ужеса</l>
+      <l pos="Adv" type="mwe">ужеса</l>
 
       <l_ref>ужа</l_ref>
 
       <stg>
-        <st>ужеса</st>
+        <st Contlex="ADV_">ужеса</st>
       </stg>
 
       <phonet>užəsa</phonet>
@@ -1698,19 +1699,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">nurkassa</t>
+        <t>nurkassa</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">урокса</l>
+      <l pos="Adv" type="mwe">урокса</l>
 
       <l_ref>урок</l_ref>
 
       <stg>
-        <st>урокса</st>
+        <st Contlex="ADV_">урокса</st>
       </stg>
 
       <phonet>uroksa</phonet>
@@ -1718,19 +1719,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">tunnilla</t>
+        <t>tunnilla</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">утору вармат</l>
+      <l pos="Adv" type="mwe">утору вармат</l>
 
       <l_ref>утор</l_ref>
 
       <stg>
-        <st>утору вармат</st>
+        <st Contlex="ADV_">утору вармат</st>
       </stg>
 
       <phonet>utəru varmat</phonet>
@@ -1738,19 +1739,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">vastatuuleen</t>
+        <t>vastatuuleen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ушеса</l>
+      <l pos="Adv" type="mwe">ушеса</l>
 
       <l_ref>уша</l_ref>
 
       <stg>
-        <st>ушеса</st>
+        <st Contlex="ADV_">ушеса</st>
       </stg>
 
       <phonet>ušəsa</phonet>
@@ -1758,19 +1759,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulkona</t>
+        <t>ulkona</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ушу</l>
+      <l pos="Adv" type="mwe">ушу</l>
 
       <l_ref>уша</l_ref>
 
       <stg>
-        <st>ушу</st>
+        <st Contlex="ADV_">ушу</st>
       </stg>
 
       <phonet>ušu</phonet>
@@ -1778,19 +1779,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ulos</t>
+        <t>ulos</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">фкя вайгяльса</l>
+      <l pos="Adv" type="mwe">фкя вайгяльса</l>
 
       <l_ref>вайгяль</l_ref>
 
       <stg>
-        <st>фкя вайгяльса</st>
+        <st Contlex="ADV_">фкя вайгяльса</st>
       </stg>
 
       <phonet>fkä vajgäľsa</phonet>
@@ -1798,27 +1799,27 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">yhteen ääneen</t>
+        <t>yhteen ääneen</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">monotonisesti</t>
+        <t>monotonisesti</t>
 
-        <t pos="Adv">yksitoikkoisesti</t>
+        <t>yksitoikkoisesti</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">шкай лемса</l>
+      <l pos="Adv" type="mwe">шкай лемса</l>
 
       <l_ref>лем</l_ref>
 
       <stg>
-        <st>шкай лемса</st>
+        <st Contlex="ADV_">шкай лемса</st>
       </stg>
 
       <phonet>škaj ľemca</phonet>
@@ -1826,25 +1827,25 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">Jumalan nimeen</t>
+        <t>Jumalan nimeen</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">Jumalan nimessä</t>
+        <t>Jumalan nimessä</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">эрямок</l>
+      <l pos="Adv" type="mwe">эрямок</l>
 
       <l_ref>эряма</l_ref>
 
       <stg>
-        <st>эрямок</st>
+        <st Contlex="ADV_">эрямок</st>
       </stg>
 
       <phonet>eŕamək</phonet>
@@ -1852,21 +1853,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">eläessään</t>
+        <t>eläessään</t>
 
-        <t pos="Adv">elämässään</t>
+        <t>elämässään</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">эрямс алянь-тидянь кядьса</l>
+      <l pos="Adv" type="mwe">эрямс алянь-тидянь кядьса</l>
 
       <l_ref>кядь</l_ref>
 
       <stg>
-        <st>эрямс алянь-тидянь кядьса</st>
+        <st Contlex="ADV_">эрямс алянь-тидянь кядьса</st>
       </stg>
 
       <phonet>eŕams aľäń-ťiďäń käca</phonet>
@@ -1874,19 +1875,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">asua vanhempiensa luona</t>
+        <t>asua vanhempiensa luona</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">эсь мялень корява</l>
+      <l pos="Adv" type="mwe">эсь мялень корява</l>
 
       <l_ref>мяль</l_ref>
 
       <stg>
-        <st>эсь мялень корява</st>
+        <st Contlex="ADV_">эсь мялень корява</st>
       </stg>
 
       <phonet>eś mäľəń koŕava</phonet>
@@ -1894,19 +1895,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mielensä mukaan</t>
+        <t>mielensä mukaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">эсь мяльса</l>
+      <l pos="Adv" type="mwe">эсь мяльса</l>
 
       <l_ref>мяль</l_ref>
 
       <stg>
-        <st>эсь мяльса</st>
+        <st Contlex="ADV_">эсь мяльса</st>
       </stg>
 
       <phonet>eś mäľsa</phonet>
@@ -1914,21 +1915,21 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">mielellään</t>
+        <t>mielellään</t>
 
-        <t pos="Adv">omasta halustaan</t>
+        <t>omasta halustaan</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">якшамста</l>
+      <l pos="Adv" type="mwe">якшамста</l>
 
       <l_ref>якшама</l_ref>
 
       <stg>
-        <st>якшамста</st>
+        <st Contlex="ADV_">якшамста</st>
       </stg>
 
       <phonet>jakšamsta</phonet>
@@ -1936,19 +1937,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">kylmästi</t>
+        <t>kylmästi</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ялга ёткова</l>
+      <l pos="Adv" type="mwe">ялга ёткова</l>
 
       <l_ref>ялга</l_ref>
 
       <stg>
-        <st>ялга ёткова</st>
+        <st Contlex="ADV_">ялга ёткова</st>
       </stg>
 
       <phonet>jalga jotkəva</phonet>
@@ -1956,19 +1957,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ystävien kesken</t>
+        <t>ystävien kesken</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ялга ёткова</l>
+      <l pos="Adv" type="mwe">ялга ёткова</l>
 
       <l_ref>ётка</l_ref>
 
       <stg>
-        <st>ялга ёткова</st>
+        <st Contlex="ADV_">ялга ёткова</st>
       </stg>
 
       <phonet>jalga jotkəva</phonet>
@@ -1976,19 +1977,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ystävien kesken</t>
+        <t>ystävien kesken</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ялгань келеса</l>
+      <l pos="Adv" type="mwe">ялгань келеса</l>
 
       <l_ref>келе</l_ref>
 
       <stg>
-        <st>ялгань келеса</st>
+        <st Contlex="ADV_">ялгань келеса</st>
       </stg>
 
       <phonet>jalgań keľəsa</phonet>
@@ -1996,19 +1997,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ystävien kesken</t>
+        <t>ystävien kesken</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ярхцамда меле</l>
+      <l pos="Adv" type="mwe">ярхцамда меле</l>
 
       <l_ref>ярхцама</l_ref>
 
       <stg>
-        <st>ярхцамда меле</st>
+        <st Contlex="ADV_">ярхцамда меле</st>
       </stg>
 
       <phonet>jarxcamdə meľä</phonet>
@@ -2016,19 +2017,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">ruuan jälkeen</t>
+        <t>ruuan jälkeen</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ётконь путозь</l>
+      <l pos="Adv" type="mwe">ётконь путозь</l>
 
       <l_ref>ётка</l_ref>
 
       <stg>
-        <st>ётконь путозь</st>
+        <st Contlex="ADV_">ётконь путозь</st>
       </stg>
 
       <phonet>jotkəń putəź</phonet>
@@ -2036,19 +2037,19 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">joskus</t>
+        <t>joskus</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ётконь-ётконь</l>
+      <l pos="Adv" type="mwe">ётконь-ётконь</l>
 
       <l_ref>ётка</l_ref>
 
       <stg>
-        <st>ётконь-ётконь</st>
+        <st Contlex="ADV_">ётконь-ётконь</st>
       </stg>
 
       <phonet>jotkəń-jotkəń</phonet>
@@ -2056,25 +2057,25 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">joskus</t>
+        <t>joskus</t>
       </tg>
     </mg>
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">paikka paikoin</t>
+        <t>paikka paikoin</t>
       </tg>
     </mg>
   </e>
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv">ёткшиста</l>
+      <l pos="Adv" type="mwe">ёткшиста</l>
 
       <l_ref>ёткши</l_ref>
 
       <stg>
-        <st>ёткшиста</st>
+        <st Contlex="ADV_">ёткшиста</st>
       </stg>
 
       <phonet>jotkšista</phonet>
@@ -2082,261 +2083,9 @@
 
     <mg>
       <tg xml:lang="fin">
-        <t pos="Adv">lauantaina</t>
+        <t>lauantaina</t>
       </tg>
     </mg>
   </e>
 
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">фкя вайгяльса</l>
-     <stg>
-       <st Contlex="ADV_">фкя вайгяльса</st>
-     </stg>
-   <phonet>fkä vajgäľsa</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">1. yhteen ääneen. 2. monotonisesti, yksitoikkoisesti</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">ваймоса-мяльса</l>
-     <stg>
-       <st Contlex="ADV_">ваймоса-мяльса</st>
-     </stg>
-   <phonet>vajməsa-mäľsa</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">täydessä sovussa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">ваймокс-седикс</l>
-     <stg>
-       <st Contlex="ADV_">ваймокс-седикс</st>
-     </stg>
-   <phonet>vajməks-śeďiks</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">koko sydämestään ja sielustaan</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">валсост-кяльсост</l>
-     <stg>
-       <st Contlex="ADV_">валсост-кяльсост</st>
-     </stg>
-   <phonet>valsəst-käľsəst</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">loitsuillaan, taikasanoillaan</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">валда валс</l>
-     <stg>
-       <st Contlex="ADV_">валда валс</st>
-     </stg>
-   <phonet>valdə vals</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">sanasta sanaan, sanatarkasti</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">алу вармат</l>
-     <stg>
-       <st Contlex="ADV_">алу вармат</st>
-     </stg>
-   <phonet>alu varmat</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">myötätuuleen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">варсикс</l>
-     <stg>
-       <st Contlex="ADV_">варсикс</st>
-     </stg>
-   <phonet>varśiks</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">variksen lailla, variksen tapaan</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">вастста вастс</l>
-     <stg>
-       <st Contlex="ADV_">вастста вастс</st>
-     </stg>
-   <phonet>vasctə vasc</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">paikasta toiseen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">васту</l>
-     <stg>
-       <st Contlex="ADV_">васту</st>
-     </stg>
-   <phonet>vastu</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">paikkaan, paikalle</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">ве-вешка</l>
-     <stg>
-       <st Contlex="ADV_">ве-вешка</st>
-     </stg>
-   <phonet>ve-veška</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">koko yön (ajan), läpi yön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">веть</l>
-     <stg>
-       <st Contlex="ADV_">веть</st>
-     </stg>
-   <phonet>veť</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">yöllä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">шить-веть ётамс</l>
-     <stg>
-       <st Contlex="ADV_">шить-веть ётамс</st>
-     </stg>
-   <phonet>šiť-veť jotams</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">vuorokaudessa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">ветемба</l>
-     <stg>
-       <st Contlex="ADV_">ветемба</st>
-     </stg>
-   <phonet>veťəmba</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">vuorokaudessa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">вень-вень</l>
-     <stg>
-       <st Contlex="ADV_">вень-вень</st>
-     </stg>
-   <phonet>veń-veń</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">öisin</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">вень кучкада</l>
-     <stg>
-       <st Contlex="ADV_">вень кучкада</st>
-     </stg>
-   <phonet>veń gučkada</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">keskiyöllä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">вень веняста</l>
-     <stg>
-       <st Contlex="ADV_">вень веняста</st>
-     </stg>
-   <phonet>veń veńasta</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">yön aikana</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">алу ветть</l>
-     <stg>
-       <st Contlex="ADV_">алу ветть</st>
-     </stg>
-   <phonet>alu veťť</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">myötävirtaan</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Adv">вяри ветть</l>
-     <stg>
-       <st Contlex="ADV_">вяри ветть</st>
-     </stg>
-   <phonet>väŕi veťť</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="Adv">vastavirtaan</t>
-     </tg>
-   </mg>
-</e>
 </r>

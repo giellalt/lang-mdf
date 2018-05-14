@@ -141,7 +141,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Coll 		!!= ;@CODE@: Collective
  +Card 		!!= ;@CODE@: cardinal
  +Distr 	!!= ;@CODE@: Distributive
- +Iter 		!!= ;@CODE@: Iterative form expressing number of times (myv: кавксть, kpv: кыкысь)
+ +Iter      !!≈ * _@CODE@_ Iterative This will be replaced by +Mult
+ +Mult      !!≈ * _@CODE@_ Multiplicative form expressing number of times; myv: {{кавксть}}, kpv: {{кыкысь}}
  +Ord 		!!= ;@CODE@: ordinal
  +Attr 		!!= ;@CODE@: attribute, premodifier
 !?? +Assoc ! +месть
@@ -210,6 +211,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Guess
 
 !! Question and Focus particles:
+ +Clt/Cop
+
  +Qst +Foc
  +Foc/вок
  +Foc/Ге
@@ -449,8 +452,10 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +Der/Cop
 +V→N +V→V +V→A
+
+ +Der/Cop
+
  +Der/xxx
  +Der/И
  +Der/ф
