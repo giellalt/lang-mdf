@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst"> <lg><l pos="Interj">арда!</l><l_ref>ардомс</l_ref><stg><st>арда!</st></stg> <phonet>arda</phonet> </lg><mg><tg xml:lang="fin"><t>menkää!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">аре!</l><l_ref>ардомс</l_ref><stg><st>аре!</st></stg> <phonet>aŕä</phonet> </lg><mg><tg xml:lang="fin"><t>tule!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">архт!</l><l_ref>ардомс</l_ref><stg><st>архт!</st></stg> <phonet>arxt</phonet> </lg><mg><tg xml:lang="fin"><t>häivy!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">ащек!</l><l_ref>ащемс</l_ref><stg><st>ащек!</st></stg> <phonet>aščək</phonet> </lg><mg><tg xml:lang="fin"><t>seisahdu! odota!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">вана!</l><l_ref>ваномс</l_ref><stg><st>вана!</st></stg> <phonet>vana</phonet> </lg><mg><tg xml:lang="fin"><t>katsos! kappas! kas!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">варжака!</l><l_ref>варжамс</l_ref><stg><st>варжака!</st></stg> <phonet>varžaka, varǯaka</phonet> </lg><mg><tg xml:lang="fin"><t>katsopas!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">ватт!</l><l_ref>ваномс</l_ref><stg><st>ватт!</st></stg> <phonet>vatt, vantt</phonet> </lg><mg><tg xml:lang="fin"><t>kas!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">ватта!</l><l_ref>ваномс</l_ref><stg><st>ватта!</st></stg> <phonet>vatta</phonet> </lg><mg><tg xml:lang="fin"><t>katsopas!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">ворьготть!</l><l_ref>ворьгодемс</l_ref><stg><st>ворьготть!</st></stg> <phonet>voŕgəťť</phonet> </lg><mg><tg xml:lang="fin"><t>pakene!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">галдорды пря!</l><l_ref>галдордомс</l_ref><stg><st>галдорды пря!</st></stg> <phonet>galdərdi pŕä</phonet> </lg><mg><tg xml:lang="fin"><t>hölmö!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">думандака!</l><l_ref>думандамс</l_ref><stg><st>думандака!</st></stg> <phonet>dumandaka</phonet> </lg><mg><tg xml:lang="fin"><t>ajattelepas!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">какордак!</l><l_ref>какордомс</l_ref><stg><st>какордак!</st></stg> <phonet>kakərdak</phonet> </lg><mg><tg xml:lang="fin"><t>vaikene!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">няк</l><l_ref>няемс</l_ref><stg><st>няк</st></stg> <phonet>ńäk</phonet> </lg><mg><tg xml:lang="fin"><t>näetkös</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">стяфт!</l><l_ref>стяфтомс</l_ref><stg><st>стяфт!</st></stg> <phonet>śťaft</phonet> </lg><mg><tg xml:lang="fin"><t>seis!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">сюконяк!</l><l_ref>сюконямс</l_ref><stg><st>сюконяк!</st></stg> <phonet>śukəńak</phonet> </lg><mg><tg xml:lang="fin"><t>kumarra! tervehdi!</t></tg></mg></e>
-  <e exclude="fst"> <lg><l pos="Interj">шумбрат-эрят!</l><l_ref>эрямс</l_ref><stg><st>шумбрат-эрят!</st></stg> <phonet>šumbrat-eŕat</phonet> </lg><mg><tg xml:lang="fin"><t>terve!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">арда!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">арда!</st></stg> <phonet>arda</phonet> </lg><mg><tg xml:lang="fin"><t>menkää!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">аре!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">аре!</st></stg> <phonet>aŕä</phonet> </lg><mg><tg xml:lang="fin"><t>tule!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">архт!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">архт!</st></stg> <phonet>arxt</phonet> </lg><mg><tg xml:lang="fin"><t>häivy!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">ащек!</l><l_ref>ащемс</l_ref><stg><st Contlex="INTERJ_">ащек!</st></stg> <phonet>aščək</phonet> </lg><mg><tg xml:lang="fin"><t>seisahdu! odota!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">вана!</l><l_ref>ваномс</l_ref><stg><st Contlex="INTERJ_">вана!</st></stg> <phonet>vana</phonet> </lg><mg><tg xml:lang="fin"><t>katsos! kappas! kas!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">варжака!</l><l_ref>варжамс</l_ref><stg><st Contlex="INTERJ_">варжака!</st></stg> <phonet>varžaka, varǯaka</phonet> </lg><mg><tg xml:lang="fin"><t>katsopas!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">ватт!</l><l_ref>ваномс</l_ref><stg><st Contlex="INTERJ_">ватт!</st></stg> <phonet>vatt, vantt</phonet> </lg><mg><tg xml:lang="fin"><t>kas!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">ватта!</l><l_ref>ваномс</l_ref><stg><st Contlex="INTERJ_">ватта!</st></stg> <phonet>vatta</phonet> </lg><mg><tg xml:lang="fin"><t>katsopas!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">ворьготть!</l><l_ref>ворьгодемс</l_ref><stg><st Contlex="INTERJ_">ворьготть!</st></stg> <phonet>voŕgəťť</phonet> </lg><mg><tg xml:lang="fin"><t>pakene!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">галдорды пря!</l><l_ref>галдордомс</l_ref><stg><st Contlex="INTERJ_">галдорды пря!</st></stg> <phonet>galdərdi pŕä</phonet> </lg><mg><tg xml:lang="fin"><t>hölmö!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">думандака!</l><l_ref>думандамс</l_ref><stg><st Contlex="INTERJ_">думандака!</st></stg> <phonet>dumandaka</phonet> </lg><mg><tg xml:lang="fin"><t>ajattelepas!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">какордак!</l><l_ref>какордомс</l_ref><stg><st Contlex="INTERJ_">какордак!</st></stg> <phonet>kakərdak</phonet> </lg><mg><tg xml:lang="fin"><t>vaikene!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">няк</l><l_ref>няемс</l_ref><stg><st Contlex="INTERJ_">няк</st></stg> <phonet>ńäk</phonet> </lg><mg><tg xml:lang="fin"><t>näetkös</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">стяфт!</l><l_ref>стяфтомс</l_ref><stg><st Contlex="INTERJ_">стяфт!</st></stg> <phonet>śťaft</phonet> </lg><mg><tg xml:lang="fin"><t>seis!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">сюконяк!</l><l_ref>сюконямс</l_ref><stg><st Contlex="INTERJ_">сюконяк!</st></stg> <phonet>śukəńak</phonet> </lg><mg><tg xml:lang="fin"><t>kumarra! tervehdi!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="Interj" type="mwe">шумбрат-эрят!</l><l_ref>эрямс</l_ref><stg><st Contlex="INTERJ_">шумбрат-эрят!</st></stg> <phonet>šumbrat-eŕat</phonet> </lg><mg><tg xml:lang="fin"><t>terve!</t></tg></mg></e>
   <e exclude="fst">
     <lg>
-      <l pos="Interj">арак ширес!</l>
+      <l pos="Interj" type="mwe">арак ширес!</l>
 
       <l_ref>шире</l_ref>
 
       <stg>
-        <st>арак ширес!</st>
+        <st Contlex="INTERJ_">арак ширес!</st>
       </stg>
 
       <phonet>arak šiŕəs</phonet>
@@ -42,12 +42,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">вага вдь</l>
+      <l pos="Interj" type="mwe">вага вдь</l>
 
       <l_ref>вага</l_ref>
 
       <stg>
-        <st>вага вдь</st>
+        <st Contlex="INTERJ_">вага вдь</st>
       </stg>
 
       <phonet>vagə vəď</phonet>
@@ -62,12 +62,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">дугаканяй!</l>
+      <l pos="Interj" type="mwe">дугаканяй!</l>
 
       <l_ref>дуган</l_ref>
 
       <stg>
-        <st>дугаканяй!</st>
+        <st Contlex="INTERJ_">дугаканяй!</st>
       </stg>
 
       <phonet>dugakańäj</phonet>
@@ -82,12 +82,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">мацикс пурдаса сялдаскяцень!</l>
+      <l pos="Interj" type="mwe">мацикс пурдаса сялдаскяцень!</l>
 
       <l_ref>сялдаз</l_ref>
 
       <stg>
-        <st>мацикс пурдаса сялдаскяцень!</st>
+        <st Contlex="INTERJ_">мацикс пурдаса сялдаскяцень!</st>
       </stg>
 
       <phonet>maćiks purdasa śaldaskäćəń</phonet>
@@ -102,12 +102,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">моледа ширезон!</l>
+      <l pos="Interj" type="mwe">моледа ширезон!</l>
 
       <l_ref>шире</l_ref>
 
       <stg>
-        <st>моледа ширезон!</st>
+        <st Contlex="INTERJ_">моледа ширезон!</st>
       </stg>
 
       <phonet>moľədə šiŕəzən</phonet>
@@ -122,12 +122,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">молодецат!</l>
+      <l pos="Interj" type="mwe">молодецат!</l>
 
       <l_ref>молодец</l_ref>
 
       <stg>
-        <st>молодецат!</st>
+        <st Contlex="INTERJ_">молодецат!</st>
       </stg>
 
       <phonet>məlaďecat</phonet>
@@ -142,12 +142,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">спасиба шкай-павазти!</l>
+      <l pos="Interj" type="mwe">спасиба шкай-павазти!</l>
 
       <l_ref>паваз</l_ref>
 
       <stg>
-        <st>спасиба шкай-павазти!</st>
+        <st Contlex="INTERJ_">спасиба шкай-павазти!</st>
       </stg>
 
       <phonet>spaśiba/paśiba škaj-pavazťi</phonet>
@@ -162,12 +162,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">улеза асу мековасу!</l>
+      <l pos="Interj" type="mwe">улеза асу мековасу!</l>
 
       <l_ref>асу</l_ref>
 
       <stg>
-        <st>улеза асу мековасу!</st>
+        <st Contlex="INTERJ_">улеза асу мековасу!</st>
       </stg>
 
       <phonet>uľəza asu mekəvasu</phonet>
@@ -182,12 +182,12 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Interj">шумбраши!</l>
+      <l pos="Interj" type="mwe">шумбраши!</l>
 
       <l_ref>шумбраши</l_ref>
 
       <stg>
-        <st>шумбраши!</st>
+        <st Contlex="INTERJ_">шумбраши!</st>
       </stg>
 
       <phonet>šumbraši</phonet>
