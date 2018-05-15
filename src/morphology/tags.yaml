@@ -18,7 +18,6 @@ dictitems:
   resten: !!set
     ? !!python/unicode ''
     : null
-    !!python/unicode '/-': null
     !!python/unicode 'ABBR': null
     !!python/unicode 'ACR': null
     !!python/unicode 'CLB': null
