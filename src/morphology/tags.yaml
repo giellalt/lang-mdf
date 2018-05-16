@@ -16,15 +16,8 @@ dictitems:
   Use: !!set
     !!python/unicode 'Use/SpellNoSugg': null
   resten: !!set
-    ? !!python/unicode ''
-    : null
-    !!python/unicode 'ABBR': null
-    !!python/unicode 'ACR': null
     !!python/unicode 'CLB': null
     !!python/unicode 'Indef': null
-    !!python/unicode 'LEFT': null
     !!python/unicode 'Lat': null
     !!python/unicode 'N': null
-    !!python/unicode 'PUNCT': null
-    !!python/unicode 'RIGHT': null
     !!python/unicode 'SP': null
