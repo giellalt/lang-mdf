@@ -1,23 +1,19 @@
-!!python/object/apply:collections.defaultdict
-args:
-- !!python/name:__builtin__.set ''
-dictitems:
-  Err: !!set
-    !!python/unicode 'Err/Orth': null
-  Foc: !!set
-    !!python/unicode 'Foc': null
-  Hom: !!set
-    !!python/unicode 'Hom1': null
-    !!python/unicode 'Hom2': null
-    !!python/unicode 'Hom3': null
-  Sem: !!set
-    !!python/unicode 'Sem/Kin': null
-    !!python/unicode 'Sem/Plc': null
-  Use: !!set
-    !!python/unicode 'Use/SpellNoSugg': null
-  resten: !!set
-    !!python/unicode 'CLB': null
-    !!python/unicode 'Indef': null
-    !!python/unicode 'Lat': null
-    !!python/unicode 'N': null
-    !!python/unicode 'SP': null
+Err
+	Err/Orth
+Foc
+	Foc
+Hom
+	Hom1
+	Hom2
+	Hom3
+Sem
+	Sem/Kin
+	Sem/Plc
+Use
+	Use/SpellNoSugg
+resten
+	CLB
+	Indef
+	Lat
+	N
+	SP
