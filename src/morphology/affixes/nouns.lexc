@@ -258,15 +258,15 @@ LEXICON NMN_PULA
 !	NMN_PULA-PL	;
 !	NMN_PULA-SG/PL	;
 +Sg+Nom+Indef: K ;
-:%^А2О	NMN-SG	;
-:%^А2О	NMN-PL	;
-:%^А2О	NMN-SG/PL	;
+:	NMN-SG	;
+:	NMN-PL	;
+:	NMN-SG/PL	;
  SP-LAT-INDEF ;
 
 LEXICON NMN_PULA-SG
 +Sg+Nom+Indef: K ;
-:%^А2О 	NMN-SG ;
-:%^А2О	NMN-SG/PL	;
+: 	NMN-SG ;
+:	NMN-SG/PL	;
  SP-LAT-INDEF ;
 
 LEXICON NMN_PULA-PL
