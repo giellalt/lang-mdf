@@ -3816,7 +3816,7 @@ LEXICON V_mdf2x
 кшматьфтемс:к%{ъØ%}шматьфть IV_НЯФТЕМС  "panna tuuppimaan" ;
 кшматьфтемс+Use/SpellNoSugg:къшматьфть IV_НЯФТЕМС  "panna tuuppimaan" ;
 кшмиемс:к%{ъØ%}шмие TV_КУНДАМС  "pistellä" ;
-кшмиемс+Use/SpellNoSugg:къшмие V_  "pistellä" ;
+кшмиемс+Use/SpellNoSugg:къшмие TV_КУНДАМС  "pistellä" ;
 кшмиефтемс:к%{ъØ%}шмиефть IV_НЯФТЕМС  "panna pistelemään" ;
 кшмиефтемс+Use/SpellNoSugg:къшмиефть IV_НЯФТЕМС  "panna pistelemään" ;
 кшморгодомс:к%{ъØ%}шморгод IV_АНДОМС  "rypstyä" ;
@@ -6205,7 +6205,7 @@ LEXICON V_mdf2x
 палафнемс:палафне TV_КУНДАМС  "panna suutelemaan" ;
 паловомс:палов IV_АНДОВОМС  "voida palaa" ;
 палокшнемс:палокшне IV_КУНДАМС  "palaa" ;
-паломс:пал V_  "palaa" ;
+паломс:пал IV_АНДОМС  "palaa" ;
 палондомс:палонд IV_АНДОМС  "palaa" ;
 палонкшнемс:палонкшне IV_КУНДАМС  "palaa" ;
 палсекшнемс:палсекшне IV_КУНДАМС  "suudella ahkerasti" ;

@@ -189,10 +189,13 @@ LEXICON V0_АЛЫЯФТОМС
 LEXICON Non-Finite-Vws
 +Inf:%>%{ЕОØ%}мс K ;
 +Inf+Loc:%>%{ЕОØ%}ма K ;
++Inf+Loc:%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Ela:%>%{ЕОØ%}мст%{АО%} K ;
++Ger+Ela:%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
++Ger:%>%{ЕОØ%}мок K ;
 
 LEXICON Non-Finite-Cns
 +PrfPrc:%^Devoice%>ф K ;
@@ -834,6 +837,7 @@ LEXICON IND-PRT2-66
 !! !!DESIDERATIVE (desiderative tag)
 LEXICON DES-ALL
 +Des000000@U.CONJ-MX.DES@:%>%{ЕОØ%}лексо@U.CONJ-MX.DES@ DES_01-SC ;
++Des+Dial00000@U.CONJ-MX.DES@:%>%{ЕОØ%}льксо@U.CONJ-MX.DES@ DES_01-SC ;
 
 
 LEXICON DES_01-SC
