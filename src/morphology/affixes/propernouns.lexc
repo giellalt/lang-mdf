@@ -231,14 +231,18 @@ LEXICON PROP_KELU !!≈ * __@CODE@__ ending in u
 
 
 LEXICON PROP
-#;
++Sg+Gen+Def:%>ть ENDLEX ;
++Sg+Nom+Def:%>сь ENDLEX ;
++SP+Gen+Indef:%>нь ENDLEX ;
++SP+Ine+Indef:%>са ENDLEX ;
++SP+Lat+Indef:%>у ENDLEX ; !АССР-у
 
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    PROP ;
-:%: PROP ;
++Sg+Nom+Indef: ENDLEX ;
 :%- PROP ;
-:%' PROP ;
+!:%: PROP ;
+!:%' PROP ;
 
 
 

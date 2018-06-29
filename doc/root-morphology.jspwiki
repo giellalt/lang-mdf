@@ -109,7 +109,8 @@ Quantifiers and Numerals are classified under:
  ; +Coll 		: Collective
  ; +Card 		: cardinal
  ; +Distr 	: Distributive
- ; +Iter 		: Iterative form expressing number of times (myv: кавксть, kpv: кыкысь)
+ * _+Iter_ Iterative This will be replaced by +Mult
+ * _+Mult_ Multiplicative form expressing number of times; myv: {{кавксть}}, kpv: {{кыкысь}}
  ; +Ord 		: ordinal
  ; +Attr 		: attribute, premodifier
 
@@ -167,6 +168,7 @@ Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
 Question and Focus particles:
+
 
  * __+Sem/Act__ Activity
  * __+Sem/Amount__ Amount
@@ -271,6 +273,8 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+
+
   +Der/Dimin	 diminutive markers in ня and кя seem to be subject of complementary distribution
 
 Morphophonology
@@ -375,6 +379,8 @@ These have been slightly modified from kpv and myv
  * LEXICON PO-PRL_ЁНГА  ёнга:ёнга
 
  * LEXICON PO-PRL_МЕЛЬГЕ  мельге:мельге
+
+
 
 
 

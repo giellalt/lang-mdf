@@ -148,12 +148,12 @@ LEXICON PRON-DEM-SG
 
 !! INDEFINITE PRONOUNS
 LEXICON PRON-INDEF
-+Pron+Indef: WORD-END ;
++Pron+Indef: ENDLEX ;
 
 LEXICON PRON-INDEF_КАТИ-МЕЗЕ
 !! кати-мезе, кой-мезе
 +Pron+Indef: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
-+Pron+Indef+Sg+Nom: WORD-END ;
++Pron+Indef+Sg+Nom: ENDLEX ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ
 +Pron+Indef+SP: PRON-INDEF_МЕЗЕ-БДИ-SG ;
@@ -165,22 +165,22 @@ LEXICON PRON-INDEF_МЕЗЕ-БДИ-SG
 +Com:%>шка PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +DatCx:%>нди PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Ela:%>ст%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
-+Gen:%>ньге WORD-END ;
-+Gen:%>нь%-бди WORD-END ;
-+Gen:%>нь%-повсь WORD-END ;
-+Ill:%>ска WORD-END ;
-+Ill:%>с%-бди WORD-END ;
-+Ill:%>с%-повсь WORD-END ;
++Gen:%>ньге ENDLEX ;
++Gen:%>нь%-бди ENDLEX ;
++Gen:%>нь%-повсь ENDLEX ;
++Ill:%>ска ENDLEX ;
++Ill:%>с%-бди ENDLEX ;
++Ill:%>с%-повсь ENDLEX ;
 +Ine:%>с%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 +Prl:%>ва PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
-+Tra:%>кска WORD-END ;
-+Tra:%>кс%-бди WORD-END ;
-+Tra:%>кс%-повсь WORD-END ;
++Tra:%>кска ENDLEX ;
++Tra:%>кс%-бди ENDLEX ;
++Tra:%>кс%-повсь ENDLEX ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК
-:%>вок WORD-END ;
-:%-бди WORD-END ;
-:%-повсь WORD-END ;
+:%>вок ENDLEX ;
+:%-бди ENDLEX ;
+:%-повсь ENDLEX ;
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
  PRON-INDEF_МЕЗЕ-БДИ ;
@@ -188,32 +188,32 @@ LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
 !+Pron+Interr+Sem/Obj: PossPX1 ;
 +Pron+Interr+Sem/Obj+SP: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
 !+Pron+Interr+Sem/Obj: DER/PR_SG ; !!= @CODE@ singular
-+Pron+Interr+Sem/Obj+Sg+Nom: WORD-END ; !!= * __@CODE@__ 2014-11-16
++Pron+Interr+Sem/Obj+Sg+Nom: ENDLEX ; !!= * __@CODE@__ 2014-11-16
 
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
-+Abe:%>фтома WORD-END ;
-+Cau:нкса WORD-END ;
-+Com:%>шка WORD-END ;
-+DatCx:%>нди WORD-END ;
-+Ela:%>ста WORD-END ;
-+Gen:%>нь WORD-END ;
-+Ill:%>с WORD-END ;
-+Ine:%>са WORD-END ;
-+Prl:%>ва WORD-END ;
-+Tra:%>кс WORD-END ;
++Abe:%>фтома ENDLEX ;
++Cau:нкса ENDLEX ;
++Com:%>шка ENDLEX ;
++DatCx:%>нди ENDLEX ;
++Ela:%>ста ENDLEX ;
++Gen:%>нь ENDLEX ;
++Ill:%>с ENDLEX ;
++Ine:%>са ENDLEX ;
++Prl:%>ва ENDLEX ;
++Tra:%>кс ENDLEX ;
 
 LEXICON PRON-QNT_СЕМБЕ
-+Pron+Qnt+Pl+Nom+Indef:%^Е2О%>т WORD-END ;
++Pron+Qnt+Pl+Nom+Indef:%^Е2О%>т ENDLEX ;
 +Pron+Qnt+SP+Abl+Indef:%^Е2О%>д%{АО%} K_НГА ;
-+Pron+Qnt+SP+Cau+Indef:%^Е2О%>нкса WORD-END ;
-+Pron+Qnt+SP+Dat+Indef:%^Е2О%>нди WORD-END ;
-+Pron+Qnt+SP+Gen+Indef:%^Е2О%>нь WORD-END ;
++Pron+Qnt+SP+Cau+Indef:%^Е2О%>нкса ENDLEX ;
++Pron+Qnt+SP+Dat+Indef:%^Е2О%>нди ENDLEX ;
++Pron+Qnt+SP+Gen+Indef:%^Е2О%>нь ENDLEX ;
 +Pron+Qnt+SP+Ine+Indef:%^Е2О%>с%{АО%} K_вок ;
 +Pron+Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
-+Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть WORD-END ;
-+Pron+Qnt+Sg+Nom+Indef: WORD-END ;
-+Pron+Qnt+Sg+Nom+Def:%^Е2О%>сь WORD-END ;
++Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть ENDLEX ;
++Pron+Qnt+Sg+Nom+Indef: ENDLEX ;
++Pron+Qnt+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
  SG-DAT/GEN/NOM-PXSG1 ;
  SG-DAT/GEN/NOM-PXSG2 ;
  SG-DAT/GEN/NOM-PXSG3 ;
@@ -232,7 +232,7 @@ LEXICON REFL-SG1-IS-DAT
 LEXICON REFL-SG2-IS-DAT
 +Pron+Refl+Sg2+Dat: K_ГА ;
 LEXICON REFL-SG3-IS-DAT
-+Pron+Refl+Sg3+Dat: K_CHOOSE_ВОК_OR_НГА_OR_WORD-END ;
++Pron+Refl+Sg3+Dat: K_CHOOSE_ВОК_OR_НГА_OR_ENDLEX ;
 LEXICON REFL-PL1-IS-DAT
 +Pron+Refl+Pl1+Dat: K_ГА ;
 LEXICON REFL-PL2-IS-DAT

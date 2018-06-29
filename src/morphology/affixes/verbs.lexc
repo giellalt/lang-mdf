@@ -11,36 +11,36 @@ LEXICON V_
 
 LEXICON V-AUX-NEG-CONJ_АФОЛЬ !!= * @CODE@ афоль:афоль
 !%^Ь2ZERO
-+V+Aux+Neg+Conj+ScSg1:%>%{ЕОØ%}нь WORD-END ;
-+V+Aux+Neg+Conj+ScSg1+OcSg2:%>ихтень WORD-END ;
-+V+Aux+Neg+Conj+ScSg1+OcSg3:%>ине WORD-END ;
-+V+Aux+Neg+Conj+ScSg1+OcPl3:%>ине WORD-END ;
-+V+Aux+Neg+Conj+ScSg2:%>%{ЕОØ%}ть WORD-END ;
-+V+Aux+Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть WORD-END ;
-+V+Aux+Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}маcmь WORD-END ;
-+V+Aux+Neg+Conj+ScSg3: WORD-END ;
-+V+Aux+Neg+Conj+ScSg3+OcSg1:%>%{ЕОØ%}мань WORD-END ;
-+V+Aux+Neg+Conj+ScSg3+OcSg2:%>%{ЕОØ%}нзе WORD-END ;
-+V+Aux+Neg+Conj+ScSg3+OcPl1:%>%{ЕОØ%}мазь WORD-END ;
-+V+Aux+Neg+Conj+ScSg3+OcSg3:%>%{ЕОØ%}зе WORD-END ;
-+V+Aux+Neg+Conj+ScSg3+OcPl3:%>%{ЕОØ%}зень WORD-END ;
-+V+Aux+Neg+Conj+ScPl1:%>%{ЕОØ%}ме WORD-END ;
-+V+Aux+Neg+Conj+ScPl1+OcSg2:%>%{ЕОØ%}дязь WORD-END ;
-+V+Aux+Neg+Conj+ScPl1+OcPl2:%>%{ЕОØ%}дязь WORD-END ;
-+V+Aux+Neg+Conj+ScPl1+OcSg3:%>%{ЕОØ%}ськ WORD-END ;
-+V+Aux+Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ WORD-END ;
-+V+Aux+Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть WORD-END ;
-+V+Aux+Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть WORD-END ;
-+V+Aux+Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}маcmь WORD-END ;
-+V+Aux+Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}маcmь WORD-END ;
++V+Aux+Neg+Conj+ScSg1:%>%{ЕОØ%}нь ENDLEX ;
++V+Aux+Neg+Conj+ScSg1+OcSg2:%>ихтень ENDLEX ;
++V+Aux+Neg+Conj+ScSg1+OcSg3:%>ине ENDLEX ;
++V+Aux+Neg+Conj+ScSg1+OcPl3:%>ине ENDLEX ;
++V+Aux+Neg+Conj+ScSg2:%>%{ЕОØ%}ть ENDLEX ;
++V+Aux+Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть ENDLEX ;
++V+Aux+Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
++V+Aux+Neg+Conj+ScSg3: ENDLEX ;
++V+Aux+Neg+Conj+ScSg3+OcSg1:%>%{ЕОØ%}мань ENDLEX ;
++V+Aux+Neg+Conj+ScSg3+OcSg2:%>%{ЕОØ%}нзе ENDLEX ;
++V+Aux+Neg+Conj+ScSg3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
++V+Aux+Neg+Conj+ScSg3+OcSg3:%>%{ЕОØ%}зе ENDLEX ;
++V+Aux+Neg+Conj+ScSg3+OcPl3:%>%{ЕОØ%}зень ENDLEX ;
++V+Aux+Neg+Conj+ScPl1:%>%{ЕОØ%}ме ENDLEX ;
++V+Aux+Neg+Conj+ScPl1+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
++V+Aux+Neg+Conj+ScPl1+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
++V+Aux+Neg+Conj+ScPl1+OcSg3:%>%{ЕОØ%}ськ ENDLEX ;
++V+Aux+Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ ENDLEX ;
++V+Aux+Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
++V+Aux+Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
++V+Aux+Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}маcmь ENDLEX ;
++V+Aux+Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
 
-+V+Aux+Neg+Conj+ScPl3:%>%{Х%}ть WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcSg1:%>%{ЕОØ%}мазь WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcPl1:%>%{ЕОØ%}мазь WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcSg2:%>%{ЕОØ%}дязь WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь WORD-END ;
-+V+Aux+Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь WORD-END ;
++V+Aux+Neg+Conj+ScPl3:%>%{Х%}ть ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcSg1:%>%{ЕОØ%}мазь ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
++V+Aux+Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь ENDLEX ;
 
 LEXICON V_ТУМС
 ! тумс:ту
@@ -157,7 +157,8 @@ LEXICON V0_ТИЕМС
 LEXICON V0_НЯЕМС  !!= @CODE@ няемс:ня
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
++Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+!2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 :й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
 :й	 IND-PRT1-ALL-BUT-Sc3 ; 
 :й	 IND-PRT2-ALL ; 

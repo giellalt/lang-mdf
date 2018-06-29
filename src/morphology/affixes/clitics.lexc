@@ -7,43 +7,43 @@
 !!!!!!!!!!!!!!
 
 
-LEXICON K_CHOOSE_ВОК_OR_НГА_OR_WORD-END
-!+Foc/вок:%>вок  WORD-END ;
-!+Foc/вок:%>нг%{АЕ%} WORD-END ;
+LEXICON K_CHOOSE_ВОК_OR_НГА_OR_ENDLEX
+!+Foc/вок:%>вок  ENDLEX ;
+!+Foc/вок:%>нг%{АЕ%} ENDLEX ;
  K ;
 
-LEXICON K_CHOOSE_ВОК_OR_WORD-END
-!+Foc/вок:%>вок  WORD-END ;
+LEXICON K_CHOOSE_ВОК_OR_ENDLEX
+!+Foc/вок:%>вок  ENDLEX ;
  K ;
 
 LEXICON K_вок
 !! This is for vowel final Nominatives
-!+Foc/вок:%>вок  WORD-END ; 
-!+Foc/Ге:%>%{гк%}%{АЕ%} WORD-END ;
+!+Foc/вок:%>вок  ENDLEX ; 
+!+Foc/Ге:%>%{гк%}%{АЕ%} ENDLEX ;
  K ;
 LEXICON K_овок
 !! This is for PxPl1 and PxPl2 
-!+Foc/вок:%>овок  WORD-END ; 
+!+Foc/вок:%>овок  ENDLEX ; 
  K ;
 
 LEXICON K_ГА
 !! This is for Consonant-final words
-!+Foc/Ге:%>г%{АЕ%} WORD-END ;
+!+Foc/Ге:%>г%{АЕ%} ENDLEX ;
  K ;
 
 LEXICON K_НГА
 !! This is for Consonant-final words
 !+Foc/Ге:%>нг%{АЕ%} # ;
-!+Foc:%>нг%{АЕ%} WORD-END ;
+!+Foc:%>нг%{АЕ%} ENDLEX ;
  K ;
 
 LEXICON K
-+Foc:%>%{ЕОØ%}вок  WORD-END ; 
-+Foc:%>%{гк%}%{АЕ%} WORD-END ;
-+Foc:%>нг%{АЕ%} WORD-END ;
- WORD-END ; 
++Foc:%>%{ЕОØ%}вок  ENDLEX ; 
++Foc:%>%{гк%}%{АЕ%} ENDLEX ;
++Foc:%>нг%{АЕ%} ENDLEX ;
+ ENDLEX ; 
 
-LEXICON WORD-END
+LEXICON ENDLEX
  # ;
 
 
