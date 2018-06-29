@@ -37,4 +37,30 @@ LEXICON EXCEPTIONS
 школа+N+SP+Lat+Indef+Foc:школавка K ;
 
 !! FOREIGN WORDS
+!! A
+русскяй+Use/SpellNoSugg:русскяй A_KAL "" ;
+
+!! PCLE
+ли+Use/SpellNoSugg:ли PCLE_ "" ;
+можна+Use/SpellNoSugg:можна ADV_ "" ;
+штоли+Use/SpellNoSugg:штоли PCLE_ "" ;
+
+!! NOUNS
 бедная:бедная N_AVA ;
+
+
+!! PROP
+Павел:Павел PROP_KAL_MAL ;
+
+
+!! MISSING VALENCY
+аделсемс:аделсе TV_КУНДАМС ;
+араламс:арала TV_КУНДАМС ;
+ацамс:аца TV_КУНДАМС ;
+валдопнемс:валдопне TV_КУНДАМС ;
+кенярьфнемс:кенярьфне TV_КУНДАМС ;
+комачамс:комача TV_КУНДАМС ;
+лувондомс:лувонд TV_АНДОМС ;
+мазепнемс:мазепне TV_КУНДАМС ;
+ётнемс:ётне TV_КУНДАМС ;
+
