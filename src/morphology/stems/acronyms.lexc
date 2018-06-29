@@ -1,20 +1,89 @@
 LEXICON Acronym
 acros ;
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|І|Ӧ > acr2 ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё > acr2 ;
+
+АВМ+Sem/Org:АВМ acrotag ;
+АССР+Sem/Org:АССР acrotag ;
+БАМ+Sem/Org:БАМ acrotag ;
+БТИ+Sem/Org:БТИ acrotag ; !БТИ-ень
+ВДНХ:ВДНХ acrotag ;
+ВИМ:ВИМ acrotag ;
+ВЛКСМ:ВЛКСМ acrotag ;
+ВУЗ:ВУЗ acrotag ;
+ВЦИК:ВЦИК acrotag ;
+ВЦСПС:ВЦСПС acrotag ;
+ВЧК:ВЧК acrotag ;
+ГАИ:ГАИ acrotag ;
+ГДР:ГДР acrotag ;
+ГЗС:ГЗС acrotag ;
+ГИХЛ:ГИХЛ acrotag ;
+ГПУ:ГПУ acrotag ;
+ГЭС:ГЭС acrotag ;
+ДОК:ДОК acrotag ;
+ДОП:ДОП acrotag ;
+ДОСААФ:ДОСААФ acrotag ;
+ДПСС:ДПСС acrotag ;
+ЗАГС:ЗАГС acrotag ;
+ЗИЛ:ЗИЛ acrotag ;
+КЛМ:КЛМ acrotag ;
+КНР:КНР acrotag ;
+КПЗ:КПЗ acrotag ;
+КПСС:КПСС acrotag ;
+МАЗ:МАЗ acrotag ;
+МАССР:МАССР acrotag ;
+МВД:МВД acrotag ;
+МТС:МТС acrotag ;
+МТФ:МТФ acrotag ;
+НЭП:НЭП acrotag ;
+ОГПУ:ОГПУ acrotag ;
+ОК:ОК acrotag ;
+ОМ:ОМ acrotag ;
+ОНО:ОНО acrotag ;
+ОТК:ОТК acrotag ;
+ОТФ:ОТФ acrotag ;
+ПК:ПК acrotag ;
+ПС:ПС acrotag ;
+ПТО:ПТО acrotag ;
+ПТР:ПТР acrotag ;
+РИК:РИК acrotag ;
+РКП:РКП acrotag ;
+РОНО:РОНО acrotag ;
+РОСТА:РОСТА acrotag ;
+РСДРП:РСДРП acrotag ;
+РСФСР:РСФСР acrotag ;
+РТС:РТС acrotag ;
+РУЖД:РУЖД acrotag ;
+СД:СД acrotag ;
+СДРП:СДРП acrotag ;
+СНК:СНК acrotag ;
+СССР:СССР acrotag ;
+США:США acrotag ;
+ТОЗ:ТОЗ acrotag ;
+ТЭЦ:ТЭЦ acrotag ;
+УНР:УНР acrotag ;
+УОНО:УОНО acrotag ;
+ФЗО:ФЗО acrotag ;
+ФРГ:ФРГ acrotag ;
+ЦК:ЦК acrotag ;
+ЦСУ:ЦСУ acrotag ;
+ЧК:ЧК acrotag ;
+ШКМ:ШКМ acrotag ;
+ЭВКШ:ЭВКШ acrotag ;
+
 
 LEXICON acr2
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|І|Ӧ > acr3 ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё > acr3 ;
 
 LEXICON acr3
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|І|Ӧ > acr4 ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё > acr4 ;
 acrotag ;
 
 LEXICON acr4
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|І|Ӧ > acr5 ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё > acr5 ;
 acrotag ;
 
 LEXICON acr5
-< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё|І|Ӧ > acrotag ;
+< А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|Ё > acrotag ;
 acrotag ;
 
 LEXICON acrotag
