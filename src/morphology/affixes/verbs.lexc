@@ -9,7 +9,7 @@
 LEXICON V_
 +V: # ;
 
-LEXICON V-AUX-NEG-CONJ_АФОЛЬ !!= * @CODE@ афоль:афоль
+LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
 !%^Ь2ZERO
 +V+Aux+Neg+Conj+ScSg1:%>%{ЕОØ%}нь ENDLEX ;
 +V+Aux+Neg+Conj+ScSg1+OcSg2:%>ихтень ENDLEX ;
@@ -42,44 +42,44 @@ LEXICON V-AUX-NEG-CONJ_АФОЛЬ !!= * @CODE@ афоль:афоль
 +V+Aux+Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
 +V+Aux+Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь ENDLEX ;
 
-LEXICON V_ТУМС
+LEXICON V_TUMS
 ! тумс:ту
-+V+IV: V0_КУНДАМС ;
++V+IV: V0_KUNDAMS ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! BOTH IV and TV
 !!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON V_АЛЫЯФТОМС
- IV_АЛЫЯФТОМС ;
- TV_АЛЫЯФТОМС ;
+LEXICON V_ALYJAFTOMS
+ IV_ALYJAFTOMS ;
+ TV_ALYJAFTOMS ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! OBJECT and SUBJECT VERBS 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON TV_КУНДАМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@  V0_КУНДАМС ;
+LEXICON TV_KUNDAMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@  V0_KUNDAMS ;
 
-LEXICON TV_АНДОМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АНДОМС ;
+LEXICON TV_ANDOMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ANDOMS ;
 
-LEXICON TV_ПАЧКОДЕМС
+LEXICON TV_PACHKODEMS
 !! пачкодемс:пачкодь
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ПАЧКОДЕМС ;
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_PACHKODEMS ;
 
-LEXICON TV_ТИЕМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ТИЕМС ;
+LEXICON TV_TIJEMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_TIJEMS ;
 
-LEXICON TV_НЯЕМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_НЯЕМС ; 
+LEXICON TV_NJAJEMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_NJAJEMS ; 
 
-LEXICON TV_НЯФТЕМС_SUB
-+Err/Orth: TV_НЯФТЕМС ;
-LEXICON TV_НЯФТЕМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_НЯФТЕМС ;
+LEXICON TV_NJAFTEMS_SUB
++Err/Orth: TV_NJAFTEMS ;
+LEXICON TV_NJAFTEMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_NJAFTEMS ;
 
-LEXICON TV_АЛЫЯФТОМС
-+V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_АЛЫЯФТОМС ;
+LEXICON TV_ALYJAFTOMS
++V+TV@P.CONJ.ObjAll@:00@P.CONJ.ObjAll@ V0_ALYJAFTOMS ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!
@@ -87,53 +87,53 @@ LEXICON TV_АЛЫЯФТОМС
 !!!!!!!!!!!!!!!!!!!!!!
 
 
-LEXICON IV_КУНДАМС
+LEXICON IV_KUNDAMS
 ! кундамс:кунда
-+V+IV: V0_КУНДАМС ;
++V+IV: V0_KUNDAMS ;
 
-LEXICON IV_АНДОМС
+LEXICON IV_ANDOMS
 !! андомс:анд
-+V+IV: V0_АНДОМС ;
++V+IV: V0_ANDOMS ;
 
-LEXICON IV_ПАЧКОДЕМС
+LEXICON IV_PACHKODEMS
 !! пачкодемс:пачкодь
-+V+IV: V0_ПАЧКОДЕМС ;
++V+IV: V0_PACHKODEMS ;
 
-LEXICON IV_НЯФТЕМС
-+V+IV: V0_НЯФТЕМС ;
+LEXICON IV_NJAFTEMS
++V+IV: V0_NJAFTEMS ;
 
-LEXICON IV_АЛЫЯФТОМС
-+V+IV: V0_АЛЫЯФТОМС ;
+LEXICON IV_ALYJAFTOMS
++V+IV: V0_ALYJAFTOMS ;
 
-LEXICON IV_АНДОВОМС
+LEXICON IV_ANDOVOMS
 !! андовомс:андов
-+V+IV: V0_АНДОМС ;
++V+IV: V0_ANDOMS ;
 
-LEXICON IV_НЯЕМС
+LEXICON IV_NJAJEMS
 !! няемс:ня
-+V+IV: V0_НЯЕМС ;
++V+IV: V0_NJAJEMS ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! VERBS MUTUAL FOR TV and IV !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON V0_КУНДАМС
+LEXICON V0_KUNDAMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
 
-LEXICON V0_АНДОМС
+LEXICON V0_ANDOMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
 
-LEXICON V0_ПАЧКОДЕМС
+LEXICON V0_PACHKODEMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
 
-LEXICON V0_ТИЕМС
+LEXICON V0_TIJEMS
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
@@ -154,7 +154,7 @@ LEXICON V0_ТИЕМС
 :%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
 
-LEXICON V0_НЯЕМС  !!= @CODE@ няемс:ня
+LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
@@ -177,12 +177,12 @@ LEXICON V0_НЯЕМС  !!= @CODE@ няемс:ня
 :%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
 
-LEXICON V0_НЯФТЕМС
+LEXICON V0_NJAFTEMS
  VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
 
-LEXICON V0_АЛЫЯФТОМС
+LEXICON V0_ALYJAFTOMS
  VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
@@ -204,7 +204,7 @@ LEXICON Non-Finite-Cns
 +PrfPrc:%^Devoice%>ф K ;
 
 !! !AUXILIARY VERBS
-LEXICON V-AUX-NEG-PRT1_АШЕЗЬ !!= @CODE@ ашезь:аш
+LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
  V-AUX-NEG-PRT1 ;
 +V+Aux+Neg: IND-PRT2-ALL ;
 +V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
@@ -217,7 +217,7 @@ LEXICON V-AUX-NEG-PRT1_АШЕЗЬ !!= @CODE@ ашезь:аш
 +V+Aux+Neg+Ind+Prt1+ScPl2:%>еде # ;
 +V+Aux+Neg+Ind+Prt1+ScPl3:%>есть # ;
 
-LEXICON V-AUX-NEG-PRT1_ИЗЬ !!= @CODE@ изь:изь
+LEXICON V-AUX-NEG-PRT1_IZJ !!= @CODE@ изь:изь
  V-AUX-NEG-PRT1 ;
 +V+Aux+Neg: IND-PRT2-ALL ;
 +V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
