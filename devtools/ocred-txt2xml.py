@@ -34,7 +34,22 @@ def main():
     if not os.path.exists(out_dir_path):
         os.mkdir(out_dir_path)
         
-    debug_fst = False
+    if fst_type == 'xfst':
+        plup = Popen('which lookup', shell=True, stdout=PIPE, stderr=PIPE)
+        olup, elup = plup.communicate()
+        #print("___ lookup is ",olup.decode())
+    if fst_type == 'hfstol':
+        plup = Popen('which hfst-optimised-lookup', shell=True, stdout=PIPE, stderr=PIPE)
+        olup, elup = plup.communicate()
+        #print("___ lookup is ",olup.decode())
+    if not olup.decode():
+        print('No lookup found, please install it!')
+        sys.exit('Error')
+    lookup = olup.decode().strip()
+    
+    
+    
+    
     
     # parameters to be adjusted as needed
     plup = Popen('which lookup', shell=True, stdout=PIPE, stderr=PIPE)
@@ -56,24 +71,32 @@ def main():
                 file_name = f[:-4]
                 tree = ET.ElementTree(ET.fromstring('<text id="' + file_name + '"></text>'))
                 f_root = tree.getroot()
-                #f_root.text = file_content
-                
-                
                 
                 with open(in_dir+'/'+f, encoding='utf-8-sig') as cf:
                     file_content = cf.read() # Read whole file in the file_content string
-
+                    
                 pages = numpy.asarray(file_content.split(''))
                 print('_PAGES_ ', len(pages))
-                p_counter = 0
+                page_counter = 0
                 for page in pages:
                     #print('-+- ', page)
                     if not page == '\n':
-                        p_counter += 1
+                        page_counter += 1
                         pEl = ET.SubElement(f_root, 'page')
-                        pEl.set('id', str(p_counter))
-                        pEl.text = '\n'+page
-        
+                        pEl.set('id', str(page_counter))
+                        # pEl.text = '\n'+page
+                        
+                        lines = numpy.asarray(page.split('\n'))
+                        line_counter = 0
+                        for line in lines:
+                            line.strip()
+                            if line:
+                                line_counter += 1
+                                lEl = ET.SubElement(pEl, 'line')
+                                lEl.set('id', str(line_counter))
+                                # lEl.text = line
+                        
+                        
         indent(f_root)
         
         tree.write(os.path.join(out_dir_path,str(file_name+'.xml')),
