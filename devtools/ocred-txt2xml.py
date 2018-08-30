@@ -23,11 +23,12 @@ def indent(elem, level=0):
     else:
         if level and (not elem.tail or not elem.tail.strip()):
             elem.tail = i
-
-
+            
+            
+            
 def main():
     # to be adjusted as needed
-    pos='Prop'
+    lang ='mdf'
     in_dir = '01_txt'
     out_dir = '02_xml'
     cwd = os.getcwd()
@@ -75,62 +76,64 @@ def main():
                         lines = numpy.asarray(page.split('\n'))
                         line_counter = 0
                         for line in lines:
-                            line.strip()
+                            #print("_|"+line+"|_")
+                            line.replace(' ','')
+                            #print("|"+line+"|")
+                            
                             if line:
+                                #print("|_"+line+"_|")
                                 line_counter += 1
                                 lEl = ET.SubElement(pEl, 'line')
                                 lEl.set('id', str(line_counter))
-                                lEl.text = line
-                        
-                        
+                                #lEl.text = line
+                                lEl.text = analyse_line(lang, line)
+                                
+                                
+                                
         indent(f_root)
         
         tree.write(os.path.join(out_dir_path,str(file_name+'.xml')),
                        xml_declaration=True,encoding='utf-8',
                        method="xml")
         print('DONE ', f)
-
-
-def checkAnalysis(fst_type, fst, name, lang_code):
+        
+        
+def analyse_line(lang, line):
     
-    _fst_type = fst_type
-    _fst = fst
-    _name = name
-    _lang_code = lang_code
+    _lang = lang
+    _line = line
     
-    spelling=_name.find('spelling').text
+    cmd = '| hfst-tokenise --giella-cg -W $GTHOME/langs/' + _lang + '/tools/tokenisers/tokeniser-disamb-gt-desc.pmhfst | vislcg3 -g $GTHOME/langs/' + _lang + '/src/syntax/disambiguator.cg3'
     
-    print('... lemma ', str(spelling))
     
-    cmd = " | lookup -q -flags mbTT " + _fst
     
-    p = Popen('echo "'+spelling+'"'+cmd, shell=True, stdout=PIPE, stderr=PIPE)
+    p = Popen('echo "'+_line+'"'+cmd, shell=True, stdout=PIPE, stderr=PIPE)
     out, err = p.communicate()
     c_analysis = ''
     filtered_analysis = ''
-    print("|", out.decode().split('\n', 1 ),"|")
-    current_analysis = filter(None,out.decode().split('\n\n'))
+    print("|", out.decode(),"|")
+    # current_analysis = filter(None,out.decode().split('\n\n'))
     
-    for current_cohort in current_analysis:
-        cc_list = current_cohort.split('\n')
-        # set default analysis value to 'no'
-        _name.find('spelling').set(_fst_type+'_fst', 'no')
-        for analysis in cc_list:
-            analysis = analysis.partition('\t')[2]
-            if '+Prop+' in analysis:
-                # due to tags in nob output
-                if _lang_code is 'nob':
-                    _name.find('spelling').set(_fst_type+'_fst', 'yes')
-                    break
-                # due to tags in non-nob output
-                if analysis.endswith('+Nom') and not _lang_code is 'nob':
-                    _name.find('spelling').set(_fst_type+'_fst', 'yes')
-                    break
+    # for current_cohort in current_analysis:
+    #     cc_list = current_cohort.split('\n')
+    #     # set default analysis value to 'no'
+    #     _name.find('spelling').set(_fst_type+'_fst', 'no')
+    #     for analysis in cc_list:
+    #         analysis = analysis.partition('\t')[2]
+    #         if '+Prop+' in analysis:
+    #             # due to tags in nob output
+    #             if _lang_code is 'nob':
+    #                 _name.find('spelling').set(_fst_type+'_fst', 'yes')
+    #                 break
+    #             # due to tags in non-nob output
+    #             if analysis.endswith('+Nom') and not _lang_code is 'nob':
+    #                 _name.find('spelling').set(_fst_type+'_fst', 'yes')
+    #                 break
                     
             # refine analysis: check with Nåebrie, Storfjellet and kommunenavn Lierne
             # this is easier done via xsl: both files are xml-files
             
-    return _name
+    return out.decode()
         
         
 if __name__ == "__main__":
