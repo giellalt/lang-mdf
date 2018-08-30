@@ -7,6 +7,7 @@ from operator import itemgetter
 from xml.dom.minidom import parse, parseString
 from imp import reload
 from collections import defaultdict
+import shutil
 
 def indent(elem, level=0):
     i = "\n" + level*"  "
@@ -31,37 +32,22 @@ def main():
     out_dir = '02_xml'
     cwd = os.getcwd()
     out_dir_path = os.path.join(cwd,out_dir)
+    fst_type = 'hfstol'
+    
+    if os.path.exists(out_dir_path):
+        shutil.rmtree(out_dir_path, ignore_errors=True)
+
     if not os.path.exists(out_dir_path):
         os.mkdir(out_dir_path)
         
-    if fst_type == 'xfst':
-        plup = Popen('which lookup', shell=True, stdout=PIPE, stderr=PIPE)
-        olup, elup = plup.communicate()
-        #print("___ lookup is ",olup.decode())
     if fst_type == 'hfstol':
         plup = Popen('which hfst-optimised-lookup', shell=True, stdout=PIPE, stderr=PIPE)
         olup, elup = plup.communicate()
         #print("___ lookup is ",olup.decode())
-    if not olup.decode():
-        print('No lookup found, please install it!')
-        sys.exit('Error')
-    lookup = olup.decode().strip()
+    # more chechs here: is there a compiled hfst-file, etc.
     
-    
-    
-    
-    
-    # parameters to be adjusted as needed
-    plup = Popen('which lookup', shell=True, stdout=PIPE, stderr=PIPE)
-    olup, elup = plup.communicate()
-    print("___ lookup is ",olup.decode())
-    if not olup.decode():
-        print('No lookup found, please install it!')
-        sys.exit()
-    
-    lookup = olup.decode().strip()
     langs_dir = '$GTHOME/langs/'
-    xfst_file = '/src/analyser-gt-'
+    fst_file = '/src/analyser-gt-'
     
     for root, dirs, files in os.walk(in_dir):
     
@@ -94,7 +80,7 @@ def main():
                                 line_counter += 1
                                 lEl = ET.SubElement(pEl, 'line')
                                 lEl.set('id', str(line_counter))
-                                # lEl.text = line
+                                lEl.text = line
                         
                         
         indent(f_root)
