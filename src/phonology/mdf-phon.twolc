@@ -835,8 +835,8 @@ Vx:0 <=>
 
 
 !!Allow the absence of "ъ" in the first syllable
-"Loss of ъ in the first syllable orthography"
-ъ:0 <= # Cns* _ [ д | з | р | т ] ;
+!"Loss of ъ in the first syllable orthography"
+!ъ:0 <= # Cns* _ [ д | з | р | т ] ; REMOVE 2018-09-12
 
 "%{ъØ%}:ъ"
 !! __@RULENAME@__
