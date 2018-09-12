@@ -26,7 +26,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/abbreviations.lexc   \
 			 stems/acronyms.lexc        \
 			 stems/exceptions.lexc      \
-			 stems/punctuation.lexc     \
 			 stems/adjectives_newwords.lexc              \
 			 stems/adjectives-russian-like_newwords.lexc \
 			 stems/nouns_newwords.lexc                   \
@@ -63,6 +62,7 @@ GT_LEXC_L2_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
+			 generated_files/punctuation.lexc \
 			 $(srcdir)/stems/A_mdf2x.lexc    \
 			 $(srcdir)/stems/Adp_mdf2x.lexc   \
 			 $(srcdir)/stems/Adv_mdf2x.lexc       \
