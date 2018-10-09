@@ -1296,7 +1296,7 @@ LEXICON INF_ОМ
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
-+Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
++Der+Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
 Prc-I ;
 Prc-nj ;
 Prc-zj ;
@@ -1316,20 +1316,20 @@ LEXICON PrcTag
 +Prc+TYÄ: #;
 
 LEXICON Prc-f
-+V+Der/ф+Pss+Prc: K ;
++V+Der+Der/f+Pss+Prc: K ;
 
 LEXICON Prc-fks
-+V+Der/фкс+Pss+Prc: K ;
++V+Der+Der/fks+Pss+Prc: K ;
 
 LEXICON Prc-I
-+V+Act+PrsPrc:%>%{ИЫЙ%} K ;
-+V+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
++V+Der+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
++V+Der+Der/I+Der+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
-+V+Der/Онь+VGen:%>%{ЕОØ%}нь K ;
++V+Der+Der/Onj+VGen:%>%{ЕОØ%}нь K ;
 
 LEXICON Prc-zj
-+V+Der/Озь+Prc:%>%{ЕОØ%}зь K ;
++V+Der+Der/Ozj+Prc:%>%{ЕОØ%}зь K ;
 
 
 ! vim: set ft=xfst-lexc:
