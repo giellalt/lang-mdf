@@ -27,7 +27,7 @@ LEXICON N_KAL_DIAL
 LEXICON N_AVA
 ! ава:ава
 +N: NMN_AVA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_AVA-SG
 ! ава:ава
@@ -44,7 +44,7 @@ LEXICON N_AVA-PL
 LEXICON N_VAL1MIA
 ! вальмя:вальмя
 +N: NMN_VAL1MIA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
 
 LEXICON N_VAL1MIA-SG
 ! вальмя:вальмя
@@ -57,7 +57,7 @@ LEXICON N_VAL1MIA-PL
 LEXICON N_MOKSHA
 ! мокша:мокш%{АЕ%}
 +N: NMN_MOKSHA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_MOKSHA-SG
 ! мокша:мокш%{АЕ%}
@@ -70,7 +70,7 @@ LEXICON N_MOKSHA-PL
 LEXICON N_PAKSIA
 ! пакся:пакся
 +N: NMN_PAKSIA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_PAKSIA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_PAKSIA ;
 
 LEXICON N_PAKSIA-SG
 ! пакся:пакся
@@ -83,7 +83,7 @@ LEXICON N_PAKSIA-PL
 
 LEXICON N_ANDY !!= * @CODE@ анды:анды
 +N: NMN_ANDY ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_ANDY-SG
 ! анды:анды
@@ -120,12 +120,12 @@ LEXICON N_PINGE !!= @CODE@
 +N:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL ;
 
 ! N_KAL ;  Ela, Ill, Ine, Par 
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_TISHE
 ! тише:тише
 +N: NMN_TISHE ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_TISHE-SG
 ! тише:тише
@@ -142,23 +142,23 @@ LEXICON N_TISHE-PL
 LEXICON N_PULA !!= @CODE@
 !пула:пул%{АО%}
 +N: NMN_PULA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KARIUC1KE !!= @CODE@
 !карюцьке:карюцьк%{АЕ1%}
 +N: NMN_AVA ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 !€ карюцькат
 
 LEXICON N_SEL1ME !!= @CODE@
 !сельме:сельм%{ЕО%}
 +N: NMN_SEL1ME ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_OSH !!= @CODE@
 !ош:ош
 +N: NMN_OSH ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_OSH-PL
 !ош:ош
@@ -167,7 +167,7 @@ LEXICON N_OSH-PL
 LEXICON N_SARAZ !!= @CODE@
 !ош:ош
 +N: NMN_SARAZ ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_SARAZ-PL
 !ош:ош
@@ -176,7 +176,7 @@ LEXICON N_SARAZ-PL
 LEXICON N_VAJ !!= @CODE@
  N_VAJ-SG ;
  N_VAJ-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_VAJ-SG
 +N: NMN_VAJ-SG ;
@@ -187,7 +187,7 @@ LEXICON N_VAJ-PL
 LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
  N_KAL-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KAL-SG
 +N: NMN_KAL-SG ;
@@ -198,7 +198,7 @@ LEXICON N_KAL-PL
 LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KIAL1-SG
 +N: NMN_KIAL1-SG ;
@@ -209,7 +209,7 @@ LEXICON N_KIAL1-PL
 LEXICON N_PINE !!= @CODE@
  N_PINE-SG ;
  N_PINE-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_PINE-SG
 +N: NMN_PINE-SG ;
@@ -220,7 +220,7 @@ LEXICON N_PINE-PL
 LEXICON N_KELU !!= @CODE@
  N_KELU-SG ;
  N_KELU-PL ;
-+N+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++N+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KELU-SG
 +N: NMN_KELU-SG ;
@@ -380,14 +380,14 @@ LEXICON NMN_OFTA-SG !!= @CODE@
 	 NMN-SG ;
 :%^RmVow NMN-SG/PL   ;
 	 NMN-SG/PL   ;
-+Der/Dimin+N:%>%{DIM%}я NMN_AVA-SG ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-SG ;
 
 LEXICON NMN_OFTA-PL !!= @CODE@
 :%^RmVow NMN-PL ;
 	 NMN-PL ;
 :%^RmVow NMN-SG/PL   ;
          NMN-SG/PL   ;
-+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
 
 LEXICON NMN_KELU
 	NMN_KELU-SG	;
@@ -1060,19 +1060,19 @@ LEXICON OBLIQUECX-PX-ava
 +PxPl3:%>%{ЕОØ%}ст K ;
 
 LEXICON DER/COP
-+Der/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
-+Der/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
-+Der/Cop+Prs+ScSg3: K ;
-+Der/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
-+Der/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
-+Der/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
++Der+Der/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
++Der+Der/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
++Der+Der/Cop+Prs+ScSg3: K ;
++Der+Der/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
++Der+Der/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
++Der+Der/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
 
-+Der/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
-+Der/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
-+Der/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
-+Der/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
-+Der/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
-+Der/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
++Der+Der/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
++Der+Der/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
++Der+Der/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
++Der+Der/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
++Der+Der/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
++Der+Der/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
 
 ! vim: set ft=xfst-lexc:
 

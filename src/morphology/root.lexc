@@ -450,18 +450,27 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 ! +Sem/NonHum !!≈ * __@CODE@__  Nonhuman,
 
 
+!! !Derivation
+
+!! All non-positional derivations should be preceded by this tag, to make it possible
+!! to target regular expressions at all derivations in a language-independent way:
+!! just specify +Der|+Der1 .. +Der5 and you are set.
+
++Der  !!≈ * @CODE@
+
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
+
 +V→N +V→V +V→A
 
  +Der/Cop
 
  +Der/xxx
- +Der/И
- +Der/ф
- +Der/фкс
- +Der/Онь
- +Der/Озь
+ +Der/I
+ +Der/f
+ +Der/fks
+ +Der/Onj
+ +Der/Ozj
  +Der/NomAg
  +Der/NomAct
  +Der/Dimin	!!= @CODE@ diminutive markers in ня and кя seem to be subject of complementary distribution
