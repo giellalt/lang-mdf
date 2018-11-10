@@ -665,8 +665,8 @@ LEXICON Root
 
 ! Compounding
 
-LEXICON R
-+Use/Circ+Cmp%-:%- N_mdf2x ;
+!LEXICON R
+!+Use/Circ+Cmp%-:%- N_mdf2x ;
 
 LEXICON VerbEnd
 +SerialVerb+Use/Circ+Cmp%-:%- V_mdf2x       ;
@@ -681,35 +681,39 @@ LEXICON VerbEnd
 ! This contlex allows for relational word which, otherwise, are open
 ! to extensive declension
 LEXICON PO_
-+Po: K ;
+: K ;
 
 LEXICON PO_КВАЛМА
-+Po: K ;
+: K ;
+! Checking 2018-11-10
 +Pron: OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PO-INE_
-+Po+Ine:%>с%{АО%} K_вок ;
++Ine:%>с%{АО%} K_вок ;
+! Checking 2018-11-10
 +Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
 
-LEXICON PO-PRL_
-+Po+Prl: K_вок ;
+!LEXICON PO-PRL_
+!+Prl: K_вок ;
 
 LEXICON PO-PRL_ЁНГА !!= * @CODE@ ёнга:ёнга
-+Po+Prl: K_вок ;
++Prl: K_вок ;
+! Checking 2018-11-10
 +Pron+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Pron+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
 
 LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
-+Po+Prl: K_вок ;
++Prl: K_вок ;
+! Checking 2018-11-10
 +Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
 
 
 
 LEXICON PO-SPAT_
-+Po+Spat: K ;
++Spat: K ;
 
 
 

@@ -10,13 +10,13 @@ LEXICON CONJ_
 +Conj+TYÄ: #;
 
 LEXICON CC_
-+CC:  # ; 
+:  # ; 
 
 LEXICON CS_
-+CS:  # ; 
+:  # ; 
 
 !LEXICON EndNeg 
-!+CC+Neg: # ; 	!= @CODE@ ни
+!+Neg: # ; 	!= @CODE@ ни
 
 
 

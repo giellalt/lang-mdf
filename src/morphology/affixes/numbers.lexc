@@ -8,29 +8,29 @@
 !!!!!!!!!!!
 
 LEXICON QNT_
-+Qnt+TYÄ: K ;
++TYÄ: K ;
 
 LEXICON NUM_
-+Num+TYÄ: K ;
++TYÄ: K ;
 
 LEXICON NUM-CARD_
-+Num+Card+TYÄ: K ;
++Card+TYÄ: K ;
 
 LEXICON NUM-CARD_PULA
-+Num+Card: NMN_PULA ;
++Card: NMN_PULA ;
 
 LEXICON NUM-CARD_KAL
-+Num+Card: NMN_KAL ;
++Card: NMN_KAL ;
 
 
 LEXICON NUM-COLL_
-+Num+Card+Coll+TYÄ:	K ;
++Card+Coll+TYÄ:	K ;
 
 LEXICON NUM-ITER_
-+Num+Mult: K ;
++Mult: K ;
 
 LEXICON NUM-ORD_
-+Num+Ord+TYÄ: K ;
++Ord+TYÄ: K ;
 
 
 
