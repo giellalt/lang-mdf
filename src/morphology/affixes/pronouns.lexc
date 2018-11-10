@@ -9,87 +9,87 @@
 
 
 LEXICON PRON_
-+Pron+TYÄ: #;
++TYÄ: #;
 
 !! PERSONAL PRONOUNS
 LEXICON PERS-SG1
 !мон:мон
-+Pron+Pers+Sg1+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Sg1+Der+Der/MWN+N+SP+Abe+Indef:нефтома K ;
-+Pron+Pers+Sg1+Nom: K_ГА ;
-+Pron+Pers+Sg1+Gen:ь K_ГА ;
-+Pron+Pers+Sg1+Dat:дейне K ;
-+Pron+Pers+Sg1+Abl:дедон K ;
-+Pron+Pers+Sg1+Abe:ьфтемон K ;
-+Pron+Pers+Sg1+Gen+Der+Der/не+Sg+Nom+Indef:не K ;
-+Pron+Pers+Sg1+Gen+Der+Der/не+Pl+Nom+Indef:нет K ;
-+Pron+Pers+Sg1+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
-+Pron+Pers+Sg1+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Sg1+Intensive+Gen:цень K_ГА ;
-+Pron+Pers+Sg1+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K ;
++Pers+Sg1+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Sg1+Der+Der/MWN+N+SP+Abe+Indef:нефтома K ;
++Pers+Sg1+Nom: K_ГА ;
++Pers+Sg1+Gen:ь K_ГА ;
++Pers+Sg1+Dat:дейне K ;
++Pers+Sg1+Abl:дедон K ;
++Pers+Sg1+Abe:ьфтемон K ;
++Pers+Sg1+Gen+Der+Der/не+Sg+Nom+Indef:не K ;
++Pers+Sg1+Gen+Der+Der/не+Pl+Nom+Indef:нет K ;
++Pers+Sg1+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
++Pers+Sg1+Intensive+Nom:ць K_ГА ;
++Pers+Sg1+Intensive+Gen:цень K_ГА ;
++Pers+Sg1+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K ;
 
 LEXICON PERS-SG2
 ! тон:тон
-+Pron+Pers+Sg2+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Sg2+Der+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
-+Pron+Pers+Sg2+Nom: K_ГА ;
-+Pron+Pers+Sg2+Gen:ь K_ГА ;
-+Pron+Pers+Sg2+Dat:дейть K_ГА ;
-+Pron+Pers+Sg2+Abl:дедот K_ГА ;
-+Pron+Pers+Sg2+Abe:ьфтемот K_ГА ;
-+Pron+Pers+Sg2+Gen+Der+Der/не+Sg+Nom+Indef:не K_вок ;
-+Pron+Pers+Sg2+Gen+Der+Der/не+Pl+Nom+Indef:нет K_ГА ;
-+Pron+Pers+Sg2+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
-+Pron+Pers+Sg2+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Sg2+Intensive+Gen:цень K_ГА ;
-+Pron+Pers+Sg2+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K ;
++Pers+Sg2+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Sg2+Der+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
++Pers+Sg2+Nom: K_ГА ;
++Pers+Sg2+Gen:ь K_ГА ;
++Pers+Sg2+Dat:дейть K_ГА ;
++Pers+Sg2+Abl:дедот K_ГА ;
++Pers+Sg2+Abe:ьфтемот K_ГА ;
++Pers+Sg2+Gen+Der+Der/не+Sg+Nom+Indef:не K_вок ;
++Pers+Sg2+Gen+Der+Der/не+Pl+Nom+Indef:нет K_ГА ;
++Pers+Sg2+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
++Pers+Sg2+Intensive+Nom:ць K_ГА ;
++Pers+Sg2+Intensive+Gen:цень K_ГА ;
++Pers+Sg2+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K ;
 
 LEXICON PERS-SG3
 ! сон:сон
-+Pron+Pers+Sg3+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Sg3+Der+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
-+Pron+Pers+Sg3+Nom: K_ГА ;
-+Pron+Pers+Sg3+Gen:ь K_ГА ;
-+Pron+Pers+Sg3+Dat:дейнз%{АО%} K_вок ;
-+Pron+Pers+Sg3+Abl:дедонз%{АО%} K_вок ;
-+Pron+Pers+Sg3+Abe:ьфтемонз%{АО%} K_вок ;
-+Pron+Pers+Sg3+Gen+Der+Der/не+Sg+Nom+Indef:не K_вок ;
-+Pron+Pers+Sg3+Gen+Der+Der/не+Pl+Nom+Indef:нет K_ГА ;
-+Pron+Pers+Sg3+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
-+Pron+Pers+Sg3+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Sg3+Intensive+Gen:цень K_ГА ;
-+Pron+Pers+Sg3+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K_ГА ;
++Pers+Sg3+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Sg3+Der+Der/MWN+N+SP+Abe+Indef:нефтом%{АО%} K_вок ;
++Pers+Sg3+Nom: K_ГА ;
++Pers+Sg3+Gen:ь K_ГА ;
++Pers+Sg3+Dat:дейнз%{АО%} K_вок ;
++Pers+Sg3+Abl:дедонз%{АО%} K_вок ;
++Pers+Sg3+Abe:ьфтемонз%{АО%} K_вок ;
++Pers+Sg3+Gen+Der+Der/не+Sg+Nom+Indef:не K_вок ;
++Pers+Sg3+Gen+Der+Der/не+Pl+Nom+Indef:нет K_ГА ;
++Pers+Sg3+Gen+Der+Der/не+Sg+Nom+Def:несь K_ГА ;
++Pers+Sg3+Intensive+Nom:ць K_ГА ;
++Pers+Sg3+Intensive+Gen:цень K_ГА ;
++Pers+Sg3+Intensive+Gen+Der+Der/не+Pl+Nom:ценнеть K_ГА ;
 
 LEXICON PERS-PL1
 !минь:мин
-+Pron+Pers+Pl1+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Pl1+Der+Der/MWN+N+SP+Abe+Indef:нефтомонк K_овок ;
-+Pron+Pers+Pl1+Nom:ь K_ГА ;
-+Pron+Pers+Pl1+Gen:ь K_ГА ;
-+Pron+Pers+Pl1+Abl:дедонк K_овок ;
-+Pron+Pers+Pl1+Ine:ьцонк K_овок ;
-+Pron+Pers+Pl1+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Pl1+Intensive+Gen:цень K_ГА ;
++Pers+Pl1+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Pl1+Der+Der/MWN+N+SP+Abe+Indef:нефтомонк K_овок ;
++Pers+Pl1+Nom:ь K_ГА ;
++Pers+Pl1+Gen:ь K_ГА ;
++Pers+Pl1+Abl:дедонк K_овок ;
++Pers+Pl1+Ine:ьцонк K_овок ;
++Pers+Pl1+Intensive+Nom:ць K_ГА ;
++Pers+Pl1+Intensive+Gen:цень K_ГА ;
 
 LEXICON PERS-PL2
 !тинь:тин
-+Pron+Pers+Pl2+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Pl2+Der+Der/MWN+N+SP+Abe+Indef:нефтомонт K_овок ;
-+Pron+Pers+Pl2+Nom:ь K_ГА ;
-+Pron+Pers+Pl2+Gen:ь K_ГА ;
-+Pron+Pers+Pl2+Abl:дедонт K_овок ;
-+Pron+Pers+Pl2+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Pl2+Intensive+Gen:цень K_ГА ;
++Pers+Pl2+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Pl2+Der+Der/MWN+N+SP+Abe+Indef:нефтомонт K_овок ;
++Pers+Pl2+Nom:ь K_ГА ;
++Pers+Pl2+Gen:ь K_ГА ;
++Pers+Pl2+Abl:дедонт K_овок ;
++Pers+Pl2+Intensive+Nom:ць K_ГА ;
++Pers+Pl2+Intensive+Gen:цень K_ГА ;
 
 LEXICON PERS-PL3
 !!синь:син
-+Pron+Pers+Pl3+Der+Der/MWN+N: PERS-POSSESSA ; 
-+Pron+Pers+Pl3+Der+Der/MWN+N+SP+Abe+Indef:нефтомост K_ГА ; !
-+Pron+Pers+Pl3+Nom:ь K_ГА ;
-+Pron+Pers+Pl3+Gen:ь K_ГА ;
-+Pron+Pers+Pl3+Abl:дедост K_ГА ;
-+Pron+Pers+Pl3+Intensive+Nom:ць K_ГА ;
-+Pron+Pers+Pl3+Intensive+Gen:цень K_ГА ;
++Pers+Pl3+Der+Der/MWN+N: PERS-POSSESSA ; 
++Pers+Pl3+Der+Der/MWN+N+SP+Abe+Indef:нефтомост K_ГА ; !
++Pers+Pl3+Nom:ь K_ГА ;
++Pers+Pl3+Gen:ь K_ГА ;
++Pers+Pl3+Abl:дедост K_ГА ;
++Pers+Pl3+Intensive+Nom:ць K_ГА ;
++Pers+Pl3+Intensive+Gen:цень K_ГА ;
 !!
 
 LEXICON PERS-POSSESSA
@@ -122,22 +122,22 @@ LEXICON PERS-POSSESSA
 
 !! !NON-STRESSED DATIVE PRONOUNS
 LEXICON PERS-SG1-IS-DAT
-+Pron+Pers+Sg1+Dat: # ;
++Pers+Sg1+Dat: # ;
 LEXICON PERS-SG2-IS-DAT
-+Pron+Pers+Sg2+Dat: # ;
++Pers+Sg2+Dat: # ;
 LEXICON PERS-SG3-IS-DAT
-+Pron+Pers+Sg3+Dat: # ;
++Pers+Sg3+Dat: # ;
 LEXICON PERS-PL1-IS-DAT
-+Pron+Pers+Pl1+Dat: # ;
++Pers+Pl1+Dat: # ;
 LEXICON PERS-PL2-IS-DAT
-+Pron+Pers+Pl2+Dat: # ;
++Pers+Pl2+Dat: # ;
 LEXICON PERS-PL3-IS-DAT
-+Pron+Pers+Pl3+Dat: # ;
++Pers+Pl3+Dat: # ;
 
 
 !! !DEMONSTRATIVE PRONOUNS
 LEXICON PRON-DEM_
-+Pron+Dem: PRON-DEM-SG ;
++Dem: PRON-DEM-SG ;
 
 LEXICON PRON-DEM-SG
 +SP+Abl:%>д%{АО%} K_вок ;
@@ -148,16 +148,16 @@ LEXICON PRON-DEM-SG
 
 !! INDEFINITE PRONOUNS
 LEXICON PRON-INDEF
-+Pron+Indef: ENDLEX ;
++Indef: ENDLEX ;
 
 LEXICON PRON-INDEF_КАТИ-МЕЗЕ
 !! кати-мезе, кой-мезе
-+Pron+Indef: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
-+Pron+Indef+Sg+Nom: ENDLEX ;
++Indef: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
++Indef+Sg+Nom: ENDLEX ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ
-+Pron+Indef+SP: PRON-INDEF_МЕЗЕ-БДИ-SG ;
-+Pron+Indef+Sg+Nom: PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
++Indef+SP: PRON-INDEF_МЕЗЕ-БДИ-SG ;
++Indef+Sg+Nom: PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
 
 LEXICON PRON-INDEF_МЕЗЕ-БДИ-SG
 +Abe:%>фтом%{АО%} PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК ;
@@ -184,11 +184,11 @@ LEXICON PRON-INDEF_МЕЗЕ-БДИ-OR-ВОК
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ !!= * __@CODE@__ мезе:
  PRON-INDEF_МЕЗЕ-БДИ ;
-!+Pron+Interr+Sem/Obj: PossPX1-NomSg ;
-!+Pron+Interr+Sem/Obj: PossPX1 ;
-+Pron+Interr+Sem/Obj+SP: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
-!+Pron+Interr+Sem/Obj: DER/PR_SG ; !!= @CODE@ singular
-+Pron+Interr+Sem/Obj+Sg+Nom: ENDLEX ; !!= * __@CODE@__ 2014-11-16
+!+Interr+Sem/Obj: PossPX1-NomSg ;
+!+Interr+Sem/Obj: PossPX1 ;
++Interr+Sem/Obj+SP: PRON-INTERR-OBJ_МЕЗЕ-OBL ;
+!+Interr+Sem/Obj: DER/PR_SG ; !!= @CODE@ singular
++Interr+Sem/Obj+Sg+Nom: ENDLEX ; !!= * __@CODE@__ 2014-11-16
 
 
 LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
@@ -204,16 +204,16 @@ LEXICON PRON-INTERR-OBJ_МЕЗЕ-OBL
 +Tra:%>кс ENDLEX ;
 
 LEXICON PRON-QNT_СЕМБЕ
-+Pron+Qnt+Pl+Nom+Indef:%^Е2О%>т ENDLEX ;
-+Pron+Qnt+SP+Abl+Indef:%^Е2О%>д%{АО%} K_НГА ;
-+Pron+Qnt+SP+Cau+Indef:%^Е2О%>нкса ENDLEX ;
-+Pron+Qnt+SP+Dat+Indef:%^Е2О%>нди ENDLEX ;
-+Pron+Qnt+SP+Gen+Indef:%^Е2О%>нь ENDLEX ;
-+Pron+Qnt+SP+Ine+Indef:%^Е2О%>с%{АО%} K_вок ;
-+Pron+Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
-+Pron+Qnt+Sg+Gen+Def:%^Е2О%>ть ENDLEX ;
-+Pron+Qnt+Sg+Nom+Indef: ENDLEX ;
-+Pron+Qnt+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
++Qnt+Pl+Nom+Indef:%^Е2О%>т ENDLEX ;
++Qnt+SP+Abl+Indef:%^Е2О%>д%{АО%} K_НГА ;
++Qnt+SP+Cau+Indef:%^Е2О%>нкса ENDLEX ;
++Qnt+SP+Dat+Indef:%^Е2О%>нди ENDLEX ;
++Qnt+SP+Gen+Indef:%^Е2О%>нь ENDLEX ;
++Qnt+SP+Ine+Indef:%^Е2О%>с%{АО%} K_вок ;
++Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
++Qnt+Sg+Gen+Def:%^Е2О%>ть ENDLEX ;
++Qnt+Sg+Nom+Indef: ENDLEX ;
++Qnt+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
  SG-DAT/GEN/NOM-PXSG1 ;
  SG-DAT/GEN/NOM-PXSG2 ;
  SG-DAT/GEN/NOM-PXSG3 ;
@@ -222,94 +222,94 @@ LEXICON PRON-QNT_СЕМБЕ
  SP-DAT/GEN/NOM-PXPL3 ;
 
 LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськам
-+Pron+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
++Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
++Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 !! !REFLEXIVE PRONOUNS
 !! !NON-STRESSED REFLEXIVE DATIVES
 LEXICON REFL-SG1-IS-DAT
-+Pron+Refl+Sg1+Dat: K_ГА ;
++Refl+Sg1+Dat: K_ГА ;
 LEXICON REFL-SG2-IS-DAT
-+Pron+Refl+Sg2+Dat: K_ГА ;
++Refl+Sg2+Dat: K_ГА ;
 LEXICON REFL-SG3-IS-DAT
-+Pron+Refl+Sg3+Dat: K_CHOOSE_ВОК_OR_НГА_OR_ENDLEX ;
++Refl+Sg3+Dat: K_CHOOSE_ВОК_OR_НГА_OR_ENDLEX ;
 LEXICON REFL-PL1-IS-DAT
-+Pron+Refl+Pl1+Dat: K_ГА ;
++Refl+Pl1+Dat: K_ГА ;
 LEXICON REFL-PL2-IS-DAT
-+Pron+Refl+Pl2+Dat: K_ГА ;
++Refl+Pl2+Dat: K_ГА ;
 LEXICON REFL-PL3-IS-DAT
-+Pron+Refl+Pl3+Dat: K_ГА ;
++Refl+Pl3+Dat: K_ГА ;
 
 LEXICON PRON-REL_AVA
-+Pron+Rel: NMN-SG ;
-+Pron+Rel: NMN-PL ;
-+Pron+Rel: NMN-SG/PL ;
++Rel: NMN-SG ;
++Rel: NMN-PL ;
++Rel: NMN-SG/PL ;
 
-LEXICON PRON-ABL-PXSG1
-+Pron+Abl+PxSg1: K_ГА ;
-LEXICON PRON-ABL-PXSG2
-+Pron+Abl+PxSg2: K_ГА ;
-LEXICON PRON-ABL-PXSG3
-+Pron+Abl+PxSg3: K_вок ;
-LEXICON PRON-ABL-PXPL1
-+Pron+Abl+PxPl1: K_овок ;
-LEXICON PRON-ABL-PXPL2
-+Pron+Abl+PxPl2: K_овок ;
-LEXICON PRON-ABL-PXPL3
-+Pron+Abl+PxPl3: K_ГА ;
+!LEXICON PRON-ABL-PXSG1
+!+Abl+PxSg1: K_ГА ;
+!LEXICON PRON-ABL-PXSG2
+!+Abl+PxSg2: K_ГА ;
+!LEXICON PRON-ABL-PXSG3
+!+Abl+PxSg3: K_вок ;
+!LEXICON PRON-ABL-PXPL1
+!+Abl+PxPl1: K_овок ;
+!LEXICON PRON-ABL-PXPL2
+!+Abl+PxPl2: K_овок ;
+!LEXICON PRON-ABL-PXPL3
+!+Abl+PxPl3: K_ГА ;
 
 
 LEXICON PRON-COM-PXSG1
-+Pron+Com+PxSg1: K_ГА ;
++Com+PxSg1: K_ГА ;
 LEXICON PRON-COM-PXSG2
-+Pron+Com+PxSg2: K_ГА ;
++Com+PxSg2: K_ГА ;
 LEXICON PRON-COM-PXSG3
-+Pron+Com+PxSg3: K_вок ;
++Com+PxSg3: K_вок ;
 LEXICON PRON-COM-PXPL1
-+Pron+Com+PxPl1: K_овок ;
++Com+PxPl1: K_овок ;
 LEXICON PRON-COM-PXPL2
-+Pron+Com+PxPl2: K_овок ;
++Com+PxPl2: K_овок ;
 LEXICON PRON-COM-PXPL3
-+Pron+Com+PxPl3: K_ГА ;
++Com+PxPl3: K_ГА ;
 
-LEXICON PRON-INE-PXSG1
-+Pron+Ine+PxSg1: K_ГА ;
-LEXICON PRON-INE-PXSG2
-+Pron+Ine+PxSg2: K_ГА ;
-LEXICON PRON-INE-PXSG3
-+Pron+Ine+PxSg3: K_вок ;
-LEXICON PRON-INE-PXPL1
-+Pron+Ine+PxPl1: K_овок ;
-LEXICON PRON-INE-PXPL2
-+Pron+Ine+PxPl2: K_овок ;
-LEXICON PRON-INE-PXPL3
-+Pron+Ine+PxPl3: K_ГА ;
+!LEXICON PRON-INE-PXSG1
+!+Ine+PxSg1: K_ГА ;
+!LEXICON PRON-INE-PXSG2
+!+Ine+PxSg2: K_ГА ;
+!LEXICON PRON-INE-PXSG3
+!+Ine+PxSg3: K_вок ;
+!LEXICON PRON-INE-PXPL1
+!+Ine+PxPl1: K_овок ;
+!LEXICON PRON-INE-PXPL2
+!+Ine+PxPl2: K_овок ;
+!LEXICON PRON-INE-PXPL3
+!+Ine+PxPl3: K_ГА ;
 
-LEXICON PRON-PRL-PXSG1
-+Pron+Prl+PxSg1: K_ГА ;
-LEXICON PRON-PRL-PXSG2
-+Pron+Prl+PxSg2: K_ГА ;
-LEXICON PRON-PRL-PXSG3
-+Pron+Prl+PxSg3: K_вок ;
-LEXICON PRON-PRL-PXPL1
-+Pron+Prl+PxPl1: K_овок ;
-LEXICON PRON-PRL-PXPL2
-+Pron+Prl+PxPl2: K_овок ;
-LEXICON PRON-PRL-PXPL3
-+Pron+Prl+PxPl3: K_ГА ;
+!LEXICON PRON-PRL-PXSG1
+!+Prl+PxSg1: K_ГА ;
+!LEXICON PRON-PRL-PXSG2
+!+Prl+PxSg2: K_ГА ;
+!LEXICON PRON-PRL-PXSG3
+!+Prl+PxSg3: K_вок ;
+!LEXICON PRON-PRL-PXPL1
+!+Prl+PxPl1: K_овок ;
+!LEXICON PRON-PRL-PXPL2
+!+Prl+PxPl2: K_овок ;
+!LEXICON PRON-PRL-PXPL3
+!+Prl+PxPl3: K_ГА ;
 
 LEXICON PRON-X-PXSG1
-+Pron+PxSg1: K_ГА ;
++PxSg1: K_ГА ;
 LEXICON PRON-X-PXSG2
-+Pron+PxSg2: K_ГА ;
++PxSg2: K_ГА ;
 LEXICON PRON-X-PXSG3
-+Pron+PxSg3: K_вок ;
++PxSg3: K_вок ;
 LEXICON PRON-X-PXPL1
-+Pron+PxPl1: K_овок ;
++PxPl1: K_овок ;
 LEXICON PRON-X-PXPL2
-+Pron+PxPl2: K_овок ;
++PxPl2: K_овок ;
 LEXICON PRON-X-PXPL3
-+Pron+PxPl3: K_ГА ;
++PxPl3: K_ГА ;
 
 ! vim: set ft=xfst-lexc:
 

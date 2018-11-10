@@ -9,125 +9,128 @@
 !!!!!!!!!!!!!!
 
 LEXICON A_
-+A+TYÄ: K ;
++TYÄ: K ;
 
 LEXICON A-SPAT_
-+A+Spat+TYÄ: K ;
++Spat+TYÄ: K ;
 
+
+LEXICON A-ATTR_
++Attr: K ;
 
 LEXICON A-IS-GEN
 +Gen+Attr: K ;
 
 LEXICON A_AVA
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_AVA ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_AVA ;
 
 LEXICON A_OFTA
 !офта:офт%{АОØ%}
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_OFTA ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_OFTA ;
 
 LEXICON A_PINGE
 !пинге:пинг%{ЕОØ%}
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_PINGE ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_PINGE ;
 
 LEXICON A_PULA
 !пула:пул%{АО%}
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_PULA ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_PULA ;
 
 LEXICON A_MOKSHA
 !мокша:мокш%{АЕ%}
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_MOKSHA ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_MOKSHA ;
 
 LEXICON A_OSH
 !! ош:ош
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_OSH ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_OSH ;
 
 LEXICON A_KIAL1
 !! кяль:кяль
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_KIAL1 ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_KIAL1 ;
 
 LEXICON A_VAJ
 !вай:вай
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_VAJ ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_VAJ ;
 
 LEXICON A_KAL
 !кал:кал
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_KAL ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_KAL ;
 
 LEXICON A_KELU
 !! келу:келу
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_KELU ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_KELU ;
 
 LEXICON A_ANDY
 !! келу:келу
-+A+Sg+Nom+Indef: K ;
-+A+Der+Der/MWN: N_ANDY ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_ANDY ;
 
 LEXICON A_INT-АЙ
 +Use/SpellNoSugg:ай A_VAJ ;
 LEXICON A_RU-АЙ
 +Use/SpellNoSugg:ай A_VAJ ;
-LEXICON A_INT-ОЙ
-+Use/SpellNoSugg:ой A_VAJ ;
-LEXICON A_RU-ОЙ
-+Use/SpellNoSugg:ой A_VAJ ;
+!LEXICON A_INT-ОЙ
+!+Use/SpellNoSugg:ой A_VAJ ;
+!LEXICON A_RU-ОЙ
+!+Use/SpellNoSugg:ой A_VAJ ;
 LEXICON A_INT-ЯЙ
 +Use/SpellNoSugg:яй A_VAJ ;
 LEXICON A_RU-ЯЙ
 +Use/SpellNoSugg:яй A_VAJ ;
 
-LEXICON DET_AVA
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_AVA ;
+!LEXICON DET_AVA
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_AVA ;
 
-LEXICON DET_OFTA
-!офта:офт%{АОØ%}
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_OFTA ;
+!LEXICON DET_OFTA
+!!офта:офт%{АОØ%}
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_OFTA ;
 
 LEXICON DET_PINGE
 !пинге:пинг%{ЕО%}
 +Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_PINGE ;
++Det+Der+Der/MWN+N: N_PINGE ;
 
-LEXICON DET_PULA
-!пула:пул%{АО%}
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_PULA ;
+!LEXICON DET_PULA
+!!пула:пул%{АО%}
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_PULA ;
 
-LEXICON DET_OSH
-!! ош:ош
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_OSH ;
+!LEXICON DET_OSH
+!!! ош:ош
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_OSH ;
 
-LEXICON DET_KIAL1
-!! кяль:кяль
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_KIAL1 ;
+!LEXICON DET_KIAL1
+!!! кяль:кяль
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_KIAL1 ;
 
-LEXICON DET_VAJ
-!вай:вай
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_VAJ ;
+!LEXICON DET_VAJ
+!!вай:вай
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_VAJ ;
 
-LEXICON DET_KAL
-!кал:кал
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_KAL ;
+!LEXICON DET_KAL
+!!кал:кал
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_KAL ;
 
-LEXICON DET_KELU
-!! келу:келу
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN: N_KELU ;
+!LEXICON DET_KELU
+!!! келу:келу
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_KELU ;
 
 
 ! vim: set ft=xfst-lexc:

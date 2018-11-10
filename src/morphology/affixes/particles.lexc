@@ -6,27 +6,27 @@
 !! PARTICLES 
 !!!!!!!!!!!!!!
 
-LEXICON PCLE_AVA !!= @CODE@ Is a model word necessary here?
-+Pcle: # ;
+!LEXICON PCLE_AVA !!= @CODE@ Is a model word necessary here?
+!: # ;
 
 LEXICON PCLE_
-+Pcle: # ;
+: # ;
 
 
-LEXICON Pcle-Compar-Stnd
-+Pcle+Comp: # ;
+!LEXICON Pcle-Compar-Stnd
+!+Comp: # ;
 
 LEXICON PCLE-EPIST
-+Pcle+Epist: # ;
++Epist: # ;
 
 LEXICON PCLE-NEG
-+Pcle+Neg: # ;
++Neg: # ;
 
-LEXICON Pcle-Neg-Contrast
-+Pcle+Neg+Intensive: # ;
+!LEXICON Pcle-Neg-Contrast
+!+Neg+Intensive: # ;
 
 LEXICON PCLE-SUPERL
-+Pcle+Superl: # ;
++Superl: # ;
 
 
 

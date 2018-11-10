@@ -18,9 +18,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">аде</l>
+     <l pos="V">аде</l>
      <stg>
-       <st Contlex="INTERJ_">аде</st>
+       <st Contlex="V-IMPRT-SG_">аде</st>
      </stg> <phonet>aďä</phonet>
    </lg>
    <mg>
@@ -54,9 +54,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">айда</l>
+     <l pos="V">айда</l>
      <stg>
-       <st Contlex="INTERJ_">айда</st>
+       <st Contlex="V-IMPRT-PL_">айда</st>
      </stg> <phonet>ajda</phonet>
    </lg>
    <mg>
@@ -116,9 +116,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">бавак</l>
+     <l pos="V">бавак</l>
      <stg>
-       <st Contlex="INTERJ_">бавак</st>
+       <st Contlex="V-IMPRT-SG_">бавак</st>
      </stg> <phonet>bavak</phonet>
    </lg>
    <mg>
@@ -150,10 +150,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -166,10 +162,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -200,60 +192,25 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">ворь(х)ть</l>
+     <l pos="V">ворьхть</l>
      <stg>
-       <st Contlex="INTERJ_">ворь(х)ть</st>
+       <st Contlex="V-IMPRT-SG_">ворьхть</st>
+       <st Contlex="V-IMPRT-SG_">ворьть</st>
      </stg> <phonet>voŕť, voŕxť</phonet>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Interj">pois!</t>
-       <t pos="Interj">hus!</t>
-       <t pos="Interj">häivy!</t>
-       <t pos="Interj">painu tiehesi!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ворьть</l>
-     <stg>
-       <st Contlex="INTERJ_">ворьть</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ворьхть</l>
-     <stg>
-       <st Contlex="INTERJ_">ворьхть</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+       <t pos="V">pois!</t>
+       <t pos="V">hus!</t>
+       <t pos="V">häivy!</t>
+       <t pos="V">painu tiehesi!</t>
      </tg>
    </mg>
 </e>
@@ -265,10 +222,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -281,10 +234,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -297,10 +246,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -313,10 +258,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -329,10 +270,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -345,10 +282,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -401,10 +334,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -417,10 +346,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -433,10 +358,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -464,10 +385,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -510,9 +427,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">ожу</l>
+     <l pos="V">ожу</l>
      <stg>
-       <st Contlex="INTERJ_">ожу</st>
+       <st Contlex="V-IMPRT-SG_">ожу</st>
      </stg> <phonet>ožu</phonet>
    </lg>
    <mg>
@@ -556,31 +473,31 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">ошка</l>
+     <l pos="V">ошка</l>
      <stg>
-       <st Contlex="INTERJ_">ошка</st>
+       <st Contlex="V-IMPRT-SG_">ошка</st>
      </stg> <phonet>oška</phonet>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Interj">odotahan!</t>
+       <t pos="V">odotahan!</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">пандя</l>
+     <l pos="V">пандя</l>
      <stg>
-       <st Contlex="INTERJ_">пандя</st>
+       <st Contlex="V-IMPRT-SG_">пандя</st>
      </stg> <phonet>pańďä</phonet>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Interj">riittää!</t>
-       <t pos="Interj">anna olla!</t>
-       <t pos="Interj">lopeta jo!</t>
+       <t pos="V">riittää!</t>
+       <t pos="V">anna olla!</t>
+       <t pos="V">lopeta jo!</t>
      </tg>
      <xg> <x>пандя ни!</x> <phonet>pańďä ńi</phonet>
        <xt xml:lang="fin">anna olla jo!</xt>
@@ -628,10 +545,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -645,10 +558,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -661,10 +570,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="eng">
        <t pos="Interj">thank you</t>
      </tg>
@@ -699,10 +604,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -715,10 +616,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -731,10 +628,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -761,10 +654,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -777,10 +666,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -793,10 +678,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -823,10 +704,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -839,10 +716,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -870,10 +743,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -916,10 +785,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -932,10 +797,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -977,10 +838,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -993,10 +850,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -1009,10 +862,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -1025,10 +874,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -1093,10 +938,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -1109,10 +950,6 @@
      </stg>
    </lg>
    <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
      <tg xml:lang="fin"> <t/>
      </tg>
    </mg>
@@ -1132,20 +969,6 @@
      <xg> <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
        <xt xml:lang="fin">hypähtää äkisti.</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ожу</l>
-     <stg>
-       <st Contlex="INTERJ_">ожу</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t>odota</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1253,32 +1076,6 @@
      <xg> <x>вов сась кизось</x> <phonet>vov saś kizəś</phonet>
        <xt xml:lang="fin">niin tuli kesä.</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ворьть</l>
-     <stg>
-       <st Contlex="INTERJ_">ворьть</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ворьхть</l>
-     <stg>
-       <st Contlex="INTERJ_">ворьхть</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>

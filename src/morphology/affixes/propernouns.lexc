@@ -3,8 +3,8 @@
 !! The MOKSHA language proper nouns inflect in the same cases as regular
 !! nouns, but with a colon (':') as separator.
 
-LEXICON PropTag
- PROP_ ;
+!LEXICON PropTag
+! PROP_ ;
 LEXICON PROP_
 +N+Prop+Sg+Nom+Indef+TYÄ: K ;
 +N+Prop+Sg+Nom+Def+TYÄ:%>сь K ;
@@ -172,8 +172,8 @@ LEXICON PROP_KUDO_PATRFEM
 LEXICON PROP_KAL_FEM
 +N+Prop+Sem/Fem: NMN_KAL ;
 
-LEXICON PROP_ЛАК_FEM
-+N+Prop+Sem/Fem: NMN_KAL ;
+!LEXICON PROP_ЛАК_FEM
+!+N+Prop+Sem/Fem: NMN_KAL ;
 
 LEXICON PROP_KIT_FEM
 +N+Prop+Sem/Fem: NMN_KAL ;
@@ -181,14 +181,14 @@ LEXICON PROP_KIT_FEM
 LEXICON PROP_OSH_FEM
 +N+Prop+Sem/Fem: NMN_OSH ;
 
-LEXICON PROP_ТЕШТЕ_FEM
- PROP_ПАНГО_FEM ;
+!LEXICON PROP_ТЕШТЕ_FEM
+! PROP_ПАНГО_FEM ;
 
-LEXICON PROP_ТИНГЕ_FEM
- PROP_ПАНГО_FEM ;
+!LEXICON PROP_ТИНГЕ_FEM
+! PROP_ПАНГО_FEM ;
 
-LEXICON PROP_ПАНГО_FEM
-+N+Prop+Sem/Fem: NMN_AVA ;
+!LEXICON PROP_ПАНГО_FEM
+!+N+Prop+Sem/Fem: NMN_AVA ;
 
 LEXICON PROP_KUDO_FEM
 +N+Prop+Sem/Fem: NMN_AVA ;
@@ -203,8 +203,8 @@ LEXICON PROP-PLC_KAL !!≈ * __@CODE@__ ending in other consonant
 LEXICON PROP-PLC_KIT !!≈ * __@CODE@__ ending in t
 +N+Prop+Sem/Plc: NMN_KAL ;
 
-LEXICON PROP-PLC_OSH !!≈ * __@CODE@__ ending in shibilant
-+N+Prop+Sem/Plc: NMN_OSH ;
+!LEXICON PROP-PLC_OSH !!≈ * __@CODE@__ ending in shibilant
+!+N+Prop+Sem/Plc: NMN_OSH ;
 
 LEXICON PROP-PLC_KUDO !!≈ * __@CODE@__ ending in vowel
 +N+Prop+Sem/Plc: NMN_AVA ;

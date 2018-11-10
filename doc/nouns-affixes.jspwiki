@@ -9,26 +9,34 @@ NOUNS
 
 
 
+ава:ава
 
 
 
 
+вальмя:вальмя
+
+вальмя:вальмя
 
 
+мокша:мокш%{АЕ%}
+
+мокша:мокш%{АЕ%}
 
 
+пакся:пакся
 
-
-
+пакся:пакся
 
 
  * LEXICON N_ANDY  анды:анды
 
+анды:анды
 
+анды:анды
 
  LEXICON N_OFTA  
 
- LEXICON N_OFTA-SG 
  LEXICON N_OFTA-PL 
 
  LEXICON N_PANGA 
@@ -42,7 +50,9 @@ Without vowel
 
 
 
+тише:тише
 
+тише:тише
 
 
  LEXICON N_PULA 
@@ -108,7 +118,6 @@ NMN
 
 
 
- LEXICON NMN_OFTA 
 
  LEXICON NMN_OFTA-SG 
 
@@ -177,19 +186,21 @@ Indefinite
 Definite Pl
 
 
-Indefinite
-Definite Sg
+SG-NOM ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
 
 Indefinite
 Definite Pl
 
 
 
-Indefinite
-Definite Sg
+SG-NOM ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
 
-Indefinite
-Definite Pl
+PL-NOM ;
+PL-DAT/GEN/NOM-DEF ;
 
 MUTUAL NOMINAL
 
@@ -208,13 +219,9 @@ Possessor Indices
 
 Possessor Indices
 
-Definite Sg
-Possessor Indices
 
-Definite Pl
-Possessor Indices
+PXSG1-Pl ;
 
-Possessor Indices
 
 
 
