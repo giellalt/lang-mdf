@@ -368,7 +368,7 @@ LEXICON V_mdf2x
 ацсекшнемс+V:ацсекшне IV_KUNDAMS  "järjestellä" ;
 ацсемс+V:ацсе IV_KUNDAMS  "järjestellä" ;
 ацсефнекшнемс+V:ацсефнекшне IV_KUNDAMS  "järjestytellä" ;
-ашезь+V:аш V-AUX-NEG-PRT1_ASHEZJ  "ei" ;
+ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ  "ei" ;
 ашкодовомс+V:ашкодов IV_ANDOVOMS  "tulla käärityksi" ;
 ашкодомс+V:ашкод TV_ANDOMS  "kääriä" ;
 ашколямс+V:ашколя IV_KUNDAMS  "hakata" ;
@@ -2107,7 +2107,7 @@ LEXICON V_mdf2x
 изобретандамс+V:изобретанда IV_KUNDAMS  "keksiä" ;
 изолировандакшнемс+V:изолировандакшне IV_KUNDAMS  "eristää" ;
 изолировандамс+V:изолированда IV_KUNDAMS  "eristää" ;
-изь+V:изь V-AUX-NEG-PRT1_IZJ  "ei" ;
+изь+V+Aux:изь V-AUX-NEG-PRT1_IZJ  "ei" ;
 изьгольдемс+V:изьгольдь IV_PACHKODEMS  "hihittää" ;
 изьголькшнемс+V:изьголькшне IV_KUNDAMS  "hihitellä" ;
 изьголямс+V:изьголя IV_KUNDAMS  "hihitellä" ;

@@ -6,14 +6,14 @@
 !LEXICON PropTag
 ! PROP_ ;
 LEXICON PROP_
-+N+Prop+Sg+Nom+Indef+TYÄ: K ;
-+N+Prop+Sg+Nom+Def+TYÄ:%>сь K ;
-+N+Prop+Sg+Gen+Indef+TYÄ:%>нь K ;
-+N+Prop+Sg+Gen+Def+TYÄ:%>ть K ;
-+N+Prop+Sg+Dat+Def+TYÄ:%>ти K ;
++Sg+Nom+Indef+TYÄ: K ;
++Sg+Nom+Def+TYÄ:%>сь K ;
++Sg+Gen+Indef+TYÄ:%>нь K ;
++Sg+Gen+Def+TYÄ:%>ть K ;
++Sg+Dat+Def+TYÄ:%>ти K ;
 
 LEXICON PROP_KAL
-+N+Prop: NMN_KAL	;
+: NMN_KAL	;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Male given name for deriving patronyms 
@@ -89,24 +89,24 @@ LEXICON Deriv-RUS-IN_SURMAL
  Deriv-RUS-V_SURMAL ;
 
 LEXICON PROP_KAL_SURMAL
-+N+Prop+Sem/Sur+Sem/Mal: NMN_KAL ;
-!+N+Prop+Sem/Sur+Sem/Mal: kal-N-Derivation ;
-!+N+Prop+Sem/Sur+Sem/Mal: kal-N-Def-Declension ;
-!+N+Prop+Sem/Sur+Sem/Mal: kal-Indef-Declension ;
-!+N+Prop+Sem/Sur+Sem/Mal: kal-N-Poss-Declension-CX ;
++Sem/Sur+Sem/Mal: NMN_KAL ;
+!+Sem/Sur+Sem/Mal: kal-N-Derivation ;
+!+Sem/Sur+Sem/Mal: kal-N-Def-Declension ;
+!+Sem/Sur+Sem/Mal: kal-Indef-Declension ;
+!+Sem/Sur+Sem/Mal: kal-N-Poss-Declension-CX ;
 
 LEXICON PROP_КУДО_SURFEM
-+N+Prop+Sem/Sur+Sem/Fem: NMN_AVA ;
++Sem/Sur+Sem/Fem: NMN_AVA ;
 
 LEXICON CYRL-CONS_SUR
  PROP_KAL_SUR ;
 
 LEXICON PROP_KAL_SUR
-+N+Prop+Sem/Sur: NMN_KAL ;
-!+N+Prop+Sem/Sur: kal-N-Derivation ;
-!+N+Prop+Sem/Sur: kal-N-Def-Declension ;
-!+N+Prop+Sem/Sur: kal-Indef-Declension ;
-!+N+Prop+Sem/Sur: kal-N-Poss-Declension-CX ;
++Sem/Sur: NMN_KAL ;
+!+Sem/Sur: kal-N-Derivation ;
+!+Sem/Sur: kal-N-Def-Declension ;
+!+Sem/Sur: kal-Indef-Declension ;
+!+Sem/Sur: kal-N-Poss-Declension-CX ;
 
 LEXICON CYRL-T_SUR
  PROP_KIT_SUR ;
@@ -127,11 +127,11 @@ LEXICON CYRL-SIBILANT_SUR
  PROP_OSH_SUR ;
 
 LEXICON PROP_OSH_SUR
-+N+Prop+Sem/Sur: NMN_OSH ;
-!+N+Prop+Sem/Sur: osh-N-Derivation ;
-!+N+Prop+Sem/Sur: osh-N-Def-Declension ;
-!+N+Prop+Sem/Sur: osh-Indef-Declension ;
-!+N+Prop+Sem/Sur: osh-N-Poss-Declension-CX ;
++Sem/Sur: NMN_OSH ;
+!+Sem/Sur: osh-N-Derivation ;
+!+Sem/Sur: osh-N-Def-Declension ;
+!+Sem/Sur: osh-Indef-Declension ;
+!+Sem/Sur: osh-N-Poss-Declension-CX ;
 
 LEXICON CYRL-VOW_SUR
  PROP_КУДО_SUR ;
@@ -140,46 +140,46 @@ LEXICON CYRL-A_SUR
  PROP_КУДО_SUR ;
 
 LEXICON PROP_КУДО_SUR
-+N+Prop+Sem/Sur: NMN_AVA ;
++Sem/Sur: NMN_AVA ;
 
 LEXICON PROP_KAL_MAL
-+N+Prop+Sem/Mal: NMN_KAL ;
++Sem/Mal: NMN_KAL ;
 
 LEXICON PROP_LAK_MAL
-+N+Prop+Sem/Mal: NMN_KAL ;
++Sem/Mal: NMN_KAL ;
 
 LEXICON PROP_KIT_MAL
-+N+Prop+Sem/Mal: NMN_KAL ;
++Sem/Mal: NMN_KAL ;
 
 LEXICON PROP_OSH_MAL
-+N+Prop+Sem/Mal: NMN_OSH ;
++Sem/Mal: NMN_OSH ;
 
 LEXICON PROP_KUDO_MAL
-+N+Prop+Sem/Mal: NMN_AVA ;
++Sem/Mal: NMN_AVA ;
 
 
 LEXICON PROP_OSH_PATRMAL
-+N+Prop+Sem/Patr+Sem/Mal: NMN_OSH ;
-!+N+Prop+Sem/Patr+Sem/Mal: osh-N-Derivation ;
-!+N+Prop+Sem/Patr+Sem/Mal: osh-N-Def-Declension ;
-!+N+Prop+Sem/Patr+Sem/Mal: osh-Indef-Declension ;
-!+N+Prop+Sem/Patr+Sem/Mal: osh-N-Poss-Declension-CX ;
++Sem/Patr+Sem/Mal: NMN_OSH ;
+!+Sem/Patr+Sem/Mal: osh-N-Derivation ;
+!+Sem/Patr+Sem/Mal: osh-N-Def-Declension ;
+!+Sem/Patr+Sem/Mal: osh-Indef-Declension ;
+!+Sem/Patr+Sem/Mal: osh-N-Poss-Declension-CX ;
 
 LEXICON PROP_KUDO_PATRFEM
-+N+Prop+Sem/Patr+Sem/Mal: NMN_AVA ;
++Sem/Patr+Sem/Mal: NMN_AVA ;
 
 
 LEXICON PROP_KAL_FEM
-+N+Prop+Sem/Fem: NMN_KAL ;
++Sem/Fem: NMN_KAL ;
 
 !LEXICON PROP_ЛАК_FEM
-!+N+Prop+Sem/Fem: NMN_KAL ;
+!+Sem/Fem: NMN_KAL ;
 
 LEXICON PROP_KIT_FEM
-+N+Prop+Sem/Fem: NMN_KAL ;
++Sem/Fem: NMN_KAL ;
 
 LEXICON PROP_OSH_FEM
-+N+Prop+Sem/Fem: NMN_OSH ;
++Sem/Fem: NMN_OSH ;
 
 !LEXICON PROP_ТЕШТЕ_FEM
 ! PROP_ПАНГО_FEM ;
@@ -188,26 +188,26 @@ LEXICON PROP_OSH_FEM
 ! PROP_ПАНГО_FEM ;
 
 !LEXICON PROP_ПАНГО_FEM
-!+N+Prop+Sem/Fem: NMN_AVA ;
+!+Sem/Fem: NMN_AVA ;
 
 LEXICON PROP_KUDO_FEM
-+N+Prop+Sem/Fem: NMN_AVA ;
++Sem/Fem: NMN_AVA ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_KAL !!≈ * __@CODE@__ ending in other consonant
-+N+Prop+Sem/Plc: NMN_KAL ;
++Sem/Plc: NMN_KAL ;
 
 LEXICON PROP-PLC_KIT !!≈ * __@CODE@__ ending in t
-+N+Prop+Sem/Plc: NMN_KAL ;
++Sem/Plc: NMN_KAL ;
 
 !LEXICON PROP-PLC_OSH !!≈ * __@CODE@__ ending in shibilant
-!+N+Prop+Sem/Plc: NMN_OSH ;
+!+Sem/Plc: NMN_OSH ;
 
 LEXICON PROP-PLC_KUDO !!≈ * __@CODE@__ ending in vowel
-+N+Prop+Sem/Plc: NMN_AVA ;
++Sem/Plc: NMN_AVA ;
 
 
 
@@ -215,19 +215,19 @@ LEXICON PROP-PLC_KUDO !!≈ * __@CODE@__ ending in vowel
 !! PROPER NOUNS 
 !!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_AVA !!≈ * __@CODE@__ ending in vowel
-+N+Prop+Sem/Plc: NMN_AVA ;
++Sem/Plc: NMN_AVA ;
 LEXICON PROP-PLC_VAJ !!≈ * __@CODE@__ ending in vowel
-+N+Prop+Sem/Plc: NMN_VAJ ;
++Sem/Plc: NMN_VAJ ;
 
 
 LEXICON PROP_AVA !!≈ * __@CODE@__ ending in vowel
-+N+Prop: NMN_AVA ;
+: NMN_AVA ;
 
 LEXICON PROP_VAJ !!≈ * __@CODE@__ ending in vowel
-+N+Prop: NMN_VAJ ;
+: NMN_VAJ ;
 
 LEXICON PROP_KELU !!≈ * __@CODE@__ ending in u
-+N+Prop: NMN_KELU ;
+: NMN_KELU ;
 
 
 LEXICON PROP
