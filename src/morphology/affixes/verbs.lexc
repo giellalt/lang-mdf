@@ -17,36 +17,36 @@ LEXICON V-IMPRT-PL_
 
 LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
 !%^Ь2ZERO
-+V+Aux+Neg+Conj+ScSg1:%>%{ЕОØ%}нь ENDLEX ;
-+V+Aux+Neg+Conj+ScSg1+OcSg2:%>ихтень ENDLEX ;
-+V+Aux+Neg+Conj+ScSg1+OcSg3:%>ине ENDLEX ;
-+V+Aux+Neg+Conj+ScSg1+OcPl3:%>ине ENDLEX ;
-+V+Aux+Neg+Conj+ScSg2:%>%{ЕОØ%}ть ENDLEX ;
-+V+Aux+Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть ENDLEX ;
-+V+Aux+Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3: ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3+OcSg1:%>%{ЕОØ%}мань ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3+OcSg2:%>%{ЕОØ%}нзе ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3+OcSg3:%>%{ЕОØ%}зе ENDLEX ;
-+V+Aux+Neg+Conj+ScSg3+OcPl3:%>%{ЕОØ%}зень ENDLEX ;
-+V+Aux+Neg+Conj+ScPl1:%>%{ЕОØ%}ме ENDLEX ;
-+V+Aux+Neg+Conj+ScPl1+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl1+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl1+OcSg3:%>%{ЕОØ%}ськ ENDLEX ;
-+V+Aux+Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ ENDLEX ;
-+V+Aux+Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
-+V+Aux+Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
-+V+Aux+Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}маcmь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
++Neg+Conj+ScSg1:%>%{ЕОØ%}нь ENDLEX ;
++Neg+Conj+ScSg1+OcSg2:%>ихтень ENDLEX ;
++Neg+Conj+ScSg1+OcSg3:%>ине ENDLEX ;
++Neg+Conj+ScSg1+OcPl3:%>ине ENDLEX ;
++Neg+Conj+ScSg2:%>%{ЕОØ%}ть ENDLEX ;
++Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть ENDLEX ;
++Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
++Neg+Conj+ScSg3: ENDLEX ;
++Neg+Conj+ScSg3+OcSg1:%>%{ЕОØ%}мань ENDLEX ;
++Neg+Conj+ScSg3+OcSg2:%>%{ЕОØ%}нзе ENDLEX ;
++Neg+Conj+ScSg3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
++Neg+Conj+ScSg3+OcSg3:%>%{ЕОØ%}зе ENDLEX ;
++Neg+Conj+ScSg3+OcPl3:%>%{ЕОØ%}зень ENDLEX ;
++Neg+Conj+ScPl1:%>%{ЕОØ%}ме ENDLEX ;
++Neg+Conj+ScPl1+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
++Neg+Conj+ScPl1+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
++Neg+Conj+ScPl1+OcSg3:%>%{ЕОØ%}ськ ENDLEX ;
++Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ ENDLEX ;
++Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
++Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
++Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}маcmь ENDLEX ;
++Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
 
-+V+Aux+Neg+Conj+ScPl3:%>%{Х%}ть ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcSg1:%>%{ЕОØ%}мазь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
-+V+Aux+Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь ENDLEX ;
++Neg+Conj+ScPl3:%>%{Х%}ть ENDLEX ;
++Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь ENDLEX ;
++Neg+Conj+ScPl3+OcSg1:%>%{ЕОØ%}мазь ENDLEX ;
++Neg+Conj+ScPl3+OcPl1:%>%{ЕОØ%}мазь ENDLEX ;
++Neg+Conj+ScPl3+OcSg2:%>%{ЕОØ%}дязь ENDLEX ;
++Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
++Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь ENDLEX ;
 
 LEXICON V_TUMS
 ! тумс:ту
@@ -212,62 +212,62 @@ LEXICON Non-Finite-Cns
 !! !AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
  V-AUX-NEG-PRT1 ;
-+V+Aux+Neg: IND-PRT2-ALL ;
-+V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
-+V+Aux+Neg:%>езь  IND-PRT1-30_ZERO ;
-+V+Aux+Neg:%>езь  IND-PRT1-60_Т ;
-+V+Aux+Neg+Ind+Prt1+ScSg1:%>ень # ;
-+V+Aux+Neg+Ind+Prt1+ScSg2:%>еть # ;
-+V+Aux+Neg+Ind+Prt1+ScSg3:%>езь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1:%>еме # ;
-+V+Aux+Neg+Ind+Prt1+ScPl2:%>еде # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3:%>есть # ;
++Neg: IND-PRT2-ALL ;
++Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
++Neg:%>езь  IND-PRT1-30_ZERO ;
++Neg:%>езь  IND-PRT1-60_Т ;
++Neg+Ind+Prt1+ScSg1:%>ень # ;
++Neg+Ind+Prt1+ScSg2:%>еть # ;
++Neg+Ind+Prt1+ScSg3:%>езь # ;
++Neg+Ind+Prt1+ScPl1:%>еме # ;
++Neg+Ind+Prt1+ScPl2:%>еде # ;
++Neg+Ind+Prt1+ScPl3:%>есть # ;
 
 LEXICON V-AUX-NEG-PRT1_IZJ !!= @CODE@ изь:изь
  V-AUX-NEG-PRT1 ;
-+V+Aux+Neg: IND-PRT2-ALL ;
-+V+Aux+Neg@P.CONJ.ObjAll@:000@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
-+V+Aux+Neg:  IND-PRT1-30_ZERO ;
-+V+Aux+Neg:  IND-PRT1-60_Т ;
-+V+Aux+Neg+Ind+Prt1+ScSg1:%>ень # ;
-+V+Aux+Neg+Ind+Prt1+ScSg2:%>еть # ;
-+V+Aux+Neg+Ind+Prt1+ScSg3:%>езь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1:%>еме # ;
-+V+Aux+Neg+Ind+Prt1+ScPl2:%>еде # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3:%^Devoice%^Ь2ZERO%>ть # ;
++Neg: IND-PRT2-ALL ;
++Neg@P.CONJ.ObjAll@:0@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
++Neg:  IND-PRT1-30_ZERO ;
++Neg:  IND-PRT1-60_Т ;
++Neg+Ind+Prt1+ScSg1:%>ень # ;
++Neg+Ind+Prt1+ScSg2:%>еть # ;
++Neg+Ind+Prt1+ScSg3:%>езь # ;
++Neg+Ind+Prt1+ScPl1:%>еме # ;
++Neg+Ind+Prt1+ScPl2:%>еде # ;
++Neg+Ind+Prt1+ScPl3:%^Devoice%^Ь2ZERO%>ть # ;
 
 LEXICON V-AUX-NEG-PRT1
-+V+Aux+Neg+Ind+Prt1+ScSg1+OcSg2:%>ихтень # ;
-+V+Aux+Neg+Ind+Prt1+ScSg1+OcSg3:%>ине # ;
-+V+Aux+Neg+Ind+Prt1+ScSg1+OcPl3:%>ине # ;
-+V+Aux+Neg+Ind+Prt1+ScSg2+OcSg3:%>ить # ;
-+V+Aux+Neg+Ind+Prt1+ScSg2+OcPl3:%>ить # ;
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcPl3:%>езень # ;
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcSg3:%>езе # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1+OcSg3:%>еськ # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1+OcPl3:%>еськ # ;
++Neg+Ind+Prt1+ScSg1+OcSg2:%>ихтень # ;
++Neg+Ind+Prt1+ScSg1+OcSg3:%>ине # ;
++Neg+Ind+Prt1+ScSg1+OcPl3:%>ине # ;
++Neg+Ind+Prt1+ScSg2+OcSg3:%>ить # ;
++Neg+Ind+Prt1+ScSg2+OcPl3:%>ить # ;
++Neg+Ind+Prt1+ScSg3+OcPl3:%>езень # ;
++Neg+Ind+Prt1+ScSg3+OcSg3:%>езе # ;
++Neg+Ind+Prt1+ScPl1+OcSg3:%>еськ # ;
++Neg+Ind+Prt1+ScPl1+OcPl3:%>еськ # ;
 
-+V+Aux+Neg+Ind+Prt1+ScSg2+OcSg1:%>емайть # ;
-+V+Aux+Neg+Ind+Prt1+ScSg2+OcPl1:%>емаcmь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl2+OcSg1:%>емаcmь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl2+OcPl1:%>емаcmь # ;
++Neg+Ind+Prt1+ScSg2+OcSg1:%>емайть # ;
++Neg+Ind+Prt1+ScSg2+OcPl1:%>емаcmь # ;
++Neg+Ind+Prt1+ScPl2+OcSg1:%>емаcmь # ;
++Neg+Ind+Prt1+ScPl2+OcPl1:%>емаcmь # ;
 
-+V+Aux+Neg+Ind+Prt1+ScSg1+OcPl2:%>едезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1+OcSg2:%>едезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl1+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScSg1+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScPl1+OcSg2:%>едезь # ;
++Neg+Ind+Prt1+ScPl1+OcPl2:%>едезь # ;
 
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcPl2:%>едезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcSg2:%>едезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScSg3+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScPl3+OcSg2:%>едезь # ;
++Neg+Ind+Prt1+ScPl3+OcPl2:%>едезь # ;
 
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcSg1:%>емань # ;
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcPl1:%>емазь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcSg1:%>емазь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcPl1:%>емазь # ;
++Neg+Ind+Prt1+ScSg3+OcSg1:%>емань # ;
++Neg+Ind+Prt1+ScSg3+OcPl1:%>емазь # ;
++Neg+Ind+Prt1+ScPl3+OcSg1:%>емазь # ;
++Neg+Ind+Prt1+ScPl3+OcPl1:%>емазь # ;
 
-+V+Aux+Neg+Ind+Prt1+ScSg3+OcPl1:%>емезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcSg1:%>емезь # ;
-+V+Aux+Neg+Ind+Prt1+ScPl3+OcPl1:%>емезь # ;
++Neg+Ind+Prt1+ScSg3+OcPl1:%>емезь # ;
++Neg+Ind+Prt1+ScPl3+OcSg1:%>емезь # ;
++Neg+Ind+Prt1+ScPl3+OcPl1:%>емезь # ;
 
 
 ! Finite forms
