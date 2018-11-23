@@ -50,71 +50,71 @@ LEXICON BEFORE
 beforelargehours ;
  
 LEXICON beforesmallhours
-1@U.TIME.2@:@U.TIME.2@ BEFpunkt ; !01:31 - 01:59
-2@U.TIME.3@:@U.TIME.3@ BEFpunkt ; !02:31 - 02:59
-3@U.TIME.4@:@U.TIME.4@ BEFpunkt ; !03:31 - 03:59
-4@U.TIME.5@:@U.TIME.5@ BEFpunkt ; !04:31 - 04:59
-5@U.TIME.6@:@U.TIME.6@ BEFpunkt ; !05:31 - 05:59
-6@U.TIME.7@:@U.TIME.7@ BEFpunkt ; !06:31 - 06:59
-7@U.TIME.8@:@U.TIME.8@ BEFpunkt ; !07:31 - 07:59
-8@U.TIME.9@:@U.TIME.9@ BEFpunkt ; !08:31 - 08:59
-9@U.TIME.10@:@U.TIME.10@ BEFpunkt ; !09:31 - 09:59
+1@U.TIME.2@:0@U.TIME.2@ BEFpunkt ; !01:31 - 01:59
+2@U.TIME.3@:0@U.TIME.3@ BEFpunkt ; !02:31 - 02:59
+3@U.TIME.4@:0@U.TIME.4@ BEFpunkt ; !03:31 - 03:59
+4@U.TIME.5@:0@U.TIME.5@ BEFpunkt ; !04:31 - 04:59
+5@U.TIME.6@:0@U.TIME.6@ BEFpunkt ; !05:31 - 05:59
+6@U.TIME.7@:0@U.TIME.7@ BEFpunkt ; !06:31 - 06:59
+7@U.TIME.8@:0@U.TIME.8@ BEFpunkt ; !07:31 - 07:59
+8@U.TIME.9@:0@U.TIME.9@ BEFpunkt ; !08:31 - 08:59
+9@U.TIME.10@:0@U.TIME.10@ BEFpunkt ; !09:31 - 09:59
 
 LEXICON beforelargehours
-1%0@U.TIME.11@:@U.TIME.11@ BEFpunkt ; !10:31 - 10:59
-11@U.TIME.12@:@U.TIME.12@ BEFpunkt ; !11:29 - 11:59
-12@U.TIME.1@:@U.TIME.1@ BEFpunkt ; !12:29 - 12:59
-13@U.TIME.2@:@U.TIME.2@ BEFpunkt ; !13:29 - 13:59
-14@U.TIME.3@:@U.TIME.3@ BEFpunkt ; !14:29 - 14:59
-15@U.TIME.4@:@U.TIME.4@ BEFpunkt ; !15:29 - 15:59
-16@U.TIME.5@:@U.TIME.5@ BEFpunkt ; !16:29 - 16:59
-17@U.TIME.6@:@U.TIME.6@ BEFpunkt ; !17:29 - 17:59
-18@U.TIME.7@:@U.TIME.7@ BEFpunkt ; !18:29 - 18:59
-19@U.TIME.8@:@U.TIME.8@ BEFpunkt ; !19:31 - 19:59
-2%0@U.TIME.9@:@U.TIME.9@ BEFpunkt ; !20:31 - 20:59
-21@U.TIME.10@:@U.TIME.10@ BEFpunkt ; !21:31 - 21:59
-22@U.TIME.11@:@U.TIME.11@ BEFpunkt ; !22:29 - 22:59
-23@U.TIME.12@:@U.TIME.12@ BEFpunkt ; !23:29 - 23:59
-%0%0@U.TIME.1@:@U.TIME.1@ BEFpunkt ; !00:29 - 00:59
+1%0@U.TIME.11@:00@U.TIME.11@ BEFpunkt ; !10:31 - 10:59
+11@U.TIME.12@:00@U.TIME.12@ BEFpunkt ; !11:29 - 11:59
+12@U.TIME.1@:00@U.TIME.1@ BEFpunkt ; !12:29 - 12:59
+13@U.TIME.2@:00@U.TIME.2@ BEFpunkt ; !13:29 - 13:59
+14@U.TIME.3@:00@U.TIME.3@ BEFpunkt ; !14:29 - 14:59
+15@U.TIME.4@:00@U.TIME.4@ BEFpunkt ; !15:29 - 15:59
+16@U.TIME.5@:00@U.TIME.5@ BEFpunkt ; !16:29 - 16:59
+17@U.TIME.6@:00@U.TIME.6@ BEFpunkt ; !17:29 - 17:59
+18@U.TIME.7@:00@U.TIME.7@ BEFpunkt ; !18:29 - 18:59
+19@U.TIME.8@:00@U.TIME.8@ BEFpunkt ; !19:31 - 19:59
+2%0@U.TIME.9@:00@U.TIME.9@ BEFpunkt ; !20:31 - 20:59
+21@U.TIME.10@:00@U.TIME.10@ BEFpunkt ; !21:31 - 21:59
+22@U.TIME.11@:00@U.TIME.11@ BEFpunkt ; !22:29 - 22:59
+23@U.TIME.12@:00@U.TIME.12@ BEFpunkt ; !23:29 - 23:59
+%0%0@U.TIME.1@:00@U.TIME.1@ BEFpunkt ; !00:29 - 00:59
 
 LEXICON REST
-1@U.TIME.1@:фкя+Use/NG@U.TIME.1@ AFTpunkt ;
-2@U.TIME.2@:кафта+Use/NG@U.TIME.2@ AFTpunkt ;
-3@U.TIME.3@:колма+Use/NG@U.TIME.3@ AFTpunkt ;
-4@U.TIME.4@:ниле+Use/NG@U.TIME.4@ AFTpunkt ;
-5@U.TIME.5@:вете+Use/NG@U.TIME.5@ AFTpunkt ;
-6@U.TIME.6@:кота+Use/NG@U.TIME.6@ AFTpunkt ;
-7@U.TIME.7@:сисем+Use/NG@U.TIME.7@ AFTpunkt ;
-8@U.TIME.8@:кафкса+Use/NG@U.TIME.8@ AFTpunkt ;
-9@U.TIME.9@:вейхкса+Use/NG@U.TIME.9@ AFTpunkt ;
+1000@U.TIME.1@:фкя+Use/NG@U.TIME.1@ AFTpunkt ;
+200000@U.TIME.2@:кафта+Use/NG@U.TIME.2@ AFTpunkt ;
+300000@U.TIME.3@:колма+Use/NG@U.TIME.3@ AFTpunkt ;
+40000@U.TIME.4@:ниле+Use/NG@U.TIME.4@ AFTpunkt ;
+50000@U.TIME.5@:вете+Use/NG@U.TIME.5@ AFTpunkt ;
+60000@U.TIME.6@:кота+Use/NG@U.TIME.6@ AFTpunkt ;
+700000@U.TIME.7@:сисем+Use/NG@U.TIME.7@ AFTpunkt ;
+8000000@U.TIME.8@:кафкса+Use/NG@U.TIME.8@ AFTpunkt ;
+90000000@U.TIME.9@:вейхкса+Use/NG@U.TIME.9@ AFTpunkt ;
 
 
-%01@U.TIME.1@:фкя@U.TIME.1@ AFTpunkt ;
-%02@U.TIME.2@:кафта@U.TIME.2@ AFTpunkt ;
-%03@U.TIME.3@:колма@U.TIME.3@ AFTpunkt ;
-%04@U.TIME.4@:ниле@U.TIME.4@ AFTpunkt ;
-%05@U.TIME.5@:вете@U.TIME.5@ AFTpunkt ;
-%06@U.TIME.6@:кота@U.TIME.6@ AFTpunkt ;
-%07@U.TIME.7@:сисем@U.TIME.7@ AFTpunkt ;
-%08@U.TIME.8@:кафкса@U.TIME.8@ AFTpunkt ;
-%09@U.TIME.9@:вейхкса@U.TIME.9@ AFTpunkt ;
-1%0@U.TIME.10@:кемонь@U.TIME.10@ AFTpunkt ;
-11@U.TIME.11@:кефкие@U.TIME.11@ AFTpunkt ;
-12@U.TIME.12@:кемгафтува@U.TIME.12@ AFTpunkt ;
+%010@U.TIME.1@:фкя@U.TIME.1@ AFTpunkt ;
+%02000@U.TIME.2@:кафта@U.TIME.2@ AFTpunkt ;
+%03000@U.TIME.3@:колма@U.TIME.3@ AFTpunkt ;
+%0400@U.TIME.4@:ниле@U.TIME.4@ AFTpunkt ;
+%0500@U.TIME.5@:вете@U.TIME.5@ AFTpunkt ;
+%0600@U.TIME.6@:кота@U.TIME.6@ AFTpunkt ;
+%07000@U.TIME.7@:сисем@U.TIME.7@ AFTpunkt ;
+%080000@U.TIME.8@:кафкса@U.TIME.8@ AFTpunkt ;
+%0900000@U.TIME.9@:вейхкса@U.TIME.9@ AFTpunkt ;
+1%00000@U.TIME.10@:кемонь@U.TIME.10@ AFTpunkt ;
+110000@U.TIME.11@:кефкие@U.TIME.11@ AFTpunkt ;
+1200000000@U.TIME.12@:кемгафтува@U.TIME.12@ AFTpunkt ;
 
-13@U.TIME.1@:фкя@U.TIME.1@ AFTpunkt ;
-14@U.TIME.2@:кафта@U.TIME.2@ AFTpunkt ;
-15@U.TIME.3@:колма@U.TIME.3@ AFTpunkt ;
-16@U.TIME.4@:ниле@U.TIME.4@ AFTpunkt ;
-17@U.TIME.5@:вете@U.TIME.5@ AFTpunkt ;
-18@U.TIME.6@:кота@U.TIME.6@ AFTpunkt ;
-19@U.TIME.7@:сисем@U.TIME.7@ AFTpunkt ;
-2%0@U.TIME.8@:кафкса@U.TIME.8@ AFTpunkt ;
-21@U.TIME.9@:вейхкса@U.TIME.9@ AFTpunkt ;
-22@U.TIME.10@:кемонь@U.TIME.10@ AFTpunkt ;
-23@U.TIME.11@:кефкие@U.TIME.11@ AFTpunkt ;
-%0%0@U.TIME.12@:кемгафтува@U.TIME.12@ AFTpunkt ;
-%0%0@U.TIME.12@:пяле% ве@U.TIME.12@ # ;
+130@U.TIME.1@:фкя@U.TIME.1@ AFTpunkt ;
+14000@U.TIME.2@:кафта@U.TIME.2@ AFTpunkt ;
+15000@U.TIME.3@:колма@U.TIME.3@ AFTpunkt ;
+1600@U.TIME.4@:ниле@U.TIME.4@ AFTpunkt ;
+1700@U.TIME.5@:вете@U.TIME.5@ AFTpunkt ;
+1800@U.TIME.6@:кота@U.TIME.6@ AFTpunkt ;
+19000@U.TIME.7@:сисем@U.TIME.7@ AFTpunkt ;
+2%00000@U.TIME.8@:кафкса@U.TIME.8@ AFTpunkt ;
+2100000@U.TIME.9@:вейхкса@U.TIME.9@ AFTpunkt ;
+220000@U.TIME.10@:кемонь@U.TIME.10@ AFTpunkt ;
+230000@U.TIME.11@:кефкие@U.TIME.11@ AFTpunkt ;
+%0%000000000@U.TIME.12@:кемгафтува@U.TIME.12@ AFTpunkt ;
+%0%000000@U.TIME.12@:пяле% ве@U.TIME.12@ # ;
 
 
 LEXICON BEFpunkt
@@ -282,15 +282,15 @@ LEXICON TO
 :минутфтома+Use/NG%  HOUR ;
 
 LEXICON HOUR
-@U.TIME.1@:фкя@U.TIME.1@ # ;
-@U.TIME.2@:кафта@U.TIME.2@ # ;
-@U.TIME.3@:колма@U.TIME.3@ # ;
-@U.TIME.4@:ниле@U.TIME.4@ # ;
-@U.TIME.5@:вете@U.TIME.5@ # ;
-@U.TIME.6@:кота@U.TIME.6@ # ;
-@U.TIME.7@:сисем@U.TIME.7@ # ;
-@U.TIME.8@:кафкса@U.TIME.8@ # ;
-@U.TIME.9@:вейхкса@U.TIME.9@ # ;
-@U.TIME.10@:кемонь@U.TIME.10@ # ;
-@U.TIME.11@:кефкие@U.TIME.11@ # ;
-@U.TIME.12@:кемгафтува@U.TIME.12@ # ;
+000@U.TIME.1@:фкя@U.TIME.1@ # ;
+00000@U.TIME.2@:кафта@U.TIME.2@ # ;
+00000@U.TIME.3@:колма@U.TIME.3@ # ;
+0000@U.TIME.4@:ниле@U.TIME.4@ # ;
+0000@U.TIME.5@:вете@U.TIME.5@ # ;
+0000@U.TIME.6@:кота@U.TIME.6@ # ;
+00000@U.TIME.7@:сисем@U.TIME.7@ # ;
+000000@U.TIME.8@:кафкса@U.TIME.8@ # ;
+0000000@U.TIME.9@:вейхкса@U.TIME.9@ # ;
+000000@U.TIME.10@:кемонь@U.TIME.10@ # ;
+000000@U.TIME.11@:кефкие@U.TIME.11@ # ;
+0000000000@U.TIME.12@:кемгафтува@U.TIME.12@ # ;
