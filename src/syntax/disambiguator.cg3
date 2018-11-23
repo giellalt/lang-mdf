@@ -151,7 +151,7 @@ LIST Obj = Obj ;
 LIST Org = Org ;
 LIST Plc = Plc ;
 
-LIST Sur = Sur ;
+LIST Sur = Sur Sem/Sur ;
 
 LIST Time = Time ;
 LIST Hum = Hum ;
@@ -366,3 +366,7 @@ SELECT Po IF (0 MARTO) (-1 Gen + Def) (1 CLB) ;
 # веленьконь вельхкска 
 SELECT Po IF (0 Po) (-1 Gen + PX) ;
 
+# Remove Prl if Sem/Sur
+# "Терешко" Sem/Sur SP Prl Indef 
+# "Терешков" Sem/Sur Sem/Fem Sg Nom Indef
+REMOVE Prl IF (0 Sur) ;
