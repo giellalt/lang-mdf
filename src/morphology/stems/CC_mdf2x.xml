@@ -1,142 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e exclude="fst">
-   <lg>
-     <l pos="CS">ваномок</l>
-       <l_ref>ваномс</l_ref>
-     <stg>
-       <st>ваномок</st>
-     </stg> <phonet>vanəmək</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>siihen nähden että</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">кли</l>
-     <stg>
-       <st Contlex="CS_">кли</st>
-     </stg> <phonet>kəľi</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng">
-       <t pos="CS">if</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="CS">если</t>
-     </tg>
-   </mg>
-</e>
-<e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<e id="None" meta="">
    <lg>
      <l pos="CC">а</l>
      <stg>
        <st Contlex="CC_">а</st>
      </stg> <phonet>a</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">ja</t>
      </tg>
-   </mg>
-   <mg>
      <defNative/>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">mutta</t>
        <t pos="CC">vaan</t>
      </tg>
-     <xg> <x>мон молян куду, а сон театрав</x> <phonet>mon moľan kudu a son ťeatrav</phonet>
+     <defNative/>
+     <xg>
+       <x>мон молян куду, а сон театрав</x> <phonet>mon moľan kudu a son ťeatrav</phonet>
        <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
      </xg>
    </mg>
 </e>
-<e>
+<e id="None" meta="">
+   <lg>
+     <l pos="CC">али</l>
+     <stg>
+       <st Contlex="CC_">али</st>
+     </stg> <phonet>aľi</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CC">tai</t>
+       <t pos="CC">vai</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">афток</l>
      <stg>
        <st Contlex="CC_">афток</st>
      </stg> <phonet>aftək</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">eli</t>
        <t pos="CC">tai</t>
        <t pos="CC">vai</t>
      </tg>
-   </mg>
-   <mg>
      <defNative/>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">muuten</t>
        <t pos="CC">muutoin</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">бъди</l>
-     <stg>
-       <st Contlex="CS_">бъди</st>
-     </stg> <phonet>bəďi</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="CS">бъта</l>
-     <stg>
-       <st Contlex="CS_">бъта</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">muka</t>
-       <t pos="CS">ikään kuin</t>
-     </tg>
-   </mg>
-</e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">да</l>
      <stg>
        <st Contlex="CC_">да</st>
-     </stg> <phonet>də</phonet>
+     </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">ja</t>
        <t pos="CC">sekä</t>
        <t pos="CC">ynnä</t>
      </tg>
-     <xg> <x>мон да сон</x> <phonet>mon də son</phonet>
-       <xt xml:lang="fin">minä ja hän</xt>
+     <defNative/>
+     <xg>
+       <x>мон да сон</x> <phonet>mon də son</phonet>
+       <xt xml:lang="fin">minä ja hän.</xt>
      </xg>
    </mg>
 </e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">и</l>
      <stg>
        <st Contlex="CC_">и</st>
      </stg> <phonet>i</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">ja</t>
        <t pos="CC">myös</t>
@@ -144,594 +121,88 @@
      <tg xml:lang="fra">
        <t pos="CC">et</t>
      </tg>
-     <xg> <x>и мянь</x> <phonet>i mäń</phonet>
+     <defNative/>
+     <xg>
+       <x>и мянь</x> <phonet>i mäń</phonet>
        <xt xml:lang="fin">suorastaan.</xt>
      </xg>
    </mg>
 </e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">или</l>
      <stg>
        <st Contlex="CC_">или</st>
      </stg> <phonet>iľi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">tai</t>
        <t pos="CC">vai</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">каба</l>
-     <stg>
-       <st Contlex="CONJ_">каба</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="CS">кати</l>
-     <stg>
-       <st Contlex="CS_">кати</st>
-     </stg> <phonet>kaťi</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">kenties</t>
-       <t pos="CS">noinkohan</t>
-       <t pos="CS">ehkäpä</t>
-     </tg>
-     <xg> <x>кати лац, кати аф</x> <phonet>kaťi lac, kaťi af</phonet>
-       <xt xml:lang="fin">ehkä se on hyvä, ehkä ei.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">кодама</l>
-     <stg>
-       <st Contlex="PRON_">кодама</st>
-     </stg>
-   </lg> <pos>Q_A</pos> <phonet>kodama</phonet>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pron">millainen</t>
-     </tg>
-     <xg> <x>кой-кодама</x> <phonet>koj-kodama</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg> <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg> <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg> <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
-       <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
-     </xg>
-     <xg> <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
-       <xt xml:lang="fin">ei minkäänlainen.</xt>
-     </xg>
-     <xg> <x>кодама повсь</x> <phonet>kodamə povś</phonet>
-       <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
-     </xg>
-     <xg> <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
-       <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">конашкава</l>
-     <stg>
-       <st Contlex="CS_">конашкава</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">siinä määrin kuin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">кува</l>
-     <stg>
-       <st Contlex="CONJ_">кува</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">къба</l>
-     <stg>
-       <st Contlex="CONJ_">къба</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">къда</l>
-     <stg>
-       <st Contlex="CS_">къда</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">мес</l>
-     <stg>
-       <st Contlex="PRON_">мес</st>
-     </stg> <phonet>mes, mäs</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pron">miksi</t>
-     </tg>
-     <xg> <x>мес ашеть ваймя?</x> <phonet>mes ašəť vajmä</phonet>
-       <xt xml:lang="fin">miksi et levännyt?</xt>
-     </xg>
-     <xg> <x>сяс ... мес</x> <phonet>śas … mes</phonet>
-       <xt xml:lang="fin">siksi … että.</xt>
-     </xg>
-     <xg> <x>мес-бди</x> <phonet>mes-bəďi</phonet>
-       <xt xml:lang="fin">jostain syystä.</xt>
-     </xg>
-     <xg> <x>мес-кда!</x> <phonet>mes-kəda</phonet>
-       <xt xml:lang="fin">sillä lailla! kyllä kai!; mikäpäs siinä.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">мъзярс</l>
      <stg>
        <st Contlex="CC_">мъзярс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">niin kauan kuin</t> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">мярьгат</l>
      <stg>
        <st Contlex="CC_">мярьгат</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kuin</t>
        <t pos="CS">ikään kuin</t>
        <t pos="CS">aivan kuin</t>
        <t pos="CS">niin kuin</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">несак</l>
-     <stg>
-       <st Contlex="CONJ_">несак</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
-<e>
+<e id="None" meta="">
    <lg>
      <l pos="CC">но</l>
      <stg>
        <st Contlex="CC_">но</st>
      </stg> <phonet>no</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CC">mutta</t>
        <t pos="CC">vaan</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">нул</l>
-     <stg>
-       <st Contlex="CONJ_">нул</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">пока</l>
-     <stg>
-       <st Contlex="CONJ_">пока</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">раз</l>
-     <stg>
-       <st Contlex="CS_">раз</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">разе</l>
-     <stg>
-       <st Contlex="CS_">разе</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">ellei</t>
-       <t pos="CS">jos ei</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">рас</l>
-     <stg>
-       <st Contlex="CS_">рас</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">сясы</l>
-     <stg>
-       <st Contlex="CS_">сясы</st>
-     </stg> <phonet>śasi</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">siksi</t>
-       <t pos="CS">sen takia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">так</l>
-     <stg>
-       <st Contlex="CS_">так</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">niin</t>
-       <t pos="CS">siinä tapauksessa että</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">mutta</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">то</l>
-     <stg>
-       <st Contlex="CS_">то</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">milloin</t>
-       <t pos="CS">väliin</t>
-       <t pos="CS">välistä</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">niin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Conj">тожа</l>
-     <stg>
-       <st Contlex="CONJ_">тожа</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">хоть</l>
-     <stg>
-       <st Contlex="CS_">хоть</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-       <t pos="CS">siitä huolimatta, että</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">kuin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">хотя</l>
-     <stg>
-       <st Contlex="CS_">хотя</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">siitä huolimatta, että</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">хуть</l>
-     <stg>
-       <st Contlex="CS_">хуть</st>
-     </stg> <phonet>xuť, xəť, kuť</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-       <t pos="CS">joskin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">хуш</l>
-     <stg>
-       <st Contlex="CS_">хуш</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-       <t pos="CS">siitä huolimatta, että</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">цёк</l>
-     <stg>
-       <st Contlex="ADV_">цёк</st>
-     </stg> <phonet>ćok</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Adv">melkein</t>
-       <t pos="Adv">miltei</t>
-       <t pos="Adv">lähes</t>
-     </tg>
-     <xg> <x>сон цёк сембонь тиезень</x> <phonet>son ćok śembəń ťijəźəń</phonet>
-       <xt xml:lang="fin">hän teki melkein kaiken.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">што</l>
-     <stg>
-       <st Contlex="CS_">што</st>
-     </stg> <phonet>što</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">että</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">штоба</l>
-     <stg>
-       <st Contlex="CS_">штоба</st>
-     </stg> <phonet>štoba</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jotta</t>
-       <t pos="CS">että</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">эмбя</l>
-     <stg>
-       <st Contlex="CS_">эмбя</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-       <t pos="CS">kun</t>
-       <t pos="CS">vaikka</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">ёт</l>
-     <stg>
-       <st Contlex="CS_">ёт</st>
-     </stg> <phonet>jot</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">siitä, kun</t>
-     </tg>
-     <xg> <x>колма шит ёт сань</x> <phonet>kolmə šit jot sań</phonet>
-       <xt xml:lang="fin">tulin kolme päivää sitten.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">а</l>
-     <stg>
-       <st Contlex="CC_">а</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">mutta</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">а</l>
-     <stg>
-       <st Contlex="CC_">а</st>
-     </stg> <phonet>a</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">ja</t>
-     </tg>
-   </mg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">mutta</t>
-       <t pos="CC">vaan</t>
-     </tg>
-     <xg> <x>мон молян куду, а сон театрав</x> <phonet>mon moľan kudu a son ťeatrav</phonet>
-       <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">али</l>
-     <stg>
-       <st Contlex="CC_">али</st>
-     </stg> <phonet>aľi</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">tai</t>
-       <t pos="CC">vai</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CC">да</l>
-     <stg>
-       <st Contlex="CC_">да</st>
-     </stg>
-   </lg> <pos>CC</pos> <phonet>də</phonet>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CC">ja</t>
-       <t pos="CC">sekä</t>
-       <t pos="CC">ynnä</t>
-     </tg>
-     <xg> <x>мон да сон</x> <phonet>mon də son</phonet>
-       <xt xml:lang="fin">minä ja hän.</xt>
-     </xg>
    </mg>
 </e>
 </r> 

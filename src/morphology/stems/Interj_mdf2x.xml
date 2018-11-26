@@ -1,4 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<e exclude="fst">
+   <lg>
+     <l pos="Interj">арда!</l>
+     <stg>
+       <st>арда!</st>
+     </stg> <phonet>arda</phonet>
+       <l_ref>ардомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>menkää!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пожалуйста</l>
+     <stg>
+       <st Contlex="FORMULAIC_">пожалуйста</st>
+     </stg> <phonet>pažaləsta</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">ole hyvä</t>
+       <t pos="Interj">olkaa hyvät</t>
+       <t pos="Interj">olkaa hyvä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сюк</l>
+     <stg>
+       <st Contlex="FORMULAIC_">сюк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Interj">thank you</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Interj">kiitos</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Interj">merci</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">аф</l>
+     <stg>
+       <st Contlex="INTERJ-NEG">аф</st>
+     </stg> <phonet>af</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Interj">no</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Interj">ei</t>
+     </tg>
+     <tg xml:lang="myv">
+       <t pos="Interj">арась</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Interj">а</l>
@@ -6,30 +93,18 @@
        <st Contlex="INTERJ_">а</st>
      </stg> <phonet>a</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">ahaa!</t>
      </tg>
-     <xg> <x>а! шарьхкодеви!</x> <phonet>a, šaŕxkəďəvi</phonet>
-       <xt xml:lang="fin">ahaa, nyt ymmärrän!</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">аде</l>
-     <stg>
-       <st Contlex="V-IMPRT-SG_">аде</st>
-     </stg> <phonet>aďä</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">tule!</t>
-     </tg>
-     <xg> <x>аде мархтонк!</x> <phonet>aďä marxtən(ə)k</phonet>
-       <xt xml:lang="fin">tule mukaamme!</xt>
+     <xg>
+       <x>а! шарьхкодеви!</x> <phonet>a, šaŕxkəďəvi</phonet>
+       <xt xml:lang="fin">ahaa, nyt ymmärrän!</xt>
      </xg>
    </mg>
 </e>
@@ -40,63 +115,111 @@
        <st Contlex="INTERJ_">ай</st>
      </stg> <phonet>aj</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">oi!</t>
        <t pos="Interj">ai!</t>
        <t pos="Interj">voi!</t>
      </tg>
-     <xg> <x>ох ай!</x> <phonet>ox aj</phonet>
+     <defNative/>
+     <xg>
+       <x>ох ай!</x> <phonet>ox aj</phonet>
        <xt xml:lang="fin">oi voi!</xt>
      </xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="V">айда</l>
+     <l pos="Interj">айда</l>
      <stg>
-       <st Contlex="V-IMPRT-PL_">айда</st>
+       <st Contlex="INTERJ_">айда</st>
      </stg> <phonet>ajda</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">tulkaa!</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">аляняй</l>
+     <l pos="Interj">аля</l>
      <stg>
-       <st Contlex="VOCATIVE_">аляняй</st>
-     </stg> <phonet>aľäńäj</phonet>
+       <st Contlex="INTERJ_">аля</st>
+     </stg> <phonet>aľä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">isä hei</t>
+       <t pos="Interj">kyllä</t>
+       <t pos="Interj">kylläpä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">арак ширес!</l>
+     <stg>
+       <st Contlex="INTERJ_">арак ширес!</st>
+     </stg> <phonet>arak šiŕəs</phonet>
+       <l_ref>шире</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>väistä!</t>
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">аф</l>
+     <l pos="Interj" type="mwe">аре!</l>
      <stg>
-       <st Contlex="INTERJ-NEG">аф</st>
-     </stg> <phonet>af</phonet>
+       <st Contlex="INTERJ_">аре!</st>
+     </stg> <phonet>aŕä</phonet>
+       <l_ref>ардомс</l_ref>
    </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="eng">
-       <t pos="Interj">no</t>
-     </tg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">ei</t>
+       <t>tule!</t>
      </tg>
-     <tg xml:lang="myv">
-       <t pos="Interj">арась</t>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">архт!</l>
+     <stg>
+       <st Contlex="INTERJ_">архт!</st>
+     </stg> <phonet>arxt</phonet>
+       <l_ref>ардомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>häivy!</t>
      </tg>
    </mg>
 </e>
@@ -107,25 +230,51 @@
        <st Contlex="INTERJ_">аха</st>
      </stg> <phonet>axa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">ahaa!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">ащек!</l>
+     <stg>
+       <st Contlex="INTERJ_">ащек!</st>
+     </stg> <phonet>aščək</phonet>
+       <l_ref>ащемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>seisahdu! odota!</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="V">бавак</l>
+     <l pos="Interj">бавак</l>
      <stg>
-       <st Contlex="V-IMPRT-SG_">бавак</st>
+       <st Contlex="INTERJ_">бавак</st>
      </stg> <phonet>bavak</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">nuku! (lapsenkieltä)</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -135,11 +284,15 @@
        <st Contlex="INTERJ_">баву, баву</st>
      </stg> <phonet>bavu, bavu</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">tuudittelusana</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -149,9 +302,15 @@
        <st Contlex="INTERJ_">брысь</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -161,8 +320,55 @@
        <st Contlex="INTERJ_">бя</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вага</l>
+     <stg>
+       <st Contlex="INTERJ_">вага</st>
+     </stg> <phonet>vaga</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">kas</t>
+       <t pos="Interj">kas tässä</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>вага вдь</x> <phonet>vagə vəď</phonet>
+       <xt xml:lang="fin">kylläpä</xt>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">вага вдь</l>
+     <stg>
+       <st Contlex="INTERJ_">вага вдь</st>
+     </stg> <phonet>vagə vəď</phonet>
+       <l_ref>вага</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kylläpä</t>
      </tg>
    </mg>
 </e>
@@ -173,44 +379,91 @@
        <st Contlex="INTERJ_">вай</st>
      </stg> <phonet>vaj</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">voi</t>
        <t pos="Interj">oi</t>
      </tg>
-     <xg> <x>вай ни</x> <phonet>vaj ńi</phonet>
+     <defNative/>
+     <xg>
+       <x>вай ни</x> <phonet>vaj ńi</phonet>
        <xt xml:lang="fin">miksipä ei, miksei.</xt>
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">вон</l>
+     <l pos="Interj" type="mwe">вана!</l>
      <stg>
-       <st Contlex="INTERJ_">вон</st>
-     </stg>
+       <st Contlex="INTERJ_">вана!</st>
+     </stg> <phonet>vana</phonet>
+       <l_ref>ваномс</l_ref>
    </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>katsos! kappas! kas!</t>
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="V">ворьхть</l>
+     <l pos="Interj" type="mwe">варжака!</l>
      <stg>
-       <st Contlex="V-IMPRT-SG_">ворьхть</st>
-       <st Contlex="V-IMPRT-SG_">ворьть</st>
-     </stg> <phonet>voŕť, voŕxť</phonet>
+       <st Contlex="INTERJ_">варжака!</st>
+     </stg> <phonet>varžaka, varǯaka</phonet>
+       <l_ref>варжамс</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="V">pois!</t>
-       <t pos="V">hus!</t>
-       <t pos="V">häivy!</t>
-       <t pos="V">painu tiehesi!</t>
+       <t>katsopas!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">ватт!</l>
+     <stg>
+       <st Contlex="INTERJ_">ватт!</st>
+     </stg> <phonet>vatt, vantt</phonet>
+       <l_ref>ваномс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kas!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">ватта!</l>
+     <stg>
+       <st Contlex="INTERJ_">ватта!</st>
+     </stg> <phonet>vatta</phonet>
+       <l_ref>ваномс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>katsopas!</t>
      </tg>
    </mg>
 </e>
@@ -221,9 +474,175 @@
        <st Contlex="INTERJ_">взы</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">видекс</l>
+     <stg>
+       <st Contlex="INTERJ_">видекс</st>
+     </stg> <phonet>viďəks</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">totta kyllä</t>
+       <t pos="Interj">todellakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вов</l>
+     <stg>
+       <st Contlex="INTERJ_">вов</st>
+     </stg> <phonet>vov</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">no</t>
+       <t pos="Interj">kas</t>
+       <t pos="Interj">kappas</t>
+       <t pos="Interj">katsos</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>вов вдь</x> <phonet>vov vəď</phonet>
+       <xt xml:lang="fin">kylläpä.</xt>
+     </xg>
+     <xg>
+       <x>вов ни эста</x> <phonet>vov ńi esta</phonet>
+       <xt xml:lang="fin">kas silloinpa.</xt>
+     </xg>
+     <xg>
+       <x>вов сась кизось</x> <phonet>vov saś kizəś</phonet>
+       <xt xml:lang="fin">niin tuli kesä.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вон</l>
+     <stg>
+       <st Contlex="INTERJ_">вон</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ворь(х)ть</l>
+     <stg>
+       <st Contlex="INTERJ_">ворь(х)ть</st>
+     </stg> <phonet>voŕť, voŕxť</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">pois!</t>
+       <t pos="Interj">hus!</t>
+       <t pos="Interj">häivy!</t>
+       <t pos="Interj">painu tiehesi!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">ворьготть!</l>
+     <stg>
+       <st Contlex="INTERJ_">ворьготть!</st>
+     </stg> <phonet>voŕgəťť</phonet>
+       <l_ref>ворьгодемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>pakene!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ворьть</l>
+     <stg>
+       <st Contlex="INTERJ_">ворьть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ворьхть</l>
+     <stg>
+       <st Contlex="INTERJ_">ворьхть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вот</l>
+     <stg>
+       <st Contlex="INTERJ_">вот</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -233,9 +652,15 @@
        <st Contlex="INTERJ_">вяць-вяць</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -245,8 +670,32 @@
        <st Contlex="INTERJ_">вяця-вяця</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">галдорды пря!</l>
+     <stg>
+       <st Contlex="INTERJ_">галдорды пря!</st>
+     </stg> <phonet>galdərdi pŕä</phonet>
+       <l_ref>галдордомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>hölmö!</t>
      </tg>
    </mg>
 </e>
@@ -257,9 +706,15 @@
        <st Contlex="INTERJ_">гоп</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -269,8 +724,69 @@
        <st Contlex="INTERJ_">гопля</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">да</l>
+     <stg>
+       <st Contlex="INTERJ_">да</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">kyllä</t>
+       <t pos="Interj">niin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">дугаканяй!</l>
+     <stg>
+       <st Contlex="INTERJ_">дугаканяй!</st>
+     </stg> <phonet>dugakańäj</phonet>
+       <l_ref>дуган</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>veikkoseni!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">думандака!</l>
+     <stg>
+       <st Contlex="INTERJ_">думандака!</st>
+     </stg> <phonet>dumandaka</phonet>
+       <l_ref>думандамс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ajattelepas!</t>
      </tg>
    </mg>
 </e>
@@ -281,9 +797,15 @@
        <st Contlex="INTERJ_">зерьрь</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -293,13 +815,18 @@
        <st Contlex="INTERJ_">и</st>
      </stg> <phonet>i</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">ja</t>
        <t pos="Interj">myös</t>
      </tg>
-     <xg> <x>и мянь</x> <phonet>i mäń</phonet>
+     <defNative/>
+     <xg>
+       <x>и мянь</x> <phonet>i mäń</phonet>
        <xt xml:lang="fin">suorastaan.</xt>
      </xg>
    </mg>
@@ -311,68 +838,42 @@
        <st Contlex="INTERJ_">каба</st>
      </stg> <phonet>kaba</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">kun</t>
        <t pos="Interj">kunpa</t>
        <t pos="Interj">kunhan</t>
      </tg>
-     <xg> <x>каба аф илядомс</x> <phonet>kab(a) af iľadəms</phonet>
+     <defNative/>
+     <xg>
+       <x>каба аф илядомс</x> <phonet>kab(a) af iľadəms</phonet>
        <xt xml:lang="fin">kunhan ei jää jälkeen.</xt>
      </xg>
-     <xg> <x>мон пелян, каба афолине познанда</x> <phonet>mon peľan kab(a) afəľińə poznanda</phonet>
+     <xg>
+       <x>мон пелян, каба афолине познанда</x> <phonet>mon peľan kab(a) afəľińə poznanda</phonet>
        <xt xml:lang="fin">kunhan en myöhästyisi.</xt>
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">кусь-кусь</l>
+     <l pos="Interj" type="mwe">какордак!</l>
      <stg>
-       <st Contlex="INTERJ_">кусь-кусь</st>
-     </stg>
+       <st Contlex="INTERJ_">какордак!</st>
+     </stg> <phonet>kakərdak</phonet>
+       <l_ref>какордомс</l_ref>
    </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">куть-куть</l>
-     <stg>
-       <st Contlex="INTERJ_">куть-куть</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">кутя-кутя</l>
-     <stg>
-       <st Contlex="INTERJ_">кутя-кутя</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">кшу</l>
-     <stg>
-       <st Contlex="INTERJ_">кшу</st>
-     </stg> <phonet>kšu</phonet>
-   </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">hus!</t>
+       <t>vaikene!</t>
      </tg>
    </mg>
 </e>
@@ -384,725 +885,140 @@
        <st Contlex="INTERJ_" status="Use/SpellNoSugg">късь-късь</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">но</l>
+     <l pos="Interj">кусь-кусь</l>
      <stg>
-       <st Contlex="INTERJ_">но</st>
-     </stg> <phonet>no</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">no</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ну</l>
-     <stg>
-       <st Contlex="INTERJ_">ну</st>
-     </stg> <phonet>nu</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">no</t>
-       <t pos="Interj">siispä</t>
-       <t pos="Interj">kylläpä</t>
-     </tg>
-     <xg> <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
-       <xt xml:lang="fin">kylläpä väsyttää!</xt>
-     </xg>
-     <xg> <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
-       <xt xml:lang="fin">pian nyt!</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">ожу</l>
-     <stg>
-       <st Contlex="V-IMPRT-SG_">ожу</st>
-     </stg> <phonet>ožu</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">seis!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ой</l>
-     <stg>
-       <st Contlex="INTERJ_">ой</st>
-     </stg> <phonet>oj</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">oi!</t>
-       <t pos="Interj">voi!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ох</l>
-     <stg>
-       <st Contlex="INTERJ_">ох</st>
-     </stg> <phonet>ox</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">oi!</t>
-     </tg>
-     <xg> <x>ох-ай!</x> <phonet>ox-aj</phonet>
-       <xt xml:lang="fin">oivoi!</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">ошка</l>
-     <stg>
-       <st Contlex="V-IMPRT-SG_">ошка</st>
-     </stg> <phonet>oška</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">odotahan!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">пандя</l>
-     <stg>
-       <st Contlex="V-IMPRT-SG_">пандя</st>
-     </stg> <phonet>pańďä</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">riittää!</t>
-       <t pos="V">anna olla!</t>
-       <t pos="V">lopeta jo!</t>
-     </tg>
-     <xg> <x>пандя ни!</x> <phonet>pańďä ńi</phonet>
-       <xt xml:lang="fin">anna olla jo!</xt>
-     </xg>
-     <xg> <x>пандя учсеть!</x> <phonet>pańďä učśəť</phonet>
-       <xt xml:lang="fin">älä enää odota!</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">пежеть</l>
-     <stg>
-       <st Contlex="INTERJ_">пежеть</st>
-     </stg> <phonet>pežəť</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">totta tosiaan</t>
-       <t pos="Interj">totta vie</t>
-       <t pos="Interj">totisesti</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">прощай</l>
-     <stg>
-       <st Contlex="INTERJ_">прощай</st>
-     </stg> <phonet>praščaj</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hyvästi!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">псянк-псянк</l>
-     <stg>
-       <st Contlex="INTERJ_">псянк-псянк</st>
+       <st Contlex="INTERJ_">кусь-кусь</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">пс-пс</l>
+     <l pos="Interj">куть-куть</l>
      <stg>
-       <st Contlex="INTERJ_">пс-пс</st>
-       <st Contlex="INTERJ_" status="Use/SpellNoSugg">пъс-пъс</st>
+       <st Contlex="INTERJ_">куть-куть</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">сюк</l>
+     <l pos="Interj">кутя-кутя</l>
      <stg>
-       <st Contlex="FORMULAIC_">сюк</st>
+       <st Contlex="INTERJ_">кутя-кутя</st>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="eng">
-       <t pos="Interj">thank you</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Interj">kiitos</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Interj">merci</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">трр</l>
-     <stg>
-       <st Contlex="INTERJ_">трр</st>
-     </stg> <phonet>tərr</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">pruu!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">тпру</l>
-     <stg>
-       <st Contlex="INTERJ_">тпру</st>
-       <st Contlex="INTERJ_" status="Use/SpellNoSugg">тъпру</st>
-     </stg>
-   </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">тсс</l>
+     <l pos="Interj">кшу</l>
      <stg>
-       <st Contlex="INTERJ_">тсс</st>
-     </stg>
+       <st Contlex="INTERJ_">кшу</st>
+     </stg> <phonet>kšu</phonet>
    </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">тыр</l>
-     <stg>
-       <st Contlex="INTERJ_">тыр</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">тьфу</l>
-     <stg>
-       <st Contlex="INTERJ_">тьфу</st>
-     </stg> <phonet>ťfu</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hyi!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">тютю-люлю</l>
-     <stg>
-       <st Contlex="INTERJ_">тютю-люлю</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">у</l>
-     <stg>
-       <st Contlex="INTERJ_">у</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">улефтяряй</l>
-     <stg>
-       <st Contlex="INTERJ_">улефтяряй</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ура</l>
-     <stg>
-       <st Contlex="INTERJ_">ура</st>
-     </stg> <phonet>ura</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hurraa!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">урю-урю</l>
-     <stg>
-       <st Contlex="INTERJ_">урю-урю</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">уть-уть-уть</l>
-     <stg>
-       <st Contlex="INTERJ_">уть-уть-уть</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">уф</l>
-     <stg>
-       <st Contlex="INTERJ_">уф</st>
-     </stg> <phonet>uf</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">voi!</t>
-       <t pos="Interj">oih!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">ух</l>
-     <stg>
-       <st Contlex="INTERJ_">ух</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">фу</l>
-     <stg>
-       <st Contlex="INTERJ_">фу</st>
-     </stg> <phonet>fu</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hyi!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">хм</l>
-     <stg>
-       <st Contlex="INTERJ_">хм</st>
-       <st Contlex="INTERJ_" status="Use/SpellNoSugg">хъм</st>
-     </stg> <phonet>xəm</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hm!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">хм</l>
-     <stg>
-       <st Contlex="INTERJ_">хм</st>
-       <st Contlex="INTERJ_" status="Use/SpellNoSugg">хъм</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">цып-цып</l>
-     <stg>
-       <st Contlex="INTERJ_">цып-цып</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">цыц</l>
-     <stg>
-       <st Contlex="INTERJ_">цыц</st>
-     </stg> <phonet>cic, ćić</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hys!</t>
-       <t pos="Interj">hiljaa!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">цю</l>
-     <stg>
-       <st Contlex="INTERJ_">цю</st>
-     </stg> <phonet>ću</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hys!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">чу</l>
-     <stg>
-       <st Contlex="INTERJ_">чу</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">чур</l>
-     <stg>
-       <st Contlex="INTERJ_">чур</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">э</l>
-     <stg>
-       <st Contlex="INTERJ_">э</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эдок</l>
-     <stg>
-       <st Contlex="INTERJ_">эдок</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эй</l>
-     <stg>
-       <st Contlex="INTERJ_">эй</st>
-     </stg> <phonet>ej</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">hoi!</t>
-       <t pos="Interj">hei!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эк</l>
-     <stg>
-       <st Contlex="INTERJ_">эк</st>
-     </stg> <phonet>äk</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">kas!</t>
-       <t pos="Interj">kappas!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эрь</l>
-     <stg>
-       <st Contlex="INTERJ_">эрь</st>
-     </stg> <phonet>äŕ</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">no</t>
-       <t pos="Interj">-pa</t>
-       <t pos="Interj">-han</t>
-     </tg>
-     <xg> <x>эрь ни!</x> <phonet>äŕ ńi</phonet>
-       <xt xml:lang="fin">sillä lailla!</xt>
-     </xg>
-     <xg> <x>эрь, сёрматт сёрма</x> <phonet>äŕ śormatt śorma</phonet>
-       <xt xml:lang="fin">otapa ja kirjoita kirje.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эх</l>
-     <stg>
-       <st Contlex="INTERJ_">эх</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">эхе</l>
-     <stg>
-       <st Contlex="INTERJ_">эхе</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">юркшт</l>
-     <stg>
-       <st Contlex="INTERJ_">юркшт</st>
-     </stg> <phonet>jurkšt</phonet>
-   </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">hus!</t>
      </tg>
-     <xg> <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
-       <xt xml:lang="fin">hypähtää äkisti.</xt>
-     </xg>
+     <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">пожалуйста</l>
+     <l pos="Interj" type="mwe">мацикс пурдаса сялдаскяцень!</l>
      <stg>
-       <st Contlex="FORMULAIC_">пожалуйста</st>
-     </stg> <phonet>pažaləsta</phonet>
+       <st Contlex="INTERJ_">мацикс пурдаса сялдаскяцень!</st>
+     </stg> <phonet>maćiks purdasa śaldaskäćəń</phonet>
+       <l_ref>сялдаз</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">ole hyvä</t>
-       <t pos="Interj">olkaa hyvät</t>
-       <t pos="Interj">olkaa hyvä</t>
+       <t>väännän sinulta niskat nurin!</t>
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">сюкпря</l>
+     <l pos="Interj" type="mwe">моледа ширезон!</l>
      <stg>
-       <st Contlex="INTERJ_">сюкпря</st>
-     </stg> <phonet>śukpŕä</phonet>
+       <st Contlex="INTERJ_">моледа ширезон!</st>
+     </stg> <phonet>moľədə šiŕəzən</phonet>
+       <l_ref>шире</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">kiitos</t>
-       <t pos="Interj">tervehdys</t>
-       <t pos="Interj">kumarrus</t>
-       <t pos="Interj">terveiset</t>
+       <t>tulkaa luokseni!</t>
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Interj">аля</l>
+     <l pos="Interj" type="mwe">молодецат!</l>
      <stg>
-       <st Contlex="INTERJ_">аля</st>
-     </stg> <phonet>aľä</phonet>
+       <st Contlex="INTERJ_">молодецат!</st>
+     </stg> <phonet>məlaďecat</phonet>
+       <l_ref>молодец</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Interj">kyllä</t>
-       <t pos="Interj">kylläpä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">вага</l>
-     <stg>
-       <st Contlex="INTERJ_">вага</st>
-     </stg> <phonet>vaga</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">kas</t>
-       <t pos="Interj">kas tässä</t>
-     </tg>
-     <xg> <x>вага вдь</x> <phonet>vagə vəď</phonet>
-       <xt xml:lang="fin">kylläpä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">видекс</l>
-     <stg>
-       <st Contlex="INTERJ_">видекс</st>
-     </stg> <phonet>viďəks</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">totta kyllä</t>
-       <t pos="Interj">todellakin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">вов</l>
-     <stg>
-       <st Contlex="INTERJ_">вов</st>
-     </stg> <phonet>vov</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">no</t>
-       <t pos="Interj">kas</t>
-       <t pos="Interj">kappas</t>
-       <t pos="Interj">katsos</t>
-     </tg>
-     <xg> <x>вов вдь</x> <phonet>vov vəď</phonet>
-       <xt xml:lang="fin">kylläpä.</xt>
-     </xg>
-     <xg> <x>вов ни эста</x> <phonet>vov ńi esta</phonet>
-       <xt xml:lang="fin">kas silloinpa.</xt>
-     </xg>
-     <xg> <x>вов сась кизось</x> <phonet>vov saś kizəś</phonet>
-       <xt xml:lang="fin">niin tuli kesä.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">вот</l>
-     <stg>
-       <st Contlex="INTERJ_">вот</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">да</l>
-     <stg>
-       <st Contlex="INTERJ_">да</st>
-     </stg>
-   </lg> <pos>FORMULAIC</pos> <phonet>da</phonet>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Interj">kyllä</t>
-       <t pos="Interj">niin</t>
+       <t>(oletpa) kunnon veikko!</t>
      </tg>
    </mg>
 </e>
@@ -1113,12 +1029,17 @@
        <st Contlex="INTERJ_">на</st>
      </stg> <phonet>na</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">no</t>
      </tg>
-     <xg> <x>на, сявк марьть</x> <phonet>na, śävk maŕť</phonet>
+     <defNative/>
+     <xg>
+       <x>на, сявк марьть</x> <phonet>na, śävk maŕť</phonet>
        <xt xml:lang="fin">no, otahan omenaa.</xt>
      </xg>
    </mg>
@@ -1130,10 +1051,32 @@
        <st Contlex="INTERJ_">небось</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">но</l>
+     <stg>
+       <st Contlex="INTERJ_">но</st>
+     </stg> <phonet>no</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">no</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1143,19 +1086,894 @@
        <st Contlex="INTERJ_">ну</st>
      </stg> <phonet>nu</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Interj">no</t>
        <t pos="Interj">siispä</t>
        <t pos="Interj">kylläpä</t>
      </tg>
-     <xg> <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
+     <defNative/>
+     <xg>
+       <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
        <xt xml:lang="fin">kylläpä väsyttää!</xt>
      </xg>
-     <xg> <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
+     <xg>
+       <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
        <xt xml:lang="fin">pian nyt!</xt>
      </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">няк</l>
+     <stg>
+       <st Contlex="INTERJ_">няк</st>
+     </stg> <phonet>ńäk</phonet>
+       <l_ref>няемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>näetkös</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ожу</l>
+     <stg>
+       <st Contlex="INTERJ_">ожу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>odota</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ой</l>
+     <stg>
+       <st Contlex="INTERJ_">ой</st>
+     </stg> <phonet>oj</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">oi!</t>
+       <t pos="Interj">voi!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ох</l>
+     <stg>
+       <st Contlex="INTERJ_">ох</st>
+     </stg> <phonet>ox</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">oi!</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>ох-ай!</x> <phonet>ox-aj</phonet>
+       <xt xml:lang="fin">oivoi!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ошка</l>
+     <stg>
+       <st Contlex="INTERJ_">ошка</st>
+     </stg> <phonet>oška</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">odotahan!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пандя</l>
+     <stg>
+       <st Contlex="INTERJ_">пандя</st>
+     </stg> <phonet>pańďä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">riittää!</t>
+       <t pos="Interj">anna olla!</t>
+       <t pos="Interj">lopeta jo!</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>пандя ни!</x> <phonet>pańďä ńi</phonet>
+       <xt xml:lang="fin">anna olla jo!</xt>
+     </xg>
+     <xg>
+       <x>пандя учсеть!</x> <phonet>pańďä učśəť</phonet>
+       <xt xml:lang="fin">älä enää odota!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пежеть</l>
+     <stg>
+       <st Contlex="INTERJ_">пежеть</st>
+     </stg> <phonet>pežəť</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">totta tosiaan</t>
+       <t pos="Interj">totta vie</t>
+       <t pos="Interj">totisesti</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">прощай</l>
+     <stg>
+       <st Contlex="INTERJ_">прощай</st>
+     </stg> <phonet>praščaj</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hyvästi!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пс-пс</l>
+     <stg>
+       <st Contlex="INTERJ_">пс-пс</st>
+       <st Contlex="INTERJ_" status="Use/SpellNoSugg">пъс-пъс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">псянк-псянк</l>
+     <stg>
+       <st Contlex="INTERJ_">псянк-псянк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">спасиба шкай-павазти!</l>
+     <stg>
+       <st Contlex="INTERJ_">спасиба шкай-павазти!</st>
+     </stg> <phonet>spaśiba/paśiba škaj-pavazťi</phonet>
+       <l_ref>паваз</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>luojan kiitos!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">стяфт!</l>
+     <stg>
+       <st Contlex="INTERJ_">стяфт!</st>
+     </stg> <phonet>śťaft</phonet>
+       <l_ref>стяфтомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>seis!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">сюконяк!</l>
+     <stg>
+       <st Contlex="INTERJ_">сюконяк!</st>
+     </stg> <phonet>śukəńak</phonet>
+       <l_ref>сюконямс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kumarra! tervehdi!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сюкпря</l>
+     <stg>
+       <st Contlex="INTERJ_">сюкпря</st>
+     </stg> <phonet>śukpŕä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">kiitos</t>
+       <t pos="Interj">tervehdys</t>
+       <t pos="Interj">kumarrus</t>
+       <t pos="Interj">terveiset</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тпру</l>
+     <stg>
+       <st Contlex="INTERJ_">тпру</st>
+       <st Contlex="INTERJ_" status="Use/SpellNoSugg">тъпру</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">трр</l>
+     <stg>
+       <st Contlex="INTERJ_">търр</st>
+     </stg> <phonet>tərr</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">pruu!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тсс</l>
+     <stg>
+       <st Contlex="INTERJ_">тсс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тыр</l>
+     <stg>
+       <st Contlex="INTERJ_">тыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тьфу</l>
+     <stg>
+       <st Contlex="INTERJ_">тьфу</st>
+     </stg> <phonet>ťfu</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hyi!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тютю-люлю</l>
+     <stg>
+       <st Contlex="INTERJ_">тютю-люлю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">у</l>
+     <stg>
+       <st Contlex="INTERJ_">у</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">улеза асу мековасу!</l>
+     <stg>
+       <st Contlex="INTERJ_">улеза асу мековасу!</st>
+     </stg> <phonet>uľəza asu mekəvasu</phonet>
+       <l_ref>асу</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>auttakaamme toisiamme!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">улефтяряй</l>
+     <stg>
+       <st Contlex="INTERJ_">улефтяряй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ура</l>
+     <stg>
+       <st Contlex="INTERJ_">ура</st>
+     </stg> <phonet>ura</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hurraa!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">урю-урю</l>
+     <stg>
+       <st Contlex="INTERJ_">урю-урю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">уть-уть-уть</l>
+     <stg>
+       <st Contlex="INTERJ_">уть-уть-уть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">уф</l>
+     <stg>
+       <st Contlex="INTERJ_">уф</st>
+     </stg> <phonet>uf</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">voi!</t>
+       <t pos="Interj">oih!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ух</l>
+     <stg>
+       <st Contlex="INTERJ_">ух</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">фу</l>
+     <stg>
+       <st Contlex="INTERJ_">фу</st>
+     </stg> <phonet>fu</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hyi!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">хм</l>
+     <stg>
+       <st Contlex="INTERJ_">хм</st>
+       <st Contlex="INTERJ_" status="Use/SpellNoSugg">хъм</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">цып-цып</l>
+     <stg>
+       <st Contlex="INTERJ_">цып-цып</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">цыц</l>
+     <stg>
+       <st Contlex="INTERJ_">цыц</st>
+     </stg> <phonet>cic, ćić</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hys!</t>
+       <t pos="Interj">hiljaa!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">цю</l>
+     <stg>
+       <st Contlex="INTERJ_">цю</st>
+     </stg> <phonet>ću</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hys!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чу</l>
+     <stg>
+       <st Contlex="INTERJ_">чу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чур</l>
+     <stg>
+       <st Contlex="INTERJ_">чур</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">шумбрат-эрят!</l>
+     <stg>
+       <st Contlex="INTERJ_">шумбрат-эрят!</st>
+     </stg> <phonet>šumbrat-eŕat</phonet>
+       <l_ref>эрямс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>terve!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj" type="mwe">шумбраши!</l>
+     <stg>
+       <st Contlex="INTERJ_">шумбраши!</st>
+     </stg> <phonet>šumbraši</phonet>
+       <l_ref>шумбраши</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>päivää!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э</l>
+     <stg>
+       <st Contlex="INTERJ_">э</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эдок</l>
+     <stg>
+       <st Contlex="INTERJ_">эдок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эй</l>
+     <stg>
+       <st Contlex="INTERJ_">эй</st>
+     </stg> <phonet>ej</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hoi!</t>
+       <t pos="Interj">hei!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк</l>
+     <stg>
+       <st Contlex="INTERJ_">эк</st>
+     </stg> <phonet>äk</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">kas!</t>
+       <t pos="Interj">kappas!</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эрь</l>
+     <stg>
+       <st Contlex="INTERJ_">эрь</st>
+     </stg> <phonet>äŕ</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">no</t>
+       <t pos="Interj">-pa</t>
+       <t pos="Interj">-han</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>эрь ни!</x> <phonet>äŕ ńi</phonet>
+       <xt xml:lang="fin">sillä lailla!</xt>
+     </xg>
+     <xg>
+       <x>эрь, сёрматт сёрма</x> <phonet>äŕ śormatt śorma</phonet>
+       <xt xml:lang="fin">otapa ja kirjoita kirje.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эх</l>
+     <stg>
+       <st Contlex="INTERJ_">эх</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эхе</l>
+     <stg>
+       <st Contlex="INTERJ_">эхе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">юркшт</l>
+     <stg>
+       <st Contlex="INTERJ_">юркшт</st>
+     </stg> <phonet>jurkšt</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">hus!</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
+       <xt xml:lang="fin">hypähtää äkisti.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">аляняй</l>
+     <stg>
+       <st Contlex="VOCATIVE_">аляняй</st>
+     </stg> <phonet>aľäńäj</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">isä hei</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 </r> 
