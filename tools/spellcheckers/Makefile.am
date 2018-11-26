@@ -13,6 +13,26 @@ SUBDIRS = filters . fstbased listbased
 # analyser-speller-gt-norm.%: analyser-speller-gt-norm.tmp.%
 #	build rules
 
+generator-speller-gt-norm.%: analyser-speller-gt-norm.tmp.% \
+				$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.%   
+	$(AM_V_XFST_TOOL)$(PRINTF) "read regex                                    \
+			@\"$<\"                                                          \
+		.o. @\"$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.$*\"   \
+			;\n\
+		 $(INVERT_XFST)$(INVERT_FOMA)\
+		save stack $@\n\
+		quit\n" | $(XFST_TOOL)
+
+analyser-speller-gt-norm.%: analyser-speller-gt-norm.tmp.% \
+				$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.%   
+	$(AM_V_XFST_TOOL)$(PRINTF) "read regex                                    \
+			@\"$<\"                                                          \
+		.o. @\"$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.$*\"   \
+			;\n\
+		$(INVERT_HFST)\
+		save stack $@\n\
+		quit\n" | $(XFST_TOOL)
+
 
 # END: Local processing
 #########################################

@@ -1,226 +1,316 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+  <e>
+   <lg>
+     <l pos="Po">аймак</l>
+     <stg>
+       <st Contlex="PO_">аймак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">аймакс</l>
      <stg>
        <st Contlex="PO_">аймакс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">asti</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
+   <map/>
    <lg>
      <l pos="Po">ала</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="PO-SPAT_">ала</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Pr">under</t>
+       <t pos="Pr">beneath</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Po">alla</t>
      </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">алда</l>
      <stg>
        <st Contlex="PO-SPAT_">алда</st>
      </stg> <phonet>alda</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">alta</t>
      </tg>
-     <xg> <x>парьнясь куяр алда</x> <phonet>paŕńäś kujar alda</phonet>
+     <defNative/>
+     <xg>
+       <x>парьнясь куяр алда</x> <phonet>paŕńäś kujar alda</phonet>
        <xt xml:lang="fin">suolakurkkupytty</xt>
      </xg>
-     <xg> <x>кундазе кенерьбакарь алда</x> <phonet>kundaźə keńəŕbakaŕ alda</phonet>
+     <xg>
+       <x>кундазе кенерьбакарь алда</x> <phonet>kundaźə keńəŕbakaŕ alda</phonet>
        <xt xml:lang="fin">tarttui kyynärpäähän</xt>
        <xt xml:lang="fin">otti kiinni kyynärpäästä</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">алу</l>
      <stg>
        <st Contlex="PO-SPAT_">алу</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">alle</t>
      </tg>
-     <xg> <x>шрать алу</x> <phonet>šrať alu</phonet>
+     <defNative/>
+     <xg>
+       <x>шрать алу</x> <phonet>šrať alu</phonet>
        <xt xml:lang="fin">pöydän alle</xt>
      </xg>
-     <xg> <x>ацамс идть алу</x> <phonet>acams iťť alu</phonet>
+     <xg>
+       <x>ацамс идть алу</x> <phonet>acams iťť alu</phonet>
        <xt xml:lang="fin">sijata lapselle vuode</xt>
      </xg>
-     <xg> <x>ки алу тусь</x> <phonet>ki alu tuś</phonet>
+     <xg>
+       <x>ки алу тусь</x> <phonet>ki alu tuś</phonet>
        <xt xml:lang="fin">lähti jonnekin</xt>
      </xg>
-     <xg> <x>лов алу соксемс</x> <phonet>lov alu sokśəms</phonet>
+     <xg>
+       <x>лов алу соксемс</x> <phonet>lov alu sokśəms</phonet>
        <xt xml:lang="fin">päättää syyskynnöt</xt>
      </xg>
-     <xg> <x>тя вастсь катф модамарь алу</x> <phonet>ťä vasć katf modamaŕ alu</phonet>
+     <xg>
+       <x>тя вастсь катф модамарь алу</x> <phonet>ťä vasć katf modamaŕ alu</phonet>
        <xt xml:lang="fin">tämä maa on jätettävä perunalle</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">башка</l>
      <stg>
        <st Contlex="PO_">башка</st>
      </stg> <phonet>baška</phonet>
    </lg>
-   <mg>
-     <argg arg2="%&lt;abl%&gt;"/>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">lisäksi</t>
      </tg>
+     <argg arg2="%&lt;abl%&gt;"/>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">бокова</l>
      <stg>
        <st Contlex="PO_">бокова</st>
      </stg> <phonet>bokəva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">ohi</t>
        <t pos="Po">sivuitse</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">бокс</l>
      <stg>
        <st Contlex="PO_">бокс</st>
      </stg> <phonet>boks</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sivuun</t>
        <t pos="Po">syrjään</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">бокса</l>
      <stg>
        <st Contlex="PO_">бокса</st>
      </stg> <phonet>boksa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sivulla</t>
        <t pos="Po">sivussa</t>
        <t pos="Po">syrjässä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">бокста</l>
      <stg>
        <st Contlex="PO_">бокста</st>
      </stg> <phonet>boksta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sivulta</t>
        <t pos="Po">sivusta</t>
        <t pos="Po">syrjästä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">боку</l>
      <stg>
        <st Contlex="PO_">боку</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вакска</l>
      <stg>
        <st Contlex="PO_">вакска</st>
      </stg> <phonet>vakska</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">ohi(tse)</t>
        <t pos="Po">vieritse</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ваксс</l>
      <stg>
        <st Contlex="PO_">ваксс</st>
      </stg> <phonet>vakss</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">viereen</t>
      </tg>
-     <xg> <x>молемс шрать ваксс</x> <phonet>moľəms šrať vakss</phonet>
+     <defNative/>
+     <xg>
+       <x>молемс шрать ваксс</x> <phonet>moľəms šrať vakss</phonet>
        <xt xml:lang="fin">mennä pöydän ääreen</xt>
      </xg>
-     <xg> <x>озамс шрать ваксс</x> <phonet>ozams šrať vakss</phonet>
+     <xg>
+       <x>озамс шрать ваксс</x> <phonet>ozams šrať vakss</phonet>
        <xt xml:lang="fin">istua pöytään</xt>
      </xg>
-     <xg> <x>ваксозост</x> <phonet>vaksəzəst</phonet>
+     <xg>
+       <x>ваксозост</x> <phonet>vaksəzəst</phonet>
        <xt xml:lang="fin">heidän viereensä, heidän luokseen</xt>
      </xg>
-     <xg> <x>вакссонза</x> <phonet>vakssənʒa</phonet>
+     <xg>
+       <x>вакссонза</x> <phonet>vakssənʒa</phonet>
        <xt xml:lang="fin">vieressään, vierellään</xt>
      </xg>
-     <xg> <x>ваксстонк</x> <phonet>vaksstəŋk</phonet>
+     <xg>
+       <x>ваксстонк</x> <phonet>vaksstəŋk</phonet>
        <xt xml:lang="fin">vierestämme, viereltämme, luotamme</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ваксса</l>
      <stg>
        <st Contlex="PO_">ваксса</st>
      </stg> <phonet>vakssa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">vieressä</t>
        <t pos="Po">ohessa</t>
@@ -229,198 +319,253 @@
      <tg xml:lang="fra">
        <t pos="Pr">à</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вастс</l>
      <stg>
        <st Contlex="PO_">вастс</st>
      </stg> <phonet>vasc</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">(sen) sijaan</t>
        <t pos="Po">sijasta</t>
        <t pos="Po">asemesta</t>
      </tg>
-     <xg> <x>почф вастс рамась ямкст</x> <phonet>počf vasc ramaś jamkst</phonet>
+     <defNative/>
+     <xg>
+       <x>почф вастс рамась ямкст</x> <phonet>počf vasc ramaś jamkst</phonet>
        <xt xml:lang="fin">jauhojen sijasta hän osti hirssisuurimoita</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вельде</l>
      <stg>
        <st Contlex="PO_">вельде</st>
      </stg> <phonet>veľďä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">mukaan</t>
        <t pos="Po">pohjalta</t>
        <t pos="Po">avulla</t>
        <t pos="Po">ansiosta</t>
      </tg>
-     <xg> <x>байдек вельде якамс</x> <phonet>bajďək veľďə jakams</phonet>
+     <defNative/>
+     <xg>
+       <x>байдек вельде якамс</x> <phonet>bajďək veľďə jakams</phonet>
        <xt xml:lang="fin">kulkea kepin kanssa</xt>
      </xg>
-     <xg> <x>кинь вельде вежендят?</x> <phonet>kiń veľďə vežəńďat</phonet>
+     <xg>
+       <x>кинь вельде вежендят?</x> <phonet>kiń veľďə vežəńďat</phonet>
        <xt xml:lang="fin">kenen välityksellä ilmoitat?</xt>
      </xg>
-     <xg> <x>машинатнень вельде тёждялгофтови тевсь</x> <phonet>mašinaťńəń veľďə ťožďalgəftəvi ťevś</phonet>
+     <xg>
+       <x>машинатнень вельде тёждялгофтови тевсь</x> <phonet>mašinaťńəń veľďə ťožďalgəftəvi ťevś</phonet>
        <xt xml:lang="fin">koneiden ansiosta työ helpottuu</xt>
      </xg>
-     <xg> <x>вельдест</x> <phonet>veľďəst</phonet>
+     <xg>
+       <x>вельдест</x> <phonet>veľďəst</phonet>
        <xt xml:lang="fin">heidän mukaansa</xt>
      </xg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Po">вельксса</l>
-     <stg>
-       <st Contlex="PO_">вельксса</st>
-     </stg>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Po">yläpuolella</t>
-     </tg>
-   </mg>
-</e>
-<e>
+  <e>
    <lg>
      <l pos="Po">велькска</l>
      <stg>
        <st Contlex="PO_">велькска</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">yli</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
+   <lg>
+     <l pos="Po">вельксса</l>
+     <stg>
+       <st Contlex="PO_">вельксса</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">yläpuolella</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">вельф</l>
      <stg>
        <st Contlex="PO_">вельф</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вельфке</l>
      <stg>
        <st Contlex="PO_">вельфке</st>
      </stg> <phonet>veľfkä, veľfka</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">yli</t>
        <t pos="Po">läpi</t>
      </tg>
-     <xg> <x>пиземтуцясь вирть вельфке ётась</x> <phonet>piźəmdućäś viŕť veľfkä jotaś</phonet>
+     <defNative/>
+     <xg>
+       <x>пиземтуцясь вирть вельфке ётась</x> <phonet>piźəmdućäś viŕť veľfkä jotaś</phonet>
        <xt xml:lang="fin">sadepilvi kulki metsän yli</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вельфкяня</l>
      <stg>
        <st Contlex="PO_">вельфкяня</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вельхкска</l>
      <stg>
        <st Contlex="PO_">вельхкска</st>
      </stg> <phonet>veľxkska</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">ylitse</t>
      </tg>
-     <xg> <x>велеть вельхкска лийсть каркт</x> <phonet>veľəť veľxkska ľijśť karkt</phonet>
+     <defNative/>
+     <xg>
+       <x>велеть вельхкска лийсть каркт</x> <phonet>veľəť veľxkska ľijśť karkt</phonet>
        <xt xml:lang="fin">kylän ylitse lensi kurkia</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">вельхксс</l>
      <stg>
        <st Contlex="PO_">вельхксс</st>
      </stg> <phonet>veľxkss</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">ylle</t>
        <t pos="Po">yläpuolelle</t>
      </tg>
-     <xg> <x>повфтамс лампать шрать вельхксс</x> <phonet>povftams lampať š(ə)rať veľxkss</phonet>
+     <defNative/>
+     <xg>
+       <x>повфтамс лампать шрать вельхксс</x> <phonet>povftams lampať š(ə)rať veľxkss</phonet>
        <xt xml:lang="fin">ripustaa lamppu pöydän yläpuolelle</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">видева</l>
      <stg>
        <st Contlex="PO_">видева</st>
      </stg> <phonet>viďəva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">pitkin</t>
        <t pos="Po">myöten</t>
      </tg>
-     <xg> <x>пиле видева долг-шума потмоса</x> <phonet>piľə viďəva dolk-šumə potməsa</phonet>
+     <defNative/>
+     <xg>
+       <x>пиле видева долг-шума потмоса</x> <phonet>piľə viďəva dolk-šumə potməsa</phonet>
        <xt xml:lang="fin">korvia myöten veloissa</xt>
      </xg>
-     <xg> <x>рдазсь плманжа видева</x> <phonet>ərdazś pəlmanǯa viďəva</phonet>
+     <xg>
+       <x>рдазсь плманжа видева</x> <phonet>ərdazś pəlmanǯa viďəva</phonet>
        <xt xml:lang="fin">kuraa on polvia myöten</xt>
      </xg>
-     <xg> <x>сялдаз видева</x> <phonet>śaldaz viďəva</phonet>
+     <xg>
+       <x>сялдаз видева</x> <phonet>śaldaz viďəva</phonet>
        <xt xml:lang="fin">kaulaa myöten</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">видес</l>
      <stg>
        <st Contlex="PO_">видес</st>
      </stg> <phonet>viďəs</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">luo</t>
        <t pos="Po">luokse</t>
@@ -429,767 +574,1068 @@
        <t pos="Po">asti</t>
        <t pos="Po">myöten</t>
      </tg>
-     <xg> <x>кержиста видес</x> <phonet>keržista viďəs</phonet>
+     <defNative/>
+     <xg>
+       <x>кержиста видес</x> <phonet>keržista viďəs</phonet>
        <xt xml:lang="fin">vasemmalta oikealle</xt>
      </xg>
-     <xg> <x>крга видес</x> <phonet>kərga viďəs</phonet>
+     <xg>
+       <x>крга видес</x> <phonet>kərga viďəs</phonet>
        <xt xml:lang="fin">kurkkuun asti, kurkkua myöten</xt>
      </xg>
-     <xg> <x>тевсь сявомс эсь кядь видес</x> <phonet>ťevś śävəms eś käď viďəs</phonet>
+     <xg>
+       <x>тевсь сявомс эсь кядь видес</x> <phonet>ťevś śävəms eś käď viďəs</phonet>
        <xt xml:lang="fin">asia on otettava omiin käsiin</xt>
      </xg>
-     <xg> <x>тишесь плманжа видес касы</x> <phonet>ťišəś pəlmańǯa viďəs kasi</phonet>
+     <xg>
+       <x>тишесь плманжа видес касы</x> <phonet>ťišəś pəlmańǯa viďəs kasi</phonet>
        <xt xml:lang="fin">heinä on polvenkorkuista</xt>
      </xg>
-     <xg> <x>молемс кудть видес</x> <phonet>moľəms kutť viďəs</phonet>
+     <xg>
+       <x>молемс кудть видес</x> <phonet>moľəms kutť viďəs</phonet>
        <xt xml:lang="fin">mennä talon luo</xt>
      </xg>
-     <xg> <x>пачкодемс кудть видес</x> <phonet>pačkəďəms kutť viďəs</phonet>
+     <xg>
+       <x>пачкодемс кудть видес</x> <phonet>pačkəďəms kutť viďəs</phonet>
        <xt xml:lang="fin">päästä talolle asti</xt>
      </xg>
-     <xg> <x>озамс кудть видес</x> <phonet>ozams kutť viďəs</phonet>
+     <xg>
+       <x>озамс кудть видес</x> <phonet>ozams kutť viďəs</phonet>
        <xt xml:lang="fin">istua talon seinustalle</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">видеса</l>
      <stg>
        <st Contlex="PO_">видеса</st>
      </stg> <phonet>viďəsa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">luona</t>
        <t pos="Po">vieressä</t>
        <t pos="Po">vierellä</t>
      </tg>
-     <xg> <x>тядя видеса</x> <phonet>ťäďä viďəsa</phonet>
+     <defNative/>
+     <xg>
+       <x>тядя видеса</x> <phonet>ťäďä viďəsa</phonet>
        <xt xml:lang="fin">äidin luona</xt>
      </xg>
-     <xg> <x>ваймосесть вирнять видеса</x> <phonet>vajməśəśť viŕńäť viďəsa</phonet>
+     <xg>
+       <x>ваймосесть вирнять видеса</x> <phonet>vajməśəśť viŕńäť viďəsa</phonet>
        <xt xml:lang="fin">lepäsivät metsänreunassa</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">видьге</l>
      <stg>
        <st Contlex="PO_">видьге</st>
      </stg> <phonet>viďgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">pitkin</t>
        <t pos="Po">myöten</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
-     <l pos="Po">эс</l>
+     <l pos="Po">ес</l>
      <stg>
-       <st Contlex="PO_">эс</st>
+       <st Contlex="PO_">ес</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">инголе</l>
      <stg>
        <st Contlex="PO_">инголе</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">edessä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">инголи</l>
      <stg>
        <st Contlex="PO_">инголи</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">eteen</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ингольге</l>
      <stg>
        <st Contlex="PO_">ингольге</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ингольде</l>
      <stg>
        <st Contlex="PO_">ингольде</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">edestä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">инкса</l>
      <stg>
        <st Contlex="PO_">инкса</st>
      </stg> <phonet>iŋksa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">takia</t>
        <t pos="Po">vuoksi</t>
      </tg>
-     <xg> <x>сон тусь книгать инкса</x> <phonet>son tuś kńigať iŋksa</phonet>
+     <defNative/>
+     <xg>
+       <x>сон тусь книгать инкса</x> <phonet>son tuś kńigať iŋksa</phonet>
        <xt xml:lang="fin">hän lähti hakemaan kirjaa</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
+   <lg>
+     <l pos="Po">карша</l>
+     <stg>
+       <st Contlex="PO_">карша</st>
+     </stg> <phonet>karša</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">vastaan</t>
+       <t pos="Po">vastapäätä</t>
+       <t pos="Po">vastoin</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>молян ялгазень карша</x> <phonet>moľan jalgaźəń karša</phonet>
+       <xt xml:lang="fin">menen ystävääni vastaan</xt>
+     </xg>
+     <xg>
+       <x>каршес</x> <phonet>karšəs</phonet>
+       <xt xml:lang="fin">vasten, vastaan</xt>
+     </xg>
+     <xg>
+       <x>каршеса</x> <phonet>karšəsa</phonet>
+       <xt xml:lang="fin">vastassa, vastatusten</xt>
+     </xg>
+     <xg>
+       <x>каршезонза</x> <phonet>karšəzənʒa</phonet>
+       <xt xml:lang="fin">häntä vastaan</xt>
+     </xg>
+     <xg>
+       <x>каршу</x> <phonet>karšu</phonet>
+       <xt xml:lang="fin">vastaan, vasten</xt>
+     </xg>
+     <xg>
+       <x>каршеванза</x> <phonet>karšəvanʒa</phonet>
+       <xt xml:lang="fin">häntä vastaan</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">каршес</l>
      <stg>
        <st Contlex="PO_">каршес</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">каршеса</l>
      <stg>
        <st Contlex="PO_">каршеса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">vastapäätä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Po">каршу</l>
+     <stg>
+       <st>каршу</st>
+     </stg> <phonet>karšu</phonet>
+       <l_ref>карша</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>vastaan</t>
+       <t>vasten</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">квалма</l>
      <stg>
        <st Contlex="PO_КВАЛМА">квалма</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
    <lg>
      <l pos="Po">келева</l>
      <stg>
-       <st Contlex="PO_">келева</st>
-     </stg>
+       <st>келева</st>
+     </stg> <phonet>keľəva</phonet>
+       <l_ref>келе</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t>kautta</t>
+       <t>ympäri</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">келес</l>
      <stg>
        <st Contlex="PO_">келес</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кодяма</l>
      <stg>
        <st Contlex="PO_">кодяма</st>
      </stg> <phonet>koďama, końďama</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">kaltainen</t>
        <t pos="A">-lainen</t>
        <t pos="A">-mainen</t>
      </tg>
-     <xg> <x>цёрась алянц кодяма</x> <phonet>ćoraś aľanc koďama</phonet>
+     <defNative/>
+     <xg>
+       <x>цёрась алянц кодяма</x> <phonet>ćoraś aľanc koďama</phonet>
        <xt xml:lang="fin">poika on isänsä kaltainen</xt>
      </xg>
-     <xg> <x>монь кодямон/кондямозе</x> <phonet>moń koďamən/końďaməźä</phonet>
+     <xg>
+       <x>монь кодямон/кондямозе</x> <phonet>moń koďamən/końďaməźä</phonet>
        <xt xml:lang="fin">minunlaiseni, minun kaltaiseni</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">колга</l>
      <stg>
        <st Contlex="PO_">колга</st>
      </stg> <phonet>kolga</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Suf">-sta</t>
      </tg>
-     <xg> <x>сон сёрмадсь литературать колга</x> <phonet>son śormać ľiťəraturať kolga</phonet>
+     <defNative/>
+     <xg>
+       <x>сон сёрмадсь литературать колга</x> <phonet>son śormać ľiťəraturať kolga</phonet>
        <xt xml:lang="fin">hän kirjoitti kirjallisuudesta</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">коре</l>
      <stg>
        <st Contlex="PO_">коре</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">корява</l>
      <stg>
        <st Contlex="PO_">корява</st>
      </stg> <phonet>koŕava</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">mukaan; johonkin nähden/verrattuna</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">коряс</l>
      <stg>
        <st Contlex="PO_">коряс</st>
      </stg> <phonet>koŕas</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">mukaan; johonkin nähden/verrattuna</t>
      </tg>
-     <xg> <x>поeздсь сась расписаниять коряс</x> <phonet>pojəzć saś raspisańijäť koŕas</phonet>
+     <defNative/>
+     <xg>
+       <x>поeздсь сась расписаниять коряс</x> <phonet>pojəzć saś raspisańijäť koŕas</phonet>
        <xt xml:lang="fin">juna saapui aikataulun mukaan</xt>
      </xg>
-     <xg> <x>урожайсь тядде ётай кизоть коряс сяда цебярь</x> <phonet>uražajś ťadďə jotaj kizəť koŕas śadə ćebäŕ</phonet>
+     <xg>
+       <x>урожайсь тядде ётай кизоть коряс сяда цебярь</x> <phonet>uražajś ťadďə jotaj kizəť koŕas śadə ćebäŕ</phonet>
        <xt xml:lang="fin">tämänvuotinen sato on viimevuotista parempi</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кругом</l>
      <stg>
        <st Contlex="PO_">кругом</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кувалга</l>
      <stg>
        <st Contlex="PO_">кувалга</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кувалма</l>
      <stg>
        <st Contlex="PO_">кувалма</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кувалмова</l>
      <stg>
        <st Contlex="PO_">кувалмова</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кувалмос</l>
      <stg>
        <st Contlex="PO_">кувалмос</st>
      </stg> <phonet>kuvalməs</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">pitkin</t>
        <t pos="Po">pitkittäin</t>
        <t pos="Po">pituussuuntaan</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Po">кучкава</l>
+     <stg>
+       <st>кучкава</st>
+     </stg> <phonet>kučkava</phonet>
+       <l_ref>кучка</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>keskeltä</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">кучкас</l>
      <stg>
        <st Contlex="PO_">кучкас</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кучкаса</l>
      <stg>
        <st Contlex="PO_">кучкаса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кядьса</l>
      <stg>
        <st Contlex="PO_">кядьса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кядьста</l>
      <stg>
        <st Contlex="PO_">кядьста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кядяла</l>
      <stg>
        <st Contlex="PO_">кядяла</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кядялда</l>
      <stg>
        <st Contlex="PO_">кядялда</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">кяц</l>
      <stg>
        <st Contlex="PO_">кяц</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ланга</l>
      <stg>
        <st Contlex="PO_">ланга</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">лангс</l>
      <stg>
        <st Contlex="PO_">лангс</st>
      </stg> <phonet>laŋks</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">päälle</t>
        <t pos="Suf">-lle</t>
      </tg>
-     <xg> <x>пянакуд лангс</x> <phonet>pänakud laŋks</phonet>
+     <defNative/>
+     <xg>
+       <x>пянакуд лангс</x> <phonet>pänakud laŋks</phonet>
        <xt xml:lang="fin">uunin päälle</xt>
      </xg>
-     <xg> <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
+     <xg>
+       <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
        <xt xml:lang="fin">samalla, saman tien</xt>
      </xg>
-     <xg> <x>лангс-пильгс щамс</x> <phonet>laŋks-piľks ščams</phonet>
+     <xg>
+       <x>лангс-пильгс щамс</x> <phonet>laŋks-piľks ščams</phonet>
        <xt xml:lang="fin">pukeutua ja panna kengät jalkaan</xt>
      </xg>
-     <xg> <x>лангозонза тонгомс</x> <phonet>laŋgəzənʒə toŋgəms</phonet>
+     <xg>
+       <x>лангозонза тонгомс</x> <phonet>laŋgəzənʒə toŋgəms</phonet>
        <xt xml:lang="fin">pukea ylleen</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">лангса</l>
      <stg>
        <st Contlex="PO_">лангса</st>
      </stg> <phonet>laŋksa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">päällä</t>
        <t pos="Suf">-lla</t>
      </tg>
-     <xg> <x>ки лангса</x> <phonet>ki laŋksa</phonet>
+     <defNative/>
+     <xg>
+       <x>ки лангса</x> <phonet>ki laŋksa</phonet>
        <xt xml:lang="fin">matkalla, tiellä</xt>
      </xg>
-     <xg> <x>аш лангсост, аш пильгсост</x> <phonet>aš laŋksəst aš piľksəst</phonet>
+     <xg>
+       <x>аш лангсост, аш пильгсост</x> <phonet>aš laŋksəst aš piľksəst</phonet>
        <xt xml:lang="fin">heillä ei ole vaatetta</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">лангста</l>
      <stg>
        <st Contlex="PO_">лангста</st>
      </stg> <phonet>laŋksta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">päältä</t>
        <t pos="Po">pinnalta</t>
        <t pos="Suf">-lta</t>
      </tg>
-     <xg> <x>пянакуд лангста</x> <phonet>pänakud laŋksta</phonet>
+     <defNative/>
+     <xg>
+       <x>пянакуд лангста</x> <phonet>pänakud laŋksta</phonet>
        <xt xml:lang="fin">uunilta</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">лангу</l>
      <stg>
        <st Contlex="PO_">лангу</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">лаца</l>
      <stg>
        <st Contlex="PO_">лаца</st>
      </stg> <phonet>laca</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">kuten</t>
        <t pos="Po">niin kuin</t>
        <t pos="Po">tapaan</t>
      </tg>
-     <xg> <x>сяка лаца</x> <phonet>śakə laca</phonet>
+     <defNative/>
+     <xg>
+       <x>сяка лаца</x> <phonet>śakə laca</phonet>
        <xt xml:lang="fin">samoin, samalla tavalla</xt>
      </xg>
-     <xg> <x>Ванять лаца сон аф морави</x> <phonet>vańäť lacə son af moravi</phonet>
+     <xg>
+       <x>Ванять лаца сон аф морави</x> <phonet>vańäť lacə son af moravi</phonet>
        <xt xml:lang="fin">hän ei osaa laulaa niin kuin Vanja</xt>
      </xg>
-     <xg> <x>сон тусь алянц лаца</x> <phonet>son tuś aľanc laca</phonet>
+     <xg>
+       <x>сон тусь алянц лаца</x> <phonet>son tuś aľanc laca</phonet>
        <xt xml:lang="fin">hän muistutti isäänsä</xt>
      </xg>
-     <xg> <x>атянь-атяснон ёньца-лаца</x> <phonet>aťäń-aťasnən jońcə-laca</phonet>
+     <xg>
+       <x>атянь-атяснон ёньца-лаца</x> <phonet>aťäń-aťasnən jońcə-laca</phonet>
        <xt xml:lang="fin">vanhaan tapaan, isien tapaan</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">малав</l>
      <stg>
        <st Contlex="PO_">малав</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
    <lg>
      <l pos="Po">малава</l>
      <stg>
-       <st Contlex="PO_">малава</st>
-     </stg>
+       <st>малава</st>
+     </stg> <phonet>malava</phonet>
+       <l_ref>мала</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t>läheltä</t>
+       <t>lähitse</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">маланяса</l>
      <stg>
        <st Contlex="PO_">маланяса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">малас</l>
      <stg>
        <st Contlex="PO_">малас</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">маласа</l>
      <stg>
        <st Contlex="PO_">маласа</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">маласта</l>
      <stg>
        <st Contlex="PO_">маласта</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">малати</l>
      <stg>
        <st Contlex="PO_">малати</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">малать</l>
      <stg>
        <st Contlex="PO_">малать</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">малашкада</l>
      <stg>
        <st Contlex="PO_">малашкада</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">маляняс</l>
      <stg>
        <st Contlex="PO_">маляняс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">мара</l>
      <stg>
        <st Contlex="PO_">мара</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">мархта</l>
      <stg>
        <st Contlex="PO_">мархта</st>
      </stg> <phonet>marxta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">kanssa</t>
        <t pos="Po">mukana</t>
@@ -1197,651 +1643,807 @@
      <tg xml:lang="fra">
        <t pos="Pr">avec</t>
      </tg>
-     <xg> <x>алязень мархта</x> <phonet>aľäźəń marxta</phonet>
+     <defNative/>
+     <xg>
+       <x>алязень мархта</x> <phonet>aľäźəń marxta</phonet>
        <xt xml:lang="fin">isäni kanssa</xt>
      </xg>
-     <xg> <x>мон довольнаян эсь эряфозень мархта</x> <phonet>mon davoľnajan eś eŕafəźəń marxta</phonet>
+     <xg>
+       <x>мон довольнаян эсь эряфозень мархта</x> <phonet>mon davoľnajan eś eŕafəźəń marxta</phonet>
        <xt xml:lang="fin">olen tyytyväinen elämääni</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">меле</l>
      <stg>
        <st Contlex="PO_">меле</st>
      </stg> <phonet>meľä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sitten</t>
        <t pos="Po">(sen) jälkeen</t>
        <t pos="Po">myöhemmin</t>
      </tg>
-     <xg> <x>пиземда меле ульсь лямбе</x> <phonet>piźəmdə meľ(ä) uľś ľämbä</phonet>
+     <defNative/>
+     <xg>
+       <x>пиземда меле ульсь лямбе</x> <phonet>piźəmdə meľ(ä) uľś ľämbä</phonet>
        <xt xml:lang="fin">sateen jälkeen tuli lämmin</xt>
      </xg>
-     <xg> <x>сяда меле</x> <phonet>śadə meľä</phonet>
+     <xg>
+       <x>сяда меле</x> <phonet>śadə meľä</phonet>
        <xt xml:lang="fin">myöhemmin, sitten</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">мельге</l>
      <stg>
        <st Contlex="PO-PRL_МЕЛЬГЕ">мельге</st>
      </stg> <phonet>meľgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">perässä</t>
        <t pos="Po">jäljessä</t>
        <t pos="Po">jälkeen</t>
        <t pos="Po">sitten</t>
      </tg>
-     <xg> <x>алашать мельге ардсь вашеня</x> <phonet>alašať meľgä arć vašəńä</phonet>
+     <defNative/>
+     <xg>
+       <x>алашать мельге ардсь вашеня</x> <phonet>alašať meľgä arć vašəńä</phonet>
        <xt xml:lang="fin">hevosen perässä juoksi varsa</xt>
      </xg>
-     <xg> <x>идь мельге якамс</x> <phonet>iď meľgä jakams</phonet>
+     <xg>
+       <x>идь мельге якамс</x> <phonet>iď meľgä jakams</phonet>
        <xt xml:lang="fin">kasvattaa lapsia</xt>
      </xg>
-     <xg> <x>сянь мельге</x> <phonet>śäń meľgä</phonet>
+     <xg>
+       <x>сянь мельге</x> <phonet>śäń meľgä</phonet>
        <xt xml:lang="fin">sen jälkeen, sitten</xt>
      </xg>
-     <xg> <x>мельган</x> <phonet>meľgan</phonet>
+     <xg>
+       <x>мельган</x> <phonet>meľgan</phonet>
        <xt xml:lang="fin">jälkeeni</xt>
      </xg>
-     <xg> <x>минь мельганк</x> <phonet>miń meľgaŋk/meľganək</phonet>
+     <xg>
+       <x>минь мельганк</x> <phonet>miń meľgaŋk/meľganək</phonet>
        <xt xml:lang="fin">meidän jälkeemme</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пачк</l>
      <stg>
        <st Contlex="PO_">пачк</st>
      </stg> <phonet>pačk</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">1. puoliksi, kahtia. 2. läpi, lävitse; puhki</t>
      </tg>
-     <xg> <x>керк марьть пачк</x> <phonet>kerk maŕť pačk</phonet>
+     <defNative/>
+     <xg>
+       <x>керк марьть пачк</x> <phonet>kerk maŕť pačk</phonet>
        <xt xml:lang="fin">leikkaa omena puoliksi</xt>
      </xg>
-     <xg> <x>модать пачк тумс</x> <phonet>modať pačk tums</phonet>
+     <xg>
+       <x>модать пачк тумс</x> <phonet>modať pačk tums</phonet>
        <xt xml:lang="fin">kadota, hävitä</xt>
      </xg>
-     <xg> <x>мон пачк няйхте</x> <phonet>mon pačk ńäjxťä</phonet>
+     <xg>
+       <x>мон пачк няйхте</x> <phonet>mon pačk ńäjxťä</phonet>
        <xt xml:lang="fin">näen lävitsesi</xt>
      </xg>
-     <xg> <x>сурснон пачк работайхть</x> <phonet>sursnən pačk rabotaxť</phonet>
+     <xg>
+       <x>сурснон пачк работайхть</x> <phonet>sursnən pačk rabotaxť</phonet>
        <xt xml:lang="fin">työskentelevät huolimattomasti</xt>
      </xg>
-     <xg> <x>сарасне ётасть перяфть пачк</x> <phonet>saraśńə jotaśť peŕafť pačk</phonet>
+     <xg>
+       <x>сарасне ётасть перяфть пачк</x> <phonet>saraśńə jotaśť peŕafť pačk</phonet>
        <xt xml:lang="fin">kanat kulkivat aidan läpi</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пачка</l>
      <stg>
        <st Contlex="PO_">пачка</st>
      </stg> <phonet>pačka</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">läpi</t>
        <t pos="Po">kautta</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">пе</l>
-     <stg>
-       <st Contlex="N_AVA">пе</st>
-     </stg> <phonet>pe</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="N">loppu</t>
-       <t pos="N">pää</t>
-     </tg>
-     <xg> <x>пень сай урма</x> <phonet>peń saj urma</phonet>
-       <xt xml:lang="fin">tappava tauti</xt>
-     </xg>
-     <xg> <x>пень-пестонь</x> <phonet>peń-pestəń</phonet>
-       <xt xml:lang="fin">lopullinen</xt>
-     </xg>
-     <xg> <x>пец ваясь ведьс</x> <phonet>pec vajäś vec</phonet>
-       <xt xml:lang="fin">sen pituinen se</xt>
-     </xg>
-     <xg> <x>машфтомс пецень</x> <phonet>mašftəms pećəń</phonet>
-       <xt xml:lang="fin">tappaa sinut</xt>
-     </xg>
-     <xg> <x>педа-пес</x> <phonet>pedə-pes</phonet>
-       <xt xml:lang="fin">kokonaan, päästä päähän</xt>
-     </xg>
-     <xg> <x>песта-пес</x> <phonet>pestə-pes</phonet>
-       <xt xml:lang="fin">päästä päähän</xt>
-     </xg>
-     <xg> <x>эстонь песта</x> <phonet>estəń pesta</phonet>
-       <xt xml:lang="fin">siitä lähtien</xt>
-     </xg>
-     <xg> <x>велеть пева</x> <phonet>veľəť peva</phonet>
-       <xt xml:lang="fin">kylän laidalla</xt>
-     </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пингова</l>
      <stg>
        <st Contlex="PO_">пингова</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">потмова</l>
      <stg>
        <st Contlex="PO-PRL_ЁНГА">потмова</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">потмос</l>
      <stg>
        <st Contlex="PO_">потмос</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">потмоса</l>
      <stg>
        <st Contlex="PO_">потмоса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">потмоста</l>
      <stg>
        <st Contlex="PO_">потмоста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">потму</l>
      <stg>
        <st Contlex="PO_">потму</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пряв</l>
      <stg>
        <st Contlex="PO_">пряв</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">прява</l>
      <stg>
        <st Contlex="PO-PRL_ЁНГА">прява</st>
      </stg> <phonet>pŕava</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">pintapuolisesti</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пряса</l>
      <stg>
        <st Contlex="PO_">пряса</st>
      </stg> <phonet>pŕasa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">päässä</t>
        <t pos="Po">päällä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пряста</l>
      <stg>
        <st Contlex="PO_">пряста</st>
      </stg> <phonet>pŕasta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">päästä</t>
        <t pos="Po">päältä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пяле</l>
      <stg>
        <st Contlex="PO_">пяле</st>
      </stg> <phonet>päľä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">puoli</t>
        <t pos="N">puolikas</t>
      </tg>
-     <xg> <x>пяле киза/част/метра</x> <phonet>päľə kiza/čast/ metra</phonet>
+     <defNative/>
+     <xg>
+       <x>пяле киза/част/метра</x> <phonet>päľə kiza/čast/ metra</phonet>
        <xt xml:lang="fin">puoli vuotta/tuntia/metriä</xt>
      </xg>
-     <xg> <x>кержи пяле</x> <phonet>kerži/keŕǯi päľä</phonet>
+     <xg>
+       <x>кержи пяле</x> <phonet>kerži/keŕǯi päľä</phonet>
        <xt xml:lang="fin">vasen puoli</xt>
      </xg>
-     <xg> <x>омба пяле</x> <phonet>omba päľä</phonet>
+     <xg>
+       <x>омба пяле</x> <phonet>omba päľä</phonet>
        <xt xml:lang="fin">toisella puolella</xt>
      </xg>
-     <xg> <x>тя пяле</x> <phonet>ťä päľä</phonet>
+     <xg>
+       <x>тя пяле</x> <phonet>ťä päľä</phonet>
        <xt xml:lang="fin">tällä puolella</xt>
      </xg>
-     <xg> <x>тона пяленге</x> <phonet>tona päľeŋgä</phonet>
+     <xg>
+       <x>тона пяленге</x> <phonet>tona päľeŋgä</phonet>
        <xt xml:lang="fin">tuollakin puolella</xt>
      </xg>
-     <xg> <x>тядянь пяле</x> <phonet>ťäďäń päľä</phonet>
+     <xg>
+       <x>тядянь пяле</x> <phonet>ťäďäń päľä</phonet>
        <xt xml:lang="fin">äidin puolella</xt>
      </xg>
-     <xg> <x>перьф-пяле</x> <phonet>peŕf-päľä</phonet>
+     <xg>
+       <x>перьф-пяле</x> <phonet>peŕf-päľä</phonet>
        <xt xml:lang="fin">ympäriinsä</xt>
      </xg>
-     <xg> <x>мон улень ялгазень пяле</x> <phonet>mon uľəń jalgaźəń päľä</phonet>
+     <xg>
+       <x>мон улень ялгазень пяле</x> <phonet>mon uľəń jalgaźəń päľä</phonet>
        <xt xml:lang="fin">olin ystäväni luona</xt>
      </xg>
-     <xg> <x>пяле вайме</x> <phonet>päľə vajmä</phonet>
+     <xg>
+       <x>пяле вайме</x> <phonet>päľə vajmä</phonet>
        <xt xml:lang="fin">sairaalloinen ihminen, sairas</xt>
      </xg>
-     <xg> <x>пяле кяль</x> <phonet>päľə käľ</phonet>
+     <xg>
+       <x>пяле кяль</x> <phonet>päľə käľ</phonet>
        <xt xml:lang="fin">änkyttäjä</xt>
      </xg>
-     <xg> <x>пяле кяльса корхтама</x> <phonet>päľə käľsə korxtama</phonet>
+     <xg>
+       <x>пяле кяльса корхтама</x> <phonet>päľə käľsə korxtama</phonet>
        <xt xml:lang="fin">änkytys</xt>
      </xg>
-     <xg> <x>илядсь пяле кис</x> <phonet>iľać päľə kis</phonet>
+     <xg>
+       <x>илядсь пяле кис</x> <phonet>iľać päľə kis</phonet>
        <xt xml:lang="fin">jäi puolitiehen, kesken</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пяли</l>
      <stg>
        <st Contlex="PO_">пяли</st>
      </stg> <phonet>päľi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">suuntaan</t>
      </tg>
-     <xg> <x>ош пяли</x> <phonet>oš päľi</phonet>
+     <defNative/>
+     <xg>
+       <x>ош пяли</x> <phonet>oš päľi</phonet>
        <xt xml:lang="fin">kaupungin suuntaan</xt>
      </xg>
-     <xg> <x>виде пяли</x> <phonet>viďə päľi</phonet>
+     <xg>
+       <x>виде пяли</x> <phonet>viďə päľi</phonet>
        <xt xml:lang="fin">oikealle</xt>
      </xg>
-     <xg> <x>кержи пяли</x> <phonet>kerǯi päľi</phonet>
+     <xg>
+       <x>кержи пяли</x> <phonet>kerǯi päľi</phonet>
        <xt xml:lang="fin">vasemmalle</xt>
      </xg>
-     <xg> <x>ковть аделаманц пяли</x> <phonet>kovť aďelamanc päľi</phonet>
+     <xg>
+       <x>ковть аделаманц пяли</x> <phonet>kovť aďelamanc päľi</phonet>
        <xt xml:lang="fin">kuun loppua kohti</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пяльге</l>
      <stg>
        <st Contlex="PO-SPAT_">пяльге</st>
      </stg> <phonet>päľgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sivuitse</t>
        <t pos="Po">vieritse</t>
        <t pos="Po">ohitse</t>
      </tg>
-     <xg> <x>ётасть кудть пяльге</x> <phonet>jotaśť kutť päľgä</phonet>
+     <defNative/>
+     <xg>
+       <x>ётасть кудть пяльге</x> <phonet>jotaśť kutť päľgä</phonet>
        <xt xml:lang="fin">kulkivat talon ohitse</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">пяльде</l>
      <stg>
        <st Contlex="PO_">пяльде</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">серьс</l>
      <stg>
        <st Contlex="PO_">серьс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">серьса</l>
      <stg>
        <st Contlex="PO_">серьса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">сиви</l>
      <stg>
        <st Contlex="PO_">сиви</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">сюнеда</l>
      <stg>
        <st Contlex="PO_">сюнеда</st>
      </stg> <phonet>śuńəda</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">takia</t>
        <t pos="Po">vuoksi</t>
        <t pos="Po">tähden</t>
      </tg>
-     <xg> <x>войнать сюнеда</x> <phonet>vajnať śuńəda</phonet>
+     <defNative/>
+     <xg>
+       <x>войнать сюнеда</x> <phonet>vajnať śuńəda</phonet>
        <xt xml:lang="fin">sodan takia</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тезга</l>
      <stg>
        <st Contlex="PO_">тезга</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тезда</l>
      <stg>
        <st Contlex="PO_">тезда</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тейга</l>
      <stg>
        <st Contlex="PO_">тейга</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тейге</l>
      <stg>
        <st Contlex="PO_">тейге</st>
      </stg> <phonet>ťejgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">tätä kautta</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тейс</l>
      <stg>
        <st Contlex="PO_">тейс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тейса</l>
      <stg>
        <st Contlex="PO_">тейса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">тейста</l>
      <stg>
        <st Contlex="PO_">тейста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">томбале</l>
      <stg>
        <st Contlex="PO_">томбале</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">томбальде</l>
      <stg>
        <st Contlex="PO_">томбальде</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">туркс</l>
      <stg>
        <st Contlex="PO_">туркс</st>
      </stg> <phonet>turks</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">läpi</t>
        <t pos="Po">kautta</t>
      </tg>
-     <xg> <x>туркс-накось</x> <phonet>turks-nakəś</phonet>
+     <defNative/>
+     <xg>
+       <x>туркс-накось</x> <phonet>turks-nakəś</phonet>
        <xt xml:lang="fin">pitkin poikin, ristiin rastiin</xt>
      </xg>
-     <xg> <x>туркс и нучк</x> <phonet>turks i nučk</phonet>
+     <xg>
+       <x>туркс и нучк</x> <phonet>turks i nučk</phonet>
        <xt xml:lang="fin">pitkin poikin, ristiin rastiin</xt>
      </xg>
-     <xg> <x>туркс сельмот ваномс</x> <phonet>turks śeľmət vanəms</phonet>
+     <xg>
+       <x>туркс сельмот ваномс</x> <phonet>turks śeľmət vanəms</phonet>
        <xt xml:lang="fin">katsoa pahalla silmällä</xt>
      </xg>
-     <xg> <x>турксканза</x> <phonet>turkskanʒa</phonet>
+     <xg>
+       <x>турксканза</x> <phonet>turkskanʒa</phonet>
        <xt xml:lang="fin">sen kautta, sitä kautta</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">утор</l>
      <stg>
        <st Contlex="PO_">утор</st>
      </stg> <phonet>utər</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">vastassa</t>
        <t pos="Po">vastapäätä</t>
      </tg>
-     <xg> <x>уторга</x> <phonet>utərga</phonet>
+     <defNative/>
+     <xg>
+       <x>уторга</x> <phonet>utərga</phonet>
        <xt xml:lang="fin">vastassa, vastapäätä</xt>
      </xg>
-     <xg> <x>уторс</x> <phonet>utərs</phonet>
+     <xg>
+       <x>уторс</x> <phonet>utərs</phonet>
        <xt xml:lang="fin">vastaan, päin</xt>
      </xg>
-     <xg> <x>утору</x> <phonet>utəru</phonet>
+     <xg>
+       <x>утору</x> <phonet>utəru</phonet>
        <xt xml:lang="fin">vastaan, päin, puoleen</xt>
      </xg>
-     <xg> <x>утору вармат</x> <phonet>utəru varmat</phonet>
+     <xg>
+       <x>утору вармат</x> <phonet>utəru varmat</phonet>
        <xt xml:lang="fin">vastatuuleen</xt>
      </xg>
-     <xg> <x>уторцек</x> <phonet>utərćək</phonet>
+     <xg>
+       <x>уторцек</x> <phonet>utərćək</phonet>
        <xt xml:lang="fin">vastakkain</xt>
      </xg>
-     <xg> <x>уторцек-уторцек</x> <phonet>utərćək-utərćək</phonet>
+     <xg>
+       <x>уторцек-уторцек</x> <phonet>utərćək-utərćək</phonet>
        <xt xml:lang="fin">vastakkain</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Po">утору</l>
+     <stg>
+       <st>утору</st>
+     </stg> <phonet>utəru</phonet>
+       <l_ref>утор</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>vastaan</t>
+       <t>päin</t>
+       <t>puoleen</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">фтала</l>
      <stg>
@@ -1849,14 +2451,18 @@
        <st Contlex="PO_" status="Use/SpellNoSugg">фътала</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">фталга</l>
      <stg>
@@ -1864,29 +2470,36 @@
        <st Contlex="PO_" status="Use/SpellNoSugg">фъталга</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
    <lg>
      <l pos="Po">фталу</l>
      <stg>
-       <st Contlex="PO_">фталу</st>
-       <st Contlex="PO_" status="Use/SpellNoSugg">фъталу</st>
-     </stg>
+       <st>фталу</st>
+     </stg> <phonet>ftalu</phonet>
+       <l_ref>фтал</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t>taakse</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">фталуня</l>
      <stg>
@@ -1894,442 +2507,568 @@
        <st Contlex="PO_" status="Use/SpellNoSugg">фъталуня</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ширде</l>
      <stg>
        <st Contlex="PO_">ширде</st>
      </stg> <phonet>šiŕďä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">ulkopuolelta</t>
        <t pos="Po">syrjästä</t>
        <t pos="Po">sivusta</t>
        <t pos="Po">suunnasta</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ширес</l>
      <stg>
        <st Contlex="PO_">ширес</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
    <lg>
      <l pos="Po">ширеса</l>
      <stg>
-       <st Contlex="PO_">ширеса</st>
-     </stg>
+       <st>ширеса</st>
+     </stg> <phonet>šiŕəsa</phonet>
+       <l_ref>шире</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t>vierellä</t>
+       <t>sivulla</t>
+       <t>luona</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ширеста</l>
      <stg>
        <st Contlex="PO_">ширеста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">шири</l>
      <stg>
        <st Contlex="PO_">шири</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ширьге</l>
      <stg>
        <st Contlex="PO_">ширьге</st>
      </stg> <phonet>šiŕgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sivussa</t>
        <t pos="Po">syrjässä</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">шумбаз</l>
-     <stg>
-       <st Contlex="N_OSH">шумбаз</st>
-     </stg> <phonet>šumbas</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="N">jänis (Lepus)</t>
-     </tg>
-     <xg> <x>Шумбаскя</x> <phonet>šumbaskä</phonet>
-       <xt xml:lang="fin">pupu, jänö</xt>
-     </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эзга</l>
      <stg>
        <st Contlex="PO_">эзга</st>
      </stg> <phonet>ezga</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">myöten</t>
        <t pos="Po">pitkin</t>
        <t pos="Po">läpi</t>
        <t pos="Po">kautta</t>
      </tg>
-     <xg> <x>ведсь шуди карафть эзга</x> <phonet>već šuďi karafť ezga</phonet>
+     <defNative/>
+     <xg>
+       <x>ведсь шуди карафть эзга</x> <phonet>već šuďi karafť ezga</phonet>
        <xt xml:lang="fin">vesi virtaa ojia myöten</xt>
      </xg>
-     <xg> <x>велетнень эзга</x> <phonet>veľəťńəń ezga</phonet>
+     <xg>
+       <x>велетнень эзга</x> <phonet>veľəťńəń ezga</phonet>
        <xt xml:lang="fin">kylien läpi</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эзда</l>
      <stg>
        <st Contlex="PO_">эзда</st>
      </stg> <phonet>ezda</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Suf">-sta</t>
        <t pos="Suf">-stä</t>
        <t pos="Po">sisästä</t>
        <t pos="Po">sisältä</t>
      </tg>
-     <xg> <x>станциясь велеть эзда аф ичкозе</x> <phonet>stancijäś veľəť ezd(ə) af ičkəźä</phonet>
+     <defNative/>
+     <xg>
+       <x>станциясь велеть эзда аф ичкозе</x> <phonet>stancijäś veľəť ezd(ə) af ičkəźä</phonet>
        <xt xml:lang="fin">asema ei ole kaukana kylästä</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эздода</l>
      <stg>
        <st Contlex="PO_">эздода</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эземс</l>
      <stg>
        <st Contlex="PO_">эземс</st>
      </stg> <phonet>äźəms</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">sijasta</t>
        <t pos="Po">sijaan</t>
      </tg>
-     <xg> <x>фкять эземс максомс лия</x> <phonet>fkäť äźəms maksəms ľijä</phonet>
+     <defNative/>
+     <xg>
+       <x>фкять эземс максомс лия</x> <phonet>fkäť äźəms maksəms ľijä</phonet>
        <xt xml:lang="fin">antaa yhden sijaan toinen</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эрьгава</l>
      <stg>
        <st Contlex="PO_">эрьгава</st>
      </stg> <phonet>eŕgava</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">samanlainen</t>
        <t pos="A">samanikäinen</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эс</l>
      <stg>
        <st Contlex="PO_">эс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эса</l>
      <stg>
        <st Contlex="PO-INE_">э</st>
      </stg> <phonet>esa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Case">-ssa</t>
        <t pos="Case">-lla</t>
      </tg>
-     <xg> <x>кудть эса</x> <phonet>kutť esa</phonet>
+     <defNative/>
+     <xg>
+       <x>кудть эса</x> <phonet>kutť esa</phonet>
        <xt xml:lang="fin">talossa</xt>
      </xg>
-     <xg> <x>книгась шрать эса</x> <phonet>kńigaś šrať esa</phonet>
+     <xg>
+       <x>книгась шрать эса</x> <phonet>kńigaś šrať esa</phonet>
        <xt xml:lang="fin">kirja on pöydässä</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эшка</l>
      <stg>
        <st Contlex="PO_">эшка</st>
      </stg> <phonet>eška</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">mittainen</t>
        <t pos="A">pituinen</t>
        <t pos="A">kokoinen</t>
      </tg>
-     <xg> <x>сон монь эшкан</x> <phonet>son moń eškan</phonet>
+     <defNative/>
+     <xg>
+       <x>сон монь эшкан</x> <phonet>son moń eškan</phonet>
        <xt xml:lang="fin">hän on minun mittaiseni</xt>
      </xg>
-     <xg> <x>шуфтть эшка</x> <phonet>šuftť eška</phonet>
+     <xg>
+       <x>шуфтть эшка</x> <phonet>šuftť eška</phonet>
        <xt xml:lang="fin">puun korkuinen</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эшксс</l>
      <stg>
        <st Contlex="PO_">эшксс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эшксса</l>
      <stg>
        <st Contlex="PO_">эшксса</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">эшксста</l>
      <stg>
        <st Contlex="PO_">эшксста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёжес</l>
      <stg>
        <st Contlex="PO_">ёжес</st>
      </stg> <phonet>jožəs</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">luo</t>
        <t pos="Po">vasten</t>
      </tg>
-     <xg> <x>вашенясь пиштедсь тидянц ёжес</x> <phonet>vašəńäś pišťəć ťiďänc jožəs</phonet>
+     <defNative/>
+     <xg>
+       <x>вашенясь пиштедсь тидянц ёжес</x> <phonet>vašəńäś pišťəć ťiďänc jožəs</phonet>
        <xt xml:lang="fin">varsa painautui emäänsä vasten</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёжеса</l>
      <stg>
        <st Contlex="PO_">ёжеса</st>
      </stg> <phonet>jožəsa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">luona</t>
      </tg>
-     <xg> <x>сон эряй алянц ёжеса</x> <phonet>son eŕäj aľanc jožəsa</phonet>
+     <defNative/>
+     <xg>
+       <x>сон эряй алянц ёжеса</x> <phonet>son eŕäj aľanc jožəsa</phonet>
        <xt xml:lang="fin">hän asuu isänsä luona</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёжеста</l>
      <stg>
        <st Contlex="PO_">ёжеста</st>
      </stg> <phonet>jožəsta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">luota</t>
      </tg>
-     <xg> <x>капать ёжеста нумол комотсь</x> <phonet>kapať jožəstə numəl koməć</phonet>
+     <defNative/>
+     <xg>
+       <x>капать ёжеста нумол комотсь</x> <phonet>kapať jožəstə numəl koməć</phonet>
        <xt xml:lang="fin">heinäsuovasta loikkasi jänis</xt>
      </xg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёнга</l>
      <stg>
        <st Contlex="PO-PRL_ЁНГА">ёнга</st>
      </stg> <phonet>joŋga</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">(kulkea) läheltä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёну</l>
      <stg>
        <st Contlex="PO_">ёну</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёнца</l>
      <stg>
        <st Contlex="PO_">ёнца</st>
      </stg> <phonet>jonca</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po">suunnalla</t>
        <t pos="Po">taholla</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
    <lg>
      <l pos="Po">ёткова</l>
      <stg>
-       <st Contlex="PO_">ёткова</st>
-     </stg>
+       <st>ёткова</st>
+     </stg> <phonet>jotkəva</phonet>
+       <l_ref>ётка</l_ref>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t>välitse</t>
+       <t>väliin</t>
      </tg>
    </mg>
 </e>
-<e>
+  <e>
    <lg>
      <l pos="Po">ёткс</l>
      <stg>
        <st Contlex="PO_">ёткс</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-<e>
+  <e exclude="fst">
+   <lg>
+     <l pos="Po">ёткса</l>
+     <stg>
+       <st>ёткса</st>
+     </stg> <phonet>jotksa</phonet>
+       <l_ref>ётка</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>välissä</t>
+       <t>välillä</t>
+       <t>joukossa</t>
+       <t>parissa</t>
+     </tg>
+   </mg>
+</e>
+  <e>
    <lg>
      <l pos="Po">ёткста</l>
      <stg>
        <st Contlex="PO_">ёткста</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Po"/>
      </tg>
+     <defNative/>
    </mg>
 </e>
-</r> 
+</r>

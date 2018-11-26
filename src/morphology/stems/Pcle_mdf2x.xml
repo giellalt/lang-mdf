@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<e>
+   <lg>
+     <l pos="Pcle">улема</l>
+     <stg>
+       <st Contlex="PCLE-EPIST">улема</st>
+     </stg> <phonet>uľəma</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pcle">varmaan</t>
+       <t pos="Pcle">ilmeisesti</t>
+       <t pos="Pcle">nähtävästi</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>сон, улема, аф сай</x> <phonet>son uľəma af saj</phonet>
+       <xt xml:lang="fin">hän ei varmaan tule.</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Pcle">апак</l>
@@ -6,21 +30,29 @@
        <st Contlex="PCLE-NEG">апак</st>
      </stg> <phonet>apak</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">kieltopartikkeli</t>
      </tg>
-     <xg> <x>пересь нинге апак сокак</x> <phonet>peŕəś ńińg(ä) apak sokak</phonet>
+     <defNative/>
+     <xg>
+       <x>пересь нинге апак сокак</x> <phonet>peŕəś ńińg(ä) apak sokak</phonet>
        <xt xml:lang="fin">kasvimaa on vielä kääntämättä.</xt>
      </xg>
-     <xg> <x>куду апак сувсек</x> <phonet>kudu apak suvśək</phonet>
+     <xg>
+       <x>куду апак сувсек</x> <phonet>kudu apak suvśək</phonet>
        <xt xml:lang="fin">menemättä kotiin.</xt>
      </xg>
-     <xg> <x>апак сизек</x> <phonet>apak śiźək</phonet>
+     <xg>
+       <x>апак сизек</x> <phonet>apak śiźək</phonet>
        <xt xml:lang="fin">väsymättä.</xt>
      </xg>
-     <xg> <x>апак арьсек</x> <phonet>apak aŕśək</phonet>
+     <xg>
+       <x>апак арьсек</x> <phonet>apak aŕśək</phonet>
        <xt xml:lang="fin">ajattelematta, ajattelemattomasti, harkitsemattomasti.</xt>
      </xg>
    </mg>
@@ -32,49 +64,95 @@
        <st Contlex="PCLE-NEG">аф</st>
      </stg> <phonet>af</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ei</t>
      </tg>
      <tg xml:lang="fra">
-       <t pos="Pcle">ne_pas</t>
+       <t pos="Pcle">ne pas</t>
      </tg>
-     <xg> <x>мон тоза аф молян</x> <phonet>mon toza af moľan</phonet>
+     <defNative/>
+     <xg>
+       <x>мон тоза аф молян</x> <phonet>mon toza af moľan</phonet>
        <xt xml:lang="fin">minä en sinne mene.</xt>
      </xg>
-     <xg> <x>аньцяйняда аф сембе</x> <phonet>ańćäjńad(ə) af śembä</phonet>
+     <xg>
+       <x>аньцяйняда аф сембе</x> <phonet>ańćäjńad(ə) af śembä</phonet>
        <xt xml:lang="fin">melkein jokainen, melkein kaikki.</xt>
      </xg>
-     <xg> <x>кафта шифтома аф недяля</x> <phonet>kafta šiftəm(ə) af ńeďäľä</phonet>
+     <xg>
+       <x>кафта шифтома аф недяля</x> <phonet>kafta šiftəm(ə) af ńeďäľä</phonet>
        <xt xml:lang="fin">kahta päivää vaille viikko.</xt>
      </xg>
-     <xg> <x>аф азовомшка оцю</x> <phonet>af azəvəmška oću</phonet>
+     <xg>
+       <x>аф азовомшка оцю</x> <phonet>af azəvəmška oću</phonet>
        <xt xml:lang="fin">uskomattoman suuri.</xt>
      </xg>
-     <xg> <x>аф ёру</x> <phonet>af joru</phonet>
+     <xg>
+       <x>аф ёру</x> <phonet>af joru</phonet>
        <xt xml:lang="fin">vakavissaan, tosissaan.</xt>
      </xg>
-     <xg> <x>аф ичкозе</x> <phonet>af ičkəźä</phonet>
+     <xg>
+       <x>аф ичкозе</x> <phonet>af ičkəźä</phonet>
        <xt xml:lang="fin">lähellä.</xt>
      </xg>
-     <xg> <x>аф кода</x> <phonet>af koda</phonet>
+     <xg>
+       <x>аф кода</x> <phonet>af koda</phonet>
        <xt xml:lang="fin">toisin kuin, toisenlainen kuin.</xt>
      </xg>
-     <xg> <x>аф мани</x> <phonet>af mańi</phonet>
+     <xg>
+       <x>аф мани</x> <phonet>af mańi</phonet>
        <xt xml:lang="fin">ruma ilma.</xt>
      </xg>
-     <xg> <x>аф мярьгомс</x> <phonet>af mäŕgəms</phonet>
+     <xg>
+       <x>аф мярьгомс</x> <phonet>af mäŕgəms</phonet>
        <xt xml:lang="fin">kieltää.</xt>
      </xg>
-     <xg> <x>аф олай</x> <phonet>af olaj</phonet>
+     <xg>
+       <x>аф олай</x> <phonet>af olaj</phonet>
        <xt xml:lang="fin">haalistumaton.</xt>
      </xg>
-     <xg> <x>аф оцю</x> <phonet>af oću</phonet>
+     <xg>
+       <x>аф оцю</x> <phonet>af oću</phonet>
        <xt xml:lang="fin">pieni.</xt>
      </xg>
-     <xg> <x>аф цебярь</x> <phonet>af ćebäŕ</phonet>
+     <xg>
+       <x>аф цебярь</x> <phonet>af ćebäŕ</phonet>
        <xt xml:lang="fin">huono.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle" type="Superl">сембода</l>
+     <stg>
+       <st Contlex="PCLE-SUPERL">сембода</st>
+     </stg> <phonet>śembəda</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>superlatiivin apusana</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
+       <xt xml:lang="fin">suurin</xt>
+     </xg>
+     <xg>
+       <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
+       <xt xml:lang="fin">suurin</xt>
+     </xg>
+     <xg>
+       <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
+       <xt xml:lang="fin">huonoin</xt>
      </xg>
    </mg>
 </e>
@@ -85,11 +163,15 @@
        <st Contlex="PCLE_">афи</st>
      </stg> <phonet>afi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">eikä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -99,41 +181,33 @@
        <st Contlex="PCLE_">афоли</st>
      </stg> <phonet>afoľi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">kuulemma</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Pcle">бди</l>
      <stg>
-       <st Contlex="PCLE_">бди</st>
-       <st Contlex="PCLE_" status="Use/SpellNoSugg">бъди</st>
+       <st Contlex="PCLE_">бъди</st>
      </stg> <phonet>bəďi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ehkä</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">бди</l>
-     <stg>
-       <st Contlex="CS_">бди</st>
-       <st Contlex="CS_" status="Use/SpellNoSugg">бъди</st>
-     </stg> <phonet>bəďi</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -143,37 +217,14 @@
        <st Contlex="PCLE_">бльшем</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ad-A">вельф</l>
-     <stg>
-       <st Contlex="PCLE_">вельф</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">виде</l>
-     <stg>
-       <st Contlex="PCLE_">виде</st>
-     </stg> <phonet>viďä</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pcle">totta</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -184,10 +235,32 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">въдь</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">виде</l>
+     <stg>
+       <st Contlex="PCLE_">виде</st>
+     </stg> <phonet>viďä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pcle">totta</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -197,10 +270,14 @@
        <st Contlex="PCLE_">голь</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -210,10 +287,14 @@
        <st Contlex="PCLE_">дель</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -223,10 +304,14 @@
        <st Contlex="PCLE_">деряй</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -236,10 +321,14 @@
        <st Contlex="PCLE_">дряй</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -249,8 +338,11 @@
        <st Contlex="PCLE_">дяряй</st>
      </stg> <phonet>ďäŕäj</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ehkäpä</t>
        <t pos="Pcle">jospas</t>
@@ -258,7 +350,9 @@
      <tg xml:lang="fra">
        <t pos="CS">si</t>
      </tg>
-     <xg> <x>дяряй сят аф сёрмадовихть</x> <phonet>ďäŕäj śat af śormadəvixť</phonet>
+     <defNative/>
+     <xg>
+       <x>дяряй сят аф сёрмадовихть</x> <phonet>ďäŕäj śat af śormadəvixť</phonet>
        <xt xml:lang="fin">ehkä niistä ei voi kirjoittaa.</xt>
      </xg>
    </mg>
@@ -270,23 +364,31 @@
        <st Contlex="PCLE_">жа</st>
      </stg> <phonet>ža</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Ad-A">juuri</t>
        <t pos="Ad-A">aivan</t>
        <t pos="Ad-A">sama</t>
      </tg>
-     <xg> <x>някот жа</x> <phonet>ńakət ža</phonet>
+     <defNative/>
+     <xg>
+       <x>някот жа</x> <phonet>ńakət ža</phonet>
        <xt xml:lang="fin">juuri nämä</xt>
      </xg>
-     <xg> <x>сяка жа</x> <phonet>śakə ža</phonet>
+     <xg>
+       <x>сяка жа</x> <phonet>śakə ža</phonet>
        <xt xml:lang="fin">samanlainen.</xt>
      </xg>
-     <xg> <x>сияк жа</x> <phonet>śijak ža</phonet>
+     <xg>
+       <x>сияк жа</x> <phonet>śijak ža</phonet>
        <xt xml:lang="fin">samalla tavalla.</xt>
      </xg>
-     <xg> <x>тякокс жа</x> <phonet>ťakəks ža</phonet>
+     <xg>
+       <x>тякокс жа</x> <phonet>ťakəks ža</phonet>
        <xt xml:lang="fin">juuri niin.</xt>
      </xg>
    </mg>
@@ -298,10 +400,14 @@
        <st Contlex="PCLE_">жо</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -311,13 +417,18 @@
        <st Contlex="PCLE_">и</st>
      </stg> <phonet>i</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ja</t>
        <t pos="Pcle">myös</t>
      </tg>
-     <xg> <x>и мянь</x> <phonet>i mäń</phonet>
+     <defNative/>
+     <xg>
+       <x>и мянь</x> <phonet>i mäń</phonet>
        <xt xml:lang="fin">suorastaan.</xt>
      </xg>
    </mg>
@@ -329,13 +440,18 @@
        <st Contlex="PCLE_">ина</st>
      </stg> <phonet>ina, əna, na</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">siis</t>
        <t pos="Pcle">niinpä</t>
      </tg>
-     <xg> <x>молят ина?</x> <phonet>moľat ina</phonet>
+     <defNative/>
+     <xg>
+       <x>молят ина?</x> <phonet>moľat ina</phonet>
        <xt xml:lang="fin">lähdetkö siis?</xt>
      </xg>
    </mg>
@@ -347,18 +463,24 @@
        <st Contlex="PCLE_">инь</st>
      </stg> <phonet>iń, eń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">superlatiivin apusana</t>
        <t pos="A">korkein</t>
        <t pos="A">ylin</t>
        <t pos="A">pää-</t>
      </tg>
-     <xg> <x>инь клёк эрявикс тев</x> <phonet>iń kľok eŕaviks ťev</phonet>
+     <defNative/>
+     <xg>
+       <x>инь клёк эрявикс тев</x> <phonet>iń kľok eŕaviks ťev</phonet>
        <xt xml:lang="fin">tärkein asia, pääasia.</xt>
      </xg>
-     <xg> <x>инь оцю</x> <phonet>iń oću</phonet>
+     <xg>
+       <x>инь оцю</x> <phonet>iń oću</phonet>
        <xt xml:lang="fin">suurin.</xt>
      </xg>
    </mg>
@@ -370,14 +492,19 @@
        <st Contlex="PCLE_">кати</st>
      </stg> <phonet>kaťi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">kenties</t>
        <t pos="Pcle">noinkohan</t>
        <t pos="Pcle">ehkäpä</t>
      </tg>
-     <xg> <x>кати лац, кати аф</x> <phonet>kaťi lac, kaťi af</phonet>
+     <defNative/>
+     <xg>
+       <x>кати лац, кати аф</x> <phonet>kaťi lac, kaťi af</phonet>
        <xt xml:lang="fin">ehkä se on hyvä, ehkä ei.</xt>
      </xg>
    </mg>
@@ -389,15 +516,21 @@
        <st Contlex="PCLE_">катк</st>
      </stg> <phonet>katk</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">imperatiivinen partikkeli</t>
      </tg>
-     <xg> <x>катк моли</x> <phonet>katk moľi</phonet>
+     <defNative/>
+     <xg>
+       <x>катк моли</x> <phonet>katk moľi</phonet>
        <xt xml:lang="fin">menköön.</xt>
      </xg>
-     <xg> <x>катк сай</x> <phonet>katk saj</phonet>
+     <xg>
+       <x>катк сай</x> <phonet>katk saj</phonet>
        <xt xml:lang="fin">tulkoon.</xt>
      </xg>
    </mg>
@@ -409,41 +542,14 @@
        <st Contlex="PCLE_">кепшт</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">клёк</l>
-     <stg>
-       <st Contlex="PCLE_">клёк</st>
-     </stg> <phonet>kľok</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Ad-A">ihan</t>
-       <t pos="Ad-A">oikein</t>
-       <t pos="Ad-A">kaikkein</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">конешна</l>
-     <stg>
-       <st Contlex="PCLE_">конешна</st>
-     </stg> <phonet>kańešna</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pcle">tietysti</t>
-       <t pos="Pcle">totta kai</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -453,53 +559,53 @@
        <st Contlex="PCLE_">кле</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Adv">меколанкт</l>
+     <l pos="Pcle">клёк</l>
      <stg>
-       <st Contlex="PCLE_">меколанкт</st>
-     </stg> <phonet>mekəlaŋkt</phonet>
+       <st Contlex="PCLE_">клёк</st>
+     </stg> <phonet>kľok</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="Pcle">päinvastoin; nurinpäin; kääntäen</t>
+       <t pos="Ad-A">ihan</t>
+       <t pos="Ad-A">oikein</t>
+       <t pos="Ad-A">kaikkein</t>
      </tg>
-     <xg> <x>сон прокс тиенди меколанкть</x> <phonet>son proks ťijəńďi mekəlaŋkt</phonet>
-       <xt xml:lang="fin">hän tekee aina päinvastoin.</xt>
-     </xg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">можботь</l>
+     <l pos="Pcle">конешна</l>
      <stg>
-       <st Contlex="PCLE_">можботь</st>
-     </stg>
+       <st Contlex="PCLE_">конешна</st>
+     </stg> <phonet>kańešna</phonet>
    </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pcle">tietysti</t>
+       <t pos="Pcle">totta kai</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">может</l>
-     <stg>
-       <st Contlex="PCLE_">может</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -509,10 +615,48 @@
        <st Contlex="PCLE_">мле</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">можботь</l>
+     <stg>
+       <st Contlex="PCLE_">можботь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">может</l>
+     <stg>
+       <st Contlex="PCLE_">может</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -522,13 +666,18 @@
        <st Contlex="PCLE_">мяк</st>
      </stg> <phonet>mäk</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">jopa</t>
        <t pos="Pcle">vieläpä</t>
      </tg>
-     <xg> <x>минь мяк вири пачкотькшнеме</x> <phonet>miń mäk viŕi pačkəťkšńəmä</phonet>
+     <defNative/>
+     <xg>
+       <x>минь мяк вири пачкотькшнеме</x> <phonet>miń mäk viŕi pačkəťkšńəmä</phonet>
        <xt xml:lang="fin">lähdimme jopa metsäänkin.</xt>
      </xg>
    </mg>
@@ -540,10 +689,14 @@
        <st Contlex="PCLE_">мяле</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -553,17 +706,23 @@
        <st Contlex="PCLE_">мянь</st>
      </stg> <phonet>mäń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">vieläpä</t>
        <t pos="Pcle">jopa</t>
        <t pos="Pcle">suorastaan</t>
      </tg>
-     <xg> <x>мянь тянемс</x> <phonet>mäń ťäńəms/ťäńims</phonet>
+     <defNative/>
+     <xg>
+       <x>мянь тянемс</x> <phonet>mäń ťäńəms/ťäńims</phonet>
        <xt xml:lang="fin">aina tähän päivään asti.</xt>
      </xg>
-     <xg> <x>мянь тяшкава</x> <phonet>mäń ťäškava/ťaškava</phonet>
+     <xg>
+       <x>мянь тяшкава</x> <phonet>mäń ťäškava/ťaškava</phonet>
        <xt xml:lang="fin">tähän asti.</xt>
      </xg>
    </mg>
@@ -575,10 +734,14 @@
        <st Contlex="PCLE_">мярьк</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -588,15 +751,21 @@
        <st Contlex="PCLE_">най</st>
      </stg> <phonet>naj</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">aina</t>
      </tg>
-     <xg> <x>аф най</x> <phonet>af naj</phonet>
+     <defNative/>
+     <xg>
+       <x>аф най</x> <phonet>af naj</phonet>
        <xt xml:lang="fin">ei aina.</xt>
      </xg>
-     <xg> <x>най корхтат.</x> <phonet>naj korxtat</phonet>
+     <xg>
+       <x>най корхтат.</x> <phonet>naj korxtat</phonet>
        <xt xml:lang="fin">puhut jatkuvasti.</xt>
      </xg>
    </mg>
@@ -608,8 +777,11 @@
        <st Contlex="PCLE_">начас</st>
      </stg> <phonet>načas, načəs</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ehkä</t>
        <t pos="Pcle">mahdollisesti</t>
@@ -617,7 +789,9 @@
        <t pos="Adv">yhtäkkiä</t>
        <t pos="Pcle">kunpa ei</t>
      </tg>
-     <xg> <x>мон, начас, саян</x> <phonet>mon načəs sajan</phonet>
+     <defNative/>
+     <xg>
+       <x>мон, начас, саян</x> <phonet>mon načəs sajan</phonet>
        <xt xml:lang="fin">ehkäpä tulen.</xt>
      </xg>
    </mg>
@@ -629,10 +803,14 @@
        <st Contlex="PCLE_">незьля</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -642,10 +820,14 @@
        <st Contlex="PCLE_">нетоком</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -656,10 +838,14 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">нъльне</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -669,10 +855,14 @@
        <st Contlex="PCLE_">няк</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -682,12 +872,17 @@
        <st Contlex="PCLE_">пади</st>
      </stg> <phonet>paďi</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ehkä</t>
      </tg>
-     <xg> <x>тон, пади, ваймат?</x> <phonet>ton paďi vajmat</phonet>
+     <defNative/>
+     <xg>
+       <x>тон, пади, ваймат?</x> <phonet>ton paďi vajmat</phonet>
        <xt xml:lang="fin">lepäämässäkö olet?</xt>
      </xg>
    </mg>
@@ -700,10 +895,14 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">пъчкяль</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -714,10 +913,14 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">пъчкясь</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -728,10 +931,14 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">рьъстей</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -741,10 +948,14 @@
        <st Contlex="PCLE_">рязей</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -754,33 +965,15 @@
        <st Contlex="PCLE_">саты</st>
      </stg> <phonet>sati</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">riittää</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle" type="Superl">сембода</l>
-     <stg>
-       <st Contlex="PCLE-SUPERL">сембода</st>
-     </stg> <phonet>śembəda</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <te>superlatiivin apusana</te>
-     </tg>
-     <xg> <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg> <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg> <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
-       <xt xml:lang="fin">huonoin</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -790,11 +983,15 @@
        <st Contlex="PCLE_">сембоц</st>
      </stg> <phonet>śembəc</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">yhteensä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -803,22 +1000,30 @@
      <stg>
        <st Contlex="PCLE_">сяда</st>
      </stg>
-   </lg> <pos>PCLE_COMPAR-STND</pos> <phonet>śada</phonet>
-   <mg>
-     <defNative/>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">komparatiivin apusana</t>
      </tg>
-     <xg> <x>сяда касыхть</x> <phonet>śadə kasixť</phonet>
+     <defNative/>
+     <xg>
+       <x>сяда касыхть</x> <phonet>śadə kasixť</phonet>
        <xt xml:lang="fin">kasvavat paremmin.</xt>
      </xg>
-     <xg> <x>сяда ламолгофтомс</x> <phonet>śadə laməlgəftəms/laməlgaftəms</phonet>
+     <xg>
+       <x>сяда ламолгофтомс</x> <phonet>śadə laməlgəftəms/laməlgaftəms</phonet>
        <xt xml:lang="fin">lisätä, enentää.</xt>
      </xg>
-     <xg> <x>сядонга оцю</x> <phonet>śadəŋg(a) oću</phonet>
+     <xg>
+       <x>сядонга оцю</x> <phonet>śadəŋg(a) oću</phonet>
        <xt xml:lang="fin">isompi</xt>
      </xg>
-     <xg> <x>сядонга тёждя</x> <phonet>śadəŋgə ťožďä</phonet>
+     <xg>
+       <x>сядонга тёждя</x> <phonet>śadəŋgə ťožďä</phonet>
        <xt xml:lang="fin">kevyempi, helpompi.</xt>
      </xg>
    </mg>
@@ -830,13 +1035,18 @@
        <st Contlex="PCLE_">таки</st>
      </stg> <phonet>taki, təki, ťəki</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">kuitenkin</t>
        <t pos="Pcle">silti</t>
      </tg>
-     <xg> <x>танга-таки</x> <phonet>taŋgə-ťəki</phonet>
+     <defNative/>
+     <xg>
+       <x>танга-таки</x> <phonet>taŋgə-ťəki</phonet>
        <xt xml:lang="fin">kuitenkin, silti.</xt>
      </xg>
    </mg>
@@ -848,12 +1058,16 @@
        <st Contlex="PCLE_">тейне-арам</st>
      </stg> <phonet>ťejń(ä)-aram</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">minusta</t>
        <t pos="Pcle">(minun) mielestäni</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -863,23 +1077,14 @@
        <st Contlex="PCLE_">теконь</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">туй</l>
-     <stg>
-       <st Contlex="PCLE_">туй</st>
-     </stg>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -890,10 +1095,35 @@
        <st Contlex="PCLE_" status="Use/SpellNoSugg">тък</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Pcle">туй</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="PCLE_">туй</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
+     </tg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e>
@@ -903,130 +1133,14 @@
        <st Contlex="PCLE_">тык</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Det">тя</l>
-     <stg>
-       <st Contlex="A_">тя</st>
-     </stg> <phonet>ťä</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Det">tämä</t>
-       <t pos="Det">se</t>
-       <t pos="Det">nämä</t>
-       <t pos="Det">ne</t>
-     </tg>
-     <xg> <x>тя ломаттне</x> <phonet>ťä lomaťťńä</phonet>
-       <xt xml:lang="fin">(mon.) nämä/ne ihmiset.</xt>
-     </xg>
-     <xg> <x>тя веня</x> <phonet>ťä veńä</phonet>
-       <xt xml:lang="fin">tänä yönä.</xt>
-     </xg>
-     <xg> <x>тя пяленге</x> <phonet>ťä päľəńgä</phonet>
-       <xt xml:lang="fin">tälläkin puolella.</xt>
-     </xg>
-     <xg> <x>тя пяли</x> <phonet>ťä päľi</phonet>
-       <xt xml:lang="fin">tännepäin.</xt>
-     </xg>
-     <xg> <x>тя пялинге</x> <phonet>ťä päľiŋgä</phonet>
-       <xt xml:lang="fin">tällekin puolelle.</xt>
-     </xg>
-     <xg> <x>тя пяльде</x> <phonet>ťä päľďä</phonet>
-       <xt xml:lang="fin">täältä.</xt>
-     </xg>
-     <xg> <x>тя пингс</x> <phonet>ťä piŋks</phonet>
-       <xt xml:lang="fin">tähän (aikaan) asti.</xt>
-     </xg>
-     <xg> <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
-       <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
-     </xg>
-     <xg> <x>тя шитнень</x> <phonet>ťä šiťńəń</phonet>
-       <xt xml:lang="fin">tämänpäiväinen.</xt>
-     </xg>
-     <xg> <x>тят</x> <phonet>ťat</phonet>
-       <xt xml:lang="fin">(mon.) nämä, ne.</xt>
-     </xg>
-     <xg> <x>тянкса</x> <phonet>ťaŋksa</phonet>
-       <xt xml:lang="fin">juuri täällä.</xt>
-     </xg>
-     <xg> <x>тяза</x> <phonet>ťaza</phonet>
-       <xt xml:lang="fin">tänne.</xt>
-     </xg>
-     <xg> <x>тяса</x> <phonet>ťasa</phonet>
-       <xt xml:lang="fin">täällä, tässä.</xt>
-     </xg>
-     <xg> <x>тяса-тоса</x> <phonet>ťasa-tosa</phonet>
-       <xt xml:lang="fin">siellä täällä.</xt>
-     </xg>
-     <xg> <x>тязк</x> <phonet>ťazk</phonet>
-       <xt xml:lang="fin">1. tänne. 2. heti.</xt>
-     </xg>
-     <xg> <x>илядомс тязк</x> <phonet>iľadəms ťazk</phonet>
-       <xt xml:lang="fin">jäädä tänne.</xt>
-     </xg>
-     <xg> <x>кодак ... тязк</x> <phonet>kodak … ťazk</phonet>
-       <xt xml:lang="fin">sitten kun … niin heti.</xt>
-     </xg>
-     <xg> <x>тяста</x> <phonet>ťasta</phonet>
-       <xt xml:lang="fin">täältä.</xt>
-     </xg>
-     <xg> <x>тястотне</x> <phonet>ťastəťńä</phonet>
-       <xt xml:lang="fin">(mon.) täkäläiset.</xt>
-     </xg>
-     <xg> <x>тястонь</x> <phonet>ťastəń</phonet>
-       <xt xml:lang="fin">täkäläinen.</xt>
-     </xg>
-     <xg> <x>тяда башка</x> <phonet>ťadə baška</phonet>
-       <xt xml:lang="fin">sitä paitsi, sen lisäksi.</xt>
-     </xg>
-     <xg> <x>тянкса</x> <phonet>ťäŋksa</phonet>
-       <xt xml:lang="fin">tämän, sen takia.</xt>
-     </xg>
-     <xg> <x>тянди-тонанди</x> <phonet>ťäńďi-tonańďi</phonet>
-       <xt xml:lang="fin">sille ja tälle.</xt>
-     </xg>
-     <xg> <x>тяшкава</x> <phonet>ťäškava, ťaškava</phonet>
-       <xt xml:lang="fin">näin paljon.</xt>
-     </xg>
-     <xg> <x>мянь тяшкамс</x> <phonet>mäń ťäškams</phonet>
-       <xt xml:lang="fin">tähän asti.</xt>
-     </xg>
-     <xg> <x>тяшкас</x> <phonet>ťäškas</phonet>
-       <xt xml:lang="fin">tähän asti.</xt>
-     </xg>
-     <xg> <x>мянь тяшкас</x> <phonet>mäń ťäškas</phonet>
-       <xt xml:lang="fin">tähän asti.</xt>
-     </xg>
-     <xg> <x>тяшкань</x> <phonet>ťäškań</phonet>
-       <xt xml:lang="fin">tämän kokoinen.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">улема</l>
-     <stg>
-       <st Contlex="PCLE-EPIST">улема</st>
-     </stg> <phonet>uľəma</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pcle">varmaan</t>
-       <t pos="Pcle">ilmeisesti</t>
-       <t pos="Pcle">nähtävästi</t>
-     </tg>
-     <xg> <x>сон, улема, аф сай</x> <phonet>son uľəma af saj</phonet>
-       <xt xml:lang="fin">hän ei varmaan tule.</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -1036,10 +1150,14 @@
        <st Contlex="PCLE_">утль</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1049,10 +1167,14 @@
        <st Contlex="PCLE_">уш</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1062,25 +1184,14 @@
        <st Contlex="PCLE_">хоть</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">хуть</l>
-     <stg>
-       <st Contlex="CS_">хуть</st>
-     </stg> <phonet>xuť, xəť, kuť</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-       <t pos="CS">joskin</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1090,10 +1201,14 @@
        <st Contlex="PCLE_">хуш</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1103,10 +1218,14 @@
        <st Contlex="PCLE_">це</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1116,29 +1235,14 @@
        <st Contlex="PCLE_">ця</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ad-A">цёк</l>
-     <stg>
-       <st Contlex="ADV_">цёк</st>
-     </stg> <phonet>ćok</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Ad-A">melkein</t>
-       <t pos="Ad-A">miltei</t>
-       <t pos="Ad-A">lähes</t>
-     </tg>
-     <xg> <x>сон цёк сембонь тиезень</x> <phonet>son ćok śembəń ťijəźəń</phonet>
-       <xt xml:lang="fin">hän teki melkein kaiken.</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -1148,8 +1252,11 @@
        <st Contlex="PCLE_">чай</st>
      </stg> <phonet>čäj</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">näet</t>
        <t pos="Pcle">nimittäin</t>
@@ -1158,6 +1265,7 @@
        <t pos="Suf">-pa</t>
        <t pos="Pcle">ehkä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1167,25 +1275,14 @@
        <st Contlex="PCLE_">чяй</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">штоба</l>
-     <stg>
-       <st Contlex="CS_">штоба</st>
-     </stg> <phonet>štoba</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="CS">jotta</t>
-       <t pos="CS">että</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1195,12 +1292,16 @@
        <st Contlex="PCLE_">шять</st>
      </stg> <phonet>šäť</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Pcle">ehkä</t>
        <t pos="Pcle">mahdollisesti</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1210,10 +1311,14 @@
        <st Contlex="PCLE_">эбять</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1223,10 +1328,14 @@
        <st Contlex="PCLE_">эвон</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1236,10 +1345,14 @@
        <st Contlex="PCLE_">эк</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1249,10 +1362,14 @@
        <st Contlex="PCLE_">эле</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 </r> 

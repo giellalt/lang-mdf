@@ -76,9 +76,9 @@ LEXICON N_PAKSIA
 !! пакся:пакся
 !: NMN_PAKSIA-SG ;
 
-!LEXICON N_PAKSIA-PL
+LEXICON N_PAKSIA-PL
 !! пакся:пакся
-!: NMN_PAKSIA-PL ;
+: NMN_PAKSIA-PL ;
 
 
 LEXICON N_ANDY !!= * @CODE@ анды:анды
@@ -359,9 +359,9 @@ LEXICON NMN_PAKSIA
 !        NMN-SG/PL       ;
 ! SP-LAT-INDEF ;
 
-!LEXICON NMN_PAKSIA-PL
-!        NMN-PL ;
-!        NMN-SG/PL       ;
+LEXICON NMN_PAKSIA-PL
+        NMN-PL ;
+        NMN-SG/PL       ;
 
 
 !LEXICON NMN_OFTA !!= @CODE@
