@@ -88,6 +88,12 @@ LEXICON A_INT-ЯЙ
 LEXICON A_RU-ЯЙ
 +Use/SpellNoSugg:яй A_VAJ ;
 
+LEXICON A_SEL1ME
+!сельме:сельм%{ЕО%}
++Sg+Nom+Indef: K ; !CHECKME 2018-11-25
++Der+Der/MWN+N: NMN_SEL1ME ;
+
+
 !LEXICON DET_AVA
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_AVA ;
@@ -122,10 +128,10 @@ LEXICON DET_PINGE
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_VAJ ;
 
-!LEXICON DET_KAL
+LEXICON DET_KAL
 !!кал:кал
-!+Sg+Nom+Indef: K ;
-!+Der+Der/MWN+N: N_KAL ;
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_KAL ;
 
 !LEXICON DET_KELU
 !!! келу:келу

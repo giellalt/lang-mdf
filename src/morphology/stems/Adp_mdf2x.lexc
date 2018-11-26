@@ -1,6 +1,7 @@
 
 LEXICON Adp_mdf2x
 
+аймак+Po:аймак PO_  "" ;
 аймакс+Po:аймакс PO_  "asti" ;
 ала+Po:ала PO-SPAT_  "alla" ;
 алда+Po:алда PO-SPAT_  "alta" ;
@@ -16,8 +17,8 @@ LEXICON Adp_mdf2x
 ваксса+Po:ваксса PO_  "vieressä" ;
 вастс+Po:вастс PO_  "(sen) sijaan" ;
 вельде+Po:вельде PO_  "mukaan" ;
-вельксса+Po:вельксса PO_  "yläpuolella" ;
 велькска+Po:велькска PO_  "yli" ;
+вельксса+Po:вельксса PO_  "yläpuolella" ;
 вельф+Po:вельф PO_  "" ;
 вельфке+Po:вельфке PO_  "yli" ;
 вельфкяня+Po:вельфкяня PO_  "" ;
@@ -27,16 +28,16 @@ LEXICON Adp_mdf2x
 видес+Po:видес PO_  "luo" ;
 видеса+Po:видеса PO_  "luona" ;
 видьге+Po:видьге PO_  "pitkin" ;
-эс+Po:эс PO_  "" ;
+ес+Po:ес PO_  "" ;
 инголе+Po:инголе PO_  "edessä" ;
 инголи+Po:инголи PO_  "eteen" ;
 ингольге+Po:ингольге PO_  "" ;
 ингольде+Po:ингольде PO_  "edestä" ;
 инкса+Po:инкса PO_  "takia" ;
+карша+Po:карша PO_  "vastaan" ;
 каршес+Po:каршес PO_  "" ;
 каршеса+Po:каршеса PO_  "vastapäätä" ;
 квалма+Po:квалма PO_КВАЛМА  "" ;
-келева+Po:келева PO_  "" ;
 келес+Po:келес PO_  "" ;
 кодяма+Po:кодяма PO_  "kaltainen" ;
 колга+Po:колга PO_  "-sta" ;
@@ -62,7 +63,6 @@ LEXICON Adp_mdf2x
 лангу+Po:лангу PO_  "" ;
 лаца+Po:лаца PO_  "kuten" ;
 малав+Po:малав PO_  "" ;
-малава+Po:малава PO_  "" ;
 маланяса+Po:маланяса PO_  "" ;
 малас+Po:малас PO_  "" ;
 маласа+Po:маласа PO_  "" ;
@@ -77,7 +77,6 @@ LEXICON Adp_mdf2x
 мельге+Po:мельге PO-PRL_МЕЛЬГЕ  "perässä" ;
 пачк+Po:пачк PO_  "1. puoliksi, kahtia. 2. läpi, lävitse; puhki" ;
 пачка+Po:пачка PO_  "läpi" ;
-пе+N:пе N_AVA  "loppu" ;
 пингова+Po:пингова PO_  "" ;
 потмова+Po:потмова PO-PRL_ЁНГА  "" ;
 потмос+Po:потмос PO_  "" ;
@@ -111,17 +110,13 @@ LEXICON Adp_mdf2x
 фтала+Po+Use/SpellNoSugg:фътала PO_  "" ;
 фталга+Po:фталга PO_  "" ;
 фталга+Po+Use/SpellNoSugg:фъталга PO_  "" ;
-фталу+Po:фталу PO_  "" ;
-фталу+Po+Use/SpellNoSugg:фъталу PO_  "" ;
 фталуня+Po:фталуня PO_  "" ;
 фталуня+Po+Use/SpellNoSugg:фъталуня PO_  "" ;
 ширде+Po:ширде PO_  "ulkopuolelta" ;
 ширес+Po:ширес PO_  "" ;
-ширеса+Po:ширеса PO_  "" ;
 ширеста+Po:ширеста PO_  "" ;
 шири+Po:шири PO_  "" ;
 ширьге+Po:ширьге PO_  "sivussa" ;
-шумбаз+N:шумбаз N_OSH  "jänis (Lepus)" ;
 эзга+Po:эзга PO_  "myöten" ;
 эзда+Po:эзда PO_  "-sta" ;
 эздода+Po:эздода PO_  "" ;
@@ -139,6 +134,5 @@ LEXICON Adp_mdf2x
 ёнга+Po:ёнга PO-PRL_ЁНГА  "(kulkea) läheltä" ;
 ёну+Po:ёну PO_  "" ;
 ёнца+Po:ёнца PO_  "suunnalla" ;
-ёткова+Po:ёткова PO_  "" ;
 ёткс+Po:ёткс PO_  "" ;
 ёткста+Po:ёткста PO_  "" ;
