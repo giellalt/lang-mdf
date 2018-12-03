@@ -294,7 +294,9 @@ LIST Der/Cop = Der/Cop ;
 
 LIST <vdic> = <vdic> ;
 
-LIST MARTO = "марто" ;
+LIST MARXTA = "мархта" ;
+LIST ULEMA = "улема" ;
+
 
 #2013-05-22
 
@@ -335,10 +337,15 @@ REMOVE Der/MWN ; # If any other reading is possible.
 SELECT $$Case IF (1 CC LINK 1C $$Case) ;
 
 #Ваня марто Марят 
-SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 MARTO) (-2 Prop + Sg + Nom + Indef) ;
+SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 MARXTA) (-2 Prop + Sg + Nom + Indef) ;
 
 #Ванят-Марят 
 SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 HYPHEN) (-2 Prop + Pl + Nom + Indef) ;
+
+SELECT Pcle IF (0 ULEMA) (-1 COMMA) (1 COMMA) ;
+
+REMOVE:CopWhenVFinBefore Der/Cop IF (-1 VFIN) ;
+REMOVE:CopWhenVFINAfter Der/Cop IF (1 VFIN) ;
 
 REMOVE IV IF (0 OCONJ) ;
 
@@ -360,13 +367,40 @@ SELECT CC IF (0 CC) (-* VFIN ) (* VFIN ) ;
 
 
 # Select the postposition марто when it is preceded by genitive definite 
-SELECT Po IF (0 MARTO) (-1 Gen + Def) (1 CLB) ;
+#SELECT Po IF (0 MARXTA) (-1 Gen + Def) (1 CLB) ;
+SELECT Po IF (0 Po) (-1 Gen + Def) (1 CLB) ;
 
 # Select postposition when it is preceded by genitive possessum
 # веленьконь вельхкска 
 SELECT Po IF (0 Po) (-1 Gen + PX) ;
 
+# Remove postposition when preceded by def nominative
+
+# Remove ConNeg when preceded by CLB
+REMOVE:ConNegWhenPrecededByClb ConNeg IF (-1 CLB) ;
+
+# Remove Interj Neg when followed by
+# аф якан
+REMOVE Interj + Neg IF (NOT 1 CLB);
+
+# эрь, мольхтяма
+REMOVE Interj IF (0 ("эрь")) (NOT 1 CLB);
+
+# эрь, мольхтяма
+SELECT Interj IF (0 ("эрь")) (1 COMMA);
+
 # Remove Prl if Sem/Sur
 # "Терешко" Sem/Sur SP Prl Indef 
 # "Терешков" Sem/Sur Sem/Fem Sg Nom Indef
 REMOVE Prl IF (0 Sur) ;
+
+# VERBS
+
+# remove 
+# азондыне арьсеманень, а сон
+REMOVE OcSg3 IF (1 Pl + Gen) (2 CLB);
+
+
+# сон пеедезевсь и корхтай:
+#REMOVE Pcle IF (-1 N + $$CASE)(1 N + $$CASE);
+REMOVE PrsPrc IF (-2C $$SCONJ) (-1 CC) (0 $$SCONJ);
