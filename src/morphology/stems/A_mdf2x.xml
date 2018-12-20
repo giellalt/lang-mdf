@@ -91047,11 +91047,11 @@
      <defNative/>
    </mg>
 </e>
-  <e id="None" meta="">
+<e>
    <lg>
      <l pos="A">эрь</l>
      <stg>
-       <st Contlex="A_">эрь</st>
+       <st Contlex="A_KAL">эрь</st>
      </stg>
    </lg>
      <sources>
@@ -91060,12 +91060,13 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">jokainen</t>
+       <t pos="Det">joka</t>
      </tg>
-     <defNative/>
+     <m>
+     </m>
      <xg>
        <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
-       <xt xml:lang="fin">jokapäiväinen</xt>
+       <xt xml:lang="fin">jokapäiväinen.</xt>
      </xg>
      <xg>
        <x>эрь мезне</x> <phonet>äŕ meźńä</phonet>
