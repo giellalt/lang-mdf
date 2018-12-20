@@ -128,10 +128,9 @@ LEXICON DET_PINGE
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_VAJ ;
 
-LEXICON DET_KAL
-!!кал:кал
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_KAL ;
+LEXICON PRON_KAL
+!!кал:кал эрь:эрь
+: N_KAL ;
 
 !LEXICON DET_KELU
 !!! келу:келу

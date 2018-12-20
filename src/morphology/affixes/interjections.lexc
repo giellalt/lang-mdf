@@ -21,7 +21,7 @@ LEXICON FORMULAIC_
 +Formulaic: K ;
 
 LEXICON INTERJ-NEG
-+Interj+Neg: # ;
++Neg: # ;
 
 LEXICON VOCATIVE_ !!= @CODE@ should these really be interjections? 2018-11-10
 +Voc: K ;
