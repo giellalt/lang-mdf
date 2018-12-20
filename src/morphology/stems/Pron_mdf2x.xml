@@ -60,7 +60,7 @@
    <lg>
      <l pos="Pron">эрь</l>
      <stg>
-       <st Contlex="DET_KAL">эрь</st>
+       <st Contlex="PRON_KAL">эрь</st>
      </stg>
    </lg>
      <sources>
@@ -69,18 +69,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Det">joka</t>
+       <t pos="Pron">jokainen</t>
      </tg>
-     <m>
-     </m>
-     <xg>
-       <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
-       <xt xml:lang="fin">jokapäiväinen.</xt>
-     </xg>
-     <xg>
-       <x>эрь мезне</x> <phonet>äŕ meźńä</phonet>
-       <xt xml:lang="fin">joka kerta, aina, alituiseen.</xt>
-     </xg>
    </mg>
 </e>
 <e>
