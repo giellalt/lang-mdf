@@ -44,18 +44,18 @@ VERBS MUTUAL FOR TV and IV !!
 
 
 
- +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
- +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
- +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 
 
 
  LEXICON V0_NJAJEMS   няемс:ня
- +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
- +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
- +Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:й0@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
  :й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
@@ -80,7 +80,7 @@ COND-ALL
 
 FROM MYV
 
- +Ind+Prs@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:00@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
 COND-ALL
  +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 
