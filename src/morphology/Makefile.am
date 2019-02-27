@@ -42,6 +42,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 affixes/particles.lexc     \
 			 affixes/pronouns.lexc      \
 			 affixes/propernouns.lexc   \
+			 affixes/symbols.lexc       \
 			 affixes/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -63,7 +64,8 @@ GT_LEXC_L2_SRCS=\
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
 			 generated_files/punctuation.lexc \
-			 $(srcdir)/stems/A_mdf2x.lexc    \
+			 generated_files/symbols.lexc     \
+			 $(srcdir)/stems/A_mdf2x.lexc     \
 			 $(srcdir)/stems/Adp_mdf2x.lexc   \
 			 $(srcdir)/stems/Adv_mdf2x.lexc       \
 			 $(srcdir)/stems/CC_mdf2x.lexc   \
