@@ -159,6 +159,7 @@ Other verb forms are
    +VAbl   	 Verb Ablative "озадо"
 
   +ABBR 	 Abbreviation
+ * +Symbol = independent symbols in the text stream, like £, €, ©
   +ACR  	 Acronym
 
 Special symbols are classified with:
@@ -367,7 +368,7 @@ given the proper use of these flags.
 
 
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
+The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 These have been slightly modified from kpv and myv
