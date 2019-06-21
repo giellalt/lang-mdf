@@ -7,7 +7,7 @@
 !!!!!!!!!!!!!!
 
 LEXICON V_
-+V: # ;
+: # ;
 
 LEXICON V-IMPRT-SG_
 +Imprt+Sg2: K ;
@@ -50,7 +50,7 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
 
 LEXICON V_TUMS
 ! тумс:ту
-+V+IV: V0_KUNDAMS ;
++IV: V0_KUNDAMS ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! BOTH IV and TV
