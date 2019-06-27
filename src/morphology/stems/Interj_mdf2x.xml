@@ -1,91 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
-<e exclude="fst">
-   <lg>
-     <l pos="Interj">арда!</l>
-     <stg>
-       <st>арда!</st>
-     </stg> <phonet>arda</phonet>
-       <l_ref>ардомс</l_ref>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>menkää!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">пожалуйста</l>
-     <stg>
-       <st Contlex="FORMULAIC_">пожалуйста</st>
-     </stg> <phonet>pažaləsta</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Interj">ole hyvä</t>
-       <t pos="Interj">olkaa hyvät</t>
-       <t pos="Interj">olkaa hyvä</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">сюк</l>
-     <stg>
-       <st Contlex="FORMULAIC_">сюк</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Interj">thank you</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Interj">kiitos</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Interj">merci</t>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">аф</l>
-     <stg>
-       <st Contlex="INTERJ-NEG">аф</st>
-     </stg> <phonet>af</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="Interj">no</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Interj">ei</t>
-     </tg>
-     <tg xml:lang="myv">
-       <t pos="Interj">арась</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e>
    <lg>
      <l pos="Interj">а</l>
@@ -169,6 +82,24 @@
      <defNative/>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Interj">аляняй</l>
+     <stg>
+       <st Contlex="VOCATIVE_">аляняй</st>
+     </stg> <phonet>aľäńäj</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">isä hei</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e exclude="fst">
    <lg>
      <l pos="Interj" type="mwe">арак ширес!</l>
@@ -184,6 +115,24 @@
      </semantics>
      <tg xml:lang="fin">
        <t>väistä!</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Interj">арда!</l>
+     <stg>
+       <st>арда!</st>
+     </stg> <phonet>arda</phonet>
+       <l_ref>ардомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>menkää!</t>
      </tg>
    </mg>
 </e>
@@ -221,6 +170,30 @@
      <tg xml:lang="fin">
        <t>häivy!</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">аф</l>
+     <stg>
+       <st Contlex="INTERJ-NEG">аф</st>
+     </stg> <phonet>af</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Interj">no</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Interj">ei</t>
+     </tg>
+     <tg xml:lang="myv">
+       <t pos="Interj">арась</t>
+     </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1252,6 +1225,26 @@
 </e>
 <e>
    <lg>
+     <l pos="Interj">пожалуйста</l>
+     <stg>
+       <st Contlex="FORMULAIC_">пожалуйста</st>
+     </stg> <phonet>pažaləsta</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Interj">ole hyvä</t>
+       <t pos="Interj">olkaa hyvät</t>
+       <t pos="Interj">olkaa hyvä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Interj">прощай</l>
      <stg>
        <st Contlex="INTERJ_">прощай</st>
@@ -1339,6 +1332,31 @@
      <tg xml:lang="fin">
        <t>seis!</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сюк</l>
+     <stg>
+       <st Contlex="FORMULAIC_">сюк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Interj">thank you</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Interj">kiitos</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Interj">merci</t>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e exclude="fst">
@@ -1956,24 +1974,6 @@
        <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
        <xt xml:lang="fin">hypähtää äkisti.</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Interj">аляняй</l>
-     <stg>
-       <st Contlex="VOCATIVE_">аляняй</st>
-     </stg> <phonet>aľäńäj</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Interj">isä hei</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 </r> 
