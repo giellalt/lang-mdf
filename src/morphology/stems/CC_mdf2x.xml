@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e id="None" meta="">
    <lg>
      <l pos="CC">а</l>
@@ -149,9 +149,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="CC">мъзярс</l>
+     <l pos="CS">мзярс</l>
      <stg>
-       <st Contlex="CC_">мъзярс</st>
+       <st Contlex="CS_">мъзярс</st>
      </stg>
    </lg>
      <sources>
@@ -160,16 +160,16 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="CS">niin kauan kuin</t> <t/>
+       <t pos="CS">niin kauan kuin</t>
      </tg>
      <defNative/>
    </mg>
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="CC">мярьгат</l>
+     <l pos="CS">мярьгат</l>
      <stg>
-       <st Contlex="CC_">мярьгат</st>
+       <st Contlex="CS_">мярьгат</st>
      </stg>
    </lg>
      <sources>

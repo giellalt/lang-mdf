@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
-<e>
-   <lg>
-     <l pos="Pcle">улема</l>
-     <stg>
-       <st Contlex="PCLE-EPIST">улема</st>
-     </stg> <phonet>uľəma</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Pcle">varmaan</t>
-       <t pos="Pcle">ilmeisesti</t>
-       <t pos="Pcle">nähtävästi</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>сон, улема, аф сай</x> <phonet>son uľəma af saj</phonet>
-       <xt xml:lang="fin">hän ei varmaan tule.</xt>
-     </xg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e>
    <lg>
      <l pos="Pcle">апак</l>
@@ -123,36 +99,6 @@
      <xg>
        <x>аф цебярь</x> <phonet>af ćebäŕ</phonet>
        <xt xml:lang="fin">huono.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle" type="Superl">сембода</l>
-     <stg>
-       <st Contlex="PCLE-SUPERL">сембода</st>
-     </stg> <phonet>śembəda</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>superlatiivin apusana</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg>
-       <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg>
-       <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
-       <xt xml:lang="fin">huonoin</xt>
      </xg>
    </mg>
 </e>
@@ -978,6 +924,36 @@
 </e>
 <e>
    <lg>
+     <l pos="Pcle" type="Superl">сембода</l>
+     <stg>
+       <st Contlex="PCLE-SUPERL">сембода</st>
+     </stg> <phonet>śembəda</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>superlatiivin apusana</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
+       <xt xml:lang="fin">suurin</xt>
+     </xg>
+     <xg>
+       <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
+       <xt xml:lang="fin">suurin</xt>
+     </xg>
+     <xg>
+       <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
+       <xt xml:lang="fin">huonoin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pcle">сембоц</l>
      <stg>
        <st Contlex="PCLE_">сембоц</st>
@@ -1141,6 +1117,30 @@
      <tg xml:lang="fin"> <t/>
      </tg>
      <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">улема</l>
+     <stg>
+       <st Contlex="PCLE-EPIST">улема</st>
+     </stg> <phonet>uľəma</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pcle">varmaan</t>
+       <t pos="Pcle">ilmeisesti</t>
+       <t pos="Pcle">nähtävästi</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>сон, улема, аф сай</x> <phonet>son uľəma af saj</phonet>
+       <xt xml:lang="fin">hän ei varmaan tule.</xt>
+     </xg>
    </mg>
 </e>
 <e>

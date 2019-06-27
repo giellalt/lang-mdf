@@ -25,21 +25,32 @@ LEXICON EXCEPTIONS
 ашезь:аш V-AUX-NEG-PRT1_ASHEZJ ;
 
 !! TOPONYMY
-Амурскяй:Амурскяй PROP-PLC_VAJ ;
-Владимирскяй:Владимирскяй PROP-PLC_VAJ ;
-Воронежскяй:Воронежскяй PROP-PLC_VAJ ;
-Горьковскяй:Горьковскяй PROP-PLC_VAJ ;
-Зубавинскяй:Зубавинскяй PROP-PLC_VAJ ;
-Зубово-Полянскяй:Зубово-Полянскяй PROP-PLC_VAJ ;
-Инсарскяй:Инсарскяй PROP-PLC_VAJ ;
-Казанскяй:Казанскяй PROP-PLC_VAJ ;
-Ковылкинскяй:Ковылкинскяй PROP-PLC_VAJ ;
-Краснослободскяй:Краснослободскяй PROP-PLC_VAJ ;
-Куйбышевскяй:Куйбышевскяй PROP-PLC_VAJ ;
-Лухоминскяй:Лухоминскяй PROP-PLC_VAJ ;
-Междуреченскяй:Междуреченскяй PROP-PLC_VAJ ;
-Мурманскяй:Мурманскяй PROP-PLC_VAJ ;
-Рязанскяй:Рязанскяй PROP-PLC_VAJ ;
+Амурскяй+N+Prop+Sem/Plc:Амурскяй PROP-PLC_VAJ ;
+Владимирскяй+N+Prop+Sem/Plc:Владимирскяй PROP-PLC_VAJ ;
+Воронежскяй+N+Prop+Sem/Plc:Воронежскяй PROP-PLC_VAJ ;
+Горьковскяй+N+Prop+Sem/Plc:Горьковскяй PROP-PLC_VAJ ;
+Зубавинскяй+N+Prop+Sem/Plc:Зубавинскяй PROP-PLC_VAJ ;
+Зубово-Полянскяй+N+Prop+Sem/Plc:Зубово-Полянскяй PROP-PLC_VAJ ;
+Инсарскяй+N+Prop+Sem/Plc:Инсарскяй PROP-PLC_VAJ ;
+Казанскяй+N+Prop+Sem/Plc:Казанскяй PROP-PLC_VAJ ;
+Ковылкинскяй+N+Prop+Sem/Plc:Ковылкинскяй PROP-PLC_VAJ ;
+Краснослободскяй+N+Prop+Sem/Plc:Краснослободскяй PROP-PLC_VAJ ;
+Куйбышевскяй+N+Prop+Sem/Plc:Куйбышевскяй PROP-PLC_VAJ ;
+Лухоминскяй+N+Prop+Sem/Plc:Лухоминскяй PROP-PLC_VAJ ;
+Междуреченскяй+N+Prop+Sem/Plc:Междуреченскяй PROP-PLC_VAJ ;
+Мурманскяй+N+Prop+Sem/Plc:Мурманскяй PROP-PLC_VAJ ;
+Рязанскяй+N+Prop+Sem/Plc:Рязанскяй PROP-PLC_VAJ ;
+Ерихон+N+Prop+Sem/Plc:Ерихон PROP_KAL ;
+Хельсинки+N+Prop+Sem/Plc:Хельсинки PROP_AVA ;
+Голгота+N+Prop+Sem/Plc:Голгота PROP_AVA ;
+Гетсемания+N+Prop+Sem/Plc:Гетсемания PROP_AVA ;
+
+
+!! PROPER NAMES
+Исус+N+Prop+Sem/Mal:Исус N_OSH ;
+Пилат+N+Prop+Sem/Mal:Пилат N_KAL ;
+Христос+v2+N+Prop+Sem/Mal:Кристос N_OSH ;
+
 
 !! QUESTIONABLE FORMS
 школа+N+SP+Lat+Indef+Foc:школавка K ;

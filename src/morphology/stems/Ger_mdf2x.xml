@@ -1,242 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">апак аноклак</l>
-       <l_ref>анокламс</l_ref>
-     <stg>
-       <st Contlex="GER_">апак аноклак</st>
-     </stg> <phonet>apak anəklak</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>valmistelematta</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">апак кизефтть</l>
-       <l_ref>кизефтемс</l_ref>
-     <stg>
-       <st Contlex="GER_">апак кизефтть</st>
-     </stg> <phonet>apak kiźəfťť</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kysymättä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">апак ужяльтть</l>
-       <l_ref>ужяльдемс</l_ref>
-     <stg>
-       <st Contlex="GER_">апак ужяльтть</st>
-     </stg> <phonet>apak užäľťť</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>säälimättä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">апак учсек</l>
-       <l_ref>учемс</l_ref>
-     <stg>
-       <st Contlex="GER_">апак учсек</st>
-     </stg> <phonet>apak učśək</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>odottamatta</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">кенярдезь</l>
-       <l_ref>кенярдемс</l_ref>
-     <stg>
-       <st Contlex="GER_">кенярдезь</st>
-     </stg> <phonet>keńäŕďəź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>iloiten</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">кядень лапазь</l>
-       <l_ref>лапамс</l_ref>
-     <stg>
-       <st Contlex="GER_">кядень лапазь</st>
-     </stg> <phonet>käďəń lapaź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>taputtaen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">мокназь-макназь</l>
-       <l_ref>мокнамс</l_ref>
-     <stg>
-       <st Contlex="GER_">мокназь-макназь</st>
-     </stg> <phonet>moknaź-maknaź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>(puhua) honottaen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">пелезня-виздезня</l>
-       <l_ref>пелемс</l_ref>
-     <stg>
-       <st Contlex="GER_">пелезня-виздезня</st>
-     </stg> <phonet>peľəźńä-viźďəźńä</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ujostellen, kainostellen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">пензазь-куляксазь</l>
-       <l_ref>пензамс</l_ref>
-     <stg>
-       <st Contlex="GER_">пензазь-куляксазь</st>
-     </stg> <phonet>penʒaź-kuľaksaź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tiedustellen, kuulustellen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">салазь-колазь</l>
-       <l_ref>саламс</l_ref>
-     <stg>
-       <st Contlex="GER_">салазь-колазь</st>
-     </stg> <phonet>salaź-kolaź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>salavihkaa, salaa, varkain</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">сельмонь апак кончсек</l>
-       <l_ref>кончсемс</l_ref>
-     <stg>
-       <st Contlex="GER_">сельмонь апак кончсек</st>
-     </stg> <phonet>śeľməń apak końč(ś)ək</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hereillä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">сокотозь</l>
-       <l_ref>сокотомс</l_ref>
-     <stg>
-       <st Contlex="GER_">сокотозь</st>
-     </stg> <phonet>sokətəź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>väristen, täristen, vapisten</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">сёпозь-кяшезь</l>
-       <l_ref>сёпомс</l_ref>
-     <stg>
-       <st Contlex="GER_">сёпозь-кяшезь</st>
-     </stg> <phonet>śopəź-käšəź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>salassa, piilotellen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">удомста</l>
-       <l_ref>удомс</l_ref>
-     <stg>
-       <st Contlex="GER_">удомста</st>
-     </stg> <phonet>udəmsta</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>nukkuessa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">ужяльдезня</l>
-       <l_ref>ужяльдемс</l_ref>
-     <stg>
-       <st Contlex="GER_">ужяльдезня</st>
-     </stg> <phonet>užäľďəźńä</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>säälien, säälivästi</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">щаф-карьсеф</l>
-       <l_ref>карьсемс</l_ref>
-     <stg>
-       <st Contlex="GER_">щаф-карьсеф</st>
-     </stg> <phonet>ščaf- kaŕśəf</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>pukeutuneena, pukeissa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="Ger">явсезь-авардезь</l>
-       <l_ref>явсемс</l_ref>
-     <stg>
-       <st Contlex="GER_">явсезь-авардезь</st>
-     </stg> <phonet>javśəź-avaŕďəź</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>parkuen</t>
-     </tg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e>
    <lg>
      <l pos="Ger">абондозь</l>
@@ -244,29 +6,37 @@
        <st Contlex="GER_">абондозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">авардезь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">авардезь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -276,13 +46,15 @@
        <st Contlex="GER_">авардезь-кольгозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -292,12 +64,86 @@
        <st Contlex="GER_">авардезь-рангозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger" type="mwe">апак аноклак</l>
+     <stg>
+       <st Contlex="GER_">апак аноклак</st>
+     </stg> <phonet>apak anəklak</phonet>
+       <l_ref>анокламс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>valmistelematta</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger" type="mwe">апак кизефтть</l>
+     <stg>
+       <st Contlex="GER_">апак кизефтть</st>
+     </stg> <phonet>apak kiźəfťť</phonet>
+       <l_ref>кизефтемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kysymättä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">апак ужяльтть</l>
+     <stg>
+       <st Contlex="GER_">апак ужяльтть</st>
+     </stg> <phonet>apak užäľťť</phonet>
+       <l_ref>ужяльдемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>säälimättä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">апак учсек</l>
+     <stg>
+       <st Contlex="GER_">апак учсек</st>
+     </stg> <phonet>apak učśək</phonet>
+       <l_ref>учемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>odottamatta</t>
      </tg>
    </mg>
 </e>
@@ -308,13 +154,15 @@
        <st Contlex="GER_">апряказь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -324,13 +172,16 @@
        <st Contlex="GER_">ардозь</st>
      </stg> <phonet>ardəź</phonet>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t>laukaten, kiirehtien.</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -340,13 +191,15 @@
        <st Contlex="GER_">арьсезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -356,13 +209,15 @@
        <st Contlex="GER_">ацергодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -372,13 +227,15 @@
        <st Contlex="GER_">безярдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -388,13 +245,15 @@
        <st Contlex="GER_">брезговазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -404,13 +263,15 @@
        <st Contlex="GER_">бульдердезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -420,13 +281,15 @@
        <st Contlex="GER_">бульнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -436,13 +299,15 @@
        <st Contlex="GER_">ваймосезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -452,13 +317,15 @@
        <st Contlex="GER_">ваймязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -468,13 +335,15 @@
        <st Contlex="GER_">валдашкодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -484,13 +353,15 @@
        <st Contlex="GER_">вандолдозь-пиндолдозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -500,13 +371,15 @@
        <st Contlex="GER_">ваномок</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -516,13 +389,15 @@
        <st Contlex="GER_">вараксазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -532,13 +407,15 @@
        <st Contlex="GER_">вархцодезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -548,13 +425,15 @@
        <st Contlex="GER_">васьказь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -564,13 +443,15 @@
        <st Contlex="GER_">васькафнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -580,13 +461,15 @@
        <st Contlex="GER_">васькафтозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -596,13 +479,15 @@
        <st Contlex="GER_">васькязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -612,13 +497,15 @@
        <st Contlex="GER_">вахлязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -628,13 +515,15 @@
        <st Contlex="GER_">вельсезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -644,13 +533,15 @@
        <st Contlex="GER_">велязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -660,13 +551,15 @@
        <st Contlex="GER_">велязь-шарозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -676,13 +569,15 @@
        <st Contlex="GER_">велянькшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -692,13 +587,15 @@
        <st Contlex="GER_">верондазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -708,16 +605,56 @@
        <st Contlex="GER_">ветензазь</st>
      </stg> <phonet>veťənʒaź</phonet>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t>viidellä säikeellä</t>
      </tg>
-     <xg> <x>ветензазь понамс</x> <phonet>veťənʒaź ponams</phonet>
+     <m>
+     </m>
+     <xg>
+       <x>ветензазь понамс</x> <phonet>veťənʒaź ponams</phonet>
        <xt xml:lang="fin">punoa viidellä säikeellä.</xt>
      </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">вжголдозь</l>
+     <stg>
+       <st Contlex="GER_">въжголдозь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">вжназь</l>
+     <stg>
+       <st Contlex="GER_">въжназь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -727,13 +664,15 @@
        <st Contlex="GER_">виздезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -743,13 +682,15 @@
        <st Contlex="GER_">виздезь-пелезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -759,13 +700,15 @@
        <st Contlex="GER_">визделгодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -775,47 +718,15 @@
        <st Contlex="GER_">воравазь-салазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">вжголдозь</l>
-     <stg>
-       <st Contlex="GER_">вжголдозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">въжголдозь</st>
-     </stg>
-   </lg>
-   <mg>
      <m>
-       <head/>
-     <defNative/>
      </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">вжназь</l>
-     <stg>
-       <st Contlex="GER_">вжназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">въжназь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -825,13 +736,15 @@
        <st Contlex="GER_">вяжедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -841,13 +754,33 @@
        <st Contlex="GER_">вякназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">гзнязь</l>
+     <stg>
+       <st Contlex="GER_">гъзнязь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -857,13 +790,15 @@
        <st Contlex="GER_">горнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -873,13 +808,15 @@
        <st Contlex="GER_">грабазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -889,13 +826,33 @@
        <st Contlex="GER_">гразязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">грнязь</l>
+     <stg>
+       <st Contlex="GER_">гърнязь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -905,47 +862,15 @@
        <st Contlex="GER_">грохиезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">гзнязь</l>
-     <stg>
-       <st Contlex="GER_">гзнязь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">гъзнязь</st>
-     </stg>
-   </lg>
-   <mg>
      <m>
-       <head/>
-     <defNative/>
      </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">грнязь</l>
-     <stg>
-       <st Contlex="GER_">грнязь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">гърнязь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -955,13 +880,15 @@
        <st Contlex="GER_">дасадязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -971,13 +898,15 @@
        <st Contlex="GER_">дразнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -987,13 +916,15 @@
        <st Contlex="GER_">жалназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1003,13 +934,15 @@
        <st Contlex="GER_">жалназь-увназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1019,13 +952,15 @@
        <st Contlex="GER_">жалносезь-увносезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1035,13 +970,15 @@
        <st Contlex="GER_">жальдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1051,13 +988,15 @@
        <st Contlex="GER_">жольдердезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1067,13 +1006,15 @@
        <st Contlex="GER_">жольдердезь-кальдердезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1083,13 +1024,15 @@
        <st Contlex="GER_">жольдерькшнезь-кальдерькшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1099,13 +1042,15 @@
        <st Contlex="GER_">жольнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1115,13 +1060,15 @@
        <st Contlex="GER_">жольнязь-горнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1131,13 +1078,15 @@
        <st Contlex="GER_">жуледезь-каледезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1147,13 +1096,15 @@
        <st Contlex="GER_">жульничендазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1163,13 +1114,15 @@
        <st Contlex="GER_">заботендазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1179,13 +1132,15 @@
        <st Contlex="GER_">зойнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1195,13 +1150,15 @@
        <st Contlex="GER_">зярнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1211,30 +1168,33 @@
        <st Contlex="GER_">иклендезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Ger">икснезь-мкснезь</l>
      <stg>
-       <st Contlex="GER_">икснезь-мкснезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">икснезь-мъкснезь</st>
+       <st Contlex="GER_">икснезь-мъкснезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1244,13 +1204,15 @@
        <st Contlex="GER_">кашмазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1260,13 +1222,15 @@
        <st Contlex="GER_">каязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1276,13 +1240,15 @@
        <st Contlex="GER_">кеворезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1292,13 +1258,15 @@
        <st Contlex="GER_">кельгозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1308,13 +1276,16 @@
        <st Contlex="GER_">кенордазь</st>
      </stg> <phonet>kenərdaź</phonet>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t>kiireessä, kiireisesti.</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1324,13 +1295,15 @@
        <st Contlex="GER_">кенярдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1340,13 +1313,15 @@
        <st Contlex="GER_">кизефтезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1356,13 +1331,15 @@
        <st Contlex="GER_">кифтолдозь-кафтолдозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1372,13 +1349,15 @@
        <st Contlex="GER_">кичкордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1388,13 +1367,15 @@
        <st Contlex="GER_">кичкорязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1404,13 +1385,15 @@
        <st Contlex="GER_">кокольдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1420,13 +1403,15 @@
        <st Contlex="GER_">кокшкодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1436,13 +1421,15 @@
        <st Contlex="GER_">кокшкоткшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1452,13 +1439,15 @@
        <st Contlex="GER_">колендезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1468,13 +1457,15 @@
        <st Contlex="GER_">кольгозь-авардезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1484,13 +1475,15 @@
        <st Contlex="GER_">комазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1500,13 +1493,15 @@
        <st Contlex="GER_">комотнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1516,13 +1511,15 @@
        <st Contlex="GER_">копорьгодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1532,13 +1529,33 @@
        <st Contlex="GER_">кородозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">крназь</l>
+     <stg>
+       <st Contlex="GER_">кърназь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1548,13 +1565,15 @@
        <st Contlex="GER_">куколендазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1564,46 +1583,50 @@
        <st Contlex="GER_">кулдордозь-калдордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Ger">кштизь</l>
      <stg>
-       <st Contlex="GER_">кштизь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">къштизь</st>
+       <st Contlex="GER_">къштизь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Ger">крназь</l>
+     <l pos="Ger">кядень лапазь</l>
      <stg>
-       <st Contlex="GER_">крназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">кърназь</st>
-     </stg>
+       <st Contlex="GER_">кядень лапазь</st>
+     </stg> <phonet>käďəń lapaź</phonet>
+       <l_ref>лапамс</l_ref>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>taputtaen</t>
      </tg>
    </mg>
 </e>
@@ -1614,13 +1637,15 @@
        <st Contlex="GER_">кялезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1630,13 +1655,15 @@
        <st Contlex="GER_">кяшезь-вешезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1646,13 +1673,15 @@
        <st Contlex="GER_">кяшендезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1662,13 +1691,15 @@
        <st Contlex="GER_">лабордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1678,13 +1709,15 @@
        <st Contlex="GER_">лавгазь-лабордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1694,13 +1727,15 @@
        <st Contlex="GER_">лавгазь-мятькодезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1710,13 +1745,15 @@
        <st Contlex="GER_">лавксезь-лаборкшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1726,13 +1763,15 @@
        <st Contlex="GER_">лавксезь-мятькотькшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1742,13 +1781,15 @@
        <st Contlex="GER_">лагордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1758,13 +1799,15 @@
        <st Contlex="GER_">лагордозь-дубордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1774,13 +1817,15 @@
        <st Contlex="GER_">лагоркшнезь-дуборкшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1790,13 +1835,15 @@
        <st Contlex="GER_">лажназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1806,13 +1853,15 @@
        <st Contlex="GER_">лажназь-пеняцязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1822,13 +1871,15 @@
        <st Contlex="GER_">лажназь-пичедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1838,13 +1889,15 @@
        <st Contlex="GER_">лаказь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1854,13 +1907,15 @@
        <st Contlex="GER_">лакштордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1870,13 +1925,15 @@
        <st Contlex="GER_">ласькозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1886,13 +1943,15 @@
        <st Contlex="GER_">летнязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1902,13 +1961,15 @@
        <st Contlex="GER_">лиезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1918,13 +1979,15 @@
        <st Contlex="GER_">лоцазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1934,13 +1997,15 @@
        <st Contlex="GER_">ляпиякшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1950,13 +2015,15 @@
        <st Contlex="GER_">марязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1966,13 +2033,15 @@
        <st Contlex="GER_">машнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1982,13 +2051,15 @@
        <st Contlex="GER_">маштозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -1998,13 +2069,51 @@
        <st Contlex="GER_">мекпотазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">мзолдозь</l>
+     <stg>
+       <st Contlex="GER_">мъзолдозь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">мзолкшнезь</l>
+     <stg>
+       <st Contlex="GER_">мъзолкшнезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2014,46 +2123,32 @@
        <st Contlex="GER_">мокназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Ger">мзолдозь</l>
+     <l pos="Ger">мокназь-макназь</l>
      <stg>
-       <st Contlex="GER_">мзолдозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">мъзолдозь</st>
-     </stg>
+       <st Contlex="GER_">мокназь-макназь</st>
+     </stg> <phonet>moknaź-maknaź</phonet>
+       <l_ref>мокнамс</l_ref>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">мзолкшнезь</l>
-     <stg>
-       <st Contlex="GER_">мзолкшнезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">мъзолкшнезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(puhua) honottaen</t>
      </tg>
    </mg>
 </e>
@@ -2064,13 +2159,15 @@
        <st Contlex="GER_">мятярдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2080,13 +2177,15 @@
        <st Contlex="GER_">нежекснезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2096,29 +2195,37 @@
        <st Contlex="GER_">нолгадозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">нолдазь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">нолдазь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2128,13 +2235,15 @@
        <st Contlex="GER_">норхцадезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2144,13 +2253,15 @@
        <st Contlex="GER_">нувазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2160,13 +2271,15 @@
        <st Contlex="GER_">нюрязь-пупорязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2176,13 +2289,15 @@
        <st Contlex="GER_">озсезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2192,29 +2307,37 @@
        <st Contlex="GER_">оладазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">пандозь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">пандозь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2224,12 +2347,32 @@
        <st Contlex="GER_">паразь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">пелезня-виздезня</l>
+     <stg>
+       <st Contlex="GER_">пелезня-виздезня</st>
+     </stg> <phonet>peľəźńä-viźďəźńä</phonet>
+       <l_ref>пелемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ujostellen, kainostellen</t>
      </tg>
    </mg>
 </e>
@@ -2240,13 +2383,15 @@
        <st Contlex="GER_">пелезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2256,12 +2401,32 @@
        <st Contlex="GER_">пелезь-тьрнатозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">пензазь-куляксазь</l>
+     <stg>
+       <st Contlex="GER_">пензазь-куляксазь</st>
+     </stg> <phonet>penʒaź-kuľaksaź</phonet>
+       <l_ref>пензамс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tiedustellen, kuulustellen</t>
      </tg>
    </mg>
 </e>
@@ -2272,13 +2437,15 @@
        <st Contlex="GER_">пеняцязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2288,13 +2455,15 @@
        <st Contlex="GER_">пичедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2304,13 +2473,15 @@
        <st Contlex="GER_">пичетькстозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2320,29 +2491,37 @@
        <st Contlex="GER_">потазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">пувордазь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">пувордазь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2352,13 +2531,15 @@
        <st Contlex="GER_">пувордазьня</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2368,13 +2549,15 @@
        <st Contlex="GER_">пульхкозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2384,13 +2567,15 @@
        <st Contlex="GER_">пульхкозь-шарозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2400,13 +2585,15 @@
        <st Contlex="GER_">пуполязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2416,29 +2603,51 @@
        <st Contlex="GER_">пупорязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Ger">пялес_авардезь</l>
+     <l pos="Ger">пялес авардезь</l>
      <stg>
-       <st Contlex="GER_">пялес_авардезь</st>
+       <st Contlex="GER_">пялес авардезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">пялес авардезь</l>
+     <stg>
+       <st Contlex="GER_">пялес авардезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2448,13 +2657,15 @@
        <st Contlex="GER_">рахазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2464,13 +2675,15 @@
        <st Contlex="GER_">рахазь-кенярдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2480,13 +2693,15 @@
        <st Contlex="GER_">рахазь-моразь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2496,13 +2711,15 @@
        <st Contlex="GER_">рахазь-пеедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2512,13 +2729,15 @@
        <st Contlex="GER_">рахазь-пеетькшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2528,13 +2747,15 @@
        <st Contlex="GER_">рахсезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2544,13 +2765,15 @@
        <st Contlex="GER_">рахсезь-пеетькшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2560,13 +2783,15 @@
        <st Contlex="GER_">рахсекшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2576,13 +2801,15 @@
        <st Contlex="GER_">резнязь-лознязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2592,13 +2819,15 @@
        <st Contlex="GER_">ризназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2608,13 +2837,15 @@
        <st Contlex="GER_">ризназь-авардезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2624,13 +2855,15 @@
        <st Contlex="GER_">ризназь-палондозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2640,13 +2873,15 @@
        <st Contlex="GER_">ризназь-пичедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2656,13 +2891,15 @@
        <st Contlex="GER_">рязондозь-коськондозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2672,12 +2909,32 @@
        <st Contlex="GER_">рёвназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">салазь-колазь</l>
+     <stg>
+       <st Contlex="GER_">салазь-колазь</st>
+     </stg> <phonet>salaź-kolaź</phonet>
+       <l_ref>саламс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>salavihkaa, salaa, varkain</t>
      </tg>
    </mg>
 </e>
@@ -2688,13 +2945,15 @@
        <st Contlex="GER_">сельгондезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2704,12 +2963,32 @@
        <st Contlex="GER_">сельмодезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">сельмонь апак кончсек</l>
+     <stg>
+       <st Contlex="GER_">сельмонь апак кончсек</st>
+     </stg> <phonet>śeľməń apak końč(ś)ək</phonet>
+       <l_ref>кончсемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>hereillä</t>
      </tg>
    </mg>
 </e>
@@ -2720,13 +2999,15 @@
        <st Contlex="GER_">симозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2736,13 +3017,15 @@
        <st Contlex="GER_">сингордазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2752,113 +3035,15 @@
        <st Contlex="GER_">сингорязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">смутявозь</l>
-     <stg>
-       <st Contlex="GER_">смутявозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь</st>
-     </stg>
-   </lg>
-   <mg>
      <m>
-       <head/>
-     <defNative/>
      </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">смутявозь-пеедезь</l>
-     <stg>
-       <st Contlex="GER_">смутявозь-пеедезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь-пеедезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">сотнезь</l>
-     <stg>
-       <st Contlex="GER_">сотнезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">спорезь</l>
-     <stg>
-       <st Contlex="GER_">спорезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съпорезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">старандазь</l>
-     <stg>
-       <st Contlex="GER_">старандазь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">сътарандазь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">сувозь</l>
-     <stg>
-       <st Contlex="GER_">сувозь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -2869,13 +3054,141 @@
        <st Contlex="GER_" status="Use/SpellNoSugg">съкназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">смутявозь</l>
+     <stg>
+       <st Contlex="GER_">смутявозь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">смутявозь-пеедезь</l>
+     <stg>
+       <st Contlex="GER_">смутявозь-пеедезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">сокотозь</l>
+     <stg>
+       <st Contlex="GER_">сокотозь</st>
+     </stg> <phonet>sokətəź</phonet>
+       <l_ref>сокотомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>väristen, täristen, vapisten</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">сотнезь</l>
+     <stg>
+       <st Contlex="GER_">сотнезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">спорезь</l>
+     <stg>
+       <st Contlex="GER_">спорезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">старандазь</l>
+     <stg>
+       <st Contlex="GER_">старандазь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">сувозь</l>
+     <stg>
+       <st Contlex="GER_">сувозь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2885,13 +3198,15 @@
        <st Contlex="GER_">сюконязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2901,13 +3216,15 @@
        <st Contlex="GER_">сялондозь-сюцезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2917,12 +3234,32 @@
        <st Contlex="GER_">сярядезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">сёпозь-кяшезь</l>
+     <stg>
+       <st Contlex="GER_">сёпозь-кяшезь</st>
+     </stg> <phonet>śopəź-käšəź</phonet>
+       <l_ref>сёпомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>salassa, piilotellen</t>
      </tg>
    </mg>
 </e>
@@ -2933,29 +3270,37 @@
        <st Contlex="GER_">таколдозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">тапарязь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">тапарязь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2965,13 +3310,15 @@
        <st Contlex="GER_">тапарякшнезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2981,13 +3328,15 @@
        <st Contlex="GER_">таргавозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -2997,13 +3346,15 @@
        <st Contlex="GER_">таргазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3013,13 +3364,15 @@
        <st Contlex="GER_">таярдозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3029,13 +3382,51 @@
        <st Contlex="GER_">таяскодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">тжназь</l>
+     <stg>
+       <st Contlex="GER_">тъжназь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">тзназь</l>
+     <stg>
+       <st Contlex="GER_">тъзназь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3045,13 +3436,15 @@
        <st Contlex="GER_">тихольдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3061,13 +3454,15 @@
        <st Contlex="GER_">токназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3077,13 +3472,15 @@
        <st Contlex="GER_">толомозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3093,13 +3490,69 @@
        <st Contlex="GER_">тошказь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">трмождозь</l>
+     <stg>
+       <st Contlex="GER_">търмождозь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">трназь-пелезь</l>
+     <stg>
+       <st Contlex="GER_">търназь-пелезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Ger">трнатозь-пелезь</l>
+     <stg>
+       <st Contlex="GER_">търнатозь-пелезь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3109,13 +3562,15 @@
        <st Contlex="GER_">тувозгодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3125,98 +3580,15 @@
        <st Contlex="GER_">туткодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">тжназь</l>
-     <stg>
-       <st Contlex="GER_">тжназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">тъжназь</st>
-     </stg>
-   </lg>
-   <mg>
      <m>
-       <head/>
-     <defNative/>
      </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">тзназь</l>
-     <stg>
-       <st Contlex="GER_">тзназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">тъзназь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">трмождозь</l>
-     <stg>
-       <st Contlex="GER_">трмождозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търмождозь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">трназь-пелезь</l>
-     <stg>
-       <st Contlex="GER_">трназь-пелезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търназь-пелезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Ger">трнатозь-пелезь</l>
-     <stg>
-       <st Contlex="GER_">трнатозь-пелезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търнатозь-пелезь</st>
-     </stg>
-   </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e>
@@ -3226,13 +3598,15 @@
        <st Contlex="GER_">тюрезь-спорязь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3242,13 +3616,15 @@
        <st Contlex="GER_">тюрезь-сялондозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3258,13 +3634,15 @@
        <st Contlex="GER_">тюрендезь-сялондозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3274,28 +3652,72 @@
        <st Contlex="GER_">увазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Ger">удозь</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="GER_">удозь</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">null</t>
+     </tg>
      <m>
-       <head/>
-     <defNative/>
      </m>
-     <tg xml:lang="fin"> <t/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">удомста</l>
+     <stg>
+       <st Contlex="GER_">удомста</st>
+     </stg> <phonet>udəmsta</phonet>
+       <l_ref>удомс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>nukkuessa</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">ужяльдезня</l>
+     <stg>
+       <st Contlex="GER_">ужяльдезня</st>
+     </stg> <phonet>užäľďəźńä</phonet>
+       <l_ref>ужяльдемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>säälien, säälivästi</t>
      </tg>
    </mg>
 </e>
@@ -3306,13 +3728,15 @@
        <st Contlex="GER_">ужяльдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3322,13 +3746,15 @@
        <st Contlex="GER_">уназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3338,13 +3764,15 @@
        <st Contlex="GER_">уркснезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3354,13 +3782,15 @@
        <st Contlex="GER_">фатнезь-кунтсезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3370,13 +3800,15 @@
        <st Contlex="GER_">фатнезь-цопиезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3386,13 +3818,15 @@
        <st Contlex="GER_">форсиндазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3402,13 +3836,15 @@
        <st Contlex="GER_">хикстазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3418,13 +3854,15 @@
        <st Contlex="GER_">цикордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3434,13 +3872,15 @@
        <st Contlex="GER_">цингольдезь-дингольдезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3450,13 +3890,15 @@
        <st Contlex="GER_">цингольдезь-кальдердезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3466,13 +3908,15 @@
        <st Contlex="GER_">цингольдезь-канзердозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3482,13 +3926,15 @@
        <st Contlex="GER_">цингордозь-канзердозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3498,13 +3944,15 @@
        <st Contlex="GER_">цювназь-цявназь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3514,13 +3962,15 @@
        <st Contlex="GER_">цюцелондазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3530,13 +3980,15 @@
        <st Contlex="GER_">цятордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3546,13 +3998,15 @@
        <st Contlex="GER_">чакордозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3562,13 +4016,15 @@
        <st Contlex="GER_">чёшазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3578,13 +4034,15 @@
        <st Contlex="GER_">шалакодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3594,13 +4052,15 @@
        <st Contlex="GER_">шутендазь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3610,12 +4070,32 @@
        <st Contlex="GER_">шутендазь-пеедезь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">щаф-карьсеф</l>
+     <stg>
+       <st Contlex="GER_">щаф-карьсеф</st>
+     </stg> <phonet>ščaf- kaŕśəf</phonet>
+       <l_ref>карьсемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>pukeutuneena, pukeissa</t>
      </tg>
    </mg>
 </e>
@@ -3626,13 +4106,15 @@
        <st Contlex="GER_">элякодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 <e>
@@ -3642,12 +4124,32 @@
        <st Contlex="GER_">эряскодозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Ger">явсезь-авардезь</l>
+     <stg>
+       <st Contlex="GER_">явсезь-авардезь</st>
+     </stg> <phonet>javśəź-avaŕďəź</phonet>
+       <l_ref>явсемс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>parkuen</t>
      </tg>
    </mg>
 </e>
@@ -3658,13 +4160,15 @@
        <st Contlex="GER_">ёколдозь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <m>
+     </m>
    </mg>
 </e>
 </r> 

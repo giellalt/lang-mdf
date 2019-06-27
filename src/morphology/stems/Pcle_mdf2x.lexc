@@ -1,10 +1,8 @@
 
 LEXICON Pcle_mdf2x
 
-улема+Pcle:улема PCLE-EPIST  "varmaan" ;
 апак+Pcle:апак PCLE-NEG  "kieltopartikkeli" ;
 аф+Pcle:аф PCLE-NEG  "ei" ;
-сембода+Pcle+Superl:сембода PCLE-SUPERL  "superlatiivin apusana" ;
 афи+Pcle:афи PCLE_  "eikä" ;
 афоли+Pcle:афоли PCLE_  "kuulemma" ;
 бди+Pcle:бъди PCLE_  "ehkä" ;
@@ -51,6 +49,7 @@ LEXICON Pcle_mdf2x
 рстей+Pcle+Use/SpellNoSugg:рьъстей PCLE_  "" ;
 рязей+Pcle:рязей PCLE_  "" ;
 саты+Pcle:саты PCLE_  "riittää" ;
+сембода+Pcle+Superl:сембода PCLE-SUPERL  "superlatiivin apusana" ;
 сембоц+Pcle:сембоц PCLE_  "yhteensä" ;
 сяда+Pcle:сяда PCLE_  "komparatiivin apusana" ;
 таки+Pcle:таки PCLE_  "kuitenkin" ;
@@ -60,6 +59,7 @@ LEXICON Pcle_mdf2x
 тк+Pcle+Use/SpellNoSugg:тък PCLE_  "" ;
 туй+Pcle:туй PCLE_  "null" ;
 тык+Pcle:тык PCLE_  "" ;
+улема+Pcle:улема PCLE-EPIST  "varmaan" ;
 утль+Pcle:утль PCLE_  "" ;
 уш+Pcle:уш PCLE_  "" ;
 хоть+Pcle:хоть PCLE_  "" ;

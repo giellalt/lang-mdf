@@ -1,13 +1,12 @@
 
 LEXICON Interj_mdf2x
 
-пожалуйста+Interj:пожалуйста FORMULAIC_  "ole hyvä" ;
-сюк+Interj:сюк FORMULAIC_  "kiitos" ;
-аф+Interj:аф INTERJ-NEG  "ei" ;
 а+Interj:а INTERJ_  "ahaa!" ;
 ай+Interj:ай INTERJ_  "oi!" ;
 айда+Interj:айда INTERJ_  "tulkaa!" ;
 аля+Interj:аля INTERJ_  "kyllä" ;
+аляняй+Interj:аляняй VOCATIVE_  "isä hei" ;
+аф+Interj:аф INTERJ-NEG  "ei" ;
 аха+Interj:аха INTERJ_  "ahaa!" ;
 бавак+Interj:бавак INTERJ_  "nuku! (lapsenkieltä)" ;
 баву,% баву+Interj:баву,% баву INTERJ_  "tuudittelusana" ;
@@ -47,10 +46,12 @@ LEXICON Interj_mdf2x
 ошка+Interj:ошка INTERJ_  "odotahan!" ;
 пандя+Interj:пандя INTERJ_  "riittää!" ;
 пежеть+Interj:пежеть INTERJ_  "totta tosiaan" ;
+пожалуйста+Interj:пожалуйста FORMULAIC_  "ole hyvä" ;
 прощай+Interj:прощай INTERJ_  "hyvästi!" ;
 пс-пс+Interj:пс-пс INTERJ_  "" ;
 пс-пс+Interj+Use/SpellNoSugg:пъс-пъс INTERJ_  "" ;
 псянк-псянк+Interj:псянк-псянк INTERJ_  "" ;
+сюк+Interj:сюк FORMULAIC_  "kiitos" ;
 сюкпря+Interj:сюкпря INTERJ_  "kiitos" ;
 тпру+Interj:тпру INTERJ_  "" ;
 тпру+Interj+Use/SpellNoSugg:тъпру INTERJ_  "" ;
@@ -82,4 +83,3 @@ LEXICON Interj_mdf2x
 эх+Interj:эх INTERJ_  "" ;
 эхе+Interj:эхе INTERJ_  "" ;
 юркшт+Interj:юркшт INTERJ_  "hus!" ;
-аляняй+Interj:аляняй VOCATIVE_  "isä hei" ;

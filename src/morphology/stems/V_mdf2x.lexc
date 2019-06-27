@@ -1056,7 +1056,8 @@ LEXICON V_mdf2x
 велемомс+V:велем IV_ANDOMS  "elpyä" ;
 велемфнемс+V:велемфне TV_KUNDAMS  "elvyttää" ;
 велемфтемс+V:велемфть IV_NJAFTEMS  "elvyttää" ;
-вельмомс+V:вельм IV_ANDOMS  "nousta" ;
+вельмомс+v1+V:вельм IV_ANDOMS  "nousta" ;
+вельмомс+v2+V:вельма IV_KUNDAMS  "nousta" ;
 вельмосемс+V:вельмосе IV_KUNDAMS  "nouseskella" ;
 вельмофнемс+V:вельмофне TV_KUNDAMS  "elvyttää" ;
 вельмофтемс+V:вельмофть IV_NJAFTEMS  "elvyttää" ;

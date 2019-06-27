@@ -1,71 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-<e>
-   <lg>
-     <l pos="Qnt">иля</l>
-     <stg>
-       <st Contlex="QNT_">иля</st>
-     </stg>
-   </lg> <pos>PRON</pos> <phonet>iľä</phonet>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Qnt">muu</t>
-       <t pos="Qnt">toinen</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Qnt">autre</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">кажнай</l>
-     <stg>
-       <st Contlex="PRON_">кажнай</st>
-     </stg>
-   </lg> <pos>PRON</pos> <phonet>kažnaj, každaj</phonet>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Pron">jokainen</t>
-     </tg>
-     <xg> <x>тя кажнайти эряви содамс</x> <phonet>ťä kažnajťi eŕavi sodams</phonet>
-       <xt xml:lang="fin">tämä tulee kaikkien tietää</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">васенце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">васенце</st>
-     </stg> <phonet>vaśəńćä</phonet>
-   </lg>
-   <mg>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="A">ensimmäinen</t>
-     </tg>
-     <xg> <x>васенцесь</x> <phonet>vaśəńćəś</phonet>
-       <xt xml:lang="fin">ensinnä(kin)</xt>
-       <xt>ensiksi(kin)</xt>
-     </xg>
-     <xg> <x>васенце маень ши</x> <phonet>vaśəńćə majəń ši</phonet>
-       <xt xml:lang="fin">vappu, vapunpäivä</xt>
-     </xg>
-     <xg> <x>васенцекс</x> <phonet>vaśəńćəks</phonet>
-       <xt xml:lang="fin">aluksi</xt>
-       <xt>ensiksi, ensinnä; ennakko­, alku- esikoinen</xt>
-     </xg>
-     <xg> <x>васенцекс буквась</x> <phonet>vaśəńćəks bukvaś</phonet>
-       <xt xml:lang="fin">alkukirjain</xt>
-     </xg>
-     <xg> <x>васенцеда</x> <phonet>vaśəńćəda</phonet>
-       <xt xml:lang="fin">ensimmäisen kerran</xt>
-       <xt>ensimmäistä kertaa</xt>
-     </xg>
-   </mg>
-</e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e>
    <lg>
      <l pos="Num">васця</l>
@@ -73,13 +6,14 @@
        <st Contlex="NUM_">васця</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -89,13 +23,14 @@
        <st Contlex="NUM_">вася</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -105,13 +40,14 @@
        <st Contlex="NUM-ORD_">ведьгемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -121,69 +57,18 @@
        <st Contlex="NUM-CARD_KAL">ведьгемонь</st>
      </stg> <phonet>veďgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">viisikymmentä.</t>
      </tg>
-     <xg> <x>ведьгемонце</x> <phonet>veďgeməńćä</phonet>
-       <xt xml:lang="fin">viideskymmenes</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Num">кафта</l>
-     <stg>
-       <st Contlex="NUM-CARD_PULA">кафт%{АО%}</st>
-     </stg> <phonet>kafta</phonet>
-   </lg>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="N">kaksi</t>
-     </tg>
-     <xg> <x>кафта пряса</x> <phonet>kaftə pŕasa</phonet>
-       <xt xml:lang="fin">kaksipäinen</xt>
-     </xg>
-     <xg> <x>кафта-колма</x> <phonet>kafta-kolma</phonet>
-       <xt xml:lang="fin">pari kolme</xt>
-     </xg>
-     <xg> <x>шида-кафтода меле</x> <phonet>šidə-kaftədə/-kafttə meľä</phonet>
-       <xt xml:lang="fin">parin päivän päästä</xt>
-     </xg>
-     <xg> <x>недяляда-кафтода меле</x> <phonet>ńeďäľadə-kaftədə meľä</phonet>
-       <xt xml:lang="fin">parin viikon kuluttua</xt>
-     </xg>
-     <xg> <x>шис-кафтос</x> <phonet>šis-kaftəs</phonet>
-       <xt xml:lang="fin">pariksi päiväksi</xt>
-     </xg>
-     <xg> <x>недяляс-кафтос</x> <phonet>ńeďäľas-kaftəs, ńeďäľas-kafts</phonet>
-       <xt xml:lang="fin">pariksi viikoksi</xt>
-     </xg>
-     <xg> <x>шиста-кафтоста</x> <phonet>šista-kaftəsta</phonet>
-       <xt xml:lang="fin">parissa päivässä</xt>
-     </xg>
-     <xg> <x>кафту</x> <phonet>kaftu</phonet>
-       <xt xml:lang="fin">kahtia</xt>
-     </xg>
-     <xg> <x>кафтува</x> <phonet>kaftuva</phonet>
-       <xt xml:lang="fin">(taittaa) kaksinkerroin</xt>
-     </xg>
-     <xg> <x>кафцьке</x> <phonet>kafćkä</phonet>
-       <xt xml:lang="fin">molemmat</xt>
-     </xg>
-     <xg> <x>кафцеконди</x> <phonet>kafćəkəńďi</phonet>
-       <xt xml:lang="fin">molempien, molemmille</xt>
-     </xg>
-     <xg> <x>кафтошка</x> <phonet>kaftəška</phonet>
-       <xt xml:lang="fin">pari (noin kaksi)</xt>
-     </xg>
-     <xg> <x>кафтошка-колмошка</x> <phonet>kaftəška-kolməška</phonet>
-       <xt xml:lang="fin">pari kolme</xt>
-     </xg>
-     <xg> <x>кафтошкаксть</x> <phonet>kaftəškakśť</phonet>
-       <xt xml:lang="fin">parisen kertaa</xt>
+     <xg>
+       <x>ведьгемонце</x> <phonet>veďgeməńćä</phonet>
+       <xt xml:lang="fin">viideskymmenes</xt>
      </xg>
    </mg>
 </e>
@@ -194,18 +79,25 @@
        <st Contlex="NUM-CARD_PULA">вейхкс%{АО%}</st>
      </stg> <phonet>vejxksa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">yhdeksän</t>
      </tg>
-     <xg> <x>вейхксу</x> <phonet>vejxksu</phonet>
+     <defNative/>
+     <xg>
+       <x>вейхксу</x> <phonet>vejxksu</phonet>
        <xt xml:lang="fin">yhdeksään osaan</xt>
      </xg>
-     <xg> <x>вейхксова</x> <phonet>vejxksəva</phonet>
+     <xg>
+       <x>вейхксова</x> <phonet>vejxksəva</phonet>
        <xt xml:lang="fin">yhdeksään osaan</xt>
      </xg>
-     <xg> <x>вейхксоце</x> <phonet>vejxksəćä</phonet>
+     <xg>
+       <x>вейхксоце</x> <phonet>vejxksəćä</phonet>
        <xt xml:lang="fin">yhdeksäs</xt>
      </xg>
    </mg>
@@ -217,13 +109,14 @@
        <st Contlex="NUM-ORD_">вейхксогемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -233,11 +126,15 @@
        <st Contlex="NUM-CARD_KAL">вейхксогемонь</st>
      </stg> <phonet>vejxksəgeməń, vejxksəńgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">yhdeksänkymmentä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -247,13 +144,14 @@
        <st Contlex="NUM-ORD_">вейхксоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -263,55 +161,69 @@
        <st Contlex="NUM_">вейхксоцеда</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">вете</l>
      <stg>
-       <st Contlex="NUM-CARD_">вете</st>
+       <st Contlex="NUM-CARD_AVA">вете</st>
      </stg> <phonet>veťä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">viisi</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Num">cinq</t>
      </tg>
-     <xg> <x>ветеце</x> <phonet>veťəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>ветеце</x> <phonet>veťəćä</phonet>
        <xt xml:lang="fin">viides.</xt>
      </xg>
-     <xg> <x>ветева</x> <phonet>veťəva</phonet>
+     <xg>
+       <x>ветева</x> <phonet>veťəva</phonet>
        <xt xml:lang="fin">viiteen osaan</xt>
      </xg>
-     <xg> <x>ветю</x> <phonet>veťu</phonet>
+     <xg>
+       <x>ветю</x> <phonet>veťu</phonet>
        <xt xml:lang="fin">viiteen osaan</xt>
      </xg>
-     <xg> <x>ветексть</x> <phonet>veťəkśť</phonet>
+     <xg>
+       <x>ветексть</x> <phonet>veťəkśť</phonet>
        <xt xml:lang="fin">viisi kertaa, viidesti</xt>
      </xg>
-     <xg> <x>ветенест</x> <phonet>veťəńəst</phonet>
+     <xg>
+       <x>ветенест</x> <phonet>veťəńəst</phonet>
        <xt xml:lang="fin">he ovat viidestään</xt>
      </xg>
-     <xg> <x>ветень-крда</x> <phonet>veťəń-kərda</phonet>
+     <xg>
+       <x>ветень-крда</x> <phonet>veťəń-kərda</phonet>
        <xt xml:lang="fin">viisinkertainen, viisinkertaisesti</xt>
      </xg>
-     <xg> <x>ветечесь</x> <phonet>veťəčəś</phonet>
+     <xg>
+       <x>ветечесь</x> <phonet>veťəčəś</phonet>
        <xt xml:lang="fin">viides päivä, viidentenä päivänä</xt>
      </xg>
-     <xg> <x>ветешка</x> <phonet>veťəška</phonet>
+     <xg>
+       <x>ветешка</x> <phonet>veťəška</phonet>
        <xt xml:lang="fin">noin viisi, viitisen</xt>
      </xg>
-     <xg> <x>ветешкаксть</x> <phonet>veťəškakśť</phonet>
+     <xg>
+       <x>ветешкаксть</x> <phonet>veťəškakśť</phonet>
        <xt xml:lang="fin">viitisen kertaa</xt>
      </xg>
    </mg>
@@ -323,13 +235,14 @@
        <st Contlex="NUM_">ветицьке</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -339,13 +252,14 @@
        <st Contlex="NUM-CARD_">ифке</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -355,15 +269,21 @@
        <st Contlex="NUM-CARD_PULA">кафкс%{АО%}</st>
      </stg> <phonet>kafksa</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kahdeksan</t>
      </tg>
-     <xg> <x>кафксу</x> <phonet>kafksu</phonet>
+     <defNative/>
+     <xg>
+       <x>кафксу</x> <phonet>kafksu</phonet>
        <xt xml:lang="fin">kahdeksaan osaan</xt>
      </xg>
-     <xg> <x>кафксоксть</x> <phonet>kafksəkśť</phonet>
+     <xg>
+       <x>кафксоксть</x> <phonet>kafksəkśť</phonet>
        <xt xml:lang="fin">kahdeksan kertaa</xt>
      </xg>
    </mg>
@@ -375,13 +295,14 @@
        <st Contlex="NUM-ORD_">кафксогемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -391,11 +312,15 @@
        <st Contlex="NUM-CARD_KAL">кафксогемонь</st>
      </stg> <phonet>kafksəgeməń, kafksəńgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kahdeksankymmentä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -405,13 +330,14 @@
        <st Contlex="NUM-COLL_">кафксонцт</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -421,11 +347,15 @@
        <st Contlex="NUM-ORD_">кафксоце</st>
      </stg> <phonet>kafksəćä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">kahdeksas</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -435,12 +365,17 @@
        <st Contlex="NUM-COLL_">кафонц</st>
      </stg> <phonet>kafənc</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kaksi paria, kahdet</t>
      </tg>
-     <xg> <x>мон рамань кафонц кямот</x> <phonet>mon ramań kafənc kämət</phonet>
+     <defNative/>
+     <xg>
+       <x>мон рамань кафонц кямот</x> <phonet>mon ramań kafənc kämət</phonet>
        <xt xml:lang="fin">ostin kahdet saappaat</xt>
      </xg>
    </mg>
@@ -452,13 +387,14 @@
        <st Contlex="NUM_">кафоньнест</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -468,13 +404,14 @@
        <st Contlex="NUM_">кафонянек</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -484,73 +421,93 @@
        <st Contlex="NUM_">кафонянест</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кафта</l>
      <stg>
-       <st Contlex="NUM-CARD_">кафта</st>
+       <st Contlex="NUM-CARD_PULA">кафт%{АО%}</st>
      </stg> <phonet>kafta</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kaksi</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Num">deux</t>
      </tg>
-     <xg> <x>кафта пряса</x> <phonet>kaftə pŕasa</phonet>
+     <defNative/>
+     <xg>
+       <x>кафта пряса</x> <phonet>kaftə pŕasa</phonet>
        <xt xml:lang="fin">kaksipäinen.</xt>
      </xg>
-     <xg> <x>кафта-колма</x> <phonet>kafta-kolma</phonet>
+     <xg>
+       <x>кафта-колма</x> <phonet>kafta-kolma</phonet>
        <xt xml:lang="fin">pari kolme</xt>
      </xg>
-     <xg> <x>шида-кафтода меле</x> <phonet>šidə-kaftədə/-kafttə meľä</phonet>
+     <xg>
+       <x>шида-кафтода меле</x> <phonet>šidə-kaftədə/-kafttə meľä</phonet>
        <xt xml:lang="fin">parin päivän päästä</xt>
      </xg>
-     <xg> <x>недяляда-кафтода меле</x> <phonet>ńeďäľadə-kaftədə meľä</phonet>
+     <xg>
+       <x>недяляда-кафтода меле</x> <phonet>ńeďäľadə-kaftədə meľä</phonet>
        <xt xml:lang="fin">parin viikon kuluttua</xt>
      </xg>
-     <xg> <x>шис-кафтос</x> <phonet>šis-kaftəs</phonet>
+     <xg>
+       <x>шис-кафтос</x> <phonet>šis-kaftəs</phonet>
        <xt xml:lang="fin">pariksi päiväksi</xt>
      </xg>
-     <xg> <x>недяляс-кафтос</x> <phonet>ńeďäľas-kaftəs, ńeďäľas-kafc</phonet>
+     <xg>
+       <x>недяляс-кафтос</x> <phonet>ńeďäľas-kaftəs, ńeďäľas-kafc</phonet>
        <xt xml:lang="fin">pariksi viikoksi</xt>
      </xg>
-     <xg> <x>шиста-кафтоста</x> <phonet>šista-kaftəsta</phonet>
+     <xg>
+       <x>шиста-кафтоста</x> <phonet>šista-kaftəsta</phonet>
        <xt xml:lang="fin">parissa päivässä</xt>
      </xg>
-     <xg> <x>кафту</x> <phonet>kaftu</phonet>
+     <xg>
+       <x>кафту</x> <phonet>kaftu</phonet>
        <xt xml:lang="fin">kahtia</xt>
      </xg>
-     <xg> <x>кафту керомс</x> <phonet>kaftu kerəms</phonet>
+     <xg>
+       <x>кафту керомс</x> <phonet>kaftu kerəms</phonet>
        <xt xml:lang="fin">leikata kahtia</xt>
      </xg>
-     <xg> <x>кафтува</x> <phonet>kaftuva</phonet>
+     <xg>
+       <x>кафтува</x> <phonet>kaftuva</phonet>
        <xt xml:lang="fin">(taittaa) kaksinkerroin</xt>
      </xg>
-     <xg> <x>кафцьке</x> <phonet>kafćkä</phonet>
+     <xg>
+       <x>кафцьке</x> <phonet>kafćkä</phonet>
        <xt xml:lang="fin">molemmat</xt>
      </xg>
-     <xg> <x>кафцеконди</x> <phonet>kafćəkəńďi</phonet>
+     <xg>
+       <x>кафцеконди</x> <phonet>kafćəkəńďi</phonet>
        <xt xml:lang="fin">molempien, molemmille</xt>
      </xg>
-     <xg> <x>кафтошка</x> <phonet>kaftəška</phonet>
+     <xg>
+       <x>кафтошка</x> <phonet>kaftəška</phonet>
        <xt xml:lang="fin">pari (noin kaksi)</xt>
      </xg>
-     <xg> <x>кафтошка-колмошка</x> <phonet>kaftəška-kolməška</phonet>
+     <xg>
+       <x>кафтошка-колмошка</x> <phonet>kaftəška-kolməška</phonet>
        <xt xml:lang="fin">pari kolme</xt>
      </xg>
-     <xg> <x>кафтошкаксть</x> <phonet>kaftəškakśť</phonet>
+     <xg>
+       <x>кафтошкаксть</x> <phonet>kaftəškakśť</phonet>
        <xt xml:lang="fin">parisen kertaa</xt>
      </xg>
    </mg>
@@ -562,13 +519,14 @@
        <st Contlex="NUM_">кафтоненк</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -578,13 +536,14 @@
        <st Contlex="NUM_">кафтонест</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -594,13 +553,14 @@
        <st Contlex="NUM_">кафтонза</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -610,18 +570,25 @@
        <st Contlex="NUM_">кафтонь</st>
      </stg> <phonet>kaftəń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Qnt">parittain; kaksinkerroin</t>
      </tg>
-     <xg> <x>тя котфсь кафтонь</x> <phonet>ťä kotfś kaftəń</phonet>
+     <defNative/>
+     <xg>
+       <x>тя котфсь кафтонь</x> <phonet>ťä kotfś kaftəń</phonet>
        <xt xml:lang="fin">tämä kangas on kaksinkerroin</xt>
      </xg>
-     <xg> <x>тифтенянь-кафтонянь</x> <phonet>ťifťəńäń-kaftəńäń</phonet>
+     <xg>
+       <x>тифтенянь-кафтонянь</x> <phonet>ťifťəńäń-kaftəńäń</phonet>
        <xt xml:lang="fin">yksittäin, parittain</xt>
      </xg>
-     <xg> <x>кафтонь-крда</x> <phonet>kaftəń-kərda</phonet>
+     <xg>
+       <x>кафтонь-крда</x> <phonet>kaftəń-kərda</phonet>
        <xt xml:lang="fin">kaksinkertainen, kaksinkertaisesti</xt>
      </xg>
    </mg>
@@ -633,13 +600,14 @@
        <st Contlex="NUM_">кафтоня</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -649,13 +617,14 @@
        <st Contlex="NUM_">кафтыцькя</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -665,13 +634,14 @@
        <st Contlex="NUM_">кафтыцькяня</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -681,28 +651,34 @@
        <st Contlex="NUM_">кафцьке</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кевейхксые</l>
      <stg>
-       <st Contlex="NUM-CARD_">кевейхксые</st>
+       <st Contlex="NUM-CARD_AVA">кевейхксые</st>
      </stg> <phonet>kivexksijä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">yhdeksäntoista</t>
      </tg>
-     <xg> <x>кевейхксыеце</x> <phonet>kivexksijəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кевейхксыеце</x> <phonet>kivexksijəćä</phonet>
        <xt xml:lang="fin">yhdeksästoista</xt>
      </xg>
    </mg>
@@ -711,11 +687,14 @@
    <lg>
      <l pos="Num">кеветие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кеветие</st>
+       <st Contlex="NUM-CARD_AVA">кеветие</st>
      </stg> <phonet>kiveťijä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">fifteen</t>
      </tg>
@@ -725,13 +704,17 @@
      <tg xml:lang="fra">
        <t pos="Num">quinze</t>
      </tg>
-     <xg> <x>кеветие минутафтома кемонь частт</x> <phonet>kiveťijä minutaftəma/minutftəmə keməń častt</phonet>
+     <defNative/>
+     <xg>
+       <x>кеветие минутафтома кемонь частт</x> <phonet>kiveťijä minutaftəma/minutftəmə keməń častt</phonet>
        <xt xml:lang="fin">(kello on) viisitoista vaille kymmenen</xt>
      </xg>
-     <xg> <x>кеветиеце</x> <phonet>kiveťijəćä</phonet>
+     <xg>
+       <x>кеветиеце</x> <phonet>kiveťijəćä</phonet>
        <xt xml:lang="fin">viidestoista</xt>
      </xg>
-     <xg> <x>кеветиешка</x> <phonet>kiveťijəška</phonet>
+     <xg>
+       <x>кеветиешка</x> <phonet>kiveťijəška</phonet>
        <xt xml:lang="fin">viitisentoista</xt>
      </xg>
    </mg>
@@ -743,13 +726,14 @@
        <st Contlex="NUM_">кеветицесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -759,27 +743,32 @@
        <st Contlex="NUM_">кевехксыцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемгафксува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемгафксува</st>
+       <st Contlex="NUM-CARD_PULA">кемгафксув%{АО%}</st>
      </stg> <phonet>kemgafksuva, kimgafksuva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kahdeksantoista</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -789,11 +778,15 @@
        <st Contlex="NUM-ORD_">кемгафксувоце</st>
      </stg> <phonet>kemgafksuvəćä, kimgafksuvəćä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">kahdeksastoista</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -803,24 +796,28 @@
        <st Contlex="NUM_">кемгафксуцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемгафтува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемгафтува</st>
+       <st Contlex="NUM-CARD_PULA">кемгафтув%{АО%}</st>
      </stg> <phonet>kemgaftuva, kimgaftuva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">twelve</t>
      </tg>
@@ -830,7 +827,9 @@
      <tg xml:lang="fra">
        <t pos="Num">douze</t>
      </tg>
-     <xg> <x>кемгафтувошка</x> <phonet>kemgaftuvəška, kimgaftuvəška</phonet>
+     <defNative/>
+     <xg>
+       <x>кемгафтувошка</x> <phonet>kemgaftuvəška, kimgaftuvəška</phonet>
        <xt xml:lang="fin">noin kaksitoista</xt>
      </xg>
    </mg>
@@ -842,13 +841,14 @@
        <st Contlex="NUM-ORD_">кемгафтувоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -858,24 +858,28 @@
        <st Contlex="NUM_">кемгафтуцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемголмува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемголмува</st>
+       <st Contlex="NUM-CARD_PULA">кемголмув%{АО%}</st>
      </stg> <phonet>kemgolmuva, kimgolmuva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">thirteen</t>
      </tg>
@@ -885,10 +889,13 @@
      <tg xml:lang="fra">
        <t pos="Num">treize</t>
      </tg>
-     <xg> <x>кемголмувоце</x> <phonet>kemgolmuvəćä, kimgolmuvəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кемголмувоце</x> <phonet>kemgolmuvəćä, kimgolmuvəćä</phonet>
        <xt xml:lang="fin">kolmastoista</xt>
      </xg>
-     <xg> <x>кемголмувошка</x> <phonet>kemgolmuvəška, kimgolmuvəška</phonet>
+     <xg>
+       <x>кемголмувошка</x> <phonet>kemgolmuvəška, kimgolmuvəška</phonet>
        <xt xml:lang="fin">kolmisentoista</xt>
      </xg>
    </mg>
@@ -900,13 +907,14 @@
        <st Contlex="NUM-ORD_">кемголмувоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -916,13 +924,14 @@
        <st Contlex="NUM_">кемголмуцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -932,13 +941,14 @@
        <st Contlex="NUM-ORD_">кемготоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -948,24 +958,28 @@
        <st Contlex="NUM_">кемготоцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемготува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемготува</st>
+       <st Contlex="NUM-CARD_PULA">кемготув%{АО%}</st>
      </stg> <phonet>kemgotuva</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">sixteen</t>
      </tg>
@@ -975,7 +989,9 @@
      <tg xml:lang="fra">
        <t pos="Num">seize</t>
      </tg>
-     <xg> <x>кемготувоце</x> <phonet>kemgotuvəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кемготувоце</x> <phonet>kemgotuvəćä</phonet>
        <xt xml:lang="fin">kuudestoista</xt>
      </xg>
    </mg>
@@ -987,13 +1003,14 @@
        <st Contlex="NUM-ORD_">кемготувоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1003,13 +1020,14 @@
        <st Contlex="NUM_">кемготуцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1019,28 +1037,34 @@
        <st Contlex="NUM_">кеменькст</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемзисемге</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемзисемге</st>
+       <st Contlex="NUM-CARD_AVA">кемзисемге</st>
      </stg> <phonet>kemźiśəmgä, kimźiśəmgä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">seitsemäntoista</t>
      </tg>
-     <xg> <x>кемзисемгоце</x> <phonet>kemźiśəmgəćä, kimźiśəmgəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кемзисемгоце</x> <phonet>kemźiśəmgəćä, kimźiśəmgəćä</phonet>
        <xt xml:lang="fin">seitsemästoista.</xt>
      </xg>
    </mg>
@@ -1052,13 +1076,14 @@
        <st Contlex="NUM-ORD_">кемзисемгоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1068,24 +1093,28 @@
        <st Contlex="NUM_">кемзисемцесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">кемнилие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемнилие</st>
+       <st Contlex="NUM-CARD_AVA">кемнилие</st>
      </stg> <phonet>kemńiľijä, kimńiľijä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">fourteen</t>
      </tg>
@@ -1095,7 +1124,9 @@
      <tg xml:lang="fra">
        <t pos="Num">quatorze</t>
      </tg>
-     <xg> <x>кемнилиеце</x> <phonet>kemńiľijəćä, kimńiľijəćä, kimńiľəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кемнилиеце</x> <phonet>kemńiľijəćä, kimńiľijəćä, kimńiľəćä</phonet>
        <xt xml:lang="fin">neljästoista</xt>
      </xg>
    </mg>
@@ -1107,13 +1138,14 @@
        <st Contlex="NUM_">кемнилицесь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1123,13 +1155,14 @@
        <st Contlex="NUM_">кемоння</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1139,13 +1172,14 @@
        <st Contlex="NUM-ORD_">кемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1155,27 +1189,37 @@
        <st Contlex="NUM-CARD_KAL">кемонь</st>
      </stg> <phonet>keməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kymmenen</t>
      </tg>
-     <xg> <x>кемонь кизоса идь</x> <phonet>keməń kizəs(ə) iď</phonet>
+     <defNative/>
+     <xg>
+       <x>кемонь кизоса идь</x> <phonet>keməń kizəs(ə) iď</phonet>
        <xt xml:lang="fin">kymmenvuotias lapsi</xt>
      </xg>
-     <xg> <x>кемоню</x> <phonet>keməńu</phonet>
+     <xg>
+       <x>кемоню</x> <phonet>keməńu</phonet>
        <xt xml:lang="fin">kymmeneen osaan</xt>
      </xg>
-     <xg> <x>кемоньксть</x> <phonet>keməńkśť, keməńkśť</phonet>
+     <xg>
+       <x>кемоньксть</x> <phonet>keməńkśť, keməńkśť</phonet>
        <xt xml:lang="fin">kymmenen kertaa</xt>
      </xg>
-     <xg> <x>кемонце</x> <phonet>keməńćä</phonet>
+     <xg>
+       <x>кемонце</x> <phonet>keməńćä</phonet>
        <xt xml:lang="fin">kymmenes</xt>
      </xg>
-     <xg> <x>кемонцекс</x> <phonet>keməńćəks</phonet>
+     <xg>
+       <x>кемонцекс</x> <phonet>keməńćəks</phonet>
        <xt xml:lang="fin">kymmenesosa</xt>
      </xg>
-     <xg> <x>кемоньшка</x> <phonet>keməńška, keməńčka</phonet>
+     <xg>
+       <x>кемоньшка</x> <phonet>keməńška, keməńčka</phonet>
        <xt xml:lang="fin">kymmenkunta</xt>
      </xg>
    </mg>
@@ -1184,11 +1228,14 @@
    <lg>
      <l pos="Num">кефкие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кефкие</st>
+       <st Contlex="NUM-CARD_AVA">кефкие</st>
      </stg> <phonet>kefkijä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="Num">eleven</t>
      </tg>
@@ -1198,7 +1245,9 @@
      <tg xml:lang="fra">
        <t pos="Num">onze</t>
      </tg>
-     <xg> <x>кефкиеце</x> <phonet>kefkijəćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кефкиеце</x> <phonet>kefkijəćä</phonet>
        <xt xml:lang="fin">yhdestoista</xt>
      </xg>
    </mg>
@@ -1210,13 +1259,14 @@
        <st Contlex="NUM-ORD_">кодгемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1226,12 +1276,17 @@
        <st Contlex="NUM-CARD_KAL">кодгемонь</st>
      </stg> <phonet>kodgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kuusikymmentä</t>
      </tg>
-     <xg> <x>кодгемонце</x> <phonet>kodgeməńćä</phonet>
+     <defNative/>
+     <xg>
+       <x>кодгемонце</x> <phonet>kodgeməńćä</phonet>
        <xt xml:lang="fin">kuudeskymmenes</xt>
      </xg>
    </mg>
@@ -1243,54 +1298,72 @@
        <st Contlex="NUM-CARD_PULA">колм%{АО%}</st>
      </stg> <phonet>kolma</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kolme</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Num">trois</t>
      </tg>
-     <xg> <x>колмоце</x> <phonet>kolməćä</phonet>
+     <defNative/>
+     <xg>
+       <x>колмоце</x> <phonet>kolməćä</phonet>
        <xt xml:lang="fin">kolmas</xt>
      </xg>
-     <xg> <x>колму</x> <phonet>kolmu</phonet>
+     <xg>
+       <x>колму</x> <phonet>kolmu</phonet>
        <xt xml:lang="fin">kolmeen osaan</xt>
      </xg>
-     <xg> <x>колмова</x> <phonet>kolməva</phonet>
+     <xg>
+       <x>колмова</x> <phonet>kolməva</phonet>
        <xt xml:lang="fin">kolmeen suuntaan</xt>
      </xg>
-     <xg> <x>колмоксть</x> <phonet>kolməkśť</phonet>
+     <xg>
+       <x>колмоксть</x> <phonet>kolməkśť</phonet>
        <xt xml:lang="fin">kolme kertaa, kolmesti</xt>
      </xg>
-     <xg> <x>колмоксне</x> <phonet>kolməksńä</phonet>
+     <xg>
+       <x>колмоксне</x> <phonet>kolməksńä</phonet>
        <xt xml:lang="fin">kaikki kolme</xt>
      </xg>
-     <xg> <x>колмонь-крда</x> <phonet>kolməń-kərda</phonet>
+     <xg>
+       <x>колмонь-крда</x> <phonet>kolməń-kərda</phonet>
        <xt xml:lang="fin">1. kolmesti, kolme kertaa. 2. kolminkertainen.</xt>
      </xg>
-     <xg> <x>колмонцне</x> <phonet>kolməncńä</phonet>
+     <xg>
+       <x>колмонцне</x> <phonet>kolməncńä</phonet>
        <xt xml:lang="fin">kolmasosa niistä</xt>
      </xg>
-     <xg> <x>колмоцеда</x> <phonet>kolməćəda</phonet>
+     <xg>
+       <x>колмоцеда</x> <phonet>kolməćəda</phonet>
        <xt xml:lang="fin">kolmannen kerran</xt>
      </xg>
-     <xg> <x>колмоцьке</x> <phonet>kolməćkä</phonet>
+     <xg>
+       <x>колмоцьке</x> <phonet>kolməćkä</phonet>
        <xt xml:lang="fin">kaikki kolme</xt>
      </xg>
-     <xg> <x>колмошка</x> <phonet>kolməška</phonet>
+     <xg>
+       <x>колмошка</x> <phonet>kolməška</phonet>
        <xt xml:lang="fin">kolmisen</xt>
      </xg>
-     <xg> <x>кафтошка-колмошка</x> <phonet>kaftəška-kolməška</phonet>
+     <xg>
+       <x>кафтошка-колмошка</x> <phonet>kaftəška-kolməška</phonet>
        <xt xml:lang="fin">pari-kolme</xt>
      </xg>
-     <xg> <x>колмошкаксть</x> <phonet>kolməškakśť</phonet>
+     <xg>
+       <x>колмошкаксть</x> <phonet>kolməškakśť</phonet>
        <xt xml:lang="fin">kolmisen kertaa</xt>
      </xg>
-     <xg> <x>кафта-колма</x> <phonet>kaftə-kolma</phonet>
+     <xg>
+       <x>кафта-колма</x> <phonet>kaftə-kolma</phonet>
        <xt xml:lang="fin">pari-kolme</xt>
      </xg>
-     <xg> <x>колма-ниле</x> <phonet>kolmə-ńilä</phonet>
+     <xg>
+       <x>колма-ниле</x> <phonet>kolmə-ńilä</phonet>
        <xt xml:lang="fin">kolme, neljä; muutama</xt>
      </xg>
    </mg>
@@ -1302,13 +1375,14 @@
        <st Contlex="NUM-ORD_">колмогемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1318,12 +1392,17 @@
        <st Contlex="NUM-CARD_KAL">колмогемонь</st>
      </stg> <phonet>kolməgeməń, kolməńgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kolmekymmentä</t>
      </tg>
-     <xg> <x>колмогемоньшка</x> <phonet>kolməgeməńška, kolməńgeməńčka</phonet>
+     <defNative/>
+     <xg>
+       <x>колмогемоньшка</x> <phonet>kolməgeməńška, kolməńgeməńčka</phonet>
        <xt xml:lang="fin">kolmisenkymmentä</xt>
      </xg>
    </mg>
@@ -1335,13 +1414,14 @@
        <st Contlex="NUM_">колмонза</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1351,13 +1431,14 @@
        <st Contlex="NUM-COLL_">колмонц</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1367,13 +1448,14 @@
        <st Contlex="NUM_">колмонь-колмонь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1383,13 +1465,14 @@
        <st Contlex="NUM_">колмоня</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1399,13 +1482,14 @@
        <st Contlex="NUM-ORD_">колмоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1415,13 +1499,14 @@
        <st Contlex="NUM_">колмоцьке</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1431,12 +1516,17 @@
        <st Contlex="NUM-ORD_">комозце</st>
      </stg> <phonet>koməzćä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">kahdeskymmenes</t>
      </tg>
-     <xg> <x>комозце кизотне</x> <phonet>koməzćə kizəťńä</phonet>
+     <defNative/>
+     <xg>
+       <x>комозце кизотне</x> <phonet>koməzćə kizəťńä</phonet>
        <xt xml:lang="fin">20-luku</xt>
      </xg>
    </mg>
@@ -1448,13 +1538,14 @@
        <st Contlex="NUM_">комсенцт</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1464,11 +1555,15 @@
        <st Contlex="NUM-CARD_">комсь</st>
      </stg> <phonet>komś, koməś</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kaksikymmentä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1478,30 +1573,41 @@
        <st Contlex="NUM-CARD_PULA">кот%{АО%}</st>
      </stg> <phonet>kota</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">kuusi</t>
      </tg>
-     <xg> <x>кодгемонь кота</x> <phonet>kodgeməń kota</phonet>
+     <defNative/>
+     <xg>
+       <x>кодгемонь кота</x> <phonet>kodgeməń kota</phonet>
        <xt xml:lang="fin">kuusikymmentäkuusi</xt>
      </xg>
-     <xg> <x>котоце</x> <phonet>kotəćä</phonet>
+     <xg>
+       <x>котоце</x> <phonet>kotəćä</phonet>
        <xt xml:lang="fin">kuudes</xt>
      </xg>
-     <xg> <x>коту</x> <phonet>kotu</phonet>
+     <xg>
+       <x>коту</x> <phonet>kotu</phonet>
        <xt xml:lang="fin">kuuteen osaan</xt>
      </xg>
-     <xg> <x>котоксть</x> <phonet>kotəkśť</phonet>
+     <xg>
+       <x>котоксть</x> <phonet>kotəkśť</phonet>
        <xt xml:lang="fin">kuusi kertaa</xt>
      </xg>
-     <xg> <x>котова</x> <phonet>kotəva</phonet>
+     <xg>
+       <x>котова</x> <phonet>kotəva</phonet>
        <xt xml:lang="fin">kuuteen suuntaan</xt>
      </xg>
-     <xg> <x>котонь-котонь</x> <phonet>kotəń-kotəń</phonet>
+     <xg>
+       <x>котонь-котонь</x> <phonet>kotəń-kotəń</phonet>
        <xt xml:lang="fin">kuusin</xt>
      </xg>
-     <xg> <x>коточесь</x> <phonet>kotəčəś</phonet>
+     <xg>
+       <x>коточесь</x> <phonet>kotəčəś</phonet>
        <xt xml:lang="fin">kuudentena päivänä</xt>
      </xg>
    </mg>
@@ -1513,13 +1619,14 @@
        <st Contlex="NUM_">котонь-котонь</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1529,53 +1636,14 @@
        <st Contlex="NUM-ORD_">котоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Qnt">лама</l>
-     <stg>
-       <st Contlex="QNT_">лама</st>
-     </stg>
-   </lg> <pos>Qnt</pos> <phonet>lama</phonet>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Qnt">paljon</t>
-       <t pos="Qnt">monta</t>
-       <t pos="Qnt">moni-</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Qnt">beaucoup</t>
-     </tg>
-     <xg> <x>лама числа</x> <phonet>lamə čisla</phonet>
-       <xt xml:lang="fin">(kiel.) monikko</xt>
-     </xg>
-     <xg> <x>лама кизонь</x> <phonet>lamə kizəń</phonet>
-       <xt xml:lang="fin">monivuotinen</xt>
-     </xg>
-     <xg> <x>лама этажса</x> <phonet>lam(ə) etažsa</phonet>
-       <xt xml:lang="fin">monikerroksinen</xt>
-     </xg>
-     <xg> <x>ламода</x> <phonet>laməda</phonet>
-       <xt xml:lang="fin">paljon</xt>
-     </xg>
-     <xg> <x>ламода лама</x> <phonet>lamədə lama</phonet>
-       <xt xml:lang="fin">valtavan paljon</xt>
-     </xg>
-     <xg> <x>ламода сире</x> <phonet>lamədə śiŕä</phonet>
-       <xt xml:lang="fin">paljon vanhempi</xt>
-     </xg>
-     <xg> <x>ламошка</x> <phonet>laməška</phonet>
-       <xt xml:lang="fin">aika paljon</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -1585,56 +1653,14 @@
        <st Contlex="NUM-COLL_">ламонц</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">кржа</l>
-     <stg>
-       <st Contlex="ADV_">кржа</st>
-     </stg>
-   </lg> <pos>Adv</pos>
-   <mg>
-     <m>
-       <head/>
      <defNative/>
-     </m>
-     <tg xml:lang="fin">
-       <t pos="Qnt">vähän</t>
-       <t pos="Qnt">vähemmän</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Qnt">peu</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Qnt">мзярошка</l>
-     <stg>
-       <st Contlex="QNT_">мзярошка</st>
-     </stg>
-   </lg> <pos>Qnt</pos>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
-     <tg xml:lang="fin">
-       <t pos="Qnt">kuinka paljon suunnilleen</t>
-       <t pos="Qnt">jonkin verran</t>
-       <t pos="Qnt">muutama</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Qnt">quelques</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1644,61 +1670,77 @@
        <st Contlex="NUM_">миллионнай</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">ниле</l>
      <stg>
-       <st Contlex="NUM-CARD_">ниле</st>
+       <st Contlex="NUM-CARD_AVA">ниле</st>
      </stg> <phonet>ńiľä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">neljä</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Num">quatre</t>
      </tg>
-     <xg> <x>ниле кядьса-пильгса</x> <phonet>ńiľə käcə-piľksa</phonet>
+     <defNative/>
+     <xg>
+       <x>ниле кядьса-пильгса</x> <phonet>ńiľə käcə-piľksa</phonet>
        <xt xml:lang="fin">nelinkontin</xt>
      </xg>
-     <xg> <x>ниле пильгса якамс</x> <phonet>ńiľə piľksə jakams</phonet>
+     <xg>
+       <x>ниле пильгса якамс</x> <phonet>ńiľə piľksə jakams</phonet>
        <xt xml:lang="fin">kulkea nelinkontin</xt>
      </xg>
-     <xg> <x>ниле сятт</x> <phonet>ńiľə śatt</phonet>
+     <xg>
+       <x>ниле сятт</x> <phonet>ńiľə śatt</phonet>
        <xt xml:lang="fin">neljäsataa</xt>
      </xg>
-     <xg> <x>нилю</x> <phonet>ńiľu</phonet>
+     <xg>
+       <x>нилю</x> <phonet>ńiľu</phonet>
        <xt xml:lang="fin">neljään osaan</xt>
      </xg>
-     <xg> <x>нилева</x> <phonet>ńiľəva</phonet>
+     <xg>
+       <x>нилева</x> <phonet>ńiľəva</phonet>
        <xt xml:lang="fin">nelin kerroin, nelinkertaisesti</xt>
      </xg>
-     <xg> <x>мянцемс нилева</x> <phonet>mäńćəms ńiľəva</phonet>
+     <xg>
+       <x>мянцемс нилева</x> <phonet>mäńćəms ńiľəva</phonet>
        <xt xml:lang="fin">taittaa nelin kerroin</xt>
      </xg>
-     <xg> <x>нилексть</x> <phonet>ńiľəkśť</phonet>
+     <xg>
+       <x>нилексть</x> <phonet>ńiľəkśť</phonet>
        <xt xml:lang="fin">neljästi, neljä kertaa</xt>
      </xg>
-     <xg> <x>нилень-нилень</x> <phonet>ńiľəń-ńiľəń</phonet>
+     <xg>
+       <x>нилень-нилень</x> <phonet>ńiľəń-ńiľəń</phonet>
        <xt xml:lang="fin">nelittäin</xt>
      </xg>
-     <xg> <x>нилеце</x> <phonet>ńiľəćä</phonet>
+     <xg>
+       <x>нилеце</x> <phonet>ńiľəćä</phonet>
        <xt xml:lang="fin">neljäs</xt>
      </xg>
-     <xg> <x>ниленцне</x> <phonet>ńiľəncńä</phonet>
+     <xg>
+       <x>ниленцне</x> <phonet>ńiľəncńä</phonet>
        <xt xml:lang="fin">neljännes niistä</xt>
      </xg>
-     <xg> <x>колма-ниле</x> <phonet>kolmə-ńiľä</phonet>
+     <xg>
+       <x>колма-ниле</x> <phonet>kolmə-ńiľä</phonet>
        <xt xml:lang="fin">kolme, neljä</xt>
      </xg>
    </mg>
@@ -1710,13 +1752,14 @@
        <st Contlex="NUM-ORD_">нильгемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1726,11 +1769,15 @@
        <st Contlex="NUM-CARD_KAL">нильгемонь</st>
      </stg> <phonet>ńiľgeməń, ńiľəńgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">neljäkymmentä</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1740,13 +1787,14 @@
        <st Contlex="NUM_">ома</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1756,33 +1804,45 @@
        <st Contlex="NUM-ORD_">омбоце</st>
      </stg> <phonet>ombəćä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="A">toinen</t>
      </tg>
-     <xg> <x>омбоцекс</x> <phonet>ombəćəks</phonet>
+     <defNative/>
+     <xg>
+       <x>омбоцекс</x> <phonet>ombəćəks</phonet>
        <xt xml:lang="fin">toiseksi.</xt>
      </xg>
-     <xg> <x>омбоцети</x> <phonet>ombəćəťi</phonet>
+     <xg>
+       <x>омбоцети</x> <phonet>ombəćəťi</phonet>
        <xt xml:lang="fin">toiselle</xt>
      </xg>
-     <xg> <x>омбоцеда</x> <phonet>ombəćəda</phonet>
+     <xg>
+       <x>омбоцеда</x> <phonet>ombəćəda</phonet>
        <xt xml:lang="fin">toistamiseen, toisen kerran</xt>
      </xg>
-     <xg> <x>тон омбоцеда молят</x> <phonet>ton ombəćədə moľat</phonet>
+     <xg>
+       <x>тон омбоцеда молят</x> <phonet>ton ombəćədə moľat</phonet>
        <xt xml:lang="fin">menet toisen kerran</xt>
      </xg>
-     <xg> <x>омбоцеда якань тоза</x> <phonet>ombəćədə jakań toza</phonet>
+     <xg>
+       <x>омбоцеда якань тоза</x> <phonet>ombəćədə jakań toza</phonet>
        <xt xml:lang="fin">kävin siellä toista kertaa</xt>
      </xg>
-     <xg> <x>омбонцне</x> <phonet>ombəncńä</phonet>
+     <xg>
+       <x>омбонцне</x> <phonet>ombəncńä</phonet>
        <xt xml:lang="fin">(mon.) toiset, muut</xt>
      </xg>
-     <xg> <x>финцне ... омбонцне</x> <phonet>fincńä … ombəncńä</phonet>
+     <xg>
+       <x>финцне ... омбонцне</x> <phonet>fincńä … ombəncńä</phonet>
        <xt xml:lang="fin">(mon.) toiset … toiset.</xt>
      </xg>
-     <xg> <x>омбоцетне</x> <phonet>ombəćəťńä</phonet>
+     <xg>
+       <x>омбоцетне</x> <phonet>ombəćəťńä</phonet>
        <xt xml:lang="fin">(mon., määr.) toiset, muut</xt>
      </xg>
    </mg>
@@ -1794,30 +1854,14 @@
        <st Contlex="NUM_">первай</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Qnt">сембе</l>
-     <stg>
-       <st Contlex="QNT_">сембе</st>
-     </stg>
-   </lg> <pos>Qnt</pos> <phonet>śembä</phonet>
-   <mg>
      <defNative/>
-     <tg xml:lang="fin">
-       <t pos="Qnt">kaikki</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Qnt">tout</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -1827,13 +1871,14 @@
        <st Contlex="NUM-ORD_">сизьгемонце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1843,35 +1888,47 @@
        <st Contlex="NUM-CARD_KAL">сизьгемонь</st>
      </stg> <phonet>śiźgeməń, śəźgeməń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">seitsemänkymmentä.</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">сисем</l>
      <stg>
-       <st Contlex="NUM-CARD_">сисем</st>
+       <st Contlex="NUM-CARD_KAL">сисем</st>
      </stg> <phonet>śiśəm</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">seitsemän</t>
      </tg>
-     <xg> <x>сисем нежеса нежетьф</x> <phonet>śiśəm ńežəsə ńežəťf</phonet>
+     <defNative/>
+     <xg>
+       <x>сисем нежеса нежетьф</x> <phonet>śiśəm ńežəsə ńežəťf</phonet>
        <xt xml:lang="fin">kaatunut, luhistunut.</xt>
      </xg>
-     <xg> <x>сисем пинеса аф корхтави</x> <phonet>śiśəm pińəs(ə) af korxtavi</phonet>
+     <xg>
+       <x>сисем пинеса аф корхтави</x> <phonet>śiśəm pińəs(ə) af korxtavi</phonet>
        <xt xml:lang="fin">hänen kanssaan ei voi keskustella.</xt>
      </xg>
-     <xg> <x>сисему</x> <phonet>śiśəmu</phonet>
+     <xg>
+       <x>сисему</x> <phonet>śiśəmu</phonet>
        <xt xml:lang="fin">seitsemään osaan</xt>
      </xg>
-     <xg> <x>сисемце</x> <phonet>śiśəmćä</phonet>
+     <xg>
+       <x>сисемце</x> <phonet>śiśəmćä</phonet>
        <xt xml:lang="fin">seitsemäs</xt>
      </xg>
    </mg>
@@ -1883,21 +1940,29 @@
        <st Contlex="NUM-CARD_">сяда</st>
      </stg> <phonet>śada</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">sata</t>
      </tg>
-     <xg> <x>сядоксть</x> <phonet>śadəkśť</phonet>
+     <defNative/>
+     <xg>
+       <x>сядоксть</x> <phonet>śadəkśť</phonet>
        <xt xml:lang="fin">sata kertaa</xt>
      </xg>
-     <xg> <x>лама сятт</x> <phonet>lamə śatt</phonet>
+     <xg>
+       <x>лама сятт</x> <phonet>lamə śatt</phonet>
        <xt xml:lang="fin">useita satoja</xt>
      </xg>
-     <xg> <x>ниле сятт</x> <phonet>ńiľə śatt</phonet>
+     <xg>
+       <x>ниле сятт</x> <phonet>ńiľə śatt</phonet>
        <xt xml:lang="fin">neljäsataa</xt>
      </xg>
-     <xg> <x>сядошка</x> <phonet>śadəška</phonet>
+     <xg>
+       <x>сядошка</x> <phonet>śadəška</phonet>
        <xt xml:lang="fin">satakunta, noin sata</xt>
      </xg>
    </mg>
@@ -1909,13 +1974,14 @@
        <st Contlex="NUM-ORD_">сядоце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1925,12 +1991,17 @@
        <st Contlex="NUM_">тифтень</st>
      </stg> <phonet>ťifťəń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Adv">yksitellen</t>
      </tg>
-     <xg> <x>тифтень-тифтень</x> <phonet>ťifťəń-ťifťəń</phonet>
+     <defNative/>
+     <xg>
+       <x>тифтень-тифтень</x> <phonet>ťifťəń-ťifťəń</phonet>
        <xt xml:lang="fin">yksitellen</xt>
      </xg>
    </mg>
@@ -1939,32 +2010,34 @@
    <lg>
      <l pos="Num">триллион</l>
      <stg>
-       <st Contlex="NUM-CARD_">триллион</st>
+       <st Contlex="NUM-CARD_KAL">триллион</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Num">тыща</l>
      <stg>
-       <st Contlex="NUM-CARD_">тыща</st>
+       <st Contlex="NUM-CARD_AVA">тыща</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1974,13 +2047,14 @@
        <st Contlex="NUM-ORD_">тёжянце</st>
      </stg>
    </lg>
-   <mg>
-     <m>
-       <head/>
-     <defNative/>
-     </m>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin"> <t/>
      </tg>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -1990,24 +2064,33 @@
        <st Contlex="NUM-CARD_KAL">тёжянь</st>
      </stg> <phonet>ťožäń</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">tuhat</t>
      </tg>
-     <xg> <x>тёжянце</x> <phonet>ťožäńćä</phonet>
+     <defNative/>
+     <xg>
+       <x>тёжянце</x> <phonet>ťožäńćä</phonet>
        <xt xml:lang="fin">tuhannes</xt>
      </xg>
-     <xg> <x>тёжяньц</x> <phonet>ťožäńc</phonet>
+     <xg>
+       <x>тёжяньц</x> <phonet>ťožäńc</phonet>
        <xt xml:lang="fin">tuhanteen asti</xt>
      </xg>
-     <xg> <x>сяда тёжянь</x> <phonet>śadə ťožäń</phonet>
+     <xg>
+       <x>сяда тёжянь</x> <phonet>śadə ťožäń</phonet>
        <xt xml:lang="fin">satatuhatta</xt>
      </xg>
-     <xg> <x>тёжянь-тёжятть</x> <phonet>ťožäń-ťožäťť</phonet>
+     <xg>
+       <x>тёжянь-тёжятть</x> <phonet>ťožäń-ťožäťť</phonet>
        <xt xml:lang="fin">(mon.) monta tuhatta, useita tuhansia; miljoona</xt>
      </xg>
-     <xg> <x>тёжяньчка</x> <phonet>ťožäńčka</phonet>
+     <xg>
+       <x>тёжяньчка</x> <phonet>ťožäńčka</phonet>
        <xt xml:lang="fin">noin tuhat, tuhatkunta</xt>
      </xg>
    </mg>
@@ -2019,12 +2102,17 @@
        <st Contlex="NUM-COLL_">финц</st>
      </stg> <phonet>finc</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Qnt">pari</t>
      </tg>
-     <xg> <x>финц кямот</x> <phonet>finc kämət</phonet>
+     <defNative/>
+     <xg>
+       <x>финц кямот</x> <phonet>finc kämət</phonet>
        <xt xml:lang="fin">saapaspari</xt>
      </xg>
    </mg>
@@ -2033,46 +2121,59 @@
    <lg>
      <l pos="Num">фкя</l>
      <stg>
-       <st Contlex="NUM-CARD_">фкя</st>
-       <st Contlex="NUM-CARD_" status="Use/SpellNoSugg">фъкя</st>
+       <st Contlex="NUM-CARD_AVA">фкя</st>
      </stg> <phonet>fkä</phonet>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="Num">yksi</t>
      </tg>
      <tg xml:lang="fra">
        <t pos="Num">un</t>
      </tg>
-     <xg> <x>фкат</x> <phonet>fkat</phonet>
+     <defNative/>
+     <xg>
+       <x>фкат</x> <phonet>fkat</phonet>
        <xt xml:lang="fin">(mon.) samanlaiset, yhdenvertaiset</xt>
      </xg>
-     <xg> <x>фкя кядь</x> <phonet>fkä käď</phonet>
+     <xg>
+       <x>фкя кядь</x> <phonet>fkä käď</phonet>
        <xt xml:lang="fin">yksikätinen, käsipuoli</xt>
      </xg>
-     <xg> <x>фкятне</x> <phonet>fkäťńä</phonet>
+     <xg>
+       <x>фкятне</x> <phonet>fkäťńä</phonet>
        <xt xml:lang="fin">(mon.) jotkut</xt>
      </xg>
-     <xg> <x>фкявок аф</x> <phonet>fkävək af</phonet>
+     <xg>
+       <x>фкявок аф</x> <phonet>fkävək af</phonet>
        <xt xml:lang="fin">ei yhtään</xt>
      </xg>
-     <xg> <x>фкя-тяка</x> <phonet>fkä-ťaka</phonet>
+     <xg>
+       <x>фкя-тяка</x> <phonet>fkä-ťaka</phonet>
        <xt xml:lang="fin">ainoa, ainut</xt>
      </xg>
-     <xg> <x>фкя-фкянь</x> <phonet>fkä-fkäń</phonet>
+     <xg>
+       <x>фкя-фкянь</x> <phonet>fkä-fkäń</phonet>
        <xt xml:lang="fin">1. toisiaan, toinen toistaan 2. toistensa, toinen toisensa</xt>
      </xg>
-     <xg> <x>фкя-фкянь ётазь</x> <phonet>fkä-fkäń jotaź</phonet>
+     <xg>
+       <x>фкя-фкянь ётазь</x> <phonet>fkä-fkäń jotaź</phonet>
        <xt xml:lang="fin">kilpaa.</xt>
      </xg>
-     <xg> <x>фкя-фкянь лангс нежедезь</x> <phonet>fkä-fkäń laŋks ńežəďəź</phonet>
+     <xg>
+       <x>фкя-фкянь лангс нежедезь</x> <phonet>fkä-fkäń laŋks ńežəďəź</phonet>
        <xt xml:lang="fin">toisiaan tukien</xt>
      </xg>
-     <xg> <x>фкяшкаста</x> <phonet>fkäškasta</phonet>
+     <xg>
+       <x>фкяшкаста</x> <phonet>fkäškasta</phonet>
        <xt xml:lang="fin">suunnilleen samoin</xt>
      </xg>
-     <xg> <x>фкянчкасот</x> <phonet>fkäńčkasət</phonet>
+     <xg>
+       <x>фкянчкасот</x> <phonet>fkäńčkasət</phonet>
        <xt xml:lang="fin">samanmalliset</xt>
      </xg>
    </mg>
