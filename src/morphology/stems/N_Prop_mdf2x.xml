@@ -1,4844 +1,4812 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ёнка</l>
-
-      <stg>
-        <st Contlex="PROP_">Ёнка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Абра</l>
-
-      <stg>
-        <st Contlex="PROP_">Абра</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Мордва</l>
-
-      <stg>
-        <st Contlex="PROP_">Мордва</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ага</l>
-
-      <stg>
-        <st Contlex="PROP_">Ага</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Агу</l>
-
-      <stg>
-        <st Contlex="PROP_">Агу</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Агуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Агуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Адаж</l>
-
-      <stg>
-        <st Contlex="PROP_">Адаж</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Азю</l>
-
-      <stg>
-        <st Contlex="PROP_">Азю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Азёша</l>
-
-      <stg>
-        <st Contlex="PROP_">Азёша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Акаж</l>
-
-      <stg>
-        <st Contlex="PROP_">Акаж</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аксю</l>
-
-      <stg>
-        <st Contlex="PROP_">Аксю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аксюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Аксюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аксюта</l>
-
-      <stg>
-        <st Contlex="PROP_">Аксюта</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Акся</l>
-
-      <stg>
-        <st Contlex="PROP_">Акся</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Акулина</l>
-
-      <stg>
-        <st Contlex="PROP_">Акулина</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алда</l>
-
-      <stg>
-        <st Contlex="PROP_">Алда</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алдакей</l>
-
-      <stg>
-        <st Contlex="PROP_">Алдакей</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алдуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Алдуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аля</l>
-
-      <stg>
-        <st Contlex="PROP_">Аля</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алякс</l>
-
-      <stg>
-        <st Contlex="PROP_">Алякс</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алёкш</l>
-
-      <stg>
-        <st Contlex="PROP_">Алёкш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алёша</l>
-
-      <stg>
-        <st Contlex="PROP_">Алёша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Алёшка</l>
-
-      <stg>
-        <st Contlex="PROP_">Алёшка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Андрей</l>
-
-      <stg>
-        <st Contlex="PROP_">Андрей</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Андрейня</l>
-
-      <stg>
-        <st Contlex="PROP_">Андрейня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Анна</l>
-
-      <stg>
-        <st Contlex="PROP_">Анна</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аньшня</l>
-
-      <stg>
-        <st Contlex="PROP_">Аньшня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аню</l>
-
-      <stg>
-        <st Contlex="PROP_">Аню</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Арина</l>
-
-      <stg>
-        <st Contlex="PROP_">Арина</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Аринушка</l>
-
-      <stg>
-        <st Contlex="PROP_">Аринушка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Артём</l>
-
-      <stg>
-        <st Contlex="PROP_">Артём</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Арьтюш</l>
-
-      <stg>
-        <st Contlex="PROP_">Арьтюш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Арю</l>
-
-      <stg>
-        <st Contlex="PROP_">Арю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Атерь</l>
-
-      <stg>
-        <st Contlex="PROP_">Атерь</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Атерьня</l>
-
-      <stg>
-        <st Contlex="PROP_">Атерьня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Атьря</l>
-
-      <stg>
-        <st Contlex="PROP_">Атьря</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Библия</l>
-
-      <stg>
-        <st Contlex="PROP_AVA">Библия</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Божиматерь</l>
-
-      <stg>
-        <st Contlex="PROP_">Божиматерь</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ваня</l>
-
-      <stg>
-        <st Contlex="PROP_">Ваня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Вара</l>
-
-      <stg>
-        <st Contlex="PROP_">Вара</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Вараня</l>
-
-      <stg>
-        <st Contlex="PROP_">Вараня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Васька</l>
-
-      <stg>
-        <st Contlex="PROP_">Васька</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Васю</l>
-
-      <stg>
-        <st Contlex="PROP_">Васю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Васюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Васюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Вася</l>
-
-      <stg>
-        <st Contlex="PROP_">Вася</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Века</l>
-
-      <stg>
-        <st Contlex="PROP_">Века</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гарась</l>
-
-      <stg>
-        <st Contlex="PROP_">Гарась</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гардей</l>
-
-      <stg>
-        <st Contlex="PROP_">Гардей</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гарька</l>
-
-      <stg>
-        <st Contlex="PROP_">Гарька</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гарю</l>
-
-      <stg>
-        <st Contlex="PROP_">Гарю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гарюта</l>
-
-      <stg>
-        <st Contlex="PROP_">Гарюта</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Гофка</l>
-
-      <stg>
-        <st Contlex="PROP_">Гофка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Дарьшу</l>
-
-      <stg>
-        <st Contlex="PROP_">Дарьшу</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Дарьшуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Дарьшуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Диня</l>
-
-      <stg>
-        <st Contlex="PROP_">Диня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Дирга</l>
-
-      <stg>
-        <st Contlex="PROP_">Дирга</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ефима</l>
-
-      <stg>
-        <st Contlex="PROP_">Ефима</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ефрим</l>
-
-      <stg>
-        <st Contlex="PROP_">Ефрим</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ефьют</l>
-
-      <stg>
-        <st Contlex="PROP_">Ефьют</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Зафар</l>
-
-      <stg>
-        <st Contlex="PROP_">Зафар</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ива</l>
-
-      <stg>
-        <st Contlex="PROP_">Ива</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Иван</l>
-
-      <stg>
-        <st Contlex="PROP_">Иван</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ивашке</l>
-
-      <stg>
-        <st Contlex="PROP_">Ивашке</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ига</l>
-
-      <stg>
-        <st Contlex="PROP_">Ига</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Иганя</l>
-
-      <stg>
-        <st Contlex="PROP_">Иганя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Игаш</l>
-
-      <stg>
-        <st Contlex="PROP_">Игаш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ильгя</l>
-
-      <stg>
-        <st Contlex="PROP_">Ильгя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Илю</l>
-
-      <stg>
-        <st Contlex="PROP_">Илю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Илюта</l>
-
-      <stg>
-        <st Contlex="PROP_">Илюта</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Илюшка</l>
-
-      <stg>
-        <st Contlex="PROP_">Илюшка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Инзар</l>
-
-      <stg>
-        <st Contlex="PROP_">Инзар</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Инзара</l>
-
-      <stg>
-        <st Contlex="PROP_">Инзара</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кавра</l>
-
-      <stg>
-        <st Contlex="PROP_">Кавра</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кавря</l>
-
-      <stg>
-        <st Contlex="PROP_">Кавря</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кадерь</l>
-
-      <stg>
-        <st Contlex="PROP_">Кадерь</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кадом</l>
-
-      <stg>
-        <st Contlex="PROP_">Кадом</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кама</l>
-
-      <stg>
-        <st Contlex="PROP_">Кама</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Камус</l>
-
-      <stg>
-        <st Contlex="PROP_">Камус</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кандай</l>
-
-      <stg>
-        <st Contlex="PROP_">Кандай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Каньжа</l>
-
-      <stg>
-        <st Contlex="PROP_">Каньжа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кара</l>
-
-      <stg>
-        <st Contlex="PROP_">Кара</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Карпа</l>
-
-      <stg>
-        <st Contlex="PROP_">Карпа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кархчма</l>
-
-      <stg>
-        <st Contlex="PROP_">Кархчма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Карьзи</l>
-
-      <stg>
-        <st Contlex="PROP_">Карьзи</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Карьхчу</l>
-
-      <stg>
-        <st Contlex="PROP_">Карьхчу</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Келяш</l>
-
-      <stg>
-        <st Contlex="PROP_">Келяш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кенева</l>
-
-      <stg>
-        <st Contlex="PROP_">Кенева</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Керата</l>
-
-      <stg>
-        <st Contlex="PROP_">Керата</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Керьзя</l>
-
-      <stg>
-        <st Contlex="PROP_">Керьзя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кирьду</l>
-
-      <stg>
-        <st Contlex="PROP_">Кирьду</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кирьдуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Кирьдуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Киря</l>
-
-      <stg>
-        <st Contlex="PROP_">Киря</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Клим</l>
-
-      <stg>
-        <st Contlex="PROP_">Клим</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Климка</l>
-
-      <stg>
-        <st Contlex="PROP_">Климка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Козяй</l>
-
-      <stg>
-        <st Contlex="PROP_">Козяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кола</l>
-
-      <stg>
-        <st Contlex="PROP_">Кола</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Колапина</l>
-
-      <stg>
-        <st Contlex="PROP_">Колапина</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Колдаес</l>
-
-      <stg>
-        <st Contlex="PROP_">Колдаес</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Котай</l>
-
-      <stg>
-        <st Contlex="PROP_">Котай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Криша</l>
-
-      <stg>
-        <st Contlex="PROP_">Криша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Крола</l>
-
-      <stg>
-        <st Contlex="PROP_">Крола</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кроланя</l>
-
-      <stg>
-        <st Contlex="PROP_">Кроланя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кудай</l>
-
-      <stg>
-        <st Contlex="PROP_">Кудай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кузьма</l>
-
-      <stg>
-        <st Contlex="PROP_">Кузьма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кузя</l>
-
-      <stg>
-        <st Contlex="PROP_">Кузя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кулина</l>
-
-      <stg>
-        <st Contlex="PROP_">Кулина</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кулиня</l>
-
-      <stg>
-        <st Contlex="PROP_">Кулиня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Кулю</l>
-
-      <stg>
-        <st Contlex="PROP_">Кулю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Куцяй</l>
-
-      <stg>
-        <st Contlex="PROP_">Куцяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лазуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Лазуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Левжа</l>
-
-      <stg>
-        <st Contlex="PROP_">Левжа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Левжай</l>
-
-      <stg>
-        <st Contlex="PROP_">Левжай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лемдяй</l>
-
-      <stg>
-        <st Contlex="PROP_">Лемдяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лемза</l>
-
-      <stg>
-        <st Contlex="PROP_">Лемза</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лендай</l>
-
-      <stg>
-        <st Contlex="PROP_">Лендай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лепа</l>
-
-      <stg>
-        <st Contlex="PROP_">Лепа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лепай</l>
-
-      <stg>
-        <st Contlex="PROP_">Лепай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лепаня</l>
-
-      <stg>
-        <st Contlex="PROP_">Лепаня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лука</l>
-
-      <stg>
-        <st Contlex="PROP_">Лука</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Луфтяй</l>
-
-      <stg>
-        <st Contlex="PROP_">Луфтяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Лёшуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Лёшуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Мавра</l>
-
-      <stg>
-        <st Contlex="PROP_">Мавра</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Матерь</l>
-
-      <stg>
-        <st Contlex="PROP_">Матерь</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Матерьня</l>
-
-      <stg>
-        <st Contlex="PROP_">Матерьня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Матерю</l>
-
-      <stg>
-        <st Contlex="PROP_">Матерю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Матю</l>
-
-      <stg>
-        <st Contlex="PROP_">Матю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Матюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Матюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Микола</l>
-
-      <stg>
-        <st Contlex="PROP_">Микола</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Навка</l>
-
-      <stg>
-        <st Contlex="PROP_">Навка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Навканя</l>
-
-      <stg>
-        <st Contlex="PROP_">Навканя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Навум</l>
-
-      <stg>
-        <st Contlex="PROP_">Навум</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Надю</l>
-
-      <stg>
-        <st Contlex="PROP_">Надю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Надюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Надюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Наста</l>
-
-      <stg>
-        <st Contlex="PROP_">Наста</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Настю</l>
-
-      <stg>
-        <st Contlex="PROP_">Настю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Настюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Настюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Натак</l>
-
-      <stg>
-        <st Contlex="PROP_">Натак</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Натаня</l>
-
-      <stg>
-        <st Contlex="PROP_">Натаня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Нолдаш</l>
-
-      <stg>
-        <st Contlex="PROP_">Нолдаш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Няфёт</l>
-
-      <stg>
-        <st Contlex="PROP_">Няфёт</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Озафкст</l>
-
-      <stg>
-        <st Contlex="PROP_">Озафкст</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ордаш</l>
-
-      <stg>
-        <st Contlex="PROP_">Ордаш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Оська</l>
-
-      <stg>
-        <st Contlex="PROP_">Оська</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ося</l>
-
-      <stg>
-        <st Contlex="PROP_">Ося</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Оцяпа</l>
-
-      <stg>
-        <st Contlex="PROP_">Оцяпа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Очижи</l>
-
-      <stg>
-        <st Contlex="PROP_">Очижи</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Оша</l>
-
-      <stg>
-        <st Contlex="PROP_">Оша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Паволня</l>
-
-      <stg>
-        <st Contlex="PROP_">Паволня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пайгарма</l>
-
-      <stg>
-        <st Contlex="PROP_">Пайгарма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Парма</l>
-
-      <stg>
-        <st Contlex="PROP_">Парма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пашад</l>
-
-      <stg>
-        <st Contlex="PROP_KAL">Пашад</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пекма</l>
-
-      <stg>
-        <st Contlex="PROP_">Пекма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пекса</l>
-
-      <stg>
-        <st Contlex="PROP_">Пекса</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пекяй</l>
-
-      <stg>
-        <st Contlex="PROP_">Пекяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пелькай</l>
-
-      <stg>
-        <st Contlex="PROP_">Пелькай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пенза</l>
-
-      <stg>
-        <st Contlex="PROP_">Пенза</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пета</l>
-
-      <stg>
-        <st Contlex="PROP_">Пета</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Петаня</l>
-
-      <stg>
-        <st Contlex="PROP_">Петаня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Петру</l>
-
-      <stg>
-        <st Contlex="PROP_">Петру</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Петрушка</l>
-
-      <stg>
-        <st Contlex="PROP_">Петрушка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Петьшня</l>
-
-      <stg>
-        <st Contlex="PROP_">Петьшня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Петя</l>
-
-      <stg>
-        <st Contlex="PROP_">Петя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пиксай</l>
-
-      <stg>
-        <st Contlex="PROP_">Пиксай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Питерь</l>
-
-      <stg>
-        <st Contlex="PROP_">Питерь</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Поганофка</l>
-
-      <stg>
-        <st Contlex="PROP_">Поганофка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Покру</l>
-
-      <stg>
-        <st Contlex="PROP_">Покру</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Польтя</l>
-
-      <stg>
-        <st Contlex="PROP_">Польтя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Полю</l>
-
-      <stg>
-        <st Contlex="PROP_">Полю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Полюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Полюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Поля</l>
-
-      <stg>
-        <st Contlex="PROP_">Поля</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Потма</l>
-
-      <stg>
-        <st Contlex="PROP_">Потма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Потманя</l>
-
-      <stg>
-        <st Contlex="PROP_">Потманя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Проса</l>
-
-      <stg>
-        <st Contlex="PROP_">Проса</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Проска</l>
-
-      <stg>
-        <st Contlex="PROP_">Проска</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пулокш</l>
-
-      <stg>
-        <st Contlex="PROP_">Пулокш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Пята</l>
-
-      <stg>
-        <st Contlex="PROP_">Пята</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Радай</l>
-
-      <stg>
-        <st Contlex="PROP_">Радай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Радя</l>
-
-      <stg>
-        <st Contlex="PROP_">Радя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Рапця</l>
-
-      <stg>
-        <st Contlex="PROP_">Рапця</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Расей</l>
-
-      <stg>
-        <st Contlex="PROP_">Расей</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Реця</l>
-
-      <stg>
-        <st Contlex="PROP_">Реця</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Риба</l>
-
-      <stg>
-        <st Contlex="PROP_">Риба</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Риза</l>
-
-      <stg>
-        <st Contlex="PROP_">Риза</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Самакуш</l>
-
-      <stg>
-        <st Contlex="PROP_">Самакуш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Санда</l>
-
-      <stg>
-        <st Contlex="PROP_">Санда</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Санданя</l>
-
-      <stg>
-        <st Contlex="PROP_">Санданя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Саньду</l>
-
-      <stg>
-        <st Contlex="PROP_">Саньду</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Саньдуня</l>
-
-      <stg>
-        <st Contlex="PROP_">Саньдуня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сара</l>
-
-      <stg>
-        <st Contlex="PROP_">Сара</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop" sem_type="Plc">Саранскяй</l>
-
-      <stg>
-        <st Contlex="PROP_VAJ">Саранскяй</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop" sem_type="Plc">Саранск</l>
-
-      <stg>
-        <st Contlex="PROP_">Саранск</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сафка</l>
-
-      <stg>
-        <st Contlex="PROP_">Сафка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Семья</l>
-
-      <stg>
-        <st Contlex="PROP_">Семья</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst">
-    <lg>
-      <l pos="N" type="Prop">Сере Пшень</l>
-
-      <stg>
-        <st Contlex="PROP_">Сере Пшень</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сетю</l>
-
-      <stg>
-        <st Contlex="PROP_">Сетю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сидо</l>
-
-      <stg>
-        <st Contlex="PROP_">Сидо</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сима</l>
-
-      <stg>
-        <st Contlex="PROP_">Сима</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Синя</l>
-
-      <stg>
-        <st Contlex="PROP_">Синя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сисемтяштть</l>
-
-      <stg>
-        <st Contlex="PROP_">Сисемтяштть</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Слобда</l>
-
-      <stg>
-        <st Contlex="PROP_">Слобда</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сна</l>
-
-      <stg>
-        <st Contlex="PROP_">Сна</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сок</l>
-
-      <stg>
-        <st Contlex="PROP_">Сок</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Солхтаи</l>
-
-      <stg>
-        <st Contlex="PROP_">Солхтаи</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Софа</l>
-
-      <stg>
-        <st Contlex="PROP_">Софа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Степан</l>
-
-      <stg>
-        <st Contlex="PROP_">Степан</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Стёпа</l>
-
-      <stg>
-        <st Contlex="PROP_">Стёпа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Стёпаня</l>
-
-      <stg>
-        <st Contlex="PROP_">Стёпаня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сузма</l>
-
-      <stg>
-        <st Contlex="PROP_">Сузма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сярьгей</l>
-
-      <stg>
-        <st Contlex="PROP_">Сярьгей</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сёма</l>
-
-      <stg>
-        <st Contlex="PROP_">Сёма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Сёмка</l>
-
-      <stg>
-        <st Contlex="PROP_">Сёмка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тама</l>
-
-      <stg>
-        <st Contlex="PROP_">Тама</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Таманя</l>
-
-      <stg>
-        <st Contlex="PROP_">Таманя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Танька</l>
-
-      <stg>
-        <st Contlex="PROP_">Танька</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Танюша</l>
-
-      <stg>
-        <st Contlex="PROP_">Танюша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Таня</l>
-
-      <stg>
-        <st Contlex="PROP_">Таня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тара</l>
-
-      <stg>
-        <st Contlex="PROP_">Тара</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тарас</l>
-
-      <stg>
-        <st Contlex="PROP_">Тарас</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тарю</l>
-
-      <stg>
-        <st Contlex="PROP_">Тарю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тарюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Тарюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Таря</l>
-
-      <stg>
-        <st Contlex="PROP_">Таря</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тату</l>
-
-      <stg>
-        <st Contlex="PROP_">Тату</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Татю</l>
-
-      <stg>
-        <st Contlex="PROP_">Татю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Татюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Татюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Таштю</l>
-
-      <stg>
-        <st Contlex="PROP_">Таштю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тима</l>
-
-      <stg>
-        <st Contlex="PROP_">Тима</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тимкай</l>
-
-      <stg>
-        <st Contlex="PROP_">Тимкай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Топай</l>
-
-      <stg>
-        <st Contlex="PROP_">Топай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тота</l>
-
-      <stg>
-        <st Contlex="PROP_">Тота</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Трафа</l>
-
-      <stg>
-        <st Contlex="PROP_">Трафа</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Трофим</l>
-
-      <stg>
-        <st Contlex="PROP_">Трофим</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тятеш</l>
-
-      <stg>
-        <st Contlex="PROP_">Тятеш</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Тёма</l>
-
-      <stg>
-        <st Contlex="PROP_">Тёма</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Улю</l>
-
-      <stg>
-        <st Contlex="PROP_">Улю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Улюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Улюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Улюша</l>
-
-      <stg>
-        <st Contlex="PROP_">Улюша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Уля</l>
-
-      <stg>
-        <st Contlex="PROP_">Уля</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Уляша</l>
-
-      <stg>
-        <st Contlex="PROP_">Уляша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ускай</l>
-
-      <stg>
-        <st Contlex="PROP_">Ускай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фадейня</l>
-
-      <stg>
-        <st Contlex="PROP_">Фадейня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фана</l>
-
-      <stg>
-        <st Contlex="PROP_">Фана</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фананя</l>
-
-      <stg>
-        <st Contlex="PROP_">Фананя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Феда</l>
-
-      <stg>
-        <st Contlex="PROP_">Феда</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Феданя</l>
-
-      <stg>
-        <st Contlex="PROP_">Феданя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Федю</l>
-
-      <stg>
-        <st Contlex="PROP_">Федю</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Федюня</l>
-
-      <stg>
-        <st Contlex="PROP_">Федюня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Федя</l>
-
-      <stg>
-        <st Contlex="PROP_">Федя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фетька</l>
-
-      <stg>
-        <st Contlex="PROP_">Фетька</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фиманя</l>
-
-      <stg>
-        <st Contlex="PROP_">Фиманя</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фома</l>
-
-      <stg>
-        <st Contlex="PROP_">Фома</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фяка</l>
-
-      <stg>
-        <st Contlex="PROP_">Фяка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Фёкла</l>
-
-      <stg>
-        <st Contlex="PROP_">Фёкла</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Хома</l>
-
-      <stg>
-        <st Contlex="PROP_">Хома</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Христос</l>
-
-      <stg>
-        <st Contlex="PROP_">Христос</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цифтамаз</l>
-
-      <stg>
-        <st Contlex="PROP_">Цифтамаз</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цяба</l>
-
-      <stg>
-        <st Contlex="PROP_">Цяба</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цякай</l>
-
-      <stg>
-        <st Contlex="PROP_">Цякай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цяляка</l>
-
-      <stg>
-        <st Contlex="PROP_">Цяляка</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Цялякай</l>
-
-      <stg>
-        <st Contlex="PROP_">Цялякай</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Чёкаж</l>
-
-      <stg>
-        <st Contlex="PROP_">Чёкаж</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Шача</l>
-
-      <stg>
-        <st Contlex="PROP_">Шача</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Ювання</l>
-
-      <stg>
-        <st Contlex="PROP_">Ювання</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Юда</l>
-
-      <stg>
-        <st Contlex="PROP_">Юда</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Яга</l>
-
-      <stg>
-        <st Contlex="PROP_">Яга</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Яку</l>
-
-      <stg>
-        <st Contlex="PROP_">Яку</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Яна</l>
-
-      <stg>
-        <st Contlex="PROP_">Яна</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Яша</l>
-
-      <stg>
-        <st Contlex="PROP_">Яша</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N" type="Prop">Яшаня</l>
-
-      <stg>
-        <st Contlex="PROP_">Яшаня</st>
-      </stg>
-    </lg>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="fin">
-        <t pos="N" type="Prop"/>
-      </tg>
-    </mg>
-  </e>
-<e>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ёнка</l>
+     <stg>
+       <st Contlex="N_AVA">Ёнка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Абра</l>
+     <stg>
+       <st Contlex="N_AVA">Абра</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ага</l>
+     <stg>
+       <st Contlex="N_AVA">Ага</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Агу</l>
+     <stg>
+       <st Contlex="N_KELU">Агу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Агуня</l>
+     <stg>
+       <st Contlex="N_AVA">Агуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Адаж</l>
+     <stg>
+       <st Contlex="N_OSH">Адаж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Азю</l>
+     <stg>
+       <st Contlex="N_KELU">Азю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Азёша</l>
+     <stg>
+       <st Contlex="N_AVA">Азёша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Акаж</l>
+     <stg>
+       <st Contlex="N_OSH">Акаж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аксю</l>
+     <stg>
+       <st Contlex="N_KELU">Аксю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аксюня</l>
+     <stg>
+       <st Contlex="N_AVA">Аксюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аксюта</l>
+     <stg>
+       <st Contlex="N_AVA">Аксюта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Акся</l>
+     <stg>
+       <st Contlex="N_AVA">Акся</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Акулина</l>
+     <stg>
+       <st Contlex="N_AVA">Акулина</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алда</l>
+     <stg>
+       <st Contlex="N_AVA">Алда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алдакей</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Алдакей</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алдуня</l>
+     <stg>
+       <st Contlex="N_AVA">Алдуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аля</l>
+     <stg>
+       <st Contlex="N_AVA">Аля</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алякс</l>
+     <stg>
+       <st Contlex="N_OSH">Алякс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алёкш</l>
+     <stg>
+       <st Contlex="N_OSH">Алёкш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алёша</l>
+     <stg>
+       <st Contlex="N_AVA">Алёша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Алёшка</l>
+     <stg>
+       <st Contlex="N_AVA">Алёшка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Андрей</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Андрей</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Андрейня</l>
+     <stg>
+       <st Contlex="N_AVA">Андрейня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Анна</l>
+     <stg>
+       <st Contlex="N_AVA">Анна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аньшня</l>
+     <stg>
+       <st Contlex="N_AVA">Аньшня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аню</l>
+     <stg>
+       <st Contlex="N_KELU">Аню</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Арина</l>
+     <stg>
+       <st Contlex="N_AVA">Арина</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Аринушка</l>
+     <stg>
+       <st Contlex="N_AVA">Аринушка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Артём</l>
+     <stg>
+       <st Contlex="N_KAL">Артём</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Арьтюш</l>
+     <stg>
+       <st Contlex="N_OSH">Арьтюш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Арю</l>
+     <stg>
+       <st Contlex="N_KELU">Арю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Атерь</l>
+     <stg>
+       <st Contlex="N_KIAL1">Атерь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Атерьня</l>
+     <stg>
+       <st Contlex="N_AVA">Атерьня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Атьря</l>
+     <stg>
+       <st Contlex="N_AVA">Атьря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Библия</l>
+     <stg>
+       <st Contlex="N_AVA">Библия</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics sem_type="Txt">
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Божиматерь</l>
+     <stg>
+       <st Contlex="N_KIAL1">Божиматерь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ваня</l>
+     <stg>
+       <st Contlex="N_AVA">Ваня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Вара</l>
+     <stg>
+       <st Contlex="N_AVA">Вара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Вараня</l>
+     <stg>
+       <st Contlex="N_AVA">Вараня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Васька</l>
+     <stg>
+       <st Contlex="N_AVA">Васька</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Васю</l>
+     <stg>
+       <st Contlex="N_KELU">Васю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Васюня</l>
+     <stg>
+       <st Contlex="N_AVA">Васюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Вася</l>
+     <stg>
+       <st Contlex="N_AVA">Вася</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Века</l>
+     <stg>
+       <st Contlex="N_AVA">Века</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гарась</l>
+     <stg>
+       <st Contlex="N_KIAL1">Гарась</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гардей</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Гардей</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гарька</l>
+     <stg>
+       <st Contlex="N_AVA">Гарька</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гарю</l>
+     <stg>
+       <st Contlex="N_KELU">Гарю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гарюта</l>
+     <stg>
+       <st Contlex="N_AVA">Гарюта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Гофка</l>
+     <stg>
+       <st Contlex="N_AVA">Гофка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Дарьшу</l>
+     <stg>
+       <st Contlex="N_KELU">Дарьшу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Дарьшуня</l>
+     <stg>
+       <st Contlex="N_AVA">Дарьшуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Диня</l>
+     <stg>
+       <st Contlex="N_AVA">Диня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Дирга</l>
+     <stg>
+       <st Contlex="N_AVA">Дирга</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ефима</l>
+     <stg>
+       <st Contlex="N_AVA">Ефима</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ефрим</l>
+     <stg>
+       <st Contlex="N_KAL">Ефрим</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ефьют</l>
+     <stg>
+       <st Contlex="PROP_">Ефьют</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Зафар</l>
+     <stg>
+       <st Contlex="N_KAL">Зафар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ива</l>
+     <stg>
+       <st Contlex="N_AVA">Ива</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Иван</l>
+     <stg>
+       <st Contlex="N_KAL">Иван</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ивашке</l>
+     <stg>
+       <st Contlex="PROP_">Ивашке</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ига</l>
+     <stg>
+       <st Contlex="N_AVA">Ига</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Иганя</l>
+     <stg>
+       <st Contlex="N_AVA">Иганя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Игаш</l>
+     <stg>
+       <st Contlex="N_OSH">Игаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ильгя</l>
+     <stg>
+       <st Contlex="N_AVA">Ильгя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Илю</l>
+     <stg>
+       <st Contlex="N_KELU">Илю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Илюта</l>
+     <stg>
+       <st Contlex="N_AVA">Илюта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Илюшка</l>
+     <stg>
+       <st Contlex="N_AVA">Илюшка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Инзар</l>
+     <stg>
+       <st Contlex="N_KAL">Инзар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Инзара</l>
+     <stg>
+       <st Contlex="N_AVA">Инзара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кавра</l>
+     <stg>
+       <st Contlex="N_AVA">Кавра</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кавря</l>
+     <stg>
+       <st Contlex="N_AVA">Кавря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кадерь</l>
+     <stg>
+       <st Contlex="N_KIAL1">Кадерь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кадом</l>
+     <stg>
+       <st Contlex="N_KAL">Кадом</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кама</l>
+     <stg>
+       <st Contlex="N_AVA">Кама</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Камус</l>
+     <stg>
+       <st Contlex="N_OSH">Камус</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кандай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Кандай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Каньжа</l>
+     <stg>
+       <st Contlex="N_AVA">Каньжа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кара</l>
+     <stg>
+       <st Contlex="N_AVA">Кара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Карпа</l>
+     <stg>
+       <st Contlex="N_AVA">Карпа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кархчма</l>
+     <stg>
+       <st Contlex="N_AVA">Кархчма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Карьзи</l>
+     <stg>
+       <st Contlex="N_ANDY">Карьзи</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Карьхчу</l>
+     <stg>
+       <st Contlex="N_KELU">Карьхчу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Келяш</l>
+     <stg>
+       <st Contlex="N_OSH">Келяш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кенева</l>
+     <stg>
+       <st Contlex="N_AVA">Кенева</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Керата</l>
+     <stg>
+       <st Contlex="N_AVA">Керата</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Керьзя</l>
+     <stg>
+       <st Contlex="N_AVA">Керьзя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кирьду</l>
+     <stg>
+       <st Contlex="N_KELU">Кирьду</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кирьдуня</l>
+     <stg>
+       <st Contlex="N_AVA">Кирьдуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Киря</l>
+     <stg>
+       <st Contlex="N_AVA">Киря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Клим</l>
+     <stg>
+       <st Contlex="N_KAL">Клим</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Климка</l>
+     <stg>
+       <st Contlex="N_AVA">Климка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Козяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Козяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кола</l>
+     <stg>
+       <st Contlex="N_AVA">Кола</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Колапина</l>
+     <stg>
+       <st Contlex="N_AVA">Колапина</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Колдаес</l>
+     <stg>
+       <st Contlex="N_OSH">Колдаес</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Котай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Котай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Криша</l>
+     <stg>
+       <st Contlex="N_AVA">Криша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Крола</l>
+     <stg>
+       <st Contlex="N_AVA">Крола</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кроланя</l>
+     <stg>
+       <st Contlex="N_AVA">Кроланя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кудай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Кудай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кузьма</l>
+     <stg>
+       <st Contlex="N_AVA">Кузьма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кузя</l>
+     <stg>
+       <st Contlex="N_AVA">Кузя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кулина</l>
+     <stg>
+       <st Contlex="N_AVA">Кулина</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кулиня</l>
+     <stg>
+       <st Contlex="N_AVA">Кулиня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Кулю</l>
+     <stg>
+       <st Contlex="N_KELU">Кулю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Куцяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Куцяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лазуня</l>
+     <stg>
+       <st Contlex="N_AVA">Лазуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Левжа</l>
+     <stg>
+       <st Contlex="N_AVA">Левжа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Левжай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Левжай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лемдяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Лемдяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лемза</l>
+     <stg>
+       <st Contlex="N_AVA">Лемза</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лендай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Лендай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лепа</l>
+     <stg>
+       <st Contlex="N_AVA">Лепа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лепай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Лепай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лепаня</l>
+     <stg>
+       <st Contlex="N_AVA">Лепаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лука</l>
+     <stg>
+       <st Contlex="N_AVA">Лука</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Луфтяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Луфтяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Лёшуня</l>
+     <stg>
+       <st Contlex="N_AVA">Лёшуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Мавра</l>
+     <stg>
+       <st Contlex="N_AVA">Мавра</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Матерь</l>
+     <stg>
+       <st Contlex="N_KIAL1">Матерь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Матерьня</l>
+     <stg>
+       <st Contlex="N_AVA">Матерьня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Матерю</l>
+     <stg>
+       <st Contlex="N_KELU">Матерю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Матю</l>
+     <stg>
+       <st Contlex="N_KELU">Матю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Матюня</l>
+     <stg>
+       <st Contlex="N_AVA">Матюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Микола</l>
+     <stg>
+       <st Contlex="N_AVA">Микола</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Миша</l>
      <stg>
-       <st Contlex="PROP_AVA">Миша</st>
+       <st Contlex="N_AVA">Миша</st>
      </stg>
    </lg>
-   <mg>
-     <defNative/>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N">Teddy Bear</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="N">Nalle</t>
      </tg>
+     <defNative/>
    </mg>
 </e>
-</r>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Навка</l>
+     <stg>
+       <st Contlex="N_AVA">Навка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Навканя</l>
+     <stg>
+       <st Contlex="N_AVA">Навканя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Навум</l>
+     <stg>
+       <st Contlex="N_KAL">Навум</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Надю</l>
+     <stg>
+       <st Contlex="N_KELU">Надю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Надюня</l>
+     <stg>
+       <st Contlex="N_AVA">Надюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Наста</l>
+     <stg>
+       <st Contlex="N_AVA">Наста</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Настю</l>
+     <stg>
+       <st Contlex="N_KELU">Настю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Настюня</l>
+     <stg>
+       <st Contlex="N_AVA">Настюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Натак</l>
+     <stg>
+       <st Contlex="N_KAL">Натак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Натаня</l>
+     <stg>
+       <st Contlex="N_AVA">Натаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Нолдаш</l>
+     <stg>
+       <st Contlex="N_OSH">Нолдаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Няфёт</l>
+     <stg>
+       <st Contlex="PROP_">Няфёт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Озафкст</l>
+     <stg>
+       <st Contlex="PROP_">Озафкст</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ордаш</l>
+     <stg>
+       <st Contlex="N_OSH">Ордаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Оська</l>
+     <stg>
+       <st Contlex="N_AVA">Оська</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ося</l>
+     <stg>
+       <st Contlex="N_AVA">Ося</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Оцяпа</l>
+     <stg>
+       <st Contlex="N_AVA">Оцяпа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Очижи</l>
+     <stg>
+       <st Contlex="N_ANDY">Очижи</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Оша</l>
+     <stg>
+       <st Contlex="N_AVA">Оша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Паволня</l>
+     <stg>
+       <st Contlex="N_AVA">Паволня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пайгарма</l>
+     <stg>
+       <st Contlex="N_AVA">Пайгарма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Парма</l>
+     <stg>
+       <st Contlex="N_AVA">Парма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пашад</l>
+     <stg>
+       <st Contlex="PROP_KAL">Пашад</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пекма</l>
+     <stg>
+       <st Contlex="N_AVA">Пекма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пекса</l>
+     <stg>
+       <st Contlex="N_AVA">Пекса</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пекяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Пекяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пелькай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Пелькай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пенза</l>
+     <stg>
+       <st Contlex="N_AVA">Пенза</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пета</l>
+     <stg>
+       <st Contlex="N_AVA">Пета</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Петаня</l>
+     <stg>
+       <st Contlex="N_AVA">Петаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Петру</l>
+     <stg>
+       <st Contlex="N_KELU">Петру</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Петрушка</l>
+     <stg>
+       <st Contlex="N_AVA">Петрушка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Петьшня</l>
+     <stg>
+       <st Contlex="N_AVA">Петьшня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Петя</l>
+     <stg>
+       <st Contlex="N_AVA">Петя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пиксай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Пиксай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Питерь</l>
+     <stg>
+       <st Contlex="N_KIAL1">Питерь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Поганофка</l>
+     <stg>
+       <st Contlex="N_AVA">Поганофка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Покру</l>
+     <stg>
+       <st Contlex="N_KELU">Покру</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Польтя</l>
+     <stg>
+       <st Contlex="N_AVA">Польтя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Полю</l>
+     <stg>
+       <st Contlex="N_KELU">Полю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Полюня</l>
+     <stg>
+       <st Contlex="N_AVA">Полюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Поля</l>
+     <stg>
+       <st Contlex="N_AVA">Поля</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Потма</l>
+     <stg>
+       <st Contlex="N_AVA">Потма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Потманя</l>
+     <stg>
+       <st Contlex="N_AVA">Потманя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Проса</l>
+     <stg>
+       <st Contlex="N_AVA">Проса</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Проска</l>
+     <stg>
+       <st Contlex="N_AVA">Проска</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пулокш</l>
+     <stg>
+       <st Contlex="N_OSH">Пулокш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пята</l>
+     <stg>
+       <st Contlex="N_AVA">Пята</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Радай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Радай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Радя</l>
+     <stg>
+       <st Contlex="N_AVA">Радя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Рапця</l>
+     <stg>
+       <st Contlex="N_AVA">Рапця</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Расей</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Расей</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Реця</l>
+     <stg>
+       <st Contlex="N_AVA">Реця</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Риба</l>
+     <stg>
+       <st Contlex="N_AVA">Риба</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Риза</l>
+     <stg>
+       <st Contlex="N_AVA">Риза</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Самакуш</l>
+     <stg>
+       <st Contlex="N_OSH">Самакуш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Санда</l>
+     <stg>
+       <st Contlex="N_AVA">Санда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Санданя</l>
+     <stg>
+       <st Contlex="N_AVA">Санданя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Саньду</l>
+     <stg>
+       <st Contlex="N_KELU">Саньду</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Саньдуня</l>
+     <stg>
+       <st Contlex="N_AVA">Саньдуня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сара</l>
+     <stg>
+       <st Contlex="N_AVA">Сара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Саранскяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Саранскяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics sem_type="Plc">
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сафка</l>
+     <stg>
+       <st Contlex="N_AVA">Сафка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Семья</l>
+     <stg>
+       <st Contlex="N_AVA">Семья</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сере Пшень</l>
+     <stg>
+       <st Contlex="N_KIAL1">Сере Пшень</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сетю</l>
+     <stg>
+       <st Contlex="N_KELU">Сетю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сидо</l>
+     <stg>
+       <st Contlex="PROP_">Сидо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сима</l>
+     <stg>
+       <st Contlex="N_AVA">Сима</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Синя</l>
+     <stg>
+       <st Contlex="N_AVA">Синя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сисемтяштть</l>
+     <stg>
+       <st Contlex="N_PINGE">Сисем#тяшть%{ЕØ%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Слобда</l>
+     <stg>
+       <st Contlex="N_AVA">Слобда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сна</l>
+     <stg>
+       <st Contlex="N_AVA">Сна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сок</l>
+     <stg>
+       <st Contlex="N_KAL">Сок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Солхтаи</l>
+     <stg>
+       <st Contlex="N_ANDY">Солхтаи</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Софа</l>
+     <stg>
+       <st Contlex="N_AVA">Софа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Степан</l>
+     <stg>
+       <st Contlex="N_KAL">Степан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Стёпа</l>
+     <stg>
+       <st Contlex="N_AVA">Стёпа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Стёпаня</l>
+     <stg>
+       <st Contlex="N_AVA">Стёпаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сузма</l>
+     <stg>
+       <st Contlex="N_AVA">Сузма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сярьгей</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Сярьгей</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сёма</l>
+     <stg>
+       <st Contlex="N_AVA">Сёма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Сёмка</l>
+     <stg>
+       <st Contlex="N_AVA">Сёмка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тама</l>
+     <stg>
+       <st Contlex="N_AVA">Тама</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Таманя</l>
+     <stg>
+       <st Contlex="N_AVA">Таманя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Танька</l>
+     <stg>
+       <st Contlex="N_AVA">Танька</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Танюша</l>
+     <stg>
+       <st Contlex="N_AVA">Танюша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Таня</l>
+     <stg>
+       <st Contlex="N_AVA">Таня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тара</l>
+     <stg>
+       <st Contlex="N_AVA">Тара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тарас</l>
+     <stg>
+       <st Contlex="N_OSH">Тарас</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тарю</l>
+     <stg>
+       <st Contlex="N_KELU">Тарю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тарюня</l>
+     <stg>
+       <st Contlex="N_AVA">Тарюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Таря</l>
+     <stg>
+       <st Contlex="N_AVA">Таря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тату</l>
+     <stg>
+       <st Contlex="N_KELU">Тату</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Татю</l>
+     <stg>
+       <st Contlex="N_KELU">Татю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Татюня</l>
+     <stg>
+       <st Contlex="N_AVA">Татюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Таштю</l>
+     <stg>
+       <st Contlex="N_KELU">Таштю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тима</l>
+     <stg>
+       <st Contlex="N_AVA">Тима</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тимкай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Тимкай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Топай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Топай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тота</l>
+     <stg>
+       <st Contlex="N_AVA">Тота</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Трафа</l>
+     <stg>
+       <st Contlex="N_AVA">Трафа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Трофим</l>
+     <stg>
+       <st Contlex="N_KAL">Трофим</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тятеш</l>
+     <stg>
+       <st Contlex="N_OSH">Тятеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Тёма</l>
+     <stg>
+       <st Contlex="N_AVA">Тёма</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Улю</l>
+     <stg>
+       <st Contlex="N_KELU">Улю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Улюня</l>
+     <stg>
+       <st Contlex="N_AVA">Улюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Улюша</l>
+     <stg>
+       <st Contlex="N_AVA">Улюша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Уля</l>
+     <stg>
+       <st Contlex="N_AVA">Уля</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Уляша</l>
+     <stg>
+       <st Contlex="N_AVA">Уляша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ускай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Ускай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фадейня</l>
+     <stg>
+       <st Contlex="N_AVA">Фадейня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фана</l>
+     <stg>
+       <st Contlex="N_AVA">Фана</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фананя</l>
+     <stg>
+       <st Contlex="N_AVA">Фананя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Феда</l>
+     <stg>
+       <st Contlex="N_AVA">Феда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Феданя</l>
+     <stg>
+       <st Contlex="N_AVA">Феданя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Федю</l>
+     <stg>
+       <st Contlex="N_KELU">Федю</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Федюня</l>
+     <stg>
+       <st Contlex="N_AVA">Федюня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Федя</l>
+     <stg>
+       <st Contlex="N_AVA">Федя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фетька</l>
+     <stg>
+       <st Contlex="N_AVA">Фетька</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фиманя</l>
+     <stg>
+       <st Contlex="N_AVA">Фиманя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фома</l>
+     <stg>
+       <st Contlex="N_AVA">Фома</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фяка</l>
+     <stg>
+       <st Contlex="N_AVA">Фяка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Фёкла</l>
+     <stg>
+       <st Contlex="N_AVA">Фёкла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Хома</l>
+     <stg>
+       <st Contlex="N_AVA">Хома</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Христос</l>
+     <stg>
+       <st Contlex="N_OSH" varid="1">Христос</st>
+       <st Contlex="N_OSH" varid="2">Кристос</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Цифтамаз</l>
+     <stg>
+       <st Contlex="N_OSH">Цифтамаз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Цяба</l>
+     <stg>
+       <st Contlex="N_AVA">Цяба</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Цякай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Цякай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Цяляка</l>
+     <stg>
+       <st Contlex="N_AVA">Цяляка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Цялякай</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Цялякай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Чёкаж</l>
+     <stg>
+       <st Contlex="N_OSH">Чёкаж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Шача</l>
+     <stg>
+       <st Contlex="N_AVA">Шача</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Ювання</l>
+     <stg>
+       <st Contlex="N_AVA">Ювання</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Юда</l>
+     <stg>
+       <st Contlex="N_AVA">Юда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Яга</l>
+     <stg>
+       <st Contlex="N_AVA">Яга</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Яку</l>
+     <stg>
+       <st Contlex="N_KELU">Яку</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Яна</l>
+     <stg>
+       <st Contlex="N_AVA">Яна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Яша</l>
+     <stg>
+       <st Contlex="N_AVA">Яша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Яшаня</l>
+     <stg>
+       <st Contlex="N_AVA">Яшаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 
