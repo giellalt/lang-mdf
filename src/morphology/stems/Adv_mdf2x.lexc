@@ -18,7 +18,7 @@ LEXICON Adv_mdf2x
 алажга+Adv:алажга ADV_  "hiljaa" ;
 алажгаконя+Adv:алажгаконя ADV_  "hyvin hiljaa" ;
 алга+Adv:алга ADV-SPAT_  "alla" ;
-алда+Adv:алда ADV-SPAT_  "alta" ;
+алда+Adv:алд%{АО%} ADV-ABL  "alta" ;
 алняста+Adv:алняста ADV_  "matalalla" ;
 алу+Adv:алу ADV-SPAT_  "alas" ;
 алувармат+Adv:алувармат ADV_  "myötätuuleen" ;
@@ -365,7 +365,7 @@ LEXICON Adv_mdf2x
 инкогнито+Adv:инкогнито ADV_  "tuntemattomana" ;
 инци+Adv:инци ADV_  "vain" ;
 иретьфоньпрят+Adv:иретьфоньпрят ADV_  "juovuksissa" ;
-ирецта+Adv:ирецта ADV_  "juovuksissa" ;
+ирецта+Adv:ирецт%{АО%} ADV-ELA  "juovuksissa" ;
 ирецтоньпрят+Adv:ирецтоньпрят ADV_  "juovuksissa" ;
 исяк+Adv:исяк ADV_  "eilen" ;
 ичкозде-ичкозде+Adv:ичкозде-ичкозде ADV_  "hyvin kaukaa" ;
@@ -785,6 +785,8 @@ LEXICON Adv_mdf2x
 муворуста+Adv:муворуста ADV_  "syyllisen näköisenä" ;
 мудрайста+Adv:мудрайста ADV_  "viisaasti" ;
 мужественна+Adv:мужественна ADV_  "urheasti" ;
+мъзярда+Adv:мъзярда ADV_  "" ;
+мъзярда-бъди+Adv:мъзярда-бъди ADV_  "" ;
 мяльса-кяльса+Adv:мяльса-кяльса ADV_  "ajatuksissa(an)" ;
 мяра+Adv:мяра ADV_  "montako" ;
 мятярдезь+Adv:мятярдезь ADV_  "hoippuen" ;
