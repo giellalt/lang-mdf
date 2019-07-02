@@ -30,6 +30,11 @@ LEXICON A_OFTA
 +Sg+Nom+Indef: K ;
 +Der+Der/MWN+N: N_OFTA ;
 
+LEXICON A_PANGA
+!панга:панг%{АОØ%}
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_PANGA ;
+
 LEXICON A_PINGE
 !пинге:пинг%{ЕОØ%}
 +Sg+Nom+Indef: K ;

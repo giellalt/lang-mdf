@@ -38,7 +38,9 @@ Alphabet !!≈!!The base @CODE@
  %{АЯ%}:я !!= @CODE@ А2 in панемс:панян
 !Ы2:и !
 Ы2:ы !
- %{ИЫЙ%}:0	!!= @CODE@ phasing out Ы2, eg кундамс:кундай, панемс:пани, кандомс:канды
+ %{ИЫЙ%}:й	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
+ %{ИЫЙ%}:ы	!!= @CODE@ phasing out Ы2, eg кандомс:канды
+ %{ИЫЙ%}:и	!!= @CODE@ phasing out Ы2, eg панемс:пани
 
 ! onset vowel  for morphemes requiring a preceding vowel
  %{ЕОØ%}:е	!!= @CODE@ morpheme onset linking vowel from %^О1
@@ -251,7 +253,9 @@ Rules !!≈ !!The @CODE@
 
 "%{ИЫЙ%}:j"
 !! __@RULENAME@__  
-%{ИЫЙ%}:й <=> [ я | а | о ]  %> _ [ # | » | %> в о к | ( %> ) х т  ь | х т е | н е | т ь ] ;
+%{ИЫЙ%}:й <=> [ я | а | о ]  %> _ [ # | » | %> в о к | ( %> ) х т  ь | %> [с|д|т] | х т е | н е | т ь ] ;
+!!€ стя%>%{ИЫЙ%}%>сь
+!!€ стя%>й%>сь
 
 "%{ИЫЙ%}:ы"
 !! __@RULENAME@__

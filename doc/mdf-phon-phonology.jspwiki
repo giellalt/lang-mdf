@@ -19,7 +19,9 @@ This will represent schwa in first syllable
 
 
   %{АЯ%}:я  А2 in панемс:панян
-  %{ИЫЙ%}:0	 phasing out Ы2, eg кундамс:кундай, панемс:пани, кандомс:канды
+  %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
+  %{ИЫЙ%}:ы	 phasing out Ы2, eg кандомс:канды
+  %{ИЫЙ%}:и	 phasing out Ы2, eg панемс:пани
 
   %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
   %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
@@ -148,6 +150,8 @@ __A1:o__
 
 
 __%{ИЫЙ%}:j__  
+* __стя%>%{ИЫЙ%}%>сь __
+* __стя%>й%>сь __
 
 __%{ИЫЙ%}:ы__
 

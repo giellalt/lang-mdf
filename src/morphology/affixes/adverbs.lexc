@@ -27,7 +27,7 @@ LEXICON ADV-TEMP_ 	!!= @CODE@
 
 
 LEXICON GER_
-+Ger: K ;
+: K ;
 
 LEXICON ADV-SPAT_
 +Spat: K ;
@@ -54,6 +54,11 @@ LEXICON ADV_АШЕЛЬ !! ашель:ашель
 +Prt2+ScPl1:еме # ;
 +Ind+Prt2+ScPl2:еде # ;
 +Ind+Prt2+ScPl3:%>%{Х%}ть # ;
+
+LEXICON ADV-ABL ! алда:алд%{АО%}
++Abl: K_вок ;
+LEXICON ADV-ELA ! ирецта:ирецт%{АО%}
++Ela: K_вок ;
 
 LEXICON ADV-ABL-PXSG1
 +Abl+PxSg1: K_ГА ;

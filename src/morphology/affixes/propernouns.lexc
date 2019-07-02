@@ -237,6 +237,12 @@ LEXICON PROP
 +SP+Ine+Indef:%>са ENDLEX ;
 +SP+Lat+Indef:%>у ENDLEX ; !АССР-у
 
+LEXICON PROP_ORJASJ
++Sg+Dat+Def:%>ти K ;
++Sg+Gen+Def:%>ть K ;
++Sg+Nom+Def:%>сь K ;
++Sg+Nom+Indef: K ;
+
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 +Sg+Nom+Indef: ENDLEX ;
