@@ -7,8 +7,8 @@
 !! NUMBERS 
 !!!!!!!!!!!
 
-LEXICON QNT_
-+TYÄ: K ;
+!LEXICON QNT_
+!+TYÄ: K ;
 
 LEXICON NUM_
 +TYÄ: K ;
@@ -29,8 +29,8 @@ LEXICON NUM-CARD_KAL
 LEXICON NUM-COLL_
 +Card+Coll+TYÄ:	K ;
 
-LEXICON NUM-ITER_
-+Mult: K ;
+!LEXICON NUM-ITER_
+!+Mult: K ;
 
 LEXICON NUM-ORD_
 +Ord+TYÄ: K ;

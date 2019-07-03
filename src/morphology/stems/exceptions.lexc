@@ -7,16 +7,56 @@
 
 LEXICON EXCEPTIONS
 !!
-тейне:тейне PERS-SG1-IS-DAT ;
-тейть:тейть PERS-SG2-IS-DAT ;
-тейнза:тейнза PERS-SG3-IS-DAT ;
-тейнек:тейнек PERS-PL1-IS-DAT ;
-тейнть:тейнть PERS-PL2-IS-DAT ;
-тейст:тейст PERS-PL3-IS-DAT ;
+афоль+V+Aux:афоль V-AUX-NEG-CONJ_AFOLJ ;
+тят+V+Aux+Neg+Opt+ScSg1:тязан K ;
+тят+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScSg2:тязат K ;
+тят+V+Aux+Neg+Opt+ScSg2+OcSg3:тязак K ;
+тят+V+Aux+Neg+Opt+ScSg2+OcPl1:тязамасть K ;
+тят+V+Aux+Neg+Opt+ScSg3:тяза K ;
+тят+V+Aux+Neg+Opt+ScSg3+OcSg1:тязамань K ;
+тят+V+Aux+Neg+Opt+ScSg3+OcPl1:тязамазь K ;
+тят+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
+тят+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
+тят+V+Aux+Neg+Opt+ScPl3:тяст K ;
+тят+V+Aux+Neg+Opt+ScPl1:тязама K ;
+тят+V+Aux+Neg+Opt+ScPl1+OcSg2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScPl1+OcPl2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScPl1+OcSg3:тязаськ K ;
+тят+V+Aux+Neg+Opt+ScPl1+OcPl3:тязаськ K ;
+тят+V+Aux+Neg+Opt+ScPl2+OcSg1:тязамасть K ;
+тят+V+Aux+Neg+Opt+ScPl2+OcPl1:тязамасть K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcSg1:тязамазь K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcPl1:тязамазь K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcSg2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcPl2:тязадязь K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcSg3:тязазь K ;
+тят+V+Aux+Neg+Opt+ScPl3+OcPl3:тязазь K ;
 
+!
+тят+V+Aux+Proh+ScSg2:тят K ;
+тят+V+Aux+Proh+ScSg2+OcSg1:тямак K ;
+тят+V+Aux+Proh+ScSg2+OcPl1:тямасть K ;
+тят+V+Aux+Proh+ScSg2+OcSg3:тяк K ;
+тят+V+Aux+Proh+ScSg2+OcPl3:тяйть K ;
+тят+V+Aux+Proh+ScPl2:тяда K ;
+тят+V+Aux+Proh+ScPl2+OcSg1:тямасть K ;
+тят+V+Aux+Proh+ScPl2+OcPl1:тямасть K ;
+тят+V+Aux+Proh+ScPl2+OcSg3:тясть K ;
+тят+V+Aux+Proh+ScPl2+OcPl3:тясть K ;
 
 !! MISSING ADV
 мзярда+Adv:мъзярда ADV_ ;
+мзярс-бди+Adv+Indef:мъзярс-бъди ADV_ ;
+мзярда-бди+Adv+Indef:мъзярда-бъди ADV_ ;
+мзярксть-бди+Adv+Indef:мъзярксть-бъди ADV_ ;
+кода-бди+Adv+Indef:кода-бъди ADV_ ;
+коза-бди+Adv+Indef+Ill:коза-бъди ADV_ ;
+коса-бди+Adv+Indef+Ine:коса-бъди ADV_ ;
+коса-бди+Adv+Indef+Ine+Cop+Prs+ScPl3:косот-бъди ADV_ ;
+коста-бди+Adv+Indef+Ela:коста-бъди ADV_ ;
+куване-бди+Adv+Indef:куване-бъди ADV_ ;
 
 !! MISSING CS
 кда+CS:къда CS_ ;
