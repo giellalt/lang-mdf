@@ -14,7 +14,11 @@ The Moksha language verbs inflect in persons.
 BOTH IV and TV
 
 
+
+
+
 OBJECT and SUBJECT VERBS 
+
 
 
 пачкодемс:пачкодь
@@ -25,6 +29,7 @@ OBJECT and SUBJECT VERBS
 
 
 SUBJECT ONLY VERBS 
+
 
 
 
@@ -40,6 +45,15 @@ SUBJECT ONLY VERBS
 
 
 VERBS MUTUAL FOR TV and IV !!
+
+
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ :й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
+COND-ALL
+ +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+
 
 
 

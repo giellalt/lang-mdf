@@ -655,6 +655,7 @@ LEXICON Root
     Punctuation ;
     Symbols     ;
 
+ PRONOUN-TYPES ;
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
  N_NEWWORDS	;
@@ -731,8 +732,8 @@ LEXICON PO-SPAT_
 
 
 
-LEXICON N-Voc-Px1Sg
-+N+PxSg1+Interj+Voc: # ;
+!LEXICON N-Voc-Px1Sg
+!+N+PxSg1+Interj+Voc: # ;
 
 !LEXICON EndQST
 !+Qst: # ;
