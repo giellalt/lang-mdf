@@ -10,10 +10,10 @@ LEXICON V_
 : # ;
 
 LEXICON V-IMPRT-SG_
-+Imprt+Sg2: K ;
++Imprt+ScSg2: K ;
 
-LEXICON V-IMPRT-PL_
-+Imprt+Pl2: K ;
+!LEXICON V-IMPRT-PL_
+!+Imprt+ScPl2: K ;
 
 LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
 !%^Ь2ZERO
@@ -56,15 +56,33 @@ LEXICON V_TUMS
 !! BOTH IV and TV
 !!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON V_ALYJAFTOMS
+LEXICON BV_ALYJAFTOMS
  IV_ALYJAFTOMS ;
  TV_ALYJAFTOMS ;
 
+LEXICON BV_KUNDAMS
+ TV_KUNDAMS ;
+ IV_KUNDAMS ;
+
+LEXICON BV_MUMS
+ TV_MUMS ;
+ IV_MUMS ;
+
+LEXICON BV_ANDOMS
+ TV_ANDOMS ;
+ IV_ANDOMS ;
+
+LEXICON BV_PACHKODEMS
+ TV_PACHKODEMS ;
+ IV_PACHKODEMS ;
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! OBJECT and SUBJECT VERBS 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON TV_KUNDAMS
 @P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@  V0_KUNDAMS ;
+
+LEXICON TV_MUMS
+@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@  V0_MUMS ;
 
 LEXICON TV_ANDOMS
 @P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_ANDOMS ;
@@ -97,6 +115,10 @@ LEXICON IV_KUNDAMS
 ! кундамс:кунда
 +IV: V0_KUNDAMS ;
 
+LEXICON IV_MUMS
+! мумс:му
++IV: V0_MUMS ;
+
 LEXICON IV_ANDOMS
 !! андомс:анд
 +IV: V0_ANDOMS ;
@@ -128,6 +150,30 @@ LEXICON V0_KUNDAMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
+
+LEXICON V0_MUMS
+@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+!2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
+:	 IND-PRT1-ALL-BUT-Sc3 ; !музе
+:	 IND-PRT2-ALL ; 
+@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
++Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+
+:й	 CONJ-ALL     	;
+:й	 DES-ALL     	;
+	 IMPRT-20   	;
+:й	 IMPRT-ALL-BUT-20   	;
+:й	 OPT-ALL       	;
+:й	 INF_ОМ		;
++ConNeg:й%{АО%} K ; 
++ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
+! VERBAL-CONJUGATIONS-ALL ;
+:%>%{ЕОØ%} Non-Finite-Vws ;
+ Non-Finite-Cns ;
+
 
 LEXICON V0_ANDOMS
  VERBAL-CONJUGATIONS-ALL ;
@@ -993,8 +1039,8 @@ LEXICON DES-PRT2-66
 
 
 !! !!CONJUNCTIVE TAGS
-LEXICON Derya
- K ; !!2013-10-15
+!LEXICON Derya
+! K ; !!2013-10-15
 !! redo conj 2012-11-07 begin
 LEXICON CNJ-10
 @U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.1Ø@+Conj+ScSg1:@U.CONJ-MX.CONJ@@U.CONJ-TX.PRT2@@U.CONJ-PX.1Ø@%>%{ЕОØ%}лень  VerbEnd ;
@@ -1311,8 +1357,8 @@ Prc-zj ;
 !! GERUNDS 
 !!!!!!!!!!!
 
-LEXICON GerTag
-+Ger: #;
+!LEXICON GerTag
+!+Ger: #;
 
 !!!!!!!!!!!!!!!
 !! PARTICIPLES 

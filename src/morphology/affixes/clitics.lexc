@@ -12,9 +12,9 @@ LEXICON K_CHOOSE_ВОК_OR_НГА_OR_ENDLEX
 !+Foc/вок:%>нг%{АЕ%} ENDLEX ;
  K ;
 
-LEXICON K_CHOOSE_ВОК_OR_ENDLEX
-!+Foc/вок:%>вок  ENDLEX ;
- K ;
+!LEXICON K_CHOOSE_ВОК_OR_ENDLEX
+!!+Foc/вок:%>вок  ENDLEX ;
+! K ;
 
 LEXICON K_вок
 !! This is for vowel final Nominatives

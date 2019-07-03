@@ -10193,24 +10193,6 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Adv">весяласта</l>
-     <stg>
-       <st Contlex="ADV_">весяласта</st>
-     </stg> <phonet>veśalasta</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">iloisesti</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="A" type="Prc">весялготф</l>
@@ -31272,27 +31254,6 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Adv">лангста</l>
-     <stg>
-       <st Contlex="ADV-ELA">лангст%{АО%}</st>
-     </stg> <phonet>laŋksta</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">päältä</t>
-       <t pos="A">päällys-</t>
-       <t pos="A">-lta</t>
-       <t pos="A">päällys-</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
      <l pos="A">лангстонь</l>
      <stg>
        <st Contlex="A-IS-GEN">лангстонь</st>
@@ -46210,7 +46171,7 @@
    <lg>
      <l pos="A">пара</l>
      <stg>
-       <st Contlex="A_">пара</st>
+       <st Contlex="A_PANGA">пар%{АОØ%}</st>
      </stg> <phonet>para</phonet>
    </lg>
      <sources>
@@ -46311,7 +46272,7 @@
    <lg>
      <l pos="A">паргопря</l>
      <stg>
-       <st Contlex="A_">паргопря</st>
+       <st Contlex="A_AVA">паргопря</st>
      </stg>
    </lg>
      <sources>
@@ -46543,7 +46504,7 @@
    <lg>
      <l pos="A">парочка</l>
      <stg>
-       <st Contlex="A_">парочка</st>
+       <st Contlex="A_AVA">парочка</st>
      </stg>
    </lg>
      <sources>
@@ -47913,7 +47874,7 @@
    <lg>
      <l pos="A">пиже</l>
      <stg>
-       <st Contlex="A_">пиже</st>
+       <st Contlex="A_AVA">пиже</st>
      </stg> <phonet>pižä</phonet>
    </lg>
      <sources>
@@ -50410,7 +50371,7 @@
    <lg>
      <l pos="A">потма</l>
      <stg>
-       <st Contlex="A_">потма</st>
+       <st Contlex="A_PULA">потм%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -52363,8 +52324,7 @@
    <lg>
      <l pos="A">пскафкшу</l>
      <stg>
-       <st Contlex="A_KELU">пскафкшу</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъскафкшу</st>
+       <st Contlex="A_KELU">пъскафкшу</st>
      </stg>
    </lg>
      <sources>
@@ -52382,8 +52342,7 @@
    <lg>
      <l pos="A">пськину</l>
      <stg>
-       <st Contlex="A_KELU">пськину</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъськину</st>
+       <st Contlex="A_KELU">пъськину</st>
      </stg>
    </lg>
      <sources>
@@ -52401,8 +52360,7 @@
    <lg>
      <l pos="A">псьтюрю</l>
      <stg>
-       <st Contlex="A_KELU">псьтюрю</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъсьтюрю</st>
+       <st Contlex="A_KELU">пъсьтюрю</st>
      </stg>
    </lg>
      <sources>
@@ -52876,7 +52834,7 @@
    <lg>
      <l pos="A">пульгала</l>
      <stg>
-       <st Contlex="A_">пульгала</st>
+       <st Contlex="A_AVA">пульгала</st>
      </stg>
    </lg>
      <sources>
@@ -52927,7 +52885,7 @@
    <lg>
      <l pos="A">пулькапря</l>
      <stg>
-       <st Contlex="A_">пулькапря</st>
+       <st Contlex="A_AVA">пулькапря</st>
      </stg>
    </lg>
      <sources>
@@ -53050,7 +53008,7 @@
    <lg>
      <l pos="A">пуняшалхка</l>
      <stg>
-       <st Contlex="A_">пуняшалхка</st>
+       <st Contlex="A_OFTA">пуня#шалхк%{АОØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -53456,7 +53414,7 @@
    <lg>
      <l pos="A">путра</l>
      <stg>
-       <st Contlex="A_">путра</st>
+       <st Contlex="A_AVA">путра</st>
      </stg>
    </lg>
      <sources>
@@ -53694,8 +53652,7 @@
    <lg>
      <l pos="A">пчкан</l>
      <stg>
-       <st Contlex="A_KAL">пчкан</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъчкан</st>
+       <st Contlex="A_KAL">пъчкан</st>
      </stg>
    </lg>
      <sources>
@@ -53730,8 +53687,7 @@
    <lg>
      <l pos="A">пчкафтови</l>
      <stg>
-       <st Contlex="A_AVA">пчкафтови</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъчкафтови</st>
+       <st Contlex="A_ANDY">пъчкафтови</st>
      </stg>
    </lg>
      <sources>
@@ -53819,8 +53775,7 @@
    <lg>
      <l pos="A">пшкяди</l>
      <stg>
-       <st Contlex="A_AVA">пшкяди</st>
-       <st Contlex="A_" status="Use/SpellNoSugg">пъшкяди</st>
+       <st Contlex="A_ANDY">пъшкяди</st>
      </stg>
    </lg>
      <sources>
@@ -53893,7 +53848,7 @@
    <lg>
      <l pos="A">пялевайме</l>
      <stg>
-       <st Contlex="A_">пялевайме</st>
+       <st Contlex="A_SEL1ME">пяле#вайм%{ЕО%}</st>
      </stg>
    </lg>
      <sources>
@@ -67869,7 +67824,7 @@
      <l pos="A">таньфтома</l>
      <stg>
        <st Contlex="A_PULA">таньфтом%{АО%}</st>
-     </stg><phonet>tańftəma, tańfťəmä</phonet>
+     </stg> <phonet>tańftəma, tańfťəmä</phonet>
        <l_ref>таньф</l_ref>
    </lg>
      <sources>

@@ -7,6 +7,34 @@
 !! PRONOUNS 
 !!!!!!!!!!!
 
+LEXICON PRONOUN-TYPES
+ PERS ;
+! INTERR ;
+ INDEFINITE-PRON ;
+! NEG-PRON ;
+! COLL-PRON ;
+
+LEXICON PERS                        !!≈ * __@CODE@__ 
+мон+Pron+Pers+Sg1:мон PERS-SG1 ;    !!≈ * __@CODE@__ ...
+тон+Pron+Pers+Sg2:тон PERS-SG2 ; 
+сон+Pron+Pers+Sg3:сон PERS-SG3 ;
+мон+Pron+Pers+Pl1:мин PERS-PL1 ;
+тон+Pron+Pers+Pl2:тин PERS-PL2 ; 
+сон+Pron+Pers+Pl3:син PERS-PL3 ;
+
+мон+v1+Pron+Pers+Sg1+Dat+Short:тейне K ;
+мон+v2+Pron+Pers+Sg1+Dat+Short:теене K ;
+мон+v3+Pron+Pers+Sg1+Dat+Short:теень K ;
+мон+v1+Pron+Pers+Pl1+Dat+Short:тейнек K ;
+мон+v2+Pron+Pers+Pl1+Dat+Short:тееньк K ;
+тон+Pron+Pers+Sg2+Dat+Short:тейть K ;
+тон+Pron+Pers+Pl2+Dat+Short:тейнть K ;
+тон+Pron+Pers+Pl2+Dat+Short:теенть K ;
+сон+v1+Pron+Pers+Sg3+Dat+Short:тейнза K ;
+сон+v2+Pron+Pers+Sg3+Dat+Short:теенза K ;
+сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K ;
+сон+v2+Pron+Pers+Pl3+Dat+Short:теест K ;
+
 
 LEXICON PRON_
 +TYÄ: #;
@@ -147,6 +175,89 @@ LEXICON PRON-DEM-SG
 +Pl+Nom:%>тЬ2 K_ГА ;
 
 !! INDEFINITE PRONOUNS
+LEXICON INDEFINITE-PRON
+кати-ки+Pron+Indef:кати-ки KATI-KI_INFL ;
+кати-кона+Pron+Indef:кати-кона KATI-KONA_INFL ;
+кати-мезе+Pron+Indef:кати-ме KATI-MEZE_INFL ;
+кой-мезе+Pron+Indef:кой-ме KATI-MEZE_INFL ;
+кие-бди+Pron+Indef+Der/Poss+Sg+Nom+Def:киннесь-бъди ENDLEX ;
+кие-бди+Pron+Indef+Der/Poss+Sg+Gen+Def:киннеть-бъди ENDLEX ;
+кие-бди+Pron+Indef+Der/Poss+Sg+Dat+Def:киннети-бъди ENDLEX ;
+
+кие-бди+Pron+Indef+Sg+Nom:кие-бъди ENDLEX ;
+кие-бди+Pron+Indef+Pl+Nom:кит-бъди ENDLEX ;
+кие-бди+Pron+Indef+SP+Gen:кинь-бъди ENDLEX ;
+кие-бди+Pron+Indef+SP+Dat:кинди-бъди ENDLEX ;
+кие-бди+Pron+Indef+SP+Tra:кикс-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Pl+Nom:месть-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Nom:мезь-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Nom+Def:мезсь-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Gen+Def:мезть-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Dat+Def:мезти-бъди ENDLEX ;
+мезь-бди+Pron+Indef+SP+Abl:мезьда-бъди ENDLEX ;
+мезь-бди+Pron+Indef+SP+Tra:мезькс-бъди ENDLEX ;
+мезь-бди+Pron+Indef+SP+Ill:мезьс-бъди ENDLEX ;
+мезь-бди+Pron+Indef+SP+Ine:мезьса-бъди ENDLEX ;
+мезь-бди+Pron+Indef+SP+Ela:мезьста-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Nom+PxSg3:мезец-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Gen+PxSg3:мезенц-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Sg+Nom+PxPl3:мезьсна-бъди ENDLEX ;
+мезь-бди+Pron+Indef+Pl+Nom+PxPl3:мезьсна-бъди ENDLEX ;
+
+
+LEXICON KATI-KI_INFL
++Pl+Nom:%>т ENDLEX ;
++Pl+Dat+Def:%>тненди ENDLEX ;
++Pl+Gen+Def:%>тнень ENDLEX ;
++Pl+Nom+Def:%>тне ENDLEX ;
++Sg+Nom: ENDLEX ;
++Sg+Nom+Def:%>есь ENDLEX ;
++Sg+Dat+Def:%>ти ENDLEX ;
++Sg+Gen+Def:%>ть ENDLEX ;
++SP+Abl:%>да ENDLEX ;
++SP+Cau:%>нкса ENDLEX ;
++SP+Dat:%>нди ENDLEX ;
++SP+Gen:%>нь ENDLEX ;
++SP+Ine:%>са ENDLEX ;
+ DER/COP ;
+
+LEXICON KATI-KONA_INFL
++Sg+Nom: ENDLEX ;
++SP+Dat:%>нди ENDLEX ;
++SP+Gen:%>нь ENDLEX ;
++Sg+Nom+PxSg3:%>ц ENDLEX ;
++Sg+Dat+PxSg3:%>нцты ENDLEX ;
++Sg+Gen+PxSg3:%>нц ENDLEX ;
+
+LEXICON KATI-MEZE_INFL
++Pl+Nom:сть ENDLEX ;
++Pl+Nom+PxSg1:зне ENDLEX ;
++Pl+Nom+PxSg2:стне ENDLEX ;
++Pl+Nom+PxSg3:зенза ENDLEX ;
++Sg+Nom:зь ENDLEX ;
++Sg+Nom+Def:зсь ENDLEX ;
++Sg+Nom+PxSg1:зезе ENDLEX ;
++Sg+Nom+PxSg2:зце ENDLEX ;
++Sg+Nom+PxSg3:зец ENDLEX ;
++Sg+Nom+PxPl1:зеньке ENDLEX ;
++Sg+Nom+PxPl2:зенть ENDLEX ;
++Sg+Nom+PxPl3:зьсна ENDLEX ;
++Sg+Dat+Def:зти ENDLEX ;
++Sg+Gen+Def:зть ENDLEX ;
++Sg+Gen+PxSg1:зезень ENDLEX ;
++Sg+Gen+PxSg2:зцень ENDLEX ;
++Sg+Gen+PxSg3:зенц ENDLEX ;
++Sg+Gen+PxPl1:зеньконь ENDLEX ;
++Sg+Gen+PxPl2:зентень ENDLEX ;
++Sg+Gen+PxPl3:зьснон ENDLEX ;
++SP+Abl:зьда ENDLEX ;
++SP+Ill:зьс ENDLEX ;
++SP+Ine:зьса ENDLEX ;
+
++Der/Dimin+SP+Abl:зняда ENDLEX ;
++Der/Dimin+Pl+Nom:знят ENDLEX ;
++Der/Dimin+Sg+Nom+PxSg3:зняц ENDLEX ;
+
 LEXICON PRON-INDEF
 +Indef: ENDLEX ;
 
