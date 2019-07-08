@@ -65,8 +65,8 @@ LEXICON EXCEPTIONS
 
 
 !! MISSING V
-ашезь:аш V-AUX-NEG-PRT1_ASHEZJ ;
-изь:изь  V-AUX-NEG-PRT1_IZJ ;
+ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь
+ашезь+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
 
 !! TOPONYMY
 Амурскяй+N+Prop+Sem/Plc:Амурскяй PROP-PLC_VAJ ;
