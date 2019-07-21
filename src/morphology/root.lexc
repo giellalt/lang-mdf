@@ -699,13 +699,25 @@ LEXICON PO_КВАЛМА
 +Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 LEXICON PO-INE_
-+Ine:%>с%{АО%} K_вок ;
++Ine: K_вок ;
 ! Checking 2018-11-10
 +Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
 
-!LEXICON PO-PRL_
-!+Prl: K_вок ;
+LEXICON PO-ABL_
++Abl: K_вок ;
+LEXICON PO-DAT-DEF_
++Dat+Def: K_вок ;
+LEXICON PO-ELA_
++Ela: K_вок ;
+LEXICON PO-ILL_
++Ill: K_вок ;
+LEXICON PO-LAT_
++Lat: K_вок ;
+LEXICON PO-LOC_
++Loc: K_вок ;
+LEXICON PO-PRL_ !!= * @CODE@ ёнга:ёнга
++Prl: K_вок ;
 
 LEXICON PO-PRL_ЁНГА !!= * @CODE@ ёнга:ёнга
 +Prl: K_вок ;
@@ -721,8 +733,8 @@ LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
 
 
 
-LEXICON PO-SPAT_
-+Spat: K ;
+!LEXICON PO-SPAT_
+!+Spat: K ;
 
 
 

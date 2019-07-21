@@ -55,10 +55,16 @@ LEXICON ADV_АШЕЛЬ !! ашель:ашель
 +Ind+Prt2+ScPl2:еде # ;
 +Ind+Prt2+ScPl3:%>%{Х%}ть # ;
 
-LEXICON ADV-ABL ! алда:алд%{АО%}
+LEXICON ADV-ABL_ ! алда:алд%{АО%}
 +Abl: K_вок ;
-LEXICON ADV-ELA ! ирецта:ирецт%{АО%}
+LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 +Ela: K_вок ;
+LEXICON ADV-INE_ ! лангса:лангс%{АО%}
++Ine: K_вок ;
+LEXICON ADV-LAT_ ! алга:алу
++Lat: K_вок ;
+LEXICON ADV-PRL_ ! алга:алга
++Prl: K_вок ;
 
 LEXICON ADV-ABL-PXSG1
 +Abl+PxSg1: K_ГА ;
