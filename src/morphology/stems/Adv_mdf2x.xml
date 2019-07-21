@@ -281,7 +281,7 @@
    <lg>
      <l pos="Adv">аксялу</l>
      <stg>
-       <st Contlex="ADV_">аксялу</st>
+       <st Contlex="ADV-LAT_">аксялу</st>
      </stg> <phonet>akśalu</phonet>
        <l_ref>аксял</l_ref>
    </lg>
@@ -408,7 +408,7 @@
    <lg>
      <l pos="Adv">алда</l>
      <stg>
-       <st Contlex="ADV-ABL">алд%{АО%}</st>
+       <st Contlex="ADV-ABL_">алд%{АО%}</st>
      </stg> <phonet>alda</phonet>
    </lg>
      <sources>
@@ -450,7 +450,7 @@
    <lg>
      <l pos="Adv">алу</l>
      <stg>
-       <st Contlex="ADV-SPAT_">алу</st>
+       <st Contlex="ADV-LAT_">алу</st>
      </stg> <phonet>alu</phonet>
    </lg>
      <sources>
@@ -1184,7 +1184,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">аш</l>
+     <l pos="V" type="Aux">аш</l>
      <stg>
        <st Contlex="ADV-NEG_АШ">аш</st>
      </stg> <phonet>aš</phonet>
@@ -1659,7 +1659,7 @@
    <lg>
      <l pos="Adv">боку</l>
      <stg>
-       <st Contlex="ADV_">боку</st>
+       <st Contlex="ADV-LAT_">боку</st>
      </stg>
    </lg>
      <sources>
@@ -2762,7 +2762,7 @@
    <lg>
      <l pos="Adv">васту</l>
      <stg>
-       <st Contlex="ADV_">васту</st>
+       <st Contlex="ADV-LAT_">васту</st>
      </stg> <phonet>vastu</phonet>
    </lg>
      <sources>
@@ -3974,6 +3974,45 @@
      <defNative/>
    </mg>
 </e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">весяласта</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">весяласта</st>
+     </stg> <compg> </compg> <phonet>veśalasta</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">iloisesti</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">весяласта</l>
+     <stg>
+       <st Contlex="ADV_">весяласта</st>
+     </stg> <phonet>veśalasta</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">iloisesti</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e exclude="fst">
    <lg>
      <l pos="Adv" type="mwe">вете метрань кувалмоса</l>
@@ -4303,8 +4342,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. suoraan</t>
-       <t pos="Adv">rehellisesti.</t>
+       <t pos="Adv">suoraan</t>
+       <t pos="Adv">rehellisesti</t>
      </tg>
      <defNative/>
    </mg>
@@ -5142,7 +5181,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. ylhäällä.</t>
+       <t pos="Adv">ylhäällä</t>
      </tg>
      <defNative/>
    </mg>
@@ -7881,7 +7920,7 @@
    <lg>
      <l pos="Adv">ирецта</l>
      <stg>
-       <st Contlex="ADV-ELA">ирецт%{АО%}</st>
+       <st Contlex="ADV-ELA_">ирецт%{АО%}</st>
      </stg> <phonet>iŕəcta</phonet>
    </lg>
      <sources>
@@ -8347,7 +8386,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. huonosti.</t>
+       <t pos="Adv">huonosti</t>
      </tg>
      <defNative/>
    </mg>
@@ -9117,7 +9156,7 @@
    <lg>
      <l pos="Adv" type="mwe">кафту</l>
      <stg>
-       <st Contlex="ADV_">кафту</st>
+       <st Contlex="ADV-LAT_">кафту</st>
      </stg> <phonet>kaftu</phonet>
        <l_ref>кафта</l_ref>
    </lg>
@@ -10074,7 +10113,7 @@
    <lg>
      <l pos="Adv" type="mwe">кияксу</l>
      <stg>
-       <st Contlex="ADV_">кияксу</st>
+       <st Contlex="ADV-LAT_">кияксу</st>
      </stg> <phonet>kijaksu</phonet>
        <l_ref>киякс</l_ref>
    </lg>
@@ -10459,8 +10498,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. minne</t>
-       <t pos="Adv">mihin.</t>
+       <t pos="Adv">minne</t>
+       <t pos="Adv">mihin</t>
      </tg>
      <defNative/>
    </mg>
@@ -12130,7 +12169,7 @@
    <lg>
      <l pos="Adv" type="mwe">куд фталу</l>
      <stg>
-       <st Contlex="ADV_">куд фталу</st>
+       <st Contlex="ADV-LAT_">куд фталу</st>
      </stg> <phonet>kud ftalu</phonet>
        <l_ref>фтал</l_ref>
    </lg>
@@ -13591,7 +13630,7 @@
    <lg>
      <l pos="Adv">ланга</l>
      <stg>
-       <st Contlex="ADV_">ланга</st>
+       <st Contlex="ADV-PRL_">ланга</st>
      </stg>
    </lg>
      <sources>
@@ -13629,7 +13668,7 @@
    <lg>
      <l pos="Adv">ланга-лунга</l>
      <stg>
-       <st Contlex="ADV_">ланга-лунга</st>
+       <st Contlex="ADV-PRL_">ланга-лунга</st>
      </stg>
    </lg>
      <sources>
@@ -13687,7 +13726,7 @@
    <lg>
      <l pos="Adv">лангса</l>
      <stg>
-       <st Contlex="ADV_">лангса</st>
+       <st Contlex="ADV-INE_">лангс%{АО%}</st>
      </stg> <phonet>laŋksa</phonet>
    </lg>
      <sources>
@@ -13710,11 +13749,32 @@
      </xg>
    </mg>
 </e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Adv">лангста</l>
+     <stg>
+       <st Contlex="ADV-ELA_">лангст%{АО%}</st>
+     </stg> <phonet>laŋksta</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">päältä</t>
+       <t pos="A">päällys-</t>
+       <t pos="A">-lta</t>
+       <t pos="A">päällys-</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">лангу</l>
      <stg>
-       <st Contlex="ADV_">лангу</st>
+       <st Contlex="ADV-LAT_">лангу</st>
      </stg> <phonet>laŋgu</phonet>
    </lg>
      <sources>
@@ -13818,8 +13878,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. ratsain</t>
-       <t pos="Adv">hevosella.</t>
+       <t pos="Adv">ratsain</t>
+       <t pos="Adv">hevosella</t>
      </tg>
      <defNative/>
    </mg>
@@ -13972,7 +14032,7 @@
    <lg>
      <l pos="Adv">лемса</l>
      <stg>
-       <st Contlex="ADV_">лемса</st>
+       <st Contlex="ADV-INE_">лемс%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -13993,7 +14053,7 @@
    <lg>
      <l pos="Adv">лемса-валса</l>
      <stg>
-       <st Contlex="ADV_">лемса-валса</st>
+       <st Contlex="ADV-INE_">лемса-валса</st>
      </stg>
    </lg>
      <sources>
@@ -14011,7 +14071,7 @@
    <lg>
      <l pos="Adv">лемса-пилеса</l>
      <stg>
-       <st Contlex="ADV_">лемса-пилеса</st>
+       <st Contlex="ADV-INE_">лемса-пилеса</st>
      </stg>
    </lg>
      <sources>
@@ -14330,7 +14390,7 @@
    <lg>
      <l pos="Adv" type="mwe">ломанень масторса</l>
      <stg>
-       <st Contlex="ADV_">ломанень масторса</st>
+       <st Contlex="ADV-INE_">ломанень масторс%{АО%}</st>
      </stg> <phonet>lomańəń mastərsa</phonet>
        <l_ref>мастор</l_ref>
    </lg>
@@ -14758,7 +14818,7 @@
    <lg>
      <l pos="Adv" type="mwe">маласа</l>
      <stg>
-       <st Contlex="ADV_">маласа</st>
+       <st Contlex="ADV-INE_">малас%{АО%}</st>
      </stg> <phonet>malasa</phonet>
        <l_ref>мала</l_ref>
    </lg>
@@ -14970,7 +15030,7 @@
    <lg>
      <l pos="Adv">марняса</l>
      <stg>
-       <st Contlex="ADV_">марняса</st>
+       <st Contlex="ADV-INE_">марняс%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -14997,8 +15057,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. (kaikki) yhdessä</t>
-       <t pos="Adv">jokaikinen.</t>
+       <t pos="Adv">(kaikki) yhdessä</t>
+       <t pos="Adv">jokaikinen</t>
      </tg>
      <defNative/>
    </mg>
@@ -15057,7 +15117,7 @@
    <lg>
      <l pos="Adv">марса</l>
      <stg>
-       <st Contlex="ADV_">марса</st>
+       <st Contlex="ADV-INE_">марс%{АО%}</st>
      </stg> <phonet>marsa</phonet>
    </lg>
      <sources>
@@ -15079,7 +15139,7 @@
    <lg>
      <l pos="Adv" type="mwe">марстонь вийса</l>
      <stg>
-       <st Contlex="ADV_">марстонь вийса</st>
+       <st Contlex="ADV-INE_">марстонь вийс%{АО%}</st>
      </stg> <phonet>marstəń vijsa</phonet>
        <l_ref>вий</l_ref>
    </lg>
@@ -15177,7 +15237,7 @@
    <lg>
      <l pos="Adv" type="mwe">мастору</l>
      <stg>
-       <st Contlex="ADV_">мастору</st>
+       <st Contlex="ADV-LAT_">мастору</st>
      </stg> <phonet>mastəru</phonet>
        <l_ref>мастор</l_ref>
    </lg>
@@ -15322,7 +15382,7 @@
    <lg>
      <l pos="Adv">мековасу</l>
      <stg>
-       <st Contlex="ADV_">мековасу</st>
+       <st Contlex="ADV-LAT_">мековасу</st>
      </stg> <phonet>mekəvasu, mekuvasu</phonet>
    </lg>
      <sources>
@@ -15402,8 +15462,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. perään</t>
-       <t pos="Adv">jälkeen.</t>
+       <t pos="Adv">perään</t>
+       <t pos="Adv">jälkeen</t>
      </tg>
      <defNative/>
    </mg>
@@ -15687,7 +15747,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. viime vuonna.</t>
+       <t pos="Adv">viime vuonna</t>
      </tg>
      <defNative/>
    </mg>
@@ -16562,7 +16622,7 @@
    <lg>
      <l pos="Adv" type="mwe">митингса</l>
      <stg>
-       <st Contlex="ADV_">митингса</st>
+       <st Contlex="ADV-INE_">митингс%{АО%}</st>
      </stg> <phonet>miťiŋksa</phonet>
        <l_ref>митинг</l_ref>
    </lg>
@@ -16758,12 +16818,46 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="xyz"><t/>
+     </tg>
+<defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мзярда</l>
+     <stg>
+       <st Contlex="ADV_">мъзярда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <defNative/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">мъзярда-бъди</l>
+     <stg>
+       <st Contlex="ADV_">мъзярда-бъди</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz"><t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мзярда-бди</l>
      <stg>
        <st Contlex="ADV_">мъзярда-бъди</st>
      </stg>
@@ -16780,7 +16874,7 @@
    <lg>
      <l pos="Adv">мяльса-кяльса</l>
      <stg>
-       <st Contlex="ADV_">мяльса-кяльса</st>
+       <st Contlex="ADV-INE_">мяльса-кяльса</st>
      </stg>
    </lg>
      <sources>
@@ -17559,7 +17653,7 @@
    <lg>
      <l pos="Adv" type="mwe">ниле кядьса-пильгса</l>
      <stg>
-       <st Contlex="ADV_">ниле кядьса-пильгса</st>
+       <st Contlex="ADV-INE_">ниле кядьса-пильгса</st>
      </stg> <phonet>ńiľə käcə-piľksa</phonet>
        <l_ref>пильге</l_ref>
    </lg>
@@ -17690,7 +17784,7 @@
    <lg>
      <l pos="Adv">нилепилькса</l>
      <stg>
-       <st Contlex="ADV_">нилепилькса</st>
+       <st Contlex="ADV-INE_">нилепилькса</st>
      </stg>
    </lg>
      <sources>
@@ -18006,7 +18100,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. suoraan.</t>
+       <t pos="Adv">suoraan</t>
      </tg>
      <defNative/>
    </mg>
@@ -18305,7 +18399,7 @@
    <lg>
      <l pos="Adv" type="mwe">од пара пряса</l>
      <stg>
-       <st Contlex="ADV_">од пара пряса</st>
+       <st Contlex="ADV-INE_">од пара пряс%{АО%}</st>
      </stg> <phonet>od par(ə) pŕasa</phonet>
        <l_ref>од</l_ref>
    </lg>
@@ -18388,7 +18482,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. uudelleen.</t>
+       <t pos="Adv">uudelleen</t>
      </tg>
      <defNative/>
    </mg>
@@ -18405,7 +18499,7 @@
    <lg>
      <l pos="Adv">оду</l>
      <stg>
-       <st Contlex="ADV_">оду</st>
+       <st Contlex="ADV-LAT_">оду</st>
      </stg> <phonet>odu</phonet>
    </lg>
      <sources>
@@ -18539,7 +18633,7 @@
    <lg>
      <l pos="Adv">омбоку</l>
      <stg>
-       <st Contlex="ADV_">омбоку</st>
+       <st Contlex="ADV-LAT_">омбоку</st>
      </stg> <phonet>omboku</phonet>
    </lg>
      <sources>
@@ -18958,7 +19052,7 @@
    <lg>
      <l pos="Adv" type="mwe">офтонь ужеса</l>
      <stg>
-       <st Contlex="ADV_">офтонь ужеса</st>
+       <st Contlex="ADV-INE_">офтонь ужес%{АО%}</st>
      </stg> <phonet>oftəń užəsa</phonet>
        <l_ref>ужа</l_ref>
    </lg>
@@ -18997,7 +19091,7 @@
    <lg>
      <l pos="Adv" type="mwe">оцю аськолксса</l>
      <stg>
-       <st Contlex="ADV_">оцю аськолксса</st>
+       <st Contlex="ADV-INE_">оцю аськолксс%{АО%}</st>
      </stg> <phonet>oću aśkəlkssa</phonet>
        <l_ref>аськолкс</l_ref>
    </lg>
@@ -19165,7 +19259,7 @@
    <lg>
      <l pos="Adv" type="mwe">ошса</l>
      <stg>
-       <st Contlex="ADV_">ошса</st>
+       <st Contlex="ADV-INE_">ошс%{АО%}</st>
      </stg> <phonet>ošsa</phonet>
        <l_ref>ош</l_ref>
    </lg>
@@ -19276,7 +19370,7 @@
    <lg>
      <l pos="Adv">паксява</l>
      <stg>
-       <st Contlex="ADV_">паксява</st>
+       <st Contlex="ADV-PRL_">паксява</st>
      </stg>
    </lg>
      <sources>
@@ -19501,72 +19595,6 @@
      <defNative/>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="Adv">пара</l>
-     <stg>
-       <st Contlex="ADV_">пара</st>
-     </stg> <phonet>para</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">1. hyvä.</t>
-     </tg>
-     <defNative/>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">omaisuus</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>пара вал</x> <phonet>parə val</phonet>
-       <xt xml:lang="fin">tervehdys</xt>
-     </xg>
-     <xg>
-       <x>пара уша</x> <phonet>parə uša</phonet>
-       <xt xml:lang="fin">hyvä sää</xt>
-     </xg>
-     <xg>
-       <x>пара канды</x> <phonet>parə kandi</phonet>
-       <xt xml:lang="fin">hyödyllinen, tarpeellinen</xt>
-     </xg>
-     <xg>
-       <x>арьсемс пара</x> <phonet>aŕśəms para</phonet>
-       <xt xml:lang="fin">onnitella, toivottaa onnea</xt>
-     </xg>
-     <xg>
-       <x>лангс ваномс аф пара</x> <phonet>laŋks vanəms af para</phonet>
-       <xt xml:lang="fin">pahannäköinen</xt>
-     </xg>
-     <xg>
-       <x>аф пара вайгяльса</x> <phonet>af parə vajgäľsa</phonet>
-       <xt xml:lang="fin">kauhistuneena, pahalla äänellä</xt>
-     </xg>
-     <xg>
-       <x>парста</x> <phonet>parsta, parəsta</phonet>
-       <xt xml:lang="fin">hyvin</xt>
-     </xg>
-     <xg>
-       <x>аф парста</x> <phonet>af parsta</phonet>
-       <xt xml:lang="fin">huonosti, kelvottomasti</xt>
-     </xg>
-     <xg>
-       <x>паронь пандома</x> <phonet>parəń pandəma</phonet>
-       <xt xml:lang="fin">tehdä vastapalvelus</xt>
-     </xg>
-     <xg>
-       <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
-       <xt xml:lang="fin">tervehtiä</xt>
-     </xg>
-   </mg>
-</e>
 <e exclude="fst">
    <lg>
      <l pos="Adv" type="mwe">пара ломаттнень минь васетькшнесаськ кшиса-салса</l>
@@ -19754,8 +19782,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. puoliksi</t>
-       <t pos="Adv">kahtia.</t>
+       <t pos="Adv">puoliksi</t>
+       <t pos="Adv">kahtia</t>
      </tg>
      <defNative/>
    </mg>
@@ -20251,7 +20279,7 @@
    <lg>
      <l pos="Adv">пильгесурпряса</l>
      <stg>
-       <st Contlex="ADV_">пильгесурпряса</st>
+       <st Contlex="ADV-INE_">пильгесурпряса</st>
      </stg>
    </lg>
      <sources>
@@ -20312,7 +20340,7 @@
    <lg>
      <l pos="Adv">пильгопеса</l>
      <stg>
-       <st Contlex="ADV_">пильгопеса</st>
+       <st Contlex="ADV-INE_">пильгопес%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -20992,7 +21020,7 @@
    <lg>
      <l pos="Adv" type="mwe">потмоса</l>
      <stg>
-       <st Contlex="ADV_">потмоса</st>
+       <st Contlex="ADV-INE_">потмос%{АО%}</st>
      </stg> <phonet>potməsa</phonet>
        <l_ref>потма</l_ref>
    </lg>
@@ -21030,7 +21058,7 @@
    <lg>
      <l pos="Adv" type="mwe">потму</l>
      <stg>
-       <st Contlex="ADV_">потму</st>
+       <st Contlex="ADV-LAT_">потму</st>
      </stg> <phonet>potmu</phonet>
        <l_ref>потма</l_ref>
    </lg>
@@ -22002,7 +22030,7 @@
    <lg>
      <l pos="Adv">пяторфса</l>
      <stg>
-       <st Contlex="ADV_">пяторфса</st>
+       <st Contlex="ADV-INE_">пяторфс%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -27338,6 +27366,47 @@
      <defNative/>
    </mg>
 </e>
+<e exclude="fst">
+   <map/>
+   <lg>
+     <l pos="Adv" type="mwe">татаркс</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADV_">татаркс</st>
+     </stg> <compg> </compg> <phonet>tatarks</phonet>
+       <l_ref>татар</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="undefined">tataariksi</t>
+       <t pos="undefined">tataarin kielellä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">татаркс</l>
+     <stg>
+       <st Contlex="ADV_">татаркс</st>
+     </stg> <phonet>tatarks</phonet>
+       <l_ref>татар</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tataariksi</t>
+       <t>tataarin kielellä</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">таядоста</l>
@@ -28284,8 +28353,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. sinne</t>
-       <t pos="Adv">tuonne.</t>
+       <t pos="Adv">sinne</t>
+       <t pos="Adv">tuonne</t>
      </tg>
      <defNative/>
    </mg>
@@ -28625,7 +28694,7 @@
        <sem class=""/>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. siellä</t>
+       <t pos="Adv">siellä</t>
        <t pos="Adv">tuolla</t>
      </tg>
      <tg xml:lang="fra">
@@ -28669,7 +28738,7 @@
    <lg>
      <l pos="Adv">тоста</l>
      <stg>
-       <st Contlex="ADV_">тоста</st>
+       <st Contlex="ADV-ELA_">тоста</st>
      </stg> <phonet>tosta</phonet>
    </lg>
      <sources>
@@ -28678,7 +28747,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. sieltä.</t>
+       <t pos="Adv">sieltä</t>
      </tg>
      <defNative/>
    </mg>
@@ -29854,8 +29923,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. näin</t>
-       <t pos="Adv">niin.</t>
+       <t pos="Adv">näin</t>
+       <t pos="Adv">niin</t>
      </tg>
      <defNative/>
    </mg>
@@ -30419,7 +30488,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. valitettavasti.</t>
+       <t pos="Adv">valitettavasti</t>
      </tg>
      <defNative/>
    </mg>
@@ -30819,7 +30888,7 @@
    <lg>
      <l pos="Adv" type="mwe">ушу</l>
      <stg>
-       <st Contlex="ADV_">ушу</st>
+       <st Contlex="ADV-LAT_">ушу</st>
      </stg> <phonet>ušu</phonet>
        <l_ref>уша</l_ref>
    </lg>
@@ -31073,7 +31142,6 @@
      <l pos="Adv">фкакс</l>
      <stg>
        <st Contlex="ADV_">фкакс</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">фъкакс</st>
      </stg> <phonet>fkaks</phonet>
    </lg>
      <sources>
@@ -31082,8 +31150,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. yhtäläisesti</t>
-       <t pos="Adv">samalla lailla.</t>
+       <t pos="Adv">yhtäläisesti</t>
+       <t pos="Adv">samalla lailla</t>
      </tg>
      <defNative/>
    </mg>
@@ -31119,7 +31187,14 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. yhteen ääneen. 2. monotonisesti, yksitoikkoisesti</t>
+       <t pos="Adv">yhteen ääneen</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">monotonisesti, yksitoikkoisesti</t>
      </tg>
    </mg>
 </e>
@@ -31128,7 +31203,6 @@
      <l pos="Adv">фкя-фкяньпес</l>
      <stg>
        <st Contlex="ADV_">фкя-фкяньпес</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">фъкя-фкяньпес</st>
      </stg>
    </lg>
      <sources>
@@ -33727,8 +33801,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">1. äsken</t>
-       <t pos="Adv">vastikään.</t>
+       <t pos="Adv">äsken</t>
+       <t pos="Adv">vastikään</t>
      </tg>
      <defNative/>
    </mg>

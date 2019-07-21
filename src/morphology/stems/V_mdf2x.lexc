@@ -87,7 +87,7 @@ LEXICON V_mdf2x
 азондовомс+V:азондов IV_ANDOVOMS  "tulla kerrotuksi" ;
 азондомс+V:азонд TV_ANDOMS  "kertoa" ;
 азонкшневомс+V:азонкшнев IV_ANDOVOMS  "tulla kerrotuksi" ;
-азонкшнемс+V:азонкшне IV_KUNDAMS  "puhella" ;
+азонкшнемс+V:азонкшне BV_KUNDAMS  "puhella" ;
 азонфнемс+V:азонфне TV_KUNDAMS  "kerrottaa" ;
 азонфтомс+V:азонфт TV_ALYJAFTOMS  "kerrottaa" ;
 азорондакшнемс+V:азорондакшне IV_KUNDAMS  "hallita" ;
@@ -5360,8 +5360,8 @@ LEXICON V_mdf2x
 наряднайгофнемс+V:наряднайгофне TV_KUNDAMS  "pukea joku parhaimpiinsa" ;
 наряднайгофтомс+V:наряднайгофт TV_ALYJAFTOMS  "pukea joku parhaimpiinsa" ;
 наряжавомс+V:наряжав IV_ANDOVOMS  "pukeutua" ;
-наряжакшнемс+V:наряжакшне IV_KUNDAMS  "koristella" ;
-наряжамс+V:наряжа IV_KUNDAMS  "koristaa" ;
+наряжакшнемс+V:наряжакшне BV_KUNDAMS  "koristella" ;
+наряжамс+V:наряжа BV_KUNDAMS  "koristaa" ;
 наряжафнемс+V:наряжафне TV_KUNDAMS  "koristella" ;
 насиловандавомс+V:насиловандав IV_ANDOVOMS  "tulla raiskatuksi" ;
 насиловандамс+V:насилованда IV_KUNDAMS  "raiskata" ;
