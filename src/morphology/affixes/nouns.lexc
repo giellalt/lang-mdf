@@ -940,6 +940,7 @@ LEXICON SP-DAT/GEN/NOM-PXPL3
 
 LEXICON SG-NOM
 +Sg+Nom+Indef: K ;
++Sg+Nom+Indef+Cop: SG-NMN-COP-FOR_MUTUAL-PRT2 ;
 
 LEXICON NOTDEF-ABE
 +SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
@@ -1029,10 +1030,20 @@ LEXICON PL-NOM-INDEF
 !
 LEXICON PL-NOM
 +Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K ;
++Pl+Nom+Indef+Cop:%>%{Х%}т%{ЬØ%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
 !+Pl+Nom+Indef:%>%{Х%}т K ;
 !!€ киза%^А2О%>%{Х%}т%{ЬØ%}
 !!€ кизо0%>0т0
 
+LEXICON SG-NMN-COP-FOR_MUTUAL-PRT2
+ MUTUAL-PRT2-10 ;
+ MUTUAL-PRT2-20 ;
+ MUTUAL-PRT2-30 ;
+
+LEXICON PL-NMN-COP-FOR_MUTUAL-PRT2
+ MUTUAL-PRT2-40 ;
+ MUTUAL-PRT2-50 ;
+ MUTUAL-PRT2-60 ;
 
 !LEXICON Choose-INDEF-OBLPX-kal
 !+Indef: K ;
