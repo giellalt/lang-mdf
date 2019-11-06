@@ -88,6 +88,9 @@
 е	ё	0.5
 Е	Ё	0.5
 
-## Swaps:
+## Swaps. NB! Please note that these depend on the variable
+## USE_SWAPS in Makefile.am in this directory. Also note that
+## enabling swaps is computationally expensive. See note in
+## Makefile.am.
 ## Change dh into hd with the weight 0.5:
 d,h	h,d	0.5
