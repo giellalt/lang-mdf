@@ -78,9 +78,9 @@ GENERATED_LEXC_SRCS=\
 			 $(srcdir)/stems/Num_mdf2x.lexc   \
 			 $(srcdir)/stems/Pcle_mdf2x.lexc     \
 			 $(srcdir)/stems/Prc_mdf2x.lexc   \
-			 $(srcdir)/stems/Pron_mdf2x.lexc      \
 			 $(srcdir)/stems/V_mdf2x.lexc
 
+#			 $(srcdir)/stems/Pron_mdf2x.lexc      
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			 stems/A_mdf2x.xml    \
@@ -95,9 +95,9 @@ GT_XML_SRCS=\
 			 stems/Num_mdf2x.xml   \
 			 stems/Pcle_mdf2x.xml     \
 			 stems/Prc_mdf2x.xml   \
-			 stems/Pron_mdf2x.xml      \
 			 stems/V_mdf2x.xml
 
+#			 stems/Pron_mdf2x.xml      
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=
 
