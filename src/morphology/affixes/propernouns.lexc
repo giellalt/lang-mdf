@@ -6,11 +6,11 @@
 !LEXICON PropTag
 ! PROP_ ;
 LEXICON PROP_
-+Sg+Nom+Indef+TYÄ: K ;
-+Sg+Nom+Def+TYÄ:%>сь K ;
-+Sg+Gen+Indef+TYÄ:%>нь K ;
-+Sg+Gen+Def+TYÄ:%>ть K ;
-+Sg+Dat+Def+TYÄ:%>ти K ;
++Sg+Nom+Indef: K ;
++Sg+Nom+Def:%>сь K ;
++Sg+Gen+Indef:%>нь K ;
++Sg+Gen+Def:%>ть K ;
++Sg+Dat+Def:%>ти K ;
 
 LEXICON PROP_KAL
 : NMN_KAL	;

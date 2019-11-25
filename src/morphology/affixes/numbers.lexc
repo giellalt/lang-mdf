@@ -8,13 +8,13 @@
 !!!!!!!!!!!
 
 !LEXICON QNT_
-!+TYÄ: K ;
+!: K ;
 
 LEXICON NUM_
-+TYÄ: K ;
+: K ;
 
 LEXICON NUM-CARD_
-+Card+TYÄ: K ;
++Card: K ;
 
 LEXICON NUM-CARD_AVA
 +Card: NMN_AVA ;
@@ -27,13 +27,13 @@ LEXICON NUM-CARD_KAL
 
 
 LEXICON NUM-COLL_
-+Card+Coll+TYÄ:	K ;
++Card+Coll:	K ;
 
 !LEXICON NUM-ITER_
 !+Mult: K ;
 
 LEXICON NUM-ORD_
-+Ord+TYÄ: K ;
++Ord: K ;
 
 
 

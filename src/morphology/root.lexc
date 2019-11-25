@@ -33,6 +33,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Adv 		!!≈ ;@CODE@: adverb
  +CS 		!!≈ ;@CODE@: subordinating conjunction
  +CC 		!!≈ ;@CODE@: coordinating conjunction
+ +Det		!!≈ ;@CODE@: Determiner
  +Interj 	!!≈ ;@CODE@: interjection
  +N 		!!≈ ;@CODE@: noun
  +Pcle 		!!≈ ;@CODE@: particle
@@ -89,8 +90,6 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Use/-Ped   !!≈ * _@CODE@_ * Remove from pedagogical speller
  +Use/NG    !!≈ * _@CODE@_ * Do not generate, for isme-ped.fst and apertium
 
- +SerialVerb	!!≈ * _@CODE@_ * serial verbs, is this necessary
-
  +Err/Lex !!≈ * _@CODE@_ * The lemma is not a Moksha word
  +Dial
 !!
@@ -118,6 +117,10 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Prl 		!!= ;@CODE@: prolative
  +Tra 		!!= ;@CODE@: translative
  +Voc 		!!= ;@CODE@: Vocative
+
+! Dative
++Short
++Long
 
 !! The possession is marked as such:
  +PxSg1 	!!= ;@CODE@: first person singular
@@ -199,6 +202,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
   +VAbl   	!!= @CODE@ Verb Ablative "озадо"
  +PrsPrc !
  +PrfPrc
+  +Proh
 
 ! Abbreviated words are classified with:
  +ABBR 	!!= @CODE@ Abbreviation
@@ -215,12 +219,57 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! Non-dictionary words can be recognised with:
  +Guess
 
+! tags
+ +Dig1  !!≈ * @CODE@ 
+ +Dig2  !!≈ * @CODE@ 
+ +Dig3  !!≈ * @CODE@ 
+ +Dig4  !!≈ * @CODE@ 
+ +Rom !!≈ * @CODE@ Roman numerals
+
+!! Compounding
++Cmp !!≈ * @CODE@ Dynamic compound - this tag should always be part of a dynamic compound.
+     !! It is important for Apertium, and useful in other cases as well.
++Cmp/Hyph-Coll !!≈ * @CODE@ with nouns
++Cmp/Hyph-Redup !!≈ * @CODE@ with verbs
++Cmp/Hyph-Synonym !!≈ * @CODE@ with verbs
++Cmp/Hyph-Serial !!≈ * @CODE@ with verbs
++Cmp/Hyph-tejems !!≈ * @CODE@ with verbs
+
 !! Question and Focus particles:
  +Clt/Cop
 
  +Qst +Foc
  +Foc/вок
  +Foc/Ге
+
+!!! !Tags usually not visible outside the code:
+
+
+!! !Tags distinguishing different versions of the same lemma (before POS)
++v1   !!≈ * @CODE@
++v2   !!≈ * @CODE@
++v3   !!≈ * @CODE@
++v4   !!≈ * @CODE@
++v5   !!≈ * @CODE@
++v6   !!≈ * @CODE@
++v7   !!≈ * @CODE@
++v8   !!≈ * @CODE@
++v9   !!≈ * @CODE@
++v10  !!≈ * @CODE@
++v11  !!≈ * @CODE@
++v12  !!≈ * @CODE@
++v13  !!≈ * @CODE@
++v14  !!≈ * @CODE@
++v15  !!≈ * @CODE@
++v16  !!≈ * @CODE@
++v17  !!≈ * @CODE@
++v18  !!≈ * @CODE@
++v19  !!≈ * @CODE@
++v20  !!≈ * @CODE@
++v21  !!≈ * @CODE@
++v22  !!≈ * @CODE@
++v23  !!≈ * @CODE@
++v24  !!≈ * @CODE@
 
 ! Semantic tags to help disambiguation & synt. analysis: (before POS)
 ! Borrowed from main/langs/sme/src/morphology/root.lexc
@@ -522,6 +571,10 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^PXSG1		!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
  {front} {back}
  %>
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
 
 !! !!Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
@@ -650,7 +703,7 @@ LEXICON Root
   Num_mdf2x	;
   Pcle_mdf2x	;
   Prc_mdf2x	;
-  Pron_mdf2x	;
+!2019-11-17 all pronouns in lexc  Pron_mdf2x	;
   V_mdf2x	;
     Punctuation ;
     Symbols     ;
@@ -678,7 +731,7 @@ LEXICON Root
 !+Use/Circ+Cmp%-:%- N_mdf2x ;
 
 LEXICON VerbEnd
-+SerialVerb+Use/Circ+Cmp%-:%- V_mdf2x       ;
++Cmp/Hyph-Serial+Use/Circ+Cmp%-:%- V_mdf2x       ;
  K ;
 
 
