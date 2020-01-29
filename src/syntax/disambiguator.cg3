@@ -232,6 +232,7 @@ LIST Conj = Conj ;
 LIST Des = Des ;
 LIST Ind = Ind ;
 LIST Opt = Opt ;
+LIST Proh = Proh ;
 LIST Aux = Aux ;
 
 LIST Imprt = Imprt ;
@@ -299,7 +300,7 @@ LIST <vdic> = <vdic> ;
 LIST MARXTA = "мархта" ;
 LIST ULEMA = "улема" ;
 LIST AUX = "эрявомс" ;
-
+LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
 
 # Phrasal groups
@@ -383,12 +384,14 @@ REMOVE:RmGenIfSubjPl1 Gen IF (0 Pron + Pers + Pl1) (1* ScPl1 BARRIER CLB) ;
 # азондомс минь тевонконь колга
 REMOVE:NoNomIfSubseqPossessumPl1 Nom IF (0 Pron + Pers + Pl1) (1 PxPl1) ;
 
-REMOVE:NoNomIfSubseqPossessumPl2 Nom IF (0 Pron + Pers + Pl2) (1 PxPl2) ;
+# и лятфнетядязь тинь
+REMOVE:NoNomIfSubseqPossessumPl2 Nom IF (0 Pron + Pers + Pl2) ((1 PxPl2) OR (-1 OcPl2)) ;
+
 
 REMOVE:NoNomIfSubseqPossessumPl3 Nom IF (0 Pron + Pers + Pl3) (1 PxPl3) ;
 
 # Сон минь кочкамазь
-REMOVE:NoNomPl1IfOc Nom If (0 Pron + Pers + Pl1 + Gen) (1* OcPl1 BARRIER CLB) ;
+REMOVE:NoNomPl1IfOc Nom If (0 Pron + Pers + Pl1 + Gen) ((-1* OcPl1 BARRIER CLB) OR (1* OcPl1 BARRIER CLB)) ;
 
 # Select the postposition марто when it is preceded by genitive definite 
 #SELECT Po IF (0 MARXTA) (-1 Gen + Def) (1 CLB) ;
@@ -428,6 +431,28 @@ REMOVE OcSg3 IF (1 Pl + Gen) (2 CLB);
 
 # эряви улемс
 REMOVE:AuxWhenNextInf Der/I IF (0 AUX) (1 Inf) ;
+
+# и лятфнетядязь тинь
+REMOVE:NoSgIfObjPron OcSg2 IF (0 OcPl2) (1 Pron + Pers + Pl2 + Gen) ; 
+
+# минь инголькиге ладямазь
+# Сон тиемазь минь
+REMOVE:NoMimsIfSubseqOcPl1 V IF (0 Pron + Pers + Pl1 + Gen) ((-1* OcPl1 BARRIER CLB) OR (1* OcPl1 BARRIER CLB)) ;
+
+# Сон минь кочкамазь
+# кода Христосовок кельгомазь минь
+REMOVE:OcSg1IfPl1Obj OcSg1 IF (0 OcPl1) ((-1 Pron + Pers + Pl1 + Gen) OR (1 Pron + Pers + Pl1 + Gen)) ;
+
+# Сон тердедязь, и конашкава козя
+REMOVE:NoSgObjPassIfSubjSg OcSg2 IF (-1 Pron + Pers + Sg3 + Nom) (0 OcPl2) (0 ScSg1) ;
+
+# 
+REMOVE:NoScPl3IfSubjSg3 ScPl3 IF (0 ScSg3) ((-1* Pron + Pers + Sg3 + Nom BARRIER CLB) OR (1* Pron + Pers + Sg3 + Nom BARRIER CLB)) ;
+
+# Тяда инголе
+REMOVE:NoAuxProhIfAblAndNextCompared Proh IF (0 Abl) (1 CompAdv ) ;
+
+REMOVE Po IF (-1 Abl) (0 CompAdv) ;
 
 # Тяфта минь ульхтяма
 REMOVE V IF (0 Pron + Pers + Pl1 + Nom) (1* VFIN BARRIER CLB);
