@@ -232,6 +232,7 @@ LIST Conj = Conj ;
 LIST Des = Des ;
 LIST Ind = Ind ;
 LIST Opt = Opt ;
+LIST Aux = Aux ;
 
 LIST Imprt = Imprt ;
 
@@ -287,6 +288,7 @@ LIST Der/шка = Der/шка ;
 LIST Der/Онь = Der/Онь ;
 LIST Der/ай = Der/ай ;
 LIST Der/кай = Der/кай ;
+LIST Der/I = Der/I ;
 
 LIST Der/MWN = Der/MWN ;
 LIST Der/Dem = Der/Dem ;
@@ -296,7 +298,7 @@ LIST <vdic> = <vdic> ;
 
 LIST MARXTA = "мархта" ;
 LIST ULEMA = "улема" ;
-
+LIST AUX = "эрявомс" ;
 
 #2013-05-22
 
@@ -365,6 +367,28 @@ SELECT CC IF (0 CC) (-1 Ant + Sg + Nom ) (1 Ant + Pl + Nom ) ;
 # ванондан веленьконь вельхкска лиенди самолёттнень мельге и сельмотькшнян.
 SELECT CC IF (0 CC) (-* VFIN ) (* VFIN ) ;
 
+## Number
+
+# Remove Pl
+# Синь шарьхкодемасна шобдалгодсь
+REMOVE:NoPlIfSubseqSgV Pl If (0 Sg + Nom) (1 Prt1 + ScSg3)  ;
+
+# Remove pronoun readings
+# Вдь тинь содасасть:
+REMOVE:RmGenIfSubj Gen IF (0 Pron + Pers + Pl2) (1* ScPl2 BARRIER CLB) ;
+
+# Тяфта минь ульхтяма
+REMOVE:RmGenIfSubjPl1 Gen IF (0 Pron + Pers + Pl1) (1* ScPl1 BARRIER CLB) ;
+
+# азондомс минь тевонконь колга
+REMOVE:NoNomIfSubseqPossessumPl1 Nom IF (0 Pron + Pers + Pl1) (1 PxPl1) ;
+
+REMOVE:NoNomIfSubseqPossessumPl2 Nom IF (0 Pron + Pers + Pl2) (1 PxPl2) ;
+
+REMOVE:NoNomIfSubseqPossessumPl3 Nom IF (0 Pron + Pers + Pl3) (1 PxPl3) ;
+
+# Сон минь кочкамазь
+REMOVE:NoNomPl1IfOc Nom If (0 Pron + Pers + Pl1 + Gen) (1* OcPl1 BARRIER CLB) ;
 
 # Select the postposition марто when it is preceded by genitive definite 
 #SELECT Po IF (0 MARXTA) (-1 Gen + Def) (1 CLB) ;
@@ -376,8 +400,10 @@ SELECT Po IF (0 Po) (-1 Gen + PX) ;
 
 # Remove postposition when preceded by def nominative
 
+
 # Remove ConNeg when preceded by CLB
-REMOVE:ConNegWhenPrecededByClb ConNeg IF (-1 CLB) ;
+# тяза лисе кургстонт кодамовок наксада вал
+REMOVE:ConNegWhenPrecededByClb ConNeg IF ((-1 CLB) OR (NOT *-1 Aux + Neg BARRIER CLB)) ;
 
 # Remove Interj Neg when followed by
 # аф якан
@@ -400,6 +426,11 @@ REMOVE Prl IF (0 Sur) ;
 # азондыне арьсеманень, а сон
 REMOVE OcSg3 IF (1 Pl + Gen) (2 CLB);
 
+# эряви улемс
+REMOVE:AuxWhenNextInf Der/I IF (0 AUX) (1 Inf) ;
+
+# Тяфта минь ульхтяма
+REMOVE V IF (0 Pron + Pers + Pl1 + Nom) (1* VFIN BARRIER CLB);
 
 # сон пеедезевсь и корхтай:
 #REMOVE Pcle IF (-1 N + $$CASE)(1 N + $$CASE);
