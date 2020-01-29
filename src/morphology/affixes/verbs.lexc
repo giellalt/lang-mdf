@@ -1345,7 +1345,7 @@ LEXICON OPT-60
 
 LEXICON INF_ОМ
 +Inf:%>%{ЕОØ%}мс K ;
-+Inf+Ill:%>%{ЕОØ%}мс K ;
+!+Inf+Ill:%>%{ЕОØ%}мс K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;

@@ -124,70 +124,70 @@ LEXICON PRON_
 !! PERSONAL PRONOUNS
 LEXICON PERS-SG1
 !мон:мон
-+Pers+Sg1+Nom: K_ГА ;
-+Pers+Sg1+Gen:ь K_ГА ;
-+Pers+Sg1+Dat:дейне K ;
-+Pers+Sg1+Abl:дедон K ;
-+Pers+Sg1+Abe:ьфтемон K ;
-+Pers+Sg1+Intensive+Nom:ць K_ГА ;
-+Pers+Sg1+Intensive+Gen:цень K_ГА ;
-+Pers+Sg1+Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
-+Pers+Sg1+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom: K_ГА ;
++Gen:ь K_ГА ;
++Dat:дейне K ;
++Abl:дедон K ;
++Abe:ьфтемон K ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-SG2
 ! тон:тон
-+Pers+Sg2+Nom: K_ГА ;
-+Pers+Sg2+Gen:ь K_ГА ;
-+Pers+Sg2+Dat:дейть K_ГА ;
-+Pers+Sg2+Abl:дедот K_ГА ;
-+Pers+Sg2+Abe:ьфтемот K_ГА ;
-+Pers+Sg2+Intensive+Nom:ць K_ГА ;
-+Pers+Sg2+Intensive+Gen:цень K_ГА ;
-+Pers+Sg2+Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
-+Pers+Sg2+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom: K_ГА ;
++Gen:ь K_ГА ;
++Dat:дейть K_ГА ;
++Abl:дедот K_ГА ;
++Abe:ьфтемот K_ГА ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-SG3
 ! сон:сон
-+Pers+Sg3+Nom: K_ГА ;
-+Pers+Sg3+Gen:ь K_ГА ;
-+Pers+Sg3+Dat:дейнз%{АО%} K_вок ;
-+Pers+Sg3+Abl:дедонз%{АО%} K_вок ;
-+Pers+Sg3+Abe:ьфтемонз%{АО%} K_вок ;
-+Pers+Sg3+Intensive+Nom:ць K_ГА ;
-+Pers+Sg3+Intensive+Gen:цень K_ГА ;
-+Pers+Sg3+Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
-+Pers+Sg3+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom: K_ГА ;
++Gen:ь K_ГА ;
++Dat:дейнз%{АО%} K_вок ;
++Abl:дедонз%{АО%} K_вок ;
++Abe:ьфтемонз%{АО%} K_вок ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-PL1
 !минь:мин
-+Pers+Pl1+Nom:ь K_ГА ;
-+Pers+Pl1+Gen:ь K_ГА ;
-+Pers+Pl1+Abl:дедонк K_овок ;
-+Pers+Pl1+Ine:ьцонк K_овок ;
-+Pers+Pl1+Intensive+Nom:ць K_ГА ;
-+Pers+Pl1+Intensive+Gen:цень K_ГА ;
-+Pers+Pl1+Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
-+Pers+Pl1+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom:ь K_ГА ;
++Gen:ь K_ГА ;
++Abl:дедонк K_овок ;
++Ine:ьцонк K_овок ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-PL2
 !тинь:тин
-+Pers+Pl2+Nom:ь K_ГА ;
-+Pers+Pl2+Gen:ь K_ГА ;
-+Pers+Pl2+Abl:дедонт K_овок ;
-+Pers+Pl2+Intensive+Nom:ць K_ГА ;
-+Pers+Pl2+Intensive+Gen:цень K_ГА ;
-+Pers+Pl2+Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
-+Pers+Pl2+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom:ь K_ГА ;
++Gen:ь K_ГА ;
++Abl:дедонт K_овок ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-PL3
 !!синь:син
-+Pers+Pl3+Nom:ь K_ГА ;
-+Pers+Pl3+Gen:ь K_ГА ;
-+Pers+Pl3+Abl:дедост K_ГА ;
-+Pers+Pl3+Intensive+Nom:ць K_ГА ;
-+Pers+Pl3+Intensive+Gen:цень K_ГА ;
-+Pers+Pl3+Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
-+Pers+Pl3+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Nom:ь K_ГА ;
++Gen:ь K_ГА ;
++Abl:дедост K_ГА ;
++Intensive+Nom:ць K_ГА ;
++Intensive+Gen:цень K_ГА ;
++Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
 !!
 
 LEXICON REFL
