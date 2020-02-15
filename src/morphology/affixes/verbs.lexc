@@ -1369,21 +1369,21 @@ LEXICON PrcTag
 +Prc: #;
 
 LEXICON Prc-f
-+Der+Der/f+Pss+Prc: K ;
++Der/f+Pss+Prc: K ;
 +Der+Der/f+Pss+Prc+Der+Der/MWN+N: N_KAL ;
 
 LEXICON Prc-fks
-+Der+Der/fks+Pss+Prc: K ;
++Der/fks+Pss+Prc: K ;
 
 LEXICON Prc-I
-+Der+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
++Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
 +Der+Der/I+Der+Der/NomAg+N:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
-+Der+Der/Onj+VGen:%>%{ЕОØ%}нь K ;
++Der/Onj+VGen:%>%{ЕОØ%}нь K ;
 
 LEXICON Prc-zj
-+Der+Der/Ozj+Prc:%>%{ЕОØ%}зь K ;
++Der/Ozj+Prc:%>%{ЕОØ%}зь K ;
 
 
 ! vim: set ft=xfst-lexc:
