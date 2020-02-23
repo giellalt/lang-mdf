@@ -65,6 +65,11 @@ LEXICON A_VAJ
 +Sg+Nom+Indef: K ;
 +Der+Der/MWN+N: N_VAJ ;
 
+LEXICON A_VAL1MIA
+!вальмя:вальмя
++Sg+Nom+Indef: K ;
++Der+Der/MWN+N: N_VAL1MIA ;
+
 LEXICON A_KAL
 !кал:кал
 +Sg+Nom+Indef: K ;
@@ -96,7 +101,7 @@ LEXICON A_RU-ЯЙ
 LEXICON A_SEL1ME
 !сельме:сельм%{ЕО%}
 +Sg+Nom+Indef: K ; !CHECKME 2018-11-25
-+Der+Der/MWN+N: NMN_SEL1ME ;
++Der+Der/MWN+N: N_SEL1ME ;
 
 
 !LEXICON DET_AVA
