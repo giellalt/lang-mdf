@@ -174,7 +174,7 @@ LEXICON N_SEL1ME !!= @CODE@
 LEXICON N_OSH !!= @CODE@
 !ош:ош
 : NMN_OSH ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
 
 LEXICON N_OSH-PL
 !ош:ош
@@ -183,7 +183,7 @@ LEXICON N_OSH-PL
 LEXICON N_SARAZ !!= @CODE@
 !ош:ош
 : NMN_SARAZ ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
 
 !LEXICON N_SARAZ-PL
 !!ош:ош
