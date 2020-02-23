@@ -1278,6 +1278,7 @@ LEXICON IMPRT-20
 !€ пань%>%{КТ%}%{ЬØ%}
 !€ пан0%>ть
 !+Imprt+ScSg2@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@:%>%{Х%}%{КТ%}%{ЬØ%}@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@ VerbEnd ;
+@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@+Prec+ScSg2:@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@%>%{КТ%}%{АЯ%}ка VerbEnd ;
 
 LEXICON IMPRT-21
 @U.CONJ-MX.IMP@@U.CONJ-PX.21@+Imprt+ScSg2+OcSg1:@U.CONJ-MX.IMP@@U.CONJ-PX.21@%>%{ЕОØ%}мак VerbEnd ;
@@ -1371,6 +1372,9 @@ LEXICON PrcTag
 LEXICON Prc-f
 +Der/f+Pss+Prc: K ;
 +Der+Der/f+Pss+Prc+Der+Der/MWN+N: N_KAL ;
+
+LEXICON PRC_fkia
++Der/f+Der/Dimin+Prc+Der+Der/MWN+N: NMN_VAL1MIA ;
 
 LEXICON Prc-fks
 +Der/fks+Pss+Prc: K ;
