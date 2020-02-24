@@ -1338,7 +1338,7 @@ LEXICON A_mdf2x
 кирпичнай+A:кирпичнай A_KAL  "tiilinen" ;
 кирьдефтема+A:кирьдефтема A_PULA  "hallitsematon" ;
 кирьженя+A:кирьженя A_AVA  "saita" ;
-кирьжя+A:кирьжя A_  "saita" ;
+кирьжя+A:кирьжя A_VAL1MIA  "saita" ;
 кирьхцетьксу+A:кирьхцетьксу A_KELU  "" ;
 киськоряф+A+Prc:киськоряф Prc-f  "" ;
 китрвань+A:кит#рвань A-IS-GEN  "" ;
@@ -1580,7 +1580,7 @@ LEXICON A_mdf2x
 кучкорди+A:кучкорди A_ANDY  "taipuvainen puskemaan" ;
 кучф+A+Prc:кучф Prc-f  "" ;
 куштаф+A+Prc:куштаф Prc-f  "homeinen, homehtunut." ;
-куя+A:куя A_  "rasvainen" ;
+куя+A:куя A_AVA  "rasvainen" ;
 куяжа+A:куяжа A_AVA  "lihavahko" ;
 куяза+A:куяза A_AVA  "lihavahko" ;
 куялготф+A+Prc:куялготф Prc-f  "" ;
@@ -1951,7 +1951,7 @@ LEXICON A_mdf2x
 матяряй+A:матяряй A_KAL  "suurehko" ;
 махровай+A:махровай A_KAL  "kerrottu" ;
 мациень+A:мациень A-IS-GEN  "hanhen" ;
-маця+A:маця A_  "matala (vesi)" ;
+маця+A:маця A_AVA  "matala (vesi)" ;
 мацялготф+A+Prc:мацялготф Prc-f  "" ;
 мачтовай+A:мачтовай A_KAL  "maston" ;
 машинань+A:машинань A-IS-GEN  "auton" ;
@@ -2342,7 +2342,7 @@ LEXICON A_mdf2x
 олаф+A+Prc:олаф Prc-f  "haalistunut, kauhtunut." ;
 олафкя+A:олафкя PRC_fkia  "" ;
 олимпийскяй+A:олимпийскяй A_KAL  "" ;
-ользя+A:ользя A_  "" ;
+ользя+A:ользя A_AVA  "" ;
 омара+A:омара A_AVA  "" ;
 омба+A:омба A_  "1. muu" ;
 омбоконь+A:омбоконь A-IS-GEN  "" ;
@@ -3721,7 +3721,7 @@ LEXICON A_mdf2x
 сюдеряф+A:сюдеряф Prc-f  "null" ;
 сюдеряф-вадеряф+A:сюдеряф-вадеряф Prc-f  "null" ;
 сюдоф+A:сюдоф Prc-f  "1. kirottu. 2. raukka, parka." ;
-сюзя+A:сюзя A_  "" ;
+сюзя+A:сюзя A_AVA  "" ;
 сюзялу+A:сюзялу A_KELU  "matoinen" ;
 сюконяй+A:сюконяй Prc-I  "null" ;
 сюлмаз+A:сюлмаз A_OSH  "" ;
@@ -4109,7 +4109,7 @@ LEXICON A_mdf2x
 тундань+A:тундань A-IS-GEN  "" ;
 тундолготф+A:тундолготф Prc-f  "null" ;
 тупафкс+A:тупафкс A_OSH  "" ;
-тупоця+A:тупоця A_  "" ;
+тупоця+A:тупоця A_AVA  "" ;
 турбинань+A:турбинань A-IS-GEN  "" ;
 тургай+A:тургай A_KAL  "" ;
 турготьф+A:турготьф Prc-f  "null" ;
@@ -4144,7 +4144,7 @@ LEXICON A_mdf2x
 тюжаза+A:тюжаза A_AVA  "" ;
 тюжалготф+A:тюжалготф Prc-f  "null" ;
 тюжана+A:тюжана A_AVA  "" ;
-тюжя+A:тюжя A_  "keltainen" ;
+тюжя+A:тюжя A_VAL1MIA  "keltainen" ;
 тюнголькс+A:тюнголькс A_OSH  "inhottava" ;
 тюндель+A:тюндель A_KIAL1  "" ;
 тюня+A:тюня A_AVA  "" ;
@@ -4246,7 +4246,7 @@ LEXICON A_mdf2x
 ужаснай+A:ужаснай A_KAL  "" ;
 ужнаф+A:ужнаф Prc-f  "null" ;
 ужнафтф+A:ужнафтф Prc-f  "null" ;
-ужя+A:ужя A_  "" ;
+ужя+A:ужя A_VAL1MIA  "" ;
 ужяль+A:ужяль A_KIAL1  "1. valitettavasti. 2. sääli" ;
 ужяльтьф+A:ужяльтьф Prc-f  "null" ;
 ужяляф+A:ужяляф Prc-f  "null" ;
@@ -4269,7 +4269,7 @@ LEXICON A_mdf2x
 ульму+A:ульму A_KELU  "" ;
 ультразвуковой+A:ультразвуковой A_KAL  "" ;
 ультрафиолетовай+A:ультрафиолетовай A_KAL  "" ;
-ульция+A:ульция A_  "" ;
+ульция+A:ульция A_AVA  "" ;
 ульцянь+A:ульцянь A-IS-GEN  "" ;
 уляза+A:уляза A_AVA  "" ;
 уляна+A:уляна A_AVA  "" ;
@@ -4350,7 +4350,7 @@ LEXICON A_mdf2x
 ушнефкя+A:ушнефкя PRC_fkia  "null" ;
 ушторонь+A:ушторонь A-IS-GEN  "" ;
 уштф+A:уштф Prc-f  "null" ;
-ушя+A:ушя A_  "" ;
+ушя+A:ушя A_AVA  "" ;
 ушяня+A:ушяня A_AVA  "" ;
 фабричнай+A:фабричнай A_KAL  "" ;
 фазанонь+A:фазанонь A-IS-GEN  "" ;
@@ -4732,7 +4732,7 @@ LEXICON A_mdf2x
 шобдаза+A:шобдаза A_AVA  "pimeähkö" ;
 шобдалготф+A:шобдалготф Prc-f  "null" ;
 шобдасенем+A:шобдасенем A_KAL  "tummansininen" ;
-шобдатюжя+A:шобдатюжя A_  "tummanruskea" ;
+шобдатюжя+A:шобдатюжя A_VAL1MIA  "tummanruskea" ;
 шоваф+A:шоваф Prc-f  "null" ;
 шовданя+A:шовданя A_AVA  "" ;
 шовинистическяй+A:шовинистическяй A_KAL  "" ;

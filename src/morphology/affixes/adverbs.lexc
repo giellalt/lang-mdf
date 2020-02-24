@@ -41,11 +41,11 @@ LEXICON ADV-SPAT_
 !+Temp: K ;
 
 LEXICON ADV-NEG_АЯШ !! Contrastive
-+Neg: # ;
++Neg+Aux: # ;
 
 LEXICON ADV-NEG_АШ
-+Neg: # ;
-+Neg:ель ADV_АШЕЛЬ ;
++Neg+Aux: # ;
++Neg+Aux:ель ADV_АШЕЛЬ ;
 
 LEXICON ADV_АШЕЛЬ !! ашель:ашель
 +Prt2+ScSg1:%>ень # ;

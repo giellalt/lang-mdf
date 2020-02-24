@@ -22,68 +22,81 @@ LEXICON A-IS-GEN
 +Gen+Attr: K ;
 
 LEXICON A_AVA
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_AVA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_AVA ;
+ N_AVA ;
 
 LEXICON A_OFTA
 !офта:офт%{АОØ%}
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_OFTA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_OFTA ;
+ N_OFTA ;
 
 LEXICON A_PANGA
 !панга:панг%{АОØ%}
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_PANGA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_PANGA ;
+ N_PANGA ;
 
 LEXICON A_PINGE
 !пинге:пинг%{ЕОØ%}
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_PINGE ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_PINGE ;
+ N_PINGE ;
 
 LEXICON A_PULA
 !пула:пул%{АО%}
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_PULA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_PULA ;
+ N_PULA ;
 
 LEXICON A_MOKSHA
 !мокша:мокш%{АЕ%}
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_MOKSHA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_MOKSHA ;
+ N_MOKSHA ;
 
 LEXICON A_OSH
 !! ош:ош
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_OSH ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_OSH ;
+ N_OSH ;
 
 LEXICON A_KIAL1
 !! кяль:кяль
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_KIAL1 ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_KIAL1 ;
+ N_KIAL1 ;
 
 LEXICON A_VAJ
 !вай:вай
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_VAJ ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_VAJ ;
+ N_VAJ ;
 
 LEXICON A_VAL1MIA
 !вальмя:вальмя
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_VAL1MIA ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_VAL1MIA ;
+ N_VAL1MIA ;
 
 LEXICON A_KAL
 !кал:кал
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_KAL ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_KAL ;
+ N_KAL ;
 
 LEXICON A_KELU
 !! келу:келу
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_KELU ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_KELU ;
+ N_KELU ;
 
 LEXICON A_ANDY
 !! келу:келу
-+Sg+Nom+Indef: K ;
-+Der+Der/MWN+N: N_ANDY ;
+!+Sg+Nom+Indef: K ;
+!+Der+Der/MWN+N: N_ANDY ;
+ N_ANDY ;
 
 LEXICON A_INT-АЙ
 +Use/SpellNoSugg:ай A_VAJ ;
@@ -100,9 +113,9 @@ LEXICON A_RU-ЯЙ
 
 LEXICON A_SEL1ME
 !сельме:сельм%{ЕО%}
-+Sg+Nom+Indef: K ; !CHECKME 2018-11-25
-+Der+Der/MWN+N: N_SEL1ME ;
-
+!+Sg+Nom+Indef: K ; !CHECKME 2018-11-25
+!+Der+Der/MWN+N: N_SEL1ME ;
+ N_SEL1ME ;
 
 !LEXICON DET_AVA
 !+Det+Sg+Nom+Indef: K ;
