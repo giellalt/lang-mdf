@@ -3119,11 +3119,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">алкедь</l>
      <stg>
-       <st>алкедь</st>
+       <st Contlex="N_KIAL1">алкедь</st>
      </stg> <phonet>alkeď</phonet>
        <l_ref>кедь</l_ref>
    </lg>
@@ -14586,7 +14586,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ваймокс-седикс</l>
+     <l pos="Adv" type="mwe">ваймокс-седикс</l>
      <stg>
        <st>ваймокс-седикс</st>
      </stg> <phonet>vajməks-śeďiks</phonet>
@@ -15134,7 +15134,7 @@
    <lg>
      <l pos="N">вальмя</l>
      <stg>
-       <st Contlex="N_AVA">вальмя</st>
+       <st Contlex="N_VAL1MIA">вальмя</st>
      </stg> <phonet>vaľmä</phonet>
    </lg>
      <sources>
@@ -15177,7 +15177,7 @@
        <st Contlex="N_PANGA">вальмя#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">вальмя</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">вальмя</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>vaľmälaŋga</phonet>
    </lg>
      <sources>
@@ -15254,7 +15254,7 @@
        <st Contlex="N_SEL1ME">вальмя#сельм%{ЕО%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">вальмя</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">вальмя</comp>
        <comp ord="E2" pos="N">сельме</comp> </compg> <phonet>vaľmäśeľmä</phonet>
    </lg>
      <sources>
@@ -15969,11 +15969,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">вармалифкст</l>
      <stg>
-       <st>вармалифкст</st>
+       <st Contlex="NMN_OSH-PL">вармалифкс</st>
      </stg> <phonet>varmaľifkst</phonet>
        <l_ref>лифкст</l_ref>
    </lg>
@@ -16124,7 +16124,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">варсикс</l>
+     <l pos="Adv" type="mwe">варсикс</l>
      <stg>
        <st>варсикс</st>
      </stg> <phonet>varśiks</phonet>
@@ -17020,7 +17020,7 @@
        <st Contlex="N_KAL">ватракшкуд</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">ватракш</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">ватракш</comp>
        <comp ord="E2" pos="N">куд</comp> </compg> <phonet>vatrakškud</phonet>
    </lg>
      <sources>
@@ -17559,7 +17559,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ве-вешка</l>
+     <l pos="Adv" type="mwe">ве-вешка</l>
      <stg>
        <st>ве-вешка</st>
      </stg> <phonet>ve-veška</phonet>
@@ -17598,11 +17598,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">ведаркапиле</l>
      <stg>
-       <st>ведаркапиле</st>
+       <st Contlex="N_PINE">ведаркапиле</st>
      </stg> <phonet>vedərkapiľä, vedarkapiľä</phonet>
        <l_ref>пиле</l_ref>
    </lg>
@@ -18133,9 +18133,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ведьфтома</l>
+     <l pos="A" type="mwe">ведьфтома</l>
      <stg>
-       <st>ведьфтома</st>
+       <st>ведьфтом%{АО%}</st>
      </stg> <phonet>veťftəma, veťfťəmä</phonet>
        <l_ref>ведь</l_ref>
    </lg>
@@ -18703,7 +18703,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">венели</l>
+     <l pos="Adv" type="mwe">венели</l>
      <stg>
        <st>венели</st>
      </stg> <phonet>veńəľi</phonet>
@@ -19042,7 +19042,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">вержиста</l>
+     <l pos="Adv" type="mwe">вержиста</l>
      <stg>
        <st>вержиста</st>
      </stg> <phonet>veržista</phonet>
@@ -19065,7 +19065,7 @@
        <st Contlex="N_PINGE">вер#мяшть%{ЕØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">вер</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">вер</comp>
        <comp ord="E2" pos="N">мяште</comp> </compg> <phonet>vermäšťä</phonet>
    </lg>
      <sources>
@@ -19270,7 +19270,7 @@
        <st Contlex="N_KAL">версан</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">вер</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">вер</comp>
        <comp ord="E2" pos="N">сан</comp> </compg> <phonet>versan</phonet>
    </lg>
      <sources>
@@ -19322,7 +19322,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ветемба</l>
+     <l pos="Adv" type="mwe">ветемба</l>
      <stg>
        <st>ветемба</st>
      </stg> <phonet>veťəmba</phonet>
@@ -19358,7 +19358,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">веть</l>
+     <l pos="Adv" type="mwe">веть</l>
      <stg>
        <st>веть</st>
      </stg> <phonet>veť</phonet>
@@ -19762,11 +19762,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">видема-сокама</l>
      <stg>
-       <st>видема-сокама</st>
+       <st Contlex="N_AVA">видема-сокама</st>
      </stg> <phonet>viďəma-sokama</phonet>
    </lg>
      <sources>
@@ -21062,7 +21062,7 @@
    <lg>
      <l pos="N" type="mwe">вирютка</l>
      <stg>
-       <st>вирютка</st>
+       <st Contlex="N_PULA">вирютк%{АО%}</st>
      </stg> <phonet>viŕutka</phonet>
        <l_ref>утка</l_ref>
    </lg>
@@ -21855,7 +21855,7 @@
    <lg>
      <l pos="N" type="mwe">войнафтома</l>
      <stg>
-       <st>войнафтома</st>
+       <st>войнафтом%{АО%}</st>
      </stg> <phonet>vajnaftəma</phonet>
        <l_ref>война</l_ref>
    </lg>
@@ -31757,11 +31757,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">дёбаня</l>
      <stg>
-       <st>дёбаня</st>
+       <st Contlex="N_AVA">дёбаня</st>
      </stg> <phonet>ďobańä</phonet>
        <l_ref>дёба</l_ref>
    </lg>
@@ -37263,7 +37263,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">иляденьберьф</l>
+     <l pos="Adv" type="mwe">иляденьберьф</l>
      <stg>
        <st>иляденьберьф</st>
      </stg> <phonet>iľäďəńbeŕf</phonet>
@@ -37282,7 +37282,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">иляденьбяли</l>
+     <l pos="Adv" type="mwe">иляденьбяли</l>
      <stg>
        <st>иляденьбяли</st>
      </stg> <phonet>iľäďəńbäľi</phonet>
@@ -37344,7 +37344,7 @@
    <lg>
      <l pos="N" type="mwe">илядыкст</l>
      <stg>
-       <st>илядыкст</st>
+       <st Contlex="NMN_OSH-PL">илядыкс</st>
      </stg> <phonet>iľadikst</phonet>
        <l_ref>илядыкс</l_ref>
    </lg>
@@ -37462,7 +37462,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">илять-илять</l>
+     <l pos="Adv" type="mwe">илять-илять</l>
      <stg>
        <st>илять-илять</st>
      </stg> <phonet>iľäť-iľäť</phonet>
@@ -37480,7 +37480,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">илятькиге</l>
+     <l pos="Adv" type="mwe">илятькиге</l>
      <stg>
        <st>илятькиге</st>
      </stg> <phonet>iľäťkigä</phonet>
@@ -37692,7 +37692,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">инголе</l>
+     <l pos="Adv" type="mwe">инголе</l>
      <stg>
        <st>инголе</st>
      </stg> <phonet>iŋgəľä</phonet>
@@ -37729,7 +37729,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">инголи</l>
+     <l pos="Adv" type="mwe">инголи</l>
      <stg>
        <st>инголи</st>
      </stg> <phonet>iŋgəľi</phonet>
@@ -37851,7 +37851,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ингольге</l>
+     <l pos="Adv" type="mwe">ингольге</l>
      <stg>
        <st>ингольге</st>
      </stg> <phonet>iŋgəľgä</phonet>
@@ -37869,7 +37869,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ингольде</l>
+     <l pos="Adv" type="mwe">ингольде</l>
      <stg>
        <st>ингольде</st>
      </stg> <phonet>iŋgəľďä</phonet>
@@ -40307,11 +40307,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">каготкя</l>
      <stg>
-       <st>каготкя</st>
+       <st Contlex="N_VAL1MIA">каготкя</st>
      </stg> <phonet>kagətkä</phonet>
        <l_ref>кагод</l_ref>
    </lg>
@@ -41526,7 +41526,7 @@
        <st Contlex="N_PANGA">калмо#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom1" ord="E1" pos="N">калма</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">калма</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>kalməlaŋga</phonet>
    </lg>
      <sources>
@@ -41548,7 +41548,7 @@
        <st Contlex="N_KAL">калмомар</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom1" ord="E1" pos="N">калма</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">калма</comp>
        <comp ord="E2" pos="N">мар</comp> </compg> <phonet>kalməmar</phonet>
    </lg>
      <sources>
@@ -42710,11 +42710,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">каннемат</l>
      <stg>
-       <st>каннемат</st>
+       <st Contlex="NMN_AVA-PL">каннема</st>
      </stg> <phonet>kańńəmat</phonet>
        <l_ref>каннема</l_ref>
    </lg>
@@ -43344,11 +43344,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">капстаюр</l>
      <stg>
-       <st>капстаюр</st>
+       <st Contlex="N_KAL">капстаюр</st>
      </stg> <phonet>kapstajur</phonet>
        <l_ref>юр</l_ref>
    </lg>
@@ -44536,11 +44536,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">картинка</l>
      <stg>
-       <st>картинка</st>
+       <st Contlex="N_AVA">картинка</st>
      </stg> <phonet>kaŕťiŋka, kaŕťinka</phonet>
        <l_ref>картина</l_ref>
    </lg>
@@ -44746,11 +44746,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">карушка</l>
      <stg>
-       <st>карушка</st>
+       <st Contlex="N_AVA">карушка</st>
      </stg> <phonet>karuška</phonet>
        <l_ref>кару</l_ref>
    </lg>
@@ -45004,7 +45004,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">каршес</l>
+     <l pos="Adv" type="mwe">каршес</l>
      <stg>
        <st>каршес</st>
      </stg> <phonet>karšəs</phonet>
@@ -45938,11 +45938,11 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">каталефкс</l>
      <stg>
-       <st>каталефкс</st>
+       <st Contlex="N_OSH">ката#лефкс</st>
      </stg> <phonet>katəľefks</phonet>
        <l_ref>лефкс</l_ref>
    </lg>
@@ -46138,11 +46138,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">катоня</l>
      <stg>
-       <st>катоня</st>
+       <st Contlex="N_AVA">катоня</st>
      </stg> <phonet>katəńä</phonet>
        <l_ref>ката</l_ref>
    </lg>
@@ -46285,7 +46285,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафта-колма</l>
+     <l pos="Num" type="mwe">кафта-колма</l>
      <stg>
        <st>кафта-колма</st>
      </stg> <phonet>kafta-kolma</phonet>
@@ -46339,7 +46339,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафтошка</l>
+     <l pos="Num" type="mwe">кафтошка</l>
      <stg>
        <st>кафтошка</st>
      </stg> <phonet>kaftəška</phonet>
@@ -46357,7 +46357,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафтошка-колмошка</l>
+     <l pos="Num" type="mwe">кафтошка-колмошка</l>
      <stg>
        <st>кафтошка-колмошка</st>
      </stg> <phonet>kaftəška-kolməška</phonet>
@@ -46375,7 +46375,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафтошкаксть</l>
+     <l pos="Num" type="mwe">кафтошкаксть</l>
      <stg>
        <st>кафтошкаксть</st>
      </stg> <phonet>kaftəškakśť</phonet>
@@ -46393,7 +46393,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафцеконди</l>
+     <l pos="Num" type="mwe">кафцеконди</l>
      <stg>
        <st>кафцеконди</st>
      </stg> <phonet>kafćəkəńďi</phonet>
@@ -46412,7 +46412,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кафцьке</l>
+     <l pos="Num" type="mwe">кафцьке</l>
      <stg>
        <st>кафцьке</st>
      </stg> <phonet>kafćkä</phonet>
@@ -47097,7 +47097,7 @@
        <st Contlex="N_KAL">кевкуд</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">кев</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">кев</comp>
        <comp ord="E2" pos="N">куд</comp> </compg> <phonet>kevgud</phonet>
    </lg>
      <sources>
@@ -47616,7 +47616,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">келеда-келес</l>
+     <l pos="Adv" type="mwe">келеда-келес</l>
      <stg>
        <st>келеда-келес</st>
      </stg> <phonet>keľədə-keľəs</phonet>
@@ -47695,7 +47695,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">келес</l>
+     <l pos="Adv" type="mwe">келес</l>
      <stg>
        <st>келес</st>
      </stg> <phonet>keľəs</phonet>
@@ -47716,7 +47716,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">келеста</l>
+     <l pos="Adv" type="mwe">келеста</l>
      <stg>
        <st>келеста</st>
      </stg> <phonet>keľəsta</phonet>
@@ -48027,7 +48027,7 @@
    <lg>
      <l pos="N" type="mwe">кельмот</l>
      <stg>
-       <st>кельмот</st>
+       <st Contlex="NMN_SEL1ME-PL">кельм%{ЕО%}</st>
      </stg> <phonet>keľmət</phonet>
        <l_ref>кельме</l_ref>
    </lg>
@@ -48478,7 +48478,7 @@
        <st Contlex="N_PANGA">кенкш#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">кенкш</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">кенкш</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>keŋkšlaŋga</phonet>
    </lg>
      <sources>
@@ -48722,10 +48722,13 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кепотьксонди</l>
+     <l pos="Adv" type="mwe">кепотьксонди</l>
      <stg>
        <st>кепотьксонди</st>
      </stg> <phonet>kepəťksəńďi</phonet>
+     <compg drv="N:Cx»N" type="Case">
+       <comp ms="SP_Dat_Indef" ord="E1" pos="N">кепотькс</comp>
+     </compg>
        <l_ref>кепотькс</l_ref>
    </lg>
      <sources>
@@ -49661,10 +49664,13 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кигя</l>
+     <l pos="Adv" type="mwe">кигя</l>
      <stg>
        <st>кигя</st>
      </stg> <phonet>kigä</phonet>
+     <compg drv="N:Cx»N" type="Case">
+       <comp ms="SP_Prl_Indef" ord="E1" pos="N">ки</comp>
+     </compg>
        <l_ref>ки</l_ref>
    </lg>
      <sources>
@@ -49877,7 +49883,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кизонда</l>
+     <l pos="Adv" type="mwe">кизонда</l>
      <stg>
        <st>кизонда</st>
      </stg> <phonet>kizənda</phonet>
@@ -50631,7 +50637,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кичкор-мячкор</l>
+     <l pos="Adv" type="mwe">кичкор-мячкор</l>
      <stg>
        <st>кичкор-мячкор</st>
      </stg> <phonet>kičkər-mäčkər</phonet>
@@ -52173,7 +52179,7 @@
    <lg>
      <l pos="N" type="mwe">кожфтома</l>
      <stg>
-       <st>кожфтома</st>
+       <st>кожфтом%{АО%}</st>
      </stg> <phonet>kožftəma</phonet>
        <l_ref>кожф</l_ref>
    </lg>
@@ -52389,7 +52395,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">козяста</l>
+     <l pos="Adv" type="mwe">козяста</l>
      <stg>
        <st>козяста</st>
      </stg> <phonet>koźasta</phonet>
@@ -52759,7 +52765,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">колбаснай</l>
+     <l pos="A" type="mwe">колбаснай</l>
      <stg>
        <st>колбаснай</st>
      </stg> <phonet>kalbasnaj</phonet>
@@ -55127,11 +55133,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">коробканя</l>
      <stg>
-       <st>коробканя</st>
+       <st Contlex="N_AVA">коробканя</st>
      </stg> <phonet>karopkańä</phonet>
        <l_ref>коробка</l_ref>
    </lg>
@@ -55877,7 +55883,7 @@
    <lg>
      <l pos="N" type="mwe">котфкя</l>
      <stg>
-       <st>котфкя</st>
+       <st Contlex="N_VAL1MIA">котфкя</st>
      </stg> <phonet>kotfkä</phonet>
        <l_ref>котф</l_ref>
    </lg>
@@ -57001,11 +57007,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">крганя</l>
      <stg>
-       <st>кърганя</st>
+       <st Contlex="N_AVA">кърганя</st>
      </stg> <phonet>kərgańä</phonet>
        <l_ref>крга</l_ref>
    </lg>
@@ -59229,7 +59235,7 @@
        <st Contlex="N_KAL">кудазор</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">азор</comp> </compg> <phonet>kudazər</phonet>
    </lg>
      <sources>
@@ -59250,7 +59256,7 @@
        <st Contlex="N_AVA">кудазорава</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">азорава</comp> </compg> <phonet>kudazərava</phonet>
    </lg>
      <sources>
@@ -59324,7 +59330,7 @@
        <st Contlex="N_AVA">кудбока</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">бока</comp> </compg> <phonet>kudboka</phonet>
    </lg>
      <sources>
@@ -59346,7 +59352,7 @@
        <st Contlex="N_SEL1ME">куд#ботм%{АО%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">потма</comp> </compg> <phonet>kudbotma</phonet>
    </lg>
      <sources>
@@ -59386,7 +59392,7 @@
        <st Contlex="N_OFTA">куд#васт%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">васта</comp> </compg> <phonet>kudvasta</phonet>
    </lg>
      <sources>
@@ -59407,7 +59413,7 @@
        <st Contlex="N_KAL">куднумол</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">куд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">куд</comp>
        <comp ord="E2" pos="N">нумол</comp> </compg> <phonet>kudnuməl</phonet>
    </lg>
      <sources>
@@ -59421,11 +59427,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кудня</l>
      <stg>
-       <st>кудня</st>
+       <st Contlex="N_AVA">кудня</st>
      </stg> <phonet>kudńä</phonet>
        <l_ref>куд</l_ref>
    </lg>
@@ -59441,7 +59447,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кудонголе</l>
+     <l pos="Adv" type="mwe">кудонголе</l>
      <stg>
        <st>кудонголе</st>
      </stg> <phonet>kudəŋgəľä</phonet>
@@ -59573,7 +59579,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кудстонь</l>
+     <l pos="A" type="mwe">кудстонь</l>
      <stg>
        <st>кудстонь</st>
      </stg> <phonet>kuctəń</phonet>
@@ -59910,11 +59916,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кузня</l>
      <stg>
-       <st>кузня</st>
+       <st Contlex="N_AVA">кузня</st>
      </stg> <phonet>kuzńä</phonet>
        <l_ref>куз</l_ref>
    </lg>
@@ -60090,11 +60096,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">куймоня</l>
      <stg>
-       <st>куймоня</st>
+       <st Contlex="N_AVA">куймоня</st>
      </stg> <phonet>kujməńä</phonet>
        <l_ref>куйме</l_ref>
    </lg>
@@ -60223,11 +60229,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кукуня</l>
      <stg>
-       <st>кукуня</st>
+       <st Contlex="N_AVA">кукуня</st>
      </stg> <phonet>kukuńä</phonet>
        <l_ref>куку</l_ref>
    </lg>
@@ -60598,7 +60604,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">кулоста</l>
+     <l pos="Adv" type="mwe">кулоста</l>
      <stg>
        <st>кулоста</st>
      </stg> <phonet>kuləsta</phonet>
@@ -60843,11 +60849,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кулят</l>
      <stg>
-       <st>кулят</st>
+       <st Contlex="NMN_AVA-PL">куля</st>
      </stg> <phonet>kuľat</phonet>
        <l_ref>куля</l_ref>
    </lg>
@@ -61036,11 +61042,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кундаманя</l>
      <stg>
-       <st>кундаманя</st>
+       <st Contlex="N_AVA">кундаманя</st>
      </stg> <phonet>kundamańä</phonet>
        <l_ref>кундама</l_ref>
    </lg>
@@ -61902,11 +61908,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кутюня</l>
      <stg>
-       <st>кутюня</st>
+       <st Contlex="N_AVA">кутюня</st>
      </stg> <phonet>kuťuńä</phonet>
        <l_ref>кутю</l_ref>
    </lg>
@@ -62388,11 +62394,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кучканя</l>
      <stg>
-       <st>кучканя</st>
+       <st Contlex="N_AVA">кучканя</st>
      </stg> <phonet>kučkańä</phonet>
        <l_ref>кучка</l_ref>
    </lg>
@@ -63072,11 +63078,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кшниваця</l>
      <stg>
-       <st>кшниваця</st>
+       <st Contlex="N_AVA">кшниваця</st>
      </stg> <phonet>kšńivaćä</phonet>
        <l_ref>кшни</l_ref>
    </lg>
@@ -63652,7 +63658,7 @@
    <lg>
      <l pos="N" type="mwe">кядьфтома</l>
      <stg>
-       <st>кядьфтома</st>
+       <st>кядьфтом%{АО%}</st>
      </stg> <phonet>käťftəma, käťfťəma</phonet>
        <l_ref>кядь</l_ref>
    </lg>
@@ -64495,11 +64501,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кярьмоня</l>
      <stg>
-       <st>кярьмоня</st>
+       <st Contlex="N_AVA">кярьмоня</st>
      </stg> <phonet>käŕməńä</phonet>
        <l_ref>кярьме</l_ref>
    </lg>
@@ -64630,11 +64636,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кяскавня</l>
      <stg>
-       <st>кяскавня</st>
+       <st Contlex="N_AVA">кяскавня</st>
      </stg> <phonet>käskavńä</phonet>
        <l_ref>кяскав</l_ref>
    </lg>
@@ -65129,6 +65135,9 @@
      <stg>
        <st>ладняс</st>
      </stg> <phonet>ladńas, laďńas</phonet>
+     <compg drv="N:Cx»N" type="Case">
+       <comp ms="SP_Ill_Indef" ord="E1" pos="N">ладня</comp>
+     </compg>
        <l_ref>лад</l_ref>
    </lg>
      <sources>
@@ -65143,9 +65152,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ладом-рядом</l>
+     <l pos="Adv" type="mwe">ладом-рядом</l>
      <stg>
-       <st>ладом-рядом</st>
+       <st Contlex="ADV_">ладом-рядом</st>
      </stg> <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
        <l_ref>лад</l_ref>
    </lg>
@@ -66209,9 +66218,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ланга-ланцек</l>
+     <l pos="Adv" type="mwe">ланга-ланцек</l>
      <stg>
-       <st>ланга-ланцек</st>
+       <st Contlex="ADV_">ланга-ланцек</st>
      </stg> <phonet>laŋga-lanćək</phonet>
        <l_ref>ланга</l_ref>
    </lg>
@@ -66650,11 +66659,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">лапшава</l>
      <stg>
-       <st>лапшава</st>
+       <st Contlex="N_AVA">лапшава</st>
      </stg> <phonet>lapšava</phonet>
        <l_ref>шава</l_ref>
    </lg>
@@ -67727,7 +67736,7 @@
    <lg>
      <l pos="N" type="mwe">лемфтома</l>
      <stg>
-       <st>лемфтома</st>
+       <st>лемфтом%{АО%}</st>
      </stg> <phonet>ľemftəma, ľemfťəma</phonet>
        <l_ref>лем</l_ref>
    </lg>
@@ -70607,7 +70616,7 @@
        <st Contlex="N_PANGA">лофцо#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom1" ord="E1" pos="N">лофца</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">лофца</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>lofcəlaŋga</phonet>
    </lg>
      <sources>
@@ -73498,11 +73507,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
-     <l pos="N" type="mwe">малацек</l>
+     <l pos="Adv" type="mwe">малацек</l>
      <stg>
-       <st>малацек</st>
+       <st Contlex="ADV_">малацек</st>
      </stg> <phonet>malaćək</phonet>
        <l_ref>мала</l_ref>
    </lg>
@@ -75915,7 +75924,7 @@
        <st Contlex="N_KAL">медькуд</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">медь</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">медь</comp>
        <comp ord="E2" pos="N">куд</comp> </compg> <phonet>meďkud</phonet>
    </lg>
      <sources>
@@ -75936,7 +75945,7 @@
        <st Contlex="N_OSH-PL">медь#кяряз</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">медь</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">медь</comp>
        <comp ord="E2" pos="N">кяряз</comp> </compg> <phonet>meďkäŕast</phonet>
    </lg>
      <sources>
@@ -77699,11 +77708,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">мима-рамама</l>
      <stg>
-       <st>мима-рамама</st>
+       <st Contlex="N_AVA">мима-рамама</st>
      </stg> <phonet>mima-ramama</phonet>
    </lg>
      <sources>
@@ -78355,7 +78364,7 @@
    <lg>
      <l pos="N" type="mwe">модафтома</l>
      <stg>
-       <st>модафтома</st>
+       <st>модафтом%{АО%}</st>
      </stg> <phonet>modaftəma</phonet>
        <l_ref>мода</l_ref>
    </lg>
@@ -79135,33 +79144,14 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <lg>
-     <l pos="N">мор</l>
-     <stg>
-       <st Contlex="N_KAL">мор</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">pikkuinen</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>тувонь мор</x> <phonet>tuvəń mor</phonet>
-       <xt xml:lang="fin">porsas.</xt>
-     </xg>
-   </mg>
-</e>
-<e id="None" meta="">
+   <map/>
    <lg>
      <l hid="Hom1" pos="N">мор</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="N_KAL">мор</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -79171,7 +79161,6 @@
      <tg xml:lang="fin">
        <t pos="A">laulu</t>
      </tg>
-     <defNative/>
      <xg>
        <x>моронь ушеткшни</x> <phonet>morəń ušətkšńi</phonet>
        <xt xml:lang="fin">esilaulaja.</xt>
@@ -79180,14 +79169,18 @@
        <x>моронь вайгяль</x> <phonet>morəń vajgäľ</phonet>
        <xt xml:lang="fin">sävel, sävelmä.</xt>
      </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l hid="Hom2" pos="N">мор</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="N_KAL">мор</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -79197,19 +79190,22 @@
      <tg xml:lang="fin">
        <t pos="N">pikkuinen</t>
      </tg>
-     <defNative/>
      <xg>
        <x>тувонь мор</x> <phonet>tuvəń mor</phonet>
        <xt xml:lang="fin">porsas.</xt>
      </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l hid="Hom3" pos="N">мор</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="N_KAL">мор</st>
-     </stg> <phonet>mor</phonet>
+     </stg> <compg> </compg> <phonet>mor</phonet>
    </lg>
      <sources>
      </sources>
@@ -79220,7 +79216,6 @@
        <t pos="N">sairaus</t>
        <t pos="N">tauti</t>
      </tg>
-     <defNative/>
      <xg>
        <x>аф толда, аф морда аф пели</x> <phonet>af told(a) af mord(a) af peľi</phonet>
        <xt xml:lang="fin">ei pelkää mitään</xt>
@@ -79229,6 +79224,7 @@
        <x>учань мор</x> <phonet>učań mor</phonet>
        <xt xml:lang="fin">lammassairaus</xt>
      </xg>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -80917,7 +80913,7 @@
    <lg>
      <l pos="N" type="mwe">мялямфтома</l>
      <stg>
-       <st>мялямфтома</st>
+       <st>мялямфтом%{АО%}</st>
      </stg> <phonet>mäľamftəma</phonet>
        <l_ref>мялям</l_ref>
    </lg>
@@ -81845,11 +81841,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">назёмпанга</l>
      <stg>
-       <st>назёмпанга</st>
+       <st Contlex="N_PANGA">назёмпанг%{АО%}</st>
      </stg> <phonet>naźompaŋga</phonet>
        <l_ref>назём</l_ref>
    </lg>
@@ -87462,11 +87458,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">одкс</l>
      <stg>
-       <st>одкс</st>
+       <st Contlex="ADV_">одкс</st>
      </stg> <phonet>otks</phonet>
        <l_ref>од</l_ref>
    </lg>
@@ -87517,11 +87513,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">одня</l>
      <stg>
-       <st>одня</st>
+       <st Contlex="N_AVA">одня</st>
      </stg> <phonet>odńä</phonet>
        <l_ref>од</l_ref>
    </lg>
@@ -87715,11 +87711,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">ожнат</l>
      <stg>
-       <st>ожнат</st>
+       <st Contlex="NMN_AVA-PL">ожна</st>
      </stg> <phonet>ožnat</phonet>
        <l_ref>ожна</l_ref>
    </lg>
@@ -87810,11 +87806,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">озаманя</l>
      <stg>
-       <st>озаманя</st>
+       <st Contlex="N_AVA">озаманя</st>
      </stg> <phonet>ozamańä</phonet>
        <l_ref>озама</l_ref>
    </lg>
@@ -88279,9 +88275,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">октябрьскяй</l>
+     <l pos="A" type="mwe">октябрьскяй</l>
      <stg>
-       <st>октябрьскяй</st>
+       <st Contlex="A_VAJ">октябрьскяй</st>
      </stg> <phonet>akťabəŕskäj</phonet>
        <l_ref>октябрь</l_ref>
    </lg>
@@ -89277,7 +89273,7 @@
        <st Contlex="N_PANGA">орта#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">орта</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">орта</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>ortalaŋga</phonet>
    </lg>
      <sources>
@@ -91246,7 +91242,7 @@
    <lg>
      <l pos="N" type="mwe">павазфтома</l>
      <stg>
-       <st>павазфтома</st>
+       <st>павазфтом%{АО%}</st>
      </stg> <phonet>pavazftəma</phonet>
        <l_ref>паваз</l_ref>
    </lg>
@@ -92214,11 +92210,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пакшкя</l>
      <stg>
-       <st>пакшкя</st>
+       <st Contlex="N_VAL1MIA">пакшкя</st>
      </stg> <phonet>pakškä</phonet>
        <l_ref>пакш</l_ref>
    </lg>
@@ -92555,11 +92551,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">палыкандор</l>
      <stg>
-       <st>палыкандор</st>
+       <st Contlex="N_KAL">палыкандор</st>
      </stg> <phonet>palikandər</phonet>
        <l_ref>палфтомс</l_ref>
    </lg>
@@ -92649,11 +92645,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">паляня</l>
      <stg>
-       <st>паляня</st>
+       <st Contlex="N_AVA">паляня</st>
      </stg> <phonet>paľäńä</phonet>
        <l_ref>паля</l_ref>
    </lg>
@@ -92944,11 +92940,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пандакаряз</l>
      <stg>
-       <st>пандакаряз</st>
+       <st Contlex="N_OSH">пандакаряз</st>
      </stg> <phonet>pandəkaŕas</phonet>
        <l_ref>каряз</l_ref>
    </lg>
@@ -93035,7 +93031,7 @@
    <lg>
      <l pos="N" type="mwe">пандашамат</l>
      <stg>
-       <st>пандашамат</st>
+       <st Contlex="NMN_AVA-PL">пандашамат</st>
      </stg> <phonet>pandəšamat</phonet>
        <l_ref>пандашама</l_ref>
    </lg>
@@ -93095,7 +93091,7 @@
        <st Contlex="N_PANGA">пандо#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom1" ord="E1" pos="N">панда</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">панда</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>pandəlaŋga</phonet>
    </lg>
      <sources>
@@ -93155,11 +93151,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пандоня</l>
      <stg>
-       <st>пандоня</st>
+       <st Contlex="N_AVA">пандоня</st>
      </stg> <phonet>pandəńä</phonet>
        <l_ref>панда</l_ref>
    </lg>
@@ -95583,7 +95579,7 @@
    <lg>
      <l pos="N" type="mwe">пейфтома</l>
      <stg>
-       <st>пейфтома</st>
+       <st>пейфтом%{АО%}</st>
      </stg> <phonet>pejftəma, pejfťəma</phonet>
        <l_ref>пей</l_ref>
    </lg>
@@ -95948,7 +95944,7 @@
        <st Contlex="N_KAL">пенгякуд</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">пенгя</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">пенгя</comp>
        <comp ord="E2" pos="N">куд</comp> </compg> <phonet>peŋgäkud</phonet>
    </lg>
      <sources>
@@ -96413,11 +96409,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">петляня</l>
      <stg>
-       <st>петляня</st>
+       <st Contlex="N_AVA">петляня</st>
      </stg> <phonet>peťľäńä</phonet>
        <l_ref>петля</l_ref>
    </lg>
@@ -96733,11 +96729,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пзьгатаня</l>
      <stg>
-       <st>пъзьгатаня</st>
+       <st Contlex="N_AVA">пъзьгатаня</st>
      </stg> <phonet>pəźgatańä</phonet>
        <l_ref>пзьгата</l_ref>
    </lg>
@@ -96873,11 +96869,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пидема-панема</l>
      <stg>
-       <st>пидема-панема</st>
+       <st Contlex="N_AVA">пидема-панема</st>
      </stg> <phonet>piďəma-pańəma</phonet>
    </lg>
      <sources>
@@ -97551,11 +97547,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пикскя</l>
      <stg>
-       <st>пикскя</st>
+       <st Contlex="N_VAL1MIA">пикскя</st>
      </stg> <phonet>pikskä</phonet>
        <l_ref>пикс</l_ref>
    </lg>
@@ -100482,11 +100478,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">плманжа-цюкорня</l>
      <stg>
-       <st>пълманжа-цюкорня</st>
+       <st Contlex="N_AVA">пълманжа-цюкорня</st>
      </stg> <phonet>pəlmanǯa-ćukərńä</phonet>
    </lg>
      <sources>
@@ -101494,11 +101490,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">покольня</l>
      <stg>
-       <st>покольня</st>
+       <st Contlex="N_AVA">покольня</st>
      </stg> <phonet>pokəľńä</phonet>
        <l_ref>поколь</l_ref>
    </lg>
@@ -101946,7 +101942,7 @@
        <st Contlex="N_PANGA">полка#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">полка</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">полка</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>polkalaŋga, bolkalaŋga</phonet>
    </lg>
      <sources>
@@ -102218,11 +102214,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">понаня</l>
      <stg>
-       <st>понаня</st>
+       <st Contlex="N_AVA">понаня</st>
      </stg> <phonet>ponańä</phonet>
        <l_ref>пона</l_ref>
    </lg>
@@ -102781,11 +102777,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">постуфкя</l>
      <stg>
-       <st>постуфкя</st>
+       <st Contlex="N_VAL1MIA">постуфкя</st>
      </stg> <phonet>postufkä</phonet>
        <l_ref>постуф</l_ref>
    </lg>
@@ -107406,11 +107402,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">прянька</l>
      <stg>
-       <st>прянька</st>
+       <st Contlex="N_AVA">прянька</st>
      </stg> <phonet>pŕäńka</phonet>
        <l_ref>прялкс</l_ref>
    </lg>
@@ -107635,11 +107631,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пряшяярня</l>
      <stg>
-       <st>пряшяярня</st>
+       <st Contlex="N_AVA">пряшяярня</st>
      </stg> <phonet>pŕäšäjäŕńä</phonet>
        <l_ref>пряшяярь</l_ref>
    </lg>
@@ -108358,11 +108354,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пузырня</l>
      <stg>
-       <st>пузырня</st>
+       <st Contlex="N_AVA">пузырня</st>
      </stg> <phonet>puziŕńä</phonet>
        <l_ref>пузырь</l_ref>
    </lg>
@@ -108720,11 +108716,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пулоня</l>
      <stg>
-       <st>пулоня</st>
+       <st Contlex="N_AVA">пулоня</st>
      </stg> <phonet>puləńä</phonet>
        <l_ref>пула</l_ref>
    </lg>
@@ -109359,11 +109355,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">пурхцкя</l>
      <stg>
-       <st>пурхцкя</st>
+       <st Contlex="N_VAL1MIA">пурхцкя</st>
      </stg> <phonet>purxckä</phonet>
        <l_ref>пурхц</l_ref>
    </lg>
@@ -110997,7 +110993,7 @@
        <st Contlex="N_KAL">пянакуд</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">пяна</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">пяна</comp>
        <comp ord="E2" pos="N">куд</comp> </compg> <phonet>pänakud, päńakud, pätnagəd</phonet>
    </lg>
      <sources>
@@ -111064,7 +111060,7 @@
        <st Contlex="N_PANGA">пяна#куд#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">пянакуд</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">пянакуд</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>pänakudlaŋga</phonet>
    </lg>
      <sources>
@@ -111344,7 +111340,7 @@
        <st Contlex="N_PANGA">пятналанг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">пятна</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">пятна</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg>
    </lg>
      <sources>
@@ -117682,7 +117678,7 @@
    <lg>
      <l pos="N" type="mwe">салфтома</l>
      <stg>
-       <st>салфтома</st>
+       <st>салфтом%{АО%}</st>
      </stg> <phonet>salftəma</phonet>
        <l_ref>сал</l_ref>
    </lg>
@@ -118157,7 +118153,7 @@
    <lg>
      <l pos="N" type="mwe">сапоньфтома</l>
      <stg>
-       <st>сапоньфтома</st>
+       <st>сапоньфтом%{АО%}</st>
      </stg> <phonet>sapəńftəma, sapəńfťəma</phonet>
        <l_ref>сапонь</l_ref>
    </lg>
@@ -118243,7 +118239,7 @@
        <st Contlex="N_KAL">саразал</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">сараз</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">сараз</comp>
        <comp ord="E2" pos="N">ал</comp> </compg> <phonet>sarazal</phonet>
    </lg>
      <sources>
@@ -118548,11 +118544,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">сардоня</l>
      <stg>
-       <st>сардоня</st>
+       <st Contlex="N_AVA">сардоня</st>
      </stg> <phonet>sardəńä</phonet>
        <l_ref>сарда</l_ref>
    </lg>
@@ -121456,11 +121452,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">сендиня</l>
      <stg>
-       <st>сендиня</st>
+       <st Contlex="N_AVA">сендиня</st>
      </stg> <phonet>śeńďińä</phonet>
        <l_ref>сенди</l_ref>
    </lg>
@@ -129931,45 +129927,14 @@
    </mg>
 </e>
 <e id="None" meta="">
-   <lg>
-     <l pos="N">сузма</l>
-     <stg>
-       <st Contlex="N_AVA">сузма</st>
-     </stg> <phonet>suzma</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">(murt.) jänne</t>
-     </tg>
-     <defNative/>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">kyhmy</t>
-     </tg>
-     <defNative/>
-   </mg>
-   <mg relId="2">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">(puhek.) nenä</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e id="None" meta="">
+   <map/>
    <lg>
      <l hid="Hom1" pos="N">сузма</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="N_AVA">сузма</st>
-     </stg> <phonet>suzma</phonet>
+     </stg> <compg> </compg> <phonet>suzma</phonet>
    </lg>
      <sources>
      </sources>
@@ -129979,15 +129944,18 @@
      <tg xml:lang="fin">
        <t pos="N">rahka</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
+   <map/>
    <lg>
      <l hid="Hom2" pos="N">сузма</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="N_AVA">сузма</st>
-     </stg> <phonet>suzma</phonet>
+     </stg> <compg> </compg> <phonet>suzma</phonet>
    </lg>
      <sources>
      </sources>
@@ -129997,7 +129965,7 @@
      <tg xml:lang="fin">
        <t pos="N">(murt.) jänne</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
    <mg relId="1">
      <semantics>
@@ -130005,7 +129973,7 @@
      <tg xml:lang="fin">
        <t pos="N">kyhmy</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
    <mg relId="2">
      <semantics>
@@ -130013,7 +129981,7 @@
      <tg xml:lang="fin">
        <t pos="N">(puhek.) nenä</t>
      </tg>
-     <defNative/>
+     <defNative>null</defNative>
    </mg>
 </e>
 <e id="None" meta="">
@@ -131801,11 +131769,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">сюреня</l>
      <stg>
-       <st>сюреня</st>
+       <st Contlex="N_AVA">сюреня</st>
      </stg> <phonet>śuŕəńä</phonet>
        <l_ref>сюре</l_ref>
    </lg>
@@ -131956,11 +131924,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">сюрьхцемня</l>
      <stg>
-       <st>сюрьхцемня</st>
+       <st Contlex="N_AVA">сюрьхцемня</st>
      </stg> <phonet>śuŕxćəmńä</phonet>
        <l_ref>сюрьхцем</l_ref>
    </lg>
@@ -134006,11 +133974,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">таваткскя</l>
      <stg>
-       <st>таваткскя</st>
+       <st Contlex="N_VAL1MIA">таваткскя</st>
      </stg> <phonet>tavatkskä</phonet>
        <l_ref>таваткс</l_ref>
    </lg>
@@ -137320,7 +137288,7 @@
        <st Contlex="N_PANGA">тинге#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">тинге</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">тинге</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>ťińgəlaŋga</phonet>
    </lg>
      <sources>
@@ -137626,7 +137594,7 @@
    <lg>
      <l pos="N" type="mwe">тише</l>
      <stg>
-       <st>тише</st>
+       <st Contlex="N_TISHE">тише</st>
      </stg> <phonet>veďgurməś ťišä</phonet>
        <l_ref>ведькурмозь</l_ref>
    </lg>
@@ -138375,7 +138343,7 @@
        <st Contlex="N_PANGA">томбам#ланг%{АОØ%}</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
-       <comp ms="Sg.Nom" ord="E1" pos="N">томбам</comp>
+       <comp ms="Sg_Nom_Indef" ord="E1" pos="N">томбам</comp>
        <comp ord="E2" pos="N">ланга</comp> </compg> <phonet>tombamlaŋga, tombalaŋga</phonet>
    </lg>
      <sources>
@@ -141316,11 +141284,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">туворня</l>
      <stg>
-       <st>туворня</st>
+       <st Contlex="N_AVA">туворня</st>
      </stg> <phonet>tuvərńä</phonet>
        <l_ref>тувор</l_ref>
    </lg>
@@ -141734,11 +141702,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">тулоняня</l>
      <stg>
-       <st>тулоняня</st>
+       <st Contlex="N_AVA">тулоняня</st>
      </stg> <phonet>tuləńäńä</phonet>
        <l_ref>тула</l_ref>
    </lg>
@@ -142226,11 +142194,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">тунданя</l>
      <stg>
-       <st>тунданя</st>
+       <st Contlex="N_AVA">тунданя</st>
      </stg> <phonet>tundańä</phonet>
        <l_ref>тунда</l_ref>
    </lg>
@@ -142757,11 +142725,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">тутманя</l>
      <stg>
-       <st>тутманя</st>
+       <st Contlex="N_AVA">тутманя</st>
      </stg> <phonet>tutmańä</phonet>
        <l_ref>тутма</l_ref>
    </lg>
@@ -143638,7 +143606,7 @@
    <lg>
      <l pos="N" type="mwe">тюсфтома</l>
      <stg>
-       <st>тюсфтома</st>
+       <st>тюсфтом%{АО%}</st>
      </stg> <phonet>ťusftəma</phonet>
        <l_ref>тюс</l_ref>
    </lg>
@@ -144145,11 +144113,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">тялоня</l>
      <stg>
-       <st>тялоня</st>
+       <st Contlex="N_AVA">тялоня</st>
      </stg> <phonet>ťaləńä</phonet>
        <l_ref>тяла</l_ref>
    </lg>
@@ -144947,11 +144915,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">тяштеня</l>
      <stg>
-       <st>тяштеня</st>
+       <st Contlex="N_AVA">тяштеня</st>
      </stg> <phonet>ťäšťəńä</phonet>
        <l_ref>тяште</l_ref>
    </lg>
@@ -148364,11 +148332,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">уськоня</l>
      <stg>
-       <st>уськоня</st>
+       <st Contlex="N_AVA">уськоня</st>
      </stg> <phonet>uśkəńä</phonet>
        <l_ref>уське</l_ref>
    </lg>
@@ -154491,11 +154459,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">цинзерня</l>
      <stg>
-       <st>цинзерня</st>
+       <st Contlex="N_AVA">цинзерня</st>
      </stg> <phonet>ćińʒ’ərńä, ćińʒ’əŕńä</phonet>
        <l_ref>цинзер</l_ref>
    </lg>
@@ -156696,11 +156664,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">чайкуцюня</l>
      <stg>
-       <st>чайкуцюня</st>
+       <st Contlex="N_AVA">чайкуцюня</st>
      </stg> <phonet>čajkućuńä</phonet>
        <l_ref>куцю</l_ref>
    </lg>
@@ -159311,11 +159279,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шаваня</l>
      <stg>
-       <st>шаваня</st>
+       <st Contlex="N_AVA">шаваня</st>
      </stg> <phonet>šavańä</phonet>
        <l_ref>шава</l_ref>
    </lg>
@@ -159935,11 +159903,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шаманардама</l>
      <stg>
-       <st>шаманардама</st>
+       <st Contlex="N_AVA">шаманардама</st>
      </stg> <phonet>šamanardama</phonet>
        <l_ref>нардама</l_ref>
    </lg>
@@ -161333,11 +161301,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шеерня</l>
      <stg>
-       <st>шеерня</st>
+       <st Contlex="N_AVA">шеерня</st>
      </stg> <phonet>šejərńä</phonet>
        <l_ref>шеер</l_ref>
    </lg>
@@ -162803,11 +162771,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шкабаваз-атя</l>
      <stg>
-       <st>шкабаваз-атя</st>
+       <st Contlex="N_AVA">шкабаваз-атя</st>
      </stg> <phonet>škabavaz-aťä</phonet>
    </lg>
      <sources>
@@ -165618,7 +165586,7 @@
    <lg>
      <l pos="N" type="mwe">шумофтома</l>
      <stg>
-       <st>шумофтома</st>
+       <st>шумофтом%{АО%}</st>
      </stg> <phonet>šuməftəma, šumftəma</phonet>
        <l_ref>шума</l_ref>
    </lg>
@@ -165998,11 +165966,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шуфтоня</l>
      <stg>
-       <st>шуфтоня</st>
+       <st Contlex="N_AVA">шуфтоня</st>
      </stg> <phonet>šuftəńä</phonet>
        <l_ref>шуфта</l_ref>
    </lg>
@@ -166884,11 +166852,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">шяярня</l>
      <stg>
-       <st>шяярня</st>
+       <st Contlex="N_AVA">шяярня</st>
      </stg> <phonet>šäjäŕńä</phonet>
        <l_ref>шяярь</l_ref>
    </lg>
@@ -167112,7 +167080,7 @@
    <lg>
      <l pos="N" type="mwe">щамфтома</l>
      <stg>
-       <st>щамфтома</st>
+       <st>щамфтом%{АО%}</st>
      </stg> <phonet>ščamftəma</phonet>
        <l_ref>щам</l_ref>
    </lg>
@@ -168235,11 +168203,11 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">эйня</l>
      <stg>
-       <st>эйня</st>
+       <st Contlex="N_AVA">эйня</st>
      </stg> <phonet>äjńä</phonet>
        <l_ref>эй</l_ref>
    </lg>
