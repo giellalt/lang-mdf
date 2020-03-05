@@ -332,7 +332,8 @@ LEXICON NMN_SEL1ME
 
 
 LEXICON NMN_VAL1MIA
-:%^Я2А        NMN-SG  ;
+ SG-NOM-INDEF ;
+:%^Я2А        NMN-SG-OBL  ;
 :%^Я2А        NMN-PL  ;
 :%^Я2А        NMN-SG/PL       ;
 :%^Я2А SP-LAT-INDEF ;
@@ -754,6 +755,8 @@ LEXICON NMN_DECLENSION-WITHOUT-ONSET-VOWEL-RETAIN-STEM-VOWEL
 
 LEXICON NMN-SG
  SG-NOM-INDEF ;
+ NMN-SG-OBL ;
+LEXICON NMN-SG-OBL
 !! Definite Sg
  SG-DAT/GEN/NOM-DEF ;
 !! Possessor Indices
