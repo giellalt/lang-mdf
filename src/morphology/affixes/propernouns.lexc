@@ -15,6 +15,9 @@ LEXICON PROP_
 LEXICON PROP_KAL
 : NMN_KAL	;
 
+LEXICON PROP_OSH
+: NMN_OSH	;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Male given name for deriving patronyms 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -228,6 +231,9 @@ LEXICON PROP_VAJ !!≈ * __@CODE@__ ending in vowel
 
 LEXICON PROP_KELU !!≈ * __@CODE@__ ending in u
 : NMN_KELU ;
+
+LEXICON PROP_ANDY !!≈ * __@CODE@__ ending in i
+: NMN_ANDY ;
 
 
 LEXICON PROP
