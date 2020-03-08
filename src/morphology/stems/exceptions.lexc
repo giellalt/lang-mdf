@@ -399,7 +399,7 @@ LEXICON EXCEPTIONS
 штоли+Use/SpellNoSugg:штоли PCLE_ "" ;
 
 !! NOUNS
-бедная:бедная N_AVA ;
+бедная+N:бедная N_AVA ;
 
 
 !! PROP
@@ -408,6 +408,29 @@ LEXICON EXCEPTIONS
 
 !! MISSING VALENCY
 
-кенярьфнемс:кенярьфне TV_KUNDAMS ;
-
-
+кенярьфнемс+V:кенярьфне BV_KUNDAMS ;
+сялдомс+V:сялд BV_ANDOMS ;
+тиендемс+V:тиендь BV_PACHKODEMS ;
+пяшкотькшнемс+V:пяшкотькшне BV_KUNDAMS ;
+судендамс+V:суденда BV_KUNDAMS ;
+лувомс+V:лув BV_ANDOMS ;
+пророчендамс+V:пророченда IV_KUNDAMS ;
+вельмафнемс+V:вельмафне TV_KUNDAMS ;
+эськодемс+V:эськодь TV_PACHKODEMS ;
+шерьхфтемс+V:шерьхфть TV_NJAFTEMS ;
+сёлгондомс+V:сёлгонд BV_ANDOMS ;
+крьвяснемс+V:крьвясне BV_KUNDAMS ;
+штакшнемс+V:штакшне BV_KUNDAMS ;
+шнакшнемс+V:шнакшне BV_KUNDAMS ;
+мушендомс+V:мушенд BV_ANDOMS ;
+путнемс+V:путне BV_KUNDAMS ;
+плхнемс+V:плхне BV_KUNDAMS ;
+нолямс+V:ноля BV_KUNDAMS ;
+ёрямс+V:ёря BV_KUNDAMS ;
+тернемс+V:терне BV_KUNDAMS ;
+салсемс+V:салсе BV_KUNDAMS ;
+лихнемс+V:лихне BV_KUNDAMS ;
+навамс+V:нава BV_KUNDAMS ;
+идемс+V:иде BV_KUNDAMS ;
+пачфтомс+V:пачфт BV_ALYJAFTOMS ;
+матомс+V:мат BV_ANDOMS ;

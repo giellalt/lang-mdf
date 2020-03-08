@@ -433,13 +433,13 @@ LEXICON NMN_KELU-PL
 !! Definite Pl
 !+Pl:в PL-DAT/GEN/NOM-DEF ;
 +Pl:в        NMN-PL       ;
-!        NMN-SG/PL       ;
         NMN_KELU-SG/PL  ;
 
 
 LEXICON NMN_KELU-SG/PL
 :в SP-GEN-INDEF ;
 :в NOTDEF-CAU ;
+:в SP-DAT-INDEF ;
  SP-DAT-INDEF ;
  NOTDEF-ABL ;
  NOTDEF-ILL ;
@@ -449,6 +449,11 @@ LEXICON NMN_KELU-SG/PL
  NOTDEF-TRA ;
  NOTDEF-CMPR ;
  NOTDEF-PRL ;
+!! Possessor Indices
+ PXPL1 ;
+ PXPL2 ;
+ PXPL3 ;
+
 
 LEXICON NMN_ANDY
 	NMN_ANDY-SG	;
@@ -485,7 +490,6 @@ LEXICON NMN_ANDY-PL
 !! Definite Pl
 !+Pl:в PL-DAT/GEN/NOM-DEF ;
 :й        NMN-PL       ;
-!        NMN-SG/PL       ;
         NMN_ANDY-SG/PL  ;
 
 
@@ -504,6 +508,10 @@ LEXICON NMN_ANDY-SG/PL
  NOTDEF-TRA ;
  NOTDEF-CMPR ;
  NOTDEF-PRL ;
+!! Possessor Indices
+ PXPL1 ;
+ PXPL2 ;
+ PXPL3 ;
 
 LEXICON NMN_VAJ
 !	NMN_VAJ-SG	;
@@ -855,6 +863,7 @@ LEXICON PL-DAT/GEN/NOM-DEF
 LEXICON SG-DAT/GEN/NOM-PXSG1
 +Sg+Nom+PxSg1:%>%{ЕОØ%}зе K ;
 +Sg+Nom+PxSg1+Clt/Cop:%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxSg1+Clt/Cop:%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
 +Sg+Gen+PxSg1:%>%{ЕОØ%}зе%>%{ЕОØ%}нь K ;
 +Sg+Dat+PxSg1:%>%{ЕОØ%}зе%>нди K ;
 +Sg+Dat+PxSg1:%>%{ЕОØ%}з%>ти K ;
@@ -865,6 +874,7 @@ LEXICON SG-DAT/GEN/NOM-PXSG1
 LEXICON PL-DAT/GEN/NOM-PXSG1
 +Pl+Nom+PxSg1:%^PXSG1%>не K ;
 +Pl+Nom+PxSg1+Clt/Cop:%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxSg1+Clt/Cop:%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
 +Pl+Gen+PxSg1:%^PXSG1%>не%>%{ЕОØ%}нь K ;
 +Pl+Dat+PxSg1:%^PXSG1%>не%>нди K ;
 +Pl+Nom+PxSg1:%^PXSG1%>%{ЕОØ%}не K ;
@@ -878,6 +888,7 @@ LEXICON PL-DAT/GEN/NOM-PXSG1
 LEXICON SG-DAT/GEN/NOM-PXSG2
 +Sg+Nom+PxSg2:%>це K ;
 +Sg+Nom+PxSg2+Clt/Cop:%>це SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxSg2+Clt/Cop:%>це SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
 +Sg+Gen+PxSg2:%>це%>%{ЕОØ%}нь K ;
 +Sg+Dat+PxSg2:%>це%>нди K ; !-ге Бебан, Кирдяшкин, Ларионов, Левчаев, Алёшкин
 +Sg+Dat+PxSg2:%>цти K ; !-ге/вок Бебан, Девин, Кирдяшкин, Кишняшкин, Кудашов, Кузнецов, Ларионов, Левчаев, Макулов, Моисеев, Мокша А 1998, Носиков,  
@@ -887,12 +898,14 @@ LEXICON PL-CX-PXSG2
 LEXICON PL-DAT/GEN/NOM-PXSG2
 +Pl+Nom+PxSg2:%>%{Х%}тне K ;
 +Pl+Nom+PxSg2+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxSg2+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
 +Pl+Gen+PxSg2:%>%{Х%}тне%>%{ЕОØ%}нь K ;
 +Pl+Dat+PxSg2:%>%{Х%}тне%>нди K ;
 
 LEXICON SG-DAT/GEN/NOM-PXSG3
 +Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
 +Sg+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
 +Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
 +Sg+Dat+PxSg3:%>%{ЕОØ%}нцты K ;
 LEXICON PL-CX-PXSG3
@@ -900,6 +913,7 @@ LEXICON PL-CX-PXSG3
 LEXICON PL-DAT/GEN/NOM-PXSG3
 +Pl+Nom+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
 +Pl+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 +Pl+Gen+PxSg3:%>%{ЕОØ%}нз%{АО%}%>%{ЕОØ%}н K ;
 +Pl+Dat+PxSg3:%>%{ЕОØ%}нз%{АО%}%>нды K ;
 
@@ -918,10 +932,12 @@ LEXICON SP-DAT/GEN/NOM-PXPL1
 !+SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
 +Sg+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
 +Sg+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
 +Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
 +Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
 +Pl+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
 +Pl+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
 +Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
 +Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
 
@@ -932,10 +948,12 @@ LEXICON SP-DAT/GEN/NOM-PXPL2
 !+SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 +Sg+Nom+PxPl2:%>%{ЕОØ%}нте K ;
 +Sg+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
 +Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
 +Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 +Pl+Nom+PxPl2:%>%{ЕОØ%}нте K ;
 +Pl+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
 +Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
 +Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 
@@ -945,10 +963,12 @@ LEXICON SP-DAT/GEN/NOM-PXPL3
 !+SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
 +Sg+Nom+PxPl3:%>сн%{АО%} K ;
 +Sg+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
 +Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
 +Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
 +Pl+Nom+PxPl3:%>сн%{АО%} K ;
 +Pl+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 +Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
 +Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
 
