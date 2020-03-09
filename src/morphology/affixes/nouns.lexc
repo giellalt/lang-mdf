@@ -44,7 +44,7 @@ LEXICON N_AVA-PL
 LEXICON N_VAL1MIA
 ! вальмя:вальмя
 : NMN_VAL1MIA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_VAL1MIA-SG
 !! вальмя:вальмя
@@ -794,6 +794,7 @@ LEXICON NMN-SG/PL
  NOTDEF-TRA ;
  NOTDEF-CMPR ;
  NOTDEF-PRL ;
+ SP-PRL_Ova ;
 
 !! Possessor Indices
  PXPL1 ;
@@ -1159,6 +1160,26 @@ LEXICON DER/COP
 +Der+Clt/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
 +Der+Clt/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
 +Der+Clt/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
+
+LEXICON VOCATIVE-J/KIAJ
+ VOCATIVE-J ;
+ VOCATIVE-KIAJ ;
+LEXICON VOCATIVE-J/KIAJ/NIAJ
+ VOCATIVE-J ;
+ VOCATIVE-KIAJ ;
+ VOCATIVE-NIAJ ;
+LEXICON VOCATIVE-J/NIAJ
+ VOCATIVE-J ;
+ VOCATIVE-NIAJ ;
+LEXICON VOCATIVE-KIAJ/NIAJ
+ VOCATIVE-KIAJ ;
+ VOCATIVE-NIAJ ;
+LEXICON VOCATIVE-J
++Voc:й # ;
+LEXICON VOCATIVE-KIAJ
++Voc:%>кяй # ;
+LEXICON VOCATIVE-NIAJ
++Voc:%>няй # ;
 
 ! vim: set ft=xfst-lexc:
 
