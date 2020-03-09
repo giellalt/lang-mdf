@@ -239,7 +239,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 +Cmp/Hyph-tejems !!≈ * @CODE@ with verbs
 
 !! Question and Focus particles:
- +Clt/Cop
+ +Clt/Cop !!≈ * @CODE@ This marks all instances of enclitic copula inflection
 
  +Qst +Foc
  +Foc/вок
@@ -518,7 +518,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
         !!  possible to target derivations as a class e.g. in regular expressions etc
  +Der/MWN
  +Der/Poss  !!≈ *  __@CODE@__  possessive noun ава » аванне
- +Der/Cop
+ +Der/Ord  !!≈ *  __@CODE@__  
+ +Der/Iter  !!≈ *  __@CODE@__  весть, кафксть, колмоксть...
 
  +Der/I
  +Der/f
@@ -711,6 +712,7 @@ LEXICON Root
     Punctuation ;
     Symbols     ;
 
+ NUMERAL-TYPES ;
  PRONOUN-TYPES ;
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv

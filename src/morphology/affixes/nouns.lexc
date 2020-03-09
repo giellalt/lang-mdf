@@ -1146,19 +1146,19 @@ LEXICON OBLIQUECX-PX-ava
 +PxPl3:%>%{ЕОØ%}ст K ;
 
 LEXICON DER/COP
-+Der+Der/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
-+Der+Der/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
-+Der+Der/Cop+Prs+ScSg3: K ;
-+Der+Der/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
-+Der+Der/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
-+Der+Der/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
++Der+Clt/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
++Der+Clt/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
++Der+Clt/Cop+Prs+ScSg3: K ;
++Der+Clt/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
++Der+Clt/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
++Der+Clt/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
 
-+Der+Der/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
-+Der+Der/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
-+Der+Der/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
-+Der+Der/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
-+Der+Der/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
-+Der+Der/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
++Der+Clt/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
++Der+Clt/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
++Der+Clt/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
++Der+Clt/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
++Der+Clt/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
++Der+Clt/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
 
 ! vim: set ft=xfst-lexc:
 
