@@ -1,7 +1,77 @@
 !! Quantifier inflection
 
-!! The UNDEFINED language proper nouns inflect in the same cases as regular
-!! nouns, but with a colon (':') as separator.
+!! Numerals in the MOKSHA language inflect in the same cases as regular
+!! nouns.
+
+!!!!!!!!!!!!
+!! NUMERALS
+!!!!!!!!!!!!
+LEXICON NUMERAL-TYPES
+фкя+Num+Card:фкя NMN_VAL1MIA ;
+фкя+Num:васен NUMERALS-TO-ORD ;
+фкя+Num+Der+Der/Iter+Adv+Iter:весть # ;
+фкя+Num:фи NUMERALS-FOR-COLL ;
+
+кафта+Num+Card:кафт%{АОØ%} N_OFTA ;
+кафта+Num:омбо NUMERALS-TO-ORD ;
+кафта+Num:каф NUMERALS-TO-ITER ;
+кафта+Num:омбо NUMERALS-FOR-COLL ;
+
+колма+Num:колм%{АО%} NUMERALS-3-AND-UP-PULA ;
+
+ниле+Num:ниле NUMERALS-3-AND-UP-PINE ;
+вете+Num:вете NUMERALS-3-AND-UP-PINE ;
+кота+Num:кот%{АО%} NUMERALS-3-AND-UP-PULA ;
+сисем+Num:сисем NUMERALS-3-AND-UP-KIAL1 ;
+кафкса+Num:кафкс%{АО%} NUMERALS-3-AND-UP-PULA ;
+вейхкса+Num:вейхкс%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемонь+Num:кемонь NUMERALS-3-AND-UP-KIAL1 ;
+
+колмогемонь+Num:колмогемонь NUMERALS-3-AND-UP-KIAL1 ;
+ниленьгемонь+Num:ниленьгемонь NUMERALS-3-AND-UP-KIAL1 ;
+ведьгемонь+Num:ведьгемонь NUMERALS-3-AND-UP-KIAL1 ;
+кодгемонь+Num:кодгемонь NUMERALS-3-AND-UP-KIAL1 ;
+сизьгемонь+Num:сизьгемонь NUMERALS-3-AND-UP-KIAL1 ;
+кафксоньгемонь+Num:кафксоньгемонь NUMERALS-3-AND-UP-KIAL1 ;
+вейхксоньгемонь+Num:вейхксоньгемонь NUMERALS-3-AND-UP-KIAL1 ;
+сяда+Num:сяд%{АОØ%} NUMERALS-3-AND-UP-OFTA ;
+
+LEXICON NUMERALS-3-AND-UP-PINE
++Card: N_PINE ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+LEXICON NUMERALS-3-AND-UP-PULA
++Card: NMN_PULA ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+LEXICON NUMERALS-3-AND-UP-KIAL1
++Card: N_KIAL1 ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+LEXICON NUMERALS-3-AND-UP-OFTA
++Card: N_OFTA ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+
+LEXICON NUMERALS-ASSOCCOLL/COLL/ITER/ORD
+ NUMERALS-FOR-ASSOCCOLL ;
+ NUMERALS-FOR-COLL ;
+ NUMERALS-TO-ITER ;
+ NUMERALS-TO-ORD ;
+
+LEXICON NUMERALS-FOR-ASSOCCOLL
++AssocColl+PxSg1:%>нен # ;
++AssocColl+PxSg2:%>нет # ;
++AssocColl+PxSg3:%>ненза # ;
+
++AssocColl+PxPl1:%>нек # ;
++AssocColl+PxPl1:%>ненк # ;
++AssocColl+PxPl2:%>нент # ;
++AssocColl+PxPl3:%>нест # ;
+
+LEXICON NUMERALS-FOR-COLL
++Coll+Sg+Nom:%>%{ЕОØ%}нст # ;
+LEXICON NUMERALS-TO-ITER
++Der+Der/Iter+Adv+Iter:%>ксть # ;
+LEXICON NUMERALS-TO-ORD
++Der+Der/Ord+A+Ord:%>це NMN_AVA ;
+
 
 !!!!!!!!!!!
 !! NUMBERS 
