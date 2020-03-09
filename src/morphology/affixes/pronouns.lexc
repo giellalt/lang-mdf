@@ -125,6 +125,8 @@ LEXICON PRON_
 LEXICON PERS-SG1
 !мон:мон
 +Nom: K_ГА ;
++Nom+Clt/Cop+Prs: VERB-ZERO-10 ;
++Nom+Clt/Cop: MUTUAL-PRT2-10 ;
 +Gen:ь K_ГА ;
 +Dat:дейне K ;
 +Abl:дедон K ;
@@ -137,6 +139,8 @@ LEXICON PERS-SG1
 LEXICON PERS-SG2
 ! тон:тон
 +Nom: K_ГА ;
++Nom+Clt/Cop+Prs: VERB-ZERO-20 ;
++Nom+Clt/Cop: MUTUAL-PRT2-20 ;
 +Gen:ь K_ГА ;
 +Dat:дейть K_ГА ;
 +Abl:дедот K_ГА ;
@@ -149,6 +153,7 @@ LEXICON PERS-SG2
 LEXICON PERS-SG3
 ! сон:сон
 +Nom: K_ГА ;
++Nom+Clt/Cop: MUTUAL-PRT2-30 ;
 +Gen:ь K_ГА ;
 +Dat:дейнз%{АО%} K_вок ;
 +Abl:дедонз%{АО%} K_вок ;
@@ -161,6 +166,8 @@ LEXICON PERS-SG3
 LEXICON PERS-PL1
 !минь:мин
 +Nom:ь K_ГА ;
++Nom+Clt/Cop+Prs:ь VERB-ZERO-40 ;
++Nom+Clt/Cop:ь MUTUAL-PRT2-40 ;
 +Gen:ь K_ГА ;
 +Abl:дедонк K_овок ;
 +Ine:ьцонк K_овок ;
@@ -172,6 +179,8 @@ LEXICON PERS-PL1
 LEXICON PERS-PL2
 !тинь:тин
 +Nom:ь K_ГА ;
++Nom+Clt/Cop+Prs:ь VERB-ZERO-50 ;
++Nom+Clt/Cop:ь MUTUAL-PRT2-50 ;
 +Gen:ь K_ГА ;
 +Abl:дедонт K_овок ;
 +Intensive+Nom:ць K_ГА ;
@@ -182,6 +191,7 @@ LEXICON PERS-PL2
 LEXICON PERS-PL3
 !!синь:син
 +Nom:ь K_ГА ;
++Nom+Clt/Cop:ь MUTUAL-PRT2-60 ;
 +Gen:ь K_ГА ;
 +Abl:дедост K_ГА ;
 +Intensive+Nom:ць K_ГА ;
