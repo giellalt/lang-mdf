@@ -712,6 +712,7 @@ LEXICON Root
     Punctuation ;
     Symbols     ;
 
+ ADPOSITION-TYPES ;
  NUMERAL-TYPES ;
  PRONOUN-TYPES ;
  A_NEWWORDS     ;
@@ -725,6 +726,8 @@ LEXICON Root
   Punctuation	;
  urj-Cyrl-ProperNouns ;
   EXCEPTIONS	      ;
+ AUXILIARIES ;
+ VERBNEGATIVE ;
 
 ! ======================================================= !
 ! These lexica are for parts of speech without morphology !
@@ -812,8 +815,7 @@ LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
 !+Onom: # ;
 
 LEXICON DESCR_
-+Descr: # ;
-
++Descr: ENDLEX ;
 
 
 ! ======= !

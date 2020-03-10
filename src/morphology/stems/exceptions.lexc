@@ -7,46 +7,9 @@
 
 LEXICON EXCEPTIONS
 !!
-афоль+V+Aux:афоль V-AUX-NEG-CONJ_AFOLJ ;
-тят+V+Aux+Neg+Opt+ScSg1:тязан K ;
-тят+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScSg2:тязат K ;
-тят+V+Aux+Neg+Opt+ScSg2+OcSg3:тязак K ;
-тят+V+Aux+Neg+Opt+ScSg2+OcPl1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScSg3:тяза K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg1:тязамань K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcPl1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
-тят+V+Aux+Neg+Opt+ScPl3:тяст K ;
-тят+V+Aux+Neg+Opt+ScPl1:тязама K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcSg2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcSg3:тязаськ K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcPl3:тязаськ K ;
-тят+V+Aux+Neg+Opt+ScPl2+OcSg1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScPl2+OcPl1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg3:тязазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl3:тязазь K ;
-
-!
-тят+V+Aux+Proh+ScSg2:тят K ;
-тят+V+Aux+Proh+ScSg2+OcSg1:тямак K ;
-тят+V+Aux+Proh+ScSg2+OcPl1:тямасть K ;
-тят+V+Aux+Proh+ScSg2+OcSg3:тяк K ;
-тят+V+Aux+Proh+ScSg2+OcPl3:тяйть K ;
-тят+V+Aux+Proh+ScPl2:тяда K ;
-тят+V+Aux+Proh+ScPl2+OcSg1:тямасть K ;
-тят+V+Aux+Proh+ScPl2+OcPl1:тямасть K ;
-тят+V+Aux+Proh+ScPl2+OcSg3:тясть K ;
-тят+V+Aux+Proh+ScPl2+OcPl3:тясть K ;
 
 !! MISSING ADV
+бта+Adv:бъта ADV_ ;
 мзярда+Adv:мъзярда ADV_ ;
 мзярс-бди+Adv+Indef:мъзярс-бъди ADV_ ;
 мзярда-бди+Adv+Indef:мъзярда-бъди ADV_ ;
@@ -453,3 +416,23 @@ LEXICON EXCEPTIONS
 идемс+V:иде BV_KUNDAMS ;
 пачфтомс+V:пачфт BV_ALYJAFTOMS ;
 матомс+V:мат BV_ANDOMS ;
+
+
+!! TEST FOR FICTICIOUS WORDS
+ральон+N:ральон N_KAL ;
+райан+N:райан N_KAL ;
+ральан+N:ральан N_KAL ;
+райун+N:райун N_KAL ;
+ральун+N:ральун N_KAL ;
+райян+N:райян N_KAL ;
+ральян+N:ральян N_KAL ;
+райён+N:райён N_KAL ;
+ральён+N:ральён N_KAL ;
+райюн+N:райюн N_KAL ;
+ральюн+N:ральюн N_KAL ;
+райын+N:райын N_KAL ;
+ральын+N:ральын N_KAL ;
+райен+N:райен N_KAL ;
+ральен+N:ральен N_KAL ;
+райин+N:райин N_KAL ;
+ральин+N:ральин N_KAL ;
