@@ -1,0 +1,25 @@
+!! Pronoun inflection
+
+!! Adpostions in the Moksha language might also inflect in the same cases as regular
+!! nouns, but ...
+
+!!!!!!!!!!!
+!! ADPOSITIONS
+!!!!!!!!!!!
+
+LEXICON ADPOSITION-TYPES
+инголе+Adp:инголе ADP-WITH-PX-OR-NOT ;
+инкса+Adp:инкс%{АО%} ADP-WITH-PX-OR-NOT ;
+перьфке+Adp:перьфк%{АЕ%} ADP-WITH-PX-OR-NOT ;
+пяле+Adp:пяле ADP-WITH-PX-OR-NOT ;
+
+
+LEXICON ADP-WITH-PX-OR-NOT
+ K ;
+ OBLIQUECX-PX-REQUIRES-VOWEL ;
+!%>%{ЕОØ%}н
+ OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
+!%>т, %>ст
+
+! vim: set ft=xfst-lexc:
+
