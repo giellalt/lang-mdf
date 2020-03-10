@@ -337,6 +337,17 @@ LEXICON NMN_VAL1MIA
 :%^Я2А        NMN-PL  ;
 :%^Я2А        NMN-SG/PL       ;
 :%^Я2А SP-LAT-INDEF ;
+!CHECKME
+ SG-DAT/GEN/NOM-PXSG1 ;
+ PL-DAT/GEN/NOM-PXSG1 ;
+ SG-DAT/GEN/NOM-PXSG2 ;
+ PL-DAT/GEN/NOM-PXSG2 ;
+ PL-DAT/GEN/NOM-DEF ;
+ SG-DAT/GEN/NOM-DEF ;
+ SP-DAT/GEN/NOM-PXPL1 ;
+ SP-DAT/GEN/NOM-PXPL2 ;
+ SP-GEN-INDEF ;
+ SP-DAT-INDEF ;
 
 !LEXICON NMN_VAL1MIA-SG
 !+Sg+Nom+Indef: K ;
@@ -440,6 +451,7 @@ LEXICON NMN_KELU-SG/PL
 :в SP-GEN-INDEF ;
 :в NOTDEF-CAU ;
 :в SP-DAT-INDEF ;
+:в SP-LAT-INDEF ;
  SP-DAT-INDEF ;
  NOTDEF-ABL ;
  NOTDEF-ILL ;
@@ -795,6 +807,7 @@ LEXICON NMN-SG/PL
  NOTDEF-CMPR ;
  NOTDEF-PRL ;
  SP-PRL_Ova ;
+ SP-LAT-INDEF ;
 
 !! Possessor Indices
  PXPL1 ;
@@ -847,6 +860,8 @@ LEXICON SG-DAT/GEN/NOM-DEF
  SG-DAT-DEF ;
 LEXICON SG-NOM-DEF
 +Sg+Nom+Def:%>сь K ;
++Sg+Nom+Def+Clt/Cop:%>сь SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++Sg+Nom+Def+Clt/Cop:%>сь SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
 
 LEXICON SG-GEN-DEF
 +Sg+Gen+Def:%>ть K ;
@@ -857,6 +872,8 @@ LEXICON SG-DAT-DEF
 
 LEXICON PL-DAT/GEN/NOM-DEF
 +Pl+Nom+Def:%>%{Х%}тне K ;
++Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 +Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь K ;
 +Pl+Dat+Def:%>%{Х%}тне%>нди K ;
 
