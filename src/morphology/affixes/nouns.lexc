@@ -872,10 +872,13 @@ LEXICON SG-DAT-DEF
 
 LEXICON PL-DAT/GEN/NOM-DEF
 +Pl+Nom+Def:%>%{Х%}тне K ;
++Pl+Nom+Def:%>%{Х%}тне%-месне ENDLEX ;
 +Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
 +Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 +Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь K ;
++Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь%-меснень ENDLEX ;
 +Pl+Dat+Def:%>%{Х%}тне%>нди K ;
++Pl+Dat+Def:%>%{Х%}тне%>нди%-месненди ENDLEX ;
 
 
 LEXICON SG-DAT/GEN/NOM-PXSG1
@@ -945,50 +948,50 @@ LEXICON PXPL3
 
 
 LEXICON SP-DAT/GEN/NOM-PXPL1
-!+SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-!+SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-!+SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
-+Sg+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+Sg+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
-+Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-+Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
-+Pl+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+Pl+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
-+Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-+Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
++SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
++SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
++SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
+!+Sg+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
++SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
+!+Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
+!+Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
+!+Pl+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
++SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
+!+Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
+!+Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
 
 
 LEXICON SP-DAT/GEN/NOM-PXPL2
-!+SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-!+SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-!+SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
-+Sg+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+Sg+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
-+Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-+Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
-+Pl+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+Pl+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
-+Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-+Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
++SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
++SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
++SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
+!+Sg+Nom+PxPl2:%>%{ЕОØ%}нте K ;
++SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
+!+Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
+!+Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
+!+Pl+Nom+PxPl2:%>%{ЕОØ%}нте K ;
++SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
+!+Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
+!+Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
 
 LEXICON SP-DAT/GEN/NOM-PXPL3
-!+SP+Nom+PxPl3:%>сн%{АО%} K ;
-!+SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-!+SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
-+Sg+Nom+PxPl3:%>сн%{АО%} K ;
-+Sg+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
-+Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-+Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
-+Pl+Nom+PxPl3:%>сн%{АО%} K ;
-+Pl+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
-+Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-+Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
++SP+Nom+PxPl3:%>сн%{АО%} K ;
++SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
++SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
+!+Sg+Nom+PxPl3:%>сн%{АО%} K ;
++SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
+!+Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
+!+Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
+!+Pl+Nom+PxPl3:%>сн%{АО%} K ;
++SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
++SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
+!+Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
+!+Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
 
 
 
@@ -1050,47 +1053,60 @@ LEXICON SP-ABE
 
 LEXICON SP-ABL
 +SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
++SP+Abl+Indef:%>д%{АО%}%-мезьда ENDLEX ;
 
 LEXICON SP-CAU
 +SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
++SP+Cau+Indef:%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
 
 LEXICON SP-CMPR
 +SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-DAT-INDEF
 +SP+Dat+Indef:%>%{ЕОØ%}нди K ;
++SP+Dat+Indef:%>%{ЕОØ%}нди%-мезенди ENDLEX ;
 
 LEXICON SP-ELA-INDEF
 +SP+Ela:%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
++SP+Ela+Indef:%>ста%-мезьста ENDLEX ;
 
 LEXICON SP-GEN-INDEF
 +SP+Gen+Indef:%>%{ЕОØ%}нь K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
++SP+Gen+Indef:%>%{ЕОØ%}нь%-мезень ENDLEX ;
++SP+Com+Indef:%>нек%-мезнек ENDLEX ;
+
 +Der+Der/Poss+N:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ; !want to limit this 2019-07-02
 
 
 LEXICON SP-ILL-INDEF
 +SP+Ill+Indef:%>с K ;
++SP+Ill+Indef:%>с%-мезьс ENDLEX ;
 LEXICON SP-ILL-PX
 +SP+Ill:%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
 
 LEXICON SP-INE
 +SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava ;
++SP+Ine+Indef:%>са%-мезьса ENDLEX ;
 
 LEXICON SP-LAT-INDEF
 +SP+Lat+Indef:%>%{ВИУ%} K ;
 
 LEXICON SP-PRL_Ova
 +SP+Prl:%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
++SP+Prl+Indef:%>%{ЕОØ%}ва%-мезьге ENDLEX ;
 LEXICON SP-PRL_Ga
 +SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
++SP+Prl+Indef:%>%{вгк%}%{АЕ%}%-мезьге ENDLEX ;
 
 LEXICON SP-TRA-INDEF_Oks
 +SP+Tra+Indef:%>%{ЕОØ%}кс K ;
++SP+Tra+Indef:%>%{ЕОØ%}кс%-мезькс ENDLEX ;
 LEXICON SP-TRA-INDEF_ks
 +SP+Tra+Indef:%>кс K ;
++SP+Tra+Indef:%>кс%-мезькс ENDLEX ;
 
 !!!
 !
