@@ -126,10 +126,10 @@ LEXICON A_SEL1ME
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_OFTA ;
 
-LEXICON DET_PINGE
-!пинге:пинг%{ЕО%}
-+Det+Sg+Nom+Indef: K ;
-+Det+Der+Der/MWN+N: N_PINGE ;
+!LEXICON DET_PINGE
+!!пинге:пинг%{ЕО%}
+!+Det+Sg+Nom+Indef: K ;
+!+Det+Der+Der/MWN+N: N_PINGE ;
 
 !LEXICON DET_PULA
 !!пула:пул%{АО%}
@@ -151,9 +151,9 @@ LEXICON DET_PINGE
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_VAJ ;
 
-LEXICON PRON_KAL
-!!кал:кал эрь:эрь
-: N_KAL ;
+!LEXICON PRON_KAL
+!!!кал:кал эрь:эрь
+!: N_KAL ;
 
 !LEXICON DET_KELU
 !!! келу:келу
