@@ -94,9 +94,9 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
 +Neg+Conj+ScPl3+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
 +Neg+Conj+ScPl3+OcPl3:%>%{ЕОØ%}зь ENDLEX ;
 
-LEXICON V_TUMS
-! тумс:ту
-+IV: V0_KUNDAMS ;
+!LEXICON V_TUMS
+!! тумс:ту
+!+IV: V0_KUNDAMS ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! BOTH IV and TV
@@ -118,6 +118,10 @@ LEXICON BV_MUMS
 LEXICON BV_ANDOMS
  TV_ANDOMS ;
  IV_ANDOMS ;
+
+LEXICON BV_NJAJEMS
+ TV_NJAJEMS ;
+ IV_NJAJEMS ;
 LEXICON BV_NJAFTEMS
  TV_NJAFTEMS ;
  IV_NJAFTEMS ;
