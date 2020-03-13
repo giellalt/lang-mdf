@@ -105,9 +105,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Abl 		!!= ;@CODE@: ablative
  +Acc 		!!= ;@CODE@: accusative Not really necessary
  +Cau 		!!= ;@CODE@: causatative
- +Com 		!!= ;@CODE@: comitative
+ +Com 		!!= ;@CODE@: comitative -нек
  +Cmpr 		!!= ;@CODE@: comparative -шка
- +Com/Sh 	!!= ;@CODE@: comitative
  +Dat 		!!= ;@CODE@: dative
  +Ela 		!!= ;@CODE@: elative
  +Gen 		!!= ;@CODE@: genitive
@@ -537,6 +536,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Der/fks
  +Der/Onj
  +Der/Ozj
+ +Der/Shka
  +Der/NomAg
  +Der/NomAct
  +Der/Dimin	!!= @CODE@ diminutive markers in ня and кя seem to be subject of complementary distribution
@@ -700,6 +700,17 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 @P.TLOSS.ON@
 @R.TLOSS.ON@
 
+! Indefinite pronouns
+@U.INDEF.BDI@
+@U.INDEF.KATI@
+@U.INDEF.KELJK@
+@U.INDEF.KOI@
+@U.INDEF.POVSJ@
+@U.INDEF.TAGA@
+@U.INDEF.TA@
+@U.INDEF.VOK@
+@R.INDEF.VOK@
+
 ! Testing
 +CmpTest
 
@@ -729,7 +740,7 @@ LEXICON Root
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
  N_NEWWORDS	;
- N-Russian-like_NEWWORDS	;
+nouns-russian-homographs_newwords	;
  PROP_NEWWORDS	;
  V_NEWWORDS     ;
   Acronym		;

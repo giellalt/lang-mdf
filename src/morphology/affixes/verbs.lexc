@@ -102,6 +102,7 @@ LEXICON V_TUMS
 !! BOTH IV and TV
 !!!!!!!!!!!!!!!!!!!!!!!!
 
+
 LEXICON BV_ALYJAFTOMS
  IV_ALYJAFTOMS ;
  TV_ALYJAFTOMS ;
@@ -117,7 +118,9 @@ LEXICON BV_MUMS
 LEXICON BV_ANDOMS
  TV_ANDOMS ;
  IV_ANDOMS ;
-
+LEXICON BV_NJAFTEMS
+ TV_NJAFTEMS ;
+ IV_NJAFTEMS ;
 LEXICON BV_PACHKODEMS
  TV_PACHKODEMS ;
  IV_PACHKODEMS ;
@@ -299,8 +302,8 @@ LEXICON Non-Finite-Vws
 +Ger:%>%{ЕОØ%}мок K ;
 
 LEXICON Non-Finite-Cns
-+PrfPrc:%^Devoice%>ф K ;
-+Der+Der/f+Pss+Prc+Der+Der/MWN+N:%^Devoice%>ф N_KAL ;
+!+PrfPrc:%^Devoice%>ф K ;
++Der/f+Pss+Prc:%^Devoice%>ф N_KAL ;
 
 !! !AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
