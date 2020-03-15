@@ -49,6 +49,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! __Nouns:__
  +Prop 		!!≈ ;@CODE@: proper
  +CollN 	!!≈ ;@CODE@: used with paired nouns __collective nouns__
+ +Relator 		!!≈ ;@CODE@: relator nouns, mainly meronyms 
 !!
 !! __Pronouns:__
  +Dem 		!!≈ ;@CODE@: demonstrative
@@ -156,7 +157,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! Quantifiers and Numerals are classified under:
  +Num 		!!= ;@CODE@: numeral
  +Appr 		!!= ;@CODE@: Approximative numeral кафта-колма, колмошка "two or three"
- +AssocColl !!= ;@CODE@: -ne- ; avide-
+ +AssocColl !!= ;@CODE@: -ne- ; avide-; -месть
  +Coll 		!!= ;@CODE@: Collective
  +Card 		!!= ;@CODE@: cardinal
  +Distr 	!!= ;@CODE@: Distributive
@@ -764,60 +765,6 @@ LEXICON VerbEnd
 +Cmp/Hyph-Serial+Use/Circ+Cmp%-:%- V_mdf2x       ;
  K ;
 
-
-! ============ !
-! Postp lexica !
-! ============ !
-
-
-! This contlex allows for relational word which, otherwise, are open
-! to extensive declension
-LEXICON PO_
-: K ;
-
-LEXICON PO_КВАЛМА
-: K ;
-! Checking 2018-11-10
-+Pron: OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
-
-LEXICON PO-INE_
-+Ine: K_вок ;
-! Checking 2018-11-10
-+Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
-
-LEXICON PO-ABL_
-+Abl: K_вок ;
-LEXICON PO-DAT-DEF_
-+Dat+Def: K_вок ;
-LEXICON PO-ELA_
-+Ela: K_вок ;
-LEXICON PO-ILL_
-+Ill: K_вок ;
-LEXICON PO-LAT_
-+Lat: K_вок ;
-LEXICON PO-LOC_
-+Loc: K_вок ;
-LEXICON PO-PRL_ !!= * @CODE@ ёнга:ёнга
-+Prl: K_вок ;
-
-LEXICON PO-PRL_ЁНГА !!= * @CODE@ ёнга:ёнга
-+Prl: K_вок ;
-! Checking 2018-11-10
-+Pron+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
-
-LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
-+Prl: K_вок ;
-! Checking 2018-11-10
-+Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
-
-
-
-!LEXICON PO-SPAT_
-!+Spat: K ;
 
 
 
