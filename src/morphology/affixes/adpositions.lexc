@@ -8,19 +8,154 @@
 !!!!!!!!!!!
 
 LEXICON ADPOSITION-TYPES
-инголе+Adp:инголе ADP-WITH-PX-OR-NOT ;
-инкса+Adp:инкс%{АО%} ADP-WITH-PX-OR-NOT ;
-перьфке+Adp:перьфк%{АЕ%} ADP-WITH-PX-OR-NOT ;
-пяле+Adp:пяле ADP-WITH-PX-OR-NOT ;
+инголе+Adp+Loc:инголе ADP-WITH-PX-OR-NOT ;
+инголи+Adp+Lat:инголи ADP-WITH-PX-OR-NOT ;
+ингольде+Adp+Abl:ингольде ADP-WITH-PX-OR-NOT ;
+ингольге+Adp+Prl:ингольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+инкса+Adp+Cau:инкс%{АО%} ADP-WITH-PX-OR-NOT ;
+квалма+v1+Adp:къвалма ADP-WITH-PX-OR-NOT ;
+квалма+v2+Adp:кувалма ADP-WITH-PX-OR-NOT ;
+квалма+v3+Adp:къвалмова ADP-WITH-PX-OR-NOT ;
 колга+Adp:колга ADP-WITH-PX-OR-NOT ;
-мархтон+Pron:мархт%{АО%} ADP-WITH-PX-OR-NOT ;
+вельде+Adp:вельде ADP-WITH-PX-OR-NOT ;
+лаца+Adp+Ine:лац%{АО%} ADP-WITH-PX-OR-NOT ;
+мархта+Adp:мархт%{АО%} ADP-WITH-PX-OR-NOT ;
+перьфке+Adp:перьфк%{АЕ%} ADP-WITH-PX-OR-NOT ;
+ваксста+Adp+Ela:ваксст%{АО%} ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
+ваксс+Adp+Ill:ваксс ENDLEX ; !Prl, Ill, Ine, Ela,
+ваксс+Adp+Ill:ваксоз ADP-WITH-PX ; !Prl, Ill, Ine, Ela,
+ваксса+Adp+Ine:ваксс%{АО%} ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
+вакска+Adp+Prl:вакска ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
+
+тейста+Adp+Ela:тейст%{АО%} ADP-WITH-PX-OR-NOT ;
+тейс+Adp+Ill:тейс ENDLEX ;
+тейс+Adp+Ill:теез ADP-WITH-PX ;
+тейса+Adp+Ine:тейс%{АО%} ADP-WITH-PX-OR-NOT ;
+тейге+Adp+Prl:тейг%{ЕА%} ADP-WITH-PX-OR-NOT ;
+пяле+Adp+Loc:пяле ADP-WITH-PX-OR-NOT ;
+пяли+Adp+Lat:пяли ADP-WITH-PX-OR-NOT ;
+пяльде+Adp+Abl:пяльде ADP-WITH-PX-OR-NOT ;
+пяльге+Adp+Prl:пяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+шире+Adp+Loc:шире ADP-WITH-PX-OR-NOT ;
+шири+Adp+Lat:шири ADP-WITH-PX-OR-NOT ;
+ширьде+Adp+Abl:ширьде ADP-WITH-PX-OR-NOT ;
+ширьге+Adp+Prl:ширьг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+томбале+Adp+Loc:томбале ADP-WITH-PX-OR-NOT ;
+томбали+Adp+Lat:томбали ADP-WITH-PX-OR-NOT ;
+томбальде+Adp+Abl:томбальде ADP-WITH-PX-OR-NOT ;
+томбальге+Adp+Prl:томбальг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+ала+Adp+Loc:ал%{АО%} ADP-WITH-PX-OR-NOT ;
+алу+Adp+Lat:алу ENDLEX ;
+алда+Adp+Abl:алд%{АО%} ADP-WITH-PX-OR-NOT ;
+алга+Adp+Prl:алга ADP-WITH-PX-OR-NOT ;
+
+кядяла+Adp+Loc:кядял%{АО%} ADP-WITH-PX-OR-NOT ;
+кядялу+Adp+Lat:кядялу ENDLEX ;
+кядялда+Adp+Abl:кядялд%{АО%} ADP-WITH-PX-OR-NOT ;
+кядялга+Adp+Prl:кядялга ADP-WITH-PX-OR-NOT ;
+
+фтала+Adp+Loc:фтал%{АО%} ADP-WITH-PX-OR-NOT ;
+фталу+Adp+Lat:фталу ENDLEX ;
+фталда+Adp+Abl:фталд%{АО%} ADP-WITH-PX-OR-NOT ;
+фталга+Adp+Prl:фталга ADP-WITH-PX-OR-NOT ;
+
+эзга+Adp+Prl:эзга ADP-WITH-PX-OR-NOT ;
+эзда+Adp+Abl:эзд%{АО%} ADP-WITH-PX-OR-NOT ;
+эса+Adp+Ine:эс%{АО%} ADP-WITH-PX-OR-NOT ;
+эста+Adp+Ela:эст%{АО%} ADP-WITH-PX-OR-NOT ;
+эс+Adp+Ill:эс ENDLEX ;
+эс+Adp+Ill:эз ADP-WITH-PX ;
+
+видева+Adp:видева ADP-WITH-PX-OR-NOT ;
+келева+Adp:келева ADP-WITH-PX-OR-NOT ;
+корява+Adp:корява ADP-WITH-PX-OR-NOT ;
+коряс+Adp:коряс ADP-WITH-PX-OR-NOT ;
+пачка+Adp:пачка ADP-WITH-PX-OR-NOT ;
+
+!кядьса
+утор+N+Relator:утор N_KAL ;
+мала+N+Relator:мала N_AVA ;
+ён+N+Relator:ён N_KAL ;
+ланга+N+Relator:ланг%{АОØ%} N_PINGE ;
+ал+N+Relator:ал N_KAL ; !Loc, Abl, Lat, Prl
+бок+N+Relator:бок N_KAL ; !Prl, Ill, Ine, Ela, Lat
+велькс+N+Relator:велькс N_OSH ;!Prl, Ill, Ine, Ela,
+велькс+N+Relator:вельхкс N_OSH ;!Prl, Ill, Ine, Ela,
+кучка+N+Relator:кучка N_AVA ;
+потма+N+Relator:потм%{АО%} N_PULA ;
+карша+N+Relator:карш%{АЕ%} N_MOKSHA ;
+вельфке+N+Relator:вельфк%{АЕ%} N_PULA ;
+
+
 
 LEXICON ADP-WITH-PX-OR-NOT
  K ;
+ ADP-WITH-PX ;
+LEXICON ADP-WITH-PX
  OBLIQUECX-PX-REQUIRES-VOWEL ;
 !%>%{ЕОØ%}н
  OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 !%>т, %>ст
+
+!PO-ABL_ PO-DAT-DEF_ PO-ELA_ PO-INE_ PO-LAT_ PO-LOC_ PO-PRL_ PO-PRL_ЁНГА PO_КВАЛМА
+! ============ !
+! Postp lexica !
+! ============ !
+
+
+! This contlex allows for relational word which, otherwise, are open
+! to extensive declension
+LEXICON PO_
+: K ;
+
+!LEXICON PO_КВАЛМА
+!: K ;
+!! Checking 2018-11-10
+!+Pron: OBLIQUECX-PX-REQUIRES-VOWEL ;
+!+Pron: OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
+
+!LEXICON PO-INE_
+!+Ine: K_вок ;
+! Checking 2018-11-10
+!+Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
+!+Pron+Ine:%>с%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL	;
+
+!LEXICON PO-ABL_
+!+Abl: K_вок ;
+!LEXICON PO-DAT-DEF_
+!+Dat+Def: K_вок ;
+!LEXICON PO-ELA_
+!+Ela: K_вок ;
+LEXICON PO-ILL_
++Ill: K_вок ;
+!LEXICON PO-LAT_
+!+Lat: K_вок ;
+!LEXICON PO-LOC_
+!+Loc: K_вок ;
+!LEXICON PO-PRL_ !!= * @CODE@ ёнга:ёнга
+!+Prl: K_вок ;
+
+!LEXICON PO-PRL_ЁНГА !!= * @CODE@ ёнга:ёнга
+!+Prl: K_вок ;
+!! Checking 2018-11-10
+!+Pron+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
+!+Pron+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
+
+LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
++Prl: K_вок ;
+! Checking 2018-11-10
++Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
++Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
+
+
+
+!LEXICON PO-SPAT_
+!+Spat: K ;
+
+
 
 ! vim: set ft=xfst-lexc:
 

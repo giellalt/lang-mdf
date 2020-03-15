@@ -795,19 +795,19 @@ LEXICON NMN-PL
  PL-CX-PXSG3 ;
 
 LEXICON NMN-SG/PL
- SP-GEN-INDEF ;
- NOTDEF-CAU ;
- SP-DAT-INDEF ;
+ NOTDEF-ABE ;
  NOTDEF-ABL ;
+ NOTDEF-CAU ;
+ NOTDEF-CMPR ;
+ SP-DAT-INDEF ;
+ SP-GEN-INDEF ;
  NOTDEF-ILL ;
  NOTDEF-INE ;
  SP-ELA-INDEF ;
- NOTDEF-ABE ;
+ SP-LAT-INDEF ;
  NOTDEF-TRA ;
- NOTDEF-CMPR ;
  NOTDEF-PRL ;
  SP-PRL_Ova ;
- SP-LAT-INDEF ;
 
 !! Possessor Indices
  PXPL1 ;
@@ -872,13 +872,13 @@ LEXICON SG-DAT-DEF
 
 LEXICON PL-DAT/GEN/NOM-DEF
 +Pl+Nom+Def:%>%{Х%}тне K ;
-+Pl+Nom+Def:%>%{Х%}тне%-месне ENDLEX ;
++Pl+Nom+Def+AssocColl:%>%{Х%}тне%-месне ENDLEX ;
 +Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
 +Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 +Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь K ;
-+Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь%-меснень ENDLEX ;
++Pl+Gen+Def+AssocColl:%>%{Х%}тне%>%{ЕОØ%}нь%-меснень ENDLEX ;
 +Pl+Dat+Def:%>%{Х%}тне%>нди K ;
-+Pl+Dat+Def:%>%{Х%}тне%>нди%-месненди ENDLEX ;
++Pl+Dat+Def+AssocColl:%>%{Х%}тне%>нди%-месненди ENDLEX ;
 
 
 LEXICON SG-DAT/GEN/NOM-PXSG1
@@ -1053,60 +1053,60 @@ LEXICON SP-ABE
 
 LEXICON SP-ABL
 +SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
-+SP+Abl+Indef:%>д%{АО%}%-мезьда ENDLEX ;
++SP+Abl+Indef+AssocColl:%>д%{АО%}%-мезьда ENDLEX ;
 
 LEXICON SP-CAU
 +SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
-+SP+Cau+Indef:%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
++SP+Cau+Indef+AssocColl:%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
 
 LEXICON SP-CMPR
 +SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-DAT-INDEF
 +SP+Dat+Indef:%>%{ЕОØ%}нди K ;
-+SP+Dat+Indef:%>%{ЕОØ%}нди%-мезенди ENDLEX ;
++SP+Dat+Indef+AssocColl:%>%{ЕОØ%}нди%-мезенди ENDLEX ;
 
 LEXICON SP-ELA-INDEF
 +SP+Ela:%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
-+SP+Ela+Indef:%>ста%-мезьста ENDLEX ;
++SP+Ela+Indef+AssocColl:%>ста%-мезьста ENDLEX ;
 
 LEXICON SP-GEN-INDEF
 +SP+Gen+Indef:%>%{ЕОØ%}нь K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
-+SP+Gen+Indef:%>%{ЕОØ%}нь%-мезень ENDLEX ;
-+SP+Com+Indef:%>нек%-мезнек ENDLEX ;
++SP+Gen+Indef+AssocColl:%>%{ЕОØ%}нь%-мезень ENDLEX ;
++SP+Com+Indef+AssocColl:%>нек%-мезнек ENDLEX ;
 
 +Der+Der/Poss+N:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ; !want to limit this 2019-07-02
 
 
 LEXICON SP-ILL-INDEF
 +SP+Ill+Indef:%>с K ;
-+SP+Ill+Indef:%>с%-мезьс ENDLEX ;
++SP+Ill+Indef+AssocColl:%>с%-мезьс ENDLEX ;
 LEXICON SP-ILL-PX
 +SP+Ill:%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
 
 LEXICON SP-INE
 +SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava ;
-+SP+Ine+Indef:%>са%-мезьса ENDLEX ;
++SP+Ine+Indef+AssocColl:%>са%-мезьса ENDLEX ;
 
 LEXICON SP-LAT-INDEF
 +SP+Lat+Indef:%>%{ВИУ%} K ;
 
 LEXICON SP-PRL_Ova
 +SP+Prl:%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
-+SP+Prl+Indef:%>%{ЕОØ%}ва%-мезьге ENDLEX ;
++SP+Prl+Indef+AssocColl:%>%{ЕОØ%}ва%-мезьге ENDLEX ;
 LEXICON SP-PRL_Ga
 +SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
-+SP+Prl+Indef:%>%{вгк%}%{АЕ%}%-мезьге ENDLEX ;
++SP+Prl+Indef+AssocColl:%>%{вгк%}%{АЕ%}%-мезьге ENDLEX ;
 
 LEXICON SP-TRA-INDEF_Oks
 +SP+Tra+Indef:%>%{ЕОØ%}кс K ;
-+SP+Tra+Indef:%>%{ЕОØ%}кс%-мезькс ENDLEX ;
++SP+Tra+Indef+AssocColl:%>%{ЕОØ%}кс%-мезькс ENDLEX ;
 LEXICON SP-TRA-INDEF_ks
 +SP+Tra+Indef:%>кс K ;
-+SP+Tra+Indef:%>кс%-мезькс ENDLEX ;
++SP+Tra+Indef+AssocColl:%>кс%-мезькс ENDLEX ;
 
 !!!
 !
@@ -1180,19 +1180,19 @@ LEXICON OBLIQUECX-PX-ava
 +PxPl3:%>%{ЕОØ%}ст K ;
 
 LEXICON DER/COP
-+Der+Clt/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
-+Der+Clt/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
-+Der+Clt/Cop+Prs+ScSg3: K ;
-+Der+Clt/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
-+Der+Clt/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
-+Der+Clt/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
++Clt/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
++Clt/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
++Clt/Cop+Prs+ScSg3: K ;
++Clt/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
++Clt/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
++Clt/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
 
-+Der+Clt/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
-+Der+Clt/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
-+Der+Clt/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
-+Der+Clt/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
-+Der+Clt/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
-+Der+Clt/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
++Clt/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
++Clt/Cop+Prt2+ScSg2:%>%{ЕОØ%}леть K ;
++Clt/Cop+Prt2+ScSg3:%>%{ЕОØ%}ль K ;
++Clt/Cop+Prt2+ScPl1:%>%{ЕОØ%}леме K ;
++Clt/Cop+Prt2+ScPl2:%>%{ЕОØ%}леде K ;
++Clt/Cop+Prt2+ScPl3:%>%{ЕОØ%}льхть K ;
 
 LEXICON VOCATIVE-J/KIAJ
  VOCATIVE-J ;

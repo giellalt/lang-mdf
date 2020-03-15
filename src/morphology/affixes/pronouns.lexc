@@ -43,7 +43,7 @@ LEXICON PRONOUN-TYPES
 !колгант+Pron:колгант PRON-X-PXPL2  "teistä" ;
 !колгаст+Pron:колгаст PRON-X-PXPL3  "heistä" ;
 !колгат+Pron:колгат PRON-X-PXSG2  "sinusta" ;
-кона+Pron:кона PRON-REL_AVA  "joka, mikä" ;
+кона+Pron+Rel:кона N_AVA  "joka, mikä" ;
 конашка+Pron:конашка PRON_  "minkä kokoinen" ;
 коса+Adv+Interr:коса ADV_  "missä" ;
 ладнек+Adv:ладнек PRON_  "koko, kokonaan, täysin" ;
@@ -391,21 +391,21 @@ LEXICON INDEFINITE-PRON
 @U.INDEF.POVSJ@ INDEFINITE-PRON-IN-POVSJ ;
 @U.INDEF.VOK@ INDEFINITE-PRON-IN-VOK ;
 
-кодама-кодама+A+Indef+Sg+Nom+Indef:кодама-кодама ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Abl+Indef:мезьда-мезьда ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Cau+Indef:мезенкса-мезенкса ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Gen+Indef:мезень-мезень ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Ela+Indef:мезьста-мезьста ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Ill+Indef:мезьс-мезьс ENDLEX ;
-мезе-мезе+Pron+Indef+SP+Ine+Indef:мезьса-мезьса ENDLEX ;
-мезе-мезе+Pron+Indef+Sg+Nom+Indef:мезе-мезе ENDLEX ;
-мезе-мезе+Pron+Indef+Sg+Nom+Indef:мезь-мезь ENDLEX ;
-мезе-мезе+Pron+Indef+Sg+Nom+PxSg3:мезец-мезец ENDLEX ;
+кодама-кодама+A+Distr+Sg+Nom+Indef:кодама-кодама ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Abl+Indef:мезьда-мезьда ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Cau+Indef:мезенкса-мезенкса ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Gen+Indef:мезень-мезень ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Ela+Indef:мезьста-мезьста ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Ill+Indef:мезьс-мезьс ENDLEX ;
+мезе-мезе+Pron+Distr+SP+Ine+Indef:мезьса-мезьса ENDLEX ;
+мезе-мезе+Pron+Distr+Sg+Nom+Indef:мезе-мезе ENDLEX ;
+мезе-мезе+Pron+Distr+Sg+Nom+Indef:мезь-мезь ENDLEX ;
+мезе-мезе+Pron+Distr+Sg+Nom+PxSg3:мезец-мезец ENDLEX ;
 
-кие-кие+Pron+Indef+SP+Dat:кинди-кинди ENDLEX ;
-кие-кие+Pron+Indef+SP+Gen:кинь-кинь ENDLEX ;
-кие-кие+Pron+Indef+Sg+Nom:кие-кие ENDLEX ;
-кие-кие+Pron+Indef+Pl+Nom:кит-кит ENDLEX ;
+кие-кие+Pron+Distr+SP+Dat:кинди-кинди ENDLEX ;
+кие-кие+Pron+Distr+SP+Gen:кинь-кинь ENDLEX ;
+кие-кие+Pron+Distr+Sg+Nom:кие-кие ENDLEX ;
+кие-кие+Pron+Distr+Pl+Nom:кит-кит ENDLEX ;
 
 кияк+Pron+Indef+Sg+Nom:кияк ENDLEX  "" ; !Erzya
 
@@ -695,10 +695,10 @@ LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськ
 !! !NON-STRESSED REFLEXIVE DATIVES
 
 
-LEXICON PRON-REL_AVA
-+Rel: NMN-SG ;
-+Rel: NMN-PL ;
-+Rel: NMN-SG/PL ;
+!LEXICON PRON-REL_AVA
+!+Rel: NMN-SG ;
+!+Rel: NMN-PL ;
+!+Rel: NMN-SG/PL ;
 
 !LEXICON PRON-ABL-PXSG1
 !+Abl+PxSg1: K_ГА ;

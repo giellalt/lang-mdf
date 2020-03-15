@@ -1184,7 +1184,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V" type="Aux">аш</l>
+     <l pos="Adv">аш</l>
      <stg>
        <st Contlex="ADV-NEG_АШ">аш</st>
      </stg> <phonet>aš</phonet>
@@ -3599,6 +3599,25 @@
 </e>
 <e exclude="fst">
    <lg>
+     <l pos="Adv" type="mwe">венели</l>
+     <stg>
+       <st>венели</st>
+     </stg> <phonet>veńəľi</phonet>
+       <l_ref>венель</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ulos</t>
+       <t>ulkosalle</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
      <l pos="Adv" type="mwe">венельса</l>
      <stg>
        <st Contlex="ADV_">венельса</st>
@@ -3720,6 +3739,24 @@
        <t pos="Adv">puolen yön aikaan</t>
      </tg>
      <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">вержиста</l>
+     <stg>
+       <st>вержиста</st>
+     </stg> <phonet>veržista</phonet>
+       <l_ref>вержи</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>keskiviikkona</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -7602,6 +7639,44 @@
      </tg>
    </mg>
 </e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">иляденьберьф</l>
+     <stg>
+       <st>иляденьберьф</st>
+     </stg> <phonet>iľäďəńbeŕf</phonet>
+       <l_ref>илядь</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>koko illan (ajan)</t>
+       <t>iltakauden</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">иляденьбяли</l>
+     <stg>
+       <st>иляденьбяли</st>
+     </stg> <phonet>iľäďəńbäľi</phonet>
+       <l_ref>илядь</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ilta-</t>
+       <t>iltainen</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">иляденьпяли</l>
@@ -7835,6 +7910,42 @@
        <t pos="Adv">eteen(päin)</t>
      </tg>
      <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">ингольге</l>
+     <stg>
+       <st>ингольге</st>
+     </stg> <phonet>iŋgəľgä</phonet>
+       <l_ref>инголь</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>editse</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">ингольде</l>
+     <stg>
+       <st>ингольде</st>
+     </stg> <phonet>iŋgəľďä</phonet>
+       <l_ref>инголь</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>edestä</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -9397,6 +9508,24 @@
      <defNative/>
    </mg>
 </e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">келеста</l>
+     <stg>
+       <st>келеста</st>
+     </stg> <phonet>keľəsta</phonet>
+       <l_ref>келе</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joukosta</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">келиста</l>
@@ -9669,6 +9798,26 @@
      <defNative/>
    </mg>
 </e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">кепотьксонди</l>
+     <stg>
+       <st>кепотьксонди</st>
+     </stg>
+     <compg drv="N:Cx»N" type="Case">
+       <comp ms="SP_Dat_Indef" ord="E1" pos="N">кепотькс</comp> </compg> <phonet>kepəťksəńďi</phonet>
+       <l_ref>кепотькс</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>esimerkiksi</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">кержипяльде</l>
@@ -9702,6 +9851,26 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="Adv">matkalla</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">кигя</l>
+     <stg>
+       <st>кигя</st>
+     </stg>
+     <compg drv="N:Cx»N" type="Case">
+       <comp ms="SP_Prl_Indef" ord="E1" pos="N">ки</comp> </compg> <phonet>kigä</phonet>
+       <l_ref>ки</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tietä pitkin</t>
      </tg>
    </mg>
 </e>
@@ -12185,6 +12354,25 @@
 </e>
 <e exclude="fst">
    <lg>
+     <l pos="Adv" type="mwe">кудонголе</l>
+     <stg>
+       <st>кудонголе</st>
+     </stg> <phonet>kudəŋgəľä</phonet>
+       <l_ref>кудонголь</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>eteisessä</t>
+       <t>kuistilla</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
      <l pos="Adv" type="mwe">кудса</l>
      <stg>
        <st Contlex="ADV_">кудса</st>
@@ -13296,6 +13484,24 @@
      <defNative>null</defNative>
    </mg>
 </e>
+<e exclude="fst">
+   <lg>
+     <l pos="Adv" type="mwe">ладом-рядом</l>
+     <stg>
+       <st Contlex="ADV_">ладом-рядом</st>
+     </stg> <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
+       <l_ref>лад</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>järjestyksessä</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">лажназь</l>
@@ -13722,7 +13928,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Adv">лангса</l>
      <stg>
@@ -13749,7 +13955,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="Adv">лангста</l>
      <stg>
@@ -13770,7 +13976,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Adv">лангу</l>
      <stg>
@@ -14830,6 +15036,24 @@
      <tg xml:lang="fin">
        <t pos="Adv">lähellä</t>
        <t pos="Adv">läheisyydessä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv" type="mwe">малацек</l>
+     <stg>
+       <st Contlex="ADV_">малацек</st>
+     </stg> <phonet>malaćək</phonet>
+       <l_ref>мала</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>lähellä toisiaan</t>
      </tg>
    </mg>
 </e>
@@ -16081,7 +16305,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="ADV_">мъзярда</st>
+       <st Contlex="ADV-TEMP_">мъзярда</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -16093,12 +16317,14 @@
        <t pos="Adv">when</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Pron">milloin</t>
-       <t pos="Pron">koska</t>
-       <t pos="Pron">mihin aikaan</t>
+       <t pos="Adv">milloin</t>
+       <t pos="Adv">koska</t>
      </tg>
-     <tg xml:lang="fra">
-       <t pos="Pron">quand</t>
+     <tg xml:lang="kpv">
+       <t pos="Adv">кор</t>
+     </tg>
+     <tg xml:lang="myv">
+       <t pos="Adv">зярдо</t>
      </tg>
      <defNative>null</defNative>
    </mg>
@@ -16122,27 +16348,18 @@
    </mg>
 </e>
 <e>
-   <map/>
    <lg>
      <l pos="Adv">мзярда-бди</l>
-     <etymology>
-     </etymology>
      <stg>
        <st Contlex="ADV_">мъзярда-бъди</st>
-     </stg> <compg> </compg>
+     </stg>
    </lg>
      <sources>
      </sources>
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="eng">
-       <t pos="Adv">sometime</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Pron">joskus</t>
-     </tg>
-     <defNative>null</defNative>
+     <defNative/>
    </mg>
 </e>
 <e>
@@ -16803,70 +17020,6 @@
        <t pos="Adv">miehuullisesti</t>
        <t pos="Adv">miehekkäästi</t>
      </tg>
-     <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">мъзярда</l>
-     <stg>
-       <st Contlex="ADV_">мъзярда</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz"><t/>
-     </tg>
-<defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">мзярда</l>
-     <stg>
-       <st Contlex="ADV_">мъзярда</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">мъзярда-бъди</l>
-     <stg>
-       <st Contlex="ADV_">мъзярда-бъди</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz"><t/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">мзярда-бди</l>
-     <stg>
-       <st Contlex="ADV_">мъзярда-бъди</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -19593,6 +19746,72 @@
        <t pos="Adv">suikaleiksi</t>
      </tg>
      <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">пара</l>
+     <stg>
+       <st Contlex="ADV_">пара</st>
+     </stg> <phonet>para</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">1. hyvä.</t>
+     </tg>
+     <defNative/>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">omaisuus</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>пара вал</x> <phonet>parə val</phonet>
+       <xt xml:lang="fin">tervehdys</xt>
+     </xg>
+     <xg>
+       <x>пара уша</x> <phonet>parə uša</phonet>
+       <xt xml:lang="fin">hyvä sää</xt>
+     </xg>
+     <xg>
+       <x>пара канды</x> <phonet>parə kandi</phonet>
+       <xt xml:lang="fin">hyödyllinen, tarpeellinen</xt>
+     </xg>
+     <xg>
+       <x>арьсемс пара</x> <phonet>aŕśəms para</phonet>
+       <xt xml:lang="fin">onnitella, toivottaa onnea</xt>
+     </xg>
+     <xg>
+       <x>лангс ваномс аф пара</x> <phonet>laŋks vanəms af para</phonet>
+       <xt xml:lang="fin">pahannäköinen</xt>
+     </xg>
+     <xg>
+       <x>аф пара вайгяльса</x> <phonet>af parə vajgäľsa</phonet>
+       <xt xml:lang="fin">kauhistuneena, pahalla äänellä</xt>
+     </xg>
+     <xg>
+       <x>парста</x> <phonet>parsta, parəsta</phonet>
+       <xt xml:lang="fin">hyvin</xt>
+     </xg>
+     <xg>
+       <x>аф парста</x> <phonet>af parsta</phonet>
+       <xt xml:lang="fin">huonosti, kelvottomasti</xt>
+     </xg>
+     <xg>
+       <x>паронь пандома</x> <phonet>parəń pandəma</phonet>
+       <xt xml:lang="fin">tehdä vastapalvelus</xt>
+     </xg>
+     <xg>
+       <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
+       <xt xml:lang="fin">tervehtiä</xt>
+     </xg>
    </mg>
 </e>
 <e exclude="fst">
@@ -33522,9 +33741,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзган</l>
+     <l pos="Adp">эзган</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG1">эзган</st>
      </stg> <phonet>ezgan</phonet>
@@ -33540,9 +33759,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзганза</l>
+     <l pos="Adp">эзганза</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG3">эзганза</st>
      </stg> <phonet>ezganzə</phonet>
@@ -33558,9 +33777,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзганк</l>
+     <l pos="Adp">эзганк</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL1">эзганк</st>
      </stg> <phonet>ezgank</phonet>
@@ -33576,9 +33795,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзгант</l>
+     <l pos="Adp">эзгант</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL2">эзгант</st>
      </stg> <phonet>ezgant</phonet>
@@ -33594,9 +33813,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзгаст</l>
+     <l pos="Adp">эзгаст</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL3">эзгаст</st>
      </stg> <phonet>ezgast</phonet>
@@ -33612,9 +33831,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзгат</l>
+     <l pos="Adp">эзгат</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG2">эзгат</st>
      </stg> <phonet>ezgat</phonet>
@@ -33666,9 +33885,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздон</l>
+     <l pos="Adp">эздон</l>
      <stg>
        <st Contlex="ADV-ABL-PXSG1">эздон</st>
      </stg> <phonet>ezdən</phonet>
@@ -33686,9 +33905,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздонза</l>
+     <l pos="Ad">эздонза</l>
      <stg>
        <st Contlex="ADV-ABL-PXSG3">эздонза</st>
      </stg> <phonet>ezdənzə</phonet>
@@ -33707,9 +33926,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздонк</l>
+     <l pos="Adp">эздонк</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL1">эздонк</st>
      </stg> <phonet>ezdənk</phonet>
@@ -33727,9 +33946,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздонт</l>
+     <l pos="Adp">эздонт</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL2">эздонт</st>
      </stg> <phonet>ezdənt</phonet>
@@ -33747,9 +33966,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздост</l>
+     <l pos="Adp">эздост</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL3">эздост</st>
      </stg> <phonet>ezdəst</phonet>
@@ -33768,9 +33987,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эздот</l>
+     <l pos="Adp">эздот</l>
      <stg>
        <st Contlex="ADV-ABL-PXSG2">эздот</st>
      </stg> <phonet>ezdət</phonet>
@@ -33834,9 +34053,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзон</l>
+     <l pos="Adp">эзон</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG1">эзон</st>
      </stg> <phonet>ezən</phonet>
@@ -33855,9 +34074,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзонза</l>
+     <l pos="Adp">эзонза</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG3">эзонза</st>
      </stg> <phonet>ezənzə</phonet>
@@ -33874,9 +34093,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзонк</l>
+     <l pos="Adp">эзонк</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL1">эзонк</st>
      </stg> <phonet>ezənk</phonet>
@@ -33895,9 +34114,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзонт</l>
+     <l pos="Adp">эзонт</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL2">эзонт</st>
      </stg> <phonet>ezənt</phonet>
@@ -33916,9 +34135,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзост</l>
+     <l pos="Adp">эзост</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL3">эзост</st>
      </stg> <phonet>ezəst</phonet>
@@ -33938,9 +34157,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эзот</l>
+     <l pos="Adp">эзот</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG2">эзот</st>
      </stg> <phonet>ezət</phonet>
@@ -34473,9 +34692,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсон</l>
+     <l pos="Adp">эсон</l>
      <stg>
        <st Contlex="ADV-INE-PXSG1">эсон</st>
      </stg> <phonet>esən</phonet>
@@ -34494,9 +34713,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсонза</l>
+     <l pos="Adp">эсонза</l>
      <stg>
        <st Contlex="ADV-INE-PXSG3">эсонза</st>
      </stg> <phonet>esənzə</phonet>
@@ -34518,9 +34737,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсонк</l>
+     <l pos="Adp">эсонк</l>
      <stg>
        <st Contlex="ADV-INE-PXPL1">эсонк</st>
      </stg> <phonet>esənk</phonet>
@@ -34539,9 +34758,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсонт</l>
+     <l pos="Adp">эсонт</l>
      <stg>
        <st Contlex="ADV-INE-PXPL2">эсонт</st>
      </stg> <phonet>esənt</phonet>
@@ -34560,9 +34779,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсост</l>
+     <l pos="Adp">эсост</l>
      <stg>
        <st Contlex="ADV-INE-PXPL3">эсост</st>
      </stg> <phonet>esəst</phonet>
@@ -34582,9 +34801,9 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv">эсот</l>
+     <l pos="Adp">эсот</l>
      <stg>
        <st Contlex="ADV-INE-PXSG2">эсот</st>
      </stg> <phonet>esət</phonet>

@@ -16,7 +16,8 @@ LEXICON NUMERAL-TYPES
 кафта+Num:омбо NUMERALS-TO-ORD ;
 кафта+Num:каф NUMERALS-TO-ITER ;
 кафта+Num:кафо NUMERALS-FOR-ASSOCCOLL ;
-кафта+Num:омбо NUMERALS-FOR-COLL ;
+кафта+Num:кафо NUMERALS-FOR-COLL ;
+кафта+Num+Der+Der/Ord+A+Ord:омбо NUMERALS-FOR-COLL ;
 
 колма+Num:колм%{АО%} NUMERALS-3-AND-UP-PULA ;
 

@@ -1420,7 +1420,7 @@ LEXICON INF_ОМ
 +Ger+Ela:%>%{ЕОØ%}м%>ста K ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
-+Der+Der/NomAct+N:%>%{ЕОØ%}ма N_AVA ;
++Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
 Prc-I ;
 Prc-nj ;
 Prc-zj ;
@@ -1440,18 +1440,18 @@ LEXICON PrcTag
 +Prc: #;
 
 LEXICON Prc-f
-+Der/f+Pss+Prc: K ;
-+Der+Der/f+Pss+Prc+Der+Der/MWN+N: N_KAL ;
+!+Der/f+PrfPrc: K ;
++Der/f+PrfPrc: N_KAL ;
 
 LEXICON PRC_fkia
-+Der/f+Der/Dimin+Prc+Der+Der/MWN+N: NMN_VAL1MIA ;
++Der/f+Der/Dimin+PrfPrc: NMN_VAL1MIA ;
 
 LEXICON Prc-fks
 +Der/fks+Pss+Prc: K ;
 
 LEXICON Prc-I
 +Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
-+Der+Der/I+Der+Der/NomAg+N:%>%{ИЫЙ%} N_ANDY ;
++Der/I+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
 +Der/Onj+VGen:%>%{ЕОØ%}нь K ;
