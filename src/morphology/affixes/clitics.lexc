@@ -6,7 +6,9 @@
 !! CLITICS
 !!!!!!!!!!!!!!
 
-
+LEXICON K/DAT-ARAM
+ NounEnd_K ;
++Clt/Aram:%-арам ENDLEX ;
 
 !LEXICON K_CHOOSE_ВОК_OR_ENDLEX
 !!+Foc/вок:%>вок  ENDLEX ;
@@ -38,6 +40,7 @@ LEXICON K
 +Foc:%>%{гк%}%{АЕ%} ENDLEX ;
 +Foc:%>нг%{АЕ%} ENDLEX ;
  ENDLEX ; 
+
 
 LEXICON ENDLEX
  # ;

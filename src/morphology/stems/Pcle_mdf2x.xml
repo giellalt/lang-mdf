@@ -1025,7 +1025,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="Pcle">тейне-арам</l>
      <stg>
@@ -1065,8 +1065,7 @@
    <lg>
      <l pos="Pcle">тк</l>
      <stg>
-       <st Contlex="PCLE_">тк</st>
-       <st Contlex="PCLE_" status="Use/SpellNoSugg">тък</st>
+       <st Contlex="PCLE_">тък</st>
      </stg>
    </lg>
      <sources>

@@ -251,6 +251,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
 !! Question and Focus particles:
  +Clt/Cop !!≈ * @CODE@ This marks all instances of enclitic copula inflection
+ +Clt/Aram !!≈ * @CODE@ Used with preceding dative тейне-арам 'in my opinion'
+ +Clt/Add !!≈ * @CODE@ 
 
  +Qst +Foc
  +Foc/вок
@@ -531,6 +533,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Der/Poss  !!≈ *  __@CODE@__  possessive noun ава » аванне
  +Der/Ord  !!≈ *  __@CODE@__  
  +Der/Iter  !!≈ *  __@CODE@__  весть, кафксть, колмоксть...
+ +Der/Wife  !!≈ *  __@CODE@__  Added to male names, surnames, patronymics
 
  +Der/I
  +Der/f
@@ -712,6 +715,47 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 @U.INDEF.VOK@
 @R.INDEF.VOK@
 
+!! !!!FLAGS USED WITH COLLECTIVE NOUNS
+!! !!number
+ @U.DECL-NX.SG@ !!≈ * @CODE@
+ @U.DECL-NX.SP@ !!≈ * @CODE@
+ @U.DECL-NX.PL@ !!≈ * @CODE@
+ @R.DECL-NX.SG@ !!≈ * @CODE@
+ @R.DECL-NX.SP@ !!≈ * @CODE@
+ @R.DECL-NX.PL@ !!≈ * @CODE@
+
+!!Cases
+ @U.CX.ABE@ !!≈ * @CODE@ 
+ @U.CX.ABL@ !!≈ * @CODE@ 
+ @U.CX.CMP@ !!≈ * @CODE@ 
+ @U.CX.COM@ !!≈ * @CODE@ 
+ @U.CX.DAT@ !!≈ * @CODE@ 
+ @U.CX.ELA@ !!≈ * @CODE@ 
+ @U.CX.GEN@ !!≈ * @CODE@ 
+ @U.CX.ILL@ !!≈ * @CODE@ 
+ @U.CX.INE@ !!≈ * @CODE@ 
+ @U.CX.LAT@ !!≈ * @CODE@ 
+ @U.CX.LOC@ !!≈ * @CODE@ 
+ @U.CX.NOM@ !!≈ * @CODE@ 
+ @U.CX.PRL@ !!≈ * @CODE@ 
+ @U.CX.TRA@ !!≈ * @CODE@ 
+ @U.CX.PRL@ !!≈ * @CODE@ 
+ @U.CX.TEMP@ !!≈ * @CODE@ 
+
+! declension type
+ @U.DECL-DX.DEF@ !!≈ * @CODE@ 
+ @U.DECL-DX.INDEF@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXSG1@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXSG2@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXSG3@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXPL1@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXPL2@ !!≈ * @CODE@ 
+ @U.DECL-DX.PXPL3@ !!≈ * @CODE@ 
+
+@P.HYPH-COMBO.ACRO@
+@D.HYPH-COMBO.ACRO@
+@C.HYPH-COMBO@
+
 ! Testing
 +CmpTest
 
@@ -760,6 +804,10 @@ nouns-russian-homographs_newwords	;
 
 !LEXICON R
 !+Use/Circ+Cmp%-:%- N_mdf2x ;
+
+LEXICON NounCompounding
+ N_mdf2x ;
+ FINAL-PRONOUNS ;
 
 LEXICON VerbEnd
 +Cmp/Hyph-Serial+Use/Circ+Cmp%-:%- V_mdf2x       ;

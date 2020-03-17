@@ -15,6 +15,17 @@ LEXICON PRONOUN-TYPES
 ! NEG-PRON ;
 ! COLL-PRON ;
 !begin
+фкя-фкя+Pron+Recip+Abe:фкя-фкафтома ENDLEX ;
+фкя-фкя+Pron+Recip+Abl:фкя-фкяда ENDLEX ;
+фкя-фкя+Pron+Recip+Abl+PxPl3:фкя-фкядост ENDLEX ;
+фкя-фкя+Pron+Recip+Dat:фкя-фкянди ENDLEX ;
+фкя-фкя+Pron+Recip+Dat+PxPl3:фкя-фкаснонды ENDLEX ;
+фкя-фкя+Pron+Recip+Gen:фкя-фкянь ENDLEX ;
+фкя-фкя+Pron+Recip+Gen+PxPl1:фкя-фкянеконь ENDLEX ;
+фкя-фкя+Pron+Recip+Gen+PxPl3:фкя-фкаснон ENDLEX ;
+фкя-фкя+Pron+Recip+Ela:фкя-фкаста ENDLEX ;
+фкя-фкя+Pron+Recip+Ill:фкя-фкас ENDLEX ;
+фкя-фкя+Pron+Recip+Nom:фкя-фкя ENDLEX ;
 ашяйкова+Pron:ашяйкова PRON_  "(ei) mitään" ;
 ашяйковок+Pron:ашяйковок PRON_  "(ei) mitään" ;
 
@@ -106,18 +117,18 @@ LEXICON PERS                        !!≈ * __@CODE@__
 тон+Pron+Pers+Pl2:тин PERS-PL2 ; 
 сон+Pron+Pers+Pl3:син PERS-PL3 ;
 
-мон+v1+Pron+Pers+Sg1+Dat+Short:тейне K ;
-мон+v2+Pron+Pers+Sg1+Dat+Short:теене K ;
-мон+v3+Pron+Pers+Sg1+Dat+Short:теень K ;
-мон+v1+Pron+Pers+Pl1+Dat+Short:тейнек K ;
-мон+v2+Pron+Pers+Pl1+Dat+Short:тееньк K ;
-тон+Pron+Pers+Sg2+Dat+Short:тейть K ;
-тон+Pron+Pers+Pl2+Dat+Short:тейнть K ;
-тон+Pron+Pers+Pl2+Dat+Short:теенть K ;
-сон+v1+Pron+Pers+Sg3+Dat+Short:тейнза K ;
-сон+v2+Pron+Pers+Sg3+Dat+Short:теенза K ;
-сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K ;
-сон+v2+Pron+Pers+Pl3+Dat+Short:теест K ;
+мон+v1+Pron+Pers+Sg1+Dat+Short:тейне K/DAT-ARAM ;
+мон+v2+Pron+Pers+Sg1+Dat+Short:теене K/DAT-ARAM ;
+мон+v3+Pron+Pers+Sg1+Dat+Short:теень K/DAT-ARAM ;
+мон+v1+Pron+Pers+Pl1+Dat+Short:тейнек K/DAT-ARAM ;
+мон+v2+Pron+Pers+Pl1+Dat+Short:тееньк K/DAT-ARAM ;
+тон+Pron+Pers+Sg2+Dat+Short:тейть K/DAT-ARAM ;
+тон+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
+тон+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
+сон+v1+Pron+Pers+Sg3+Dat+Short:тейнза K/DAT-ARAM ;
+сон+v2+Pron+Pers+Sg3+Dat+Short:теенза K/DAT-ARAM ;
+сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K/DAT-ARAM ;
+сон+v2+Pron+Pers+Pl3+Dat+Short:теест K/DAT-ARAM ;
 
 
 LEXICON PRON_
@@ -210,29 +221,29 @@ LEXICON REFL
 сонць+Pron+Refl+Sg3+Abe+Long:сонцфтомонза K ;
 сонць+Pron+Refl+Pl3+Abe+Long:синцфтомост K ;
 
-монць+Pron+Refl+Sg1+Dat+Long:монцтейне K ;
-монць+Pron+Refl+Pl1+Dat+Long:минцтеенек K ;
-монць+Pron+Refl+Pl1+Dat+Long:минцтейнек K ;
-тонць+Pron+Refl+Sg2+Dat+Long:тонцтейть K ;
-тонць+Pron+Refl+Sg2+Dat+Long:тонцтееть K ;
-тонць+Pron+Refl+Pl2+Dat+Long:тинцтейнть K ;
-тонць+Pron+Refl+Pl2+Dat+Long:тинцтеенть K ;
-сонць+Pron+Refl+Sg3+Dat+Long:сонцтейнза K ;
-сонць+Pron+Refl+Sg3+Dat+Long:сонцтеенза K ;
-сонць+Pron+Refl+Pl3+Dat+Long:синцтейст K ;
-сонць+Pron+Refl+Pl3+Dat+Long:синцтеест K ;
+монць+Pron+Refl+Sg1+Dat+Long:монцтейне K/DAT-ARAM ;
+монць+Pron+Refl+Pl1+Dat+Long:минцтеенек K/DAT-ARAM ;
+монць+Pron+Refl+Pl1+Dat+Long:минцтейнек K/DAT-ARAM ;
+тонць+Pron+Refl+Sg2+Dat+Long:тонцтейть K/DAT-ARAM ;
+тонць+Pron+Refl+Sg2+Dat+Long:тонцтееть K/DAT-ARAM ;
+тонць+Pron+Refl+Pl2+Dat+Long:тинцтейнть K/DAT-ARAM ;
+тонць+Pron+Refl+Pl2+Dat+Long:тинцтеенть K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Long:сонцтейнза K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Long:сонцтеенза K/DAT-ARAM ;
+сонць+Pron+Refl+Pl3+Dat+Long:синцтейст K/DAT-ARAM ;
+сонць+Pron+Refl+Pl3+Dat+Long:синцтеест K/DAT-ARAM ;
 
-монць+Pron+Refl+Sg1+Dat+Short:эстейне K ;
-монць+Pron+Refl+Pl1+Dat+Short:эстеенек K ;
-монць+Pron+Refl+Pl1+Dat+Short:эстейнек K ;
-тонць+Pron+Refl+Sg2+Dat+Short:эстейть K ;
-тонць+Pron+Refl+Sg2+Dat+Short:эстееть K ;
-тонць+Pron+Refl+Pl2+Dat+Short:эстейнть K ;
-тонць+Pron+Refl+Pl2+Dat+Short:эстеенть K ;
-сонць+Pron+Refl+Sg3+Dat+Short:эстеенза K ;
-сонць+Pron+Refl+Sg3+Dat+Short:эстейнза K ;
-сонць+Pron+Refl+Pl3+Dat+Short:эстейст K ;
-сонць+Pron+Refl+Pl3+Dat+Short:эстеест K ;
+монць+Pron+Refl+Sg1+Dat+Short:эстейне K/DAT-ARAM ;
+монць+Pron+Refl+Pl1+Dat+Short:эстеенек K/DAT-ARAM ;
+монць+Pron+Refl+Pl1+Dat+Short:эстейнек K/DAT-ARAM ;
+тонць+Pron+Refl+Sg2+Dat+Short:эстейть K/DAT-ARAM ;
+тонць+Pron+Refl+Sg2+Dat+Short:эстееть K/DAT-ARAM ;
+тонць+Pron+Refl+Pl2+Dat+Short:эстейнть K/DAT-ARAM ;
+тонць+Pron+Refl+Pl2+Dat+Short:эстеенть K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Short:эстеенза K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Short:эстейнза K/DAT-ARAM ;
+сонць+Pron+Refl+Pl3+Dat+Short:эстейст K/DAT-ARAM ;
+сонць+Pron+Refl+Pl3+Dat+Short:эстеест K/DAT-ARAM ;
 
 монць+Pron+Refl+Sg1+Gen+Long:монце GEN-FORM_OR_POSS ;
 монць+Pron+Refl+Pl1+Gen+Long:минце GEN-FORM_OR_POSS ;
@@ -276,7 +287,7 @@ LEXICON PRON-DEM-SG
 !! INTERROGATIVE PRONOUNS
 LEXICON INTERR
 @U.INDEF.KATI@мезе+Pron+Interr:@U.INDEF.KATI@ме PRON-INDEF_MEZE-BDI/POVSJ ;
-@U.INDEF.KATI@кодама+Det+Interr:@U.INDEF.KATI@кодам%{АОØ%} DET-INDEF_PINGE ;
+@U.INDEF.KATI@кодама+Det+Interr:@U.INDEF.KATI@кодам%{АОØ%} N_PINGE ;
 
 мезе+Pron+SP+Prl+Indef:ме PRON-INTERR_MEZE-K ;
 !мезьса% аф% мезьса+Pron:мезьса% аф% мезьса PRON_  "" ;
@@ -348,19 +359,19 @@ LEXICON PRON-INTERR_MEZE-K
 +Pl+Gen+PxSg2:стнень K ;
 +Pl+Gen+PxSg3:зензон K ;
 
-+Sg+Dat+Def:зти K ;
-+SP+Dat:%>зенди K ;
-+Sg+Dat+PxSg1:зезти K ;
-+Sg+Dat+PxSg1:зезенди K ;
-+Sg+Dat+PxSg2:зцти K ;
-+Sg+Dat+PxSg3:зенцты K ;
-+SP+Dat+PxPl1:зеньконды K ;
-+SP+Dat+PxPl2:зентенди K ;
-+SP+Dat+PxPl3:зьснонды K ;
-+Pl+Dat+Def:стненди K ;
-+Pl+Dat+PxSg1:зненди K ;
-+Pl+Dat+PxSg2:стненди K ;
-+Pl+Dat+PxSg3:зензонды K ;
++Sg+Dat+Def:зти K/DAT-ARAM ;
++SP+Dat:%>зенди K/DAT-ARAM ;
++Sg+Dat+PxSg1:зезти K/DAT-ARAM ;
++Sg+Dat+PxSg1:зезенди K/DAT-ARAM ;
++Sg+Dat+PxSg2:зцти K/DAT-ARAM ;
++Sg+Dat+PxSg3:зенцты K/DAT-ARAM ;
++SP+Dat+PxPl1:зеньконды K/DAT-ARAM ;
++SP+Dat+PxPl2:зентенди K/DAT-ARAM ;
++SP+Dat+PxPl3:зьснонды K/DAT-ARAM ;
++Pl+Dat+Def:стненди K/DAT-ARAM ;
++Pl+Dat+PxSg1:зненди K/DAT-ARAM ;
++Pl+Dat+PxSg2:стненди K/DAT-ARAM ;
++Pl+Dat+PxSg3:зензонды K/DAT-ARAM ;
 
 +SP+Abe:%>зьфтома K ;
 +SP+Abl:зьда K ;
@@ -383,15 +394,31 @@ LEXICON PRON-INTERR_MEZE-K
 
 !! INDEFINITE PRONOUNS
 LEXICON INDEFINITE-PRON
-@U.INDEF.KATI@кати-:@U.INDEF.KATI@кати- INDEFINITE-PRON-WITH-PREF ;
-@U.INDEF.KATI@кать-:@U.INDEF.KATI@кать- INDEFINITE-PRON-WITH-PREF ;
-@U.INDEF.KOI@кой-:@U.INDEF.KOI@кой- INDEFINITE-PRON-WITH-PREF ;
+@U.INDEF.KATI@кати-:@U.INDEF.KATI@кати%- INDEFINITE-PRON-WITH-PREF ;
+@U.INDEF.KATI@кать-:@U.INDEF.KATI@кать%- INDEFINITE-PRON-WITH-PREF ;
+@U.INDEF.KOI@кой-:@U.INDEF.KOI@кой%- INDEFINITE-PRON-WITH-PREF ;
 @U.INDEF.BDI@ INDEFINITE-PRON-IN-BDI ;
 @U.INDEF.KELJK@ INDEFINITE-PRON-IN-KELJK ;
 @U.INDEF.POVSJ@ INDEFINITE-PRON-IN-POVSJ ;
 @U.INDEF.VOK@ INDEFINITE-PRON-IN-VOK ;
 
 кодама-кодама+A+Distr+Sg+Nom+Indef:кодама-кодама ENDLEX ;
+кона-кона+Det+Distr+SP+Dat+Indef:конанди-конанди ENDLEX ;
+кона-кона+Det+Distr+SP+Gen+Indef:конань-конань ENDLEX ;
+кона-кона+Det+Distr+Pl+Nom+Indef:конат-конат ENDLEX ;
+кона-кона+Det+Distr+Sg+Nom+Indef:кона-кона ENDLEX ;
+кона-кона+Det+Distr+Sg+Nom+PxSg1:коназе-коназе ENDLEX ;
+кона-кона+Det+Distr+Sg+Nom+PxSg2:конаце-конаце ENDLEX ;
+кона-кона+Det+Distr+Sg+Nom+PxSg3:конац-конац ENDLEX ;
+
+кона-кона+Det+Distr+Pl+Nom+PxSg1:конане-конане ENDLEX ;
+кона-кона+Det+Distr+Pl+Nom+PxSg2:конатне-конатне ENDLEX ;
+кона-кона+Det+Distr+Pl+Nom+PxSg3:конанза-конанза ENDLEX ;
+
+кона-кона+Det+Distr+SP+Nom+PxPl1:конаньке-конаньке ENDLEX ;
+кона-кона+Det+Distr+SP+Nom+PxPl2:конанте-конанте ENDLEX ;
+кона-кона+Det+Distr+SP+Nom+PxPl3:конасна-конасна ENDLEX ;
+
 мезе-мезе+Pron+Distr+SP+Abl+Indef:мезьда-мезьда ENDLEX ;
 мезе-мезе+Pron+Distr+SP+Cau+Indef:мезенкса-мезенкса ENDLEX ;
 мезе-мезе+Pron+Distr+SP+Gen+Indef:мезень-мезень ENDLEX ;
@@ -422,6 +449,10 @@ LEXICON INDEFINITE-PRON-WITH-PREF
 кона+Pron+Indef:кона KATI-KONA_INFL ;
 мезе+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
 кодама+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
+мзярдонь+A+Indef:мъзярдонь ENDLEX ;
+мзяра+Adv+Indef:мъзяра ENDLEX ;
+мзяра+Adv+Indef+Clt/Cop+Prt2+ScSg3:мъзяроль ENDLEX ;
+кодяма+A+Indef:кодям%{АОØ%} DET-INDEF_PINGE ;
 
 
 мезяма+Pron+Indef:мезяма PRON_  "" ;
@@ -564,13 +595,16 @@ LEXICON KATI-KONA_INFL
 +Der/Shka+SP+Ine:%>шкаса INDEF-ENDS-HERE ;
 +Der/Shka+SP+Prl:%>шкава INDEF-ENDS-HERE ;
 +SP+Cmpr+Clt/Cop+Prt2+ScSg3:%>шкаль INDEF-ENDS-HERE ;
-+SP+Dat:%>нди INDEF-ENDS-HERE ;
++SP+Dat+Indef:%>нди INDEF-ENDS-HERE ;
 +Sg+Dat+PxSg3:%>нцты INDEF-ENDS-HERE ;
-+SP+Gen:%>нь INDEF-ENDS-HERE ;
++SP+Gen+Indef:%>нь INDEF-ENDS-HERE ;
 +Sg+Gen+PxSg3:%>нц INDEF-ENDS-HERE ;
-+Sg+Nom: INDEF-ENDS-HERE ;
++Sg+Nom+Indef: INDEF-ENDS-HERE ;
++Pl+Nom+Indef:%>т INDEF-ENDS-HERE ;
 +Sg+Nom+PxSg3:%>ц INDEF-ENDS-HERE ;
-
++Pl+Dat+Def:%>тненди INDEF-ENDS-HERE ;
++Pl+Gen+Def:%>тнень INDEF-ENDS-HERE ;
++Pl+Nom+Def:%>тне INDEF-ENDS-HERE ;
 
 
 !LEXICON PRON-INDEF
@@ -763,7 +797,70 @@ LEXICON INDEF-ENDS-HERE
 @U.INDEF.TA@ ENDLEX ;
 @U.INDEF.POVSJ@:@U.INDEF.POVSJ@%-повсь ENDLEX ;
 
+LEXICON FINAL-PRONOUNS
+@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@мезьда ENDLEX ;
 
+@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@мезенкса ENDLEX ;
+@U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@мезнек ENDLEX ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@мезенди ENDLEX ;
+
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@мезень ENDLEX ;
+@U.DECL-NX.SP@@U.CX.ELA@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.ELA@@U.DECL-DX.INDEF@мезьста ENDLEX ;
+@U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@мезьс ENDLEX ;
+@U.DECL-NX.SP@@U.CX.INE@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.INE@@U.DECL-DX.INDEF@мезьса ENDLEX ;
+@U.DECL-NX.SP@@U.CX.PRL@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.PRL@@U.DECL-DX.INDEF@мезьге ENDLEX ;
+@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@мезькс ENDLEX ;
+
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@месть ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@месне ENDLEX ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@меснень ENDLEX ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.DEF@месненди ENDLEX ;
+
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@мезе ENDLEX ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@мезсь ENDLEX ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.DEF@мезть ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.DEF@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.DEF@мезти ENDLEX ;
+
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@мезненди ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@мезезти ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@мезезенди ENDLEX ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@мезнень ENDLEX ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@мезезень ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@мезне ENDLEX ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@мезезе ENDLEX ;
+
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG2@месненди ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@мезценди ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@мезцти ENDLEX ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG2@меснень ENDLEX ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG2@мезцень ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@месне ENDLEX ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@мезце ENDLEX ;
+
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG3@мезензонды ENDLEX ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@мезенцты ENDLEX ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@мезензон ENDLEX ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@мезенц ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@мезенза ENDLEX ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@мезец ENDLEX ;
+
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@мезенконди ENDLEX ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL1@+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL1@мезенконь ENDLEX ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@мезенк ENDLEX ;
+
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL2@+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL2@мезентенди ENDLEX ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL2@+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL2@мезентень ENDLEX ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@мезенте ENDLEX ;
+
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@мезьснонды ENDLEX ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@мезьснон ENDLEX ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезьсна ENDLEX ;
+
+@U.CX.ELA@:@U.CX.ELA@коста ENDLEX ;
+@U.CX.ILL@:@U.CX.ILL@кува ENDLEX ;
+@U.CX.INE@:@U.CX.INE@коса ENDLEX ;
+@U.CX.PRL@:@U.CX.PRL@кува ENDLEX ;
+@U.CX.PRL@:@U.CX.PRL@куване ENDLEX ;
 
 ! vim: set ft=xfst-lexc:
 
