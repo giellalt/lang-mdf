@@ -33,6 +33,7 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/nouns-russian-homographs_newwords.lexc      \
 			 stems/propernouns_newwords.lexc             \
 			 stems/verbs_newwords.lexc                   \
+			 compounding.lexc    \
 			 affixes/adjectives.lexc    \
 			 affixes/adpositions.lexc       \
 			 affixes/adverbs.lexc       \

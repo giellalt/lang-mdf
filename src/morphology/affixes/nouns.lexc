@@ -273,14 +273,14 @@ LEXICON NMN_PULA
 !	NMN_PULA-SG	;
 !	NMN_PULA-PL	;
 !	NMN_PULA-SG/PL	;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
 :	NMN-SG	;
 :	NMN-PL	;
 :	NMN-SG/PL	;
  SP-LAT-INDEF ;
 
 !LEXICON NMN_PULA-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !: 	NMN-SG ;
 !:	NMN-SG/PL	;
 ! SP-LAT-INDEF ;
@@ -300,7 +300,7 @@ LEXICON NMN_TISHE
  SP-LAT-INDEF ;
 
 !LEXICON NMN_TISHE-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 ! 	NMN-SG ;
 !	NMN-SG/PL	;
 ! SP-LAT-INDEF ;
@@ -314,14 +314,14 @@ LEXICON NMN_SEL1ME
 !	NMN_SEL1ME-SG	;
 !	NMN_SEL1ME-PL	;
 !	NMN_SEL1ME-SG/PL	;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
 :	NMN-SG	;
 :	NMN-PL	;
 :	NMN-SG/PL	;
  SP-LAT-INDEF ;
 
 !LEXICON NMN_SEL1ME-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !: 	NMN-SG ;
 !:	NMN-SG/PL	;
 ! SP-LAT-INDEF ;
@@ -350,7 +350,7 @@ LEXICON NMN_VAL1MIA
  SP-DAT-INDEF ;
 
 !LEXICON NMN_VAL1MIA-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !:%^Я2А        NMN-SG ;
 !:%^Я2А        NMN-SG/PL       ;
 !:%^Я2А SP-LAT-INDEF ;
@@ -366,7 +366,7 @@ LEXICON NMN_MOKSHA
 : SP-LAT-INDEF ;
 
 !LEXICON NMN_MOKSHA-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !:        NMN-SG ;
 !:        NMN-SG/PL       ;
 !: SP-LAT-INDEF ;
@@ -382,7 +382,7 @@ LEXICON NMN_PAKSIA
  SP-LAT-INDEF ;
 
 !LEXICON NMN_PAKSIA-SG
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !        NMN-SG ;
 !        NMN-SG/PL       ;
 ! SP-LAT-INDEF ;
@@ -403,7 +403,7 @@ LEXICON NMN_PAKSIA-PL
 ! SP-LAT-INDEF ;
 
 !LEXICON NMN_OFTA-SG !!= @CODE@
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !:%^RmVow NMN-SG ;
 !	 NMN-SG ;
 !:%^RmVow NMN-SG/PL   ;
@@ -432,7 +432,7 @@ LEXICON NMN_KELU-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
         NMN-SG ;
 !        NMN-SG/PL       ;
         NMN_KELU-SG/PL  ;
@@ -482,7 +482,7 @@ LEXICON NMN_ANDY-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
 ! SG-NOM-INDEF ;
 !! Definite Sg
 : SG-DAT/GEN/NOM-DEF ;
@@ -540,7 +540,7 @@ LEXICON NMN_VAJ-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
 
@@ -569,7 +569,7 @@ LEXICON NMN_KAL-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
  SP-LAT-INDEF ;
@@ -620,7 +620,7 @@ LEXICON NMN_KIAL1-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF ;
@@ -649,7 +649,7 @@ LEXICON NMN_PINE-SG
 !! Definite Sg
 ! SG-DAT/GEN/NOM-DEF ;
 ! PXSG1-Sg ;
-+Sg+Nom+Indef: K ;
+SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
 :%^Ь2ZERO SP-LAT-INDEF ;
@@ -677,7 +677,7 @@ LEXICON NMN_OSH
 !!! Definite Sg
 !! SG-DAT/GEN/NOM-DEF ;
 !! PXSG1-Sg ;
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !        NMN-SG ;
 !        NMN-SG/PL       ;
 ! SP-LAT-INDEF ;
@@ -705,7 +705,7 @@ LEXICON NMN_SARAZ
 !!! Definite Sg
 !! SG-DAT/GEN/NOM-DEF ;
 !! PXSG1-Sg ;
-!+Sg+Nom+Indef: K ;
+!SG-NOM-INDEF ;
 !!!сараз: саразонь
 !        NMN-SG ;
 !        NMN-SG/PL       ;
@@ -859,84 +859,82 @@ LEXICON SG-DAT/GEN/NOM-DEF
  SG-GEN-DEF ;
  SG-DAT-DEF ;
 LEXICON SG-NOM-DEF
-+Sg+Nom+Def:%>сь K ;
-+Sg+Nom+Def+Clt/Cop:%>сь SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+Def+Clt/Cop:%>сь SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@+Sg+Nom+Def:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@%>сь NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@+Sg+Nom+Def+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@%>сь SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@+Sg+Nom+Def+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.DEF@%>сь SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
 
 LEXICON SG-GEN-DEF
-+Sg+Gen+Def:%>ть K ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.DEF@+Sg+Gen+Def:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.DEF@%>ть NounEnd_K ;
 
 LEXICON SG-DAT-DEF
-+Sg+Dat+Def:%>ти K ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.DEF@+Sg+Dat+Def:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.DEF@%>ти K/DAT-ARAM ;
 
 
 LEXICON PL-DAT/GEN/NOM-DEF
-+Pl+Nom+Def:%>%{Х%}тне K ;
-+Pl+Nom+Def+AssocColl:%>%{Х%}тне%-месне ENDLEX ;
-+Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+Def+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
-+Pl+Gen+Def:%>%{Х%}тне%>%{ЕОØ%}нь K ;
-+Pl+Gen+Def+AssocColl:%>%{Х%}тне%>%{ЕОØ%}нь%-меснень ENDLEX ;
-+Pl+Dat+Def:%>%{Х%}тне%>нди K ;
-+Pl+Dat+Def+AssocColl:%>%{Х%}тне%>нди%-месненди ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@+Pl+Nom+Def:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@%>%{Х%}тне NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@+Pl+Nom+Def+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@+Pl+Nom+Def+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.DEF@%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@+Pl+Gen+Def:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@%>%{Х%}тне%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@+Pl+Dat+Def:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.DEF@%>%{Х%}тне%>нди K/DAT-ARAM ;
 
 
 LEXICON SG-DAT/GEN/NOM-PXSG1
-+Sg+Nom+PxSg1:%>%{ЕОØ%}зе K ;
-+Sg+Nom+PxSg1+Clt/Cop:%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxSg1+Clt/Cop:%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
-+Sg+Gen+PxSg1:%>%{ЕОØ%}зе%>%{ЕОØ%}нь K ;
-+Sg+Dat+PxSg1:%>%{ЕОØ%}зе%>нди K ;
-+Sg+Dat+PxSg1:%>%{ЕОØ%}з%>ти K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@+Sg+Nom+PxSg1:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@%>%{ЕОØ%}зе NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@+Sg+Nom+PxSg1+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@+Sg+Nom+PxSg1+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG1@%>%{ЕОØ%}зе SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@+Sg+Gen+PxSg1:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@%>%{ЕОØ%}зе%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@+Sg+Dat+PxSg1:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@%>%{ЕОØ%}зе%>нди K/DAT-ARAM ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@+Sg+Dat+PxSg1:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG1@%>%{ЕОØ%}з%>ти K/DAT-ARAM ;
 
 !LEXICON PL-CX-PXSG1
 ! PL-DAT/GEN/NOM-PXSG1 ;
 
 LEXICON PL-DAT/GEN/NOM-PXSG1
-+Pl+Nom+PxSg1:%^PXSG1%>не K ;
-+Pl+Nom+PxSg1+Clt/Cop:%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxSg1+Clt/Cop:%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
-+Pl+Gen+PxSg1:%^PXSG1%>не%>%{ЕОØ%}нь K ;
-+Pl+Dat+PxSg1:%^PXSG1%>не%>нди K ;
-+Pl+Nom+PxSg1:%^PXSG1%>%{ЕОØ%}не K ;
-+Pl+Gen+PxSg1:%^PXSG1%>%{ЕОØ%}не%>нь K ;
-+Pl+Dat+PxSg1:%^PXSG1%>%{ЕОØ%}не%>нди K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@%^PXSG1%>не%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@%^PXSG1%>не%>нди K/DAT-ARAM ;
+
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>%{ЕОØ%}не NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@%^PXSG1%>%{ЕОØ%}не%>нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@%^PXSG1%>%{ЕОØ%}не%>нди K/DAT-ARAM ;
 !!€ кядь%^PXSG1%>не
 !!€ кяд00%>не
 !!€ ярмак%^PXSG1%>%{ЕОØ%}не
 !!€ ярмак0%>оне
 
 LEXICON SG-DAT/GEN/NOM-PXSG2
-+Sg+Nom+PxSg2:%>це K ;
-+Sg+Nom+PxSg2+Clt/Cop:%>це SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxSg2+Clt/Cop:%>це SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
-+Sg+Gen+PxSg2:%>це%>%{ЕОØ%}нь K ;
-+Sg+Dat+PxSg2:%>це%>нди K ; !-ге Бебан, Кирдяшкин, Ларионов, Левчаев, Алёшкин
-+Sg+Dat+PxSg2:%>цти K ; !-ге/вок Бебан, Девин, Кирдяшкин, Кишняшкин, Кудашов, Кузнецов, Ларионов, Левчаев, Макулов, Моисеев, Мокша А 1998, Носиков,  
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@+Sg+Nom+PxSg2:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@%>це NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@+Sg+Nom+PxSg2+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@%>це SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@+Sg+Nom+PxSg2+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG2@%>це SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG2@+Sg+Gen+PxSg2:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG2@%>це%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@+Sg+Dat+PxSg2:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@%>це%>нди K/DAT-ARAM ; !-ге Бебан, Кирдяшкин, Ларионов, Левчаев, Алёшкин
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@+Sg+Dat+PxSg2:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG2@%>цти K/DAT-ARAM ; !-ге/вок Бебан, Девин, Кирдяшкин, Кишняшкин, Кудашов, Кузнецов, Ларионов, Левчаев, Макулов, Моисеев, Мокша А 1998, Носиков,  
 
 LEXICON PL-CX-PXSG2
  PL-DAT/GEN/NOM-PXSG2 ;
 LEXICON PL-DAT/GEN/NOM-PXSG2
-+Pl+Nom+PxSg2:%>%{Х%}тне K ;
-+Pl+Nom+PxSg2+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxSg2+Clt/Cop:%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
-+Pl+Gen+PxSg2:%>%{Х%}тне%>%{ЕОØ%}нь K ;
-+Pl+Dat+PxSg2:%>%{Х%}тне%>нди K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@+Pl+Nom+PxSg2:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@%>%{Х%}тне NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@+Pl+Nom+PxSg2+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@+Pl+Nom+PxSg2+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG2@%>%{Х%}тне PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG2@+Pl+Gen+PxSg2:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG2@%>%{Х%}тне%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG2@+Pl+Dat+PxSg2:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG2@%>%{Х%}тне%>нди K/DAT-ARAM ;
 
 LEXICON SG-DAT/GEN/NOM-PXSG3
-+Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
-+Sg+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Sg+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
-+Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
-+Sg+Dat+PxSg3:%>%{ЕОØ%}нцты K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@+Sg+Nom+PxSg3:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}ц NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@+Sg+Nom+PxSg3+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@+Sg+Nom+PxSg3+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}ц SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@+Sg+Gen+PxSg3:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нц NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@+Sg+Dat+PxSg3:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нцты K/DAT-ARAM ;
 LEXICON PL-CX-PXSG3
  PL-DAT/GEN/NOM-PXSG3 ;
 LEXICON PL-DAT/GEN/NOM-PXSG3
-+Pl+Nom+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
-+Pl+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+Pl+Nom+PxSg3+Clt/Cop:%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
-+Pl+Gen+PxSg3:%>%{ЕОØ%}нз%{АО%}%>%{ЕОØ%}н K ;
-+Pl+Dat+PxSg3:%>%{ЕОØ%}нз%{АО%}%>нды K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@+Pl+Nom+PxSg3:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@+Pl+Nom+PxSg3+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@+Pl+Nom+PxSg3+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@+Pl+Gen+PxSg3:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%}%>%{ЕОØ%}н NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG3@+Pl+Dat+PxSg3:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%}%>нды K/DAT-ARAM ;
 
 
 LEXICON PXPL1
@@ -948,84 +946,84 @@ LEXICON PXPL3
 
 
 LEXICON SP-DAT/GEN/NOM-PXPL1
-+SP+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+SP+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-+SP+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
-!+Sg+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
-!+Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-!+Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
-!+Pl+Nom+PxPl1:%>%{ЕОØ%}ньке K ;
-+SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl1+Clt/Cop:%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
-!+Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь K ;
-!+Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+SP+Nom+PxPl1:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньке NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL1@+SP+Gen+PxPl1:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньконь NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@+SP+Dat+PxPl1:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньконди K/DAT-ARAM ;
+!+Sg+Nom+PxPl1:%>%{ЕОØ%}ньке NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+SP+Nom+PxPl1+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+SP+Nom+PxPl1+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньке SG-NMN-COP-FOR_MUTUAL-NONPST-SG2 ;
+!+Sg+Gen+PxPl1:%>%{ЕОØ%}ньконь NounEnd_K ;
+!+Sg+Dat+PxPl1:%>%{ЕОØ%}ньконди NounEnd_K ;
+!+Pl+Nom+PxPl1:%>%{ЕОØ%}ньке NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+SP+Nom+PxPl1+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@+SP+Nom+PxPl1+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL1@%>%{ЕОØ%}ньке PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
+!+Pl+Gen+PxPl1:%>%{ЕОØ%}ньконь NounEnd_K ;
+!+Pl+Dat+PxPl1:%>%{ЕОØ%}ньконди NounEnd_K ;
 
 
 LEXICON SP-DAT/GEN/NOM-PXPL2
-+SP+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+SP+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-+SP+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
-!+Sg+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
-!+Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-!+Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
-!+Pl+Nom+PxPl2:%>%{ЕОØ%}нте K ;
-+SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl2+Clt/Cop:%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
-!+Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь K ;
-!+Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+SP+Nom+PxPl2:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL2@+SP+Gen+PxPl2:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL2@+SP+Dat+PxPl2:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте%>%{ЕОØ%}нди K/DAT-ARAM ;
+!+Sg+Nom+PxPl2:%>%{ЕОØ%}нте NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+SP+Nom+PxPl2+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+SP+Nom+PxPl2+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте SG-NMN-COP-FOR_MUTUAL-NONPST-SG1 ;
+!+Sg+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь NounEnd_K ;
+!+Sg+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди NounEnd_K ;
+!+Pl+Nom+PxPl2:%>%{ЕОØ%}нте NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+SP+Nom+PxPl2+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@+SP+Nom+PxPl2+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL2@%>%{ЕОØ%}нте PL-NMN-COP-FOR_MUTUAL-NONPST-PL1 ;
+!+Pl+Gen+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нь NounEnd_K ;
+!+Pl+Dat+PxPl2:%>%{ЕОØ%}нте%>%{ЕОØ%}нди NounEnd_K ;
 
 LEXICON SP-DAT/GEN/NOM-PXPL3
-+SP+Nom+PxPl3:%>сн%{АО%} K ;
-+SP+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-+SP+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
-!+Sg+Nom+PxPl3:%>сн%{АО%} K ;
-+SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
-!+Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-!+Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
-!+Pl+Nom+PxPl3:%>сн%{АО%} K ;
-+SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-+SP+Nom+PxPl3+Clt/Cop:%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
-!+Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н K ;
-!+Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+SP+Nom+PxPl3:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@%>сн%{АО%} NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@+SP+Gen+PxPl3:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@%>сн%{АО%}%>%{ЕОØ%}н NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@+SP+Dat+PxPl3:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@%>сн%{АО%}%>%{ЕОØ%}нды K/DAT-ARAM ;
+!+Sg+Nom+PxPl3:%>сн%{АО%} NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+SP+Nom+PxPl3+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+SP+Nom+PxPl3+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@%>сн%{АО%} SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
+!+Sg+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н NounEnd_K ;
+!+Sg+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды NounEnd_K ;
+!+Pl+Nom+PxPl3:%>сн%{АО%} NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+SP+Nom+PxPl3+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+SP+Nom+PxPl3+Clt/Cop:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@%>сн%{АО%} PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
+!+Pl+Gen+PxPl3:%>сн%{АО%}%>%{ЕОØ%}н NounEnd_K ;
+!+Pl+Dat+PxPl3:%>сн%{АО%}%>%{ЕОØ%}нды NounEnd_K ;
 
 
 
 LEXICON SG-NOM-INDEF
-+Sg+Nom+Indef: K ;
-+Sg+Nom+Indef+Clt/Cop: SG-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+Sg+Nom+Indef:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@ NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+Sg+Nom+Indef+Clt/Cop:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@ SG-NMN-COP-FOR_MUTUAL-PRT2 ;
 
 LEXICON NOTDEF-ABE
-+SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.ABE@+SP+Abe:@U.DECL-NX.SP@@U.CX.ABE@%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-ABL
-+SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.ABL@+SP+Abl:@U.DECL-NX.SP@@U.CX.ABL@%>д%{АО%} Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-CAU
  SP-CAU ;
 
 LEXICON NOTDEF-CMPR
-+SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
-+SP+Cmpr:%>%{ЕО%}%>шка Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.CMP@+SP+Cmpr:@U.DECL-NX.SP@@U.CX.CMP@%>шка Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.CMP@+SP+Cmpr:@U.DECL-NX.SP@@U.CX.CMP@%>%{ЕО%}%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-ILL
  SP-ILL-INDEF ;
  SP-ILL-PX ;
 
 LEXICON NOTDEF-INE
-+SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+@U.DECL-NX.SP@@U.CX.INE@+SP+Ine:@U.DECL-NX.SP@@U.CX.INE@%>с%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 
 LEXICON NOTDEF-PRL
-+SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
-+SP+Prl:%>гя Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>гя Choose-INDEF-OBLPX-ava ;
 
 LEXICON NOTDEF-TRA
-+SP+Tra+Indef:%>%{ЕОØ%}кс K ; !! Ананьина К.И. 2000 53
-+SP+Tra+Indef:%>кс K ; !CHECKME 2017-03-22 $валокс
+@U.DECL-NX.SP@@U.CX.TRA@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@%>%{ЕОØ%}кс NounEnd_K ; !! Ананьина К.И. 2000 53
+@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@%>кс NounEnd_K ; !CHECKME 2017-03-22 $валокс
 
 !!!
 LEXICON DERPOSS-NUM-CASE ! ...нне
@@ -1047,73 +1045,73 @@ SP-TRA-INDEF_ks ;
 
 
 !!!
-
+!@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@
 LEXICON SP-ABE
-+SP+Abe:%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.ABE@+SP+Abe:@U.DECL-NX.SP@@U.CX.ABE@%>фтом%{АО%} Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-ABL
-+SP+Abl:%>д%{АО%} Choose-INDEF-OBLPX-ava ;
-+SP+Abl+Indef+AssocColl:%>д%{АО%}%-мезьда ENDLEX ;
+@U.DECL-NX.SP@@U.CX.ABL@+SP+Abl:@U.DECL-NX.SP@@U.CX.ABL@%>д%{АО%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@+SP+Abl+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@%>д%{АО%}%-мезьда ENDLEX ;
 
 LEXICON SP-CAU
-+SP+Cau+Indef:%>%{ЕОØ%}нкса K ;
-+SP+Cau+Indef+AssocColl:%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
+@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>%{ЕОØ%}нкса NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
 
 LEXICON SP-CMPR
-+SP+Cmpr:%>шка Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.CMP@+SP+Cmpr:@U.DECL-NX.SP@@U.CX.CMP@%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-DAT-INDEF
-+SP+Dat+Indef:%>%{ЕОØ%}нди K ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@+SP+Dat+Indef:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@%>%{ЕОØ%}нди K/DAT-ARAM ;
 +SP+Dat+Indef+AssocColl:%>%{ЕОØ%}нди%-мезенди ENDLEX ;
 
 LEXICON SP-ELA-INDEF
-+SP+Ela:%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+@U.DECL-NX.SP@@U.CX.ELA@+SP+Ela:@U.DECL-NX.SP@@U.CX.ELA@%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 +SP+Ela+Indef+AssocColl:%>ста%-мезьста ENDLEX ;
 
 LEXICON SP-GEN-INDEF
-+SP+Gen+Indef:%>%{ЕОØ%}нь K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>%{ЕОØ%}нь NounEnd_K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
 +SP+Gen+Indef+AssocColl:%>%{ЕОØ%}нь%-мезень ENDLEX ;
-+SP+Com+Indef+AssocColl:%>нек%-мезнек ENDLEX ;
+@U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@+SP+Com+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@%>нек NounEnd_K ;
 
 +Der+Der/Poss+N:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ; !want to limit this 2019-07-02
 
 
 LEXICON SP-ILL-INDEF
-+SP+Ill+Indef:%>с K ;
+@U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@+SP+Ill+Indef:@U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@%>с NounEnd_K ;
 +SP+Ill+Indef+AssocColl:%>с%-мезьс ENDLEX ;
 LEXICON SP-ILL-PX
-+SP+Ill:%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
+@U.DECL-NX.SP@@U.CX.ILL@+SP+Ill:@U.DECL-NX.SP@@U.CX.ILL@%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
 
 LEXICON SP-INE
-+SP+Ine:%>с%{АО%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.INE@+SP+Ine:@U.DECL-NX.SP@@U.CX.INE@%>с%{АО%} Choose-INDEF-OBLPX-ava ;
 +SP+Ine+Indef+AssocColl:%>са%-мезьса ENDLEX ;
 
 LEXICON SP-LAT-INDEF
-+SP+Lat+Indef:%>%{ВИУ%} K ;
+@U.DECL-NX.SP@@U.CX.LAT@@U.DECL-DX.INDEF@+SP+Lat+Indef:@U.DECL-NX.SP@@U.CX.LAT@@U.DECL-DX.INDEF@%>%{ВИУ%} NounEnd_K ;
 
 LEXICON SP-PRL_Ova
-+SP+Prl:%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
 +SP+Prl+Indef+AssocColl:%>%{ЕОØ%}ва%-мезьге ENDLEX ;
 LEXICON SP-PRL_Ga
-+SP+Prl:%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
+@U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
 +SP+Prl+Indef+AssocColl:%>%{вгк%}%{АЕ%}%-мезьге ENDLEX ;
 
 LEXICON SP-TRA-INDEF_Oks
-+SP+Tra+Indef:%>%{ЕОØ%}кс K ;
+@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@%>%{ЕОØ%}кс NounEnd_K ;
 +SP+Tra+Indef+AssocColl:%>%{ЕОØ%}кс%-мезькс ENDLEX ;
 LEXICON SP-TRA-INDEF_ks
-+SP+Tra+Indef:%>кс K ;
+@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@%>кс NounEnd_K ;
 +SP+Tra+Indef+AssocColl:%>кс%-мезькс ENDLEX ;
 
 !!!
 !
 LEXICON PL-NOM-INDEF
-+Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} K ;
-+Pl+Nom+Indef+Clt/Cop:%>%{Х%}т%{ЬØ%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-!+Pl+Nom+Indef:%>%{Х%}т K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@+Pl+Nom+Indef:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@%>%{Х%}т%{ЬØ%} NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@+Pl+Nom+Indef+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@%>%{Х%}т%{ЬØ%} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+!+Pl+Nom+Indef:%>%{Х%}т NounEnd_K ;
 !!€ киза%^А2О%>%{Х%}т%{ЬØ%}
 !!€ кизо0%>0т0
 
@@ -1128,7 +1126,7 @@ LEXICON PL-NMN-COP-FOR_MUTUAL-PRT2
  MUTUAL-PRT2-60 ;
 
 !LEXICON Choose-INDEF-OBLPX-kal
-!+Indef: K ;
+!+Indef: NounEnd_K ;
 ! OBLIQUECX-PX-kal ;
 
 !LEXICON OBLIQUECX-PX-kal
@@ -1140,13 +1138,13 @@ LEXICON PL-NMN-COP-FOR_MUTUAL-PRT2
 !+PxPl3:%>ст K ;
 
 LEXICON OBLIQUECX-PX-REQUIRES-VOWEL
-+PxSg1:%>%{ЕОØ%}н K ;
-+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
-+PxPl1:%>%{ЕОØ%}нк K ;
-+PxPl2:%>%{ЕОØ%}нт K ;
+@U.DECL-DX.PXSG1@+PxSg1:@U.DECL-DX.PXSG1@%>%{ЕОØ%}н NounEnd_K ;
+@U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} NounEnd_K ;
+@U.DECL-DX.PXPL1@+PxPl1:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нк NounEnd_K ;
+@U.DECL-DX.PXPL2@+PxPl2:@U.DECL-DX.PXPL2@%>%{ЕОØ%}нт NounEnd_K ;
 LEXICON OBLIQUECX-PX-REQUIRES-NO-VOWEL
-+PxSg2:%>т K ;
-+PxPl3:%>ст K ;
+@U.DECL-DX.PXSG2@+PxSg2:@U.DECL-DX.PXSG2@%>т NounEnd_K ;
+@U.DECL-DX.PXPL3@+PxPl3:@U.DECL-DX.PXPL3@%>ст NounEnd_K ;
 
 
 !LEXICON Choose-INDEF-OBLPX-osh
@@ -1154,13 +1152,13 @@ LEXICON OBLIQUECX-PX-REQUIRES-NO-VOWEL
 ! OBLIQUECX-PX-osh ;
 
 LEXICON OBLIQUECX-PX-osh
-+PxSg1:%>%{ЕОØ%}н K ;
-+PxSg2:%>т K ;
-!+PxSg2:%>%{ЕОØ%}т K ;
-+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
-+PxPl1:%>%{ЕОØ%}нк K ;
-+PxPl2:%>%{ЕОØ%}нт K ;
-+PxPl3:%>%{ЕОØ%}ст K ;
+@U.DECL-DX.PXSG1@+PxSg1:@U.DECL-DX.PXSG1@%>%{ЕОØ%}н NounEnd_K ;
+@U.DECL-DX.PXSG2@+PxSg2:@U.DECL-DX.PXSG2@%>т NounEnd_K ;
+!+PxSg2:%>%{ЕОØ%}т NounEnd_K ;
+@U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} NounEnd_K ;
+@U.DECL-DX.PXPL1@+PxPl1:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нк NounEnd_K ;
+@U.DECL-DX.PXPL2@+PxPl2:@U.DECL-DX.PXPL2@%>%{ЕОØ%}нт NounEnd_K ;
+@U.DECL-DX.PXPL3@+PxPl3:@U.DECL-DX.PXPL3@%>%{ЕОØ%}ст NounEnd_K ;
 
 
 LEXICON Choose-INDEF-OBLPX-ava_OR_DER/COP
@@ -1168,16 +1166,17 @@ LEXICON Choose-INDEF-OBLPX-ava_OR_DER/COP
  DER/COP ;
  
 LEXICON Choose-INDEF-OBLPX-ava
-+Indef: K ;
+@U.DECL-DX.INDEF@+Indef:@U.DECL-DX.INDEF@ NounEnd_K ;
  OBLIQUECX-PX-ava ;
 
 LEXICON OBLIQUECX-PX-ava
-+PxSg1:%>%{ЕОØ%}н K ;
-+PxSg2:%>т K ;
-+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
-+PxPl1:%>%{ЕОØ%}нк K ;
-+PxPl2:%>%{ЕОØ%}нт K ;
-+PxPl3:%>%{ЕОØ%}ст K ;
+OBLIQUECX-PX-osh ;
+!+PxSg1:%>%{ЕОØ%}н K ;
+!+PxSg2:%>т K ;
+!+PxSg3:%>%{ЕОØ%}нз%{АО%} K ;
+!+PxPl1:%>%{ЕОØ%}нк K ;
+!+PxPl2:%>%{ЕОØ%}нт K ;
+!+PxPl3:%>%{ЕОØ%}ст K ;
 
 LEXICON DER/COP
 +Clt/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
