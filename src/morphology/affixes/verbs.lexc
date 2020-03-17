@@ -255,8 +255,11 @@ LEXICON V0_TIJEMS
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
 
++ConNeg:е K ; 
++ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:%>%{ЕОØ%} Non-Finite-Vws ;
+:й%>%{ЕОØ%} Non-Finite-Vws ;
+!:%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
 
 LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
@@ -276,10 +279,11 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
-+ConNeg:й%{АО%} K ; 
++ConNeg:е K ; 
 +ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:%>%{ЕОØ%} Non-Finite-Vws ;
+:й%>%{ЕОØ%} Non-Finite-Vws ;
+!:%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
 
 LEXICON V0_NJAFTEMS
