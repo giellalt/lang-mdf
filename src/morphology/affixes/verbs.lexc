@@ -210,6 +210,7 @@ LEXICON V0_MUMS
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 :й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
+:	 IND-PRT1-SC3 ; !!= @CODE@ 
 :	 IND-PRT1-ALL-BUT-Sc3 ; !музе
 :	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
@@ -220,7 +221,8 @@ LEXICON V0_MUMS
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
-:й	 INF_ОМ		;
+:й	 INF_ОМ		; !муемс
+:	 INF_ОМ		; !мумс
 +ConNeg:й%{АО%} K ; 
 +ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
@@ -1421,9 +1423,14 @@ LEXICON INF_ОМ
 !+Inf+Ill:%>%{ЕОØ%}мс K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}м%>ста K ;
++Ger+Ela:%>%{ЕОØ%}м%>ста NounEnd_K ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
++Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк K ;
++Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк%{АО%} K ;
++Ger+Der/Shovor:%>%{ЕОØ%}м%>шовор K ;
++Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
++Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} OBLIQUECX-PX-ava ;
 +Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
 Prc-I ;
 Prc-nj ;
