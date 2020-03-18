@@ -543,6 +543,9 @@ LEXICON NMN_VAJ-SG
 SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
+@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>нкса NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@+SP+Dat+Indef:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@%>нди K/DAT-ARAM ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>нь NounEnd_K ;
 
 
 LEXICON NMN_VAJ-PL
@@ -1051,60 +1054,51 @@ LEXICON SP-ABE
 
 LEXICON SP-ABL
 @U.DECL-NX.SP@@U.CX.ABL@+SP+Abl:@U.DECL-NX.SP@@U.CX.ABL@%>д%{АО%} Choose-INDEF-OBLPX-ava ;
-@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@+SP+Abl+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@%>д%{АО%}%-мезьда ENDLEX ;
 
 LEXICON SP-CAU
 @U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>%{ЕОØ%}нкса NounEnd_K ;
-@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>%{ЕОØ%}нкса%-мезенкс ENDLEX ;
 
 LEXICON SP-CMPR
 @U.DECL-NX.SP@@U.CX.CMP@+SP+Cmpr:@U.DECL-NX.SP@@U.CX.CMP@%>шка Choose-INDEF-OBLPX-ava ;
 
 LEXICON SP-DAT-INDEF
 @U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@+SP+Dat+Indef:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.INDEF@%>%{ЕОØ%}нди K/DAT-ARAM ;
-+SP+Dat+Indef+AssocColl:%>%{ЕОØ%}нди%-мезенди ENDLEX ;
 
 LEXICON SP-ELA-INDEF
 @U.DECL-NX.SP@@U.CX.ELA@+SP+Ela:@U.DECL-NX.SP@@U.CX.ELA@%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
-+SP+Ela+Indef+AssocColl:%>ста%-мезьста ENDLEX ;
+@U.DECL-NX.SP@@U.CX.ELA@+SP+Ela+Der+Der/NJ+A:@U.DECL-NX.SP@@U.CX.ELA@%>стонь K  ;
+@U.DECL-NX.SP@@U.CX.ELA@+SP+Ela+Der+Der/Poss+N:@U.DECL-NX.SP@@U.CX.ELA@%>стонне DERPOSS-NUM-CASE  ;
 
 LEXICON SP-GEN-INDEF
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>%{ЕОØ%}нь NounEnd_K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
-+SP+Gen+Indef+AssocColl:%>%{ЕОØ%}нь%-мезень ENDLEX ;
 @U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@+SP+Com+Indef+AssocColl:@U.DECL-NX.SP@@U.CX.COM@@U.DECL-DX.INDEF@%>нек NounEnd_K ;
 
-+Der+Der/Poss+N:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ; !want to limit this 2019-07-02
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+Der+Der/Poss+N:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>%{ЕОØ%}нне DERPOSS-NUM-CASE ; !want to limit this 2019-07-02
 
 
 LEXICON SP-ILL-INDEF
 @U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@+SP+Ill+Indef:@U.DECL-NX.SP@@U.CX.ILL@@U.DECL-DX.INDEF@%>с NounEnd_K ;
-+SP+Ill+Indef+AssocColl:%>с%-мезьс ENDLEX ;
 LEXICON SP-ILL-PX
 @U.DECL-NX.SP@@U.CX.ILL@+SP+Ill:@U.DECL-NX.SP@@U.CX.ILL@%>%{ЕОØ%}з OBLIQUECX-PX-osh ; 
 
 LEXICON SP-INE
 @U.DECL-NX.SP@@U.CX.INE@+SP+Ine:@U.DECL-NX.SP@@U.CX.INE@%>с%{АО%} Choose-INDEF-OBLPX-ava ;
-+SP+Ine+Indef+AssocColl:%>са%-мезьса ENDLEX ;
 
 LEXICON SP-LAT-INDEF
 @U.DECL-NX.SP@@U.CX.LAT@@U.DECL-DX.INDEF@+SP+Lat+Indef:@U.DECL-NX.SP@@U.CX.LAT@@U.DECL-DX.INDEF@%>%{ВИУ%} NounEnd_K ;
 
 LEXICON SP-PRL_Ova
 @U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{ЕОØ%}ва Choose-INDEF-OBLPX-ava ;
-+SP+Prl+Indef+AssocColl:%>%{ЕОØ%}ва%-мезьге ENDLEX ;
 LEXICON SP-PRL_Ga
 @U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava ;
-+SP+Prl+Indef+AssocColl:%>%{вгк%}%{АЕ%}%-мезьге ENDLEX ;
 
 LEXICON SP-TRA-INDEF_Oks
 @U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@%>%{ЕОØ%}кс NounEnd_K ;
-+SP+Tra+Indef+AssocColl:%>%{ЕОØ%}кс%-мезькс ENDLEX ;
 LEXICON SP-TRA-INDEF_ks
 @U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@+SP+Tra+Indef:@U.DECL-NX.SP@@U.CX.TRA@@U.DECL-DX.INDEF@%>кс NounEnd_K ;
-+SP+Tra+Indef+AssocColl:%>кс%-мезькс ENDLEX ;
 
 !!!
 !

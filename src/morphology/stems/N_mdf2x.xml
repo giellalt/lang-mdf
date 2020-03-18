@@ -2403,11 +2403,11 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">акша келе</l>
      <stg>
-       <st Contlex="N_">акша келе</st>
+       <st Contlex="N_PINE">акша келе</st>
      </stg> <phonet>akša keľä</phonet>
    </lg>
      <sources>
@@ -2431,7 +2431,7 @@
    <lg>
      <l pos="N" type="mwe">акша куд</l>
      <stg>
-       <st Contlex="N_">акша куд</st>
+       <st Contlex="N_KAL">акша куд</st>
      </stg> <phonet>akša kud</phonet>
    </lg>
      <sources>
@@ -2997,7 +2997,7 @@
    <lg>
      <l pos="N" type="mwe">алга вайгяль</l>
      <stg>
-       <st Contlex="N_">алга вайгяль</st>
+       <st Contlex="N_KIAL1">алга вайгяль</st>
      </stg> <phonet>alga vajgäľ</phonet>
    </lg>
      <sources>
@@ -3669,11 +3669,11 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">аляфтома-тядяфтома идь</l>
      <stg>
-       <st Contlex="N_">аляфтома-тядяфтома идь</st>
+       <st Contlex="N_KIAL1">аляфтома-тядяфтома идь</st>
      </stg> <phonet>aľaftəmə-ďäďaftəm(ə) iď</phonet>
    </lg>
      <sources>
@@ -4740,11 +4740,11 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">апрель ков</l>
      <stg>
-       <st Contlex="N_">апрель ков</st>
+       <st Contlex="N_KAL">апрель ков</st>
      </stg> <phonet>apŕeľ kov</phonet>
    </lg>
      <sources>
@@ -14260,7 +14260,7 @@
    <lg>
      <l pos="N" type="mwe">вазонь пря</l>
      <stg>
-       <st Contlex="N_">вазонь пря</st>
+       <st Contlex="N_AVA">вазонь пря</st>
      </stg> <phonet>vazəń bŕä</phonet>
    </lg>
      <sources>
@@ -14277,7 +14277,7 @@
    <lg>
      <l pos="N" type="mwe">вазонь сиволь</l>
      <stg>
-       <st Contlex="N_">вазонь сиволь</st>
+       <st Contlex="N_KIAL1">вазонь сиволь</st>
      </stg> <phonet>vazəń źivəľ</phonet>
    </lg>
      <sources>
@@ -14493,7 +14493,7 @@
    <lg>
      <l pos="N" type="mwe">ваймама куд</l>
      <stg>
-       <st Contlex="N_">ваймама куд</st>
+       <st Contlex="N_KAL">ваймама куд</st>
      </stg> <phonet>vajmam(ə) kud</phonet>
    </lg>
      <sources>
@@ -14510,7 +14510,7 @@
    <lg>
      <l pos="N" type="mwe">ваймама ши</l>
      <stg>
-       <st Contlex="N_">ваймама ши</st>
+       <st Contlex="N_AVA">ваймама ши</st>
      </stg> <phonet>vajmam(ə) ši</phonet>
    </lg>
      <sources>
@@ -14586,7 +14586,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ваймокс-седикс</l>
+     <l pos="N" type="mwe">ваймокс-седикс</l>
      <stg>
        <st>ваймокс-седикс</st>
      </stg> <phonet>vajməks-śeďiks</phonet>
@@ -16124,7 +16124,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">варсикс</l>
+     <l pos="N" type="mwe">варсикс</l>
      <stg>
        <st>варсикс</st>
      </stg> <phonet>varśiks</phonet>
@@ -16398,11 +16398,11 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">васенцекссь</l>
      <stg>
-       <st Contlex="N_">васенцекссь</st>
+       <st Contlex="N_OSH">васенцекссь</st>
      </stg>
    </lg>
      <sources>
@@ -17559,7 +17559,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ве-вешка</l>
+     <l pos="N" type="mwe">ве-вешка</l>
      <stg>
        <st>ве-вешка</st>
      </stg> <phonet>ve-veška</phonet>
@@ -17756,7 +17756,7 @@
    <lg>
      <l pos="N" type="mwe">ведь кандома тяштть</l>
      <stg>
-       <st Contlex="N_">ведь кандома тяштть</st>
+       <st Contlex="N_PINGE">ведь кандома тяштть</st>
      </stg> <phonet>veď kandəma ťäšťť</phonet>
    </lg>
      <sources>
@@ -18133,9 +18133,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A" type="mwe">ведьфтома</l>
+     <l pos="N" type="mwe">ведьфтома</l>
      <stg>
-       <st>ведьфтом%{АО%}</st>
+       <st>ведьфтома</st>
      </stg> <phonet>veťftəma, veťfťəmä</phonet>
        <l_ref>ведь</l_ref>
    </lg>
@@ -18703,7 +18703,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">венели</l>
+     <l pos="N" type="mwe">венели</l>
      <stg>
        <st>венели</st>
      </stg> <phonet>veńəľi</phonet>
@@ -19042,7 +19042,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">вержиста</l>
+     <l pos="N" type="mwe">вержиста</l>
      <stg>
        <st>вержиста</st>
      </stg> <phonet>veržista</phonet>
@@ -19162,7 +19162,7 @@
    <lg>
      <l pos="N" type="mwe">веронь потяй</l>
      <stg>
-       <st Contlex="N_">веронь потяй</st>
+       <st Contlex="N_VAJ">веронь потяй</st>
      </stg> <phonet>verəń poťäj</phonet>
    </lg>
      <sources>
@@ -19322,7 +19322,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ветемба</l>
+     <l pos="N" type="mwe">ветемба</l>
      <stg>
        <st>ветемба</st>
      </stg> <phonet>veťəmba</phonet>
@@ -19358,7 +19358,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">веть</l>
+     <l pos="N" type="mwe">веть</l>
      <stg>
        <st>веть</st>
      </stg> <phonet>veť</phonet>
@@ -20842,7 +20842,7 @@
    <lg>
      <l pos="N" type="mwe">вирь ваны</l>
      <stg>
-       <st Contlex="N_">вирь ваны</st>
+       <st Contlex="N_ANDY">вирь ваны</st>
      </stg> <phonet>viŕ vani</phonet>
    </lg>
      <sources>
@@ -37168,7 +37168,7 @@
    <lg>
      <l pos="N">илиень байдек</l>
      <stg>
-       <st Contlex="N_">илиень байдек</st>
+       <st Contlex="N_KAL">илиень байдек</st>
      </stg> <phonet>iľijəń bajďək</phonet>
    </lg>
      <sources>
@@ -37263,7 +37263,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">иляденьберьф</l>
+     <l pos="N" type="mwe">иляденьберьф</l>
      <stg>
        <st>иляденьберьф</st>
      </stg> <phonet>iľäďəńbeŕf</phonet>
@@ -37282,7 +37282,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">иляденьбяли</l>
+     <l pos="N" type="mwe">иляденьбяли</l>
      <stg>
        <st>иляденьбяли</st>
      </stg> <phonet>iľäďəńbäľi</phonet>
@@ -37462,7 +37462,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">илять-илять</l>
+     <l pos="N" type="mwe">илять-илять</l>
      <stg>
        <st>илять-илять</st>
      </stg> <phonet>iľäť-iľäť</phonet>
@@ -37480,7 +37480,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">илятькиге</l>
+     <l pos="N" type="mwe">илятькиге</l>
      <stg>
        <st>илятькиге</st>
      </stg> <phonet>iľäťkigä</phonet>
@@ -37692,7 +37692,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">инголе</l>
+     <l pos="N" type="mwe">инголе</l>
      <stg>
        <st>инголе</st>
      </stg> <phonet>iŋgəľä</phonet>
@@ -37729,7 +37729,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">инголи</l>
+     <l pos="N" type="mwe">инголи</l>
      <stg>
        <st>инголи</st>
      </stg> <phonet>iŋgəľi</phonet>
@@ -37851,7 +37851,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ингольге</l>
+     <l pos="N" type="mwe">ингольге</l>
      <stg>
        <st>ингольге</st>
      </stg> <phonet>iŋgəľgä</phonet>
@@ -37869,7 +37869,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ингольде</l>
+     <l pos="N" type="mwe">ингольде</l>
      <stg>
        <st>ингольде</st>
      </stg> <phonet>iŋgəľďä</phonet>
@@ -42824,7 +42824,7 @@
    <lg>
      <l pos="N" type="mwe">канцёр вай</l>
      <stg>
-       <st Contlex="N_">канцёр вай</st>
+       <st Contlex="N_VAJ">канцёр вай</st>
      </stg> <phonet>kańćor vaj</phonet>
    </lg>
      <sources>
@@ -45004,7 +45004,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">каршес</l>
+     <l pos="N" type="mwe">каршес</l>
      <stg>
        <st>каршес</st>
      </stg> <phonet>karšəs</phonet>
@@ -46285,7 +46285,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафта-колма</l>
+     <l pos="N" type="mwe">кафта-колма</l>
      <stg>
        <st>кафта-колма</st>
      </stg> <phonet>kafta-kolma</phonet>
@@ -46339,7 +46339,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафтошка</l>
+     <l pos="N" type="mwe">кафтошка</l>
      <stg>
        <st>кафтошка</st>
      </stg> <phonet>kaftəška</phonet>
@@ -46357,7 +46357,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафтошка-колмошка</l>
+     <l pos="N" type="mwe">кафтошка-колмошка</l>
      <stg>
        <st>кафтошка-колмошка</st>
      </stg> <phonet>kaftəška-kolməška</phonet>
@@ -46375,7 +46375,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафтошкаксть</l>
+     <l pos="N" type="mwe">кафтошкаксть</l>
      <stg>
        <st>кафтошкаксть</st>
      </stg> <phonet>kaftəškakśť</phonet>
@@ -46393,7 +46393,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафцеконди</l>
+     <l pos="N" type="mwe">кафцеконди</l>
      <stg>
        <st>кафцеконди</st>
      </stg> <phonet>kafćəkəńďi</phonet>
@@ -46412,7 +46412,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Num" type="mwe">кафцьке</l>
+     <l pos="N" type="mwe">кафцьке</l>
      <stg>
        <st>кафцьке</st>
      </stg> <phonet>kafćkä</phonet>
@@ -47616,7 +47616,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">келеда-келес</l>
+     <l pos="N" type="mwe">келеда-келес</l>
      <stg>
        <st>келеда-келес</st>
      </stg> <phonet>keľədə-keľəs</phonet>
@@ -47695,7 +47695,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">келес</l>
+     <l pos="N" type="mwe">келес</l>
      <stg>
        <st>келес</st>
      </stg> <phonet>keľəs</phonet>
@@ -47716,7 +47716,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">келеста</l>
+     <l pos="N" type="mwe">келеста</l>
      <stg>
        <st>келеста</st>
      </stg> <phonet>keľəsta</phonet>
@@ -48211,7 +48211,7 @@
    <lg>
      <l pos="N">кена</l>
      <stg>
-       <st Contlex="N_">кена</st>
+       <st Contlex="N_AVA">кена</st>
      </stg>
    </lg>
      <sources>
@@ -48537,7 +48537,7 @@
    <lg>
      <l pos="N">кеньжа</l>
      <stg>
-       <st Contlex="N_">кеньжа</st>
+       <st Contlex="N_MOKSHA">кеньж%{АЕ%}</st>
      </stg>
    </lg>
      <sources>
@@ -48722,13 +48722,10 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кепотьксонди</l>
+     <l pos="N" type="mwe">кепотьксонди</l>
      <stg>
        <st>кепотьксонди</st>
      </stg> <phonet>kepəťksəńďi</phonet>
-     <compg drv="N:Cx»N" type="Case">
-       <comp ms="SP_Dat_Indef" ord="E1" pos="N">кепотькс</comp>
-     </compg>
        <l_ref>кепотькс</l_ref>
    </lg>
      <sources>
@@ -49664,13 +49661,10 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кигя</l>
+     <l pos="N" type="mwe">кигя</l>
      <stg>
        <st>кигя</st>
      </stg> <phonet>kigä</phonet>
-     <compg drv="N:Cx»N" type="Case">
-       <comp ms="SP_Prl_Indef" ord="E1" pos="N">ки</comp>
-     </compg>
        <l_ref>ки</l_ref>
    </lg>
      <sources>
@@ -49883,7 +49877,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кизонда</l>
+     <l pos="N" type="mwe">кизонда</l>
      <stg>
        <st>кизонда</st>
      </stg> <phonet>kizənda</phonet>
@@ -50637,7 +50631,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кичкор-мячкор</l>
+     <l pos="N" type="mwe">кичкор-мячкор</l>
      <stg>
        <st>кичкор-мячкор</st>
      </stg> <phonet>kičkər-mäčkər</phonet>
@@ -52395,7 +52389,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">козяста</l>
+     <l pos="N" type="mwe">козяста</l>
      <stg>
        <st>козяста</st>
      </stg> <phonet>koźasta</phonet>
@@ -52765,7 +52759,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A" type="mwe">колбаснай</l>
+     <l pos="N" type="mwe">колбаснай</l>
      <stg>
        <st>колбаснай</st>
      </stg> <phonet>kalbasnaj</phonet>
@@ -57397,7 +57391,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">крехне-пичатне</l>
      <stg>
@@ -59447,7 +59441,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кудонголе</l>
+     <l pos="N" type="mwe">кудонголе</l>
      <stg>
        <st>кудонголе</st>
      </stg> <phonet>kudəŋgəľä</phonet>
@@ -59579,7 +59573,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A" type="mwe">кудстонь</l>
+     <l pos="N" type="mwe">кудстонь</l>
      <stg>
        <st>кудстонь</st>
      </stg> <phonet>kuctəń</phonet>
@@ -60604,7 +60598,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">кулоста</l>
+     <l pos="N" type="mwe">кулоста</l>
      <stg>
        <st>кулоста</st>
      </stg> <phonet>kuləsta</phonet>
@@ -61084,7 +61078,7 @@
    <lg>
      <l pos="N">кундола</l>
      <stg>
-       <st Contlex="N_">кундола</st>
+       <st Contlex="N_AVA">кундола</st>
      </stg>
    </lg>
      <sources>
@@ -63061,11 +63055,11 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <lg>
      <l pos="N" type="mwe">кшниваце</l>
      <stg>
-       <st Contlex="N_">кшниваце</st>
+       <st Contlex="N_PINE">кшниваце</st>
      </stg> <phonet>kšńivaćä</phonet>
    </lg>
      <sources>
@@ -64284,7 +64278,7 @@
    <lg>
      <l pos="N">кярма</l>
      <stg>
-       <st Contlex="N_">кярма</st>
+       <st Contlex="N_AVA">кярма</st>
      </stg>
    </lg>
      <sources>
@@ -65134,10 +65128,9 @@
      <l pos="N" type="mwe">ладняс</l>
      <stg>
        <st>ладняс</st>
-     </stg> <phonet>ladńas, laďńas</phonet>
+     </stg>
      <compg drv="N:Cx»N" type="Case">
-       <comp ms="SP_Ill_Indef" ord="E1" pos="N">ладня</comp>
-     </compg>
+       <comp ms="SP_Ill_Indef" ord="E1" pos="N">ладня</comp> </compg> <phonet>ladńas, laďńas</phonet>
        <l_ref>лад</l_ref>
    </lg>
      <sources>
@@ -65152,9 +65145,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ладом-рядом</l>
+     <l pos="N" type="mwe">ладом-рядом</l>
      <stg>
-       <st Contlex="ADV_">ладом-рядом</st>
+       <st>ладом-рядом</st>
      </stg> <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
        <l_ref>лад</l_ref>
    </lg>
@@ -66218,9 +66211,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">ланга-ланцек</l>
+     <l pos="N" type="mwe">ланга-ланцек</l>
      <stg>
-       <st Contlex="ADV_">ланга-ланцек</st>
+       <st>ланга-ланцек</st>
      </stg> <phonet>laŋga-lanćək</phonet>
        <l_ref>ланга</l_ref>
    </lg>
@@ -73507,11 +73500,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
-     <l pos="Adv" type="mwe">малацек</l>
+     <l pos="N" type="mwe">малацек</l>
      <stg>
-       <st Contlex="ADV_">малацек</st>
+       <st>малацек</st>
      </stg> <phonet>malaćək</phonet>
        <l_ref>мала</l_ref>
    </lg>
@@ -76426,7 +76419,7 @@
    <lg>
      <l pos="N">менге</l>
      <stg>
-       <st Contlex="N_">менге</st>
+       <st Contlex="N_PINE">менге</st>
      </stg>
    </lg>
      <sources>
@@ -77116,7 +77109,7 @@
    <lg>
      <l pos="N">мече</l>
      <stg>
-       <st Contlex="N_">мече</st>
+       <st Contlex="N_PINE">мече</st>
      </stg>
    </lg>
      <sources>
@@ -80446,7 +80439,7 @@
    <lg>
      <l pos="N">муче</l>
      <stg>
-       <st Contlex="N_">муче</st>
+       <st Contlex="N_PINE">муче</st>
      </stg>
    </lg>
      <sources>
@@ -83707,7 +83700,7 @@
    <lg>
      <l pos="N">неже</l>
      <stg>
-       <st Contlex="N_">неже</st>
+       <st Contlex="N_PINE">неже</st>
      </stg> <phonet>ńežä</phonet>
    </lg>
      <sources>
@@ -84015,7 +84008,7 @@
    <lg>
      <l pos="N">несла</l>
      <stg>
-       <st Contlex="N_">несла</st>
+       <st Contlex="N_AVA">несла</st>
      </stg>
    </lg>
      <sources>
@@ -84272,7 +84265,7 @@
    <lg>
      <l pos="N">ниде</l>
      <stg>
-       <st Contlex="N_">ниде</st>
+       <st Contlex="N_PINE">ниде</st>
      </stg>
    </lg>
      <sources>
@@ -84308,7 +84301,7 @@
    <lg>
      <l pos="N">нижа</l>
      <stg>
-       <st Contlex="N_">нижа</st>
+       <st Contlex="N_AVA">нижа</st>
      </stg>
    </lg>
      <sources>
@@ -84326,7 +84319,7 @@
    <lg>
      <l pos="N">ниже</l>
      <stg>
-       <st Contlex="N_">ниже</st>
+       <st Contlex="N_PINE">ниже</st>
      </stg> <phonet>ńižä</phonet>
    </lg>
      <sources>
@@ -86187,7 +86180,7 @@
    <lg>
      <l pos="N">нёпа</l>
      <stg>
-       <st Contlex="N_">нёпа</st>
+       <st Contlex="N_AVA">нёпа</st>
      </stg>
    </lg>
      <sources>
@@ -88275,9 +88268,9 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A" type="mwe">октябрьскяй</l>
+     <l pos="N" type="mwe">октябрьскяй</l>
      <stg>
-       <st Contlex="A_VAJ">октябрьскяй</st>
+       <st>октябрьскяй</st>
      </stg> <phonet>akťabəŕskäj</phonet>
        <l_ref>октябрь</l_ref>
    </lg>
@@ -94016,7 +94009,7 @@
    <lg>
      <l pos="N" type="mwe">пара вал</l>
      <stg>
-       <st Contlex="N_">пара вал</st>
+       <st Contlex="N_KAL">пара вал</st>
      </stg> <phonet>parə val</phonet>
    </lg>
      <sources>
@@ -95076,7 +95069,7 @@
    <lg>
      <l pos="N">пачксюлма</l>
      <stg>
-       <st Contlex="N_">пачксюлма</st>
+       <st Contlex="N_PULA">пачк#сюлм%{АО%}</st>
      </stg> <phonet>pačkśulma</phonet>
    </lg>
      <sources>
@@ -95387,7 +95380,7 @@
    <lg>
      <l pos="N">пеелемпята</l>
      <stg>
-       <st Contlex="N_">пеелемпята</st>
+       <st Contlex="N_AVA">пеелемпята</st>
      </stg> <phonet>pejəľəmpäta</phonet>
    </lg>
      <sources>
@@ -95463,7 +95456,7 @@
    <lg>
      <l pos="N">пеельпята</l>
      <stg>
-       <st Contlex="N_">пеельпята</st>
+       <st Contlex="N_AVA">пеельпята</st>
      </stg> <phonet>pejəľpäta</phonet>
    </lg>
      <sources>
@@ -97052,7 +97045,7 @@
    <lg>
      <l pos="N">пижа</l>
      <stg>
-       <st Contlex="N_">пижа</st>
+       <st Contlex="N_MOKSHA">пижа</st>
      </stg>
    </lg>
      <sources>
@@ -97088,7 +97081,7 @@
    <lg>
      <l pos="N">пиже</l>
      <stg>
-       <st Contlex="N_">пиже</st>
+       <st Contlex="N_PINE">пиже</st>
      </stg> <phonet>pižä</phonet>
    </lg>
      <sources>
@@ -97617,7 +97610,7 @@
    <lg>
      <l pos="N">пикссюлма</l>
      <stg>
-       <st Contlex="N_">пикссюлма</st>
+       <st Contlex="N_PULA">пикс#сюлм%{АО%}</st>
      </stg> <phonet>piksśulma</phonet>
    </lg>
      <sources>
@@ -98563,7 +98556,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">пиндолдыхть</l>
      <stg>
@@ -110648,7 +110641,7 @@
    <lg>
      <l pos="N">пялеве</l>
      <stg>
-       <st Contlex="N_">пялеве</st>
+       <st Contlex="N_AVA">пялеве</st>
      </stg> <phonet>päľəve</phonet>
    </lg>
      <sources>
@@ -111412,7 +111405,7 @@
    <lg>
      <l pos="N">пяше</l>
      <stg>
-       <st Contlex="N_">пяше</st>
+       <st Contlex="N_TISHE">пяше</st>
      </stg> <phonet>päšä</phonet>
    </lg>
      <sources>
@@ -111896,7 +111889,7 @@
    <lg>
      <l pos="N" type="mwe">равжа вал</l>
      <stg>
-       <st Contlex="N_">равжа вал</st>
+       <st Contlex="N_KAL">равжа вал</st>
      </stg> <phonet>ravžə val</phonet>
    </lg>
      <sources>
@@ -114350,7 +114343,7 @@
    <lg>
      <l pos="N">рента</l>
      <stg>
-       <st Contlex="N_">рента</st>
+       <st Contlex="N_AVA">рента</st>
      </stg>
    </lg>
      <sources>
@@ -114880,7 +114873,7 @@
    <lg>
      <l pos="N">рикше</l>
      <stg>
-       <st Contlex="N_">рикше</st>
+       <st Contlex="N_TISHE">рикше</st>
      </stg>
    </lg>
      <sources>
@@ -115007,7 +115000,7 @@
    <lg>
      <l pos="N">рисьме</l>
      <stg>
-       <st Contlex="N_">рисьме</st>
+       <st Contlex="N_PINE">рисьме</st>
      </stg> <phonet>ŕiśmä</phonet>
    </lg>
      <sources>
@@ -120842,7 +120835,7 @@
    <lg>
      <l pos="N">сельмокунжа</l>
      <stg>
-       <st Contlex="N_">сельмокунжа</st>
+       <st Contlex="N_AVA">сельмокунжа</st>
      </stg> <phonet>śeľməkunǯa</phonet>
    </lg>
      <sources>
@@ -121263,7 +121256,7 @@
    <lg>
      <l pos="N">сембе</l>
      <stg>
-       <st Contlex="N_">сембе</st>
+       <st Contlex="N_SEL1ME">семб%{ЕО%}</st>
      </stg> <phonet>śembä</phonet>
    </lg>
      <sources>
@@ -121348,7 +121341,7 @@
    <lg>
      <l pos="N">семе</l>
      <stg>
-       <st Contlex="N_">семе</st>
+       <st Contlex="N_PINE">семе</st>
      </stg>
    </lg>
      <sources>
@@ -122434,7 +122427,7 @@
    <lg>
      <l pos="N">сетьме</l>
      <stg>
-       <st Contlex="N_">сетьме</st>
+       <st Contlex="N_SEL1ME">сетьм%{ЕО%}</st>
      </stg> <phonet>śeťmä</phonet>
    </lg>
      <sources>
@@ -122702,7 +122695,7 @@
    <lg>
      <l pos="N">сиве</l>
      <stg>
-       <st Contlex="N_">сиве</st>
+       <st Contlex="N_PINE">сиве</st>
      </stg> <phonet>śivä</phonet>
    </lg>
      <sources>
@@ -122802,7 +122795,7 @@
    <lg>
      <l pos="N" type="mwe">сиде вер</l>
      <stg>
-       <st Contlex="N_">сиде вер</st>
+       <st Contlex="N_KAL">сиде вер</st>
      </stg> <phonet>śiďə ver</phonet>
    </lg>
      <sources>
@@ -123298,23 +123291,6 @@
        <st>скал вай</st>
      </stg> <phonet>skal/traks vaj</phonet>
        <l_ref>вай</l_ref>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>voi</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="N" type="mwe">скал/ тракс вай</l>
-     <stg>
-       <st Contlex="N_">скал/ тракс вай</st>
-     </stg> <phonet>skal/traks vaj</phonet>
    </lg>
      <sources>
      </sources>
@@ -126284,7 +126260,7 @@
    <lg>
      <l pos="N">соцстрах</l>
      <stg>
-       <st Contlex="N_">соцстрах</st>
+       <st Contlex="N_KAL">соцстрах</st>
      </stg>
    </lg>
      <sources>
@@ -128078,7 +128054,7 @@
    <lg>
      <l pos="N">стереоскоп</l>
      <stg>
-       <st Contlex="N_">стереоскоп</st>
+       <st Contlex="N_KAL">стереоскоп</st>
      </stg>
    </lg>
      <sources>
@@ -128096,7 +128072,7 @@
    <lg>
      <l pos="N">стереотип</l>
      <stg>
-       <st Contlex="N_">стереотип</st>
+       <st Contlex="N_KAL">стереотип</st>
      </stg>
    </lg>
      <sources>
@@ -128328,7 +128304,7 @@
    <lg>
      <l pos="N">стих</l>
      <stg>
-       <st Contlex="N_">стих</st>
+       <st Contlex="N_KAL">стих</st>
      </stg>
    </lg>
      <sources>
@@ -131564,7 +131540,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">сюльхть-сяльхть</l>
      <stg>
@@ -133293,7 +133269,7 @@
    <lg>
      <l pos="N">сёксе</l>
      <stg>
-       <st Contlex="N_">сёксе</st>
+       <st Contlex="N_PINE">сёксе</st>
      </stg> <phonet>śokśä</phonet>
    </lg>
      <sources>
@@ -136814,7 +136790,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">тефтельхть</l>
      <stg>
@@ -151293,7 +151269,7 @@
    <lg>
      <l pos="N">фойе</l>
      <stg>
-       <st Contlex="N_">фойе</st>
+       <st Contlex="N_PINE">фойе</st>
      </stg>
    </lg>
      <sources>
@@ -151668,7 +151644,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">фсякайхть</l>
      <stg>
@@ -160649,7 +160625,7 @@
    <lg>
      <l pos="N" type="mwe">шары ведь</l>
      <stg>
-       <st Contlex="N_">шары ведь</st>
+       <st Contlex="N_KIAL1">шары ведь</st>
      </stg> <phonet>šari veď</phonet>
    </lg>
      <sources>
@@ -160778,7 +160754,7 @@
    <lg>
      <l pos="N">шах</l>
      <stg>
-       <st Contlex="N_">шах</st>
+       <st Contlex="N_KAL">шах</st>
      </stg>
    </lg>
      <sources>
@@ -160904,7 +160880,7 @@
    <lg>
      <l pos="N">шача</l>
      <stg>
-       <st Contlex="N_">шача</st>
+       <st Contlex="N_AVA">шача</st>
      </stg>
    </lg>
      <sources>
@@ -161206,7 +161182,7 @@
    <lg>
      <l pos="N">швата</l>
      <stg>
-       <st Contlex="N_">швата</st>
+       <st Contlex="N_AVA">швата</st>
      </stg>
    </lg>
      <sources>
@@ -162062,7 +162038,7 @@
    <lg>
      <l pos="N" type="mwe">шинжарома вай</l>
      <stg>
-       <st Contlex="N_">шинжарома вай</st>
+       <st Contlex="N_VAJ">шинжарома вай</st>
      </stg> <phonet>šinǯarəm(a) vaj</phonet>
    </lg>
      <sources>
@@ -162097,7 +162073,7 @@
    <lg>
      <l pos="N" type="mwe">шини ведь</l>
      <stg>
-       <st Contlex="N_">шини ведь</st>
+       <st Contlex="N_KIAL1">шини ведь</st>
      </stg> <phonet>šińi veď</phonet>
    </lg>
      <sources>
@@ -163037,7 +163013,7 @@
    <lg>
      <l pos="N">шкап</l>
      <stg>
-       <st Contlex="N_">шкап</st>
+       <st Contlex="N_KAL">шкап</st>
      </stg>
    </lg>
      <sources>
@@ -163928,7 +163904,7 @@
    <lg>
      <l pos="N">шолап</l>
      <stg>
-       <st Contlex="N_">шолап</st>
+       <st Contlex="N_KAL">шолап</st>
      </stg>
    </lg>
      <sources>
@@ -164737,7 +164713,7 @@
    <lg>
      <l pos="N">штрих</l>
      <stg>
-       <st Contlex="N_">штрих</st>
+       <st Contlex="N_KAL">штрих</st>
      </stg>
    </lg>
      <sources>
@@ -166481,7 +166457,7 @@
    <lg>
      <l pos="N" type="mwe">шяняфтф вай</l>
      <stg>
-       <st Contlex="N_">шяняфтф вай</st>
+       <st Contlex="N_VAJ">шяняфтф вай</st>
      </stg> <phonet>šäńaftf vaj</phonet>
    </lg>
      <sources>
@@ -167337,7 +167313,7 @@
    <lg>
      <l pos="N">щуп</l>
      <stg>
-       <st Contlex="N_">щуп</st>
+       <st Contlex="N_KAL">щуп</st>
      </stg>
    </lg>
      <sources>
@@ -170043,7 +170019,7 @@
    <lg>
      <l pos="N">этап</l>
      <stg>
-       <st Contlex="N_">этап</st>
+       <st Contlex="N_KAL">этап</st>
      </stg>
    </lg>
      <sources>
@@ -170422,7 +170398,7 @@
    <lg>
      <l pos="N">эше</l>
      <stg>
-       <st Contlex="N_">эше</st>
+       <st Contlex="N_TISHE">эше</st>
      </stg> <phonet>äšä</phonet>
    </lg>
      <sources>
@@ -171740,7 +171716,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">якайхне-потайхне</l>
      <stg>

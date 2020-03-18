@@ -12,6 +12,18 @@ LEXICON ADPOSITION-TYPES
 инголи+Adp+Lat:инголи ADP-WITH-PX-OR-NOT ;
 ингольде+Adp+Abl:ингольде ADP-WITH-PX-OR-NOT ;
 ингольге+Adp+Prl:ингольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+кудонголе+Adp+Loc:кудонголе ADP-WITH-PX-OR-NOT ;
+кудонголи+Adp+Lat:кудонголи ADP-WITH-PX-OR-NOT ;
+кудонгольде+Adp+Abl:кудонгольде ADP-WITH-PX-OR-NOT ;
+кудонгольге+Adp+Prl:кудонгольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+сельминголе+Adp+Loc:сельминголе ADP-WITH-PX-OR-NOT ;
+сельминголи+Adp+Lat:сельминголи ADP-WITH-PX-OR-NOT ;
+сельмингольде+Adp+Abl:сельмингольде ADP-WITH-PX-OR-NOT ;
+сельмингольге+Adp+Prl:сельмингольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
+
 инкса+Adp+Cau:инкс%{АО%} ADP-WITH-PX-OR-NOT ;
 квалма+v1+Adp:къвалма ADP-WITH-PX-OR-NOT ;
 квалма+v2+Adp:кувалма ADP-WITH-PX-OR-NOT ;
@@ -37,6 +49,11 @@ LEXICON ADPOSITION-TYPES
 пяльде+Adp+Abl:пяльде ADP-WITH-PX-OR-NOT ;
 пяльге+Adp+Prl:пяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
 
+перфпяле+Adp+Loc:перфпяле ADP-WITH-PX-OR-NOT ;
+перфпяли+Adp+Lat:перфпяли ADP-WITH-PX-OR-NOT ;
+перфпяльде+Adp+Abl:перфпяльде ADP-WITH-PX-OR-NOT ;
+перфпяльге+Adp+Prl:перфпяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+
 шире+Adp+Loc:шире ADP-WITH-PX-OR-NOT ;
 шири+Adp+Lat:шири ADP-WITH-PX-OR-NOT ;
 ширьде+Adp+Abl:ширьде ADP-WITH-PX-OR-NOT ;
@@ -46,11 +63,27 @@ LEXICON ADPOSITION-TYPES
 томбали+Adp+Lat:томбали ADP-WITH-PX-OR-NOT ;
 томбальде+Adp+Abl:томбальде ADP-WITH-PX-OR-NOT ;
 томбальге+Adp+Prl:томбальг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+ланга+Adp+Prl:ланга ADP-WITH-PX-OR-NOT ;
 
 ала+Adp+Loc:ал%{АО%} ADP-WITH-PX-OR-NOT ;
 алу+Adp+Lat:алу ENDLEX ;
 алда+Adp+Abl:алд%{АО%} ADP-WITH-PX-OR-NOT ;
 алга+Adp+Prl:алга ADP-WITH-PX-OR-NOT ;
+
+сельмала+Adp+Loc:сельмал%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмалу+Adp+Lat:сельмалу ENDLEX ;
+сельмалда+Adp+Abl:сельмалд%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмалга+Adp+Prl:сельмалга ADP-WITH-PX-OR-NOT ;
+
+пильгала+Adp+Loc:пильгал%{АО%} ADP-WITH-PX-OR-NOT ;
+пильгалу+Adp+Lat:пильгалу ENDLEX ;
+пильгалда+Adp+Abl:пильгалд%{АО%} ADP-WITH-PX-OR-NOT ;
+пильгалга+Adp+Prl:пильгалга ADP-WITH-PX-OR-NOT ;
+
+сельмокунала+Adp+Loc:сельмокунал%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмокуналу+Adp+Lat:сельмокуналу ENDLEX ;
+сельмокуналда+Adp+Abl:сельмокуналд%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмокуналга+Adp+Prl:сельмокуналга ADP-WITH-PX-OR-NOT ;
 
 кядяла+Adp+Loc:кядял%{АО%} ADP-WITH-PX-OR-NOT ;
 кядялу+Adp+Lat:кядялу ENDLEX ;
@@ -61,6 +94,11 @@ LEXICON ADPOSITION-TYPES
 фталу+Adp+Lat:фталу ENDLEX ;
 фталда+Adp+Abl:фталд%{АО%} ADP-WITH-PX-OR-NOT ;
 фталга+Adp+Prl:фталга ADP-WITH-PX-OR-NOT ;
+
+сельмофтала+Adp+Loc:сельмофтал%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмофталу+Adp+Lat:сельмофталу ENDLEX ;
+сельмофталда+Adp+Abl:сельмофталд%{АО%} ADP-WITH-PX-OR-NOT ;
+сельмофталга+Adp+Prl:сельмофталга ADP-WITH-PX-OR-NOT ;
 
 эзга+Adp+Prl:эзга ADP-WITH-PX-OR-NOT ;
 эзда+Adp+Abl:эзд%{АО%} ADP-WITH-PX-OR-NOT ;
