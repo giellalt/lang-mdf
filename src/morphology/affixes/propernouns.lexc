@@ -13,10 +13,13 @@ LEXICON PROP_
 +Sg+Dat+Def:%>ти K ;
 
 LEXICON PROP_KAL
-: NMN_KAL	;
+: N_KAL	;
+
+LEXICON PROP_KIAL1
+: N_KIAL1	;
 
 LEXICON PROP_OSH
-: NMN_OSH	;
+: N_OSH	;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Male given name for deriving patronyms 
@@ -92,24 +95,17 @@ LEXICON Deriv-RUS-IN_SURMAL
  Deriv-RUS-V_SURMAL ;
 
 LEXICON PROP_KAL_SURMAL
-+Sem/Sur+Sem/Mal: NMN_KAL ;
-!+Sem/Sur+Sem/Mal: kal-N-Derivation ;
-!+Sem/Sur+Sem/Mal: kal-N-Def-Declension ;
-!+Sem/Sur+Sem/Mal: kal-Indef-Declension ;
-!+Sem/Sur+Sem/Mal: kal-N-Poss-Declension-CX ;
++Sem/Mal-Sur: NMN_KAL ;
 
 LEXICON PROP_КУДО_SURFEM
-+Sem/Sur+Sem/Fem: NMN_AVA ;
++Sem/Fem-Sur: NMN_AVA ;
 
 LEXICON CYRL-CONS_SUR
  PROP_KAL_SUR ;
 
 LEXICON PROP_KAL_SUR
 +Sem/Sur: NMN_KAL ;
-!+Sem/Sur: kal-N-Derivation ;
-!+Sem/Sur: kal-N-Def-Declension ;
-!+Sem/Sur: kal-Indef-Declension ;
-!+Sem/Sur: kal-N-Poss-Declension-CX ;
+
 
 LEXICON CYRL-T_SUR
  PROP_KIT_SUR ;
@@ -162,14 +158,10 @@ LEXICON PROP_KUDO_MAL
 
 
 LEXICON PROP_OSH_PATRMAL
-+Sem/Patr+Sem/Mal: NMN_OSH ;
-!+Sem/Patr+Sem/Mal: osh-N-Derivation ;
-!+Sem/Patr+Sem/Mal: osh-N-Def-Declension ;
-!+Sem/Patr+Sem/Mal: osh-Indef-Declension ;
-!+Sem/Patr+Sem/Mal: osh-N-Poss-Declension-CX ;
++Sem/Mal-Patr: NMN_OSH ;
 
 LEXICON PROP_KUDO_PATRFEM
-+Sem/Patr+Sem/Mal: NMN_AVA ;
++Sem/Fem-Patr: NMN_AVA ;
 
 
 LEXICON PROP_KAL_FEM
@@ -245,9 +237,9 @@ LEXICON PROP
 
 LEXICON MOKSHA-MAL/ORJASJ_AVA
 +Sem/Mal: N_AVA ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
++Der/Wife+Sem/Fem:%>%{ЕОØ%}РЯ PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_KAL
-+Sem/Mal: N_KAL ;
++SEM/MAL: N_KAL ;
 +Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_KELU
 +Sem/Mal: N_KELU ;

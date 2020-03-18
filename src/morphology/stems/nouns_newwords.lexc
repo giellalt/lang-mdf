@@ -4,7 +4,7 @@
 
 
 LEXICON N_NEWWORDS
-test:test N_KAL "(eng) /(fin) /(rus) " ;
+!test+N:test N_KAL "(eng) /(fin) /(rus) " ;
 !! ADD NOUNS BELOW
 мокшэрзя+N:мокшэрзя N_AVA-PL "(eng) /(fin) /(rus) " ;
 эрексия+N:эрексия N_AVA "(eng) /(fin) /(rus) " ;
@@ -841,7 +841,7 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 сандалет+N:сандалет N_KAL ;
 самосвал+N:самосвал N_KAL ;
 самогон+N:самогон N_KAL ;
-становой+N:становой N_VAJ ; N_KAL ;
+становой+N:становой N_VAJ ;
 урядник+N:урядник N_KAL ;
 бригадир+N:бригадир N_KAL ;
 прокурор+N:прокурор N_KAL ;
@@ -937,3 +937,4 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 инструктор+N:инструктор N_KAL ;
 телевизор+N:телевизор N_KAL ;
 спектакль+N:спектакль N_KIAL1 ;
+

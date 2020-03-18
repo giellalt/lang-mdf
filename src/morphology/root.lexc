@@ -317,6 +317,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Sem/Feat-psych  !!≈ * __@CODE@__ Psychological feauture
  +Sem/Feat-measr  !!≈ * __@CODE@__ Psychological feauture
  +Sem/Fem         !!≈ * __@CODE@__ Female name
+ +Sem/Fem-Patr         !!≈ * __@CODE@__ Female name
+ +Sem/Fem-Sur         !!≈ * __@CODE@__ Female name
  +Sem/Food        !!≈ * __@CODE@__ Food
  +Sem/Food-med    !!≈ * __@CODE@__ Medicine
  +Sem/Furn        !!≈ * __@CODE@__ Furniture
@@ -328,6 +330,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Sem/Ideol       !!≈ * __@CODE@__ Ideology
  +Sem/Lang        !!≈ * __@CODE@__ Language
  +Sem/Mal         !!≈ * __@CODE@__ Male name
+ +Sem/Mal-Patr         !!≈ * __@CODE@__ Male name
+ +Sem/Mal-Sur         !!≈ * __@CODE@__ Male name
  +Sem/Mat         !!≈ * __@CODE@__ Material for producing things
  +Sem/Measr       !!≈ * __@CODE@__ Measure
  +Sem/Money       !!≈ * __@CODE@__ Has to do with money, like wages, not Curr(ency)
@@ -785,7 +789,7 @@ LEXICON Root
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
  N_NEWWORDS	;
-nouns-russian-homographs_newwords	;
+ nouns-russian-homographs_newwords	;
  PROP_NEWWORDS	;
  V_NEWWORDS     ;
   Acronym		;

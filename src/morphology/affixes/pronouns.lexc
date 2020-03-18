@@ -856,11 +856,11 @@ LEXICON FINAL-PRONOUNS
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@мезьснон ENDLEX ;
 @U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезьсна ENDLEX ;
 
-@U.CX.ELA@:@U.CX.ELA@коста ENDLEX ;
-@U.CX.ILL@:@U.CX.ILL@кува ENDLEX ;
-@U.CX.INE@:@U.CX.INE@коса ENDLEX ;
-@U.CX.PRL@:@U.CX.PRL@кува ENDLEX ;
-@U.CX.PRL@:@U.CX.PRL@куване ENDLEX ;
+@U.CX.ELA@+AssocColl:@U.CX.ELA@коста ENDLEX ;
+@U.CX.ILL@+AssocColl:@U.CX.ILL@кува ENDLEX ;
+@U.CX.INE@+AssocColl:@U.CX.INE@коса ENDLEX ;
+@U.CX.PRL@+AssocColl:@U.CX.PRL@кува ENDLEX ;
+@U.CX.PRL@+AssocColl:@U.CX.PRL@куване ENDLEX ;
 
 ! vim: set ft=xfst-lexc:
 
