@@ -62,6 +62,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Pers 		!!≈ ;@CODE@: personal
  +Recipr 	!!≈ ;@CODE@: reciprocal
  +Refl 		!!≈ ;@CODE@: reflexive
+ +Recip 	!!≈ ;@CODE@: reflexive
  +Rel 		!!≈ ;@CODE@: relative
 !!
 !! personal pronouns use additional tags:
@@ -131,6 +132,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 +Hom1
 +Hom2
 +Hom3
++Hom4
++Hom5
++Hom6
 +Orth/Colloq
 +Sem/Patr
 +mwe
@@ -253,10 +257,11 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Clt/Cop !!≈ * @CODE@ This marks all instances of enclitic copula inflection
  +Clt/Aram !!≈ * @CODE@ Used with preceding dative тейне-арам 'in my opinion'
  +Clt/Add !!≈ * @CODE@ 
+ +Clt/AddGA !!≈ * @CODE@ 
+ +Clt/AddVok !!≈ * @CODE@ 
+ +Clt/AddNgA !!≈ * @CODE@ 
 
  +Qst +Foc
- +Foc/вок
- +Foc/Ге
 
 !!! !Tags usually not visible outside the code:
 
@@ -731,6 +736,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !!Cases
  @U.CX.ABE@ !!≈ * @CODE@ 
  @U.CX.ABL@ !!≈ * @CODE@ 
+ @U.CX.CAU@ !!≈ * @CODE@ 
  @U.CX.CMP@ !!≈ * @CODE@ 
  @U.CX.COM@ !!≈ * @CODE@ 
  @U.CX.DAT@ !!≈ * @CODE@ 
