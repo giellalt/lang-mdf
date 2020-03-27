@@ -57,10 +57,10 @@ LEXICON EXCEPTIONS
 аньцек-аньцек+Adv:аньцек-аньцек ADV_ ;
 
 тифтень-кафтонь+Num:тифтень-кафтонь NUM_ ;
-кафта-колма+Num+Appr:кафта-колма NUM_ ;
-колма-ниле+Num+Appr:колма-ниле NUM_ ;
-ниле-вете+Num+Appr:ниле-вете NUM_ ;
-вете-кота+Num+Appr:вете-кота NUM_ ;
+кафта-колма+Num+Appr+Sg+Nom+Indef:кафта-колма ENDLEX ;
+колма-ниле+Num+Appr+Sg+Nom+Indef:колма-ниле ENDLEX ;
+ниле-вете+Num+Appr+Sg+Nom+Indef:ниле-вете ENDLEX ;
+вете-кота+Num+Appr+Sg+Nom+Indef:вете-кота ENDLEX ;
 
 !! MISSING CS
 кда+CS:къда CS_ ;

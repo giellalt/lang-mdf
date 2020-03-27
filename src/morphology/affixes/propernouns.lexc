@@ -237,21 +237,21 @@ LEXICON PROP
 
 LEXICON MOKSHA-MAL/ORJASJ_AVA
 +Sem/Mal: N_AVA ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}РЯ PROP_ORJASJ ;
+:%>%{ЕОØ%}РЯ PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_KAL
 +SEM/MAL: N_KAL ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
+:%>%{ЕОØ%}ря PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_KELU
 +Sem/Mal: N_KELU ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
-+Der/Wife+Sem/Fem:в%>%{ЕОØ%}ря PROP_ORJASJ ;
+:%>%{ЕОØ%}ря PROP_ORJASJ ;
+:в%>%{ЕОØ%}ря PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_OSH
 +Sem/Mal: N_OSH ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
+:%>%{ЕОØ%}ря PROP_ORJASJ ;
 LEXICON MOKSHA-MAL/ORJASJ_VAJ
 +Sem/Mal: N_VAJ ;
-+Der/Wife+Sem/Fem:%>%{ЕОØ%}ря PROP_ORJASJ ;
-+Der/Wife+Sem/Fem:%>ря PROP_ORJASJ ;
+:%>%{ЕОØ%}ря PROP_ORJASJ ;
+:%>ря PROP_ORJASJ ;
 LEXICON PROP_ORJASJ
 +Der/Wife+Sem/Fem+Sg+Dat+Def:%>ти K ;
 +Der/Wife+Sem/Fem+Sg+Gen+Def:%>ть K ;

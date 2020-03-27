@@ -297,6 +297,7 @@ LIST Der/I = Der/I ;
 LIST Der/MWN = Der/MWN ;
 LIST Der/Dem = Der/Dem ;
 LIST Der/Cop = Der/Cop ;
+LIST Der/Onj = Der/Onj ;
 
 LIST <vdic> = <vdic> ;
 
@@ -340,8 +341,17 @@ SUBSTITUTE (Hom1) (*) TARGET (*) ;
 SUBSTITUTE (Hom2) (*) TARGET (*) ;
 SUBSTITUTE (Hom3) (*) TARGET (*) ;
 SUBSTITUTE (Hom4) (*) TARGET (*) ;
+#
+SUBSTITUTE (Sem/Mal) (*) TARGET (*) ;
+SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
 
 REMOVE Der/MWN ; # If any other reading is possible.
+
+# кой-кона валхнень азондозень
+REMOVE Der/Onj IF (NOT 1 N) ;
+
+# Кизонь каникулатнень пингста...
+REMOVE Attr IF (0 A + Gen + Attr) (0 N + SP + Gen + Indef) ;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 SELECT $$Case IF (1 CC LINK 1C $$Case) ;

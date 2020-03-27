@@ -11,34 +11,34 @@ LEXICON K/DAT-ARAM
 +Clt/Aram:%-арам ENDLEX ;
 
 !LEXICON K_CHOOSE_ВОК_OR_ENDLEX
-!!+Foc/вок:%>вок  ENDLEX ;
+!!+Clt/AddVok:%>вок  ENDLEX ;
 ! K ;
 
 LEXICON K_вок
 !! This is for vowel final Nominatives
-!+Foc/вок:%>вок  ENDLEX ; 
-!+Foc/Ге:%>%{гк%}%{АЕ%} ENDLEX ;
+!+Clt/AddVok:%>вок  ENDLEX ; 
+!+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
  K ;
 LEXICON K_овок
 !! This is for PxPl1 and PxPl2 
-!+Foc/вок:%>овок  ENDLEX ; 
+!+Clt/AddVok:%>овок  ENDLEX ; 
  K ;
 
 LEXICON K_ГА
 !! This is for Consonant-final words
-!+Foc/Ге:%>г%{АЕ%} ENDLEX ;
+!+Clt/AddGA:%>г%{АЕ%} ENDLEX ;
  K ;
 
 LEXICON K_НГА
 !! This is for Consonant-final words
-!+Foc/Ге:%>нг%{АЕ%} # ;
-!+Foc:%>нг%{АЕ%} ENDLEX ;
+!+Clt/AddGA:%>нг%{АЕ%} # ;
+!+Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
  K ;
 
 LEXICON K
-+Foc:%>%{ЕОØ%}вок  ENDLEX ; 
-+Foc:%>%{гк%}%{АЕ%} ENDLEX ;
-+Foc:%>нг%{АЕ%} ENDLEX ;
++Clt/AddVok:%>%{ЕОØ%}вок  ENDLEX ; 
++Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
++Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
  ENDLEX ; 
 
 
