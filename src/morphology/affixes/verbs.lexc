@@ -1455,14 +1455,16 @@ LEXICON Prc-f
 +Der/f+PrfPrc: N_KAL ;
 
 LEXICON PRC_fkia
-+Der/f+Der/Dimin+PrfPrc: NMN_VAL1MIA ;
+!+Der/f+Der/Dimin+PrfPrc: NMN_VAL1MIA ;
++PrfPrc+Der/Dimin: NMN_VAL1MIA ;
 
 LEXICON Prc-fks
 +Der/fks+Pss+Prc: K ;
 
 LEXICON Prc-I
-+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
-+Der/I+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
+!+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
++Act+PrsPrc:%>%{ИЫЙ%} K ;
++Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
 +Der/Onj+VGen:%>%{ЕОØ%}нь K ;
