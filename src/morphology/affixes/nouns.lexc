@@ -1157,7 +1157,7 @@ LEXICON OBLIQUECX-PX-osh
 
 LEXICON Choose-INDEF-OBLPX-ava_OR_DER/COP
  Choose-INDEF-OBLPX-ava ;
- DER/COP ;
++Indef: DER/COP ;
  
 LEXICON Choose-INDEF-OBLPX-ava
 @U.DECL-DX.INDEF@+Indef:@U.DECL-DX.INDEF@ NounEnd_K ;
@@ -1176,8 +1176,8 @@ LEXICON DER/COP
 +Clt/Cop+Prs+ScSg1:%>%{АЯ%}н K ;
 +Clt/Cop+Prs+ScSg2:%>%{АЯ%}т K ;
 !2020-03-27+Clt/Cop+Prs+ScSg3: K ;
-+Clt/Cop+Prs+ScPl1:%>т%{АЯ%}ма K ;
-+Clt/Cop+Prs+ScPl2:%>т%{АЯ%}да K ;
++Clt/Cop+Prs+ScPl1:%>%{Х%}т%{АЯ%}ма K ;
++Clt/Cop+Prs+ScPl2:%>%{Х%}т%{АЯ%}да K ;
 +Clt/Cop+Prs+ScPl3:%>%{Х%}т%{ЬØ%} K ;
 
 +Clt/Cop+Prt2+ScSg1:%>%{ЕОØ%}лень K ;
