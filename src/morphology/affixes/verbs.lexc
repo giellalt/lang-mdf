@@ -304,6 +304,8 @@ LEXICON Non-Finite-Vws
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
++Inf+Abl+Der/Dimin:%>%{ЕОØ%}м%>ня%>да K ;
++Inf+Abl+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Ela:%>%{ЕОØ%}мст%{АО%} K ;
 +Ger+Ela:%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Tra:%>%{ЕОØ%}мга K ;
@@ -313,7 +315,7 @@ LEXICON Non-Finite-Vws
 
 LEXICON Non-Finite-Cns
 !+PrfPrc:%^Devoice%>ф K ;
-+Der/f+Pss+Prc:%^Devoice%>ф N_KAL ;
++Der/f+PrfPrc:%^Devoice%>ф N_KAL ;
 
 !! !AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
@@ -1428,6 +1430,8 @@ LEXICON INF_ОМ
 !+Inf+Ill:%>%{ЕОØ%}мс K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
++Inf+Abl+Der/Dimin:%>%{ЕОØ%}м%>ня%>да K ;
++Inf+Abl+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Ela:%>%{ЕОØ%}м%>ста NounEnd_K ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
 +Ger:%>%{ЕОØ%}зь K ;
@@ -1436,7 +1440,8 @@ LEXICON INF_ОМ
 +Ger+Der/Shovor:%>%{ЕОØ%}м%>шовор K ;
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} OBLIQUECX-PX-ava ;
-+Der/NomAct:%>%{ЕОØ%}ма N_AVA ;
++NomAct:%>%{ЕОØ%}ма N_AVA ;
++NomAct+Der/Dimin:%>%{ЕОØ%}м%>ня N_AVA ;
 Prc-I ;
 Prc-nj ;
 Prc-zj ;
@@ -1469,7 +1474,7 @@ LEXICON Prc-fks
 LEXICON Prc-I
 !+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
 +Act+PrsPrc:%>%{ИЫЙ%} K ;
-+Der/NomAg:%>%{ИЫЙ%} N_ANDY ;
++NomAg:%>%{ИЫЙ%} N_ANDY ;
 
 LEXICON Prc-nj
 +Der/Onj+VGen:%>%{ЕОØ%}нь K ;
