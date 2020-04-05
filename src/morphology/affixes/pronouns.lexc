@@ -56,7 +56,10 @@ LEXICON PRONOUN-TYPES
 !колгат+Pron:колгат PRON-X-PXSG2  "sinusta" ;
 кона+Pron+Rel:кона N_AVA  "joka, mikä" ;
 конашка+Pron:конашка PRON_  "minkä kokoinen" ;
-коса+Adv+Interr:коса ADV_  "missä" ;
+коста+Adv+Interr+Ela:коста ADV_  "mistä" ;
+коста+Adv+Rel+Ela:коста ADV_  "mistä" ;
+коса+Adv+Interr+Ine:коса ADV_  "missä" ;
+коса+Adv+Rel+Ine:коса ADV_  "missä" ;
 ладнек+Adv:ладнек PRON_  "koko, kokonaan, täysin" ;
 
 !мархтон+Pron:мархтон PRON-COM-PXSG1  "kanssani" ;

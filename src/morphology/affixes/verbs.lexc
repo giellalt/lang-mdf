@@ -310,8 +310,9 @@ LEXICON Non-Finite-Vws
 +Ger+Ela:%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Tra:%>%{ЕОØ%}мга K ;
 +Ger+Tra:%>%{ЕОØ%}мга OBLIQUECX-PX-ava ;
-+Ger+Der/Ozj:%>%{ЕОØ%}зь K ;
++Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger:%>%{ЕОØ%}мок K ;
++Ger+Cmpr:%>%{ЕОØ%}м%>шка N_AVA ;
 
 LEXICON Non-Finite-Cns
 !+PrfPrc:%^Devoice%>ф K ;
@@ -322,7 +323,6 @@ LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
  V-AUX-NEG-PRT1 ;
 +Neg: IND-PRT2-ALL ;
 @P.CONJ.ObjAll@+Neg:@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
-+Neg:%>езь  IND-PRT1-30_ZERO ;
 +Neg:%>езь  IND-PRT1-60_Т ;
 +Neg+Ind+Prt1+ScSg1:%>ень # ;
 +Neg+Ind+Prt1+ScSg2:%>еть # ;
@@ -335,7 +335,6 @@ LEXICON V-AUX-NEG-PRT1_IZJ !!= @CODE@ изь:изь
  V-AUX-NEG-PRT1 ;
 +Neg: IND-PRT2-ALL ;
 @P.CONJ.ObjAll@+Neg:@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
-+Neg:  IND-PRT1-30_ZERO ;
 +Neg:  IND-PRT1-60_Т ;
 +Neg+Ind+Prt1+ScSg1:%>ень # ;
 +Neg+Ind+Prt1+ScSg2:%>еть # ;
@@ -788,8 +787,8 @@ LEXICON IND-PRT1-26
 LEXICON IND-PRT1-30
 @U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@+Ind+Prt1+ScSg3:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@%>сь VerbEnd ;
 
-LEXICON IND-PRT1-30_ZERO
-@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@+Ind+Prt1+ScSg3:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@ VerbEnd ;
+!LEXICON IND-PRT1-30_ZERO
+!@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@+Ind+Prt1+ScSg3:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.3Ø@ VerbEnd ;
 
 LEXICON IND-PRT1-31
 @U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.31@+Ind+Prt1+ScSg3+OcSg1:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.31@%>%{ЕОØ%}мань VerbEnd ;
@@ -1434,7 +1433,7 @@ LEXICON INF_ОМ
 +Inf+Abl+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Ela:%>%{ЕОØ%}м%>ста NounEnd_K ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
-+Ger:%>%{ЕОØ%}зь K ;
++Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк%{АО%} K ;
 +Ger+Der/Shovor:%>%{ЕОØ%}м%>шовор K ;
@@ -1475,6 +1474,8 @@ LEXICON Prc-I
 !+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
 +Act+PrsPrc:%>%{ИЫЙ%} K ;
 +NomAg:%>%{ИЫЙ%} N_ANDY ;
++NomAg+Cmpr:%>%{ИЫЙ%}%>шка N_AVA ;
++NomAg+Tra:%>%{ИЫЙ%}%>шка N_OSH ;
 
 LEXICON Prc-nj
 +Der/Onj+VGen:%>%{ЕОØ%}нь K ;
