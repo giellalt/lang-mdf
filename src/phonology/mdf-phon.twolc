@@ -428,6 +428,10 @@ Vx:0 <=>
 !! сельме+N+Pl+Nom+PxSg1: __my eyes/silmäni
 !!€ сельм%{ЕО%}%^PXSG1%>не
 !!€ сельмо0%>не
+      к %> _ %{DIM%}: я ;
+!! байдек+N+Der+Der/Dimin+N+Sg+Nom+Indef: __staff/sauva__
+!!€ байдек%>%{ЕО%}%{DIM%}я
+!!€ байдек%>оня
 
 "%{ЕØ%}:е"
 !! __@RULENAME@__
@@ -954,6 +958,7 @@ Vx:0 <=>
  %{DIM%}:н <=> [ Vows: | :Vows | м  | ж | б | в | н | д | л | р  | з | й] (ь:)  %> _ я ;
 !!€ ши>%{DIM%}я
 !!€ ши0ня
+        к %> %{ЕО%}: _ я ;
 
 "%{DIM%}:к"
 !! __@RULENAME@__
@@ -1021,6 +1026,7 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
 !! __@RULENAME@__
 я:я /<=
      [[:Vows - [:и]]|[Cns - [й]]|[Cns - [л|н|з|р|д]] ь:] %> г _ [# | %- |%>];
+      [Cns - к] %> %{ЕО%}: %{DIM%}: _ ;
 
 "Disallow onset vowel after voiced cons"
 !! __@RULENAME@__

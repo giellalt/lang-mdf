@@ -204,6 +204,7 @@ LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
  N_KAL-PL ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KAL-SG
 : NMN_KAL-SG ;
@@ -215,6 +216,7 @@ LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KIAL1-SG
 : NMN_KIAL1-SG ;
@@ -445,6 +447,9 @@ LEXICON NMN_KELU-PL
 !+Pl:в PL-DAT/GEN/NOM-DEF ;
 +Pl:в        NMN-PL       ;
         NMN_KELU-SG/PL  ;
++Pl: PL-DAT/GEN/NOM-PXSG1 ;
++Pl: PL-CX-PXSG2 ;
++Pl: PL-CX-PXSG3 ;
 
 
 LEXICON NMN_KELU-SG/PL
