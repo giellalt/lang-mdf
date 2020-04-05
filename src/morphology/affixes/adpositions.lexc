@@ -45,58 +45,58 @@ LEXICON ADPOSITION-TYPES
 тейса+Adp+Ine:тейс%{АО%} ADP-WITH-PX-OR-NOT ;
 тейге+Adp+Prl:тейг%{ЕА%} ADP-WITH-PX-OR-NOT ;
 пяле+Adp+Loc:пяле ADP-WITH-PX-OR-NOT ;
-пяли+Adp+Lat:пяли ADP-WITH-PX-OR-NOT ;
+пяли+Adp+Lat:пяли K ;
 пяльде+Adp+Abl:пяльде ADP-WITH-PX-OR-NOT ;
 пяльге+Adp+Prl:пяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
 
 перфпяле+Adp+Loc:перфпяле ADP-WITH-PX-OR-NOT ;
-перфпяли+Adp+Lat:перфпяли ADP-WITH-PX-OR-NOT ;
+перфпяли+Adp+Lat:перфпяли K ;
 перфпяльде+Adp+Abl:перфпяльде ADP-WITH-PX-OR-NOT ;
 перфпяльге+Adp+Prl:перфпяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
 
 шире+Adp+Loc:шире ADP-WITH-PX-OR-NOT ;
-шири+Adp+Lat:шири ADP-WITH-PX-OR-NOT ;
+шири+Adp+Lat:шири K ;
 ширьде+Adp+Abl:ширьде ADP-WITH-PX-OR-NOT ;
 ширьге+Adp+Prl:ширьг%{АЕ%} ADP-WITH-PX-OR-NOT ;
 
 томбале+Adp+Loc:томбале ADP-WITH-PX-OR-NOT ;
-томбали+Adp+Lat:томбали ADP-WITH-PX-OR-NOT ;
+томбали+Adp+Lat:томбали K ;
 томбальде+Adp+Abl:томбальде ADP-WITH-PX-OR-NOT ;
 томбальге+Adp+Prl:томбальг%{АЕ%} ADP-WITH-PX-OR-NOT ;
 ланга+Adp+Prl:ланга ADP-WITH-PX-OR-NOT ;
 
 ала+Adp+Loc:ал%{АО%} ADP-WITH-PX-OR-NOT ;
-алу+Adp+Lat:алу ENDLEX ;
+алу+Adp+Lat:алу K ;
 алда+Adp+Abl:алд%{АО%} ADP-WITH-PX-OR-NOT ;
 алга+Adp+Prl:алга ADP-WITH-PX-OR-NOT ;
 
 сельмала+Adp+Loc:сельмал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмалу+Adp+Lat:сельмалу ENDLEX ;
+сельмалу+Adp+Lat:сельмалу K ;
 сельмалда+Adp+Abl:сельмалд%{АО%} ADP-WITH-PX-OR-NOT ;
 сельмалга+Adp+Prl:сельмалга ADP-WITH-PX-OR-NOT ;
 
 пильгала+Adp+Loc:пильгал%{АО%} ADP-WITH-PX-OR-NOT ;
-пильгалу+Adp+Lat:пильгалу ENDLEX ;
+пильгалу+Adp+Lat:пильгалу K ;
 пильгалда+Adp+Abl:пильгалд%{АО%} ADP-WITH-PX-OR-NOT ;
 пильгалга+Adp+Prl:пильгалга ADP-WITH-PX-OR-NOT ;
 
 сельмокунала+Adp+Loc:сельмокунал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмокуналу+Adp+Lat:сельмокуналу ENDLEX ;
+сельмокуналу+Adp+Lat:сельмокуналу K ;
 сельмокуналда+Adp+Abl:сельмокуналд%{АО%} ADP-WITH-PX-OR-NOT ;
 сельмокуналга+Adp+Prl:сельмокуналга ADP-WITH-PX-OR-NOT ;
 
 кядяла+Adp+Loc:кядял%{АО%} ADP-WITH-PX-OR-NOT ;
-кядялу+Adp+Lat:кядялу ENDLEX ;
+кядялу+Adp+Lat:кядялу K ;
 кядялда+Adp+Abl:кядялд%{АО%} ADP-WITH-PX-OR-NOT ;
 кядялга+Adp+Prl:кядялга ADP-WITH-PX-OR-NOT ;
 
 фтала+Adp+Loc:фтал%{АО%} ADP-WITH-PX-OR-NOT ;
-фталу+Adp+Lat:фталу ENDLEX ;
+фталу+Adp+Lat:фталу K ;
 фталда+Adp+Abl:фталд%{АО%} ADP-WITH-PX-OR-NOT ;
 фталга+Adp+Prl:фталга ADP-WITH-PX-OR-NOT ;
 
 сельмофтала+Adp+Loc:сельмофтал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмофталу+Adp+Lat:сельмофталу ENDLEX ;
+сельмофталу+Adp+Lat:сельмофталу K ;
 сельмофталда+Adp+Abl:сельмофталд%{АО%} ADP-WITH-PX-OR-NOT ;
 сельмофталга+Adp+Prl:сельмофталга ADP-WITH-PX-OR-NOT ;
 
@@ -120,12 +120,15 @@ LEXICON ADPOSITION-TYPES
 ланга+N+Relator:ланг%{АОØ%} N_PINGE ;
 ал+N+Relator:ал N_KAL ; !Loc, Abl, Lat, Prl
 бок+N+Relator:бок N_KAL ; !Prl, Ill, Ine, Ela, Lat
-велькс+N+Relator:велькс N_OSH ;!Prl, Ill, Ine, Ela,
-велькс+N+Relator:вельхкс N_OSH ;!Prl, Ill, Ine, Ela,
+вельхкс+v1+N+Relator:вельхкс N_OSH ;!Prl, Ill, Ine, Ela,
+вельхкс+v2+N+Relator:велькс N_OSH ;!Prl, Ill, Ine, Ela,
 кучка+N+Relator:кучка N_AVA ;
 потма+N+Relator:потм%{АО%} N_PULA ;
 карша+N+Relator:карш%{АЕ%} N_MOKSHA ;
 вельфке+N+Relator:вельфк%{АЕ%} N_PULA ;
+уша+N+Relator:уш%{АО%} N_PULA ;
+шире+N+Relator:шире N_AVA ;
+ётка+N+Relator:ётк%{АОØ%} N_OFTA ;
 
 
 
