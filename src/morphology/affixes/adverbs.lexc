@@ -7,7 +7,7 @@
 !!!!!!!!!!!!!!
 
 
-LEXICON Ad-A_ 	!!= @CODE@ пяк
+LEXICON ADV-DEG_ 	!!= @CODE@ пяк
 +Deg: # ;
 
 LEXICON ADV_ 	!!= @CODE@ 
@@ -32,11 +32,8 @@ LEXICON GER_
 LEXICON ADV-SPAT_
 +Spat: K ;
 
-LEXICON ADV-DEG_
-+Deg: K ;
-
-!LEXICON SpatTag
-!+Spat: K ;
+LEXICON ADV-LOC_
++Loc: K ;
 
 
 !!Temporal tags with cases
