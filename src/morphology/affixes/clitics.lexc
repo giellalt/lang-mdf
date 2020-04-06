@@ -36,9 +36,12 @@ LEXICON K_НГА
  K ;
 
 LEXICON K
-+Clt/AddVok:%>%{ЕОØ%}вок  ENDLEX ; 
-+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
-+Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
++Clt/Add:%>%{ЕОØ%}вок  ENDLEX ; 
++Clt/Add:%>%{гк%}%{АЕ%} ENDLEX ;
++Clt/Add:%>нг%{АЕ%} ENDLEX ;
+!+Clt/AddVok:%>%{ЕОØ%}вок  ENDLEX ; 
+!+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
+!+Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
  ENDLEX ; 
 
 
