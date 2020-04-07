@@ -63,9 +63,9 @@ LEXICON N_MOKSHA
 ! мокша:мокш%{АЕ%}
 !: NMN_MOKSHA-SG ;
 
-!LEXICON N_MOKSHA-PL
-! мокша:мокш%{АЕ%}
-!: NMN_MOKSHA-PL ;
+LEXICON N_MOKSHA-PL
+! мокша:мокш%{АЕØ%}
+: NMN_MOKSHA-PL ;
 
 LEXICON N_PAKSIA
 ! пакся:пакся
@@ -361,7 +361,7 @@ LEXICON NMN_VAL1MIA
 !:%^Я2А        NMN-PL ;
 !:%^Я2А        NMN-SG/PL       ;
 
-LEXICON NMN_MOKSHA
+LEXICON NMN_MOKSHA !уша:уш%{АЕ%}
 :        NMN-SG  ;
 :        NMN-PL  ;
 :        NMN-SG/PL       ;
@@ -373,9 +373,9 @@ LEXICON NMN_MOKSHA
 !:        NMN-SG/PL       ;
 !: SP-LAT-INDEF ;
 
-!LEXICON NMN_MOKSHA-PL
-!:        NMN-PL ;
-!:        NMN-SG/PL       ;
+LEXICON NMN_MOKSHA-PL
+:        NMN-PL ;
+:        NMN-SG/PL       ;
 
 LEXICON NMN_PAKSIA
         NMN-SG  ;

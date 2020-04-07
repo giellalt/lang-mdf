@@ -283,11 +283,11 @@ LEXICON PRON-DEM_
 +Dem: PRON-DEM-SG ;
 
 LEXICON PRON-DEM-SG
-+SP+Abl:%>д%{АО%} K_вок ;
-+SP+Dat:%>%{ЕОØ%}нди K_вок ;
-+SP+Gen:%>%{ЕОØ%}нь K_ГА ;
-+Sg+Nom: K_вок ;
-+Pl+Nom:%>тЬ2 K_ГА ;
++Sg+Abl+Indef:%>д%{АО%} K_вок ;
++Sg+Dat+Indef:%>%{ЕОØ%}нди K_вок ;
++Sg+Gen+Indef:%>%{ЕОØ%}нь K_ГА ;
++Sg+Nom+Indef: K_вок ;
++Pl+Nom+Indef:%>тЬ2 K_ГА ;
 
 !! INTERROGATIVE PRONOUNS
 LEXICON INTERR
