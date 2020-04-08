@@ -12,7 +12,7 @@ LEXICON AUXILIARIES
 
 LEXICON VERBNEGATIVE
 ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь
-ашезь+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
+ашезь+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
 аф+V+Aux:афоль V-AUX-NEG-CONJ_AFOLJ ;
 тят+V+Aux+Neg+Opt+ScSg1:тязан K ;
 тят+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
@@ -231,8 +231,9 @@ LEXICON V0_MUMS
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		; !муемс
 :	 INF_ОМ		; !мумс
-+ConNeg:й%{АО%} K ; 
-+ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
+!+ConNeg:е K ; 
++ConNeg: K ; 
++ConNegII:йхть K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
@@ -266,7 +267,7 @@ LEXICON V0_TIJEMS
 :й	 INF_ОМ		;
 
 +ConNeg:е K ; 
-+ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
++ConNegII:йхть K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
@@ -290,7 +291,7 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
 +ConNeg:е K ; 
-+ConNegII:й%>%{КТ%}%{ЬØ%} K ; 
++ConNegII:йхть K ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
@@ -346,7 +347,7 @@ LEXICON V-AUX-NEG-PRT1_IZJ !!= @CODE@ изь:изь
 +Neg:  IND-PRT1-60_Т ;
 +Neg+Ind+Prt1+ScSg1:%>ень # ;
 +Neg+Ind+Prt1+ScSg2:%>еть # ;
-+Neg+Ind+Prt1+ScSg3:%>езь # ;
++Neg+Ind+Prt1+ScSg3: # ;
 +Neg+Ind+Prt1+ScPl1:%>еме # ;
 +Neg+Ind+Prt1+ScPl2:%>еде # ;
 +Neg+Ind+Prt1+ScPl3:%^Devoice%^Ь2ZERO%>ть # ;
@@ -1344,6 +1345,7 @@ LEXICON COND-4CONJ-66
 
 !! !!IMPERATIVE 
 LEXICON IMPRT-ALL
+ PREC-ALL ;
  IMPRT-ONLY-20 ;
  IMPRT-ALL-BUT-20 ;
 
@@ -1394,6 +1396,58 @@ LEXICON IMPRT-54
 
 LEXICON IMPRT-56
 @U.CONJ-MX.IMP@@U.CONJ-PX.56@+Imprt+ScPl2+OcPl3:@U.CONJ-MX.IMP@@U.CONJ-PX.56@%>%{ЕОØ%}сть VerbEnd ;
+
+
+!! !!PRECATIVE 
+LEXICON PREC-ALL
+ PREC-ONLY-20 ;
+ PREC-ALL-BUT-20 ;
+
+LEXICON PREC-ONLY-20
+	PREC-20	;
+LEXICON PREC-ALL-BUT-20
+	PREC-21	;
+	PREC-23	;
+	PREC-24	;
+	PREC-26	;
+	PREC-50	;
+	PREC-51	;
+	PREC-54	;
+	PREC-53	;
+	PREC-56	;
+
+!!	(precative tags)
+LEXICON PREC-20
+@U.CONJ-MX.PREC@@U.CONJ-PX.2Ø@+Prec+ScSg2:@U.CONJ-MX.PREC@@U.CONJ-PX.2Ø@%>%{КТ%}%{ЬØ%}ка VerbEnd ;
+
+@U.CONJ-MX.PREC@@U.CONJ-PX.2Ø@+Prec+ScSg2:@U.CONJ-MX.PREC@@U.CONJ-PX.2Ø@%>%{КТ%}%{АЯ%}ка VerbEnd ;
+
+LEXICON PREC-21
+@U.CONJ-MX.PREC@@U.CONJ-PX.21@+Prec+ScSg2+OcSg1:@U.CONJ-MX.PREC@@U.CONJ-PX.21@%>%{ЕОØ%}мака VerbEnd ;
+
+LEXICON PREC-23
+@U.CONJ-MX.PREC@@U.CONJ-PX.23@+Prec+ScSg2+OcSg3:@U.CONJ-MX.PREC@@U.CONJ-PX.23@%>ка VerbEnd ;
+
+LEXICON PREC-24
+@U.CONJ-MX.PREC@@U.CONJ-PX.24@+Prec+ScSg2+OcPl1:@U.CONJ-MX.PREC@@U.CONJ-PX.24@%>%{ЕОØ%}мастева VerbEnd ;
+
+LEXICON PREC-26
+@U.CONJ-MX.PREC@@U.CONJ-PX.26@+Prec+ScSg2+OcPl3:@U.CONJ-MX.PREC@@U.CONJ-PX.26@%>%{ИЫЙ%}ть-ка VerbEnd ;
+
+LEXICON PREC-50
+@U.CONJ-MX.PREC@@U.CONJ-PX.5Ø@+Prec+ScPl2:@U.CONJ-MX.PREC@@U.CONJ-PX.5Ø@%>%{ЕОØ%}дова VerbEnd ;
+
+LEXICON PREC-51
+@U.CONJ-MX.PREC@@U.CONJ-PX.51@+Prec+ScPl2+OcSg1:@U.CONJ-MX.PREC@@U.CONJ-PX.51@%>%{ЕОØ%}мастева VerbEnd ;
+
+LEXICON PREC-53
+@U.CONJ-MX.PREC@@U.CONJ-PX.53@+Prec+ScPl2+OcSg3:@U.CONJ-MX.PREC@@U.CONJ-PX.53@%>%{ЕОØ%}стева VerbEnd ;
+
+LEXICON PREC-54
+@U.CONJ-MX.PREC@@U.CONJ-PX.54@+Prec+ScPl2+OcPl1:@U.CONJ-MX.PREC@@U.CONJ-PX.54@%>%{ЕОØ%}мастева VerbEnd ;
+
+LEXICON PREC-56
+@U.CONJ-MX.PREC@@U.CONJ-PX.56@+Prec+ScPl2+OcPl3:@U.CONJ-MX.PREC@@U.CONJ-PX.56@%>%{ЕОØ%}стева VerbEnd ;
 
 LEXICON OPT-ALL
  OPT-10 ;
@@ -1486,7 +1540,7 @@ LEXICON Prc-I
 +NomAg+Tra:%>%{ИЫЙ%}%>шка N_OSH ;
 
 LEXICON Prc-nj
-+Der/Onj+VGen:%>%{ЕОØ%}нь K ;
++VGen:%>%{ЕОØ%}нь K ;
 
 LEXICON Prc-zj
 +Der/Ozj+Prc:%>%{ЕОØ%}зь K ;
