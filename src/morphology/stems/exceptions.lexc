@@ -55,7 +55,29 @@ LEXICON EXCEPTIONS
 коста-коста+Adv+Distr+Ela:коста-коста ADV_ ;
 одукс+Adv:одукс ADV_ ;
 аньцек-аньцек+Adv:аньцек-аньцек ADV_ ;
+мзярошка+Adv:мзярошка ADV_ ;
+пяле+Adp+Loc:пяле K ;
+пяле+Adp+Loc:пяло OBLIQUECX-PX-REQUIRES-VOWEL/NO-VOWEL ;
 
+так+Pcle:так # ;
+аре+V+Imprt+ScSg2:аре # ;
+значит+Pcle:Значит # ;
+а-а+Interj:а-а # ;
+хотя+CS:хотя # ;
+ато+CC:ато # ;
+кли+Adv:кли # ;
+э-э+Interj:э-э # ;
+вдрук+Adv:вдрук # ;
+эхи+Interj:эхи # ;
+ичкозде+Adv+Abl:ичкозде K ;
+класс+N+SP+Ine+Indef:класс%{АО%} K ;
+озадонь+A+GenAttr:озадонь K ;
+эстонь+A+GenAttr:эстонь K ;
+!тутама, латта, аст, Лундан, косот,  муй, можналь, ашет
+!шачем, идькс
+!ёт, Например, Горький, за, Нора,
+!эрь-мезне, Сашок, Горькайнь, шудесь, саян, саят, лангу, пирьфи
+!тихтяма, кафцьконь, вийнзон, мярьге, Маркуз, няйф, кодамкс, Яхим
 тифтень-кафтонь+Num:тифтень-кафтонь NUM_ ;
 кафта-колма+Num+Appr+Sg+Nom+Indef:кафта-колма ENDLEX ;
 колма-ниле+Num+Appr+Sg+Nom+Indef:колма-ниле ENDLEX ;
@@ -69,11 +91,16 @@ LEXICON EXCEPTIONS
 то+CS:то CS_ ;
 
 !! MISSING Pcle
+эрька+Pcle+Aux:эрька # ;
 вона+Adv:вона ADV_ ;
 роди+Adv:роди ADV_ ;
 давай+Pcle:давай PCLE_ ;
 валом-валом+Adv:валом-валом ADV_ ;
 можна+Adv:можна ADV_ ;
+тожа+Adv:тожа ADV_ ;
+ах+Interj:ах INTERJ_ ;
+лацонь+A+GenAttr:лацонь K ;
+ширдень+A+GenAttr:ширдень K ;
 
 
 !! MISSING V
@@ -464,6 +491,8 @@ LEXICON EXCEPTIONS
 Боря+N+Prop:Боря MOKSHA-MAL/ORJASJ_AVA ;
 Гавря+N+Prop:Гавря MOKSHA-MAL/ORJASJ_AVA ;
 
+!
+
 !! QUESTIONABLE FORMS
 школа+N+SP+Lat+Indef+Foc:школавка K ;
 
@@ -472,17 +501,20 @@ LEXICON EXCEPTIONS
 русскяй+Use/SpellNoSugg:русскяй A_KAL "" ;
 
 !! PCLE
-ли+Use/SpellNoSugg:ли PCLE_ "" ;
-можна+Use/SpellNoSugg:можна ADV_ "" ;
-штоли+Use/SpellNoSugg:штоли PCLE_ "" ;
+ли+Use/SpellNoSugg+Pcle+Qst:ли PCLE_ "" ;
+можна+Use/SpellNoSugg+Pcle:можна ADV_ "" ;
+штоли+Use/SpellNoSugg+Pcle:штоли PCLE_ "" ;
+не+Use/SpellNoSugg+Pcle+Neg:не # "not/ei" ;
+
 
 !! NOUNS
 бедная+N:бедная N_AVA ;
 
 
 !! PROP
-
-
+Октябрьскяй+N+Prop:Октябрьскяй N_KAL ;
+Саранск+N+Prop:Саранск N_KAL ;
+Ильич+N+Prop+Sem/Mal-Patr:Ильич N_OSH ;
 
 !! MISSING VALENCY
 

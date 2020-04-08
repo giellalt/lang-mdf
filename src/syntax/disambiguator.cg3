@@ -353,6 +353,9 @@ REMOVE Der/Onj IF (NOT 1 N) ;
 # Кизонь каникулатнень пингста...
 REMOVE Attr IF (0 A + Gen + Attr) (0 N + SP + Gen + Indef) ;
 
+# салтонь куяр vs Да сргозень
+REMOVE:VGenIfNoSubsequentN VGen IF (NOT 1 N) ;
+
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 SELECT $$Case IF (1 CC LINK 1C $$Case) ;
 

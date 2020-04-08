@@ -96,9 +96,15 @@ LEXICON PRONOUN-TYPES
 !тинць+Pron:тинць PRON_  "" ;
 
 нона+Pron:нона PRON_  "muu, toinen, edellinen" ;
-ня+Pron:ня PRON_  "nämä, ne" ;
+ня+Pron+Dem+Pl+Nom:ня PRON_  "nämä, ne" ;
+ня+Pron+Dem+Pl+Nom:нят PRON_  "nämä, ne" ;
+
 някот+Pron:някот PRON_  "(mon.) vain nämä" ;
-ся+Pron:ся PRON-DEM_  "se" ;
+ся+Pron+Dem:ся PRON-DEM_  "se" ;
+ся+Pron+Dem+Pl+Nom+Indef:сят K  "se" ;
+ся+Pron+Dem+Pl+Dat+Def:сятненди K  "se" ;
+ся+Pron+Dem+Pl+Gen+Def:сятнень K  "se" ;
+ся+Pron+Dem+Pl+Nom+Def:сятне K  "se" ;
 сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
 тона+Det:тона PRON_  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
@@ -123,17 +129,19 @@ LEXICON PERS                        !!≈ * __@CODE@__
 сон+Pron+Pers+Pl3:син PERS-PL3 ;
 
 мон+v1+Pron+Pers+Sg1+Dat+Short:тейне K/DAT-ARAM ;
-мон+v2+Pron+Pers+Sg1+Dat+Short:теене K/DAT-ARAM ;
-мон+v3+Pron+Pers+Sg1+Dat+Short:теень K/DAT-ARAM ;
+мон+Use/NG+v2+Pron+Pers+Sg1+Dat+Short:теене K/DAT-ARAM ;
+мон+Use/NG+v3+Pron+Pers+Sg1+Dat+Short:теень K/DAT-ARAM ;
+мон+Use/NG+v4+Pron+Pers+Sg1+Dat+Short:тейнь K/DAT-ARAM ;
 мон+v1+Pron+Pers+Pl1+Dat+Short:тейнек K/DAT-ARAM ;
-мон+v2+Pron+Pers+Pl1+Dat+Short:тееньк K/DAT-ARAM ;
-тон+Pron+Pers+Sg2+Dat+Short:тейть K/DAT-ARAM ;
-тон+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
-тон+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
+мон+Use/NG+v2+Pron+Pers+Pl1+Dat+Short:тееньк K/DAT-ARAM ;
+тон+v1+Pron+Pers+Sg2+Dat+Short:тейть K/DAT-ARAM ;
+тон+Use/NG+v2+Pron+Pers+Sg2+Dat+Short:тееть K/DAT-ARAM ;
+тон+v1+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
+тон+Use/NG+v2+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
 сон+v1+Pron+Pers+Sg3+Dat+Short:тейнза K/DAT-ARAM ;
-сон+v2+Pron+Pers+Sg3+Dat+Short:теенза K/DAT-ARAM ;
+сон+Use/NG+v2+Pron+Pers+Sg3+Dat+Short:теенза K/DAT-ARAM ;
 сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K/DAT-ARAM ;
-сон+v2+Pron+Pers+Pl3+Dat+Short:теест K/DAT-ARAM ;
+сон+Use/NG+v2+Pron+Pers+Pl3+Dat+Short:теест K/DAT-ARAM ;
 
 
 LEXICON PRON_
