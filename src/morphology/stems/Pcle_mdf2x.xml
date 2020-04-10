@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">апак</l>
      <stg>
@@ -33,7 +33,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">аф</l>
      <stg>
@@ -102,11 +102,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">афи</l>
      <stg>
-       <st Contlex="PCLE_">афи</st>
+       <st Contlex="PCLE-NEG-CONTRAST">афи</st>
      </stg> <phonet>afi</phonet>
    </lg>
      <sources>
@@ -120,11 +120,11 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">афоли</l>
+     <l pos="Pcle">афоли</l>
      <stg>
-       <st Contlex="ADV_">афоли</st>
+       <st Contlex="PCLE_">афоли</st>
      </stg> <phonet>afoľi</phonet>
    </lg>
      <sources>
@@ -138,11 +138,11 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">бди</l>
+     <l pos="Pcle">бди</l>
      <stg>
-       <st Contlex="ADV_">бъди</st>
+       <st Contlex="PCLE_">бъди</st>
      </stg> <phonet>bəďi</phonet>
    </lg>
      <sources>
@@ -156,7 +156,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">бльшем</l>
      <stg>
@@ -173,7 +173,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">вдь</l>
      <stg>
@@ -190,7 +190,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">виде</l>
      <stg>
@@ -208,7 +208,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">голь</l>
      <stg>
@@ -225,7 +225,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">дель</l>
      <stg>
@@ -242,7 +242,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">деряй</l>
      <stg>
@@ -259,7 +259,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">дряй</l>
      <stg>
@@ -276,7 +276,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">дяряй</l>
      <stg>
@@ -302,7 +302,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">жа</l>
      <stg>
@@ -338,7 +338,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">жо</l>
      <stg>
@@ -355,7 +355,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">и</l>
      <stg>
@@ -378,7 +378,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">ина</l>
      <stg>
@@ -401,11 +401,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">инь</l>
+     <l pos="Pcle">инь</l>
      <stg>
-       <st Contlex="ADV_">инь</st>
+       <st Contlex="PCLE_">инь</st>
      </stg> <phonet>iń, eń</phonet>
    </lg>
      <sources>
@@ -430,11 +430,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">кати</l>
+     <l pos="Pcle">кати</l>
      <stg>
-       <st Contlex="ADV_">кати</st>
+       <st Contlex="PCLE_">кати</st>
      </stg> <phonet>kaťi</phonet>
    </lg>
      <sources>
@@ -454,7 +454,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">катк</l>
      <stg>
@@ -480,7 +480,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">кепшт</l>
      <stg>
@@ -497,7 +497,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">кле</l>
      <stg>
@@ -514,7 +514,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">клёк</l>
      <stg>
@@ -534,7 +534,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">конешна</l>
      <stg>
@@ -553,7 +553,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">мле</l>
      <stg>
@@ -570,11 +570,11 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">можботь</l>
+     <l pos="Pcle">можботь</l>
      <stg>
-       <st Contlex="ADV_">можботь</st>
+       <st Contlex="PCLE_">можботь</st>
      </stg>
    </lg>
      <sources>
@@ -587,7 +587,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">может</l>
      <stg>
@@ -604,11 +604,11 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">мяк</l>
+     <l pos="Pcle">мяк</l>
      <stg>
-       <st Contlex="ADV_">мяк</st>
+       <st Contlex="PCLE_">мяк</st>
      </stg> <phonet>mäk</phonet>
    </lg>
      <sources>
@@ -627,7 +627,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">мяле</l>
      <stg>
@@ -644,11 +644,11 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l pos="Adv">мянь</l>
+     <l pos="Pcle">мянь</l>
      <stg>
-       <st Contlex="ADV_">мянь</st>
+       <st Contlex="PCLE_">мянь</st>
      </stg> <phonet>mäń</phonet>
    </lg>
      <sources>
@@ -672,7 +672,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">мярьк</l>
      <stg>
@@ -689,7 +689,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">най</l>
      <stg>
@@ -715,7 +715,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">начас</l>
      <stg>
@@ -741,7 +741,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">незьля</l>
      <stg>
@@ -758,7 +758,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">нетоком</l>
      <stg>
@@ -775,7 +775,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">нльне</l>
      <stg>
@@ -792,7 +792,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">няк</l>
      <stg>
@@ -809,7 +809,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">пади</l>
      <stg>
@@ -831,7 +831,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">пчкяль</l>
      <stg>
@@ -849,7 +849,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">пчкясь</l>
      <stg>
@@ -867,7 +867,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">рстей</l>
      <stg>
@@ -885,7 +885,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">рязей</l>
      <stg>
@@ -902,7 +902,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">саты</l>
      <stg>
@@ -920,7 +920,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle" type="Superl">сембода</l>
      <stg>
@@ -950,7 +950,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">сембоц</l>
      <stg>
@@ -968,7 +968,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">сяда</l>
      <stg>
@@ -1002,7 +1002,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">таки</l>
      <stg>
@@ -1025,7 +1025,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Pcle">тейне-арам</l>
      <stg>
@@ -1044,7 +1044,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">теконь</l>
      <stg>
@@ -1061,7 +1061,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">тк</l>
      <stg>
@@ -1078,7 +1078,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <map/>
    <lg>
      <l pos="Pcle">туй</l>
@@ -1099,7 +1099,7 @@
      <defNative>null</defNative>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">тык</l>
      <stg>
@@ -1116,7 +1116,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">улема</l>
      <stg>
@@ -1140,7 +1140,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">утль</l>
      <stg>
@@ -1157,7 +1157,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">уш</l>
      <stg>
@@ -1174,7 +1174,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">хоть</l>
      <stg>
@@ -1191,7 +1191,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">хуш</l>
      <stg>
@@ -1208,7 +1208,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">це</l>
      <stg>
@@ -1225,7 +1225,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">ця</l>
      <stg>
@@ -1242,7 +1242,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">чай</l>
      <stg>
@@ -1265,7 +1265,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">чяй</l>
      <stg>
@@ -1282,7 +1282,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">шять</l>
      <stg>
@@ -1301,7 +1301,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">эбять</l>
      <stg>
@@ -1318,7 +1318,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">эвон</l>
      <stg>
@@ -1335,7 +1335,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">эк</l>
      <stg>
@@ -1352,7 +1352,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">эле</l>
      <stg>

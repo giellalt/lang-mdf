@@ -306,6 +306,7 @@ LIST ULEMA = "улема" ;
 LIST AUX = "эрявомс" ;
 LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
+LIST NOLAT = "каль" "моль" ;
 
 # Phrasal groups
 # --------------
@@ -366,6 +367,14 @@ SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 MARXTA) (-2 Prop + Sg + Nom + Indef
 SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 HYPHEN) (-2 Prop + Pl + Nom + Indef) ;
 
 SELECT Pcle IF (0 ULEMA) (-1 COMMA) (1 COMMA) ;
+
+# Маря моли сяда малас
+REMOVE:NotAgIfOnlySg3 NomAg IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+REMOVE:NotNIfOnlySg3 N IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+REMOVE:NotAIfOnlySg3 A IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+
+REMOVE:VerbSg3NotNLat Lat IF (0 NOLAT ) (0 Ind + Prs + ScSg3) ;
 
 # куттнень ваксса няевсть ават.
 REMOVE:CopIfVFinBeforeOrAfter Clt/Cop IF ((-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
