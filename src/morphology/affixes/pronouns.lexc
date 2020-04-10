@@ -154,7 +154,7 @@ LEXICON PERS-SG1
 +Nom+Clt/Cop+Prs: VERB-ZERO-10 ;
 +Nom+Clt/Cop: MUTUAL-PRT2-10 ;
 +Gen:ь K_ГА ;
-+Dat:дейне K ;
++Dat+Long:дейне K ;
 +Abl:дедон K ;
 +Abe:ьфтемон K ;
 +Intensive+Nom:ць K_ГА ;
@@ -168,7 +168,7 @@ LEXICON PERS-SG2
 +Nom+Clt/Cop+Prs: VERB-ZERO-20 ;
 +Nom+Clt/Cop: MUTUAL-PRT2-20 ;
 +Gen:ь K_ГА ;
-+Dat:дейть K_ГА ;
++Dat+Long:дейть K_ГА ;
 +Abl:дедот K_ГА ;
 +Abe:ьфтемот K_ГА ;
 +Intensive+Nom:ць K_ГА ;
@@ -181,7 +181,7 @@ LEXICON PERS-SG3
 +Nom: K_ГА ;
 +Nom+Clt/Cop: MUTUAL-PRT2-30 ;
 +Gen:ь K_ГА ;
-+Dat:дейнз%{АО%} K_вок ;
++Dat+Long:дейнз%{АО%} K_вок ;
 +Abl:дедонз%{АО%} K_вок ;
 +Abe:ьфтемонз%{АО%} K_вок ;
 +Intensive+Nom:ць K_ГА ;
@@ -195,6 +195,8 @@ LEXICON PERS-PL1
 +Nom+Clt/Cop+Prs:ь VERB-ZERO-40 ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-40 ;
 +Gen:ь K_ГА ;
++Use/NG+Dat+Long:дейнек K_ГА ;
++Dat+Long:деенек K_ГА ;
 +Abl:дедонк K_овок ;
 +Ine:ьцонк K_овок ;
 +Intensive+Nom:ць K_ГА ;
@@ -207,6 +209,8 @@ LEXICON PERS-PL2
 +Nom:ь K_ГА ;
 +Nom+Clt/Cop+Prs:ь VERB-ZERO-50 ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-50 ;
++Use/NG+Dat+Long:дейнть K_ГА ;
++Dat+Long:деенть K_ГА ;
 +Gen:ь K_ГА ;
 +Abl:дедонт K_овок ;
 +Intensive+Nom:ць K_ГА ;
@@ -218,6 +222,8 @@ LEXICON PERS-PL3
 !!синь:син
 +Nom:ь K_ГА ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-60 ;
++Dat+Long:деест K_ГА ;
++Use/NG+Dat+Long:дейст K_ГА ;
 +Gen:ь K_ГА ;
 +Abl:дедост K_ГА ;
 +Intensive+Nom:ць K_ГА ;
@@ -689,30 +695,30 @@ LEXICON PRON-INDEF_MEZEVOK
 @R.INDEF.VOK@ PRON-INDEF_MEZEVOK-NB/CASE/DEF ;
 
 LEXICON PRON-INDEF_MEZEVOK-NB/CASE/DEF
-+Sg+Nom:зевок ENDLEX ;
-+Sg+Nom:зьге ENDLEX ;
++Sg+Nom+Indef:зевок ENDLEX ;
++Use/NG+Sg+Nom+Indef:зьге ENDLEX ;
 +Sg+Nom+PxSg2:зьцевок ENDLEX ;
 +Sg+Nom+PxPl2:зентевок ENDLEX ;
-+Sg+Nom+PxPl3:зьсновок ENDLEX ;
++Use/NG+Sg+Nom+PxPl3:зьсновок ENDLEX ;
 +Sg+Nom+PxPl3:зьснонга ENDLEX ;
 +Sg+Dat+Def:зтивок ENDLEX ;
-+SP+Abe:%>зьфтомовок ENDLEX ;
-+SP+Abl:%>зьдовок ENDLEX ;
-+SP+Abl:%>зьдонга ENDLEX ;
-+SP+Cau:зенксовок ENDLEX ;
-+SP+Cau:зенксонга ENDLEX ;
-+SP+Cmpr:%>зешкавок ENDLEX ;
-+SP+Dat:%>зендивок ENDLEX ;
-+SP+Dat:%>зендинге ENDLEX ;
-+SP+Ela:%>зестовок ENDLEX ;
-+SP+Ela:%>зьстовок ENDLEX ;
-+SP+Ela:%>зьстонга ENDLEX ;
-+SP+Gen:%>зеньге ENDLEX ;
-+SP+Ill:%>зеска ENDLEX ;
-+SP+Ine:%>зьсовок ENDLEX ;
-+SP+Ine:%>зьсонга ENDLEX ;
-+SP+Prl:%>зевавок ENDLEX ;
-+SP+Tra:%>зекска ENDLEX ;
++SP+Abe+Indef:%>зьфтомовок ENDLEX ;
++Use/NG+SP+Abl+Indef:%>зьдовок ENDLEX ;
++SP+Abl+Indef:%>зьдонга ENDLEX ;
++Use/NG+SP+Cau+Indef:зенксовок ENDLEX ;
++SP+Cau+Indef:зенксонга ENDLEX ;
++SP+Cmpr+Indef:%>зешкавок ENDLEX ;
++Use/NG+SP+Dat+Indef:%>зендивок ENDLEX ;
++SP+Dat+Indef:%>зендинге ENDLEX ;
++Use/NG+SP+Ela+Indef:%>зестовок ENDLEX ;
++Use/NG+SP+Ela+Indef:%>зьстовок ENDLEX ;
++SP+Ela+Indef:%>зьстонга ENDLEX ;
++SP+Gen+Indef:%>зеньге ENDLEX ;
++SP+Ill+Indef:%>зеска ENDLEX ;
++Use/NG+SP+Ine+Indef:%>зьсовок ENDLEX ;
++SP+Ine+Indef:%>зьсонга ENDLEX ;
++SP+Prl+Indef:%>зевавок ENDLEX ;
++SP+Tra+Indef:%>зекска ENDLEX ;
 
 
 

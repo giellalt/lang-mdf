@@ -27,7 +27,7 @@ LEXICON N_KAL_DIAL
 LEXICON N_AVA
 ! ава:ава
 : NMN_AVA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_AVA-SG
 !! ава:ава
@@ -44,7 +44,7 @@ LEXICON N_AVA-PL
 LEXICON N_VAL1MIA
 ! вальмя:вальмя
 : NMN_VAL1MIA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_VAL1MIA-SG
 !! вальмя:вальмя
@@ -57,7 +57,7 @@ LEXICON N_VAL1MIA
 LEXICON N_MOKSHA
 ! мокша:мокш%{АЕØ%}
 : NMN_MOKSHA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_MOKSHA-SG
 ! мокша:мокш%{АЕØ%}
@@ -70,7 +70,7 @@ LEXICON N_MOKSHA-PL
 LEXICON N_PAKSIA
 ! пакся:пакся
 : NMN_PAKSIA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_PAKSIA ;
++Der/Dimin:%>%{DIM%}я NMN_PAKSIA ;
 
 !LEXICON N_PAKSIA-SG
 !! пакся:пакся
@@ -83,7 +83,7 @@ LEXICON N_PAKSIA-PL
 
 LEXICON N_ANDY !!= * @CODE@ анды:анды
 : NMN_ANDY ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_ANDY-SG
 !! анды:анды
@@ -120,7 +120,7 @@ LEXICON N_PINGE !!= @CODE@
 :%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL ;
 :%^RmVow SP-LAT-INDEF ;
 ! N_KAL ;  Ela, Ill, Ine, Par 
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KECHE !!= @CODE@
 !!кече:кеч%{ЕØ%}
@@ -136,12 +136,12 @@ LEXICON N_KECHE !!= @CODE@
 NMN_DECLENSION-WITHOUT-ONSET-VOWEL-RETAIN-STEM-VOWEL ;
 
 ! N_KAL ;  Ela, Ill, Ine, Par 
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_TISHE
 ! тише:тише
 : NMN_TISHE ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 !LEXICON N_TISHE-SG
 !! тише:тише
@@ -158,23 +158,23 @@ LEXICON N_TISHE
 LEXICON N_PULA !!= @CODE@ 
 !пула:пул%{АО%}
 : NMN_PULA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KARIUC1KE !!= @CODE@
 !карюцьке:карюцьк%{АЕ1%}
 : NMN_AVA ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 !€ карюцькат
 
 LEXICON N_SEL1ME !!= @CODE@
 !сельме:сельм%{ЕО%}
 : NMN_SEL1ME ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_OSH !!= @CODE@
 !ош:ош
 : NMN_OSH ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
++Der/Dimin:%>%{DIM%}я NMN_VAL1MIA ;
 
 LEXICON N_OSH-PL
 !ош:ош
@@ -183,7 +183,7 @@ LEXICON N_OSH-PL
 LEXICON N_SARAZ !!= @CODE@
 !ош:ош
 : NMN_SARAZ ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
++Der/Dimin:%>%{DIM%}я NMN_VAL1MIA ;
 
 !LEXICON N_SARAZ-PL
 !!ош:ош
@@ -192,7 +192,7 @@ LEXICON N_SARAZ !!= @CODE@
 LEXICON N_VAJ !!= @CODE@
  N_VAJ-SG ;
  N_VAJ-PL ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_VAJ-SG
 : NMN_VAJ-SG ;
@@ -203,8 +203,8 @@ LEXICON N_VAJ-PL
 LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
  N_KAL-PL ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
-+Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KAL-SG
 : NMN_KAL-SG ;
@@ -215,8 +215,8 @@ LEXICON N_KAL-PL
 LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
-+Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KIAL1-SG
 : NMN_KIAL1-SG ;
@@ -227,7 +227,7 @@ LEXICON N_KIAL1-PL
 LEXICON N_PINE !!= @CODE@
  N_PINE-SG ;
  N_PINE-PL ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_PINE-SG
 : NMN_PINE-SG ;
@@ -238,7 +238,7 @@ LEXICON N_PINE-PL
 LEXICON N_KELU !!= @CODE@
  N_KELU-SG ;
  N_KELU-PL ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der/Dimin:%>%{DIM%}я NMN_AVA ;
 
 LEXICON N_KELU-SG
 : NMN_KELU-SG ;
@@ -410,14 +410,14 @@ LEXICON NMN_PAKSIA-PL
 !	 NMN-SG ;
 !:%^RmVow NMN-SG/PL   ;
 !	 NMN-SG/PL   ;
-!+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-SG ;
+!+Der/Dimin:%>%{DIM%}я NMN_AVA-SG ;
 
 LEXICON NMN_OFTA-PL !!= @CODE@
 :%^RmVow NMN-PL ;
 	 NMN-PL ;
 :%^RmVow NMN-SG/PL   ;
          NMN-SG/PL   ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
++Der/Dimin:%>%{DIM%}я NMN_AVA-PL ;
 
 LEXICON NMN_KELU
 	NMN_KELU-SG	;

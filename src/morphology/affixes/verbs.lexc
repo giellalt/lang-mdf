@@ -11,46 +11,58 @@ LEXICON AUXILIARIES
 
 
 LEXICON VERBNEGATIVE
-ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь
-ашезь+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
+аш+V+Aux+Neg+Loc+Prs+ScSg1:ашан # ;
+аш+V+Aux+Neg+Loc+Prs+ScSg2:ашат # ;
+аш+V+Aux+Neg+Loc+Prs+ScSg3:аш # ;
+аш+V+Aux+Neg+Loc+Prs+ScPl1:аштама # ;
+аш+V+Aux+Neg+Loc+Prs+ScPl2:аштада # ;
+аш+V+Aux+Neg+Loc+Prs+ScPl3:ашет # ;
+аш+V+Aux+Neg+Loc:аш IND-PRT2-ALL ;
+аф+V+Aux+Neg:аф # ;
+аф+V+Aux+Neg+Foc:афи # ;
 аф+V+Aux:афоль V-AUX-NEG-CONJ_AFOLJ ;
-тят+V+Aux+Neg+Opt+ScSg1:тязан K ;
-тят+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScSg2:тязат K ;
-тят+V+Aux+Neg+Opt+ScSg2+OcSg3:тязак K ;
-тят+V+Aux+Neg+Opt+ScSg2+OcPl1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScSg3:тяза K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg1:тязамань K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcPl1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
-тят+V+Aux+Neg+Opt+ScPl3:тяст K ;
-тят+V+Aux+Neg+Opt+ScPl1:тязама K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcSg2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcSg3:тязаськ K ;
-тят+V+Aux+Neg+Opt+ScPl1+OcPl3:тязаськ K ;
-тят+V+Aux+Neg+Opt+ScPl2+OcSg1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScPl2+OcPl1:тязамасть K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl1:тязамазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl2:тязадязь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcSg3:тязазь K ;
-тят+V+Aux+Neg+Opt+ScPl3+OcPl3:тязазь K ;
+аф+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь, supletive
+аф+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
+!ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь
+!ашезь+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
+
+аф+V+Aux+Neg+Opt+ScSg1:тязан K ;
+аф+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScSg2:тязат K ;
+аф+V+Aux+Neg+Opt+ScSg2+OcSg3:тязак K ;
+аф+V+Aux+Neg+Opt+ScSg2+OcPl1:тязамасть K ;
+аф+V+Aux+Neg+Opt+ScSg3:тяза K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcSg1:тязамань K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcPl1:тязамазь K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
+аф+V+Aux+Neg+Opt+ScPl3:тяст K ;
+аф+V+Aux+Neg+Opt+ScPl1:тязама K ;
+аф+V+Aux+Neg+Opt+ScPl1+OcSg2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScPl1+OcPl2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScPl1+OcSg3:тязаськ K ;
+аф+V+Aux+Neg+Opt+ScPl1+OcPl3:тязаськ K ;
+аф+V+Aux+Neg+Opt+ScPl2+OcSg1:тязамасть K ;
+аф+V+Aux+Neg+Opt+ScPl2+OcPl1:тязамасть K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcSg1:тязамазь K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcPl1:тязамазь K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcSg2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcPl2:тязадязь K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcSg3:тязазь K ;
+аф+V+Aux+Neg+Opt+ScPl3+OcPl3:тязазь K ;
 
 !
-тят+V+Aux+Proh+ScSg2:тят K ;
-тят+V+Aux+Proh+ScSg2+OcSg1:тямак K ;
-тят+V+Aux+Proh+ScSg2+OcPl1:тямасть K ;
-тят+V+Aux+Proh+ScSg2+OcSg3:тяк K ;
-тят+V+Aux+Proh+ScSg2+OcPl3:тяйть K ;
-тят+V+Aux+Proh+ScPl2:тяда K ;
-тят+V+Aux+Proh+ScPl2+OcSg1:тямасть K ;
-тят+V+Aux+Proh+ScPl2+OcPl1:тямасть K ;
-тят+V+Aux+Proh+ScPl2+OcSg3:тясть K ;
-тят+V+Aux+Proh+ScPl2+OcPl3:тясть K ;
+аф+V+Aux+Proh+ScSg2:тят K ;
+аф+V+Aux+Proh+ScSg2+OcSg1:тямак K ;
+аф+V+Aux+Proh+ScSg2+OcPl1:тямасть K ;
+аф+V+Aux+Proh+ScSg2+OcSg3:тяк K ;
+аф+V+Aux+Proh+ScSg2+OcPl3:тяйть K ;
+аф+V+Aux+Proh+ScPl2:тяда K ;
+аф+V+Aux+Proh+ScPl2+OcSg1:тямасть K ;
+аф+V+Aux+Proh+ScPl2+OcPl1:тямасть K ;
+аф+V+Aux+Proh+ScPl2+OcSg3:тясть K ;
+аф+V+Aux+Proh+ScPl2+OcPl3:тясть K ;
 
 LEXICON V_
 : # ;
@@ -61,7 +73,7 @@ LEXICON V-IMPRT-SG_
 !LEXICON V-IMPRT-PL_
 !+Imprt+ScPl2: K ;
 
-LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ афоль:афоль
+LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 !%^Ь2ZERO
 +Neg+Conj+ScSg1:%>%{ЕОØ%}нь ENDLEX ;
 +Neg+Conj+ScSg1+OcSg2:%>ихтень ENDLEX ;
@@ -213,23 +225,26 @@ LEXICON V0_KUNDAMS
  Non-Finite-Cns ;
 
 LEXICON V0_MUMS
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 :й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
-:	 IND-PRT1-SC3 ; !!= @CODE@ 
-:	 IND-PRT1-ALL-BUT-Sc3 ; !музе
++Use/NG:	 IND-PRT1-SC3 ; !!= @CODE@ 
+:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; !музе
+@R.CONJ.ObjAll@:@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
+@R.CONJ.ObjAll@:@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
 :	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-
-:й	 CONJ-ALL     	;
+!12, 13, 16, 23, 26, 
++Use/NG:й	 CONJ-ALL     	;
 :й	 DES-ALL     	;
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
-:й	 INF_ОМ		; !муемс
++Use/NG:й	 INF_ОМ		; !муемс
 :	 INF_ОМ		; !мумс
 !+ConNeg:е K ; 
 +ConNeg: K ; 
@@ -330,7 +345,6 @@ LEXICON Non-Finite-Cns
 !! !AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
  V-AUX-NEG-PRT1 ;
-+Neg: IND-PRT2-ALL ;
 @P.CONJ.ObjAll@+Neg:@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
 +Neg:%>езь  IND-PRT1-60_Т ;
 +Neg+Ind+Prt1+ScSg1:%>ень # ;
@@ -422,11 +436,15 @@ LEXICON VERB-ZERO-ALL
  VERB-ZERO-SC ;
 
 LEXICON VERB-ZERO-SC
+ VERB-ZERO-SC-40/50 ;
+  VERB-ZERO-SC-REMAINDER ;
+LEXICON VERB-ZERO-SC-40/50
+ VERB-ZERO-40 ;
+ VERB-ZERO-50 ;
+LEXICON VERB-ZERO-SC-REMAINDER
  VERB-ZERO-10 ;
  VERB-ZERO-20 ;
  VERB-ZERO-30 ;
- VERB-ZERO-40 ;
- VERB-ZERO-50 ;
  VERB-ZERO-60 ;
 
 
@@ -475,6 +493,8 @@ LEXICON IND-PRT1-SC3
 
 LEXICON IND-PRT1-ALL-BUT-Sc3
 @R.CONJ.ObjAll@ IND-PRT1-OC ;
+ IND-PRT1-ALL-BUT-Sc3-ONLY-SC ;
+LEXICON IND-PRT1-ALL-BUT-Sc3-ONLY-SC
  IND-PRT1-10 ;
  IND-PRT1-20 ;
  IND-PRT1-40 ;
@@ -482,14 +502,18 @@ LEXICON IND-PRT1-ALL-BUT-Sc3
 
 
 LEXICON IND-PRT1-OC
+ IND-PRT1-OC-12/13/16/23/26 ;
+  IND-PRT1-OC-REMAINDER ;
+LEXICON IND-PRT1-OC-12/13/16/23/26
  IND-PRT1-12 ;
  IND-PRT1-13 ;
- IND-PRT1-15 ;
  IND-PRT1-16 ;
- IND-PRT1-21 ;
  IND-PRT1-23 ;
- IND-PRT1-24 ;
  IND-PRT1-26 ;
+LEXICON IND-PRT1-OC-REMAINDER
+ IND-PRT1-15 ;
+ IND-PRT1-21 ;
+ IND-PRT1-24 ;
  IND-PRT1-31 ;
  IND-PRT1-32 ;
  IND-PRT1-33 ;

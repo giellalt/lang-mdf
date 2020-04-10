@@ -3,9 +3,9 @@ LEXICON Pcle_mdf2x
 
 апак+Pcle:апак PCLE-NEG  "kieltopartikkeli" ;
 аф+Pcle:аф PCLE-NEG  "ei" ;
-афи+Pcle:афи PCLE_  "eikä" ;
-афоли+Adv:афоли ADV_  "kuulemma" ;
-бди+Adv:бъди ADV_  "ehkä" ;
+афи+Pcle:афи PCLE-NEG-CONTRAST  "eikä" ;
+афоли+Pcle:афоли PCLE_  "kuulemma" ;
+бди+Pcle:бъди PCLE_  "ehkä" ;
 бльшем+Pcle:бльшем PCLE_  "" ;
 вдь+Pcle:въдь PCLE_  "" ;
 виде+Pcle:виде PCLE_  "totta" ;
@@ -18,19 +18,19 @@ LEXICON Pcle_mdf2x
 жо+Pcle:жо PCLE_  "" ;
 и+Pcle:и PCLE_  "ja" ;
 ина+Pcle:ина PCLE_  "siis" ;
-инь+Adv:инь ADV_  "superlatiivin apusana" ;
-кати+Adv:кати ADV_  "kenties" ;
+инь+Pcle:инь PCLE_  "superlatiivin apusana" ;
+кати+Pcle:кати PCLE_  "kenties" ;
 катк+Pcle:катк PCLE_  "imperatiivinen partikkeli" ;
 кепшт+Pcle:кепшт PCLE_  "" ;
 кле+Pcle:кле PCLE_  "" ;
 клёк+Pcle:клёк PCLE_  "ihan" ;
 конешна+Pcle:конешна PCLE_  "tietysti" ;
 мле+Pcle:мле PCLE_  "" ;
-можботь+Adv:можботь ADV_  "" ;
+можботь+Pcle:можботь PCLE_  "" ;
 может+Pcle:может PCLE_  "" ;
-мяк+Adv:мяк ADV_  "jopa" ;
+мяк+Pcle:мяк PCLE_  "jopa" ;
 мяле+Pcle:мяле PCLE_  "" ;
-мянь+Adv:мянь ADV_  "vieläpä" ;
+мянь+Pcle:мянь PCLE_  "vieläpä" ;
 мярьк+Pcle:мярьк PCLE_  "" ;
 най+Pcle:най PCLE_  "aina" ;
 начас+Pcle:начас PCLE_  "ehkä" ;
