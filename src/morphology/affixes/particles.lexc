@@ -22,8 +22,8 @@ LEXICON PCLE-EPIST
 LEXICON PCLE-NEG
 +Neg: # ;
 
-!LEXICON Pcle-Neg-Contrast
-!+Neg+Intensive: # ;
+LEXICON PCLE-NEG-CONTRAST
++Neg+Emphatic: # ;
 
 LEXICON PCLE-SUPERL
 +Superl: # ;

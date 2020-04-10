@@ -23,7 +23,7 @@ LEXICON ADV-INTERR-ITER
 
 
 LEXICON ADV-TEMP_ 	!!= @CODE@ 
-+Temp: K ;
++Sem/Time: K ;
 
 
 LEXICON GER_
@@ -35,10 +35,6 @@ LEXICON ADV-SPAT_
 LEXICON ADV-LOC_
 +Loc: K ;
 
-
-!!Temporal tags with cases
-!LEXICON TempTag
-!+Temp: K ;
 
 LEXICON ADV-NEG_АЯШ !! Contrastive
 +Neg+Aux: # ;
