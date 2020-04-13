@@ -17956,6 +17956,9 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">already</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">jo</t>
      </tg>
@@ -18181,8 +18184,14 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">still</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">vielä</t>
+     </tg>
+     <tg xml:lang="myv">
+       <t pos="Adv">нейгак</t>
      </tg>
      <defNative/>
      <xg>
@@ -30125,8 +30134,14 @@
    <mg relId="0">
      <semantics>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">now</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Adv">nyt</t>
+     </tg>
+     <tg xml:lang="myv">
+       <t pos="Adv">ней</t>
      </tg>
      <defNative/>
      <xg>
@@ -30419,7 +30434,7 @@
    <lg>
      <l pos="Adv">тячикиге</l>
      <stg>
-       <st Contlex="ADV_">тячикиге</st>
+       <st Contlex="ADV-TEMP_">тячикиге</st>
      </stg> <phonet>ťäčikigä</phonet>
    </lg>
      <sources>
@@ -30437,7 +30452,7 @@
    <lg>
      <l pos="Adv">тяшкава</l>
      <stg>
-       <st Contlex="ADV_">тяшкава</st>
+       <st Contlex="ADV-TEMP_">тяшкава</st>
      </stg> <phonet>ťäškava</phonet>
    </lg>
      <sources>
@@ -30457,7 +30472,7 @@
    <lg>
      <l pos="Adv">тяшкада</l>
      <stg>
-       <st Contlex="ADV_">тяшкада</st>
+       <st Contlex="ADV-TEMP_">тяшкада</st>
      </stg> <phonet>ťäškada</phonet>
    </lg>
      <sources>
@@ -30475,7 +30490,7 @@
    <lg>
      <l pos="Adv">тяшканя</l>
      <stg>
-       <st Contlex="ADV_">тяшканя</st>
+       <st Contlex="ADV-TEMP_">тяшканя</st>
      </stg>
    </lg>
      <sources>
@@ -30493,7 +30508,7 @@
    <lg>
      <l pos="Adv">тяшкас</l>
      <stg>
-       <st Contlex="ADV_">тяшкас</st>
+       <st Contlex="ADV-TEMP_">тяшкас</st>
      </stg>
    </lg>
      <sources>

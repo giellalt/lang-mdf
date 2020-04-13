@@ -225,6 +225,9 @@ LEXICON V0_KUNDAMS
  Non-Finite-Cns ;
 
 LEXICON V0_MUMS
+!!€gt-norm: MUMS
+!!€ мумс: мумс+V+TV+Inf
+!!€ муйхтень: мумс+V+TV+Ind+Prt1+ScSg1+OcSg2
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
@@ -233,6 +236,7 @@ LEXICON V0_MUMS
 :й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
 +Use/NG:	 IND-PRT1-SC3 ; !!= @CODE@ 
 :	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; !музе
+!муйхтень
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
 :	 IND-PRT2-ALL ; 
@@ -792,7 +796,7 @@ LEXICON IND-PRT1-10
 
 LEXICON IND-PRT1-12
 @U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.12@+Ind+Prt1+ScSg1+OcSg2:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.12@%>%{ИЫЙ%}хтень VerbEnd ;
-
+!муйхтень
 LEXICON IND-PRT1-13
 @U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.13@+Ind+Prt1+ScSg1+OcSg3:@U.CONJ-MX.IND@@U.CONJ-TX.PRT1@@U.CONJ-PX.13@%>%{ИЫЙ%}не VerbEnd ;
 
