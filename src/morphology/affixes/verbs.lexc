@@ -228,15 +228,18 @@ LEXICON V0_MUMS
 !!€gt-norm: MUMS
 !!€ мумс: мумс+V+TV+Inf
 !!€ муйхтень: мумс+V+TV+Ind+Prt1+ScSg1+OcSg2
+!!€ музе: мумс+V+TV+Ind+Prt1+ScSg3+OcSg3
+!!€ мусь: мумс+V+TV+Ind+Prt1+ScSg3
+!!€ мулезе: мумс+V+TV+Conj+ScSg3+OcSg3
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
-+Use/NG:	 IND-PRT1-SC3 ; !!= @CODE@ 
-:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; !музе
-!муйхтень
++Use/NG:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
+:	 IND-PRT1-SC3 ; !!= @CODE@ 
+:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; 
+
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
 :	 IND-PRT2-ALL ; 
@@ -244,6 +247,7 @@ LEXICON V0_MUMS
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
 !12, 13, 16, 23, 26, 
 +Use/NG:й	 CONJ-ALL     	;
+:	 CONJ-ALL     	;
 :й	 DES-ALL     	;
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
