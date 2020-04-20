@@ -13,7 +13,7 @@ JSP_PAGES=root-morphology.jspwiki  \
 		  pronouns-affixes.jspwiki      \
 		  propernouns-affixes.jspwiki      \
 		  verbs-affixes.jspwiki \
-		  mdf-phon-phonology.jspwiki 
+		  phonology-morphology.jspwiki 
 # clitics-morphology.jspwiki       \
 # compounding-morphology.jspwiki   \
 # abbreviations-stems.jspwiki      \
