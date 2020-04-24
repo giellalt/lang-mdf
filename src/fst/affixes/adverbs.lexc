@@ -55,12 +55,29 @@ LEXICON ADV-ABL_ ! алда:алд%{АО%}
 +Abl: K_вок ;
 LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 +Ela: K_вок ;
+LEXICON ADV-ILL_ ! лангс:лангс
++Ill: K_вок ;
 LEXICON ADV-INE_ ! лангса:лангс%{АО%}
 +Ine: K_вок ;
 LEXICON ADV-LAT_ ! алга:алу
 +Lat: K_вок ;
 LEXICON ADV-PRL_ ! алга:алга
 +Prl: K_вок ;
+
+LEXICON ADV-INDEF_ ! 
++Indef: K_вок ;
+LEXICON ADV-INDEF-DAT_ !
++Indef+Dat: K_вок ;
+LEXICON ADV-INDEF-ELA_ !
++Indef+Ela: K_вок ;
+LEXICON ADV-INDEF-ILL_ ! лангс:лангс
++Indef+Ill: K_вок ;
+LEXICON ADV-INDEF-INE_ ! лангса:лангс%{АО%}
++Indef+Ine: K_вок ;
+LEXICON ADV-INDEF-LAT_ ! алга:алу
++Indef+Lat: K_вок ;
+LEXICON ADV-INDEF-TEMP_ ! алга:алга
++Indef+Prl: K_вок ;
 
 !LEXICON ADV-ABL-PXSG1
 !+Abl+PxSg1: K_ГА ;

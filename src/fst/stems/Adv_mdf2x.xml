@@ -542,7 +542,7 @@
    <lg>
      <l pos="Adv">алуда</l>
      <stg>
-       <st Contlex="ADV_">алуда</st>
+       <st Contlex="ADV-ABL_">алуда</st>
      </stg> <phonet>aluda</phonet>
    </lg>
      <sources>
@@ -675,7 +675,7 @@
    <lg>
      <l pos="Adv">анокскиге</l>
      <stg>
-       <st Contlex="ADV_">анокскиге</st>
+       <st Contlex="ADV-TEMP_">анокскиге</st>
      </stg>
    </lg>
      <sources>
@@ -2622,7 +2622,7 @@
    <lg>
      <l pos="Adv">васенда</l>
      <stg>
-       <st Contlex="ADV_">васенда</st>
+       <st Contlex="ADV-TEMP_">васенда</st>
      </stg> <phonet>vaśənda</phonet>
    </lg>
      <sources>
@@ -2645,7 +2645,7 @@
    <lg>
      <l pos="Adv">васендакиге</l>
      <stg>
-       <st Contlex="ADV_">васендакиге</st>
+       <st Contlex="ADV-TEMP_">васендакиге</st>
      </stg> <phonet>vaśəndakigä</phonet>
    </lg>
      <sources>
@@ -2664,7 +2664,7 @@
    <lg>
      <l pos="Adv">васенцеда</l>
      <stg>
-       <st Contlex="ADV_">васенцеда</st>
+       <st Contlex="ADV-TEMP_">васенцеда</st>
      </stg>
    </lg>
      <sources>
@@ -3292,7 +3292,7 @@
    <lg>
      <l pos="Adv">вейхксоцеда</l>
      <stg>
-       <st Contlex="ADV_">вейхксоцеда</st>
+       <st Contlex="ADV-TEMP_">вейхксоцеда</st>
      </stg>
    </lg>
      <sources>
@@ -3691,7 +3691,7 @@
    <lg>
      <l pos="Adv" type="mwe">вень кучкада</l>
      <stg>
-       <st Contlex="ADV_">вень кучкада</st>
+       <st Contlex="ADV-TEMP_">вень кучкада</st>
      </stg> <phonet>veń gučkada</phonet>
    </lg>
      <sources>
@@ -3917,7 +3917,7 @@
    <lg>
      <l pos="Adv">вестевок</l>
      <stg>
-       <st Contlex="ADV_">вестевок</st>
+       <st Contlex="ADV-TEMP_">вестевок</st>
      </stg>
    </lg>
      <sources>
@@ -3936,7 +3936,7 @@
    <lg>
      <l pos="Adv">вестевок аф</l>
      <stg>
-       <st Contlex="ADV_">вестевок аф</st>
+       <st Contlex="ADV-TEMP_">вестевок аф</st>
      </stg> <phonet>veśťəvək af</phonet>
    </lg>
      <sources>
@@ -3954,7 +3954,7 @@
    <lg>
      <l pos="Adv">вестеньге</l>
      <stg>
-       <st Contlex="ADV_">вестеньге</st>
+       <st Contlex="ADV-TEMP_">вестеньге</st>
      </stg>
    </lg>
      <sources>
@@ -4182,7 +4182,7 @@
    <lg>
      <l pos="Adv">ветецеда</l>
      <stg>
-       <st Contlex="ADV_">ветецеда</st>
+       <st Contlex="ADV-TEMP_">ветецеда</st>
      </stg>
    </lg>
      <sources>
@@ -4685,7 +4685,7 @@
    <lg>
      <l pos="Adv">вирьге-шяйге</l>
      <stg>
-       <st Contlex="ADV_">вирьге-шяйге</st>
+       <st Contlex="ADV-PRL_">вирьге-шяйге</st>
      </stg>
    </lg>
      <sources>
@@ -5334,7 +5334,7 @@
    <lg>
      <l pos="Adv">гайколда</l>
      <stg>
-       <st Contlex="ADV_">гайколда</st>
+       <st Contlex="ADV-ABL_">гайколда</st>
      </stg>
    </lg>
      <sources>
@@ -5395,7 +5395,7 @@
    <lg>
      <l pos="Adv">гайтолда</l>
      <stg>
-       <st Contlex="ADV_">гайтолда</st>
+       <st Contlex="ADV-ABL_">гайтолда</st>
      </stg>
    </lg>
      <sources>
@@ -7736,7 +7736,7 @@
    <lg>
      <l pos="Adv">илядыцеда</l>
      <stg>
-       <st Contlex="ADV_">илядыцеда</st>
+       <st Contlex="ADV-TEMP_">илядыцеда</st>
      </stg>
    </lg>
      <sources>
@@ -7897,7 +7897,7 @@
    <lg>
      <l pos="Adv">илятькиге</l>
      <stg>
-       <st Contlex="ADV_">илятькиге</st>
+       <st Contlex="ADV-TEMP_">илятькиге</st>
      </stg> <phonet>iľäťkigä</phonet>
    </lg>
      <sources>
@@ -7948,11 +7948,11 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst" meta="" id="None">
+<e meta="" id="None">
    <lg>
      <l pos="Adv" type="mwe">ингольге</l>
      <stg>
-       <st>ингольге</st>
+       <st Contlex="ADV-PRL_">ингольге</st>
      </stg> <phonet>iŋgəľgä</phonet>
        <l_ref>инголь</l_ref>
    </lg>
@@ -7988,7 +7988,7 @@
    <lg>
      <l pos="Adv">инголькиге</l>
      <stg>
-       <st Contlex="ADV_">инголькиге</st>
+       <st Contlex="ADV-TEMP_">инголькиге</st>
      </stg> <phonet>iŋgəľkiģä</phonet>
    </lg>
      <sources>
@@ -8164,7 +8164,7 @@
    <lg>
      <l pos="Adv">ичкозде-ичкозде</l>
      <stg>
-       <st Contlex="ADV_">ичкозде-ичкозде</st>
+       <st Contlex="ADV-ABL_">ичкозде-ичкозде</st>
      </stg>
    </lg>
      <sources>
@@ -8182,7 +8182,7 @@
    <lg>
      <l pos="Adv">ичкозе</l>
      <stg>
-       <st Contlex="ADV_">ичкозе</st>
+       <st Contlex="ADV-LOC_">ичкозе</st>
      </stg> <phonet>ičkəźä</phonet>
    </lg>
      <sources>
@@ -8240,7 +8240,7 @@
    <lg>
      <l pos="Adv">ичкози</l>
      <stg>
-       <st Contlex="ADV_">ичкози</st>
+       <st Contlex="ADV-LAT_">ичкози</st>
      </stg>
    </lg>
      <sources>
@@ -8259,7 +8259,7 @@
    <lg>
      <l pos="Adv">ичкозьге</l>
      <stg>
-       <st Contlex="ADV_">ичкозьге</st>
+       <st Contlex="ADV-PRL_">ичкозьге</st>
      </stg>
    </lg>
      <sources>
@@ -8372,7 +8372,7 @@
    <lg>
      <l pos="Adv">кайста</l>
      <stg>
-       <st Contlex="ADV_">кайста</st>
+       <st Contlex="ADV-ELA_">кайста</st>
      </stg>
    </lg>
      <sources>
@@ -8391,7 +8391,7 @@
    <lg>
      <l pos="Adv">кайтваня</l>
      <stg>
-       <st Contlex="ADV_">кайтваня</st>
+       <st Contlex="ADV-PRL_">кайтваня</st>
      </stg>
    </lg>
      <sources>
@@ -8432,7 +8432,7 @@
    <lg>
      <l pos="Adv">кайтса</l>
      <stg>
-       <st Contlex="ADV_">кайтса</st>
+       <st Contlex="ADV-INE_">кайтса</st>
      </stg> <phonet>kajca</phonet>
    </lg>
      <sources>
@@ -8451,7 +8451,7 @@
    <lg>
      <l pos="Adv">кайту</l>
      <stg>
-       <st Contlex="ADV_">кайту</st>
+       <st Contlex="ADV-LAT_">кайту</st>
      </stg> <phonet>kajtu</phonet>
    </lg>
      <sources>
@@ -8675,7 +8675,7 @@
    <lg>
      <l pos="Adv">каршева</l>
      <stg>
-       <st Contlex="ADV_">каршева</st>
+       <st Contlex="ADV-PRL_">каршева</st>
      </stg>
    </lg>
      <sources>
@@ -8721,7 +8721,7 @@
    <lg>
      <l pos="Adv">каршес</l>
      <stg>
-       <st Contlex="ADV_">каршес</st>
+       <st Contlex="ADV-ILL_">каршес</st>
      </stg>
    </lg>
      <sources>
@@ -8740,7 +8740,7 @@
    <lg>
      <l pos="Adv" type="mwe">каршеса</l>
      <stg>
-       <st Contlex="ADV_">каршеса</st>
+       <st Contlex="ADV-INE_">каршеса</st>
      </stg> <phonet>karšəsa</phonet>
        <l_ref>карша</l_ref>
    </lg>
@@ -8803,7 +8803,7 @@
    <lg>
      <l pos="Adv">кати-ков</l>
      <stg>
-       <st Contlex="ADV_">кати-ков</st>
+       <st Contlex="ADV-INDEF-LAT_">кати-ков</st>
      </stg> <phonet>kaťi-kov</phonet>
    </lg>
      <sources>
@@ -8822,7 +8822,7 @@
    <lg>
      <l pos="Adv">кати-коса</l>
      <stg>
-       <st Contlex="ADV_">кати-коса</st>
+       <st Contlex="ADV-INDEF-INE_">кати-коса</st>
      </stg> <phonet>kaťi-kosa</phonet>
    </lg>
      <sources>
@@ -8840,7 +8840,7 @@
    <lg>
      <l pos="Adv">кати-коста</l>
      <stg>
-       <st Contlex="ADV_">кати-коста</st>
+       <st Contlex="ADV-INDEF-ELA_">кати-коста</st>
      </stg> <phonet>kaťi-kosta</phonet>
    </lg>
      <sources>
@@ -8858,7 +8858,7 @@
    <lg>
      <l pos="Adv">кати-мезенди</l>
      <stg>
-       <st Contlex="ADV_">кати-мезенди</st>
+       <st Contlex="ADV-INDEF-DAT_">кати-мезенди</st>
      </stg> <phonet>kaťi-meźəńďi</phonet>
    </lg>
      <sources>
@@ -8876,7 +8876,7 @@
    <lg>
      <l pos="Adv">кати-менди</l>
      <stg>
-       <st Contlex="ADV_">кати-менди</st>
+       <st Contlex="ADV-INDEF-DAT_">кати-менди</st>
      </stg>
    </lg>
      <sources>
@@ -8894,7 +8894,7 @@
    <lg>
      <l pos="Adv">кати-мес</l>
      <stg>
-       <st Contlex="ADV_">кати-мес</st>
+       <st Contlex="ADV-INDEF_">кати-мес</st>
      </stg> <phonet>kaťi-mes/-mäs</phonet>
    </lg>
      <sources>
@@ -8912,7 +8912,7 @@
    <lg>
      <l pos="Adv">кати-местема</l>
      <stg>
-       <st Contlex="ADV_">кати-местема</st>
+       <st Contlex="ADV-INDEF_">кати-местема</st>
      </stg> <phonet>kaťi-meśťəma</phonet>
    </lg>
      <sources>
@@ -8930,7 +8930,7 @@
    <lg>
      <l pos="Adv">кати-мзяра</l>
      <stg>
-       <st Contlex="ADV_">кати-мъзяра</st>
+       <st Contlex="ADV-INDEF_">кати-мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -8948,7 +8948,7 @@
    <lg>
      <l pos="Adv">кати-мзярда</l>
      <stg>
-       <st Contlex="ADV-TEMP_">кати-мъзярда</st>
+       <st Contlex="ADV-INDEF-TEMP_">кати-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -9736,7 +9736,7 @@
    <lg>
      <l pos="Adv">кеменьга</l>
      <stg>
-       <st Contlex="ADV_">кеменьга</st>
+       <st Contlex="ADV-PRL_">кеменьга</st>
      </stg>
    </lg>
      <sources>
@@ -9911,7 +9911,7 @@
    <lg>
      <l pos="Adv">кержипяльде</l>
      <stg>
-       <st Contlex="ADV_">кержипяльде</st>
+       <st Contlex="ADV-ABL_">кержипяльде</st>
      </stg>
    </lg>
      <sources>
@@ -10024,7 +10024,7 @@
    <lg>
      <l pos="Adv">кизонда</l>
      <stg>
-       <st Contlex="ADV_">кизонда</st>
+       <st Contlex="ADV-TEMP_">кизонда</st>
      </stg>
    </lg>
      <sources>
@@ -10524,7 +10524,7 @@
    <lg>
      <l pos="Adv">ковга</l>
      <stg>
-       <st Contlex="ADV_">ковга</st>
+       <st Contlex="ADV-INDEF-LAT_">ковга</st>
      </stg>
    </lg>
      <sources>
@@ -10543,7 +10543,7 @@
    <lg>
      <l pos="Adv">коволда</l>
      <stg>
-       <st Contlex="ADV_">коволда</st>
+       <st Contlex="ADV-ABL_">коволда</st>
      </stg> <phonet>kovəlda</phonet>
    </lg>
      <sources>
@@ -10587,7 +10587,7 @@
    <lg>
      <l pos="Adv">ковонга</l>
      <stg>
-       <st Contlex="ADV_">ковонга</st>
+       <st Contlex="ADV-INDEF-LAT_">ковонга</st>
      </stg>
    </lg>
      <sources>
@@ -10829,7 +10829,7 @@
    <lg>
      <l pos="Adv">козовок</l>
      <stg>
-       <st Contlex="ADV_">козовок</st>
+       <st Contlex="ADV-INDEF-ILL_">козовок</st>
      </stg>
    </lg>
      <sources>
@@ -10848,7 +10848,7 @@
    <lg>
      <l pos="Adv">козонга</l>
      <stg>
-       <st Contlex="ADV_">козонга</st>
+       <st Contlex="ADV-INDEF-ILL_">козонга</st>
      </stg>
    </lg>
      <sources>
@@ -10981,7 +10981,7 @@
    <lg>
      <l pos="Adv">кой-мзярда</l>
      <stg>
-       <st Contlex="ADV-TEMP_">кой-мъзярда</st>
+       <st Contlex="ADV-INDEF-TEMP_">кой-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -11267,7 +11267,7 @@
    <lg>
      <l pos="Adv">колмоцеда</l>
      <stg>
-       <st Contlex="ADV_">колмоцеда</st>
+       <st Contlex="ADV-TEMP_">колмоцеда</st>
      </stg>
    </lg>
      <sources>
@@ -11803,7 +11803,7 @@
    <lg>
      <l pos="Adv">косонга</l>
      <stg>
-       <st Contlex="ADV_">косонга</st>
+       <st Contlex="ADV-INDEF-INE_">косонга</st>
      </stg>
    </lg>
      <sources>
@@ -11868,7 +11868,7 @@
    <lg>
      <l pos="Adv">костонга</l>
      <stg>
-       <st Contlex="ADV_">костонга</st>
+       <st Contlex="ADV-INDEF-INE_">костонга</st>
      </stg>
    </lg>
      <sources>
@@ -12667,7 +12667,7 @@
    <lg>
      <l pos="Adv">кунаркиге</l>
      <stg>
-       <st Contlex="ADV_">кунаркиге</st>
+       <st Contlex="ADV-TEMP_">кунаркиге</st>
      </stg> <phonet>kunarkigä</phonet>
    </lg>
      <sources>
@@ -13055,7 +13055,7 @@
    <lg>
      <l pos="Adv">кядялда</l>
      <stg>
-       <st Contlex="ADV_">кядялда</st>
+       <st Contlex="ADV-ABL_">кядялда</st>
      </stg>
    </lg>
      <sources>
@@ -13774,7 +13774,7 @@
    <lg>
      <l pos="Adv">ламода</l>
      <stg>
-       <st Contlex="ADV_">ламода</st>
+       <st Contlex="ADV-ABL_">ламода</st>
      </stg>
    </lg>
      <sources>
@@ -13907,7 +13907,7 @@
    <lg>
      <l pos="Adv">ламошкада</l>
      <stg>
-       <st Contlex="ADV_">ламошкада</st>
+       <st Contlex="ADV-ABL_">ламошкада</st>
      </stg>
    </lg>
      <sources>
@@ -14042,31 +14042,6 @@
        <x>аш лангсост, аш пильгсост</x> <phonet>aš laŋksəst aš piľksəst</phonet>
        <xt xml:lang="fin">heillä ei ole vaatetta</xt>
      </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <map/>
-   <lg>
-     <l pos="Adv">лангста</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="ADV-ELA_">лангста</st>
-     </stg> <compg> </compg> <phonet>laŋksta</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">päältä</t>
-       <t pos="A">päällys-</t>
-       <t pos="A">-lta</t>
-       <t pos="A">päällys-</t>
-     </tg>
-     <xg/>
-     <defNative>null</defNative>
    </mg>
 </e>
 <e exclude="fst" meta="" id="None">
@@ -14650,7 +14625,7 @@
    <lg>
      <l pos="Adv">лов ланга</l>
      <stg>
-       <st Contlex="ADV_">лов ланга</st>
+       <st Contlex="ADV-PRL_">лов ланга</st>
      </stg>
    </lg>
      <sources>
@@ -14806,7 +14781,7 @@
    <lg>
      <l pos="Adv">лунга-ланга</l>
      <stg>
-       <st Contlex="ADV_">лунга-ланга</st>
+       <st Contlex="ADV-PRL_">лунга-ланга</st>
      </stg>
    </lg>
      <sources>
@@ -15828,7 +15803,7 @@
    <lg>
      <l pos="Adv">мекольцеда</l>
      <stg>
-       <st Contlex="ADV_">мекольцеда</st>
+       <st Contlex="ADV-TEMP_">мекольцеда</st>
      </stg>
    </lg>
      <sources>
@@ -16447,7 +16422,7 @@
    <lg>
      <l pos="Adv">мзярда аф мзярда</l>
      <stg>
-       <st Contlex="ADV_">мъзярда аф мъзярда</st>
+       <st Contlex="ADV-TEMP_">мъзярда аф мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -16498,7 +16473,7 @@
    <lg>
      <l pos="Adv">мзярдовок</l>
      <stg>
-       <st Contlex="ADV-TEMP_">мъзярдовок</st>
+       <st Contlex="ADV-INDEF-TEMP_">мъзярдовок</st>
      </stg>
    </lg>
      <sources>
@@ -16518,7 +16493,7 @@
    <lg>
      <l pos="Adv">мзярдонга</l>
      <stg>
-       <st Contlex="ADV_">мъзярдонга</st>
+       <st Contlex="ADV-INDEF-TEMP_">мъзярдонга</st>
      </stg>
    </lg>
      <sources>
@@ -16622,7 +16597,7 @@
    <lg>
      <l pos="Adv">мзяровок</l>
      <stg>
-       <st Contlex="ADV_">мъзяровок</st>
+       <st Contlex="ADV-INDEF_">мъзяровок</st>
      </stg>
    </lg>
      <sources>
@@ -16640,7 +16615,7 @@
    <lg>
      <l pos="Adv">мзярода</l>
      <stg>
-       <st Contlex="ADV_">мъзярода</st>
+       <st Contlex="ADV-ABL_">мъзярода</st>
      </stg>
    </lg>
      <sources>
@@ -16683,7 +16658,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="PRON_">мъзяроцеда</st>
+       <st Contlex="ADV-TEMP_">мъзяроцеда</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -16742,7 +16717,7 @@
    <lg>
      <l pos="Adv">мзярошкавок</l>
      <stg>
-       <st Contlex="ADV_">мъзярошкавок</st>
+       <st Contlex="ADV-INDEF_">мъзярошкавок</st>
      </stg>
    </lg>
      <sources>
@@ -16761,7 +16736,7 @@
    <lg>
      <l pos="Adv">мзярошкада</l>
      <stg>
-       <st Contlex="ADV_">мъзярошкада</st>
+       <st Contlex="ADV-ABL_">мъзярошкада</st>
      </stg>
    </lg>
      <sources>
@@ -16989,7 +16964,7 @@
    <lg>
      <l pos="Adv">миярдовок</l>
      <stg>
-       <st Contlex="ADV_">миярдовок</st>
+       <st Contlex="ADV-INDEF-TEMP_">миярдовок</st>
      </stg>
    </lg>
      <sources>
@@ -18084,7 +18059,7 @@
    <lg>
      <l pos="Adv">нилень крда</l>
      <stg>
-       <st Contlex="ADV-TEMP_">нилень кърда</st>
+       <st Contlex="ADV_">нилень кърда</st>
      </stg>
    </lg>
      <sources>
@@ -18627,7 +18602,7 @@
    <lg>
      <l pos="Adv">обедшкада</l>
      <stg>
-       <st Contlex="ADV_">обедшкада</st>
+       <st Contlex="ADV-TEMP_">обедшкада</st>
      </stg>
    </lg>
      <sources>
@@ -18797,7 +18772,7 @@
    <lg>
      <l pos="Adv">однястокиге</l>
      <stg>
-       <st Contlex="ADV_">однястокиге</st>
+       <st Contlex="ADV-TEMP_">однястокиге</st>
      </stg>
    </lg>
      <sources>
@@ -19041,7 +19016,7 @@
    <lg>
      <l pos="Adv">омбоцеда</l>
      <stg>
-       <st Contlex="ADV_">омбоцеда</st>
+       <st Contlex="ADV-TEMP_">омбоцеда</st>
      </stg>
    </lg>
      <sources>
@@ -19240,7 +19215,7 @@
    <lg>
      <l pos="Adv">остаткада</l>
      <stg>
-       <st Contlex="ADV_">остаткада</st>
+       <st Contlex="ADV-TEMP_">остаткада</st>
      </stg>
    </lg>
      <sources>
@@ -22624,7 +22599,7 @@
    <lg>
      <l pos="Adv">ранакиге</l>
      <stg>
-       <st Contlex="ADV_">ранакиге</st>
+       <st Contlex="ADV-TEMP_">ранакиге</st>
      </stg> <phonet>ranakigä</phonet>
    </lg>
      <sources>
@@ -26779,7 +26754,7 @@
    <lg>
      <l pos="Adv">сядонга</l>
      <stg>
-       <st Contlex="ADV_">сядонга</st>
+       <st Contlex="ADV-DEG_">сядонга</st>
      </stg>
    </lg>
      <sources>
@@ -27313,7 +27288,7 @@
    <lg>
      <l pos="Adv">сёксенда</l>
      <stg>
-       <st Contlex="ADV_">сёксенда</st>
+       <st Contlex="ADV-TEMP_">сёксенда</st>
      </stg>
    </lg>
      <sources>
@@ -27478,7 +27453,7 @@
    <lg>
      <l pos="Adv">тага</l>
      <stg>
-       <st Contlex="ADV_">тага</st>
+       <st Contlex="ADV-TEMP_">тага</st>
      </stg> <phonet>taga, taŋga</phonet>
    </lg>
      <sources>
@@ -27653,7 +27628,7 @@
    <lg>
      <l pos="Adv">танга</l>
      <stg>
-       <st Contlex="ADV_">танга</st>
+       <st Contlex="ADV-TEMP_">танга</st>
      </stg>
    </lg>
      <sources>
@@ -28042,7 +28017,7 @@
    <lg>
      <l pos="Adv">тейге</l>
      <stg>
-       <st Contlex="ADV_">тейге</st>
+       <st Contlex="ADV-PRL_">тейге</st>
      </stg> <phonet>ťejgä</phonet>
    </lg>
      <sources>
@@ -28850,7 +28825,7 @@
    <lg>
      <l pos="Adv">толда</l>
      <stg>
-       <st Contlex="ADV_">толда</st>
+       <st Contlex="ADV-ABL_">толда</st>
      </stg>
    </lg>
      <sources>
@@ -29120,7 +29095,7 @@
    <lg>
      <l pos="Adv">тосонга</l>
      <stg>
-       <st Contlex="ADV-INE_">тосонга</st>
+       <st Contlex="ADV-INDEF-INE_">тосонга</st>
      </stg>
    </lg>
      <sources>
@@ -30166,7 +30141,7 @@
    <lg>
      <l pos="Adv">тяникиге</l>
      <stg>
-       <st Contlex="ADV_">тяникиге</st>
+       <st Contlex="ADV-TEMP_">тяникиге</st>
      </stg> <phonet>ťäńikigä</phonet>
    </lg>
      <sources>
@@ -30564,7 +30539,7 @@
    <lg>
      <l pos="Adv">тёжянцеда</l>
      <stg>
-       <st Contlex="ADV_">тёжянцеда</st>
+       <st Contlex="ADV-TEMP_">тёжянцеда</st>
      </stg>
    </lg>
      <sources>
@@ -33007,7 +32982,7 @@
    <lg>
      <l pos="Adv">шинькучкада</l>
      <stg>
-       <st Contlex="ADV_">шинькучкада</st>
+       <st Contlex="ADV-TEMP_">шинькучкада</st>
      </stg>
    </lg>
      <sources>
@@ -33172,7 +33147,7 @@
    <lg>
      <l pos="Adv">ширьге</l>
      <stg>
-       <st Contlex="ADV_">ширьге</st>
+       <st Contlex="ADV-PRL_">ширьге</st>
      </stg> <phonet>šiŕgä</phonet>
    </lg>
      <sources>
@@ -34391,7 +34366,7 @@
    <lg>
      <l pos="Adv">эзькиге</l>
      <stg>
-       <st Contlex="ADV_">эзькиге</st>
+       <st Contlex="ADV-TEMP_">эзькиге</st>
      </stg>
    </lg>
      <sources>
@@ -35622,7 +35597,7 @@
    <lg>
      <l pos="Adv">ёмластокиге</l>
      <stg>
-       <st Contlex="ADV_">ёмластокиге</st>
+       <st Contlex="ADV-TEMP_">ёмластокиге</st>
      </stg>
    </lg>
      <sources>
