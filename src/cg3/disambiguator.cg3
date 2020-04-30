@@ -348,6 +348,8 @@ SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
 
 REMOVE Der/MWN ; # If any other reading is possible.
 
+REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;
+
 # кой-кона валхнень азондозень
 REMOVE Der/Onj IF (NOT 1 N) ;
 
