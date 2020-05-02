@@ -21,6 +21,7 @@ Alphabet !!≈!!The base @CODE@
 !Ь2:ь !
 Ь2:0 !
  %{ЬØ%}:0	!!= @CODE@ after imperative Sg2
+ %{ЬØ%}:ь	!!= @CODE@ after imperative Sg2
 ! verbal stem consonant that appear in PretI Sg3
 !Т1:0 !
  %{ВИУ%}:в       !!= @CODE@ lative
@@ -690,15 +691,27 @@ Vx:0 <=>
 !!€ ям%>%{Х%}т%{ЬØ%}
 !!€ яп%>0т0
 
-"в:ф ям"
+"в:ф кев"
 !! __@RULENAME@__  
 в:ф <=> _  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
 !!€ кев%>%{Х%}т%{ЬØ%}
 !!€ кеф%>0т0
 
+"б:п сруб"
+!! __@RULENAME@__  
+б:п <=> _  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
+!!€ сруб%>%{Х%}т%{ЬØ%}
+!!€ сруп%>0т0
+
 "н:т окун"
 !! __@RULENAME@__  
-н:т <=> _  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
+н:т <=> _  ( ь: ) %> %{Х%}:  т:   ;
+ _   ( ь: ) %> %{Х%}:  %{КТ%}:   ;
+!_  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
+!!€ ван%>%{Х%}%{КТ%}{ЬØ}
+!!€ ват%>0т0
+!!€ пань%>%{Х%}%{КТ%}{ЬØ}
+!!€ пат0%>0ть
 
 !2016.QQ
 !Ablative d/t
@@ -862,13 +875,13 @@ Vx:0 <=>
 !! !imperative suffix
 "К1 %{КТ%}:t left"
 !! __@RULENAME@__  
- %{КТ%}:т <= [ Vow н: | CnsVoiceless ] ( ь: ) %> (%{Х%}:) _  ;
+ %{КТ%}:т <= [ Vow н: | CnsVoiceless |CnsVoiced: - г:] ( ь: ) %> (%{Х%}:) _  ;
 !!€ пань%>%{КТ%}%{ЬØ%}
 !!€ пан0%>ть
 
 "К1 %{КТ%}:t right"
 !! __@RULENAME@__  
- %{КТ%}:т =>  [ н: | CnsVoiceless | д: ] ( ь: ) %> (%{Х%}:) _  ;
+ %{КТ%}:т =>  [ н: | CnsVoiceless |CnsVoiced: - г:| д: ] ( ь: ) %> (%{Х%}:) _  ;
 !!€ канд>%{Х%}%{КТ%}%{ЬØ%}
 !!€ кант00т0
 !!€ пань%>%{КТ%}%{ЬØ%}
@@ -900,7 +913,22 @@ Vx:0 <=>
 ! Suffix final hard vs soft
 "%{ЬØ%}:ь"
 !! __@RULENAME@__  
-%{ЬØ%}:ь <=> [ ь:|й:] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:) [ т: | %{КТ%}: ] _ ;
+%{ЬØ%}:ь <=> [ ь:|й:] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:) т:  _ ;
+ [ ь:|й:| [и|е|э|ы] [CnsNonDent:]] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:)  %{КТ%}:  _ ;
+
+!!€ пань%>%{КТ%}%{ЬØ%}
+!!€ пан0%>ть
+!! симомс+V+IV+Imprt+ScSg2
+!!€ сим%>%{Х%}%{КТ%}%{ЬØ%}
+!!€ сип%>0ть
+!!$ сим%>%{Х%}%{КТ%}%{ЬØ%}
+!!$ сип%>0т0
+
+"%{ЬØ%}:0"
+!! __@RULENAME@__  
+%{ЬØ%}:0 <=> 
+ [ Cns: - [ь:|й:]] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:) т:  _ ;
+ [CnsDent: |[Vows - [и|е|э|ы]] [CnsNonDent:]|CnsAndSoft [CnsNonDent:] |Vows] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:)  %{КТ%}:  _ ;
 
 !!€ пань%>%{КТ%}%{ЬØ%}
 !!€ пан0%>ть
@@ -1071,5 +1099,6 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
      [Vows:|Vows:|б|в|ж|м|[д|з|л|н|р] (ь:) ] _ %> %{ЕОØ%}: н е [%>|# | %- ] ;
 
 !!TESTS
-!echo 'п а н ж:ч > с ы' | hfst-pair-test src/phonology/vro-phon.compose.hfst
-!echo 'панжемс+V+Ind+Prs+ScSg3+OcSg3' | hfst-lookup src/morphology/lexicon.hfst
+!echo 'п а н ж:ч > с ы' | hfst-pair-test src/fst/phonology.compose.hfst
+!echo 'панжемс+V+Ind+Prs+ScSg3+OcSg3' | hfst-lookup src/fst/lexicon.hfst
+!echo 'с и м:п > {Х}:0 {КТ}:т {ЬØ}:ь' | hfst-pair-test src/fst/phonology.compose.hfst
