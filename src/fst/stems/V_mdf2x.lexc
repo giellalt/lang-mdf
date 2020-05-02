@@ -3915,6 +3915,7 @@ LEXICON V_mdf2x
 лазфнемс+V:лазфне BV_KUNDAMS  "halkoa" ;
 лазфтомс+V:лазфт BV_ALYJAFTOMS  "panna halkaisemaan" ;
 лазямс+V:лазя IV_KUNDAMS  "kerätä hunajaa pumppaamalla" ;
+лайнязевeмс+V:лайнязев V_  "alkaa hehkua" ;
 лайнязевомс+V:лайнязев IV_ANDOVOMS  "alkaa hehkua" ;
 лайнямс+V:лайня IV_KUNDAMS  "hehkua" ;
 лайняфтомс+V:лайняфт BV_ALYJAFTOMS  "hehkuttaa" ;
@@ -4406,7 +4407,7 @@ LEXICON V_mdf2x
 любовандафнемс+V:любовандафне BV_KUNDAMS  "miellyttää" ;
 люкавомс+V:люкав IV_ANDOVOMS  "voida keinua" ;
 люкадемс+V:люкадь IV_ANDOMS  "nyökäyttää" ;
-люкаемс+V:люкаемс IV_KUNDAMS  "nyökkyä" ;
+люкаемс+V:люкае IV_KUNDAMS  "nyökkyä" ;
 люказевомс+V:люказев IV_ANDOVOMS  "alkaa keinua/heilua" ;
 люкамс+V:люка IV_KUNDAMS  "keinua" ;
 люканчамс+V:люканча IV_KUNDAMS  "keinua" ;
@@ -4456,7 +4457,7 @@ LEXICON V_mdf2x
 лякатамс+V:ляката IV_KUNDAMS  "hypellä yhdellä jalalla" ;
 ляковомс+V:ляков IV_ANDOVOMS  "voida hengittää raskaasti" ;
 лякозевомс+V:лякозев IV_ANDOVOMS  "alkaa hengittää raskaasti" ;
-лякомс+V:лякомс V_  "hengittää raskaasti, huohottaa, läähättää" ;
+лякомс+V:ляк IV_ANDOMS  "hengittää raskaasti, huohottaa, läähättää" ;
 лякончамс+V:ляконча IV_KUNDAMS  "hypellä yhdellä jalalla" ;
 ляксемс+V:ляксе BV_KUNDAMS  "huohottaa" ;
 лякфнемс+V:лякфне BV_KUNDAMS  "panna hengittämään raskaasti" ;
@@ -7935,7 +7936,7 @@ LEXICON V_mdf2x
 снимандакшнемс+V:снимандакшне IV_KUNDAMS  "valokuvata" ;
 снимандамс+V:сниманда IV_KUNDAMS  "valokuvata" ;
 снимандафнемс+V:снимандафне BV_KUNDAMS  "valokuvauttaa" ;
-снимс+V:снимс BV_MUMS  "ommella" ;
+снимс+V:сни BV_MUMS  "ommella" ;
 снифнемс+V:снифне BV_KUNDAMS  "ompeluttaa" ;
 снифтомс+V:снифт BV_ALYJAFTOMS  "ompeluttaa" ;
 советондакшнемс+V:советондакшне IV_KUNDAMS  "kehottaa" ;
@@ -10771,7 +10772,7 @@ LEXICON V_mdf2x
 шнивомс+V:шнив IV_ANDOVOMS  "tulla pestyksi" ;
 шниемс+V:шние IV_KUNDAMS  "peseskellä" ;
 шникшнемс+V:шникшне IV_KUNDAMS  "peseskellä" ;
-шнимс+V:шнимс BV_MUMS  "pestä" ;
+шнимс+V:шни BV_MUMS  "pestä" ;
 шнифнемс+V:шнифне BV_KUNDAMS  "pesettää" ;
 шнифтемс+V:шнифть BV_NJAFTEMS  "pesettää" ;
 шнуровандавомс+V:шнуровандав IV_ANDOVOMS  "tulla nyöritetyksi" ;
@@ -11375,7 +11376,7 @@ LEXICON V_mdf2x
 юпштыевомс+V:юпштыев IV_ANDOVOMS  "voida leimahtaa" ;
 юпштыемс+V:юпштыe BV_KUNDAMS  "leimahtaa" ;
 юракадомс+V:юракад IV_ANDOMS  "leimahtaa liekkiin" ;
-юргомс+V:юргомс V_  "kuljeksia" ;
+юргомс+V:юрг IV_ANDOMS  "kuljeksia" ;
 юргомс-якамс+V:юрго-яка V_  "kuljeksia" ;
 юргондомс+V:юргонд IV_ANDOMS  "kuljeksia" ;
 юргонкшнемс+V:юргонкшне IV_KUNDAMS  "kuljeksia" ;
