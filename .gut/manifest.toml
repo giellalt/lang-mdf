@@ -1,0 +1,35 @@
+[package]
+name = "mdf"
+human_name = "Moksha"
+version = "0.1.0"
+
+# Table of speller tag -> filename to include in the bundle
+# filenames depends on specific project
+[spellers.mdf]
+filename = "mdf-mobile.zhfst"
+
+# Table of bundles to generated
+# key is the type of bundle
+# Windows speller bundle require a uuid for the installer
+[bundles.speller_win]
+package = "speller-mdf"
+platform = "windows"
+uuid = "1CBF7818-BC23-4DC2-8E5F-9761FACE6F2F"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_macos]
+pkg_id = "no.divvun.MacDivvun.mdf"
+package = "speller-mdf"
+platform = "macos"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_win_mso]
+package = "speller-mdf-mso"
+platform = "windows"
+uuid = "7177C267-B0AE-4694-91E2-E9B95AA9822B"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_mobile]
+package = "speller-mdf"
+platform = "mobile"
+repo = "https://pahkat.uit.no/main/"
