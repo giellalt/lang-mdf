@@ -1,0 +1,9 @@
+name = "Moksha"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.mdf"
+
+[windows]
+system_product_code = "1CBF7818-BC23-4DC2-8E5F-9761FACE6F2F"
+msoffice_product_code = "7177C267-B0AE-4694-91E2-E9B95AA9822B"
