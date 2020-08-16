@@ -1574,7 +1574,8 @@ LEXICON Prc-I
 +Act+PrsPrc:%>%{ИЫЙ%} K ;
 +NomAg:%>%{ИЫЙ%} N_ANDY ;
 +NomAg+Cmpr:%>%{ИЫЙ%}%>шка N_AVA ;
-+NomAg+Tra:%>%{ИЫЙ%}%>шка N_OSH ;
++NomAg+Tra:%>%{ИЫЙ%}%>кс N_OSH ;
++NomAg+Tra+Der/Dimin:%>%{ИЫЙ%}%>кскя NMN_VAL1MIA ;
 
 LEXICON Prc-nj
 +VGen:%>%{ЕОØ%}нь K ;
