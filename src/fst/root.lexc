@@ -87,6 +87,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !!
 !! The Usage extents are marked using following tags:
  +Err/Orth    !!= ;@CODE@: substandard / outside the written norm
+ +Err/Orth-lowered-final-e-2-ja    !!≈ * @CODE@ final е lowered to я with Е2Я trigger
+
  +Use/Marg  !!≈ * _@CODE@_ * Marginal
  +Use/-Spell !!≈ * _@CODE@_ * Exclude from speller
  +Use/SpellNoSugg !!≈ * _@CODE@_ * recognized but not suggested in speller
@@ -96,7 +98,13 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Use/NG    !!≈ * _@CODE@_ * Do not generate, for isme-ped.fst and apertium
 
  +Err/Lex !!≈ * _@CODE@_ * The lemma is not a Moksha word
- +Dial
+
+!! !!!Dialect tags
+ +Dial    !!≈ * @CODE@ * No specification
+    !! Specific to some dialects
+ +Dial/-C !!≈ * @CODE@ * Not central standard
+
+
 !!
 !! The nominals are inflected in the following Case and Number
 ! number
@@ -603,6 +611,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^Е2А		!!= @CODE@ Change stem-final vowel мельге:мельганза
 %^Я2А		!!= @CODE@ Change stem-final vowel рьвя:рьванц
 %^А2Е		!!= @CODE@ Change stem-final vowel мокша:мокшесь
+%^Е2Я		!!= @CODE@ Change word-final vowel for dialect тувотне > тувотня
 %^Devoice	!!= @CODE@ for devoicing изь:исть
 %^PXSG1		!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
  {front} {back}
