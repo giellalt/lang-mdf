@@ -425,6 +425,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 OPT-ALL       	;
 	 INF_ОМ		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
++ConNeg+Err/Orth-lowered-final-e-2-ja:%^Е2Я VerbEnd ; !Mormula
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg __tolerate/kestää__ ашень кирде
 !!€ кирдь%>%{АЕØ%}
@@ -1463,6 +1464,7 @@ LEXICON PREC-23
 LEXICON PREC-24
 @U.CONJ-MX.PREC@@U.CONJ-PX.24@+Use/NG+Prec+ScSg2+OcPl1:@U.CONJ-MX.PREC@@U.CONJ-PX.24@%>%{ЕОØ%}мастева VerbEnd ;
 @U.CONJ-MX.PREC@@U.CONJ-PX.24@+Prec+ScSg2+OcPl1:@U.CONJ-MX.PREC@@U.CONJ-PX.24@%>%{ЕОØ%}мастя VerbEnd ;
+@U.CONJ-MX.PREC@@U.CONJ-PX.24@+Prec+ScSg2+OcPl1+Dial/-C+Err/Orth:@U.CONJ-MX.PREC@@U.CONJ-PX.24@%>%{ЕОØ%}масте VerbEnd ; !Mormula
 
 LEXICON PREC-26
 @U.CONJ-MX.PREC@@U.CONJ-PX.26@+Prec+ScSg2+OcPl3:@U.CONJ-MX.PREC@@U.CONJ-PX.26@%>%{ИЫЙ%}ть-ка VerbEnd ;
@@ -1485,6 +1487,7 @@ LEXICON PREC-54
 LEXICON PREC-56
 @U.CONJ-MX.PREC@@U.CONJ-PX.56@+Use/NG+Prec+ScPl2+OcPl3:@U.CONJ-MX.PREC@@U.CONJ-PX.56@%>%{ЕОØ%}стева VerbEnd ;
 @U.CONJ-MX.PREC@@U.CONJ-PX.56@+Prec+ScPl2+OcPl3:@U.CONJ-MX.PREC@@U.CONJ-PX.56@%>%{ЕОØ%}стя VerbEnd ;
+@U.CONJ-MX.PREC@@U.CONJ-PX.56@+Prec+ScPl2+OcPl3+Dial/-C+Err/Orth:@U.CONJ-MX.PREC@@U.CONJ-PX.56@%>%{ЕОØ%}сте VerbEnd ;! Mormula
 
 LEXICON OPT-ALL
  OPT-10 ;
