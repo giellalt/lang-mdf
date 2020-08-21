@@ -425,7 +425,6 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 OPT-ALL       	;
 	 INF_ОМ		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
-+ConNeg+Err/Orth-lowered-final-e-2-ja:%^Е2Я VerbEnd ; !Mormula
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg __tolerate/kestää__ ашень кирде
 !!€ кирдь%>%{АЕØ%}
