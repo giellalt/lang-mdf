@@ -4954,7 +4954,9 @@ LEXICON A_mdf2x
 ёлмокшкя+A:ёлмокшкя A_VAL1MIA  "" ;
 ёлош+A:ёлош A_OSH  "" ;
 ёмака+A:ёмака A_AVA  "" ;
-ёмла+A:ёмла A_AVA  "pieni" ;
+ёмла+v1+A:ёмла A_AVA  "pieni" ;
+ёмла+v2+A+Orth/Err:ёмбла A_AVA  "pieni" ;
+ёмла+v3+A+Orth/Err:ёлма A_AVA  "pieni" ;
 ёмланя+A:ёмланя A_AVA  "pikkarainen" ;
 ён+A:ён A_KAL  "" ;
 ёньфтома+A:ёньфтом%{АО%} A_PULA  "tyhmä" ;

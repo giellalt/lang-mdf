@@ -90075,7 +90075,9 @@
    <lg>
      <l pos="A">ёмла</l>
      <stg>
-       <st Contlex="A_AVA">ёмла</st>
+       <st Contlex="A_AVA" varid="1">ёмла</st>
+       <st Contlex="A_AVA" status="Orth/Err" varid="2">ёмбла</st>
+       <st Contlex="A_AVA" status="Orth/Err" varid="3">ёлма</st>
      </stg> <phonet>jomla, jombla, jolma</phonet>
    </lg>
      <sources>

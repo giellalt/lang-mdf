@@ -1541,6 +1541,7 @@ LEXICON INF_ОМ
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} OBLIQUECX-PX-ava ;
 +NomAct:%>%{ЕОØ%}ма N_AVA ;
++NomAct+Err/Orth:%>%{ЕОØ%}м N_KAL ;
 +NomAct+Der/Dimin:%>%{ЕОØ%}м%>ня N_AVA ;
 Prc-I ;
 Prc-nj ;
