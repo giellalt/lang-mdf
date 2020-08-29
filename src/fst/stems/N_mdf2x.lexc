@@ -96,12 +96,14 @@ LEXICON N_mdf2x
 айдяз+N:айдяз N_SARAZ  "" ;
 айдяр+N:айдяр N_KAL  "" ;
 аймак+N:аймак N_KAL  "tie" ;
-ака+N:ака N_AVA  "isosisko" ;
+ака+v1+N:ака N_AVA  "isosisko" ;
+ака+v2+N:ака N-VOC_J  "isosisko" ;
 акварель+N:акварель N_KIAL1  "" ;
 аквариум+N:аквариум N_KAL  "" ;
 аккомпанемент+N:аккомпанемент N_KAL  "" ;
 аккредитив+N:аккредитив N_KAL  "" ;
-акля+N:акля N_AVA  "käly" ;
+акля+v1+N:акля N_AVA  "käly" ;
+акля+v2+N:акля N-VOC_J/KAJ  "käly" ;
 акол+N:акол N_KAL  "" ;
 акробат+N:акробат N_KAL  "" ;
 акробатика+N:акробатика N_AVA  "" ;
@@ -158,7 +160,8 @@ LEXICON N_mdf2x
 альгя+N:альгя N_PAKSIA  "aviomiehen vanhempi veli" ;
 альняка+N:альняка N_AVA  "isoveli" ;
 альнякат-братт+N:альнякат-братт N_KAL  "sisarukset" ;
-аля+N:аля N_AVA  "mies" ;
+аля+v1+N:аля N_AVA  "mies" ;
+аля+v2+N:аля N-VOC_J/KAJ  "mies" ;
 алялу+N:алялу N_KELU  "(vanh.) kyläkokous" ;
 алят-ават+N:алят-ават N_KAL  "vanhemmat" ;
 аляфтома-тядяфтома+N:аляфтома-тядяфтома N_AVA  "orpo" ;
@@ -369,7 +372,8 @@ LEXICON N_mdf2x
 ащеф+N:ащеф N_KAL  "" ;
 ащефкя+N:ащефкя N_VAL1MIA  "" ;
 аэрофлот+N:аэрофлот N_KAL  "" ;
-баба+N:баба N_AVA  "eukko" ;
+баба+v1+N:баба N_AVA  "eukko" ;
+баба+v2+N:баба N-VOC_J/KAJ  "eukko" ;
 бабалопа+N:бабалопа N_AVA  "takiainen" ;
 бабань% панга+N:бабань% панг%{АОØ%} N_PANGA  "kuukunen" ;
 бабка+N:бабка N_AVA  "" ;
@@ -801,7 +805,8 @@ LEXICON N_mdf2x
 васькафтома+N:васькафтома N_AVA  "petos" ;
 васькафтомбяль+N:васькафтомбяль N_KIAL1  "syötti" ;
 васьфти+N:васьфти N_ANDY  "" ;
-вася+N:вася N_AVA  "vaimo" ;
+вася+v1+N:вася N_AVA  "vaimo" ;
+вася+v2+N:вася N-VOC_J/KAJ/NIAJ  "vaimo" ;
 вата+N:вата N_AVA  "" ;
 ватага+N:ватага N_AVA  "" ;
 ватажендама+N:ватажендама N_AVA  "" ;
@@ -2815,6 +2820,8 @@ LEXICON N_mdf2x
 кулят+N:куля NMN_AVA-PL  "(mon.) uutiset" ;
 кулёк+N:кулёк N_KAL  "" ;
 кум+N:кум N_KAL  "kummi" ;
+кума+v1+N:кума N_AVA  "kummi" ;
+кума+v2+N:кума N-VOC_J/NIAJ  "kummi" ;
 кумава+N:кумава N_AVA  "kummitäti" ;
 кумаць+N:кумаць N_KIAL1  "punainen villakangas" ;
 кумбарав+N:кумбарав N_KAL  "takiainen" ;
@@ -3164,7 +3171,7 @@ LEXICON N_mdf2x
 личинка+N:личинка N_AVA  "" ;
 личность+N:личность N_KIAL1  "" ;
 лишай+N:лишай N_VAJ  "" ;
-лишме+N:лишме N_AVA  "hevonen" ;
+лишме+N:лишм%{ЕО%} N_SEL1ME  "hevonen" ;
 лиштема+N:лиштема N_AVA  "" ;
 лиштеманя+N:лиштеманя N_AVA  "" ;
 лиякстома+N:лиякстома N_AVA  "muutos" ;
@@ -3338,7 +3345,8 @@ LEXICON N_mdf2x
 максома+N:максома N_AVA  "antaminen" ;
 макша+N:макш%{АЕØ%} N_MOKSHA  "lahopuu" ;
 мала+N:мала N_AVA  "läheinen" ;
-мама+N:мама N_AVA  "" ;
+мама+v1+N:мама N_AVA  "" ;
+мама+v2+N:мама N-VOC_J/KAJ  "" ;
 мамама+N:мамама N_AVA  "" ;
 мамафнема+N:мамафнема N_AVA  "" ;
 манда+N:манда N_AVA  "keppi" ;
@@ -3473,7 +3481,7 @@ LEXICON N_mdf2x
 мемотькшнема+N:мемотькшнема N_AVA  "" ;
 мемуарист+N:мемуарист N_KAL  "" ;
 мемуархт+N:мемуархт N_KAL  "" ;
-менге+N:менге N_PINE  "" ;
+менге+N:менг%{ЕО%} N_SEL1ME  "" ;
 менда+N:менда N_AVA  "" ;
 менель+N:менель N_KIAL1  "taivas" ;
 менингит+N:менингит N_KAL  "" ;
@@ -3832,7 +3840,7 @@ LEXICON N_mdf2x
 ногайхть+N:ногай N_KAL-PL  "" ;
 нозома+N:нозома N_AVA  "" ;
 нокта+N:нокта N_AVA  "päitset" ;
-ноктавядьме+N:ноктавядьме N_  "suitset" ;
+ноктавядьме+N:нокта#вядьм%{ЕО%} N_SEL1ME  "suitset" ;
 нола+N:нола N_AVA  "laiskuri" ;
 нолапарь+N:нолапарь N_KIAL1  "laiskimus" ;
 нолаши+N:нолаши N_AVA  "laiskuus" ;
@@ -4542,7 +4550,7 @@ LEXICON N_mdf2x
 покольня+N:покольня N_AVA  "palanen" ;
 покон+N:покон N_KAL  "napa" ;
 поконбаба+N:поконбаба N_AVA  "lapsenpäästäjä" ;
-поконвядьме+N:поконвядьме N_  "napanuora" ;
+поконвядьме+N:покон#вядьм%{ЕО%} N_SEL1ME  "napanuora" ;
 покос+N:покос N_OSH  "" ;
 покра+N:покра N_AVA  "papu" ;
 покрав+N:покрав N_KAL  "kirkollinen juhlapäivä 1.10" ;
@@ -4550,7 +4558,8 @@ LEXICON N_mdf2x
 покшенда+N:покшенда N_AVA  "" ;
 покшкя+N:покшкя N_VAL1MIA  "" ;
 пол+N:пол N_KAL  "lieve" ;
-пола+N:пола N_AVA  "puoliso" ;
+пола+v1+N:пола N_AVA  "puoliso" ;
+пола+v2+N:пола N-VOC_J/NIAJ  "puoliso" ;
 полавня+N:полавня N_AVA  "(murt.) lato" ;
 полаз+N:полаз N_SARAZ  "jalas" ;
 полал+N:полал N_KAL  "helma" ;
@@ -5182,7 +5191,7 @@ LEXICON N_mdf2x
 рислинг+N:рислинг N_KAL  "" ;
 ристиема+N:ристиема N_AVA  "" ;
 рисунка+N:рисунка N_AVA  "piirros" ;
-рисьме+N:рисьме N_PINE  "ketju" ;
+рисьме+N:рисьм%{ЕО%} N_SEL1ME  "ketju" ;
 ритма+N:ритма N_AVA  "" ;
 ритник+N:ритник N_KAL  "" ;
 риф+N:риф N_KAL  "" ;
@@ -5262,7 +5271,8 @@ LEXICON N_mdf2x
 рысак+N:рысак N_KAL  "" ;
 рыцаг+N:рыцаг N_KAL  "" ;
 рыцарь+N:рыцарь N_KIAL1  "" ;
-рьвя+N:ърьвя N_VAL1MIA  "" ;
+рьвя+v1+N:ърьвя N_VAL1MIA  "" ;
+рьвя+v2+N:ърьвя N-VOC_J/NIAJ  "" ;
 рьвяяй+N:ърьвяяй N_VAJ  "" ;
 рьвяяфтома+N:ърьвяяфтома N_AVA  "" ;
 рюкзак+N:рюкзак N_KAL  "" ;
@@ -5459,7 +5469,7 @@ LEXICON N_mdf2x
 семантика+N:семантика N_AVA  "" ;
 семафкс+N:семафкс N_OSH  "" ;
 сембе+N:семб%{ЕО%} N_SEL1ME  "kaikki" ;
-семе+N:семе N_PINE  "" ;
+семе+N:сем%{ЕО%} N_SEL1ME  "" ;
 семестра+N:семестра N_AVA  "" ;
 семья+N:семья N_AVA  "perhe" ;
 сенаж+N:сенаж N_OSH  "" ;
@@ -5521,7 +5531,7 @@ LEXICON N_mdf2x
 сеяльщик+N:сеяльщик N_KAL  "" ;
 си+N:си N_ANDY  "täi" ;
 сивайня+N:сивайня N_AVA  "harmaa (hevonen)" ;
-сиве+N:сиве N_PINE  "pääntie" ;
+сиве+N:сив%{ЕО%} N_SEL1ME  "pääntie" ;
 сиволь+N:сиволь N_KIAL1  "liha" ;
 сивоня+N:сивоня N_AVA  "kaula" ;
 сигаретка+N:сигаретка N_AVA  "savuke" ;
@@ -5987,7 +5997,7 @@ LEXICON N_mdf2x
 сязьган+N:сязьган N_KAL  "harakka" ;
 сязьгата+N:сязьгата N_AVA  "harakka" ;
 сязяка+N:сязяка N_AVA  "" ;
-сяйме+N:сяйме N_  "" ;
+сяйме+N:сяйм%{ЕО%} N_SEL1ME  "" ;
 сяканя+N:сяканя N_AVA  "ruukku" ;
 сякокс+N:сякокс N_OSH  "yhdentekevää" ;
 сялга+N:сялг%{АОØ%} N_PANGA  "vihne" ;
@@ -6396,7 +6406,8 @@ LEXICON N_mdf2x
 трюм+N:трюм N_KAL  "" ;
 трюмо+N:трюмо N_AVA  "" ;
 трюпама+N:трюпама N_AVA  "" ;
-тряй+N:тряй N_VAJ  "elättäjä" ;
+тряй+v1+N:тряй N_VAJ  "elättäjä" ;
+тряй+v2+N:тряй N-VOC_NIAJ  "elättäjä" ;
 тряйшяй+N:тряйшяй N_VAJ  "ruokkija" ;
 тряка+N:тряка N_AVA  "" ;
 тряпка+N:тряпка N_AVA  "" ;
@@ -6521,7 +6532,8 @@ LEXICON N_mdf2x
 тюштема+N:тюштема N_AVA  "" ;
 тюштеманя+N:тюштеманя N_AVA  "" ;
 тюштень+N:тюштень N_KIAL1  "" ;
-тядя+N+Sem/Kin:тядя N_AVA  "äiti" ;
+тядя+v1+N+Sem/Kin:тядя N_AVA  "äiti" ;
+тядя+v2+N+Sem/Kin:тядя N-VOC_J/KAJ/NIAJ  "äiti" ;
 тяема+N:тяема N_AVA  "" ;
 тяендема+N:тяендема N_AVA  "" ;
 тязя+N:тязя N_AVA  "käly" ;
@@ -7786,7 +7798,8 @@ LEXICON N_mdf2x
 якшам+N:якшам N_KAL  "kylmä" ;
 якшама+N:якшама N_AVA  "kylmyys" ;
 ялакс+N:ялакс N_OSH  "" ;
-ялга+N:ялга N_AVA  "ystävä" ;
+ялга+v1+N:ялга N_AVA  "ystävä" ;
+ялга+v2+N:ялга N-VOC_J/KAJ  "ystävä" ;
 ялгаксши+N:ялгаксши N_AVA  "ystävyys" ;
 яль+N:яль N_KIAL1  "" ;
 ям+N:ям N_KAL  "puuro" ;
@@ -7855,7 +7868,7 @@ LEXICON N_mdf2x
 ёлнама+N:ёлнама N_AVA  "" ;
 ёлхмак+N:ёлхмак N_KAL  "" ;
 ёмболдома+N:ёмболдома N_AVA  "" ;
-ёмлакспинге+N:ёмлакспинг%{ЕОØ%} N_PINGE  "lapsuus" ;
+ёмлакспинге+N:ёмлакс#пинг%{ЕОØ%} N_PINGE  "lapsuus" ;
 ёмланек-мезнек+N:ёмланек-мезнек N_KAL  "" ;
 ёмланек-оцюнек+N:ёмланек-оцюнек N_KAL  "" ;
 ёмлаши+N:ёмлаши N_AVA  "pienuus" ;

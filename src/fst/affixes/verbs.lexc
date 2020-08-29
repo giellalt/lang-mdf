@@ -11,15 +11,15 @@ LEXICON AUXILIARIES
 
 
 LEXICON VERBNEGATIVE
-аш+V+Aux+Neg+Loc+Prs+ScSg1:ашан # ;
-аш+V+Aux+Neg+Loc+Prs+ScSg2:ашат # ;
-аш+V+Aux+Neg+Loc+Prs+ScSg3:аш # ;
-аш+V+Aux+Neg+Loc+Prs+ScPl1:аштама # ;
-аш+V+Aux+Neg+Loc+Prs+ScPl2:аштада # ;
-аш+V+Aux+Neg+Loc+Prs+ScPl3:ашет # ;
+аш+V+Aux+Neg+Loc+Prs+ScSg1:ашан ENDLEX ;
+аш+V+Aux+Neg+Loc+Prs+ScSg2:ашат ENDLEX ;
+аш+V+Aux+Neg+Loc+Prs+ScSg3:аш ENDLEX ;
+аш+V+Aux+Neg+Loc+Prs+ScPl1:аштама ENDLEX ;
+аш+V+Aux+Neg+Loc+Prs+ScPl2:аштада ENDLEX ;
+аш+V+Aux+Neg+Loc+Prs+ScPl3:ашет ENDLEX ;
 аш+V+Aux+Neg+Loc:аш IND-PRT2-ALL ;
-аф+V+Aux+Neg:аф # ;
-аф+V+Aux+Neg+Foc:афи # ;
+аф+V+Aux+Neg:аф ENDLEX ;
+аф+V+Aux+Neg+Foc:афи ENDLEX ;
 аф+V+Aux:афоль V-AUX-NEG-CONJ_AFOLJ ;
 аф+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь, supletive
 аф+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
@@ -65,7 +65,7 @@ LEXICON VERBNEGATIVE
 аф+V+Aux+Proh+ScPl2+OcPl3:тясть K ;
 
 LEXICON V_
-: # ;
+: ENDLEX ;
 
 LEXICON V-IMPRT-SG_
 +Imprt+ScSg2: K ;
@@ -355,57 +355,57 @@ LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
  V-AUX-NEG-PRT1 ;
 @P.CONJ.ObjAll@+Neg:@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
 +Neg:%>езь  IND-PRT1-60_Т ;
-+Neg+Ind+Prt1+ScSg1:%>ень # ;
-+Neg+Ind+Prt1+ScSg2:%>еть # ;
-+Neg+Ind+Prt1+ScSg3:%>езь # ;
-+Neg+Ind+Prt1+ScPl1:%>еме # ;
-+Neg+Ind+Prt1+ScPl2:%>еде # ;
-+Neg+Ind+Prt1+ScPl3:%>есть # ;
++Neg+Ind+Prt1+ScSg1:%>ень ENDLEX ;
++Neg+Ind+Prt1+ScSg2:%>еть ENDLEX ;
++Neg+Ind+Prt1+ScSg3:%>езь ENDLEX ;
++Neg+Ind+Prt1+ScPl1:%>еме ENDLEX ;
++Neg+Ind+Prt1+ScPl2:%>еде ENDLEX ;
++Neg+Ind+Prt1+ScPl3:%>есть ENDLEX ;
 
 LEXICON V-AUX-NEG-PRT1_IZJ !!= @CODE@ изь:изь
  V-AUX-NEG-PRT1 ;
 +Neg: IND-PRT2-ALL ;
 @P.CONJ.ObjAll@+Neg:@P.CONJ.ObjAll@ IND-PRT1-ALL-BUT-Sc3 ;
 +Neg:  IND-PRT1-60_Т ;
-+Neg+Ind+Prt1+ScSg1:%>ень # ;
-+Neg+Ind+Prt1+ScSg2:%>еть # ;
-+Neg+Ind+Prt1+ScSg3: # ;
-+Neg+Ind+Prt1+ScPl1:%>еме # ;
-+Neg+Ind+Prt1+ScPl2:%>еде # ;
-+Neg+Ind+Prt1+ScPl3:%^Devoice%^Ь2ZERO%>ть # ;
++Neg+Ind+Prt1+ScSg1:%>ень ENDLEX ;
++Neg+Ind+Prt1+ScSg2:%>еть ENDLEX ;
++Neg+Ind+Prt1+ScSg3: ENDLEX ;
++Neg+Ind+Prt1+ScPl1:%>еме ENDLEX ;
++Neg+Ind+Prt1+ScPl2:%>еде ENDLEX ;
++Neg+Ind+Prt1+ScPl3:%^Devoice%^Ь2ZERO%>ть ENDLEX ;
 
 LEXICON V-AUX-NEG-PRT1
-+Neg+Ind+Prt1+ScSg1+OcSg2:%>ихтень # ;
-+Neg+Ind+Prt1+ScSg1+OcSg3:%>ине # ;
-+Neg+Ind+Prt1+ScSg1+OcPl3:%>ине # ;
-+Neg+Ind+Prt1+ScSg2+OcSg3:%>ить # ;
-+Neg+Ind+Prt1+ScSg2+OcPl3:%>ить # ;
-+Neg+Ind+Prt1+ScSg3+OcPl3:%>езень # ;
-+Neg+Ind+Prt1+ScSg3+OcSg3:%>езе # ;
-+Neg+Ind+Prt1+ScPl1+OcSg3:%>еськ # ;
-+Neg+Ind+Prt1+ScPl1+OcPl3:%>еськ # ;
++Neg+Ind+Prt1+ScSg1+OcSg2:%>ихтень ENDLEX ;
++Neg+Ind+Prt1+ScSg1+OcSg3:%>ине ENDLEX ;
++Neg+Ind+Prt1+ScSg1+OcPl3:%>ине ENDLEX ;
++Neg+Ind+Prt1+ScSg2+OcSg3:%>ить ENDLEX ;
++Neg+Ind+Prt1+ScSg2+OcPl3:%>ить ENDLEX ;
++Neg+Ind+Prt1+ScSg3+OcPl3:%>езень ENDLEX ;
++Neg+Ind+Prt1+ScSg3+OcSg3:%>езе ENDLEX ;
++Neg+Ind+Prt1+ScPl1+OcSg3:%>еськ ENDLEX ;
++Neg+Ind+Prt1+ScPl1+OcPl3:%>еськ ENDLEX ;
 
-+Neg+Ind+Prt1+ScSg2+OcSg1:%>емайть # ;
-+Neg+Ind+Prt1+ScSg2+OcPl1:%>емаcmь # ;
-+Neg+Ind+Prt1+ScPl2+OcSg1:%>емаcmь # ;
-+Neg+Ind+Prt1+ScPl2+OcPl1:%>емаcmь # ;
++Neg+Ind+Prt1+ScSg2+OcSg1:%>емайть ENDLEX ;
++Neg+Ind+Prt1+ScSg2+OcPl1:%>емаcmь ENDLEX ;
++Neg+Ind+Prt1+ScPl2+OcSg1:%>емаcmь ENDLEX ;
++Neg+Ind+Prt1+ScPl2+OcPl1:%>емаcmь ENDLEX ;
 
-+Neg+Ind+Prt1+ScSg1+OcPl2:%>едезь # ;
-+Neg+Ind+Prt1+ScPl1+OcSg2:%>едезь # ;
-+Neg+Ind+Prt1+ScPl1+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScSg1+OcPl2:%>едезь ENDLEX ;
++Neg+Ind+Prt1+ScPl1+OcSg2:%>едезь ENDLEX ;
++Neg+Ind+Prt1+ScPl1+OcPl2:%>едезь ENDLEX ;
 
-+Neg+Ind+Prt1+ScSg3+OcPl2:%>едезь # ;
-+Neg+Ind+Prt1+ScPl3+OcSg2:%>едезь # ;
-+Neg+Ind+Prt1+ScPl3+OcPl2:%>едезь # ;
++Neg+Ind+Prt1+ScSg3+OcPl2:%>едезь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcSg2:%>едезь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcPl2:%>едезь ENDLEX ;
 
-+Neg+Ind+Prt1+ScSg3+OcSg1:%>емань # ;
-+Neg+Ind+Prt1+ScSg3+OcPl1:%>емазь # ;
-+Neg+Ind+Prt1+ScPl3+OcSg1:%>емазь # ;
-+Neg+Ind+Prt1+ScPl3+OcPl1:%>емазь # ;
++Neg+Ind+Prt1+ScSg3+OcSg1:%>емань ENDLEX ;
++Neg+Ind+Prt1+ScSg3+OcPl1:%>емазь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcSg1:%>емазь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcPl1:%>емазь ENDLEX ;
 
-+Neg+Ind+Prt1+ScSg3+OcPl1:%>емезь # ;
-+Neg+Ind+Prt1+ScPl3+OcSg1:%>емезь # ;
-+Neg+Ind+Prt1+ScPl3+OcPl1:%>емезь # ;
++Neg+Ind+Prt1+ScSg3+OcPl1:%>емезь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcSg1:%>емезь ENDLEX ;
++Neg+Ind+Prt1+ScPl3+OcPl1:%>емезь ENDLEX ;
 
 
 ! Finite forms
@@ -1552,14 +1552,14 @@ Prc-zj ;
 !!!!!!!!!!!
 
 !LEXICON GerTag
-!+Ger: #;
+!+Ger: ENDLEX;
 
 !!!!!!!!!!!!!!!
 !! PARTICIPLES 
 !!!!!!!!!!!!!!!
 
 LEXICON PrcTag
-+Prc: #;
++Prc: ENDLEX;
 
 LEXICON Prc-f
 !+Der/f+PrfPrc: K ;

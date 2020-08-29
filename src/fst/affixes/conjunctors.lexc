@@ -7,16 +7,16 @@
 !!!!!!!!!!!!!!
 
 !LEXICON CONJ_
-!+Conj+TYÄ: #;
+!+Conj+TYÄ: ENDLEX;
 
 LEXICON CC_
-:  # ; 
+:  ENDLEX ; 
 
 LEXICON CS_
-:  # ; 
+:  ENDLEX ; 
 
 !LEXICON EndNeg 
-!+Neg: # ; 	!= @CODE@ ни
+!+Neg: ENDLEX ; 	!= @CODE@ ни
 
 
 

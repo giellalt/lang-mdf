@@ -12,6 +12,11 @@ LEXICON PROP_
 +Sg+Gen+Def:%>ть K ;
 +Sg+Dat+Def:%>ти K ;
 
+LEXICON PROP_SARAZ
+: N_SARAZ ;
+LEXICON PROP-VOC_KAJ
++Voc:%>кай ENDLEX ;
+
 LEXICON PROP_KAL
 : N_KAL	;
 

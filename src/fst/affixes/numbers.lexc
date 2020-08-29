@@ -9,7 +9,7 @@
 LEXICON NUMERAL-TYPES
 фкя+Num+Card:фкя NMN_VAL1MIA ;
 фкя+Num:васен NUMERALS-TO-ORD ;
-фкя+Num+Der+Der/Iter+Adv+Iter:весть # ;
+фкя+Num+Der+Der/Iter+Adv+Iter:весть ENDLEX ;
 фкя+Num:фи NUMERALS-FOR-COLL ;
 
 кафта+Num+Card:кафт%{АОØ%} N_OFTA ;
@@ -59,21 +59,21 @@ LEXICON NUMERALS-ASSOCCOLL/COLL/ITER/ORD
  NUMERALS-TO-ORD ;
 
 LEXICON NUMERALS-FOR-ASSOCCOLL
-+AssocColl+PxSg1:%>нен # ;
-+AssocColl+PxSg2:%>нет # ;
-+AssocColl+PxSg3:%>ненза # ;
++AssocColl+PxSg1:%>нен ENDLEX ;
++AssocColl+PxSg2:%>нет ENDLEX ;
++AssocColl+PxSg3:%>ненза ENDLEX ;
 
-+AssocColl+PxPl1:%>нек # ;
-+AssocColl+PxPl1:%>ненк # ;
-+AssocColl+PxPl2:%>нент # ;
-+AssocColl+PxPl3:%>нест # ;
++AssocColl+PxPl1:%>нек ENDLEX ;
++AssocColl+PxPl1:%>ненк ENDLEX ;
++AssocColl+PxPl2:%>нент ENDLEX ;
++AssocColl+PxPl3:%>нест ENDLEX ;
 
 LEXICON NUMERALS-FOR-COLL
-+Coll+Sg+Nom:%>%{ЕОØ%}нст # ;
-+Coll+Sg+Nom:%>%{ЕОØ%}цьке # ;
++Coll+Sg+Nom:%>%{ЕОØ%}нст ENDLEX ;
++Coll+Sg+Nom:%>%{ЕОØ%}цьке ENDLEX ;
 
 LEXICON NUMERALS-TO-ITER
-+Der+Der/Iter+Adv+Iter:%>ксть # ;
++Der+Der/Iter+Adv+Iter:%>ксть ENDLEX ;
 LEXICON NUMERALS-TO-ORD
 +Der+Der/Ord+A+Ord:%>це NMN_AVA ;
 
