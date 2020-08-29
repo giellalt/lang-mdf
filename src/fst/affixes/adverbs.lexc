@@ -8,7 +8,7 @@
 
 
 LEXICON ADV-DEG_ 	!!= @CODE@ пяк
-+Deg: # ;
++Deg: ENDLEX ;
 
 LEXICON ADV_ 	!!= @CODE@ 
 : K ;
@@ -37,32 +37,37 @@ LEXICON ADV-LOC_
 
 
 LEXICON ADV-NEG_АЯШ !! Contrastive
-+Neg+Aux: # ;
++Neg+Aux: ENDLEX ;
 
 LEXICON ADV-NEG_АШ
-+Neg+Aux: # ;
++Neg+Aux: ENDLEX ;
 +Neg+Aux:ель ADV_АШЕЛЬ ;
 
 LEXICON ADV_АШЕЛЬ !! ашель:ашель
-+Prt2+ScSg1:%>ень # ;
-+Prt2+ScSg2:%>еть # ;
-+Prt2+ScSg3: # ;
-+Prt2+ScPl1:еме # ;
-+Ind+Prt2+ScPl2:еде # ;
-+Ind+Prt2+ScPl3:%>%{Х%}ть # ;
++Prt2+ScSg1:%>ень ENDLEX ;
++Prt2+ScSg2:%>еть ENDLEX ;
++Prt2+ScSg3: ENDLEX ;
++Prt2+ScPl1:еме ENDLEX ;
++Ind+Prt2+ScPl2:еде ENDLEX ;
++Ind+Prt2+ScPl3:%>%{Х%}ть ENDLEX ;
 
-LEXICON ADV-ABL_ ! алда:алд%{АО%}
+LEXICON ADV-ABL_ ! алда:алда
 +Abl: K_вок ;
-LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
++Abl:%^А2О DER/COP ;
+LEXICON ADV-ELA_ ! ирецта:ирецта
+!?ста %^А2О %> ...
 +Ela: K_вок ;
++Ela:%^А2О DER/COP ;
 LEXICON ADV-ILL_ ! лангс:лангс
 +Ill: K_вок ;
-LEXICON ADV-INE_ ! лангса:лангс%{АО%}
+LEXICON ADV-INE_ ! лангса:лангса
 +Ine: K_вок ;
++Ine:%^А2О DER/COP ;
 LEXICON ADV-LAT_ ! алга:алу
 +Lat: K_вок ;
 LEXICON ADV-PRL_ ! алга:алга
 +Prl: K_вок ;
++Prl: DER/COP ;
 
 LEXICON ADV-INDEF_ ! 
 +Indef: K_вок ;
@@ -70,10 +75,12 @@ LEXICON ADV-INDEF-DAT_ !
 +Indef+Dat: K_вок ;
 LEXICON ADV-INDEF-ELA_ !
 +Indef+Ela: K_вок ;
++Indef+Ela:%^А2О DER/COP ;
 LEXICON ADV-INDEF-ILL_ ! лангс:лангс
 +Indef+Ill: K_вок ;
 LEXICON ADV-INDEF-INE_ ! лангса:лангс%{АО%}
 +Indef+Ine: K_вок ;
++Indef+Ine:%^А2О DER/COP ;
 LEXICON ADV-INDEF-LAT_ ! алга:алу
 +Indef+Lat: K_вок ;
 LEXICON ADV-INDEF-TEMP_ ! алга:алга

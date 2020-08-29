@@ -7,26 +7,26 @@
 !!!!!!!!!!!!!!
 
 !LEXICON PCLE_AVA !!= @CODE@ Is a model word necessary here?
-!: # ;
+!: ENDLEX ;
 
 LEXICON PCLE_
-: # ;
+: ENDLEX ;
 
 
 !LEXICON Pcle-Compar-Stnd
-!+Comp: # ;
+!+Comp: ENDLEX ;
 
 LEXICON PCLE-EPIST
-+Epist: # ;
++Epist: ENDLEX ;
 
 LEXICON PCLE-NEG
-+Neg: # ;
++Neg: ENDLEX ;
 
 LEXICON PCLE-NEG-CONTRAST
-+Neg+Emphatic: # ;
++Neg+Emphatic: ENDLEX ;
 
 LEXICON PCLE-SUPERL
-+Superl: # ;
++Superl: ENDLEX ;
 
 
 
