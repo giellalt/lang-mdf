@@ -129,6 +129,7 @@ analyser-pmatchdisamb-gt-desc.hfst: analyser-pmatchdisamb-gt-desc.tmp.hfst \
 				filters/remove-norm-comp-tags.hfst             \
 				filters/remove-derivation-position-tags.hfst   \
 				filters/remove-orig_lang-tags.hfst             \
+				filters/remove-hard-sign-in-first-syllable.hfst  \
 				filters/rename-POS_before_Der-tags.hfst        
 	$(AM_V_HXFST)$(PRINTF) "read regex \
 		    @\"filters/remove-derivation-position-tags.hfst\" \
@@ -136,6 +137,7 @@ analyser-pmatchdisamb-gt-desc.hfst: analyser-pmatchdisamb-gt-desc.tmp.hfst \
 		.o. @\"filters/remove-orig_lang-tags.hfst\"           \
 		.o. @\"filters/rename-POS_before_Der-tags.hfst\"      \
 		.o. @\"$<\"                                           \
+		.o. @\"filters/remove-hard-sign-in-first-syllable.hfst\"              \
 		;\n\
 	invert net\n\
 	save stack $@\n\
