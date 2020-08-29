@@ -1,3 +1,4 @@
+# -*- cg-pre-pipe: "$GTHOME/giella-core/scripts/preprocess --abbr=$GTHOME/lang-mdf/tools/preprocess/abbr.txt | hfst-optimised-lookup  $GTHOME/lang-mdf/src/analyser-disamb-gt-desc.hfstol | $GTHOME/giella-core/scripts/lookup2cg" -*-
 # Divvun & Giellatekno - open source grammars for Sámi and other languages
 # Copyright © 2000-2013 The University of Tromsø 
 # http://giellatekno.uit.no & http://divvun.no
@@ -272,6 +273,7 @@ LIST PrfPrc = PrfPrc ;
 LIST VGen = VGen ;
 
 LIST PrsPrc = PrsPrc ;
+LIST Prc = Prc ; # for deprication
  
 
 LIST Ger = Ger ;
@@ -298,6 +300,7 @@ LIST Der/MWN = Der/MWN ;
 LIST Der/Dem = Der/Dem ;
 LIST Der/Cop = Der/Cop ;
 LIST Der/Onj = Der/Onj ;
+LIST Der/f = Der/f ;
 
 LIST <vdic> = <vdic> ;
 
@@ -308,6 +311,8 @@ LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
 LIST NOLAT = "каль" "моль" ;
 
+
+
 # Phrasal groups
 # --------------
 
@@ -315,10 +320,14 @@ LIST VFIN = Prs Prt1 Prt2 Cond Conj Des Imprt Opt ;
 
 LIST PX = PxSg1 PxSg2 PxSg3 PxPl1 PxPl2 PxPl3 ;
 
+
+
 # Sets
 # ====
 
 SET WORD = N | V | A | Pr | Pron | Adv | CC | CS | Interj | Num | ("\?") ;
+
+SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + Ind + Prt1 OR V + Aux + Neg + Ind + Prt2 OR V + Aux + Neg + Conj ;
 
 
 # Noun sets
@@ -507,3 +516,13 @@ REMOVE V IF (0 Pron + Pers + Pl1 + Nom) (1* VFIN BARRIER CLB);
 # сон пеедезевсь и корхтай:
 #REMOVE Pcle IF (-1 N + $$CASE)(1 N + $$CASE);
 REMOVE PrsPrc IF (-2C $$SCONJ) (-1 CC) (0 $$SCONJ);
+
+# 
+SELECT HASCONNEG IF (0 HASCONNEG)(1 ConNeg);
+
+# илятфкя
+REMOVE A IF (0 Der/f + PrfPrc) ;
+
+# илятфкя
+REMOVE Prc IF (0 Der/f + PrfPrc) ;
+
