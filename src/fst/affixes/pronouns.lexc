@@ -106,7 +106,7 @@ LEXICON PRONOUN-TYPES
 ся+Pron+Dem+Pl+Gen+Def:сятнень K  "se" ;
 ся+Pron+Dem+Pl+Nom+Def:сятне K  "se" ;
 сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
-тона+Det:тона PRON_  "tuo, se" ;
+тона+Pron:тона PRON-DEM_TONA  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
 тяка+Det+Dem:тяк%{АО%} N_PULA "tämä sama" ;
 
@@ -302,6 +302,12 @@ LEXICON PRON-DEM-SG
 +Sg+Gen+Indef:%>%{ЕОØ%}нь K_ГА ;
 +Sg+Nom+Indef: K_вок ;
 +Pl+Nom+Indef:%>тЬ2 K_ГА ;
+
+LEXICON PRON-DEM_TONA
+PRON-DEM_ ;
++Dem+Sg+Dat+PxSg3:%>%{ЕОØ%}нцты K ;
++Dem+Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
++Dem+Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
 
 !! INTERROGATIVE PRONOUNS
 LEXICON INTERR
