@@ -1527,6 +1527,14 @@ LEXICON OPT-60
 
 LEXICON INF_ОМ
 +Inf:%>%{ЕОØ%}мс K ;
++Inf+Loc:%>%{ЕОØ%}м%{АО%} K ;
++Inf+Loc+PxSg1:%>%{ЕОØ%}мон K ;
++Inf+Loc+PxSg2:%>%{ЕОØ%}мот K ;
++Inf+Loc+PxSg3:%>%{ЕОØ%}монз%{АО%} K ;
++Inf+Loc+PxPl1:%>%{ЕОØ%}монок K ;
++Inf+Loc+PxPl1:%>%{ЕОØ%}монк K ;
++Inf+Loc+PxPl2:%>%{ЕОØ%}монт K ;
++Inf+Loc+PxPl3:%>%{ЕОØ%}мост K ;
 !+Inf+Ill:%>%{ЕОØ%}мс K ;
 +Inf+Abl:%>%{ЕОØ%}м%>да K ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
