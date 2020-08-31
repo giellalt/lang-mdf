@@ -219,7 +219,8 @@
    <lg>
      <l pos="N">ава</l>
      <stg>
-       <st Contlex="N_AVA">ава</st>
+       <st Contlex="N_AVA" varid="1">ава</st>
+       <st Contlex="N-VOC_J/KAJ/KANIAJ/NIAJ" varid="2">ава</st>
      </stg> <phonet>ava</phonet>
    </lg>
      <sources>
@@ -1962,7 +1963,7 @@
      <l pos="N">ака</l>
      <stg>
        <st Contlex="N_AVA" varid="1">ака</st>
-       <st Contlex="N-VOC_J" varid="2">ака</st>
+       <st Contlex="N-VOC_J/KANIAJ" varid="2">ака</st>
      </stg> <phonet>aka</phonet>
    </lg>
      <sources>
@@ -2078,7 +2079,7 @@
      <l pos="N">акля</l>
      <stg>
        <st Contlex="N_AVA" varid="1">акля</st>
-       <st Contlex="N-VOC_J/KAJ" varid="2">акля</st>
+       <st Contlex="N-VOC_J/KAJ/KANIAJ" varid="2">акля</st>
      </stg> <phonet>akľä</phonet>
    </lg>
      <sources>
@@ -2931,7 +2932,8 @@
    <lg>
      <l pos="N">алаша</l>
      <stg>
-       <st Contlex="N_AVA">алаша</st>
+       <st Contlex="N_AVA" varid="1">алаша</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">алаша</st>
      </stg> <phonet>alaša</phonet>
    </lg>
      <sources>
@@ -6552,7 +6554,8 @@
    <lg>
      <l pos="N">атя</l>
      <stg>
-       <st Contlex="N_AVA">атя</st>
+       <st Contlex="N_AVA" varid="1">атя</st>
+       <st Contlex="N-VOC_J/KAJ" varid="2">атя</st>
      </stg> <phonet>aťä</phonet>
    </lg>
      <sources>
@@ -6696,7 +6699,7 @@
    <lg>
      <l pos="N">атяката</l>
      <stg>
-       <st Contlex="N_AVA">атяката</st>
+       <st Contlex="N_PULA">атя#кат%{АО%}</st>
      </stg> <phonet>aťäkata</phonet>
    </lg>
      <sources>
@@ -8019,7 +8022,9 @@
      <l pos="N">баба</l>
      <stg>
        <st Contlex="N_AVA" varid="1">баба</st>
-       <st Contlex="N-VOC_J/KAJ" varid="2">баба</st>
+       <st Contlex="N-VOC_J/KAJ/KANIAJ/NIAJ" varid="2">баба</st>
+       <st Contlex="N_AVA" varid="3">паба</st>
+       <st Contlex="N-VOC_J/KAJ/KANIAJ/NIAJ" varid="4">паба</st>
      </stg> <phonet>baba</phonet>
    </lg>
      <sources>
@@ -9368,7 +9373,8 @@
    <lg>
      <l pos="N">батя</l>
      <stg>
-       <st Contlex="N_AVA">батя</st>
+       <st Contlex="N_AVA" varid="1">батя</st>
+       <st Contlex="N-VOC_J" varid="2">батя</st>
      </stg> <phonet>baťä</phonet>
    </lg>
      <sources>
@@ -12414,7 +12420,8 @@
    <lg>
      <l pos="N">брат</l>
      <stg>
-       <st Contlex="N_KAL">брат</st>
+       <st Contlex="N_KAL" varid="1">брат</st>
+       <st Contlex="N-VOC_KAJ" varid="2">брат</st>
      </stg> <phonet>brat, brad</phonet>
    </lg>
      <sources>
@@ -15654,7 +15661,8 @@
    <lg>
      <l pos="N">ваны</l>
      <stg>
-       <st Contlex="N_ANDY">ваны</st>
+       <st Contlex="N_ANDY" varid="1">ваны</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">ваны</st>
      </stg>
    </lg>
      <sources>
@@ -36421,7 +36429,8 @@
    <lg>
      <l pos="N">идь</l>
      <stg>
-       <st Contlex="N_KIAL1">идь</st>
+       <st Contlex="N_KIAL1" varid="1">идь</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">идь</st>
      </stg> <phonet>iď</phonet>
    </lg>
      <sources>
@@ -47968,6 +47977,7 @@
      <l pos="N">кельгома</l>
      <stg>
        <st Contlex="N_AVA">кельгома</st>
+       <st Contlex="N-VOC_NIAJ">кельгома</st>
      </stg> <phonet>keľgəma</phonet>
    </lg>
      <sources>
@@ -68220,7 +68230,8 @@
    <lg>
      <l pos="N">лефкс</l>
      <stg>
-       <st Contlex="N_OSH">лефкс</st>
+       <st Contlex="N_OSH" varid="1">лефкс</st>
+       <st Contlex="N-VOC_KIAJ" varid="2">лефкс</st>
      </stg> <phonet>ľefks</phonet>
    </lg>
      <sources>
@@ -73625,7 +73636,7 @@
      <l pos="N">мама</l>
      <stg>
        <st Contlex="N_AVA" varid="1">мама</st>
-       <st Contlex="N-VOC_J/KAJ" varid="2">мама</st>
+       <st Contlex="N-VOC_J/KAJ/NIAJ" varid="2">мама</st>
      </stg>
    </lg>
      <sources>
@@ -82580,7 +82591,8 @@
    <lg>
      <l pos="N">нарвай</l>
      <stg>
-       <st Contlex="N_VAJ">нарвай</st>
+       <st Contlex="N_VAJ" varid="1">нарвай</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">нарвай</st>
      </stg> <phonet>narvaj</phonet>
    </lg>
      <sources>
@@ -87239,6 +87251,7 @@
      <l pos="N">ов</l>
      <stg>
        <st Contlex="N_KAL">ов</st>
+       <st Contlex="N-VOC_NIAJ">ов</st>
      </stg> <phonet>ov</phonet>
    </lg>
      <sources>
@@ -90887,7 +90900,8 @@
    <lg>
      <l pos="N">оцязор</l>
      <stg>
-       <st Contlex="N_KAL">оцязор</st>
+       <st Contlex="N_KAL" varid="1">оцязор</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">оцязор</st>
      </stg> <phonet>oćazər</phonet>
    </lg>
      <sources>
@@ -94855,7 +94869,8 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="N_AVA">патя</st>
+       <st Contlex="N_AVA" varid="1">патя</st>
+       <st Contlex="N-VOC_J" varid="2">патя</st>
      </stg> <compg> </compg> <phonet>paťä</phonet>
    </lg>
      <sources>
@@ -94995,7 +95010,8 @@
    <lg>
      <l pos="N">паця</l>
      <stg>
-       <st Contlex="N_AVA">паця</st>
+       <st Contlex="N_AVA" varid="1">паця</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">паця</st>
      </stg> <phonet>paćä</phonet>
    </lg>
      <sources>
@@ -111060,6 +111076,7 @@
      <l pos="N">пяльня</l>
      <stg>
        <st Contlex="N_AVA">пяльня</st>
+       <st Contlex="N-VOC_NIAJ">пяльня</st>
      </stg> <phonet>päľńä</phonet>
    </lg>
      <sources>
@@ -117418,7 +117435,8 @@
    <lg>
      <l pos="N">сазор</l>
      <stg>
-       <st Contlex="N_KAL">сазор</st>
+       <st Contlex="N_KAL" varid="1">сазор</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">сазор</st>
      </stg> <phonet>sazər</phonet>
    </lg>
      <sources>
@@ -122465,7 +122483,8 @@
    <lg>
      <l pos="N">сестра</l>
      <stg>
-       <st Contlex="N_AVA">сестра</st>
+       <st Contlex="N_AVA" varid="1">сестра</st>
+       <st Contlex="N-VOC_J/NIAJ" varid="2">сестра</st>
      </stg> <phonet>śestra, śästra</phonet>
    </lg>
      <sources>
@@ -128444,7 +128463,8 @@
    <lg>
      <l pos="N">стирь</l>
      <stg>
-       <st Contlex="N_KIAL1">стирь</st>
+       <st Contlex="N_KIAL1" varid="1">стирь</st>
+       <st Contlex="N-VOC_KAJ/NIAJ" varid="2">стирь</st>
      </stg> <phonet>śťiŕ, śťəŕ</phonet>
    </lg>
      <sources>
@@ -130102,6 +130122,7 @@
      </etymology>
      <stg>
        <st Contlex="N_AVA">сузма</st>
+       <st Contlex="N-VOC_NIAJ">сузма</st>
      </stg> <compg> </compg> <phonet>suzma</phonet>
    </lg>
      <sources>
@@ -144173,7 +144194,8 @@
    <lg>
      <l pos="N">тяка</l>
      <stg>
-       <st Contlex="N_AVA">тяка</st>
+       <st Contlex="N_AVA" varid="1">тяка</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">тяка</st>
      </stg> <phonet>ťaka</phonet>
    </lg>
      <sources>
@@ -156477,7 +156499,8 @@
    <lg>
      <l pos="N">цёра</l>
      <stg>
-       <st Contlex="N_AVA">цёра</st>
+       <st Contlex="N_AVA" varid="1">цёра</st>
+       <st Contlex="N-VOC_J/NIAJ" varid="2">цёра</st>
      </stg> <phonet>ćora</phonet>
    </lg>
      <sources>
@@ -167183,7 +167206,8 @@
    <lg>
      <l pos="N">щава</l>
      <stg>
-       <st Contlex="N_AVA">щава</st>
+       <st Contlex="N_AVA" varid="1">щава</st>
+       <st Contlex="N-VOC_J" varid="2">щава</st>
      </stg> <phonet>ščava</phonet>
    </lg>
      <sources>
@@ -167220,7 +167244,8 @@
    <lg>
      <l pos="N">щака</l>
      <stg>
-       <st Contlex="N_AVA">щака</st>
+       <st Contlex="N_AVA" varid="1">щака</st>
+       <st Contlex="N-VOC_J/NIAJ" varid="2">щака</st>
      </stg> <phonet>ščaka</phonet>
    </lg>
      <sources>
@@ -168256,7 +168281,8 @@
    <lg>
      <l pos="N">эзна</l>
      <stg>
-       <st Contlex="N_AVA">эзна</st>
+       <st Contlex="N_AVA" varid="1">эзна</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">эзна</st>
      </stg> <phonet>ezna</phonet>
    </lg>
      <sources>
@@ -172351,7 +172377,7 @@
      <l pos="N">ялга</l>
      <stg>
        <st Contlex="N_AVA" varid="1">ялга</st>
-       <st Contlex="N-VOC_J/KAJ" varid="2">ялга</st>
+       <st Contlex="N-VOC_J/KAJ/NIAJ" varid="2">ялга</st>
      </stg> <phonet>jalga</phonet>
    </lg>
      <sources>

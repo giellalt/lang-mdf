@@ -34,6 +34,7 @@ LEXICON VERBNEGATIVE
 аф+V+Aux+Neg+Opt+ScSg3:тяза K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcSg1:тязамань K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcPl1:тязамазь K ;
+аф+V+Aux+Neg+Opt+ScSg3+OcPl1+Orth/Colloq:тямазь K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
@@ -346,9 +347,13 @@ LEXICON Non-Finite-Vws
 +Ger:%>%{ЕОØ%}мок K ;
 +Ger+Cmpr:%>%{ЕОØ%}м%>шка N_AVA ;
 
+@C.CONJ@+Der+Der/OvOms+V:@C.CONJ@%>%{ЕОØ%}в IV_ANDOVOMS ;
+!Mormula 2020-08-31
+
 LEXICON Non-Finite-Cns
 !+PrfPrc:%^Devoice%>ф K ;
 +Der/f+PrfPrc:%^Devoice%>ф N_KAL ;
+
 
 !! !AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
@@ -745,6 +750,7 @@ LEXICON VERB-ZERO-36
 
 LEXICON VERB-ZERO-40
 @U.CONJ-PX.4Ø@+ScPl1:@U.CONJ-PX.4Ø@%>%{Х%}т%{АЯ%}ма VerbEnd ;
+@U.CONJ-PX.4Ø@+ScPl1+Orth/Colloq:@U.CONJ-PX.4Ø@%>%{Х%}т%{АЯ%}м VerbEnd ;
 
 LEXICON VERB-ZERO-42
 @U.CONJ-PX.42@+ScPl1+OcSg2:@U.CONJ-PX.42@%>%{Х%}тядязь VerbEnd ;

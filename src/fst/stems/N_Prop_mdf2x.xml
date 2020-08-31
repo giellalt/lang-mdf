@@ -4685,6 +4685,37 @@
 </e>
 <e meta="" id="None">
    <lg>
+     <l pos="N" type="Prop">Шкай</l>
+     <stg>
+       <st Contlex="N_VAJ" varid="1">Шкай</st>
+       <st Contlex="N-VOC_NIAJ" varid="2">Шкай</st>
+     </stg> <phonet>škaj</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Jumala</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>спасиба шкай-павазти</x> <phonet>spaśiba škaj-pavazťi</phonet>
+       <xt xml:lang="fin">jumalan kiitos</xt>
+     </xg>
+     <xg>
+       <x>Шкаенди верондама</x> <phonet>škajəńďi verəndama</phonet>
+       <xt xml:lang="fin">usko Jumalaan</xt>
+     </xg>
+     <xg>
+       <x>Шкайда пелема</x> <phonet>škajdə/škajďə peľəma</phonet>
+       <xt xml:lang="fin">jumalanpelko</xt>
+     </xg>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
      <l pos="N" type="Prop">Ювання</l>
      <stg>
        <st Contlex="N_AVA">Ювання</st>
