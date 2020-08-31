@@ -57,6 +57,12 @@ LEXICON EXCEPTIONS
 одукс+Adv:одукс ADV_ ;
 аньцек-аньцек+Adv:аньцек-аньцек ADV_ ;
 мзярошка+Adv:мзярошка ADV_ ;
+пожалуй+Adv:пожалуй ADV-MOD_ ;
+сейчас+Adv:сейчас ADV-TEMP_ ;
+цят+Adv:цят ADV-DEG_ ;
+совсем+Adv:совсем ADV_ ;
+
+
 пяле+Adp+Loc:пяле K ;
 пяле+Adp+Loc:пяло OBLIQUECX-PX-REQUIRES-VOWEL/NO-VOWEL ;
 
@@ -116,22 +122,11 @@ LEXICON EXCEPTIONS
 
 
 !! VOCATIVES
-ава+N:ава N-VOC_J/KAJ/NIAJ ;
-аля+N:аля N-VOC_J/KAJ ;
-атя+N:атя N-VOC_J/KAJ ;
-батя+N:батя N-VOC_J ;
-брат+N:брат N-VOC_KAJ ;
-идь+N:идь N-VOC_NIAJ ;
 кельгом+N:кельгом N-VOC_NIAJ ;
-патя+N:патя N-VOC_J ;
-сазор+N:сазор N-VOC_NIAJ ;
-стирь+N:стирь N-VOC_KAJ/NIAJ ;
-тядя+N:тядя N-VOC_J/KAJ/NIAJ ;
+
 уноконяй+N:уноко N-VOC_NIAJ ;
-цёра+N:цёра N-VOC_J/NIAJ ;
-щава+N:щава N-VOC_J ;
 щатя+N:щатя N-VOC_J ;
-ялга+N:ялга N-VOC_J/KAJ/NIAJ ;
+
 ялганя+N:ялганя N-VOC_KAJ ;
 
 !! TOPONYMY
