@@ -247,7 +247,7 @@ LEXICON N_mdf2x
 ардомня+N:ардомня N_AVA  "" ;
 арена+N:арена N_AVA  "" ;
 аренда+N:аренда N_AVA  "" ;
-аржа+N:аржа N_AVA  "lovi" ;
+аржа+N:арж%{АЕØ%} N_MOKSHA  "lovi" ;
 арженя+N:арженя N_AVA  "" ;
 арзя+N:арзя N_AVA  "laatikko" ;
 аристократ+N:аристократ N_KAL  "" ;
@@ -843,7 +843,6 @@ LEXICON N_mdf2x
 вачкотькс+N:вачкотькс N_OSH  "" ;
 вачкярня+N:вачкярня N_AVA  "" ;
 вачкярь+N:вачкярь N_KIAL1  "" ;
-ваша+N:ваш%{АЕØ%} N_MOKSHA  "(tekst.) jatkoloimi" ;
 ваша+Hom1+N:ваш%{АЕØ%} N_MOKSHA  "varsa" ;
 ваша+Hom2+N:ваш%{АЕØ%} N_MOKSHA  "(tekst.) jatkoloimi" ;
 вашеня+N:вашеня N_AVA  "" ;
@@ -2302,8 +2301,6 @@ LEXICON N_mdf2x
 кенкшкундама+N:кенкшкундама N_AVA  "ovenkahva" ;
 кенкшланга+N:кенкш#ланг%{АОØ%} N_PANGA  "eteinen" ;
 кенордама+N:кенордама N_AVA  "kiire" ;
-кеньжа+N:кеньж%{АЕØ%} N_MOKSHA  "" ;
-кеньчкскя+N:кеньчкскя N_VAL1MIA  "" ;
 кенярдема+N:кенярдема N_AVA  "ilo" ;
 кеняртьф+N:кеняртьф N_KAL  "" ;
 кепама+N:кепама N_AVA  "" ;
@@ -2783,7 +2780,7 @@ LEXICON N_mdf2x
 кудня+N:кудня N_AVA  "mökki" ;
 кудонголь+N:кудонголь N_KIAL1  "eteinen" ;
 кудря+N:кудря N_AVA  "kihara tukka" ;
-кужа+N:куж%{АЕØ%} N_PULA  "aukio" ;
+кужа+N:куж%{АЕØ%} N_MOKSHA  "aukio" ;
 куженя+N:куженя N_AVA  "" ;
 куз+N:куз N_SARAZ  "kuusi" ;
 кузбол+N:кузбол N_KAL  "liesi" ;
@@ -4381,7 +4378,6 @@ LEXICON N_mdf2x
 пиджак+N:пиджак N_KAL  "" ;
 пиди-пани+N:пиди-пани N_ANDY  "" ;
 пидикс+N:пидикс N_OSH  "" ;
-пижа+N:пижа N_MOKSHA  "" ;
 пижама+N:пижама N_AVA  "" ;
 пиже+N:пиже N_PINE  "vihreä" ;
 пижф+N:пижф N_KAL  "" ;
@@ -4464,7 +4460,6 @@ LEXICON N_mdf2x
 пихтема+N:пихтема N_AVA  "kirnuaminen" ;
 пихтемлофца+N:пихтем#лофц%{АОØ%} N_OFTA  "rasvaton maito" ;
 пицема+N:пицема N_AVA  "" ;
-пича+N:пича N_  "" ;
 пиче+N:пиче N_TISHE  "mänty" ;
 пичевай+N:пичевай N_VAJ  "männynpihka" ;
 пичелдома+N:пичелдома N_AVA  "nokkosen polttama" ;
@@ -5049,7 +5044,7 @@ LEXICON N_mdf2x
 рабочай+N:рабочай N_VAJ  "työ-" ;
 рабства+N:рабства N_AVA  "orjuus" ;
 рав+N:рав N_KAL  "" ;
-равжа+N:равж%{АОØ%} N_PANGA  "musta" ;
+равжа+N:равж%{АЕØ%} N_MOKSHA  "musta" ;
 равжава+N:равжава N_AVA  "ruskeaverikkö" ;
 равжелгодома+N:равжелгодома N_AVA  "mustuminen" ;
 равнина+N:равнина N_AVA  "tasanko" ;
@@ -7360,7 +7355,7 @@ LEXICON N_mdf2x
 шахматист+N:шахматист N_KAL  "" ;
 шахта+N:шахта N_AVA  "" ;
 шахтёр+N:шахтёр N_KAL  "kaivostyöläinen" ;
-шача+N:шача N_AVA  "" ;
+шача+N:шач%{АЕØ%} N_MOKSHA  "" ;
 шачема+N:шачема N_AVA  "syntymä" ;
 шачендома+N:шачендома N_AVA  "" ;
 шачфтома+N:шачфтома N_AVA  "" ;
