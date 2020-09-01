@@ -239,7 +239,8 @@ LEXICON V0_MUMS
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 +Use/NG:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
 :	 IND-PRT1-SC3 ; !!= @CODE@ 
-:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; 
+!:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; 
+:	 IND-PRT1-ALL-BUT-Sc3 ; 
 
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
 @R.CONJ.ObjAll@:@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
@@ -1405,6 +1406,7 @@ LEXICON IMPRT-20
 @U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@+Imprt+ScSg2:@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@%>%{Х%}%{КТ%}%{ЬØ%} VerbEnd ;
 !€ пань%>%{КТ%}%{ЬØ%}
 !€ пан0%>ть
+@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@+Imprt+ScSg2+Orth/Colloq:@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@%>%{Х%}к VerbEnd ;
 !+Imprt+ScSg2@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@:%>%{Х%}%{КТ%}%{ЬØ%}@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@ VerbEnd ;
 @U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@+Prec+ScSg2:@U.CONJ-MX.IMP@@U.CONJ-PX.2Ø@%>%{Х%}%{КТ%}%{АЯ%}ка VerbEnd ;
 

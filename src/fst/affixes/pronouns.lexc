@@ -110,7 +110,7 @@ LEXICON PRONOUN-TYPES
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
 тяка+Det+Dem:тяк%{АО%} N_PULA "tämä sama" ;
 
-тяшка+A+Dem:тяшка PRON_  "sellainen, semmoinen, samanlainen" ;
+тяшка+A+Dem:тяшка PRON_AVA  "sellainen, semmoinen, samanlainen" ;
 финцне+Pron:финцне PRON_  "jotkut" ;
 фкя-фкада+Pron:фкя-фкада PRON_  "" ;
 фкя-фкянь+Pron:фкя-фкянь PRON_  "" ;
@@ -146,6 +146,9 @@ LEXICON PERS                        !!≈ * __@CODE@__
 
 LEXICON PRON_
 : #;
+LEXICON PRON_AVA
+NMN_AVA ;
+
 
 !! PERSONAL PRONOUNS
 LEXICON PERS-SG1
