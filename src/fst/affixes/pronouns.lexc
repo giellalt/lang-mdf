@@ -96,15 +96,13 @@ LEXICON PRONOUN-TYPES
 !тинць+Pron:тинць PRON_  "" ;
 
 нона+Pron:нона PRON_  "muu, toinen, edellinen" ;
-ня+Pron+Dem+Pl+Nom:ня PRON_  "nämä, ne" ;
-ня+Pron+Dem+Pl+Nom:нят PRON_  "nämä, ne" ;
+ня+Det+Dem+Pl:ня DET-DEM_  "nämä, ne" ;
+ся+Pron+Dem:ся DET-DEM_  "se" ;
 
-някот+Pron:някот PRON_  "(mon.) vain nämä" ;
-ся+Pron+Dem:ся PRON-DEM_  "se" ;
-ся+Pron+Dem+Pl+Nom+Indef:сят K  "se" ;
-ся+Pron+Dem+Pl+Dat+Def:сятненди K  "se" ;
-ся+Pron+Dem+Pl+Gen+Def:сятнень K  "se" ;
-ся+Pron+Dem+Pl+Nom+Def:сятне K  "se" ;
+нят+Pron+Dem:ня PRON-DEM_NIAT  "nämä, ne" ;
+
+някот+Pron:няк%{АО%} PRON-DEM_NIAT  "(mon.) vain nämä" ;
+ся+Pron+Dem:ся PRON-DEM_SIA  "se" ;
 сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
 тона+Pron:тона PRON-DEM_TONA  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
@@ -298,6 +296,18 @@ LEXICON GEN-FORM_OR_POSS
 !! !DEMONSTRATIVE PRONOUNS
 LEXICON PRON-DEM_
 +Dem: PRON-DEM-SG ;
+LEXICON PRON-DEM_SIA
+ PRON-DEM_NIAT ;
++Sg+Dat+Indef:%>%{ЕОØ%}нди K ;
++Sg+Gen+Indef:%>%{ЕОØ%}нь K ;
++Sg+Nom+Indef: K ;
+
+LEXICON PRON-DEM_NIAT !нят:нят
++Pl+Nom+Indef:%>т K ;
++Pl+Dat+Def:%>тненди K ;
++Pl+Gen+Def:%>тнень K ;
++Pl+Nom+Def:%>тне K ;
+
 
 LEXICON PRON-DEM-SG
 +Sg+Abl+Indef:%>д%{АО%} K_вок ;

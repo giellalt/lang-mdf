@@ -110,7 +110,7 @@ LEXICON ADPOSITION-TYPES
 видева+Adp:видева ADP-WITH-PX-OR-NOT ;
 келева+Adp:келева ADP-WITH-PX-OR-NOT ;
 корява+Adp:корява ADP-WITH-PX-OR-NOT ;
-коряс+Adp:коряс ADP-WITH-PX-OR-NOT ;
+коряс+Adp:коря PO-ILL_ ;
 пачка+Adp:пачка ADP-WITH-PX-OR-NOT ;
 
 !кядьса
@@ -170,8 +170,9 @@ LEXICON PO-INE_
 !+Dat+Def: K_вок ;
 !LEXICON PO-ELA_
 !+Ela: K_вок ;
-LEXICON PO-ILL_
-+Ill: K_вок ;
+LEXICON PO-ILL_ ! коряс:коря 
++Ill:%>с K_вок ;
++Ill:%>%{ЕОØ%}з OBLIQUECX-PX-osh  ;
 !LEXICON PO-LAT_
 !+Lat: K_вок ;
 !LEXICON PO-LOC_
