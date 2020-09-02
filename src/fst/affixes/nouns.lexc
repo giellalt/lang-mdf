@@ -12,6 +12,9 @@
 LEXICON N_
 +Sg+Nom+Indef+TYÄ: ENDLEX;
 
+LEXICON N-IS-PRL_
++SP+Prl: Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+
 LEXICON N_AVA_DIAL
 +Dial+Use/NG+Err/Orth: N_AVA ;
 LEXICON N_OSH_DIAL
@@ -1194,6 +1197,7 @@ LEXICON OBLIQUECX-PX-osh
 !+PxSg2:%>%{ЕОØ%}т NounEnd_K ;
 @U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} NounEnd_K ;
 @U.DECL-DX.PXPL1@+PxPl1:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нк NounEnd_K ;
+@U.DECL-DX.PXPL1@+PxPl1+Err/Colloq:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нок NounEnd_K ;
 @U.DECL-DX.PXPL2@+PxPl2:@U.DECL-DX.PXPL2@%>%{ЕОØ%}нт NounEnd_K ;
 @U.DECL-DX.PXPL3@+PxPl3:@U.DECL-DX.PXPL3@%>%{ЕОØ%}ст NounEnd_K ;
 
