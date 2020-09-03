@@ -167,7 +167,7 @@
    <lg>
      <l pos="Po">бокс</l>
      <stg>
-       <st Contlex="PO-ILL_">бокс</st>
+       <st Contlex="PO-ILL_">бок</st>
      </stg> <phonet>boks</phonet>
    </lg>
      <sources>
@@ -263,7 +263,7 @@
    <lg>
      <l pos="Po">ваксс</l>
      <stg>
-       <st Contlex="PO-ILL_">ваксс</st>
+       <st Contlex="PO-ILL_">вакс</st>
      </stg> <phonet>vakss</phonet>
    </lg>
      <sources>
@@ -324,7 +324,7 @@
    <lg>
      <l pos="Po">вастс</l>
      <stg>
-       <st Contlex="PO-ILL_">вастс</st>
+       <st Contlex="PO-ILL_">васт</st>
      </stg> <phonet>vasc</phonet>
    </lg>
      <sources>
@@ -439,7 +439,7 @@
    <lg>
      <l pos="Po">вельфке</l>
      <stg>
-       <st Contlex="PO_">вельфке</st>
+       <st Contlex="PO-PRL_">вельфк%{АЕ%}</st>
      </stg> <phonet>veľfkä, veľfka</phonet>
    </lg>
      <sources>
@@ -502,7 +502,7 @@
    <lg>
      <l pos="Po">вельхксс</l>
      <stg>
-       <st Contlex="PO-ILL_">вельхксс</st>
+       <st Contlex="PO-ILL_">вельхкс</st>
      </stg> <phonet>veľxkss</phonet>
    </lg>
      <sources>
@@ -556,7 +556,7 @@
    <lg>
      <l pos="Po">видес</l>
      <stg>
-       <st Contlex="PO-ILL_">видес</st>
+       <st Contlex="PO-ILL_">виде</st>
      </stg> <phonet>viďəs</phonet>
    </lg>
      <sources>
@@ -635,7 +635,7 @@
    <lg>
      <l pos="Po">видьге</l>
      <stg>
-       <st Contlex="PO-PRL_">видьге</st>
+       <st Contlex="PO-PRL_">видьг%{АЕ%}</st>
      </stg> <phonet>viďgä</phonet>
    </lg>
      <sources>
@@ -654,7 +654,7 @@
    <lg>
      <l pos="Po">ес</l>
      <stg>
-       <st Contlex="PO-ILL_">ес</st>
+       <st Contlex="PO-ILL_">е</st>
      </stg>
    </lg>
      <sources>
@@ -708,7 +708,7 @@
    <lg>
      <l pos="Po">ингольге</l>
      <stg>
-       <st Contlex="PO-PRL_">ингольге</st>
+       <st Contlex="PO-PRL_">ингольг%{АЕ%}</st>
      </stg>
    </lg>
      <sources>
@@ -811,7 +811,7 @@
    <lg>
      <l pos="Po">каршес</l>
      <stg>
-       <st Contlex="PO-ILL_">каршес</st>
+       <st Contlex="PO-ILL_">карше</st>
      </stg>
    </lg>
      <sources>
@@ -903,7 +903,7 @@
    <lg>
      <l pos="Po">келес</l>
      <stg>
-       <st Contlex="PO-ILL_">келес</st>
+       <st Contlex="PO-ILL_">келе</st>
      </stg>
    </lg>
      <sources>
@@ -1007,7 +1007,7 @@
    <lg>
      <l pos="Po">коряс</l>
      <stg>
-       <st Contlex="PO_">коряс</st>
+       <st Contlex="PO-ILL_">коря</st>
      </stg> <phonet>koŕas</phonet>
    </lg>
      <sources>
@@ -1105,7 +1105,7 @@
    <lg>
      <l pos="Po">кувалмос</l>
      <stg>
-       <st Contlex="PO-ILL_">кувалмос</st>
+       <st Contlex="PO-ILL_">кувалмо</st>
      </stg> <phonet>kuvalməs</phonet>
    </lg>
      <sources>
@@ -1143,7 +1143,7 @@
    <lg>
      <l pos="Po">кучкас</l>
      <stg>
-       <st Contlex="PO-ILL_">кучкас</st>
+       <st Contlex="PO-ILL_">кучка</st>
      </stg>
    </lg>
      <sources>
@@ -1194,45 +1194,6 @@
        <t pos="Po">luona</t>
      </tg>
      <defNative>null</defNative>
-   </mg>
-</e>
-<e exclude="fst" meta="" id="None">
-   <map/>
-   <lg>
-     <l pos="Adp">кядьса</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="PO-INE_">кядьс%{АО%}</st>
-     </stg> <compg> </compg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Po">luona</t>
-     </tg>
-     <defNative>null</defNative>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Po">кядьса</l>
-     <stg>
-       <st Contlex="PO-INE_">кядьс%{АО%}</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Po">luona</t>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e exclude="fst" meta="" id="None">
@@ -1291,9 +1252,9 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Po">кяц</l>
+     <l pos="Po">кядьс</l>
      <stg>
-       <st Contlex="PO-ILL_">кяц</st>
+       <st Contlex="PO-ILL_">кядь</st>
      </stg>
    </lg>
      <sources>
@@ -1302,7 +1263,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Po"/>
+       <t pos="Po">luo</t>
      </tg>
      <defNative/>
    </mg>
@@ -1904,7 +1865,7 @@
    <lg>
      <l pos="Po">мельге</l>
      <stg>
-       <st Contlex="PO-PRL_МЕЛЬГЕ">мельге</st>
+       <st Contlex="PO-PRL_МЕЛЬГЕ">мельг%{АЕ%}</st>
      </stg> <phonet>meľgä</phonet>
    </lg>
      <sources>
@@ -2285,7 +2246,7 @@
    <lg>
      <l pos="Po">пяльге</l>
      <stg>
-       <st Contlex="PO-PRL_">пяльге</st>
+       <st Contlex="PO-PRL_">пяльг%{АЕ%}</st>
      </stg> <phonet>päľgä</phonet>
    </lg>
      <sources>
@@ -2853,7 +2814,7 @@
    <lg>
      <l pos="Po">ширьге</l>
      <stg>
-       <st Contlex="PO-PRL_">ширьге</st>
+       <st Contlex="PO-PRL_">ширьг%{АЕ%}</st>
      </stg> <phonet>šiŕgä</phonet>
    </lg>
      <sources>
