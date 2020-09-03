@@ -18,6 +18,8 @@ LEXICON NUMERAL-TYPES
 кафта+Num:кафо NUMERALS-FOR-ASSOCCOLL ;
 кафта+Num:кафо NUMERALS-FOR-COLL ;
 кафта+Num+Coll+Sg+Nom:кафцьке ENDLEX ;
+кафта+Num+Coll+Sg+Gen:кафцьконь K ;
+кафта+Num+Coll+Sg+Dat:кафцьконди K ;
 кафта+Num+Der+Der/Ord+A+Ord:омбо NUMERALS-FOR-COLL ;
 
 колма+Num:колм%{АО%} NUMERALS-3-AND-UP-PULA ;
@@ -29,7 +31,17 @@ LEXICON NUMERAL-TYPES
 кафкса+Num:кафкс%{АО%} NUMERALS-3-AND-UP-PULA ;
 вейхкса+Num:вейхкс%{АО%} NUMERALS-3-AND-UP-PULA ;
 кемонь+Num:кемонь NUMERALS-3-AND-UP-KIAL1 ;
-
+кефкие+Num:кефкие  NUMERALS-3-AND-UP-PINE ;
+кемгафтува+Num:кемгафтув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемголмува+Num:кемголмув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемнилие+Num:кемнилие  NUMERALS-3-AND-UP-PINE ;
+кеветие+Num:кеветие  NUMERALS-3-AND-UP-PINE ;
+кемготува+Num:кемготув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемзисемге+Num:кемзисемг%{ЕО%} NUMERALS-3-AND-UP-SEL1ME ;
+кемгафксува+Num:кемгафксув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кевейхсые+Num:кевейхсые  NUMERALS-3-AND-UP-PINE ;
+комсь+v1+Num:комсь NUMERALS-3-AND-UP-OSH ;
+комсь+v2+Num:комозь NUMERALS-3-AND-UP-OSH ;
 колмогемонь+Num:колмогемонь NUMERALS-3-AND-UP-KIAL1 ;
 ниленьгемонь+Num:ниленьгемонь NUMERALS-3-AND-UP-KIAL1 ;
 ведьгемонь+Num:ведьгемонь NUMERALS-3-AND-UP-KIAL1 ;
@@ -45,11 +57,17 @@ NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
 LEXICON NUMERALS-3-AND-UP-PULA
 +Card: NMN_PULA ;
 NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+LEXICON NUMERALS-3-AND-UP-SEL1ME
++Card: NMN_SEL1ME ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
 LEXICON NUMERALS-3-AND-UP-KIAL1
 +Card: N_KIAL1 ;
 NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
 LEXICON NUMERALS-3-AND-UP-OFTA
 +Card: N_OFTA ;
+NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
+LEXICON NUMERALS-3-AND-UP-OSH
++Card: NMN_OSH ;
 NUMERALS-ASSOCCOLL/COLL/ITER/ORD ;
 
 LEXICON NUMERALS-ASSOCCOLL/COLL/ITER/ORD
@@ -71,6 +89,8 @@ LEXICON NUMERALS-FOR-ASSOCCOLL
 LEXICON NUMERALS-FOR-COLL
 +Coll+Sg+Nom:%>%{ЕОØ%}нст ENDLEX ;
 +Coll+Sg+Nom:%>%{ЕОØ%}цьке ENDLEX ;
++Coll+Sg+Gen:%>%{ЕОØ%}цьконь K ;
++Coll+Sg+Dat:%>%{ЕОØ%}цьконди K ;
 
 LEXICON NUMERALS-TO-ITER
 +Der+Der/Iter+Adv+Iter:%>ксть ENDLEX ;
