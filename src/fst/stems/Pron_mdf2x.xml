@@ -430,7 +430,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кияк</l>
+     <l pos="Pron" type="Indef">кияк</l>
      <stg>
        <st Contlex="PRON_">кияк</st>
      </stg>
@@ -445,56 +445,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кодама</l>
+     <l pos="A" type="Indef">кодамовок</l>
      <stg>
-       <st Contlex="DET_PINGE">кодам</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Pron">millainen</t>
-     </tg>
-     <m>
-     </m>
-     <xg>
-       <x>кой-кодама</x> <phonet>koj-kodama</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg>
-       <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg>
-       <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
-       <xt xml:lang="fin">jonkinlainen.</xt>
-     </xg>
-     <xg>
-       <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
-       <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
-     </xg>
-     <xg>
-       <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
-       <xt xml:lang="fin">ei minkäänlainen.</xt>
-     </xg>
-     <xg>
-       <x>кодама повсь</x> <phonet>kodamə povś</phonet>
-       <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
-     </xg>
-     <xg>
-       <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
-       <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">кодамовок</l>
-     <stg>
-       <st Contlex="PRON_">кодамовок</st>
+       <st Contlex="A_">кодамовок</st>
      </stg>
    </lg>
      <sources>
@@ -507,9 +460,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">коданга</l>
+     <l pos="Adv" type="Indef">коданга</l>
      <stg>
-       <st Contlex="PRON-INDEF">коданга</st>
+       <st Contlex="ADV-INDEF">коданга</st>
      </stg>
    </lg>
      <sources>
@@ -525,7 +478,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кой-кие</l>
+     <l pos="Pron" type="Indef">кой-кие</l>
      <stg>
        <st Contlex="PRON_">кой-кие</st>
      </stg> <phonet>koj-kijä</phonet>
@@ -544,7 +497,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кой-кит</l>
+     <l pos="Pron" type="Indef">кой-кит</l>
      <stg>
        <st Contlex="PRON_">кой-кит</st>
      </stg>
@@ -559,9 +512,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кой-кодама</l>
+     <l pos="A" type="Indef">кой-кодама</l>
      <stg>
-       <st Contlex="PRON_">кой-кодама</st>
+       <st Contlex="A_">кой-кодам%{АОØ%}</st>
      </stg> <phonet>koj-kodama</phonet>
    </lg>
      <sources>
@@ -578,9 +531,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кой-кона</l>
+     <l pos="Det" type="Indef">кой-кона</l>
      <stg>
-       <st Contlex="PRON_">кой-кона</st>
+       <st Contlex="DET_">кой-кона</st>
      </stg> <phonet>koj-kona</phonet>
    </lg>
      <sources>
@@ -597,7 +550,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">кой-мезе</l>
+     <l pos="Pron" type="Indef">кой-мезе</l>
      <stg>
        <st Contlex="PRON-INDEF_КАТИ-МЕЗЕ">кой-мезе</st>
      </stg> <phonet>koj-meźä</phonet>
@@ -1325,7 +1278,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">минь</l>
+     <l pos="Pron" type="Pers">минь</l>
      <stg>
        <st Contlex="PERS-PL1">мин</st>
      </stg> <phonet>miń</phonet>
@@ -1508,7 +1461,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">ня</l>
+     <l pos="Pron" type="Dem">ня</l>
      <stg>
        <st Contlex="PRON_">ня</st>
      </stg> <phonet>ńä</phonet>
@@ -1521,8 +1474,6 @@
      <tg xml:lang="fin">
        <t pos="Pron">nämä, ne</t>
      </tg>
-     <m>
-     </m>
      <xg>
        <x>нят</x> <phonet>ńat</phonet>
        <xt xml:lang="fin">(mon.) nämä, ne.</xt>
@@ -1687,7 +1638,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">синь</l>
+     <l pos="Pron" type="Pers">синь</l>
      <stg>
        <st Contlex="PERS-PL3">син</st>
      </stg> <phonet>śiń</phonet>
@@ -1718,7 +1669,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">сон</l>
+     <l pos="Pron" type="Pers">сон</l>
      <stg>
        <st Contlex="PERS-SG3">сон</st>
      </stg> <phonet>son</phonet>
@@ -1914,7 +1865,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">теене</l>
+     <l pos="Pron" type="Pers">теене</l>
      <stg>
        <st Contlex="PERS-SG1-IS-DAT">теене</st>
        <st Contlex="PERS-SG1-IS-DAT">тейне</st>
@@ -1934,7 +1885,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">теенза</l>
+     <l pos="Pron" type="Pers">теенза</l>
      <stg>
        <st Contlex="PERS-SG3-IS-DAT">теенза</st>
        <st Contlex="PERS-SG3-IS-DAT">тейнза</st>
@@ -1954,7 +1905,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">теенть</l>
+     <l pos="Pron" type="Pers">теенть</l>
      <stg>
        <st Contlex="PERS-PL2-IS-DAT">теенть</st>
        <st Contlex="PERS-PL2-IS-DAT">тейнть</st>
@@ -1973,7 +1924,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">тееньк</l>
+     <l pos="Pron" type="Pers">тееньк</l>
      <stg>
        <st Contlex="PERS-PL1-IS-DAT">тееньк</st>
        <st Contlex="PERS-PL1-IS-DAT">тейнек</st>
@@ -1992,7 +1943,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">теест</l>
+     <l pos="Pron" type="Pers">теест</l>
      <stg>
        <st Contlex="PERS-PL3-IS-DAT">теест</st>
        <st Contlex="PERS-PL3-IS-DAT">тейст</st>
@@ -2012,7 +1963,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">тейть</l>
+     <l pos="Pron" type="Pers">тейть</l>
      <stg>
        <st Contlex="PERS-SG2-IS-DAT">тейть</st>
      </stg>
@@ -2090,7 +2041,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">тинь</l>
+     <l pos="Pron" type="Pers">тинь</l>
      <stg>
        <st Contlex="PERS-PL2">тин</st>
      </stg> <phonet>ťiń</phonet>
@@ -2101,19 +2052,27 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Pron">te; teidän</t>
+       <t pos="Pron">te</t>
      </tg>
      <tg xml:lang="fra">
-       <t pos="Pron">vous; votre</t>
+       <t pos="Pron">vous</t>
      </tg>
-     <m>
-     </m>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron">teidän</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Pron">votre</t>
+     </tg>
    </mg>
 </e>
 <e>
    <map/>
    <lg>
-     <l pos="Pron">тон</l>
+     <l pos="Pron" type="Pers">тон</l>
      <etymology>
      </etymology>
      <stg>
@@ -2670,6 +2629,53 @@
      <tg xml:lang="fin">
        <t>heidän joukkoonsa</t>
      </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кодама</l>
+     <stg>
+       <st Contlex="A_PANGA">кодам%{АОØ%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron">millainen</t>
+     </tg>
+     <m>
+     </m>
+     <xg>
+       <x>кой-кодама</x> <phonet>koj-kodama</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
+       <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
+     </xg>
+     <xg>
+       <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
+       <xt xml:lang="fin">ei minkäänlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама повсь</x> <phonet>kodamə povś</phonet>
+       <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
+     </xg>
+     <xg>
+       <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
+       <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
+     </xg>
    </mg>
 </e>
 </r> 

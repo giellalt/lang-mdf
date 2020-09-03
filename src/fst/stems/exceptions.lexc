@@ -102,6 +102,15 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 ниле-вете+Num+Appr+Sg+Nom+Indef:ниле-вете ENDLEX ;
 вете-кота+Num+Appr+Sg+Nom+Indef:вете-кота ENDLEX ;
 мезяма+Pron:мезяма PRON_AVA ;
+ёфсикс+Adv:ёфсикс ADV_ ;
+можнат+Adv:можнат ADV_ ;
+можеть+Adv:можеть ADV_ ;
+ламняс+Adv:ламняс ADV_ ;
+думамс+V:дума BV_KUNDAMS ;
+перьфпяльде+Adv:перьфпяльде ADV-ABL_ ;
+перьфпяли+Adv:перьфпяли ADV-LAT_ ;
+перьфпяле+Adv:перьфпяле ADV-LOC_ ;
+перьфпяльге+Adv:перьфпяльге ADV-PRL_ ;
 
 !! MISSING CS
 кда+CS:къда CS_ ;
@@ -121,6 +130,14 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 можна+Adv:можна ADV_ ;
 тожа+Adv:тожа ADV_ ;
 ах+Interj:ах INTERJ_ ;
+у-у+Interj:у-у INTERJ_ ;
+ага+Interj:ага INTERJ_ ;
+чоф+Interj:чоф INTERJ_ ;
+охай+Interj:охай INTERJ_ ;
+каф+Interj:каф INTERJ_ ;
+наверна+Adv:наверна ADV_ ;
+пряма+Adv:пряма ADV_ ;
+молемс+V+Prec+ScSg1:молякан ENDLEX ;
 
 !! IRREGULAR diminutives
 сазор+N+Der/Dimin:сазорка NMN_AVA "little sister" ;
@@ -5547,13 +5564,16 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 аре+V+Imprt+ScPl2:ареда K ;
 ожу+V+Imprt+ScPl2:ожуда	K ;
 
-лагоргодомс+V:лагоргод BV_ANDOMS ;
-мторгодомс+V:мторгод BV_ANDOMS ;
-таколгодомс+V:таколгод BV_ANDOMS ;
-цингоргодомс+V:цингоргод BV_ANDOMS ;
+лагоргодомс+V:лагоргод IV_ANDOMS ;
+мторгодомс+V:мторгод IV_ANDOMS ;
+таколгодомс+V:таколгод IV_ANDOMS ;
+цингоргодомс+V:цингоргод IV_ANDOMS ;
+ацерьгодомс+V:ацерьгод IV_ANDOMS ;
 содондомс+V:содонд BV_ANDOMS ;
 сирнедемс+V:сирнедь BV_ANDOMS ;
 летьмядемс+V:летьмядь BV_ANDOMS ;
+чопафтомс+V:чопафт IV_ANDOMS ;
+шудемс+V:шуде IV_KUNDAMS ;
 чопафнемс+V:чопафне BV_KUNDAMS ;
 тумандамс+V:туманда BV_KUNDAMS ;
 кульсемс+V:кульсе BV_KUNDAMS ;
