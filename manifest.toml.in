@@ -5,5 +5,8 @@ version = "@SPELLERVERSION@"
 system_pkg_id = "no.divvun.MacDivvun.mdf"
 
 [windows]
-system_product_code = "1CBF7818-BC23-4DC2-8E5F-9761FACE6F2F"
-msoffice_product_code = "7177C267-B0AE-4694-91E2-E9B95AA9822B"
+system_product_code = "{43F900B5-F0A0-43FF-B39C-B4284D84FA67}_is1"
+legacy_product_codes = [
+    { value = "7177C267-B0AE-4694-91E2-E9B95AA9822B", kind = "nsis" },
+    { value = "1CBF7818-BC23-4DC2-8E5F-9761FACE6F2F", kind = "nsis" }
+]
