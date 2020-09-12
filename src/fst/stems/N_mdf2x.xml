@@ -3454,7 +3454,8 @@
    <lg>
      <l pos="N">альняка</l>
      <stg>
-       <st Contlex="N_AVA">альняка</st>
+       <st Contlex="N_AVA" varid="1">альняка</st>
+       <st Contlex="N-VOC_J" varid="2">альняка</st>
      </stg> <phonet>aľńaka</phonet>
    </lg>
      <sources>
@@ -73637,7 +73638,7 @@
    <lg>
      <l pos="N">манда</l>
      <stg>
-       <st Contlex="N_AVA">манда</st>
+       <st Contlex="N_PULA">манд%{АО%}</st>
      </stg> <phonet>manda</phonet>
    </lg>
      <sources>
