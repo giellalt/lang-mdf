@@ -354,6 +354,10 @@ SUBSTITUTE (Hom4) (*) TARGET (*) ;
 #
 SUBSTITUTE (Sem/Mal) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
+#
+SUBSTITUTE (TV) (*) TARGET (*) ;
+SUBSTITUTE (IV) (*) TARGET (*) ;
+
 
 REMOVE Der/MWN ; # If any other reading is possible.
 

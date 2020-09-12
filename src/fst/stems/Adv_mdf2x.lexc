@@ -129,7 +129,7 @@ LEXICON Adv_mdf2x
 ваткафста+Adv:ваткафста ADV_  "valmiina" ;
 вафторнекомба+Adv:вафторнекомба ADV_  "??" ;
 вахлязь+Adv:вахлязь ADV_  "likaisesti" ;
-вачеда+Adv:вачеда ADV_  "nälkäisenä" ;
+вачеда+Adv:вачед%{АО%} ADV-STATE_  "nälkäisenä" ;
 вашуста+Adv:вашуста ADV_  "kantava" ;
 вдруг+Adv:вдруг ADV_  "yhtäkkiä" ;
 вдруг+Adv+Use/SpellNoSugg:въдруг ADV_  "yhtäkkiä" ;
@@ -392,7 +392,7 @@ LEXICON Adv_mdf2x
 кати-мес+Adv:кати-мес ADV-INDEF_  "jostain syystä" ;
 кати-местема+Adv:кати-местема ADV-INDEF_  "jotain varten" ;
 кати-мзяра+Adv:кати-мъзяра ADV-INDEF_  "jonkin verran" ;
-кати-мзярда+Adv:кати-мъзярда ADV-INDEF-TEMP_  "joskus" ;
+кати-мзярда+Adv:кати-мъзярд%{АО%} ADV-INDEF-TEMP_  "joskus" ;
 кати-мзярс+Adv:кати-мъзярс ADV_  "milloinhan" ;
 кафксова+Adv:кафксова ADV_  "kahdeksaan osaan" ;
 кафксогемоньксть+Adv:кафксогемоньксть ADV_  "kahdeksankymmentä kertaa" ;
@@ -505,7 +505,7 @@ LEXICON Adv_mdf2x
 колмошкаксть+Adv:колмошкаксть ADV_  "kolmisen kertaa" ;
 коль+Adv:коль ADV_  "yhä vielä" ;
 кольгозь-авардезь+Adv:кольгозь-авардезь ADV_  "vaivoin" ;
-комада+Adv:комада ADV_  "suullaan" ;
+комада+Adv:комад%{АО%} ADV-STATE_  "suullaan" ;
 комадонь+Adv:комадонь ADV_  "suullaan" ;
 комадоньпрят+Adv:комадоньпрят ADV_  "suullaan" ;
 комадоня+Adv:комадоня ADV_  "suullaan" ;
@@ -520,7 +520,7 @@ LEXICON Adv_mdf2x
 конашкада+Adv:конашкада ADV_  "milloin" ;
 конашкаста+Adv:конашкаста ADV_  "niin paljon kuin" ;
 копорьгодозь+Adv:копорьгодозь ADV_  "kumarassa" ;
-копылда+Adv:копылда ADV_  "selin" ;
+копылда+Adv:копылд%{АО%} ADV-STATE_  "selin" ;
 копылфца+Adv:копылфца ADV_  "(juosta) laukkaa" ;
 кородозь+Adv:кородозь ADV_  "hellävaroen" ;
 косойста+Adv:косойста ADV_  "vinosti" ;
@@ -592,7 +592,7 @@ LEXICON Adv_mdf2x
 кяжиямга+Adv:кяжиямга ADV_  "loukatakseen" ;
 кяжияфста+Adv:кяжияфста ADV_  "vihaisesti" ;
 кялезь+Adv:кялезь ADV_  "kahlaten" ;
-кяпе+Adv:кяпе ADV_  "paljain jaloin" ;
+кяпе+Adv:кяп%{ЕО%} ADV-STATE_  "paljain jaloin" ;
 кятавста+Adv:кятавста ADV_  "raittiina" ;
 кятьта+Adv:кятьта ADV_  "kädestä ??" ;
 кятьта-кятс+Adv:кятьта-кятс ADV_  "kädestä käteen" ;
@@ -732,7 +732,7 @@ LEXICON Adv_mdf2x
 мзяра+Adv:мъзяра ADV_  "montako" ;
 мзяра-бди+Adv:мъзяра-бъди ADV_  "jonkin verran" ;
 мзяра-мзяра+Adv:мъзяра-мъзяра ADV_  "jonkin verran" ;
-мзярда+Adv:мъзярда ADV-TEMP_  "milloin" ;
+мзярда+Adv:мъзярд%{АО%} ADV-TEMP_  "milloin" ;
 мзярда-бди+Adv:мъзярда-бъди ADV-TEMP_  "" ;
 мзярда-мзярда+Adv:мъзярда-мъзярда ADV-TEMP_  "jolloinkin" ;
 мзярдовок+Adv:мъзярдовок ADV-INDEF-TEMP_  "(ei) koskaan" ;
@@ -844,7 +844,7 @@ LEXICON Adv_mdf2x
 однястокиге+Adv:однястокиге ADV-TEMP_  "lapsuudesta alkaen" ;
 одста+Adv:одста ADV_  "uudelleen" ;
 оду+Adv:оду ADV-LAT_  "jälleen" ;
-озада+Adv:озада ADV_  "istuen" ;
+озада+Adv:озад%{АО%} ADV-STATE_  "istuen" ;
 озаткя+Adv:озаткя ADV_  "istuen" ;
 озсезь+Adv:озсезь ADV_  "(tanssia) ripaskaa" ;
 олажаста+Adv:олажаста ADV_  "hellästi" ;
@@ -960,7 +960,7 @@ LEXICON Adv_mdf2x
 противна+Adv:противна ADV_  "inhottavasti" ;
 прява+Adv:прява ADV_  "pintapuolisesti" ;
 прявиста+Adv:прявиста ADV_  "viisaasti" ;
-пряда+Adv:пряда ADV_  "reunaa myöten" ;
+пряда+Adv:пряд%{АО%} ADV-STATE_  "reunaa myöten" ;
 прянек-ваймонек+Adv:прянек-ваймонек ADV_  "kokonaan" ;
 прянек-мезнек+Adv:прянек-мезнек ADV_  "kokonaan" ;
 прянек-пильгонек+Adv:прянек-пильгонек ADV_  "kokonaan" ;
@@ -972,7 +972,7 @@ LEXICON Adv_mdf2x
 пувфтома+Adv:пувфтома ADV_  "aivan auki" ;
 пукшуста+Adv:пукшуста ADV_  "rikkaasti" ;
 пулцек-пяльцек+Adv:пулцек-пяльцек ADV_  "epäjärjestyksessä" ;
-пульзяда+Adv:пульзяда ADV_  "polvillaan" ;
+пульзяда+Adv:пульзяд%{АО%} ADV-STATE_  "polvillaan" ;
 пульхкозь+Adv:пульхкозь ADV_  "kiireisesti" ;
 пульхкозь-шарозь+Adv:пульхкозь-шарозь ADV_  "kiireisesti" ;
 пульцком+Adv:пульцком ADV_  "??" ;
@@ -1193,7 +1193,7 @@ LEXICON Adv_mdf2x
 страх+Adv:страх ADV-DEG_  "erittäin" ;
 страшна+Adv:страшна ADV_  "kovin" ;
 строгайста+Adv:строгайста ADV_  "kovasti" ;
-стяда+Adv:стяда ADV_  "seisten" ;
+стяда+Adv:стяд%{АО%} ADV-STATE_  "seisten" ;
 сувозь+Adv:сувозь ADV_  "valittaen" ;
 судорксса+Adv:судорксса ADV_  "rauhallisesti" ;
 сумбраста+Adv:сумбраста ADV_  "synkästi" ;
@@ -1580,7 +1580,7 @@ LEXICON Adv_mdf2x
 эрзякс+Adv:эрзякс ADV_  "ersää" ;
 эрь-мезня+Adv:эрь-мезня ADV_  "joka kerta" ;
 эрьвазакс+Adv:эрьвазакс ADV_  "tyhmästi" ;
-эрязда+Adv:эрязда ADV_  "nopeasti" ;
+эрязда+Adv:эрязд%{АО%} ADV_  "nopeasti" ;
 эряздоне+Adv:эряздоне ADV_  "nopeasti" ;
 эрязста+Adv:эрязста ADV_  "nopeasti" ;
 эрязста-эрязста+Adv:эрязста-эрязста ADV_  "heti" ;

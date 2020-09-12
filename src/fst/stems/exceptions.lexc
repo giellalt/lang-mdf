@@ -67,13 +67,29 @@ LEXICON EXCEPTIONS
 пяле+Adp+Loc:пяле K ;
 пяле+Adp+Loc:пяло OBLIQUECX-PX-REQUIRES-VOWEL/NO-VOWEL ;
 
+как+Pcle:как # ;
 так+Pcle:так # ;
 аре+V+Imprt+ScSg2:аре # ;
-значит+Pcle:Значит # ;
-а-а+Interj:а-а # ;
+аре+V+Imprt+ScPl2:аряда K ;
+аре+V+Imprt+ScPl2:арьда K ;
+аде+V+Imprt+ScSg2:адька K ;
+куть+CS:куть ENDLEX ;
+тирьхконь-тирьхконь+Adv:тирьхконь-тирьхконь ADV_ ;
+ожу+V+Imprt+ScPl2:ожуда	K ;
+значит+Pcle:значит # ;
+знать+Pcle:знать # ;
+
+няйф+Adv:няйф ADV_ ;
+ды+CC:ды CC_ ;
+о-о+Interj:о-о INTERJ_ ;
+а-а+Interj:а-а INTERJ_ ;
+квалманя+Po:квалманя PO_ ;
+видьге+Po:видьг%{АЕ%} PO-PRL_MEL1GE ;
 хотя+CS:хотя # ;
 ато+CC:ато # ;
 кли+Adv:кли # ;
+тозк+Adv+Ine:тозко DER/COP_OR_DER-POSS_NNE ;
+тязк+Adv+Ine:тязко DER/COP_OR_DER-POSS_NNE ;
 э-э+Interj:э-э # ;
 вдрук+Adv:вдрук # ;
 эхи+Interj:эхи # ;
@@ -120,6 +136,7 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 
 !! MISSING Pcle
 дайте+V+Aux+Imprt+ScPl2:дайте #	;
+дай+V+Aux+Prec+ScSg2:дайка #	;
 ожка+V+Prec+ScSg2:ожка #	;
 ожука+V+Prec+ScSg2:ожука # ;
 эрька+Pcle+Aux:эрька # ;
@@ -138,15 +155,27 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 наверна+Adv:наверна ADV_ ;
 пряма+Adv:пряма ADV_ ;
 молемс+V+Prec+ScSg1:молякан ENDLEX ;
+ливосьпарботмоса+Adv:ливосьпарботмоса K ;
+кржаксть+Adv:кржаксть ADV-TEMP_ ;
+
+
 
 !! IRREGULAR diminutives
 сазор+N+Der/Dimin:сазорка NMN_AVA "little sister" ;
+мама+N+Der/Dimin:мамка NMN_AVA "" ;
+мама+N+Der/Dimin:мамка N-VOC_J "" ;
 
 !! MISSING V
 архт+V+Imprt+ScSg2:архт ENDLEX ;
 ва+V+Imprt+ScSg2:ва ENDLEX ;
 
+ну-ка+Interj:ну-ка INTERJ_ ;
+н-да+Interj:н-да INTERJ_ ;
 
+сясы+Adv:сясы ADV_ ;
+исяконя+Adv:исяконя ADV-TEMP_ ;
+
+ 
 !! VOCATIVES
 кельгом+N:кельгом N-VOC_NIAJ ;
 
@@ -154,6 +183,13 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 щатя+N:щатя N-VOC_J ;
 
 ялганя+N:ялганя N-VOC_KAJ ;
+
+маза+N:маза N-VOC_J ;
+мазыня+N:мазыня N-VOC_J ;
+офтоня+N:офтоня N-VOC_J ;
+панчфка+N:панчфка N-VOC_J ;
+стирь-идняка+N:стирь-идняка N-VOC_J ;
+
 
 !! TOPONYMY
 Амурскяй+N+Prop+Sem/Plc:Амурскяй PROP-PLC_VAJ ;
@@ -5526,7 +5562,6 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 шафнемс+V:шафне BV_KUNDAMS ;
 
 !
-ливосьпарботмоса+Adv:ливосьпарботмоса K ;
 
 !verbs
 равжельготкшнемс+V:равжельготкшне IV_KUNDAMS ;
@@ -5561,8 +5596,6 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 лазокшнемс+V:лазокшне BV_KUNDAMS ;
 аерткшнемс+V:аерткшне IV_KUNDAMS ;
 пеетькшнемс+V:пеетькшне BV_KUNDAMS ;
-аре+V+Imprt+ScPl2:ареда K ;
-ожу+V+Imprt+ScPl2:ожуда	K ;
 
 лагоргодомс+V:лагоргод IV_ANDOMS ;
 мторгодомс+V:мторгод IV_ANDOMS ;

@@ -160,7 +160,8 @@ LEXICON N_mdf2x
 алфавит+N:алфавит N_KAL  "aakkoset" ;
 алыяй+N:алыяй A_KAL  "munituslintu" ;
 альгя+N:альгя N_PAKSIA  "aviomiehen vanhempi veli" ;
-альняка+N:альняка N_AVA  "isoveli" ;
+альняка+v1+N:альняка N_AVA  "isoveli" ;
+альняка+v2+N:альняка N-VOC_J  "isoveli" ;
 альнякат-братт+N:альнякат-братт N_KAL  "sisarukset" ;
 аля+v1+N:аля N_AVA  "mies" ;
 аля+v2+N:аля N-VOC_J/KAJ  "mies" ;
@@ -3358,7 +3359,7 @@ LEXICON N_mdf2x
 мама+v2+N:мама N-VOC_J/KAJ/NIAJ  "" ;
 мамама+N:мамама N_AVA  "" ;
 мамафнема+N:мамафнема N_AVA  "" ;
-манда+N:манда N_AVA  "keppi" ;
+манда+N:манд%{АО%} N_PULA  "keppi" ;
 мандолина+N:мандолина N_AVA  "" ;
 манеж+N:манеж N_OSH  "" ;
 манекен+N:манекен N_KAL  "" ;

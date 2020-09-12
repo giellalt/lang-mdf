@@ -186,11 +186,11 @@ LEXICON PO-ILL_ ! коряс:коря
 !+Pron+Prl: OBLIQUECX-PX-REQUIRES-VOWEL ;
 !+Pron+Prl: OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
 
-LEXICON PO-PRL_МЕЛЬГЕ !!= * @CODE@ мельге:мельге
+LEXICON PO-PRL_MEL1GE !!= * @CODE@ мельге:мельг%{АЕ%}
 +Prl: K_вок ;
 ! Checking 2018-11-10
-+Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Pron+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
++Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
++Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
 
 
 
