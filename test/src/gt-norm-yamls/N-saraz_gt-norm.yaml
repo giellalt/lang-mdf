@@ -102,88 +102,88 @@ Tests:
      сараз+N+Pl+Nom+Def: сарасне
      сараз+N+Pl+Gen+Def: сараснень
      сараз+N+Pl+Dat+Def: сарасненди    
-     сараз+N+Sg+Nom+Indef+Foc: саразовок
-     сараз+N+SP+Gen+Indef+Foc: саразоньге 
-     сараз+N+SP+Abl+Indef+Foc: сараздовок
-     сараз+N+SP+Dat+Indef+Foc: [саразондивок, саразондиге, саразондинге]
-     сараз+N+SP+Abe+Indef+Foc: саразфтомовок
-     сараз+N+SP+Cmpr+Indef+Foc: саразшкавок
-     сараз+N+SP+Ine+Indef+Foc: саразсовок
-     сараз+N+SP+Ela+Indef+Foc: саразстовок
-     сараз+N+SP+Ill+Indef+Foc: саразозовок
-     сараз+N+SP+Prl+Indef+Foc: саразгавок
-     сараз+N+SP+Tra+Indef+Foc: саразкска
-     сараз+N+Sg+Nom+PxSg1+Foc: саразозевок
-     сараз+N+Pl+Nom+PxSg1+Foc: саразневок
-     сараз+N+Sg+Gen+PxSg1+Foc: саразозеньге
-     сараз+N+Pl+Gen+PxSg1+Foc: саразненьге
-     сараз+N+Sg+Dat+PxSg1+Foc: [саразозтивок, саразозтиге, саразозтинге]
-     сараз+N+Pl+Dat+PxSg1+Foc: [саразнендивок, саразнендиге, саразнендинге]
-     сараз+N+SP+Abl+PxSg1+Foc: сараздонга
-     сараз+N+SP+Abe+PxSg1+Foc: саразфтомонга
-     сараз+N+SP+Cmpr+PxSg1+Foc: саразшканга
-     сараз+N+SP+Ine+PxSg1+Foc: саразсонга
-     сараз+N+SP+Ela+PxSg1+Foc: саразстонга
-     сараз+N+SP+Ill+PxSg1+Foc: саразозонга
-     сараз+N+SP+Prl+PxSg1+Foc: саразганга
-     сараз+N+Sg+Nom+PxSg2+Foc: саразцевок
-     сараз+N+Pl+Nom+PxSg2+Foc: сарасневок
-     сараз+N+Sg+Gen+PxSg2+Foc: саразценьге
-     сараз+N+Pl+Gen+PxSg2+Foc: сарасненьге
-     сараз+N+SP+Abl+PxSg2+Foc: сараздотка
-     сараз+N+SP+Abe+PxSg2+Foc: саразфтомотка
-     сараз+N+SP+Cmpr+PxSg2+Foc: саразшкатка
-     сараз+N+SP+Ine+PxSg2+Foc: саразсотка
-     сараз+N+SP+Ela+PxSg2+Foc: саразстотка
-     сараз+N+SP+Ill+PxSg2+Foc: саразозотка
-     сараз+N+SP+Prl+PxSg2+Foc: саразгатка
-     сараз+N+Sg+Nom+PxSg3+Foc: саразоцка
-     сараз+N+Pl+Nom+PxSg3+Foc: саразонзовок
-     сараз+N+Sg+Gen+PxSg3+Foc: саразонцка
-     сараз+N+Pl+Gen+PxSg3+Foc: саразонзонга
-     сараз+N+Sg+Dat+PxSg3+Foc: саразонцтывок
-     сараз+N+Pl+Dat+PxSg3+Foc: саразонзондывок
-     сараз+N+SP+Abl+PxSg3+Foc: сараздонзовок
-     сараз+N+SP+Abe+PxSg3+Foc: саразфтомонзовок
-     сараз+N+SP+Cmpr+PxSg3+Foc: саразшканзовок
-     сараз+N+SP+Ine+PxSg3+Foc: саразсонзовок
-     сараз+N+SP+Ela+PxSg3+Foc: саразстонзовок
-     сараз+N+SP+Ill+PxSg3+Foc: саразозонзовок
-     сараз+N+SP+Prl+PxSg3+Foc: саразганзовок
-     сараз+N+SP+Nom+PxPl1+Foc: саразонькевок
-     сараз+N+SP+Gen+PxPl1+Foc: саразоньконьге
-     сараз+N+SP+Dat+PxPl1+Foc: [саразонькондивок, саразонькондиге, саразонькондинге]
-     сараз+N+SP+Abl+PxPl1+Foc: сараздонковок
-     сараз+N+SP+Abe+PxPl1+Foc: саразфтомонковок
-     сараз+N+SP+Cmpr+PxPl1+Foc: саразшканковок
-     сараз+N+SP+Ine+PxPl1+Foc: саразсонковок
-     сараз+N+SP+Ela+PxPl1+Foc: саразстонковок
-     сараз+N+SP+Ill+PxPl1+Foc: саразозонковок
-     сараз+N+SP+Prl+PxPl1+Foc: саразганковок
-     сараз+N+SP+Nom+PxPl2+Foc: саразонтевок
-     сараз+N+SP+Gen+PxPl2+Foc: саразонтеньге
-     сараз+N+SP+Dat+PxPl2+Foc: [саразонтендивок, саразонтендиге, саразонтендинге]
-     сараз+N+SP+Abl+PxPl2+Foc: сараздонтовок
-     сараз+N+SP+Abe+PxPl2+Foc: саразфтомонтовок
-     сараз+N+SP+Cmpr+PxPl2+Foc: саразшкантовок
-     сараз+N+SP+Ine+PxPl2+Foc: саразсонтовок
-     сараз+N+SP+Ela+PxPl2+Foc: саразстонтовок
-     сараз+N+SP+Ill+PxPl2+Foc: саразозонтовок
-     сараз+N+SP+Prl+PxPl2+Foc: саразгантовок
-     сараз+N+SP+Nom+PxPl3+Foc: саразсновок
-     сараз+N+SP+Gen+PxPl3+Foc: саразснонга
-     сараз+N+SP+Dat+PxPl3+Foc: саразснондывок
-     сараз+N+SP+Abl+PxPl3+Foc: сараздостка
-     сараз+N+SP+Abe+PxPl3+Foc: саразфтомостка
-     сараз+N+SP+Cmpr+PxPl3+Foc: саразшкастка
-     сараз+N+SP+Ine+PxPl3+Foc: саразсостка
-     сараз+N+SP+Ela+PxPl3+Foc: саразстостка
-     сараз+N+SP+Ill+PxPl3+Foc: саразозостка
-     сараз+N+SP+Prl+PxPl3+Foc: саразгастка
-     сараз+N+Pl+Nom+Indef+Foc: сарастка
-     сараз+N+Sg+Nom+Def+Foc: саразське
-     сараз+N+Sg+Gen+Def+Foc: саразтьке
-     сараз+N+Sg+Dat+Def+Foc: [саразтивок, саразтиге, саразтинге]
-     сараз+N+Pl+Nom+Def+Foc: сарасневок
-     сараз+N+Pl+Gen+Def+Foc: сарасненьге
-     сараз+N+Pl+Dat+Def+Foc: [сараснендивок, сараснендиге, сараснендинге]
+     сараз+N+Sg+Nom+Indef+Clt/Add: саразовок
+     сараз+N+SP+Gen+Indef+Clt/Add: саразоньге 
+     сараз+N+SP+Abl+Indef+Clt/Add: сараздовок
+     сараз+N+SP+Dat+Indef+Clt/Add: [саразондивок, саразондиге, саразондинге]
+     сараз+N+SP+Abe+Indef+Clt/Add: саразфтомовок
+     сараз+N+SP+Cmpr+Indef+Clt/Add: саразшкавок
+     сараз+N+SP+Ine+Indef+Clt/Add: саразсовок
+     сараз+N+SP+Ela+Indef+Clt/Add: саразстовок
+     сараз+N+SP+Ill+Indef+Clt/Add: саразозовок
+     сараз+N+SP+Prl+Indef+Clt/Add: саразгавок
+     сараз+N+SP+Tra+Indef+Clt/Add: саразкска
+     сараз+N+Sg+Nom+PxSg1+Clt/Add: саразозевок
+     сараз+N+Pl+Nom+PxSg1+Clt/Add: саразневок
+     сараз+N+Sg+Gen+PxSg1+Clt/Add: саразозеньге
+     сараз+N+Pl+Gen+PxSg1+Clt/Add: саразненьге
+     сараз+N+Sg+Dat+PxSg1+Clt/Add: [саразозтивок, саразозтиге, саразозтинге]
+     сараз+N+Pl+Dat+PxSg1+Clt/Add: [саразнендивок, саразнендиге, саразнендинге]
+     сараз+N+SP+Abl+PxSg1+Clt/Add: сараздонга
+     сараз+N+SP+Abe+PxSg1+Clt/Add: саразфтомонга
+     сараз+N+SP+Cmpr+PxSg1+Clt/Add: саразшканга
+     сараз+N+SP+Ine+PxSg1+Clt/Add: саразсонга
+     сараз+N+SP+Ela+PxSg1+Clt/Add: саразстонга
+     сараз+N+SP+Ill+PxSg1+Clt/Add: саразозонга
+     сараз+N+SP+Prl+PxSg1+Clt/Add: саразганга
+     сараз+N+Sg+Nom+PxSg2+Clt/Add: саразцевок
+     сараз+N+Pl+Nom+PxSg2+Clt/Add: сарасневок
+     сараз+N+Sg+Gen+PxSg2+Clt/Add: саразценьге
+     сараз+N+Pl+Gen+PxSg2+Clt/Add: сарасненьге
+     сараз+N+SP+Abl+PxSg2+Clt/Add: сараздотка
+     сараз+N+SP+Abe+PxSg2+Clt/Add: саразфтомотка
+     сараз+N+SP+Cmpr+PxSg2+Clt/Add: саразшкатка
+     сараз+N+SP+Ine+PxSg2+Clt/Add: саразсотка
+     сараз+N+SP+Ela+PxSg2+Clt/Add: саразстотка
+     сараз+N+SP+Ill+PxSg2+Clt/Add: саразозотка
+     сараз+N+SP+Prl+PxSg2+Clt/Add: саразгатка
+     сараз+N+Sg+Nom+PxSg3+Clt/Add: саразоцка
+     сараз+N+Pl+Nom+PxSg3+Clt/Add: саразонзовок
+     сараз+N+Sg+Gen+PxSg3+Clt/Add: саразонцка
+     сараз+N+Pl+Gen+PxSg3+Clt/Add: саразонзонга
+     сараз+N+Sg+Dat+PxSg3+Clt/Add: саразонцтывок
+     сараз+N+Pl+Dat+PxSg3+Clt/Add: саразонзондывок
+     сараз+N+SP+Abl+PxSg3+Clt/Add: сараздонзовок
+     сараз+N+SP+Abe+PxSg3+Clt/Add: саразфтомонзовок
+     сараз+N+SP+Cmpr+PxSg3+Clt/Add: саразшканзовок
+     сараз+N+SP+Ine+PxSg3+Clt/Add: саразсонзовок
+     сараз+N+SP+Ela+PxSg3+Clt/Add: саразстонзовок
+     сараз+N+SP+Ill+PxSg3+Clt/Add: саразозонзовок
+     сараз+N+SP+Prl+PxSg3+Clt/Add: саразганзовок
+     сараз+N+SP+Nom+PxPl1+Clt/Add: саразонькевок
+     сараз+N+SP+Gen+PxPl1+Clt/Add: саразоньконьге
+     сараз+N+SP+Dat+PxPl1+Clt/Add: [саразонькондивок, саразонькондиге, саразонькондинге]
+     сараз+N+SP+Abl+PxPl1+Clt/Add: сараздонковок
+     сараз+N+SP+Abe+PxPl1+Clt/Add: саразфтомонковок
+     сараз+N+SP+Cmpr+PxPl1+Clt/Add: саразшканковок
+     сараз+N+SP+Ine+PxPl1+Clt/Add: саразсонковок
+     сараз+N+SP+Ela+PxPl1+Clt/Add: саразстонковок
+     сараз+N+SP+Ill+PxPl1+Clt/Add: саразозонковок
+     сараз+N+SP+Prl+PxPl1+Clt/Add: саразганковок
+     сараз+N+SP+Nom+PxPl2+Clt/Add: саразонтевок
+     сараз+N+SP+Gen+PxPl2+Clt/Add: саразонтеньге
+     сараз+N+SP+Dat+PxPl2+Clt/Add: [саразонтендивок, саразонтендиге, саразонтендинге]
+     сараз+N+SP+Abl+PxPl2+Clt/Add: сараздонтовок
+     сараз+N+SP+Abe+PxPl2+Clt/Add: саразфтомонтовок
+     сараз+N+SP+Cmpr+PxPl2+Clt/Add: саразшкантовок
+     сараз+N+SP+Ine+PxPl2+Clt/Add: саразсонтовок
+     сараз+N+SP+Ela+PxPl2+Clt/Add: саразстонтовок
+     сараз+N+SP+Ill+PxPl2+Clt/Add: саразозонтовок
+     сараз+N+SP+Prl+PxPl2+Clt/Add: саразгантовок
+     сараз+N+SP+Nom+PxPl3+Clt/Add: саразсновок
+     сараз+N+SP+Gen+PxPl3+Clt/Add: саразснонга
+     сараз+N+SP+Dat+PxPl3+Clt/Add: саразснондывок
+     сараз+N+SP+Abl+PxPl3+Clt/Add: сараздостка
+     сараз+N+SP+Abe+PxPl3+Clt/Add: саразфтомостка
+     сараз+N+SP+Cmpr+PxPl3+Clt/Add: саразшкастка
+     сараз+N+SP+Ine+PxPl3+Clt/Add: саразсостка
+     сараз+N+SP+Ela+PxPl3+Clt/Add: саразстостка
+     сараз+N+SP+Ill+PxPl3+Clt/Add: саразозостка
+     сараз+N+SP+Prl+PxPl3+Clt/Add: саразгастка
+     сараз+N+Pl+Nom+Indef+Clt/Add: сарастка
+     сараз+N+Sg+Nom+Def+Clt/Add: саразське
+     сараз+N+Sg+Gen+Def+Clt/Add: саразтьке
+     сараз+N+Sg+Dat+Def+Clt/Add: [саразтивок, саразтиге, саразтинге]
+     сараз+N+Pl+Nom+Def+Clt/Add: сарасневок
+     сараз+N+Pl+Gen+Def+Clt/Add: сарасненьге
+     сараз+N+Pl+Dat+Def+Clt/Add: [сараснендивок, сараснендиге, сараснендинге]
