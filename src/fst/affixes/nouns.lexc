@@ -470,7 +470,7 @@ LEXICON NMN_KELU-PL
 
 LEXICON NMN_KELU-SG/PL
 :в SP-GEN-INDEF ;
-+Err/Colloq: CONSONANT-STEM-4-VAJ ;
++Err/Orth: CONSONANT-STEM-4-VAJ ;
 :в NOTDEF-CAU ;
 :в SP-DAT-INDEF ;
 :в SP-LAT-INDEF ;
@@ -559,7 +559,7 @@ LEXICON NMN_VAJ
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
-+Err/Colloq: CONSONANT-STEM-4-VAJ ;
++Err/Orth: CONSONANT-STEM-4-VAJ ;
 
 
 LEXICON NMN_VAJ-SG
@@ -571,7 +571,7 @@ LEXICON NMN_VAJ-SG
 SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
-+Err/Colloq: CONSONANT-STEM-4-VAJ ;
++Err/Orth: CONSONANT-STEM-4-VAJ ;
 
 LEXICON CONSONANT-STEM-4-VAJ
 @U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>нкса NounEnd_K ;
@@ -1221,7 +1221,7 @@ LEXICON OBLIQUECX-PX-osh
 !+PxSg2:%>%{ЕОØ%}т NounEnd_K ;
 @U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} NounEnd_K ;
 @U.DECL-DX.PXPL1@+PxPl1:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нк NounEnd_K ;
-@U.DECL-DX.PXPL1@+PxPl1+Err/Colloq:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нок NounEnd_K ;
+@U.DECL-DX.PXPL1@+PxPl1+Err/Orth:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нок NounEnd_K ;
 @U.DECL-DX.PXPL2@+PxPl2:@U.DECL-DX.PXPL2@%>%{ЕОØ%}нт NounEnd_K ;
 @U.DECL-DX.PXPL3@+PxPl3:@U.DECL-DX.PXPL3@%>%{ЕОØ%}ст NounEnd_K ;
 
