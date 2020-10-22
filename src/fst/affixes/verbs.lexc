@@ -349,8 +349,12 @@ LEXICON Non-Finite-Vws
 +Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger:%>%{ЕОØ%}мок K ;
 +Ger+Cmpr:%>%{ЕОØ%}м%>шка N_AVA ;
+@D.DERIV.2V@ V2V-DERIVATION-INITIAL-VOW ;
 
-@C.CONJ@+Der+Der/OvOms+V:@C.CONJ@%>%{ЕОØ%}в IV_ANDOVOMS ;
+LEXICON V2V-DERIVATION-INITIAL-VOW
+
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в IV_ANDOVOMS ;
+@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне V0_KUNDAMS ;
 !Mormula 2020-08-31
 
 LEXICON Non-Finite-Cns
