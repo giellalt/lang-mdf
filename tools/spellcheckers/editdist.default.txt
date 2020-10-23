@@ -87,6 +87,8 @@
 ## Transition pair specifications + weight:
 е	ё	0.5
 Е	Ё	0.5
+й	и	0.6
+Й	И	0.6
 
 ## Swaps. NB! Please note that these depend on the variable
 ## USE_SWAPS in Makefile.am in this directory. Also note that
