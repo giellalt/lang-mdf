@@ -22,7 +22,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/mdfdoc/index.html>
+-   <https://giellalt.uit.no/lang/mdf/MokshaDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
