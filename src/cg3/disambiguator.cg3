@@ -289,6 +289,8 @@ LIST VAbess = VAbess ;
 # ----------
 
 
+LIST Der/OvOms = Der/OvOms ;
+
 LIST Der/ВтОмО = Der/ВтОмО ;
 LIST Der/шка = Der/шка ;
 LIST Der/Онь = Der/Онь ;
@@ -360,6 +362,10 @@ SUBSTITUTE (IV) (*) TARGET (*) ;
 
 
 REMOVE Der/MWN ; # If any other reading is possible.
+
+#
+REMOVE:DisallowOvoms Der/OvOms ;
+SELECT:NingeNotNi ("нинге") ;
 
 REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;
 
