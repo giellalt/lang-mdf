@@ -283,6 +283,7 @@ LIST Actio = Actio ;
 LIST Der/PassL = Der/PassL ;
 LIST Der/NomAg = Der/NomAg ;
 LIST Actor = NomAg Der/NomAg ;
+LIST NomAct = NomAct ;
 LIST VAbess = VAbess ;
 
 #!! * Sets for Derivation
@@ -299,7 +300,8 @@ LIST Der/кай = Der/кай ;
 LIST Der/I = Der/I ;
 
 LIST Der/MWN = Der/MWN ;
-LIST Der/Dem = Der/Dem ;
+LIST Der/Dimin = Der/Dimin ;
+LIST Der/Dem = Der/Dem ; # is this necessary 2020-11-08
 LIST Der/Cop = Der/Cop ;
 LIST Der/Onj = Der/Onj ;
 LIST Der/f = Der/f ;
@@ -362,6 +364,7 @@ SUBSTITUTE (IV) (*) TARGET (*) ;
 
 
 REMOVE Der/MWN ; # If any other reading is possible.
+REMOVE Der/Dimin ; # If any other reading is possible.
 
 #
 REMOVE:DisallowOvoms Der/OvOms ;
@@ -396,6 +399,9 @@ REMOVE:NotAIfOnlySg3 A IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (
 REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
 
 REMOVE:VerbSg3NotNLat Lat IF (0 NOLAT ) (0 Ind + Prs + ScSg3) ;
+
+# , туманць ушедсь шурокстомома.
+REMOVE:NomActIfAdjacentInchVerb NomAct IF ((-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB))(0 Inf + Loc);
 
 # куттнень ваксса няевсть ават.
 REMOVE:CopIfVFinBeforeOrAfter Clt/Cop IF ((-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;

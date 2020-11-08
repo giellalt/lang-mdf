@@ -2,7 +2,6 @@
 LEXICON Pcle_mdf2x
 
 апак+Pcle:апак PCLE-NEG  "kieltopartikkeli" ;
-аф+Pcle:аф PCLE-NEG  "ei" ;
 афи+Pcle:афи PCLE-NEG-CONTRAST  "eikä" ;
 афоли+Pcle:афоли PCLE_  "kuulemma" ;
 бди+Pcle:бъди PCLE_  "ehkä" ;
@@ -49,7 +48,7 @@ LEXICON Pcle_mdf2x
 саты+Pcle:саты PCLE_  "riittää" ;
 сембода+Pcle+Superl:сембода PCLE-SUPERL  "superlatiivin apusana" ;
 сембоц+Pcle:сембоц PCLE_  "yhteensä" ;
-сяда+Pcle:сяда PCLE_  "komparatiivin apusana" ;
+сяда+Adv:сяда ADV-DEG_  "komparatiivin apusana" ;
 таки+Pcle:таки PCLE_  "kuitenkin" ;
 теконь+Pcle:теконь PCLE_  "" ;
 тк+Pcle:тък PCLE_  "" ;

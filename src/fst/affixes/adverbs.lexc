@@ -14,6 +14,8 @@ LEXICON ADV_ 	!!= @CODE@
 : K ;
 LEXICON ADV-MOD_ 	!!= @CODE@ 
 : K ;
+LEXICON ADV-MANNER_ 	!!= @CODE@ 
++Manner: K ;
 
 !LEXICON ADV-ITER
 !!! кафксть

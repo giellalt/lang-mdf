@@ -33,7 +33,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Pcle">аф</l>
      <stg>
@@ -926,9 +926,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Pcle">сяда</l>
+     <l pos="Adv">сяда</l>
      <stg>
-       <st Contlex="PCLE_">сяда</st>
+       <st Contlex="ADV-DEG_">сяда</st>
      </stg>
    </lg>
      <sources>

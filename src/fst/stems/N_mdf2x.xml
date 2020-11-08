@@ -10505,7 +10505,8 @@
    <lg>
      <l pos="N">библиотека</l>
      <stg>
-       <st Contlex="N_AVA">библиотека</st>
+       <st Contlex="N_AVA" varid="1">библиотека</st>
+       <st Contlex="N_KAL" status="Err/Orth" varid="2">библиотек</st>
      </stg> <phonet>bibľijaťeka</phonet>
    </lg>
      <sources>
@@ -121354,9 +121355,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N">сембе</l>
+     <l pos="Pron">сембе</l>
      <stg>
-       <st Contlex="N_SEL1ME">семб%{ЕО%}</st>
+       <st Contlex="PRON_SEL1ME">семб%{ЕО%}</st>
      </stg> <phonet>śembä</phonet>
    </lg>
      <sources>

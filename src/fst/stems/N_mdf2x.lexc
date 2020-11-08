@@ -509,7 +509,8 @@ LEXICON N_mdf2x
 бибама+N:бибама N_AVA  "" ;
 библиограф+N:библиограф N_KAL  "" ;
 библиография+N:библиография N_AVA  "" ;
-библиотека+N:библиотека N_AVA  "kirjasto" ;
+библиотека+v1+N:библиотека N_AVA  "kirjasto" ;
+библиотека+v2+N+Err/Orth:библиотек N_KAL  "kirjasto" ;
 библия+N:библия N_AVA  "raamattu" ;
 бидон+N:бидон N_KAL  "kannu" ;
 бизнес+N:бизнес N_OSH  "" ;
@@ -5484,7 +5485,7 @@ LEXICON N_mdf2x
 сем+N:сем N_KAL  "" ;
 семантика+N:семантика N_AVA  "" ;
 семафкс+N:семафкс N_OSH  "" ;
-сембе+N:семб%{ЕО%} N_SEL1ME  "kaikki" ;
+сембе+Pron:семб%{ЕО%} PRON_SEL1ME  "kaikki" ;
 семе+N:сем%{ЕО%} N_SEL1ME  "" ;
 семестра+N:семестра N_AVA  "" ;
 семья+N:семья N_AVA  "perhe" ;

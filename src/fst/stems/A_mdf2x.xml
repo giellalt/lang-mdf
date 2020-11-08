@@ -34433,24 +34433,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="A">мази</l>
-     <stg>
-       <st Contlex="A_ANDY">мази</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kaunis</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="A">мазиняня</l>
      <stg>
        <st Contlex="A_AVA">мазиняня</st>
@@ -34534,7 +34516,8 @@
    <lg>
      <l pos="A">мазы</l>
      <stg>
-       <st Contlex="A_ANDY">мазы</st>
+       <st Contlex="A_ANDY" varid="1">мазы</st>
+       <st Contlex="A_ANDY" stautus="Err/Orth" varid="2">мази</st>
      </stg> <phonet>mazi, maźi</phonet>
    </lg>
      <sources>

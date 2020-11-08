@@ -346,8 +346,8 @@ LEXICON Adv_mdf2x
 иляста+Adv:иляста ADV_  "joskus" ;
 илятемба+Adv:илятемба ADV_  "illalla" ;
 илятеня+Adv:илятеня ADV_  "illalla" ;
-илять+Adv:илять ADV_  "illalla" ;
-илять-илять+Adv:илять-илять ADV_  "iltaisin" ;
+илять+Adv:илять ADV-TEMP_  "illalla" ;
+илять-илять+Adv:илять-илять ADV-TEMP_  "iltaisin" ;
 илятькиге+Adv:илятькиге ADV-TEMP_  "vielä sinä iltana" ;
 инголе+Adv:инголе ADV_  "edessä" ;
 инголи+Adv:инголи ADV_  "eteen(päin)" ;
@@ -676,8 +676,8 @@ LEXICON Adv_mdf2x
 ляхом+Adv:ляхом ADV_  "kevyesti" ;
 мадозь+Adv:мадозь ADV_  "maaten" ;
 мазиняста+Adv:мазиняста ADV_  "kauniisti" ;
-мазиста+Adv:мазиста ADV_  "kauniisti" ;
-мазыста+Adv:мазыста ADV_  "kauniisti" ;
+мазыста+v1+Adv:мазыста ADV-MANNER_  "kauniisti" ;
+мазыста+v2+Adv+Err/Orth:мазиста ADV-MANNER_  "kauniisti" ;
 малaняс+Adv:малaняс ADV_  "vähän lähemmäksi" ;
 малацек+Adv+mwe:малацек ADV_  "lähellä toisiaan" ;
 малость+Adv:малость ADV_  "hiukan" ;
@@ -898,7 +898,7 @@ LEXICON Adv_mdf2x
 пароняста+Adv:пароняста ADV_  "hyvin" ;
 парс+Adv:парс ADV_  "hyväksi" ;
 парста+Adv:парста ADV_  "hyvin" ;
-парста-цебярьста+Adv:парста-цебярьста ADV_  "hyvin" ;
+парста-цебярьста+Adv:парста-цебярьста ADV-MANNER_  "hyvin" ;
 паслетку+Adv:паслетку ADV_  "lopulta" ;
 пачк+Adv:пачк ADV_  "puoliksi" ;
 педа-пес+Adv:педа-пес ADV_  "päästä päähän" ;
@@ -923,7 +923,6 @@ LEXICON Adv_mdf2x
 пильгосурпес+Adv:пильгосурпес ADV_  "varpaisiin asti" ;
 пильгста-пряс+Adv:пильгста-пряс ADV_  "kiireestä kantapäähän" ;
 пингонь-пингонь+Adv:пингонь-пингонь ADV_  "aika ajoin" ;
-пингстонза+Adv:пингстонза ADV_  "ajoissa" ;
 пинекс-катокс+Adv:пинекс-катокс ADV_  "(olla kuin) kissa ja koira" ;
 питнефтома+Adv:питнефтома ADV_  "ilmainen" ;
 питниста+Adv:питниста ADV_  "kalliisti" ;
@@ -1033,7 +1032,7 @@ LEXICON Adv_mdf2x
 рядем+Adv:рядем ADV_  "vieressä" ;
 ряднянь+Adv:ряднянь ADV_  "vieressä" ;
 ряднянь-ряд+Adv:ряднянь-ряд ADV_  "vierekkäin" ;
-рядняс+Adv:рядняс ADV_  "vieressä" ;
+рядняс+Adv:рядняс ADV-ILL_  "vieressä" ;
 рядонь-ряд+Adv:рядонь-ряд ADV_  "vierekkäin" ;
 рядонь-рядня+Adv:рядонь-рядня ADV_  "vierekkäin" ;
 рязозь-палозь+Adv:рязозь-палозь ADV_  "kuihtuneena ja riutuneena (kun on sairastanut pitkään)" ;
@@ -1063,8 +1062,8 @@ LEXICON Adv_mdf2x
 сдельна+Adv:сдельна ADV_  "urakalla" ;
 сдельна+Adv+Use/SpellNoSugg:съдельна ADV_  "urakalla" ;
 седиваймот+Adv:седиваймот ADV_  "(kaikesta) sydämestään" ;
-седиге+Adv:седиге ADV_  "vilpittömästi" ;
-седиге-ваймова+Adv:седиге-ваймова ADV_  "kaikesta sydämestään" ;
+седиге+Adv:седиге ADV-PRL_  "vilpittömästi" ;
+седиге-ваймова+Adv:седиге-ваймова ADV-PRL_  "kaikesta sydämestään" ;
 седикс-ваймокс+Adv:седикс-ваймокс ADV_  "koko sydämestään ja sielustaan" ;
 сединек-ваймонек+Adv:сединек-ваймонек ADV_  "koko sydämestään" ;
 седиса-ваймоса+Adv:седиса-ваймоса ADV_  "sydämessään" ;
@@ -1072,10 +1071,10 @@ LEXICON Adv_mdf2x
 седихть-ваймот+Adv:седихть-ваймот ADV_  "koko sydämestään/sielustaan" ;
 седишкава+Adv:седишкава ADV_  "sydämellisesti" ;
 седишкада+Adv:седишкада ADV_  "mielellään" ;
-сей+Adv:сей ADV_  "tänne" ;
+сей+Adv:сей ADV-LAT_  "tänne" ;
 секундашка-кафта+Adv:секундашка-кафта ADV_  "pari(sen) sekuntia" ;
 сельгондезь+Adv:сельгондезь ADV_  "leväperäisesti" ;
-сельминголе+Adv:сельминголе ADV_  "silmien edessä" ;
+сельминголе+Adv:сельминголе ADV-LOC_  "silmien edessä" ;
 сельмоведьботмоса+Adv:сельмоведьботмоса ADV_  "kyynelsilmin" ;
 сельмодезь+Adv:сельмодезь ADV_  "kateellisena" ;
 сельмонек-шаманек+Adv:сельмонек-шаманек ADV_  "koko kasvoillaan" ;
@@ -1468,12 +1467,12 @@ LEXICON Adv_mdf2x
 фчёк+Adv+Use/SpellNoSugg:фъчёк ADV_  "aivan" ;
 фьють+Adv:фьють ADV_  "ääni" ;
 хикстазь+Adv:хикстазь ADV_  "hihittäen" ;
-хитрайста+Adv:хитрайста ADV_  "viekkaasti" ;
+хитрайста+Adv:хитрайста ADV-MANNER_  "viekkaasti" ;
 хольняста+Adv:хольняста ADV_  "hyvin puhdistettu" ;
 храбрайста+Adv:храбрайста ADV_  "rohkeasti" ;
-цебярняста+Adv:цебярняста ADV_  "hyvin" ;
-цебярняста-пароняста+Adv:цебярняста-пароняста ADV_  "hyvin" ;
-цебярьста+Adv:цебярьста ADV_  "hyvin" ;
+цебярняста+Adv:цебярняста ADV-MANNER_  "hyvin" ;
+цебярняста-пароняста+Adv:цебярняста-пароняста ADV-MANNER_  "hyvin" ;
+цебярьста+Adv:цебярьста ADV-MANNER_  "hyvin" ;
 цебярьста-парста+Adv:цебярьста-парста ADV_  "hyvin" ;
 целайнек+Adv:целайнек ADV_  "kokonaan" ;
 целайста+Adv:целайста ADV_  "kokonaisena" ;
@@ -1536,9 +1535,9 @@ LEXICON Adv_mdf2x
 шистонь-ши+Adv:шистонь-ши ADV_  "joka päivä" ;
 шить+Adv:шить ADV_  "päivällä" ;
 шить-веть+Adv:шить-веть ADV_  "yötä päivää" ;
-шобдава+Adv:шобдава ADV_  "aamu" ;
+шобдава+Adv:шобдава ADV-TEMP_  "aamu" ;
 шобданяста+Adv:шобданяста ADV_  "aamuhämärissä" ;
-шобдаста+Adv:шобдаста ADV_  "aamuhämärissä" ;
+шобдаста+Adv:шобдаста ADV-TEMP_  "aamuhämärissä" ;
 шовор+Adv:шовор ADV_  "sekaisin" ;
 шонгараста+Adv:шонгараста ADV_  "veteläksi" ;
 шочконь-шочка+Adv:шочконь-шочка ADV_  "hirsittäin" ;
@@ -1586,7 +1585,6 @@ LEXICON Adv_mdf2x
 эрязста-эрязста+Adv:эрязста-эрязста ADV_  "heti" ;
 эряскодозь+Adv:эряскодозь ADV_  "kiirehtien" ;
 эса+Adv:эса ADV-SPAT_  "siellä" ;
-эсезонза+Adv+Refl:эсезонза ADV_  "itsekseen" ;
 эслек+Adv:эслек ADV_  "itsestään" ;
 эста+Adv:эста ADV-TEMP_  "silloin" ;
 эсток+Adv:эсток ADV-TEMP_  "siinä samassa" ;

@@ -7858,7 +7858,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="ADV_">илять</st>
+       <st Contlex="ADV-TEMP_">илять</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -7879,7 +7879,7 @@
    <lg>
      <l pos="Adv">илять-илять</l>
      <stg>
-       <st Contlex="ADV_">илять-илять</st>
+       <st Contlex="ADV-TEMP_">илять-илять</st>
      </stg>
    </lg>
      <sources>
@@ -15124,27 +15124,10 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Adv">мазиста</l>
-     <stg>
-       <st Contlex="ADV_">мазиста</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="Adv">kauniisti</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Adv">мазыста</l>
      <stg>
-       <st Contlex="ADV_">мазыста</st>
+       <st Contlex="ADV-MANNER_" varid="1">мазыста</st>
+       <st Contlex="ADV-MANNER_" status="Err/Orth" varid="2">мазиста</st>
      </stg>
    </lg>
      <sources>
@@ -20163,7 +20146,7 @@
    <lg>
      <l pos="Adv">парста-цебярьста</l>
      <stg>
-       <st Contlex="ADV_">парста-цебярьста</st>
+       <st Contlex="ADV-MANNER_">парста-цебярьста</st>
      </stg>
    </lg>
      <sources>
@@ -20899,7 +20882,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv">пингстонза</l>
      <stg>
@@ -23236,7 +23219,7 @@
    <lg>
      <l pos="Adv">рядняс</l>
      <stg>
-       <st Contlex="ADV_">рядняс</st>
+       <st Contlex="ADV-ILL_">рядняс</st>
      </stg>
    </lg>
      <sources>
@@ -23830,7 +23813,7 @@
    <lg>
      <l pos="Adv">седиге</l>
      <stg>
-       <st Contlex="ADV_">седиге</st>
+       <st Contlex="ADV-PRL_">седиге</st>
      </stg>
    </lg>
      <sources>
@@ -23848,7 +23831,7 @@
    <lg>
      <l pos="Adv">седиге-ваймова</l>
      <stg>
-       <st Contlex="ADV_">седиге-ваймова</st>
+       <st Contlex="ADV-PRL_">седиге-ваймова</st>
      </stg>
    </lg>
      <sources>
@@ -24001,7 +23984,7 @@
    <lg>
      <l pos="Adv">сей</l>
      <stg>
-       <st Contlex="ADV_">сей</st>
+       <st Contlex="ADV-LAT_">сей</st>
      </stg> <phonet>śej</phonet>
    </lg>
      <sources>
@@ -24067,7 +24050,7 @@
    <lg>
      <l pos="Adv" type="mwe">сельме ала</l>
      <stg>
-       <st Contlex="ADV_">сельме ала</st>
+       <st Contlex="ADV-LOC_">сельме ала</st>
      </stg>
    </lg>
      <sources>
@@ -24085,7 +24068,7 @@
    <lg>
      <l pos="Adv">сельминголе</l>
      <stg>
-       <st Contlex="ADV_">сельминголе</st>
+       <st Contlex="ADV-LOC_">сельминголе</st>
      </stg>
    </lg>
      <sources>
@@ -31925,7 +31908,7 @@
    <lg>
      <l pos="Adv">хитрайста</l>
      <stg>
-       <st Contlex="ADV_">хитрайста</st>
+       <st Contlex="ADV-MANNER_">хитрайста</st>
      </stg>
    </lg>
      <sources>
@@ -31981,7 +31964,7 @@
    <lg>
      <l pos="Adv">цебярняста</l>
      <stg>
-       <st Contlex="ADV_">цебярняста</st>
+       <st Contlex="ADV-MANNER_">цебярняста</st>
      </stg>
    </lg>
      <sources>
@@ -32000,7 +31983,7 @@
    <lg>
      <l pos="Adv">цебярняста-пароняста</l>
      <stg>
-       <st Contlex="ADV_">цебярняста-пароняста</st>
+       <st Contlex="ADV-MANNER_">цебярняста-пароняста</st>
      </stg>
    </lg>
      <sources>
@@ -32019,7 +32002,7 @@
    <lg>
      <l pos="Adv">цебярьста</l>
      <stg>
-       <st Contlex="ADV_">цебярьста</st>
+       <st Contlex="ADV-MANNER_">цебярьста</st>
      </stg>
    </lg>
      <sources>
@@ -33364,7 +33347,7 @@
    <lg>
      <l pos="Adv">шобдава</l>
      <stg>
-       <st Contlex="ADV_">шобдава</st>
+       <st Contlex="ADV-TEMP_">шобдава</st>
      </stg> <phonet>šobdava</phonet>
    </lg>
      <sources>
@@ -33414,7 +33397,7 @@
    <lg>
      <l pos="Adv">шобдаста</l>
      <stg>
-       <st Contlex="ADV_">шобдаста</st>
+       <st Contlex="ADV-TEMP_">шобдаста</st>
      </stg>
    </lg>
      <sources>
@@ -34867,7 +34850,7 @@
      </xg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv" type="Refl">эсезонза</l>
      <stg>

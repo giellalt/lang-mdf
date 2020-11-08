@@ -1806,12 +1806,12 @@ LEXICON A_mdf2x
 маендаф+A+Prc:маендаф Prc-f  "" ;
 маень+A:маень A-IS-GEN  "toukokuinen" ;
 мазептьф+A+Prc:мазептьф Prc-f  "" ;
-мази+A:мази A_ANDY  "kaunis" ;
 мазиняня+A:мазиняня A_AVA  "sievä" ;
 мазолготф+A+Prc:мазолготф Prc-f  "" ;
 мазоптф+A+Prc:мазоптф Prc-f  "" ;
 мазоптфкя+A:мазоптфкя PRC_fkia  "null" ;
-мазы+A:мазы A_ANDY  "kaunis" ;
+мазы+v1+A:мазы A_ANDY  "kaunis" ;
+мазы+v2+A:мази A_ANDY  "kaunis" ;
 майскяй+A:майскяй A_KAL  "toukokuinen" ;
 макови+A:макови A_ANDY  "unikonpunainen" ;
 маконь+A:маконь A-IS-GEN  "unikon" ;

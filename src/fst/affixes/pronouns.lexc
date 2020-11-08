@@ -253,6 +253,14 @@ LEXICON REFL
 сонць+Pron+Refl+Pl3+Dat+Long:синцтейст K/DAT-ARAM ;
 сонць+Pron+Refl+Pl3+Dat+Long:синцтеест K/DAT-ARAM ;
 
+
+монць+Pron+Refl+Sg1+Ill+Short:эсезон K ;
+монць+Pron+Refl+Pl1+Ill+Short:эсезонк K ;
+тонць+Pron+Refl+Sg2+Ill+Short:эсезот K ;
+тонць+Pron+Refl+Pl2+Ill+Short:эсезонт K ;
+сонць+Pron+Refl+Sg3+Ill+Short:эсезонза K ;
+сонць+Pron+Refl+Pl3+Ill+Short:эсезост K ;
+
 монць+Pron+Refl+Sg1+Dat+Short:эстейне K/DAT-ARAM ;
 монць+Pron+Refl+Pl1+Dat+Short:эстеенек K/DAT-ARAM ;
 монць+Pron+Refl+Pl1+Dat+Short:эстейнек K/DAT-ARAM ;
@@ -291,6 +299,7 @@ LEXICON GEN-FORM_OR_POSS
 :нь K ;
 +Der+Der/Poss+N:нне DERPOSS-NUM-CASE ;
 ! тонне forms
+
 
 
 !! !DEMONSTRATIVE PRONOUNS
@@ -508,6 +517,9 @@ LEXICON INDEFINITE-PRON-IN-KELJK
 мезе-кельк+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
 кона-кельк+Pron+Indef:кона KATI-KONA_INFL ;
 кодама-кельк+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
+
+LEXICON PRON_SEL1ME
+N_SEL1ME ;
 
 LEXICON DET-INDEF_PINGE
 +SP+Abe+Indef:%>фтом%{АО%} INDEF-ENDS-HERE ;
