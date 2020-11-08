@@ -86,7 +86,7 @@ LEXICON Num_mdf2x
 сизьгемонце+Num:сизьгемонце NUM-ORD_  "" ;
 сизьгемонь+Num:сизьгемонь NUM-CARD_KAL  "seitsemänkymmentä." ;
 сисем+Num:сисем NUM-CARD_KAL  "seitsemän" ;
-сяда+Num:сяда NUM-CARD_  "sata" ;
+сяда+Num:сяд%{АОØ%} NUMERALS-3-AND-UP-OFTA  "sata" ;
 сядоце+Num:сядоце NUM-ORD_  "" ;
 тифтень+Num:тифтень NUM_  "yksitellen" ;
 триллион+Num:триллион NUM-CARD_KAL  "" ;

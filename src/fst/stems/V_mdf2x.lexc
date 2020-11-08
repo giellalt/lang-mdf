@@ -6875,7 +6875,8 @@ LEXICON V_mdf2x
 пужедовомс+V:пужедов IV_ANDOVOMS  "tulla moitituksi" ;
 пужедомс+V:пужед IV_ANDOMS  "moittia" ;
 пужемс+V:пуж IV_PACHKODEMS  "kuihtua" ;
-пужендомс+V:пуженд IV_ANDOMS  "kuihtua" ;
+пужендомс+v1+V:пуженд IV_ANDOMS  "kuihtua" ;
+пужендомс+v2+V+Err/Orth:пужендь IV_ANDOMS  "kuihtua" ;
 пуженкшнемс+V:пуженкшне IV_KUNDAMS  "kuihtua" ;
 пужфнемс+V:пужфне BV_KUNDAMS  "kuihduttaa" ;
 пужфтомс+V:пужфт BV_ALYJAFTOMS  "kuihduttaa" ;

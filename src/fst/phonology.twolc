@@ -918,7 +918,7 @@ Vx:0 <=>
 !! учительскай+N+SP+Lat+Indef: __teachers' lounge/opettajain huone__
 !!€ учительскай%>%{ВИУ%}
 !!€ учительска0%>и
-         [FTV| ь: ] NPC* CnsNonDent %> _ ;
+         [FTV - [ы|и]| ь: ] NPC* CnsNonDent %> _ ;
 !! пирьф+N+SP+Lat+Indef: __garden/tarha__
 !!€ пирьф%>%{ВИУ%}
 !!€ пирьф%>и
@@ -932,6 +932,9 @@ Vx:0 <=>
 !! уша+N+SP+Lat+Indef: __outdoors__
 !!€ уш%{АЕØ%}%>%{ВИУ%}
 !!€ уше%>у
+   [ы|и] NPC* CnsNonDent %> _ ;
+!!€ Крым%>%{ВИУ%}
+!!€ Крым%>у
 
 !Prolative
 "G2:g"
