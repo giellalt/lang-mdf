@@ -186,7 +186,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Pss 	!!= ;@CODE@: passive
 !!
 !! Verb moods are:
- +Cond 	!!= ;@CODE@: conditional ндяря-
+ +Cond 	!!= ;@CODE@: conditional ндяря- protasis
+ +NegProt !!= ;@CODE@: negative conditional Офтяря- negative protasis
  +Conj 	!!= ;@CODE@: conjunctional "Оль"
  +Des 	!!= ;@CODE@: desiderative ксоль "was about to; wanted to"
  +Ind 	!!= ;@CODE@: indicative
@@ -677,6 +678,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 @U.CONJ-MX.DES@
 @U.CONJ-MX.CONJ@
 @U.CONJ-MX.COND@
+@U.CONJ-MX.NPROT@
 @U.CONJ-MX.CONDCONJ@
 
 ! CONNEG = negation
