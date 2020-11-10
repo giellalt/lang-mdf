@@ -248,6 +248,8 @@ LEXICON V0_MUMS
 :	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-MX.NPROT@+NegProt:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
++NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 !12, 13, 16, 23, 26, 
 +Use/NG:й	 CONJ-ALL     	;
 :	 CONJ-ALL     	;
@@ -285,6 +287,8 @@ LEXICON V0_TIJEMS
 :й	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-MX.NPROT@+NegProt:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
++NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
 :й	 CONJ-ALL     	;
 :й	 DES-ALL     	;
@@ -310,6 +314,8 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 :й	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-MX.NPROT@+NegProt:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
++NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
 :й	 CONJ-ALL     	;
 :й	 DES-ALL     	;
@@ -430,6 +436,8 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
 +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-MX.NPROT@+NegProt:@U.CONJ-MX.NPROT@%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
++NegProt:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
 	 CONJ-ALL     	;
 	 DES-ALL     	;
