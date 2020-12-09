@@ -11455,7 +11455,7 @@ LEXICON V_mdf2x
 яздамс+V:язда IV_KUNDAMS  "" ;
 якавомс+V:якав IV_ANDOVOMS  "voida kulkea" ;
 яказевомс+V:яказев IV_ANDOVOMS  "alkaa kulkea" ;
-якамс+V:яка IV_KUNDAMS  "kulkea" ;
+якамс+V:яка BV_KUNDAMS  "kulkea" ;
 якафнекшнемс+V:якафнекшне IV_KUNDAMS  "kävelyttää" ;
 якафнемс+V:якафне BV_KUNDAMS  "panna kävelemään" ;
 якафтомс+V:якафт BV_ALYJAFTOMS  "kävellä" ;
