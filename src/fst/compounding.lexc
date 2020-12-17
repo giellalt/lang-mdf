@@ -12,7 +12,8 @@ LEXICON NounEnd_K
 LEXICON NounEnd
 !@R.DECL-NX.PL@@D.HYPH-COMBO.ACRO@+CollN+Use/Circ+Cmp#:@R.DECL-NX.PL@@D.HYPH-COMBO.ACRO@%- NounCompounding ;
 !@R.DECL-NX.SP@@D.HYPH-COMBO.ACRO@+CollN+Use/Circ+Cmp#:@R.DECL-NX.SP@@D.HYPH-COMBO.ACRO@%- NounCompounding ;
-@D.HYPH-COMBO.ACRO@+Use/Circ+Cmp%-#:@D.HYPH-COMBO.ACRO@%-# NounCompounding ;
+@D.HYPH-COMBO.ACRO@+Use/Circ+Cmp+Cmp/Hyph#:@D.HYPH-COMBO.ACRO@%-# NounCompounding ;
+
 
 !!
 !LEXICON VerbEnd_deraj
