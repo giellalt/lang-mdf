@@ -262,6 +262,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! Compounding
 +Cmp !!≈ * @CODE@ Dynamic compound - this tag should always be part of a dynamic compound.
      !! It is important for Apertium, and useful in other cases as well.
++Cmp/Hyph !!≈ * @CODE@ with nouns
 +Cmp/Hyph-Coll !!≈ * @CODE@ with nouns
 +Cmp/Hyph-Redup !!≈ * @CODE@ with verbs
 +Cmp/Hyph-Synonym !!≈ * @CODE@ with verbs
