@@ -131,6 +131,55 @@ LEXICON NUM-ORD_
 +Ord: K ;
 
 
+! These lexica are for giella-shared/smi/src/fst/digits.lexc
+LEXICON dateyearcase
++Sg+Nom: # ;
+
+LEXICON dateyearcase_nullsuff_w_dot
++Sg+Nom: MARKDOT ;
+
+LEXICON dateyearcase_fullsuff
++Sg+Gen:%-нь # ;
++Sg+Cmpr:%-шка # ;
+
+LEXICON ARABICCASES
++Arab: DIGITCASES ;
+
+LEXICON ARABICCASE   !!≈ * __@CODE@__  adds +Arab
+ +Arab:  DIGITCASE ;
+
+LEXICON ARABICCASE0   !!≈ * __@CODE@__  adds +Arab
+ +Arab:  DIGITCASE0 ;
+
+LEXICON DIGITCASE
+DIGITCASE0 ;
+DIGITCASES ;
+
+LEXICON DIGITCASE0
+      +Sg+Nom: # ;
+
+LEXICON DIGITCASES
+
+  +Sg+Gen:%-нь # ;
+  +Cmp/SplitR:%:%- ENDLEX ;
+
+LEXICON ARABICCASEORD-ERR
+ARABICCASEORD ;
+LEXICON ARABICCASEORD
++Arab+Sg+Nom:це # ;
+
+LEXICON ARABICCASECOLL
++Arab+Pl+Nom:%>-ть      # ;
+
+LEXICON ARABICCOMPOUNDS   !!≈ * __@CODE@__  ! 1-osainen
++Use/NG: NounEnd ; ! 3-
+
+LEXICON ROMNUMTAGOBL !
+# ;
+!      +Rom+Sg+Gen:n   # ; ! But here 123a 123
+
+LEXICON yeartagpl
+          +Num+Sem/Year+Pl+Nom:        # ;
 
 
 ! vim: set ft=xfst-lexc:

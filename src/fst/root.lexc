@@ -150,6 +150,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 +Sem/Patr
 +mwe
 
++Sem/Year
+
 !! The possession is marked as such:
  +PxSg1 	!!= ;@CODE@: first person singular
  +PxSg2 	!!= ;@CODE@: second person singular
@@ -171,7 +173,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 +Epist		!!= ;@CODE@: epistemic
 !! Quantifiers and Numerals are classified under:
  +Num 		!!= ;@CODE@: numeral
- +Appr 		!!= ;@CODE@: Approximative numeral кафта-колма, колмошка "two or three"
+ +Arab	!!= ;@CODE@: arabic numeral
++Appr 		!!= ;@CODE@: Approximative numeral кафта-колма, колмошка "two or three"
  +AssocColl !!= ;@CODE@: -ne- ; avide-; -месть
  +Coll 		!!= ;@CODE@: Collective
  +Card 		!!= ;@CODE@: cardinal
@@ -662,6 +665,10 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @U.Cap.Obl@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
++Use/PMatch
+@P.Pmatch.Backtrack@
+@C.ErrOrth@
+
 !!!! Flags used with serial verbs
 ! INF = Infinitive
 @U.CONJ-INF.YES@
@@ -831,7 +838,10 @@ LEXICON Root
   V_mdf2x	;
     Punctuation ;
     Symbols     ;
-
+    ARABICS ;
+    ISOLATED-NUMEXP ;
+    NUM-PREFIXES ;
+    ROMAN ;
  ADPOSITION-TYPES ;
  NUMERAL-TYPES ;
  PRONOUN-TYPES ;

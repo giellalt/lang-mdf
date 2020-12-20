@@ -69,6 +69,8 @@ GT_LEXC_L2_SRCS=\
 GENERATED_LEXC_SRCS=\
 			 generated_files/urj-Cyrl-propernouns.lexc \
 			 generated_files/punctuation.lexc \
+			 generated_files/smi-digits.lexc \
+			 generated_files/arabic_roman_digits.lexc \
 			 generated_files/symbols.lexc     \
 			 $(srcdir)/stems/A_mdf2x.lexc     \
 			 $(srcdir)/stems/Adp_mdf2x.lexc   \
@@ -123,6 +125,17 @@ GIELLA_LOCAL_TARGETS=
 
 generated_files/urj-Cyrl-propernouns.lexc: \
 	$(GIELLA_SHARED)/urj-Cyrl/src/fst/stems/urj-Cyrl-propernouns.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_GEN)cp -f $< $@
+
+generated_files/%.lexc: \
+			$(GIELLA_SHARED)/all-langs/src/fst/stems/%.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_GEN)cp -f $< $@
+
+
+generated_files/%.lexc: \
+			$(GIELLA_SHARED)/smi/src/fst/stems/%.lexc
 	$(AM_V_at)$(MKDIR_P) generated_files
 	$(AM_V_GEN)cp -f $< $@
 
