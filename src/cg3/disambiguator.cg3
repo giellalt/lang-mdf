@@ -316,6 +316,8 @@ LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 LIST NOLAT = "каль" "моль" ;
 
 
+LIST Err/Orth = Err/Orth ;
+LIST Err/Orth-lowered-final-e-2-ja = Err/Orth-lowered-final-e-2-ja ;
 
 # Phrasal groups
 # --------------
@@ -365,6 +367,9 @@ SUBSTITUTE (IV) (*) TARGET (*) ;
 
 REMOVE Der/MWN ; # If any other reading is possible.
 REMOVE Der/Dimin ; # If any other reading is possible.
+
+#!! N ABBR not ABBR
+SELECT N IF (0 ABBR) ; 
 
 #
 REMOVE:DisallowOvoms Der/OvOms ;
@@ -542,3 +547,6 @@ REMOVE A IF (0 Der/f + PrfPrc) ;
 # илятфкя
 REMOVE Prc IF (0 Der/f + PrfPrc) ;
 
+# Cleanup
+REMOVE:noterr Err/Orth-lowered-final-e-2-ja ;
+REMOVE:noterr Err/Orth ;

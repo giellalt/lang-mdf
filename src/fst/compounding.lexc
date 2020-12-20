@@ -36,4 +36,6 @@ LEXICON NounEnd
 !!+Cmp/Hyph-Serial+Use/Circ+Cmp%-#:%-# verbs ;
 !@D.HYPH-COMBO.ACRO@+Cmp/Hyph-Serial+Use/Circ+Cmp#:@D.HYPH-COMBO.ACRO@%- verbs ;
 
+LEXICON RNum
+      +Use/Circ+Cmp/Hyph#:%-# N_mdf2x ; ! evt restricting to NounRoot ; ! For Num Cmp Noun, vi vil ikke ha Num Cmp Num 
 
