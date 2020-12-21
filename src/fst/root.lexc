@@ -247,6 +247,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
++CLBfinal
+
 !! The verbs are syntactically split according to transitivity:
  +TV 	!!= @CODE@ transitive verb
  +IV 	!!= @CODE@ intransitive verb
@@ -271,6 +273,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 +Cmp/Hyph-Synonym !!≈ * @CODE@ with verbs
 +Cmp/Hyph-Serial !!≈ * @CODE@ with verbs
 +Cmp/Hyph-tejems !!≈ * @CODE@ with verbs
++Cmp/SplitR
 
 !! Question and Focus particles:
  +Clt/Cop !!≈ * @CODE@ This marks all instances of enclitic copula inflection
@@ -409,6 +412,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Sem/Veh         !!≈ * __@CODE@__ Vehicle
  +Sem/Wpn         !!≈ * __@CODE@__ Weapon
  +Sem/Wthr        !!≈ * __@CODE@__ The Weather or the state of ground
++Sem/Date
++Sem/ID
++Sem/Time-clock
 
 
 
@@ -666,8 +672,13 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 +Use/PMatch
++Use/-PMatch
+
 @P.Pmatch.Backtrack@
 @C.ErrOrth@
+
+@D.ErrOrth.ON@
+@P.ErrOrth.ON@
 
 !!!! Flags used with serial verbs
 ! INF = Infinitive
