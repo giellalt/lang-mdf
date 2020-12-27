@@ -102,6 +102,12 @@ LEXICON ADV-INDEF-LAT_ ! алга:алу
 +Indef+Lat: K_вок ;
 LEXICON ADV-INDEF-TEMP_ ! алга:алга
 +Indef+Prl: K_вок ;
+LEXICON ADV-INDEF-ABL_ ! алда:алда
++Indef+Abl: K_вок ;
+LEXICON ADV-INDEF-LOC_ ! ала:ала
++Indef+Loc: K_вок ;
+LEXICON ADV-INDEF-PRL_ ! алга:алга
++Indef+Prl: K_вок ;
 
 !LEXICON ADV-ABL-PXSG1
 !+Abl+PxSg1: K_ГА ;
