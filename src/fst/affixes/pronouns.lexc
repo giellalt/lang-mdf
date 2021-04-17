@@ -118,8 +118,8 @@ LEXICON PRONOUN-TYPES
 
 
 !end
-LEXICON PERS                        !!≈ * __@CODE@__ 
-мон+Pron+Pers+Sg1:мон PERS-SG1 ;    !!≈ * __@CODE@__ ...
+LEXICON PERS                        !!≈ * **@CODE@** 
+мон+Pron+Pers+Sg1:мон PERS-SG1 ;    !!≈ * **@CODE@** ...
 тон+Pron+Pers+Sg2:тон PERS-SG2 ; 
 сон+Pron+Pers+Sg3:сон PERS-SG3 ;
 мон+Pron+Pers+Pl1:мин PERS-PL1 ;
@@ -302,7 +302,7 @@ LEXICON GEN-FORM_OR_POSS
 
 
 
-!! !DEMONSTRATIVE PRONOUNS
+!! ### DEMONSTRATIVE PRONOUNS
 LEXICON PRON-DEM_
 +Dem: PRON-DEM-SG ;
 LEXICON PRON-DEM_SIA
@@ -775,8 +775,8 @@ LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськ
 +Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
 +Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
-!! !REFLEXIVE PRONOUNS
-!! !NON-STRESSED REFLEXIVE DATIVES
+!! ### REFLEXIVE PRONOUNS
+!! ### NON-STRESSED REFLEXIVE DATIVES
 
 
 !LEXICON PRON-REL_AVA

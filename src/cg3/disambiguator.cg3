@@ -47,7 +47,7 @@
 
 
 # =============== #
-#!! !!!DELIMITERS 
+#!! # DELIMITERS 
 # =============== #
 SUBREADINGS = LTR ;
 
@@ -56,11 +56,11 @@ DELIMITERS = "<.>" "<!>" "<?>" "<...>" "<¶>";
 #PARENTHESES = "<$(>" "<$)>" "<$[>" "<$]>" "<${>" "<$}>" "<$«>" "<$»>" ;
 
 # ================== #
-#!! !!!TAGS AND SETS
+#!! # TAGS AND SETS
 # ================== #
 
 
-#!! !!Sets containing lists of tags
+#!! ## Sets containing lists of tags
 
 SETS
 

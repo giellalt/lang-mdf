@@ -200,16 +200,16 @@ LEXICON PROP_KUDO_FEM
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! PLACE NAMES FROM TEMPLATES 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-LEXICON PROP-PLC_KAL !!≈ * __@CODE@__ ending in other consonant
+LEXICON PROP-PLC_KAL !!≈ * **@CODE@** ending in other consonant
 +Sem/Plc: NMN_KAL ;
 
-LEXICON PROP-PLC_KIT !!≈ * __@CODE@__ ending in t
+LEXICON PROP-PLC_KIT !!≈ * **@CODE@** ending in t
 +Sem/Plc: NMN_KAL ;
 
 !LEXICON PROP-PLC_OSH !!≈ * __@CODE@__ ending in shibilant
 !+Sem/Plc: NMN_OSH ;
 
-LEXICON PROP-PLC_KUDO !!≈ * __@CODE@__ ending in vowel
+LEXICON PROP-PLC_KUDO !!≈ * **@CODE@** ending in vowel
 +Sem/Plc: NMN_AVA ;
 
 
@@ -217,22 +217,22 @@ LEXICON PROP-PLC_KUDO !!≈ * __@CODE@__ ending in vowel
 !!!!!!!!!!!!!!!!
 !! PROPER NOUNS 
 !!!!!!!!!!!!!!!!
-LEXICON PROP-PLC_AVA !!≈ * __@CODE@__ ending in vowel
+LEXICON PROP-PLC_AVA !!≈ * **@CODE@** ending in vowel
 +Sem/Plc: NMN_AVA ;
-LEXICON PROP-PLC_VAJ !!≈ * __@CODE@__ ending in vowel
+LEXICON PROP-PLC_VAJ !!≈ * **@CODE@** ending in vowel
 +Sem/Plc: NMN_VAJ ;
 
 
-LEXICON PROP_AVA !!≈ * __@CODE@__ ending in vowel
+LEXICON PROP_AVA !!≈ * **@CODE@** ending in vowel
 : NMN_AVA ;
 
-LEXICON PROP_VAJ !!≈ * __@CODE@__ ending in vowel
+LEXICON PROP_VAJ !!≈ * **@CODE@** ending in vowel
 : NMN_VAJ ;
 
-LEXICON PROP_KELU !!≈ * __@CODE@__ ending in u
+LEXICON PROP_KELU !!≈ * **@CODE@** ending in u
 : NMN_KELU ;
 
-LEXICON PROP_ANDY !!≈ * __@CODE@__ ending in i
+LEXICON PROP_ANDY !!≈ * **@CODE@** ending in i
 : NMN_ANDY ;
 
 
