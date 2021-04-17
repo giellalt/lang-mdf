@@ -1,11 +1,11 @@
-!! !!!The Moksha morphophonological/twolc rules file 
+!! # The Moksha morphophonological/twolc rules file 
 
 
 Alphabet !!≈!!The base @CODE@
-!! {{{
+!! ```
 а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я !!= @CODE@
 А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я !!= @CODE@
-!! }}}
+!! ```
 
 %{ъØ%}:0	
 !! This will represent schwa in first syllable
@@ -124,7 +124,7 @@ Alphabet !!≈!!The base @CODE@
 
 !! in ped realized as hard sign
 
-!! !!TRIGGERS
+!! ## TRIGGERS
 %^RmVow:0 !!= * @CODE@ for removing vowels 
 %^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination
 %^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is
@@ -150,17 +150,17 @@ NoVLoss:0
  %[%>%] ! >
  %[%<%] ! <
 
- %- !!= * {{@CODE@}} – Hyphen with constructions like "-bdi"
- %> !!= * {{@CODE@}} – conjugation/declension morpheme boundary suffix
- »  !!= * {{@CODE@}} – derivation morpheme boundary suffix
- #  !!= * {{@CODE@}} – word boundary 
+ %- !!= * `@CODE@` – Hyphen with constructions like "-bdi"
+ %> !!= * `@CODE@` – conjugation/declension morpheme boundary suffix
+ »  !!= * `@CODE@` – derivation morpheme boundary suffix
+ #  !!= * `@CODE@` – word boundary 
 
 ;
 
 
-Sets !!≈ !!The @CODE@
+Sets !!≈ ## The @CODE@
 
-!! {{{
+!! ```
 Vows = а о у ы э я ё ю и е ;                                            !!= @CODE@
 verbStemVows = а о э я ё е ;                                            !!= @CODE@
 verbStemVowStrong = а о э я ё е ;                                       !!= @CODE@
@@ -183,9 +183,9 @@ CnsDent = д з л н р с т ц  ;                                            
 CnsDentNoL = д з н р с т ц  ;                                           !!= @CODE@
 
 Letters = Vows Cns ь ъ ;                                                !!= @CODE@
-!! }}}
+!! ```
 
-Definitions !!≈ !!The @CODE@
+Definitions !!≈ ## The @CODE@
 
 CnsNotCliticVok = [ [Cns - в] | в [ Vws - о ] | в о [ Cns - к] ] ;
 
@@ -216,13 +216,13 @@ Back =  :* [SubseqBackHarm \[ :FTV | :й | :ь ]* ( л ь ) [NPC]]  ;
 
 
 
-Rules !!≈ !!The @CODE@
+Rules !!≈ ## The @CODE@
 
 !!!Vowel changes
 
 !Changes in the stem vowels before "10", "20", "30" and "60"
 "verbStemVowStrong:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  Vx:Vy <=> [ Cns | Vows ] _  %> [%{АЯ%}:я|%{АЯ%}:а [ н | т ]] ;
 !!2013-10-16!!                   Cns  _ К4:0 %>  %{ИЫЙ%}: ;
           where Vx in (а э ы я ё ю)
@@ -232,7 +232,7 @@ Rules !!≈ !!The @CODE@
 !!€ цёр0%>ан
 
 "у:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  Vx:Vy <=> :Vows Cns+ _  %> [%{АЯ%}:я|%{АЯ%}:а [ н | т ]] ;
            where Vx in (и у)
                  Vy in (0 0) matched ;
@@ -252,13 +252,13 @@ Rules !!≈ !!The @CODE@
 
 ! ScSg3 verb
 "о:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 о:0 <=>  _ %>  %{ИЫЙ%}: ;
 [ Cns | Vows ] _  %> [%{АЯ%}:я|%{АЯ%}:а [ н | т ]] ;
 
 ! Deverbal noun in ОмА
 "A1:o"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 А1:о <=>  [ а |я ] %>  м  _ ;
 
 !!2013-10-16!"%{ИЫЙ%}:yi"
@@ -266,32 +266,32 @@ Rules !!≈ !!The @CODE@
 !!2013-10-16!%{ИЫЙ%}:и <=> [ я:0 | ё:0 | е:0 | ю:0 | ь:0 | й:0 | CnsNonDent (noGlideVow:0)]  %> _ ;
 
 "%{ИЫЙ%}:j"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{ИЫЙ%}:й <=> [ я | а | у | и | ю]  %> _ [ # | %- | » | %> в о к | ( %> ) х т  ь | %> [с|д|т] | х т е | н е | т ь ] ;
 !!€ стя%>%{ИЫЙ%}%>сь
 !!€ стя%>й%>сь
-!! мумс+V+TV+Ind+Prt1+ScSg1+OcSg2: __find/löytää__
+!! мумс+V+TV+Ind+Prt1+ScSg1+OcSg2: **find/löytää**
 !!€ му%>%{ИЫЙ%}хтень
 !!€ му%>йхтень
 
 "%{ИЫЙ%}:ы"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ИЫЙ%}:ы <=> CnsDent (о:) %> _  ;
 
 "%{ИЫЙ%}:и"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ИЫЙ%}:и <=> [ CnsNonDent (о:) | CnsDent ь: | е: | й: ] %> _  ;
 
 
 "%{ИЫЙ%}:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{ИЫЙ%}:0 <=> [ я | а ]  %> _ [ й: ] ;
-!! араламс+V+Der/NomAg+Sg+Nom+PxSg3: __protect/puolustaa__
+!! араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
 !!€ арала%>%{ИЫЙ%}й%>%{ЕОØ%}ц
 !!€ арала%>0й%>ец
 
 "%{ЕОØ%}:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕОØ%}:о <=> [ б | в | г | к | м | п | ф | х ] (%^PXSG1:) %> _  [Cns|%{вгк%}:] ;
  [ б | в | г | к | м | п | ф | х ] _ %> %{DIM%}: ;
  [ д | с | т | ц ] (%^PXSG1:) %> _  Cns ;
@@ -304,7 +304,7 @@ Rules !!≈ !!The @CODE@
 
 
 "%{ЕОØ%}:е LEFT"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕОØ%}:е <=
    [ ж | ч | ш | щ ] (%^PXSG1:) %> _  [Cns|%{вгк%}:] ;
  [ д | с | т | ц ] ь: (%^PXSG1:) %> _  [Cns|%{вгк%}:] ;
@@ -325,7 +325,7 @@ Rules !!≈ !!The @CODE@
 !!$ ко0%>0з%>он%>га
 
 "%{ЕОØ%}:е RIGHT"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕОØ%}:е =>
    [ ж | ч | ш | щ ] (%^PXSG1:) %> _  [Cns|%{вгк%}:] ;
  [ д | с | т | ц ] ь: (%^PXSG1:) %> _  [Cns|%{вгк%}:] ;
@@ -339,31 +339,31 @@ Rules !!≈ !!The @CODE@
 !!€ эрьхк%{ЕО0%}#
 !!€ эрьхке0
    й: (%^PXSG1:) %> _ [Cns - [ к|с]] ;
-!! вай+N+Sg+Nom+PxSg1 __oil,butter/voi__
+!! вай+N+Sg+Nom+PxSg1 **oil,butter/voi**
 !!€ вай%>%{ЕОØ%}зе
 !!€ ва0%>езе
    й: %> _ з %>  ;
 !   й: %> _ [Cns - [ к|с|ц|з]] ;
 
 "%{ЕОØ%}:0 LEFT"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕОØ%}:0 <=  [Vows|%^Я2А:|%{АО%}:|%{АОØ%}:|%{АЕ%}:|%{АЕØ%}:|%{ЕО%}:|%{ЕОØ%}:|%{ЕØ%}:] (%^Е2А:) %> _ Cns ;
 !  [Vows|%{АО%}:|%{АОØ%}:|%{АЕ%}:|%{ЕО%}:|%{ЕОØ%}:|%{ЕØ%}:] (%^Е2А:) %> _ Cns ;
         [з|й|л|н|р] (ь:) %> _  [к с | с [#| %-|%>]] ;
           Cns (ь:) _ %^RmVow: ;
-!! зепе+N+Pl+Nom+Indef: __pocket/tasku__
+!! зепе+N+Pl+Nom+Indef: **pocket/tasku**
 !!€ зеп%{ЕОØ%}%^RmVow%>%{Х%}т%{ЬØ%}
 !!€ зеп00%>0т0
 
 "%{ЕОØ%}:0 RIGHT"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕОØ%}:0 =>  [Vows|%^Я2А:|%{АО%}:|%{АОØ%}:|%{АЕ%}:|%{АЕØ%}:|%{ЕО%}:|%{ЕОØ%}:|%{ЕØ%}:] (%^Е2А:) %> _ Cns ;
 !  [Vows|%{АО%}:|%{АОØ%}:|%{АЕ%}:|%{ЕО%}:|%{ЕОØ%}:|%{ЕØ%}:] (%^Е2А:) %> _ Cns ;
         [з|й|л|н|р] (ь:) %> _  [к с | с [#| %-|%>]] ;
           Cns (ь:) _ %^RmVow: ;
    й (%^PXSG1:) %> _ [Cns - [ к|с]] ;
 !   й: (%^PXSG1:) %> _ [Cns - [ к|с]] ;
-!! вай+N+Sg+Nom+PxSg1 __oil,butter/voi__
+!! вай+N+Sg+Nom+PxSg1 **oil,butter/voi**
 !!€ вай%>%{ЕОØ%}зе
 !!€ вай%>0зе
 !!$ вай%>%{ЕОØ%}нь
@@ -373,7 +373,7 @@ Rules !!≈ !!The @CODE@
 
 
 "%{АОØ%}:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АОØ%}:о <=>
         Cns _ %> ;
         Cns _ %^PXSG1: %> н ;
@@ -385,7 +385,7 @@ Rules !!≈ !!The @CODE@
 
 
 "%{АОØ%}:а"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АОØ%}:а <=>
    Cns  _ [# | %- ] ;
 !!€ панг%{АОØ%}#
@@ -399,10 +399,10 @@ Rules !!≈ !!The @CODE@
 !!€ ти0%>еза
 
 "%{АОØ%}:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АОØ%}:0 <=>
           Cns: _ %^RmVow: ;
-!! офта+N+Sg+Nom+Def __bear/ohto, karhu__
+!! офта+N+Sg+Nom+Def **bear/ohto, karhu**
 !!€ офт%{АОØ%}%^RmVow%>сь
 !!€ офт00%>сь
 !! кодама+Pron+Interr+Pl+Nom+Indef:
@@ -413,10 +413,10 @@ Rules !!≈ !!The @CODE@
 !        [з|й|л|н|р] (ь:) %> _  [к с | с [#| %-|%>]] ;
 
 "%{АО%}:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АО%}:о <=>
         Cns _ %> [%{ЕОØ%}:|%{DIM%}:|%{Х%}: т|Cns] ;
-!! пула+N+Sg+Nom+Def: __tail__
+!! пула+N+Sg+Nom+Def: **tail**
 !!€ пул%{АО%}%>сь
 !!€ пуло%>сь
 !!€ пул%{АО%}%>%{ЕОØ%}нз%{АО%}
@@ -426,31 +426,31 @@ Rules !!≈ !!The @CODE@
 
 
 "%{АО%}:а"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АО%}:а <=>
    Cns  _ [ # | %-] ;
 !!€ пул%{АО%}#
 !!€ пула#
 
 "Vx:0 %{АО%}:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
 Vx:0 <=>
         Cns _ %> %{АЯ%}:  ;
 	where Vx in (%{АО%} %{ЕО%}) ;
-!! пря+N+SP+Ine+Der/Cop+Prs+ScSg1 __top, head/pää__
+!! пря+N+SP+Ine+Der/Cop+Prs+ScSg1 **top, head/pää**
 !!€ пря%>с%{АО%}%>%{АЯ%}н
 !!€ пря%>с0%>ан
 
 
 "%{ЕО%}:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕО%}:е <=>  _ [#| %- ] ;
 !!€ сельм%{ЕО%}#
 !!€ сельме#
       [ ш|ч] %> _ %> ш к а ;
 
 "%{ЕО%}:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕО%}:о <=>  [Cns - [ ш|ч|ж]]  _ %> [%{ЕОØ%}:| Cns:|:Cns|%{вгк%}:| %{Х%}:] ;
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
@@ -460,29 +460,29 @@ Vx:0 <=>
 !!€ сельм%{ЕО%}%^PXSG1%>не
 !!€ сельмо0%>не
       к %> _ %{DIM%}: я ;
-!! байдек+N+Der+Der/Dimin+N+Sg+Nom+Indef: __staff/sauva__
+!! байдек+N+Der+Der/Dimin+N+Sg+Nom+Indef: **staff/sauva**
 !!€ байдек%>%{ЕО%}%{DIM%}я
 !!€ байдек%>оня
 
 "%{ЕØ%}:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕØ%}:е  <=>  _ [%> |# | %- ] ; 
 
 "%{ЕØ%}:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{ЕØ%}:0  <=>  _ %^RmVow: ;
-!! тяште+N+Pl+Nom+Def __star/tähti__
+!! тяште+N+Pl+Nom+Def **star/tähti**
 !!€ тяшть%{ЕØ%}%^RmVow%>%{Х%}т%{ЬØ%}
 !!€ тяшт000%>0ть
 
 
 "0:j"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  0:й <=> %> [ %{ИЫЙ%}:ы | %{ИЫЙ%}:и ] %> _  х т [ :ь ]  ;
 !CHECKME 2020-10-8
 
 "е:0"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:0 <=>  _  %> %{ИЫЙ%}: [ # | %- | %> [в о к|%{гк%}: %{АЕ%}:] | (%>)  х т  :ь |н | х т е|т]  ;
           _  %> %{ИЫЙ%}: [ й: %> %{Х%}: ]  ;
          [ Cns | Vows ] _  %> [%{АЯ%}:я|%{АЯ%}:а [ н | т ]|%{ВИУ%}:] ; 
@@ -492,16 +492,16 @@ Vx:0 <=>
 !!!!!
 
 "е:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:о <=> Cns: _ %^Е2О: %> (%{АО%}:|%{Х%}:) Cns: ;
 
 ! CHECKME
 "е:а"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:а <=> Cns: _ %^Е2А: %> (%{АО%}:|%{Х%}:|%{ЕОØ%}:) Cns: ;
 
 "е:я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  е:я <=> Cns: _ %^Е2Я: ;
 
 
@@ -510,33 +510,33 @@ Vx:0 <=>
 !!€ туво%>0тня0
 
 "%{АЕ%}:я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{АЕ%}:я <=> :Cns _ %^Е2Я: ;
 
 
 "%{ЕОØ%}:я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ЕОØ%}:я <=> _ %^Е2Я: ;
 
 "%{ЕО%}:я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ЕО%}:я <=>  _ %^Е2Я: ;
 
 "%{ЕØ%}:я"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ЕØ%}:я <=>  _ %^Е2Я: ;
 
 
 "а:е"
-!! __@RULENAME@__
+!! **@RULENAME@**
  а:е <=> Cns: _ %^А2Е: %> ;
 
 "а:о"
-!! __@RULENAME@__
+!! **@RULENAME@**
  а:о <=> Cns: _ %^А2О: %>  ;
 
 "я:а"
-!! __@RULENAME@__
+!! **@RULENAME@**
  я:а <=>
  [CnsNonDent:|%{DIM%}:к] _ %^Я2А: %> [%{ЕОØ%}: [(н) ц| н т|н з|з %>| (н) к с] |%{вгк%}: %{АЕ%}:| %{Х%}: т %{ЬØ%}: [#|%-|%>]|ф т о м| д %{АО%}: |ш к а|с  [#|%-|%>]|с (т) %{АО%}: |%{ВИУ%}:|с н %{АО%}:] ;
 ! Cns: _ %^Я2А: %> ;
@@ -547,13 +547,13 @@ Vx:0 <=>
 !!€ ърьва0%>0т0
 !!€ ава%>з%>%{ЕОØ%}нт
 !!€ ава0з0онт
-!! вальмя+N+Pl+Nom+Indef: __window/ikkuna__
+!! вальмя+N+Pl+Nom+Indef: **window/ikkuna**
 !!€ вальмя%^Я2А%>%{Х%}т%{ЬØ%}
 !!€ вальма0%>0т0
 
 
 "%{АЕØ%}:а Always"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:а <= BTV [Cns - [ ш | ч | ж | щ | й |в|д | л | з]]+ %> _ [ # | %- ]  ;
  ![Cns - [ ш | ч | ж | щ | й |в|д | л | з]] %> _ [ # | %- ]  ;
  	      Cns [д | л | з]  %> _  [ # | %- ] ;
@@ -562,7 +562,7 @@ Vx:0 <=>
 !              [ ш | ч | ж | щ ] _ [ # | %- ]  ;
 
 "%{АЕØ%}:а Sometimes"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:а => BTV [Cns - [ ш | ч | ж | щ | й |в|д | л | з]]+ %> _ [ # | %- ]  ;
 ! [Cns - [ ш | ч | ж | щ | й |в|д | л | з]] %> _ [ # | %- ]  ;
               [д | л | з]  %> _  [ # | %- ] ;
@@ -571,49 +571,49 @@ Vx:0 <=>
 !              [ ш | ч | ж | щ ] _ [ # | %- ]  ;
 
 "%{АЕØ%}:е Always"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:е <= [ ш | ч | ж | щ | й: |[Cns - [ д | л | з]] ь:] %> _  [ # | %- ] ;
  	      Cns [д | л | з] ь: %> _  [ # | %- ] ;
               [ ш | ч | ж | щ ] _ [ %> (%{Х%}:) Cns | %> [%{ЕОØ%}:|%{DIM%}:] ]  ;
 	       [ь:|й|FTV (н)] [б|г|ж|к|м|п|ф|х|ч|ш|щ]+ %> _  [ # | %- ] ;
 "%{АЕØ%}:е Sometimes"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:е => [ ш | ч | ж | щ | й: |[Cns - [ д | л | з]] ь:] %> _  [ # | %- ] ;
               [д | л | з] ь: %> _  [ # | %- ] ;
               [ ш | ч | ж | щ ] _ [ %> (%{Х%}:) Cns | %> [%{ЕОØ%}:|%{DIM%}:] ]  ;
 	       [ь:|й|FTV (н)] [б|г|ж|к|м|п|ф|х|ч|ш|щ]+ %> _  [ # | %- ] ;
-!! мокша+N+Sg+Nom+Def: __Moksha__
+!! мокша+N+Sg+Nom+Def: **Moksha**
 !!€ мокш%{АЕØ%}%>сь
 !!€ мокше%>сь
 
 "%{АЕØ%}:0 Always"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:0 <=
     [ Vows | в ]  %> _ [ # | %- ]  ;
     _ %> %{ВИУ%}: ;
 
 "%{АЕØ%}:0 Sometimes"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕØ%}:0 =>
     Vows ([ в | д | л | з] (ь:)) %> _ [ # | %- ]  ;
     _ %> %{ВИУ%}: ;
 
 
 "%{АЕ%}:a"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕ%}:а <=>
    [ [Vows - [и]] |# к и | NPC |ь| %{ЬØ%}:0| ъ |:Vows - [:и]] (%>) [%{вгк%}:|%{гк%}:|г]  _  (%^Е2А:) %>  ;
    [ [Vows - [и]] | NPC | %{ЬØ%}:0| ъ |:Vows - [:и]] (%>) [%{вгк%}:|%{гк%}:| [:0]* н г]  _ [ # | %- ] ;
-!! вал+Hom1+N+Sg+Nom+Indef+Clt/Add: __word/sana__
+!! вал+Hom1+N+Sg+Nom+Indef+Clt/Add: **word/sana**
 !!€ вал%>%{гк%}%{АЕ%}#
 !!€ вал%>га#
-!! мельге+Pron+Prl+PxSg3: __after__
+!! мельге+Pron+Prl+PxSg3: **after**
 !!€ мельг%{АЕ%}%>%{ЕОØ%}нз%{АО%}
 !!€ мельга%>0нза
 !!$ мельг%{АЕ%}%>%{ЕОØ%}нз%{АО%}
 !!$ мельге%>0нза
   [:Vows - [:и]] (%^Я2А:) %> %{вгк%}: _ [ # | %- | %> ] ;
-!! вальмя+N+SP+Prl+Indef: __window/ikkuna__
+!! вальмя+N+SP+Prl+Indef: **window/ikkuna**
 !!€ вальмя%^Я2А%>%{вгк%}%{АЕ%}
 !!€ вальма0%>ва
 
@@ -623,15 +623,15 @@ Vx:0 <=>
 
 
 "%{АЕ%}:е"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{АЕ%}:е <=> [ :ь| й] (%>) [%{вгк%}:|%{гк%}:|г] _ [ # | %- ] ;
-!! менель+N+SP+Prl+Indef __sky/taivas__
+!! менель+N+SP+Prl+Indef **sky/taivas**
 !!€ менель%>%{вгк%}%{АЕ%}
 !!€ менель%>ге
 !!€ шяй%>%{вгк%}%{АЕ%}
 !!€ шяй%>ге
      и %> [%{вгк%}:|%{гк%}:|н г|г] _ [ # | %- ] ;
-!! аля+N+Sg+Dat+PxSg1+Foc __father/isä__
+!! аля+N+Sg+Dat+PxSg1+Foc **father/isä**
 !!€ аля%>%{ЕОØ%}з%>ти%>%{гк%}%{АЕ%}
 !!€ аля%>0з%>ти%>ге
    [ч|ш|ж|ч] _ %> ;
@@ -639,31 +639,31 @@ Vx:0 <=>
 !перьфке
 
 "%{АЯ%}:ya"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{АЯ%}:я <=>     [ CnsDent: [ (Vow) я:0 | е:0 | ь: ]| й: | # Cns* [у|и]] %>  _  [ т | н ] ;
 !!€ пань>%{АЯ%}н
 !!€ пан00ян
-!! тумс+V+Ind+Prs+ScSg1 __leave/lähteä__
+!! тумс+V+Ind+Prs+ScSg1 **leave/lähteä**
 !!€ ту>%{АЯ%}н
 !!€ ту>ян
 
    [ CnsDentNoL ь: [ г: ] | ь: | е | й ] %> %{Х%}: т _ [ д | м | н ] ;
 !!€ пань>%{Х%}т%{АЯ%}ма
 !!€ пан000тяма
-!! мярьгомс+V+Ind+Prs+ScPl1: __say/sanoa__
+!! мярьгомс+V+Ind+Prs+ScPl1: **say/sanoa**
 !!€ мярьг%>%{Х%}т%{АЯ%}ма
 !!€ мярьк%>0тяма
    [ CnsDentNoL ь: [ г: ] | ь: | е | й | # \[Vows:|%>|#]* [и|я|е|э] [м:|ж:|в: ]] %> %{Х%}: %{КТ%}: _ [ # | %- | к а] ;
 !!€ сим%>%{Х%}%{КТ%}%{АЯ%}
 !!€ сип%>0тя
    # \[Vows:|%>|#]* [и|я|е|э] [м:|ж:|в: ] %> %{Х%}: т _ [ д | м | н ] ;
-!! симомс+V+Ind+Prs+ScPl1: __say/sanoa__
+!! симомс+V+Ind+Prs+ScPl1: **say/sanoa**
 !!€ сим%>%{Х%}т%{АЯ%}ма
 !!€ сип%>0тяма
 
 
 "%{АЯ%}:a"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{АЯ%}:а <=> [:BTV | CnsDent: ] %>  %{Х%}: т  _  [ д | н | м ] ;
  [ а| о| у | ё| ю ] \[Vows:|%>|#]+ я %>  %{Х%}: т  _  [ д | н | м ] ;
  [ [ [ а| о| у | ё| ю ] ( %> ) NPC:+ ] | [ BTV л ь [[ NPC* NPC ] - [ :* к с ] ] ] ] %>  %{Х%}: т  _  [ д | н | м ] ;
@@ -681,44 +681,44 @@ Vx:0 <=>
 
 
 "j:0 LEFT"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 й:0 <= Vows _ [ %> %{ВИУ%}: | %>  %{АЕØ%}:| %>  %{ЕОØ%}:е| %>  %{ЕОØ%}:0| %> %{ИЫЙ%}:и|   %> [%{АЯ%}:я | %{АО%}: [ :Cns | К3:0 | # | %- ]] ] ;
 !!€ тий%>%{ЕОØ%}за
 !!€ ти00еза
  Vows CnsAndSoft+  [и|ы] _ %> %{Х%}: т: ;
  т и [й: %> %{ИЫЙ%}: |и] _ %> %{Х%}: т: ;
-!! седи+N+Pl+Nom+Indef __heart/sydän__
+!! седи+N+Pl+Nom+Indef **heart/sydän**
 !!€ седий%>%{Х%}т%{ЬØ%}
 !!€ седи0%>хть
  [ е: |ь: | Cns |Vows ] %> %{ИЫЙ%}: _ %> %{Х%}:  ;
 ! [ е: |ь: | CnsNonDent |Vows ] %> %{ИЫЙ%}: _ %> %{Х%}:  ;
-!! корхнемс+V+IV+NomAg+Pl+Nom+Def: __visit, talk/jutella__
+!! корхнемс+V+IV+NomAg+Pl+Nom+Def: **visit, talk/jutella**
 !!€ корхне%>%{ИЫЙ%}й%>%{Х%}тне
 !!€ корхн0%>и0%>х0не
-!! озондомс+V+IV+NomAg+Pl+Nom+Def: __pray/rukoilla__
+!! озондомс+V+IV+NomAg+Pl+Nom+Def: **pray/rukoilla**
 !!€ озонд%>%{ИЫЙ%}й%>%{Х%}тне
 !!€ озонд%>ы0%>х0не
 
 "j:0 RIGHT"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 й:0 => Vows _ [ %> %{ВИУ%}:| %> %{ЕОØ%}: | %>  %{АЕØ%}:| %> %{ИЫЙ%}:и|   %> [%{АЯ%}:я | %{АО%}: [ :Cns | К3:0 | # | %- ]] ] ;
 !!€ тий%>%{ЕОØ%}за
 !!€ ти00еза
 
  Vows CnsAndSoft+  [и|ы] _ %> %{Х%}: т: ;
  т и [й: %> %{ИЫЙ%}: |и] _ %> %{Х%}: т: ;
-!! седи+N+Pl+Nom+Indef __heart/sydän__
+!! седи+N+Pl+Nom+Indef **heart/sydän**
 !!€ седий%>%{Х%}т%{ЬØ%}
 !!€ седи0%>хть
  [ е: |ь: | Cns |Vows ] %> %{ИЫЙ%}: _ %> %{Х%}:  ;
 ! [ е: |ь: | CnsNonDent |Vows ] %> %{ИЫЙ%}: _ %> %{Х%}:  ;
  %{ИЫЙ%}: _ %> %{ЕОØ%}: ;
-!! араламс+V+Der/NomAg+Sg+Nom+PxSg3: __protect/puolustaa__
+!! араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
 !!€ арала%>%{ИЫЙ%}й%>%{ЕОØ%}ц
 !!€ арала%>00%>ец
 
 !"й:х"
-!! __@RULENAME@__
+!! **@RULENAME@**
 !й:х <=>
     _ %> %{Х%}: т %{АЯ%}: [ м|д] а ;
 ! CHECKME 2017-03-07
@@ -728,36 +728,36 @@ Vx:0 <=>
 !18.04.2007 Adding "U2:" and contemplating environment "%> т н _"
 !
 "ye:e always"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{еэ%}:э <=
           CnsDent (%{АО%}:0) %>  н _ [[ # | %-|%> %{гк%}:0 а:я]| н ь: | к] ;
 !          [[[Back - [:* Vows]] %>| CnsDent]  %> ] т: н _ [ # | %- |%> [%{гк%}:0 а:я |т| л|%{вгк%}:в а | в | д | к | н | с | ш ]];
 
 
 "ye:e sometimes"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{еэ%}:э =>
           [CnsDent|CnsNonDent] ( %{АО%}:0 ) %>  н _ [[ # | %-|%> %{гк%}:0 а:я]|н ь:|к ] ;
 !          [ CnsDent | CnsNonDent | м:0 ]  ( %{АО%}:0 | %{АОØ%}:0 ) %> ( VLoss:0 ) ( TLoss:0 ) т: н _ [ # | %- | %> [%{гк%}:0 а:я | т | л | %{вгк%}:в а | в | д | к | н | с | ш ]];
 
 
 "a:ya"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 а:я  <=> :Vows ((%>) К3:0 )  %> %{гк%}:0 _  ;
 
 "о:а"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 о:а  <=> Cns _ %> %{АЕØ%}: [ # | %- ]  ;
 !! удомс+V+Ind+ConNeg
 !!€ удо%>%{АЕØ%}#
 !!€ уда%>0#
 
-!! !CONSONANT CHANGES
+!! ### CONSONANT CHANGES
 " %{Х%}:0 after vowel"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{Х%}:0 <=> [ :Vows (%^Е2О:|%^А2О:|%^Я2А:) |з:|ж:| т ( ь: ) | к |г:| с | ш | ц | м:|в: | п | ч | х | щ | ф | н: ( ь: ) | д: ( ь: ) | г:к ] %> _ ;
 	 [ з:|ж:| т ( ь: ) | к |г:| с | ш | ц | п | ч | х | щ | ф | м: |в: | н: ( ь: ) | д: ( ь: ) | г:к ] [%{ЕОØ%}:|%{ЕØ%}:|%{АОØ%}:] %^RmVow: %> _ ;
-!! валда+N+Pl+Nom+Def __light/valo__
+!! валда+N+Pl+Nom+Def **light/valo**
 !!€ валд%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%}
 !!€ валт00%>0т0
         %{АО%}: %> _ ;
@@ -765,53 +765,53 @@ Vx:0 <=>
 !!€ пуло%>0т0
 
 " %{Х%}:х after some consonants"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{Х%}:х <=> [ р | л | й: ] ( ь: )  %> _ ;
-!! ваны+N+Pl+Nom+Def __watcher/katsoja__
+!! ваны+N+Pl+Nom+Def **watcher/katsoja**
 !!€ ваный%>%{Х%}тне
 !!€ ваны0%>х0не
 
 "м:п ям"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 м:п <=> _  ( ь: | %{АОØ%}: (%^RmVow:)) %> %{Х%}: [ т: | %{КТ%}: ]  ;
 !!€ ям%>%{Х%}т%{ЬØ%}
 !!€ яп%>0т0
 
 "в:ф кев"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 в:ф <=> _  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
 !!€ кев%>%{Х%}т%{ЬØ%}
 !!€ кеф%>0т0
 
 "б:п сруб"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 б:п <=> _  ( ь: ) %> %{Х%}: [ т: | %{КТ%}: ]  ;
 !!€ сруб%>%{Х%}т%{ЬØ%}
 !!€ сруп%>0т0
 
 "н:т сан"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 н:т <=> _  ( ь: ) %> %{Х%}:  т:   ;
        _   ( ь: ) %> %{Х%}:  %{КТ%}:   ;
-!! сан+N+Pl+Nom+Indef: __sinew/suoni__
+!! сан+N+Pl+Nom+Indef: **sinew/suoni**
 !!€ сан%>%{Х%}т{ЬØ}
 !!€ сат%>0т0
-!! ваномс+V+Imprt+ScSg2: __look/katsoa__
+!! ваномс+V+Imprt+ScSg2: **look/katsoa**
 !!€ ван%>%{Х%}%{КТ%}{ЬØ}
 !!€ ват%>0т0
-!! панемс+V+Imprt+ScSg2: __put/laittaa__
+!! панемс+V+Imprt+ScSg2: **put/laittaa**
 !!€ пань%>%{Х%}%{КТ%}{ЬØ}
 !!€ пат0%>0ть
 
 !2016.QQ
 !Ablative d/t
 "d:t"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 д:т  <=> [ CnsVoiceless | д: | г] (ь:) (%{ЕОØ%}: %^RmVow:|%{АОØ%}: %^RmVow:)  %> _ [ %{АО%}: ] ;
 !__д:т од:оттне definite plural__
           _ (ь:)  [([%{ЕОØ%}:|%{ЕØ%}:|%{АОØ%}:] %^RmVow:) %> [ %{Х%}: [ т: н е: | т я | т %{АЯ%}: | т %{ЬØ%}:  | %{КТ%}: ]| к | ф]| %^Devoice: ] ;
 !          _ (ь:)  [([%{ЕОØ%}:|%{АОØ%}:] %^RmVow:) %> [ %{Х%}: [ т: н е: | т я | т %{АЯ%}: | т %{ЬØ%}: ] | %{КТ%}: | к | ф]| %^Devoice: | %> д: %{АО%}: ] ;
-!! кулхцондомс+V+Imprt+ScSg2: __listen__
+!! кулхцондомс+V+Imprt+ScSg2: **listen**
 !!€ кулхцонд>{Х}{КТ}{ЬØ}
 !!€ кулхцонт>0т0
 !! офта+N+SP+Abl+Indef
@@ -836,9 +836,9 @@ Vx:0 <=>
 
 
 "З:С"
-!! __@RULENAME@__
+!! **@RULENAME@**
  з:с <=> Vows _ (ь:) [%^Devoice: %^Ь2ZERO: |([%{ЕОØ%}:|%{АОØ%}:] %^RmVow:) %> %{Х%}:] ;
-!! изь+V+Aux+Neg+Ind+Prt1+ScPl3:	__they did not__
+!! изь+V+Aux+Neg+Ind+Prt1+ScPl3:	**they did not**
 !!€ изь%^Devoice%^Ь2ZERO%>ть
 !!€ ис000%>ть
 
@@ -846,18 +846,18 @@ Vx:0 <=>
 !!€ келазь%>%{DIM%}я
 
 "Ж:Ш"
-!! __@RULENAME@__
+!! **@RULENAME@**
  ж:ш <=> Vows _ (ь:) [%^Devoice:|([%{ЕОØ%}:|%{АОØ%}:] %^RmVow:) %> %{Х%}:] ;
 
 "ж:ч панчсь"
-!! __@RULENAME@__
+!! **@RULENAME@**
 ж:ч <=> н _  %> [ с | т | ф  | %{Х%}:]  ;
 !!€ панж%>сь
 !!€ панч%>сь
 
 
 "г:к"
-!! __@RULENAME@__
+!! **@RULENAME@**
 г:к <=>
 !"д:т од:оттне definite plural"
           _ ([%{ЕОØ%}:|%{АОØ%}:] %^RmVow:)  %> [ %{Х%}: [ т: н е: | т я | т %{АЯ%}: | т %{ЬØ%}:| %{КТ%}: ] | %{КТ%}: | к | ф ];
@@ -868,7 +868,7 @@ Vx:0 <=>
 
 
 "с:ц ломань:ломанць"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 с:ц <=> н ( ь: ) %> _ [ (т) ь | а | ы | ( т ) %{АО%}: | н | %> | # | %- ] ;
 
 !Changes in suffix consonants
@@ -878,24 +878,24 @@ Vx:0 <=>
 !!Solved in several contexts by declaring both lexical
 !!and surface forms in the alphabet.
 "G1:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{гк%}:0 <=> [ [:Vows - [:и]] ((%>) К3:0 )  %> | К1: %{ЬØ%}:0 %> KLoss:0 | :к %> KLoss:0 ] _ а: ;
 
 
 "G1:g"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{гк%}:г <=> [CnsVoicedDent (:ь|%{ЬØ%}:0)| й | и | [ CnsVoicedNonDent - г ] ( :ь )] %> _ [ а|%{АЕ%}:] ;
-!! вал+Hom1+N+Sg+Nom+Indef+Foc __word/sana__
+!! вал+Hom1+N+Sg+Nom+Indef+Foc **word/sana**
 !!€ вал%>%{гк%}%{АЕ%}
 !!€ вал%>га
-!! аля+N+Sg+Dat+PxSg2+Foc __father/isä__
+!! аля+N+Sg+Dat+PxSg2+Foc **father/isä**
 !!€ аля%>цти%>%{гк%}%{АЕ%}
 !!€ аля%>цти%>ге
 
 "G1:k"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{гк%}:к <=>  [ CnsVoicelessDent ( :ь | %{ЬØ%}:0 | %{ЬØ%}:ь ) | CnsVoicelessNonDent | г | т %{ЬØ%}: | К1: %{ЬØ%}: | К4:0 ] :0* %> _ [а|%{АЕ%}:]  ;
-!! вал+Hom1+N+SP+Ill+Indef+Foc __word/sana__
+!! вал+Hom1+N+SP+Ill+Indef+Foc **word/sana**
 !!€ вал%>с%>%{гк%}%{АЕ%}
 !!€ вал%>с%>ка
 !! офто+N+SP+Abl+PxPl2+Foc
@@ -907,29 +907,29 @@ Vx:0 <=>
 
 !Lative
 "%{ВИУ%}:v"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ВИУ%}:в <=> [а | я] %> _ ;
 
 !Lative
 "%{ВИУ%}:i"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ВИУ%}:и <=> [е: | ь: | и:] (%^Ь2ZERO:) %> _ ;
                 Vow й: %> _ ;
-!! учительскай+N+SP+Lat+Indef: __teachers' lounge/opettajain huone__
+!! учительскай+N+SP+Lat+Indef: **teachers' lounge/opettajain huone**
 !!€ учительскай%>%{ВИУ%}
 !!€ учительска0%>и
          [FTV - [ы|и]| ь: ] NPC* CnsNonDent %> _ ;
-!! пирьф+N+SP+Lat+Indef: __garden/tarha__
+!! пирьф+N+SP+Lat+Indef: **garden/tarha**
 !!€ пирьф%>%{ВИУ%}
 !!€ пирьф%>и
 
 
 !Lative
 "%{ВИУ%}:u"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ВИУ%}:у <=> [[BTV NPC* CnsNonDent | CnsDent] (%{АОØ%}: %^RmVow: )|%{АЕØ%}:] %> _ ;
 ! [NPC (%{АОØ%}: %^RmVow: )|%{АЕØ%}:] %> _ ;
-!! уша+N+SP+Lat+Indef: __outdoors__
+!! уша+N+SP+Lat+Indef: **outdoors**
 !!€ уш%{АЕØ%}%>%{ВИУ%}
 !!€ уше%>у
    [ы|и] NPC* CnsNonDent %> _ ;
@@ -938,7 +938,7 @@ Vx:0 <=>
 
 !Prolative
 "G2:g"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{вгк%}:г <=> [ CnsVoicedDent ( :ь )|и| [ CnsVoicedNonDent - г ] ( :ь ) ] %> _ %{АЕ%}: ;
 
 "G2:v"! 
@@ -949,7 +949,7 @@ Vx:0 <=>
 
 
 "G2:k"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{вгк%}:к <=>  [ CnsVoicelessDent ( :ь )| CnsVoicelessNonDent ( :ь )| г ] %> _ %{АЕ%}: ;
 
 ! 2012-08-07
@@ -959,33 +959,33 @@ Vx:0 <=>
 
 
 "G4:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 Г4:0  <=>
            [ К1: %{ЬØ%}: | к ] %> _ а ;
   [%{АО%}: ] %> _ а: ;
 
 "G4:k"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 Г4:к  <=>  # [и л я|у ж о|а з ё|а д я|а й д а] %> _ а  ;
 
 
 "m:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 м:0 <=> 
  BTV  _ %{АОØ%}:0  %>  %^RmVow: [ т| т н е: ] ;
 
 
 
 !2016.QQ
-!! !imperative suffix
+!! ### imperative suffix
 "К1 %{КТ%}:t left"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{КТ%}:т <= [ Vow н: | CnsVoiceless |CnsVoiced: - г:] ( ь: ) %> (%{Х%}:) _  ;
 !!€ пань%>%{КТ%}%{ЬØ%}
 !!€ пан0%>ть
 
 "К1 %{КТ%}:t right"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{КТ%}:т =>  [ н: | CnsVoiceless |CnsVoiced: - г:| д: ] ( ь: ) %> (%{Х%}:) _  ;
 !!€ канд>%{Х%}%{КТ%}%{ЬØ%}
 !!€ кант>00т0
@@ -994,21 +994,21 @@ Vx:0 <=>
 
 !2016.QQ
 "К1 %{КТ%}:к left"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{КТ%}:к <=  [ Vows ] %> (%{Х%}:) _  ;
 ! %> %{Х%}: [ т | %{КТ%}: ] 
 !!€ кунда>%{Х%}%{КТ%}%{ЬØ%}
 !!€ кунда00к0
 
 "К1 %{КТ%}:к right"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  %{КТ%}:к =>  [ Vows | д: ( ь: ) ] %> (%{Х%}:) _  ;
 ! %> %{Х%}: [ т | %{КТ%}: ] 
 !!€ кунда>%{Х%}%{КТ%}%{ЬØ%}
 !!€ кунда00к0
 
 "К1 %{КТ%}:0 "
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{КТ%}:0 <=>  г: %> (%{Х%}:) _  ;
 !! кельгомс+V+TV+ConNegII:
 !!€ кельг>%{Х%}%{КТ%}%{ЬØ%}
@@ -1017,7 +1017,7 @@ Vx:0 <=>
 !2016.QQ
 ! Suffix final hard vs soft
 "%{ЬØ%}:ь"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{ЬØ%}:ь <=> [ ь:|й:] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:) т:  _ ;
  [ ь:|й:| [# Cns* я |и|е|э|ы] [CnsNonDent:]] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:)  %{КТ%}:  _ ;
 
@@ -1030,29 +1030,29 @@ Vx:0 <=>
 !!$ сип%>0т0
 
 "%{ЬØ%}:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 %{ЬØ%}:0 <=> 
  [ Cns: - [ь:|й:]] ([%{ЕØ%}:|%{ЕОØ%}:|%{АОØ%}:] %^RmVow:) %> (%{Х%}:) т:  _ ;
-!! зепе+N+Pl+Nom+Indef: __pocket/tasku__
+!! зепе+N+Pl+Nom+Indef: **pocket/tasku**
 !!€ зеп%{ЕОØ%}%^RmVow%>%{Х%}т%{ЬØ%}
 !!€ зеп00%>0т0
 
  [CnsDent: |[Vows - [я|и|е|э|ы]|Vows Cns+ я ] [CnsNonDent:]|CnsAndSoft [CnsNonDent:] |Vows] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:)  %{КТ%}:  _ ;
  :Vows (%^Я2А:) %> %{Х%}: т _ ;
  ! :BTV %> %{Х%}: т _ ;
-!! ши+N+Pl+Nom+Indef: __day/päivä__
+!! ши+N+Pl+Nom+Indef: **day/päivä**
 !!€ ши%>%{Х%}т%{ЬØ%}
 !!€ ши%>0т0
 !!€ пань%>%{КТ%}%{ЬØ%}
 !!€ пан0%>ть
-!! вальмя+N+Pl+Nom+Indef: __window/ikkuna__
+!! вальмя+N+Pl+Nom+Indef: **window/ikkuna**
 !!€ вальмя%^Я2А%>%{Х%}т%{ЬØ%}
 !!€ вальма0%>0т0
 
 
 !! Plural before definite plural following a consonant
 "t:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 т:0 <=>
 [б:|в:|ж:|з: ( ь: )| й: |г:|к| л ( ь: ) |м: |п| р ( ь: ) |с ( ь: ) |ф|х|ц ( ь: ) |ч|ш|щ] ([%{ЕОØ%}:|%{АОØ%}:] %^RmVow:) %> %{Х%}: _ н е: ;
 !! Ананьина К.И. 2000: 55
@@ -1070,7 +1070,7 @@ Vx:0 <=>
 
 !!SLoss s s > s = s 0 0 s
 "s:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 с:0 <=> с _ %> SLoss:0 с ;
 
 !!€ класс%>SLossс
@@ -1084,24 +1084,24 @@ Vx:0 <=>
 
 !2016.QQ
 "y:0"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  ь:0 <=> 
   [ н: | д: | т | з: ] _ (%{ЕØ%}: %^RmVow:) %> (%{Х%}:) [ т: | %{КТ%}: ] ; 
 !! plural
 !!€ пань%>%{КТ%}%{ЬØ%}
 !!€ пан0%>ть
   [ н | р | д | з ] _  %> %{DIM%}: я ; 
-!! ведь+N+Der+Der/Dimin+N+Sg+Nom+Indef: __a little water__
+!! ведь+N+Der+Der/Dimin+N+Sg+Nom+Indef: **a little water**
 !!€ ведь%>%{DIM%}я
 !!€ вед0%>ня
  CnsDent: _ ( %>|%^PXSG1: %>) [ %{АЯ%}: | %{ИЫЙ%}: | %{ЕØ%}:е | %{ЕОØ%}: | (%^Ь2ZERO: %> ) %{ВИУ%}: ] ;
 !!€ мяль%>%{ЕОØ%}зе
 !!€ мял0%>езе
-!! мирде+N+Sg+Nom: __husband/aviomies__
+!! мирде+N+Sg+Nom: **husband/aviomies**
 !!€ мирдь%{ЕØ%}#
 !!€ мирд0е#
 [ CnsDent: - [ л: | р: ] ] _ %^PXSG1: %> н е ;
-!! кядь+N+Pl+Nom+PxSg1: __hand; arm__
+!! кядь+N+Pl+Nom+PxSg1: **hand; arm**
 !!€ кядь%^PXSG1%>не
 !!€ кяд00%>не
 
@@ -1111,7 +1111,7 @@ Vx:0 <=>
 !!€ уч0%>сь
 
 [ CnsDent: - [ л: ] ] _ %> ц е ;
-!! нярь+N+Sg+Gen+PxSg2: __hand; arm__
+!! нярь+N+Sg+Gen+PxSg2: **hand; arm**
 !!€ нярь%>це
 !!€ няр0%>це
 
@@ -1123,7 +1123,7 @@ Vx:0 <=>
  CnsDentNoL _ %> [ф т %{ЕОØ%}: м [ %{ЕОØ%}: ] | К1: | н | т | с: (т) [ ь: | е: ]] ;
 !2018-07-01 CnsDentNoL _ %> [ф т %{ЕОØ%}: м [ %{ЕОØ%}: ] | К1: | н | д: | т | с: (т) [ ь: | е: ]] ;
  Cns: _ (%^Devoice:) %^Ь2ZERO: ;
-!! изь+V+Aux+Neg+Ind+Prt1+ScPl3: __they did not__
+!! изь+V+Aux+Neg+Ind+Prt1+ScPl3: **they did not**
 !!€ изь%^Devoice%^Ь2ZERO%>ть
 !!€ ис000%>ть
 !2016.QQ
@@ -1131,9 +1131,9 @@ Vx:0 <=>
 !!$ ломань%>д%{АО%}
 !!$ ломань%>да
 
-!! !DIMINUTIVES
+!! ### DIMINUTIVES
 "%{DIM%}:н"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{DIM%}:н <=> [ Vows: | :Vows | %{ЕОØ%}:|%{АОØ%}:| м  | ж | б | в | н | д | л | р  | з | :й] (ь:)  %> _ я ;
 !!€ ши%>%{DIM%}я
 !!€ ши%>ня
@@ -1142,7 +1142,7 @@ Vx:0 <=>
         к %> %{ЕО%}: _ я ;
 
 "%{DIM%}:к"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{DIM%}:к <=> [ ф | т | ц | ч | :с | ш | х ] (ь) %> _ я: ;
 !!€ пикс>%{DIM%}я
 !!€ пикс0кя
@@ -1153,22 +1153,22 @@ Vx:0 <=>
 !ъ:0 <= # Cns* _ [ д | з | р | т ] ; REMOVE 2018-09-12
 
 "%{ъØ%}:ъ"
-!! __@RULENAME@__
+!! **@RULENAME@**
  %{ъØ%}:ъ <=>
  [# | Cns: ] _ \[ # ]* %^Ъ2PED: ;
 
-!! !!Disallow
+!! ## Disallow
 
 "Disallow TLoss after non-t"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 TLoss:0 /<= [[ :* Letters ] - [ :* :т ] ] %> _ ;
 
 "Disallow KLoss after non-k"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 KLoss:0 /<= [[ :* Letters ] - [ :* :к ] ] %> _ ;
 
 "Disallow SLoss after non-s"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
 
 !"Disallow VLoss after non-U2I2"
@@ -1182,20 +1182,20 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
 !          к  %>  _ с  ;
 
 "Disallow овок"
-!! __@RULENAME@__
+!! **@RULENAME@**
 в:в /<=
     	[Cns|Vow] [б|в|г|д|ж|з|й:|л|м|н|п|р|с|ф|х|ц|ш|щ] (ь:) %> %{ЕОØ%}: _ о к ;
     	%> [с |т|%{ЕОØ%}: с т|%{ЕОØ%}: ц|%{ЕОØ%}: н|%{ЕОØ%}: н ь к о н ] (ь:) %> %{ЕОØ%}: _ о к ;
 
 "Disallow Онга"
-!! __@RULENAME@__
+!! **@RULENAME@**
 н:н /<=
     	%> [ш к а] %> %{ЕОØ%}: _ г а ;
         %{ЕОØ%}: _ к %> (н) %{гк%}: %{АЕ%}: ;
 !        %{ЕОØ%}: _ [ к|т ] %> (н) %{гк%}: %{АЕ%}: ;
 
 "Disallow -кс: нетькскс"
-!! __@RULENAME@__
+!! **@RULENAME@**
 к:к /<=
        к с %> _ с ;
        к [Cns - [c]] (ь:) %> %{ЕОØ%}: _ с ;
@@ -1204,22 +1204,22 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
        [Cns - [т|к|п|с]] (ь:) %> %{ЕОØ%}: в о _ ;
 
 "Disallow -гя only after a few"
-!! __@RULENAME@__
+!! **@RULENAME@**
 я:я /<=
      [[:Vows - [:и]] (%^Я2А:) |[Cns - [й]]|[Cns - [л|н|з|р|д]] ь:] %> г _ [# | %- |%>];
       [Cns - к] %> %{ЕО%}: %{DIM%}: _ ;
       _ %> %{ЕОØ%}: в а ;
 
 "Disallow special imperative in K after vowel stems"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %{Х%}:0 /<= Vows %> _ к ;
 
 "Disallow final е lowering to я tag elsewhere"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %^Е2Я:0 /<= [[:Letters - [:е|е:|%{ЕØ%}:я|%{ЕО%}:я|%{ЕОØ%}:я|%{АЕ%}:я]]|#|%>|:0] _ ;
 
 "Disallow onset vowel after voiced cons"
-!! __@RULENAME@__
+!! **@RULENAME@**
 %^PXSG1:0 /<=
      [г|й:|к|п|ф|х|ш|щ|ч|[т|с] (ь:) ] _ %>  н е [%>|# | %- ] ;
      [Vows:|Vows:|б|в|ж|м|[д|з|л|н|р] (ь:) ] _ %> %{ЕОØ%}: н е [%>|# | %- ] ;

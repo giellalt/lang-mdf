@@ -145,10 +145,10 @@ LEXICON dateyearcase_fullsuff
 LEXICON ARABICCASES
 +Arab: DIGITCASES ;
 
-LEXICON ARABICCASE   !!≈ * __@CODE@__  adds +Arab
+LEXICON ARABICCASE   !!≈ * **@CODE@**  adds +Arab
  +Arab:  DIGITCASE ;
 
-LEXICON ARABICCASE0   !!≈ * __@CODE@__  adds +Arab
+LEXICON ARABICCASE0   !!≈ * **@CODE@**  adds +Arab
  +Arab:  DIGITCASE0 ;
 
 LEXICON DIGITCASE
@@ -171,7 +171,7 @@ LEXICON ARABICCASEORD
 LEXICON ARABICCASECOLL
 +Arab+Pl+Nom:%>-ть      # ;
 
-LEXICON ARABICCOMPOUNDS   !!≈ * __@CODE@__  ! 1-osainen
+LEXICON ARABICCOMPOUNDS   !!≈ * **@CODE@**  ! 1-osainen
 +Use/NG: NounEnd ; ! 3-
 
 LEXICON ROMNUMTAGOBL !
