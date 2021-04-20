@@ -10,8 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues)
- [![Build Status](https://github.com/giellalt/lang-mdf/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-mdf/actions)
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Build Status](https://github.com/giellalt/lang-mdf/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-mdf/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-mdf)](https://raw.githubusercontent.com/giellalt/lang-mdf/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-mdf)
 for the Moksha language by using the [Divvun Installer](http://divvun.no)
