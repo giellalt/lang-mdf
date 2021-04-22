@@ -1,0 +1,528 @@
+!!!The Moksha morphophonological/twolc rules file 
+
+
+{{{
+ а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+ А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
+}}}
+
+This will represent schwa in first syllable
+
+2016-03-12
+ %^А2О:0		 used with final а in пула 
+
+
+
+  %{ЬØ%}:0	 after imperative Sg2
+  %{ВИУ%}:в        lative
+
+
+
+  %{АЯ%}:я  А2 in панемс:панян
+  %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
+  %{ИЫЙ%}:ы	 phasing out Ы2, eg кандомс:канды
+  %{ИЫЙ%}:и	 phasing out Ы2, eg панемс:пани
+
+  %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
+  %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
+  %{ЕОØ%}:0	 morpheme onset linking vowel from %^О1 also пинге
+
+
+
+
+ %{АЕØ%}:а	  ConNeg with ашень, тят, афоль
+
+ %{АО%}:а	  пула stem
+ %{АО%}:о	  пула stem
+ %{АОØ%}:а	  офта stem
+ %{АОØ%}:о	  офта stem
+ %{АОØ%}:0	  офта stem
+
+  %{ЕО%}:е	 сельме
+  %{ЕО%}:о	 
+
+  %{ЕØ%}:е	 кече
+  %{ЕØ%}:0	 
+
+ %{АЕ%}:а	 prolative
+
+  %{Х%}:0	 This usually precedes the plural marker
+
+ %{DIM%}:н		 This will be for diminutive initial consonant
+
+
+
+
+
+
+
+
+
+
+ %{КТ%}:т	 used in imperative and connegative
+* __пань%>%{Х%}%{КТ%}%{ЬØ%} __
+* __пат0%>0тье0 __
+
+
+
+
+in ped realized as hard sign
+
+!!TRIGGERS
+ * %^RmVow:0  for removing vowels 
+ %^Ь2ZERO:0	 removes soft sign before vowel or other combination
+ %^Ъ2PED:0	 brings out hard sign, which is
+otherwise automatically removed %{ъØ%} 
+ %^Е2О:0		 Change stem-final vowel сембе:сембось
+ %^Е2А:0		 Change stem-final vowel мельге:мельганза
+ %^Я2А:0		 Change stem-final vowel рьвя:рьванц
+ %^А2Е:0		 Change stem-final vowel мокша:мокшесь
+ %^Devoice:0	 for devoicing изь:исть
+ %^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
+
+
+ * {{ %- }} – Hyphen with constructions like "-bdi"
+ * {{ %> }} – conjugation/declension morpheme boundary suffix
+ * {{ »  }} – derivation morpheme boundary suffix
+ * {{ #  }} – word boundary 
+
+
+
+ !!The Sets
+
+{{{
+ Vows = а о у ы э я ё ю и е ;                                            
+ verbStemVows = а о э я ё е ;                                            
+ verbStemVowStrong = а о э я ё е ;                                       
+ noGlideVow = а о у ы э ;                                                
+ glideVow = я ё ю и е ;                                                  
+ BTV = а о у я ё ю ;                                 ! Back Trigger Vowels
+ FTV = ы и е э ;                                    ! Front Trigger Vowels
+
+ Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       
+ NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants 
+ CnsVoiced = б в г д ж з й л м н р ;                                     
+ CnsVoicedDent = д з л н р ;                                             
+ CnsVoicedNonDent = б в г ж й м ;                                        
+ CnsVoiceless = к п с т ф х ц ч ш щ ;                                    
+ CnsVoicelessDent = с т ц ;                                              
+ CnsVoicelessNonDent = к п ф х ч ш щ ;                                   
+ CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  
+ CnsDent = д з л н р с т ц  ;                                            
+ CnsDentNoL = д з н р с т ц  ;                                           
+
+ Letters = Vows Cns ь ъ ;                                                
+}}}
+
+ !!The Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ !!The Rules
+
+
+__verbStemVowStrong:0__  
+* __цёра%>%{АЯ%}н __
+* __цёр0%>ан __
+
+__у:0__
+
+тумс+V+Ind+Prs+ScSg1
+* __*#ту%>%{АЯ%}н __ (is not standard language)
+* __*#т0%>ан __ (is not standard language)
+* __#ту%>%{АЯ%}н __
+* __#ту%>ян __
+
+
+__A1:o__  
+
+
+__%{ИЫЙ%}:j__  
+* __стя%>%{ИЫЙ%}%>сь __
+* __стя%>й%>сь __
+
+__%{ИЫЙ%}:ы__
+
+__%{ИЫЙ%}:и__
+
+
+__%{ЕОØ%}:о__
+
+
+
+__%{ЕОØ%}:е__
+вай+N+Sg+Nom+PxSg1 __oil,butter/voi__
+* __вай%>%{ЕОØ%}зе __
+* __ва0%>езе __
+* __тий%>%{ЕОØ%}за __
+* __ти0%>еза __
+* __пинг%{ЕОØ%}# __
+* __пинге# __
+* __эрьхк%{ЕО0%}# __
+* __эрьхке0 __
+
+__%{ЕОØ%}:0__
+
+__%{АОØ%}:о__
+
+
+__%{АОØ%}:а__
+* __панг%{АОØ%}# __
+* __панга# __
+* __тий%>%{ЕОØ%}за __
+* __ти0%>еза __
+
+__%{АОØ%}:0__
+офта+N+Sg+Nom+Def __bear/ohto, karhu__
+* __офт%{АОØ%}%^RmVow%>сь __
+* __офт00%>сь __
+
+
+__%{АО%}:о__
+пула+N+Sg+Nom+Def: __tail__
+* __пул%{АО%}%>сь __
+* __пуло%>сь __
+* __пул%{АО%}%>%{ЕОØ%}нз%{АО%} __
+* __пуло%>0нза __
+
+
+__%{АО%}:а__
+* __пул%{АО%}# __
+* __пула# __
+
+__Vx:0 %{АО%}:0__
+пря+N+SP+Ine+Der/Cop+Prs+ScSg1 __top, head/pää__
+* __пря%>с%{АО%}%>%{АЯ%}н __
+* __пря%>с0%>ан __
+
+
+__%{ЕО%}:е__
+* __сельм%{ЕО%}# __
+* __сельме# __
+
+__%{ЕО%}:о__
+* __сельм%{ЕО%}%>%{ЕОØ%}нь __
+* __сельмо%>0нь __
+
+__%{ЕØ%}:е__
+
+__%{ЕØ%}:0__
+тяште+N+Pl+Nom+Def __star/tähti__
+* __тяшть%{ЕØ%}%^RmVow%>%{Х%}т%{ЬØ%} __
+* __тяшт000%>0ть __
+
+
+__0:j__  
+
+__е:0__
+
+
+__е:о__
+
+__е:а__
+
+__а:е__
+
+__а:о__
+
+__я:а__
+* __рьвя%^Я2А%>%{ЕОØ%}нц __
+* __рьва0%>0нц __
+
+* __ава%>з%>%{ЕОØ%}нт __
+* __ава0з0онт __
+
+
+__%{АЕØ%}:а Always__  
+
+__%{АЕØ%}:а Sometimes__  
+
+__%{АЕØ%}:е Always__  
+
+__%{АЕØ%}:е Sometimes__  
+
+__%{АЕØ%}:0 Always__  
+
+__%{АЕØ%}:0 Sometimes__  
+
+
+
+__%{АЕ%}:a__  
+вал+Hom1+N+Sg+Nom+Indef+Foc
+* __вал%>%{гк%}%{АЕ%}# __
+* __вал%>га# __
+мельге+Pron+Prl+PxSg3: __after__
+* __мельг%{АЕ%}%>%{ЕОØ%}нз%{АО%} __
+* __мельга%>0нза __
+* __*мельг%{АЕ%}%>%{ЕОØ%}нз%{АО%} __ (is not standard language)
+* __*мельге%>0нза __ (is not standard language)
+
+мокша+N+Sg+Nom+Def: __Moksha__
+* __мокш%{АЕ%}%>сь __
+* __мокше%>сь __
+
+
+
+__%{АЕ%}:е__  
+менель+N+SP+Prl+Indef __sky/taivas__
+* __менель%>%{вгк%}%{АЕ%} __
+* __менель%>ге __
+* __шяй%>%{вгк%}%{АЕ%} __
+* __шяй%>ге __
+аля+N+Sg+Dat+PxSg1+Foc __father/isä__
+* __аля%>%{ЕОØ%}з%>ти%>%{гк%}%{АЕ%} __
+* __аля%>0з%>ти%>ге __
+
+__%{АЯ%}:ya__
+* __пань>%{АЯ%}н __
+* __пан00ян __
+тумс+V+Ind+Prs+ScSg1 __leave/lähteä__
+* __ту>%{АЯ%}н __
+* __ту>ян __
+
+* __пань>%{Х%}т%{АЯ%}ма __
+* __пан000тяма __
+* __мярьг%>%{Х%}т%{АЯ%}ма __
+* __мярьк%>0тяма __
+
+
+__%{АЯ%}:a__  
+* __канд>%{АЯ%}н __
+* __канд0ан __
+* __аще%>%{АЯ%}н __
+* __ащ0%>ан __
+
+
+
+__j:0__  
+* __тий%>%{ЕОØ%}за __
+* __ти00еза __
+седи+N+Pl+Nom+Indef __heart/sydän__
+* __седий%>%{Х%}т%{ЬØ%} __
+* __седи0%>хть __
+
+__j:0__
+
+
+__ye:e always__  
+
+
+__ye:e sometimes__  
+
+
+__a:ya__  
+
+
+!CONSONANT CHANGES
+__ %{Х%}:0 after vowel__  
+валда+N+Pl+Nom+Def __light/valo__
+* __валд%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%} __
+* __валт00%>0т0 __
+
+
+__ %{Х%}:х after some consonants__  
+ваны+N+Pl+Nom+Def __watcher/katsoja__
+* __ваный%>%{Х%}тне __
+* __ваны0%>х0не __
+
+__м:п ям__  
+* __ям%>%{Х%}т%{ЬØ%} __
+* __яп%>0т0 __
+
+__в:ф ям__  
+* __кев%>%{Х%}т%{ЬØ%} __
+* __кеф%>0т0 __
+
+__н:т окун__  
+
+__d:t__  
+* __канд%>%{Х%}тя __
+* __кант%>0тя __
+* __канд>%{Х%}%{КТ%}%{ЬØ%} __
+* __кант%>0т0 __
+* __лемдь%>%^Devoice%>ф __
+* __лемть%>0%>ф __
+* __пильг%{ЕОØ%}%^RmVow%>д%{АО%} __
+* __пильг00%>та __
+
+
+__З:С__
+изь+V+Aux+Neg+Ind+Prt1+ScPl3:	__they did not__
+* __изь%^Devoice%^Ь2ZERO%>ть __
+* __ис000%>ть __
+
+__ж:ч панчсь__
+* __панж%>сь __
+* __панч%>сь __
+
+
+__г:к__
+* __мярьг%>%{Х%}т%{АЯ%}ма __
+* __мярьк%>0тяма __
+
+
+
+__с:ц ломань:ломанць__  
+
+
+__G1:0__  
+
+
+__G1:g__  
+вал+Hom1+N+Sg+Nom+Indef+Foc __word/sana__
+* __вал%>%{гк%}%{АЕ%} __
+* __вал%>га __
+аля+N+Sg+Dat+PxSg2+Foc __father/isä__
+* __аля%>цти%>%{гк%}%{АЕ%} __
+* __аля%>цти%>ге __
+
+__G1:k__  
+вал+Hom1+N+SP+Ill+Indef+Foc __word/sana__
+* __вал%>с%>%{гк%}%{АЕ%} __
+* __вал%>с%>ка __
+
+
+__%{ВИУ%}:v__
+
+__%{ВИУ%}:i__
+
+__%{ВИУ%}:u__
+
+__G2:g__  
+
+
+
+
+__G2:k__  
+
+
+
+
+__G4:0__  
+
+__G4:k__  
+
+
+__m:0__  
+
+
+
+!imperative suffix
+__К1 %{КТ%}:t left__  
+* __пань%>%{КТ%}%{ЬØ%} __
+* __пан0%>ть __
+
+__К1 %{КТ%}:t right__  
+* __канд>%{Х%}%{КТ%}%{ЬØ%} __
+* __кант00т0 __
+* __пань%>%{КТ%}%{ЬØ%} __
+* __пан0%>ть __
+
+__К1 %{КТ%}:к left__  
+* __кунда>%{Х%}%{КТ%}%{ЬØ%} __
+* __кунда00к0 __
+
+__К1 %{КТ%}:к right__  
+* __кунда>%{Х%}%{КТ%}%{ЬØ%} __
+* __кунда00к0 __
+
+__%{ЬØ%}:ь__  
+
+* __пань%>%{КТ%}%{ЬØ%} __
+* __пан0%>ть __
+
+Plural before definite plural following a consonant
+__t:0__  
+Ананьина К.И. 2000: 55
+* __ава%>%{Х%}тне __
+* __ава%>0тне __
+* __шуфт%>%{Х%}тне __
+* __шуфт%>0тне __
+* __нармот0%>0тне __
+* __лав%>%{Х%}тне __
+* __лаф%>00не __
+* __*лав%>%{Х%}тне __ (is not standard language)
+* __*лаф%>0тне __ (is not standard language)
+
+
+__s:0__  
+
+* __класс%>SLossс __
+* __клас000с __
+
+
+
+
+
+__y:0__  
+plural
+* __пань%>%{КТ%}%{ЬØ%} __
+* __пан0%>ть __
+* __мяль%>%{ЕОØ%}зе __
+* __мял0%>езе __
+мирде+N+Sg+Nom: __husband/aviomies__
+* __мирдь%{ЕØ%}# __
+* __мирд0е# __
+кядь+N+Pl+Nom+PxSg1: __hand; arm__
+* __кядь%^PXSG1%>не __
+* __кяд00%>не __
+
+нярь+N+Sg+Gen+PxSg2: __hand; arm__
+* __нярь%>це __
+* __няр0%>це __
+
+* __афоль%>ине __
+* __афол0%>ине __
+
+изь+V+Aux+Neg+Ind+Prt1+ScPl3: __they did not__
+* __изь%^Devoice%^Ь2ZERO%>ть __
+* __ис000%>ть __
+ломань+N+SP+Abl+Indef:
+* __*ломань%>д%{АО%} __ (is not standard language)
+* __*ломань%>да __ (is not standard language)
+
+!DIMINUTIVES
+__%{DIM%}:н__
+* __ши>%{DIM%}я __
+* __ши0ня __
+
+__%{DIM%}:к__
+* __пикс>%{DIM%}я __
+* __пикс0кя __
+
+
+
+__%{ъØ%}:ъ__
+
+!!Disallow
+
+__Disallow TLoss after non-t__  
+
+__Disallow KLoss after non-k__  
+
+__Disallow SLoss after non-s__  
+
+
+
+
+__Disallow овок__
+
+__Disallow Онга__
+
+__Disallow -кс: нетькскс__
+
+__Disallow -гя only after a few__
+
+__Disallow onset vowel after voiced cons__
