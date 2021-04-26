@@ -370,7 +370,8 @@ REMOVE Der/MWN ; # If any other reading is possible.
 REMOVE Der/Dimin ; # If any other reading is possible.
 
 #!! N ABBR not ABBR
-SELECT N IF (0 ABBR) ; 
+#SELECT N IF (0 ABBR) ; 
+# way too strong
 
 #
 REMOVE:DisallowOvoms Der/OvOms ;
