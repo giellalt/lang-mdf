@@ -12,39 +12,39 @@ in this system in terms of following symbols.
 
 The parts-of-speech tags are:
 
- * **+A 		**:  adjective
- * **+Adv 		**:  adverb
- * **+CS 		**:  subordinating conjunction
- * **+CC 		**:  coordinating conjunction
- * **+Det		**:  Determiner
- * **+Interj 	**:  interjection
- * **+N 		**:  noun
- * **+Pcle 		**:  particle
- * **+Po 		**:  postposition
- * **+Pron 		**:  pronoun
- * **+Qnt 		**:  Quantifier
- * **+V 		**:  verb
+ * **+A**:  adjective
+ * **+Adv**:  adverb
+ * **+CS**:  subordinating conjunction
+ * **+CC**:  coordinating conjunction
+ * **+Det**:  Determiner
+ * **+Interj**:  interjection
+ * **+N**:  noun
+ * **+Pcle**:  particle
+ * **+Po**:  postposition
+ * **+Pron**:  pronoun
+ * **+Qnt**:  Quantifier
+ * **+V**:  verb
 
- * **+Descr		**:  descriptive
+ * **+Descr**:  descriptive
 
 The parts of speech are further split up into:
 **Nouns:**
- * **+Prop 		**:  proper
- * **+CollN 	**:  used with paired nouns **collective nouns**
- * **+Relator 		**:  relator nouns, mainly meronyms 
+ * **+Prop**:  proper
+ * **+CollN**:  used with paired nouns **collective nouns**
+ * **+Relator**:  relator nouns, mainly meronyms 
 **Pronouns:**
- * **+Dem 		**:  demonstrative
- * **+Indef 	**:  indefinite
- * **+Dep 		**:  dependent word requiring the presence of another, e.g. **мень**
- * **+Exclusive	**:  ськамонза
+ * **+Dem**:  demonstrative
+ * **+Indef**:  indefinite
+ * **+Dep**:  dependent word requiring the presence of another, e.g. **мень**
+ * **+Exclusive**:  ськамонза
  * **+Intensive**:  intensive pronoun
- * **+Interr 	**:  interrogative
- * **+PerifMod	**:  periferal modifier ськамонза, кавонест
- * **+Pers 		**:  personal
- * **+Recipr 	**:  reciprocal
- * **+Refl 		**:  reflexive
- * **+Recip 	**:  reflexive
- * **+Rel 		**:  relative
+ * **+Interr**:  interrogative
+ * **+PerifMod**:  periferal modifier ськамонза, кавонест
+ * **+Pers**:  personal
+ * **+Recipr**:  reciprocal
+ * **+Refl**:  reflexive
+ * **+Recip**:  reflexive
+ * **+Rel**:  relative
 personal pronouns use additional tags:
 ```
   +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
@@ -347,7 +347,7 @@ Question and Focus particles:
 
 
 Semantics are classified with
- * **+Sem/Kin	** Kin term
+ * **+Sem/Kin** Kin term
 
 
 
