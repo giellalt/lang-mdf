@@ -1,3 +1,5 @@
+* [disambiguator-cg3-src.md](disambiguator-cg3-src.md)
+* [functions-cg3-src.md](functions-cg3-src.md)
 * [exceptions-stems-fst-src.md](exceptions-stems-fst-src.md)
 * [nouns_newwords-stems-fst-src.md](nouns_newwords-stems-fst-src.md)
 * [propernouns_newwords-stems-fst-src.md](propernouns_newwords-stems-fst-src.md)
@@ -21,3 +23,4 @@
 * [particles-affixes-fst-src.md](particles-affixes-fst-src.md)
 * [root-fst-src.md](root-fst-src.md)
 * [transcriptor-abbrevs2text-transcriptions-src.md](transcriptor-abbrevs2text-transcriptions-src.md)
+* [grammarchecker-grammarcheckers-tools.md](grammarchecker-grammarcheckers-tools.md)
