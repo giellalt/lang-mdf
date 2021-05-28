@@ -1,5 +1,6 @@
 # The Moksha morphophonological/twolc rules file 
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
 ```
  а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я 
