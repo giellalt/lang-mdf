@@ -177,7 +177,9 @@ otherwise automatically removed %{ъØ%}
 район+N+SP+Gen+Indef:
 * *район%>%{ЕОØ%}нь*
 * *район%>онь*
-
+ялга+N+Pl+Nom+Indef+Clt/Cop+Prt2+ScPl3
+* *ялга>{Х}т{ЬØ}>{ЕОØ}льхть*
+* *ялга>0т0>ольхть*
 
 **%{ЕОØ%}:е LEFT**
 * *пинг%{ЕОØ%}#*
