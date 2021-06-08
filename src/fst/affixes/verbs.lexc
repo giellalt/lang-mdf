@@ -262,6 +262,7 @@ LEXICON V0_MUMS
 !+ConNeg:е K ; 
 +ConNeg: K ; 
 +ConNegII:йхть K ; 
++ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
@@ -298,7 +299,9 @@ LEXICON V0_TIJEMS
 :й	 INF_ОМ		;
 
 +ConNeg:е K ; 
++ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
++ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
@@ -324,7 +327,9 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 :й	 OPT-ALL       	;
 :й	 INF_ОМ		;
 +ConNeg:е K ; 
++ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
++ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
@@ -445,6 +450,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 OPT-ALL       	;
 	 INF_ОМ		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
++ConNeg:%>%{АЕØ%} PL-NOM-INDEF ;
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
 !!€ кирдь%>%{АЕØ%}
@@ -452,6 +458,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 !!€ ван%>%{АЕØ%}
 !!€ ван%>а
 +ConNegII:%>%{Х%}%{КТ%}%{ЬØ%} K ;
++ConNegII:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
 !! апак Homonymy +Imprt+ScSg2
 !! ваномс+V+ConNegII
 !!€ ван%>%{Х%}%{КТ%}%{ЬØ%}
