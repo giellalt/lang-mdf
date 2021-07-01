@@ -293,7 +293,7 @@ otherwise automatically removed %{ъØ%}
 **е:я**
 
 
-тувотня:тува+N+Pl+Nom+Def+Err/Orth-lowered-final-e-2-ja    !!≈ * Rules final е lowered to я
+≈ * Rules final е lowered to я
 * *тув%{АО%}%>%{Х%}тне%^Е2Я*
 * *туво%>0тня0*
 
@@ -723,3 +723,5 @@ plural
 
 **Disallow onset vowel after voiced cons**
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/phonology.twolc)</small>

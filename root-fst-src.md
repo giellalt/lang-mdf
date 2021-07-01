@@ -51,7 +51,7 @@ personal pronouns use additional tags:
 ```
 Adverbs:
  * ** +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb**: 
-          *вырк ливтясь*  "**flit** and it flew off"
+*вырк ливтясь*  "**flit** and it flew off"
  * ; +Deg 	     : This is degree, depricate + AdA
  * ** +Manner 		**:  with reference to type of adverb
  * ** +Spat 			**:  spatial
@@ -357,7 +357,7 @@ source and target part-of-speech.
 
 ## Der begin
  *  **+Der**  In front of every derivation to make it
- possible to target derivations as a class e.g. in regular expressions etc
+possible to target derivations as a class e.g. in regular expressions etc
  *  **+Der/Poss**  possessive noun ава » аванне
  *  **+Der/Ord**  
  *  **+Der/Iter**  весть, кафксть, колмоксть...
@@ -542,3 +542,5 @@ These have been slightly modified from kpv and myv
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small>

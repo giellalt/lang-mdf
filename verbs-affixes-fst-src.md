@@ -51,7 +51,7 @@ SUBJECT ONLY VERBS
 няемс:ня
 
 
-VERBS MUTUAL FOR TV and IV !!
+
 
 
 
@@ -450,3 +450,5 @@ PARTICIPLES
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>

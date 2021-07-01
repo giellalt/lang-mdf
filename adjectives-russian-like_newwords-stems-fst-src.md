@@ -13,3 +13,5 @@ Adding more 2020-03-08
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>
