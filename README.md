@@ -3,7 +3,7 @@ The Moksha morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues)
 [![Build Status](https://github.com/giellalt/lang-mdf/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mdf/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://raw.githubusercontent.com/giellalt/lang-mdf/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/blob/main/LICENSE)
 
 This repository contains finite state source files for the Moksha language,
 for building morphological analysers, proofing tools
