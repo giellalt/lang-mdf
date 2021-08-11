@@ -778,7 +778,171 @@ N ABBR not ABBR
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/disambiguator.cg3)</small>
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/disambiguator.cg3)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD NOUNS BELOW
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+од:од A_KAL "(eng) /(fin)/(rus) " ;
+
+
+ADD ADJECTIVES BELOW
+
+Adding more 2016-05-22
+
+Adding more 2020-03-08
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD VERBS BELOW
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+else. This file contains all enumerated word forms that cannot reasonably be
+created from lexical data by regular inflection. Usually there should be next
+to none exceptions, it's always better to have a paradigm that covers only
+one or few words than an exception since these will not work nicely with e.g.
+compounding scheme or possibly many end applications.
+
+
+MISSING ADV
+
+
+
+
+
+
+
+
+MISSING CS
+
+MISSING Pcle
+
+
+
+IRREGULAR diminutives
+
+MISSING V
+
+
+
+
+VOCATIVES
+
+
+
+
+
+TOPONYMY
+
+
+PROPER NAMES
+
+Wife NAMES
+
+
+
+
+QUESTIONABLE FORMS
+
+FOREIGN WORDS
+A
+
+
+PCLE
+
+
+NOUNS
+
+
+PROP
+
+MISSING VALENCY
+
+
+
+
+
+more words for Mormula
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор PROP_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD PROPER NOUNS BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOKSHA PROPER NAMES
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL ;
+
+
+ADD NOUNS BELOW
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns-russian-homographs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>
 # Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
 
@@ -1323,1455 +1487,7 @@ These have been slightly modified from kpv and myv
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
-
-The MOKSHA language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-
-
-
-Male given name for deriving patronyms 
-
-
-
-
-
-Вили:Вил
-
-
-Russian type Surnames 
-Абдеев:Абдеев
-
-Багрий:Багр
-
-Аморский:Аморск
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PLACE NAMES FROM TEMPLATES 
- * **LEXICON PROP-PLC_KAL** ending in other consonant
-
- * **LEXICON PROP-PLC_KIT** ending in t
-
-
- * **LEXICON PROP-PLC_KUDO** ending in vowel
-
-
-
-PROPER NOUNS 
- * **LEXICON PROP-PLC_AVA** ending in vowel
- * **LEXICON PROP-PLC_VAJ** ending in vowel
-
-
- * **LEXICON PROP_AVA** ending in vowel
-
- * **LEXICON PROP_VAJ** ending in vowel
-
- * **LEXICON PROP_KELU** ending in u
-
- * **LEXICON PROP_ANDY** ending in i
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/propernouns.lexc)</small>Particles
-
-The MOKSHA language particles ...
-
-PARTICLES 
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/particles.lexc)</small>Pronoun inflection
-
-The Moksha language pronouns inflect in the same cases as regular
-nouns, but ...
-
-PRONOUNS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
-
-
-
-
-
-PERSONAL PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### DEMONSTRATIVE PRONOUNS
-
-
-
-
-
-INTERROGATIVE PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-INDEFINITE PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
-
-### REFLEXIVE PRONOUNS
-### NON-STRESSED REFLEXIVE DATIVES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/pronouns.lexc)</small>Clitics
-
-The MOKSHA language clitics
-
-CLITICS
-
-
-
-This is for vowel final Nominatives
-This is for PxPl1 and PxPl2 
-
-This is for Consonant-final words
-
-This is for Consonant-final words
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/clitics.lexc)</small>Conjunctions
-
-The MOKSHA language conjunctions
-
-CONJUNCTIONS
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/conjunctors.lexc)</small># Noun inflection
-
-
-Moksha language nouns inflect in cases.
-
-NOUNS 
-
-
-
-
-
-
-ава:ава
-
-
-
-
-вальмя:вальмя
-
-вальмя:вальмя
-
-
-
-
-
-пакся:пакся
-
-пакся:пакся
-
-
- * LEXICON N_ANDY  анды:анды
-
-анды:анды
-
-анды:анды
-
- LEXICON N_OFTA  
-
- LEXICON N_OFTA-PL 
-
- LEXICON N_PANGA 
-
- LEXICON N_PINGE 
-Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
-
-Floating
-
-Without vowel
-
- LEXICON N_KECHE 
-Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
-
-Floating
-
-Without vowel
-
-
-
-тише:тише
-
-тише:тише
-
-
- LEXICON N_PULA  
-
- LEXICON N_KARIUC1KE 
-
- LEXICON N_SEL1ME 
-
- LEXICON N_OSH 
-
-
- LEXICON N_SARAZ 
-
-
- LEXICON N_VAJ 
-
-
-
- LEXICON N_KAL 
-
-
-
- LEXICON N_KIAL1 
-
-
-
- LEXICON N_PINE 
-
-
-
- LEXICON N_KELU 
-
-
-
-
-
-
-NMN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- LEXICON NMN_OFTA-PL 
-
-
-
-Indefinite
-Definite Sg
-Possessor Indices
-
-
-Indefinite
-Definite Pl
-
-
-Possessor Indices
-
-
-
-
-Indefinite
-Definite Sg
-Definite Sg
-Possessor Indices
-
-
-Indefinite
-Definite Pl
-
-Possessor Indices
-
-
-
-Indefinite
-Definite Sg
-
-
-
-Indefinite
-Definite Pl
-
-
-
-Indefinite
-Definite Sg
-
-
-Indefinite
-Definite Pl
-
-
-
-Possessor Indices
-
-
-
-Indefinite
-Definite Sg
-
-Indefinite
-Definite Pl
-
-
-
-Indefinite
-Definite Sg
-
-Indefinite
-Definite Pl
-
-
-SG-NOM-INDEF ;
-SG-DAT/GEN/NOM-DEF ;
-PXSG1-Sg ;
-
-Indefinite
-Definite Pl
-
-
-
-SG-NOM-INDEF ;
-SG-DAT/GEN/NOM-DEF ;
-PXSG1-Sg ;
-
-PL-NOM-INDEF ;
-PL-DAT/GEN/NOM-DEF ;
-
-MUTUAL NOMINAL
-
-
-
-
-
-
-
-
-
-
-
-
-Definite Sg
-Possessor Indices
-
-Definite Pl
-Possessor Indices
-
-
-Possessor Indices
-
-
-PXSG1-Pl ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-* *кядь%^PXSG1%>не*
-* *кяд00%>не*
-* *ярмак%^PXSG1%>%{ЕОØ%}не*
-* *ярмак0%>оне*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ананьина К.И. 2000 53
-
-
-
-
-
-
-
-
-
-
-сельме+N+SP+Gen+Indef
-* *сельм%{ЕО%}%>%{ЕОØ%}нь*
-* *сельмо%>0нь*
-
-
-
-
-
-
-
-
-* *киза%^А2О%>%{Х%}т%{ЬØ%}*
-* *кизо0%>0т0*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/nouns.lexc)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/symbols.lexc)</small>Interjections
-
-The MOKSHA language interjections
-
-INTERJECTIONS 
-
-
-
-
-
-
- LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/interjections.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/interjections.lexc)</small>Quantifier inflection
-
-Numerals in the MOKSHA language inflect in the same cases as regular
-nouns.
-
-NUMERALS
-
-
-
-
-
-
-
-
-
-
-
-NUMBERS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON ARABICCASE**  adds +Arab
-
- * **LEXICON ARABICCASE0**  adds +Arab
-
-
-
-
-
-
-
- * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/numbers.lexc)</small>
-
-Adjective inflection
-
-The MOKSHA language adjectives compare.
-
-ADJECTIVES 
-
-
-
-
-
-
-
-
-
-
-
-
-ош:ош
-
-кяль:кяль
-
-
-
-
-келу:келу
-
-келу:келу
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adjectives.lexc)</small>Pronoun inflection
-
-Adpostions in the Moksha language might also inflect in the same cases as regular
-nouns, but ...
-
-ADPOSITIONS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Checking 2018-11-10
-
-
-
-Checking 2018-11-10
-
- * LEXICON PO-PRL_MEL1GE  мельге:мельг%{АЕ%}
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adpositions.lexc)</small># Verb inflection
-
-The Moksha language verbs inflect in persons.
-
-## VERBS 
-
-
-
-
-
-
-
-
-
- * LEXICON V-AUX-NEG-CONJ_AFOLJ  аф:афоль
-
-
-тумс:ту
-
-BOTH IV and TV
-
-
-
-
-
-
-OBJECT and SUBJECT VERBS 
-
-
-
-пачкодемс:пачкодь
-
-
-
-
-
-
-SUBJECT ONLY VERBS 
-
-
-
-
-андомс:анд
-
-пачкодемс:пачкодь
-
-
-
-андовомс:андов
-
-няемс:ня
-
-
-
-
-
-
-*MUMS examples:*
-* *мумс:* `мумс+V+TV+Inf`
-* *муйхтень:* `мумс+V+TV+Ind+Prt1+ScSg1+OcSg2`
-* *музе:* `мумс+V+TV+Ind+Prt1+ScSg3+OcSg3`
-* *мусь:* `мумс+V+TV+Ind+Prt1+ScSg3`
-* *мулезе:* `мумс+V+TV+Conj+ScSg3+OcSg3`
- @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
- @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
- +Use/NG:й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
- :	 IND-PRT1-SC3 ;  
-
-COND-ALL
- +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
-COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
-
-
-
-
- @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
-COND-ALL
- +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
-COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
-
-
-
- LEXICON V0_NJAJEMS   няемс:ня
- @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
- @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
- :й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
-COND-ALL
- +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
-COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
-
-
-
-
-
-
-
-
-
-### AUXILIARY VERBS
- LEXICON V-AUX-NEG-PRT1_ASHEZJ  ашезь:аш
-
- LEXICON V-AUX-NEG-PRT1_IZJ  изь:изь
-
-
-
-
-
-
-
-
-
-FROM MYV
-
- @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
-COND-ALL
- +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
-COND-ALL
- +NegProt:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
-
-ашень, тят, афоль
-кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
-* *кирдь%>%{АЕØ%}*
-* *кирд0%>е*
-* *ван%>%{АЕØ%}*
-* *ван%>а*
-апак Homonymy +Imprt+ScSg2
-ваномс+V+ConNegII
-* *ван%>%{Х%}%{КТ%}%{ЬØ%}*
-* *ват%>0т0*
-* *кирдь%>%{Х%}%{КТ%}%{ЬØ%}*
-* *кирт0%>%{Х%}ть*
-### INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
-
-
-
-
-### INDICATIVE PRETERITE 1 POINTERS
-
-
-
-
-
-### INDICATIVE PRETERITE 2 POINTERS
-
-
-
-### CONJUNCTIVE
-
-
-
-
-### CONDITIONAL and subsequent CONJUNCTIVE
-
-
-
-
-
-## INDICATIVE TAGS
-
-
-
-
-### INDICATIVE NONPAST TAGS and CONDITIONAL TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### INDICATIVE PRETERITE 1 TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## INDICATIVE PRETERITE 2 TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## DESIDERATIVE (desiderative tag)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## CONJUNCTIVE TAGS
-redo conj 2012-11-07 begin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## cond-conj
-## CONDITIONAL-CONJUNCTIVE TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## IMPERATIVE 
-
-
-## IMPERATIVE		(imperative tags)
-
-
-
-
-
-
-
-
-
-
-
-## PRECATIVE 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-end of MYV BORROWING
-
-NON-FINITES 
-
-
-GERUNDS 
-
-
-PARTICIPLES 
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>Adverbs
-
-The MOKSHA language adverbs
-
-ADVERBS 
-
-
- LEXICON ADV-DEG_ 	 пяк
-
- LEXICON ADV_ 	 
- LEXICON ADV-MOD_ 	 
- LEXICON ADV-MANNER_ 	 
-
-
-мзярксть
-
-
- LEXICON ADV-TEMP_ 	 
-
-
-
-
-
-Contrastive
-
-
-ашель:ашель
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adverbs.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL ;
-
-
-ADD NOUNS BELOW
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns-russian-homographs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-од:од A_KAL "(eng) /(fin)/(rus) " ;
-
-
-ADD ADJECTIVES BELOW
-
-Adding more 2016-05-22
-
-Adding more 2020-03-08
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD NOUNS BELOW
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор PROP_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD PROPER NOUNS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MOKSHA PROPER NAMES
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
-else. This file contains all enumerated word forms that cannot reasonably be
-created from lexical data by regular inflection. Usually there should be next
-to none exceptions, it's always better to have a paradigm that covers only
-one or few words than an exception since these will not work nicely with e.g.
-compounding scheme or possibly many end applications.
-
-
-MISSING ADV
-
-
-
-
-
-
-
-
-MISSING CS
-
-MISSING Pcle
-
-
-
-IRREGULAR diminutives
-
-MISSING V
-
-
-
-
-VOCATIVES
-
-
-
-
-
-TOPONYMY
-
-
-PROPER NAMES
-
-Wife NAMES
-
-
-
-
-QUESTIONABLE FORMS
-
-FOREIGN WORDS
-A
-
-
-PCLE
-
-
-NOUNS
-
-
-PROP
-
-MISSING VALENCY
-
-
-
-
-
-more words for Mormula
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD VERBS BELOW
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># The Moksha morphophonological/twolc rules file 
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small># The Moksha morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
@@ -3497,7 +2213,1291 @@ plural
 **Disallow onset vowel after voiced cons**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/phonology.twolc)</small>Adverbs
+
+The MOKSHA language adverbs
+
+ADVERBS 
+
+
+ LEXICON ADV-DEG_ 	 пяк
+
+ LEXICON ADV_ 	 
+ LEXICON ADV-MOD_ 	 
+ LEXICON ADV-MANNER_ 	 
+
+
+мзярксть
+
+
+ LEXICON ADV-TEMP_ 	 
+
+
+
+
+
+Contrastive
+
+
+ашель:ашель
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adverbs.lexc)</small># Verb inflection
+
+The Moksha language verbs inflect in persons.
+
+## VERBS 
+
+
+
+
+
+
+
+
+
+ * LEXICON V-AUX-NEG-CONJ_AFOLJ  аф:афоль
+
+
+тумс:ту
+
+BOTH IV and TV
+
+
+
+
+
+
+OBJECT and SUBJECT VERBS 
+
+
+
+пачкодемс:пачкодь
+
+
+
+
+
+
+SUBJECT ONLY VERBS 
+
+
+
+
+андомс:анд
+
+пачкодемс:пачкодь
+
+
+
+андовомс:андов
+
+няемс:ня
+
+
+
+
+
+
+*MUMS examples:*
+* *мумс:* `мумс+V+TV+Inf`
+* *муйхтень:* `мумс+V+TV+Ind+Prt1+ScSg1+OcSg2`
+* *музе:* `мумс+V+TV+Ind+Prt1+ScSg3+OcSg3`
+* *мусь:* `мумс+V+TV+Ind+Prt1+ScSg3`
+* *мулезе:* `мумс+V+TV+Conj+ScSg3+OcSg3`
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ +Use/NG:й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
+ :	 IND-PRT1-SC3 ;  
+
+COND-ALL
+ +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+COND-ALL
+ +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+
+
+
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+COND-ALL
+ +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+COND-ALL
+ +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+
+
+ LEXICON V0_NJAJEMS   няемс:ня
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+ @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+ :й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
+COND-ALL
+ +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+COND-ALL
+ +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+
+
+
+
+
+
+
+
+### AUXILIARY VERBS
+ LEXICON V-AUX-NEG-PRT1_ASHEZJ  ашезь:аш
+
+ LEXICON V-AUX-NEG-PRT1_IZJ  изь:изь
+
+
+
+
+
+
+
+
+
+FROM MYV
+
+ @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
+COND-ALL
+ +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+COND-ALL
+ +NegProt:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+ашень, тят, афоль
+кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
+* *кирдь%>%{АЕØ%}*
+* *кирд0%>е*
+* *ван%>%{АЕØ%}*
+* *ван%>а*
+апак Homonymy +Imprt+ScSg2
+ваномс+V+ConNegII
+* *ван%>%{Х%}%{КТ%}%{ЬØ%}*
+* *ват%>0т0*
+* *кирдь%>%{Х%}%{КТ%}%{ЬØ%}*
+* *кирт0%>%{Х%}ть*
+### INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
+
+
+
+
+### INDICATIVE PRETERITE 1 POINTERS
+
+
+
+
+
+### INDICATIVE PRETERITE 2 POINTERS
+
+
+
+### CONJUNCTIVE
+
+
+
+
+### CONDITIONAL and subsequent CONJUNCTIVE
+
+
+
+
+
+## INDICATIVE TAGS
+
+
+
+
+### INDICATIVE NONPAST TAGS and CONDITIONAL TAGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### INDICATIVE PRETERITE 1 TAGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## INDICATIVE PRETERITE 2 TAGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## DESIDERATIVE (desiderative tag)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## CONJUNCTIVE TAGS
+redo conj 2012-11-07 begin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## cond-conj
+## CONDITIONAL-CONJUNCTIVE TAGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## IMPERATIVE 
+
+
+## IMPERATIVE		(imperative tags)
+
+
+
+
+
+
+
+
+
+
+
+## PRECATIVE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end of MYV BORROWING
+
+NON-FINITES 
+
+
+GERUNDS 
+
+
+PARTICIPLES 
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/symbols.lexc)</small>Conjunctions
+
+The MOKSHA language conjunctions
+
+CONJUNCTIONS
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/conjunctors.lexc)</small>Quantifier inflection
+
+Numerals in the MOKSHA language inflect in the same cases as regular
+nouns.
+
+NUMERALS
+
+
+
+
+
+
+
+
+
+
+
+NUMBERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ARABICCASE**  adds +Arab
+
+ * **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+ * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/numbers.lexc)</small>Pronoun inflection
+
+The Moksha language pronouns inflect in the same cases as regular
+nouns, but ...
+
+PRONOUNS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON PERS** 
+ * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
+
+
+
+
+
+PERSONAL PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### DEMONSTRATIVE PRONOUNS
+
+
+
+
+
+INTERROGATIVE PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+INDEFINITE PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
+
+### REFLEXIVE PRONOUNS
+### NON-STRESSED REFLEXIVE DATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/pronouns.lexc)</small>Particles
+
+The MOKSHA language particles ...
+
+PARTICLES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/particles.lexc)</small>Proper noun inflection
+
+The MOKSHA language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+
+
+Male given name for deriving patronyms 
+
+
+
+
+
+Вили:Вил
+
+
+Russian type Surnames 
+Абдеев:Абдеев
+
+Багрий:Багр
+
+Аморский:Аморск
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLACE NAMES FROM TEMPLATES 
+ * **LEXICON PROP-PLC_KAL** ending in other consonant
+
+ * **LEXICON PROP-PLC_KIT** ending in t
+
+
+ * **LEXICON PROP-PLC_KUDO** ending in vowel
+
+
+
+PROPER NOUNS 
+ * **LEXICON PROP-PLC_AVA** ending in vowel
+ * **LEXICON PROP-PLC_VAJ** ending in vowel
+
+
+ * **LEXICON PROP_AVA** ending in vowel
+
+ * **LEXICON PROP_VAJ** ending in vowel
+
+ * **LEXICON PROP_KELU** ending in u
+
+ * **LEXICON PROP_ANDY** ending in i
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/propernouns.lexc)</small>Clitics
+
+The MOKSHA language clitics
+
+CLITICS
+
+
+
+This is for vowel final Nominatives
+This is for PxPl1 and PxPl2 
+
+This is for Consonant-final words
+
+This is for Consonant-final words
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/clitics.lexc)</small>
+
+Adjective inflection
+
+The MOKSHA language adjectives compare.
+
+ADJECTIVES 
+
+
+
+
+
+
+
+
+
+
+
+
+ош:ош
+
+кяль:кяль
+
+
+
+
+келу:келу
+
+келу:келу
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adjectives.lexc)</small># Noun inflection
+
+
+Moksha language nouns inflect in cases.
+
+NOUNS 
+
+
+
+
+
+
+ава:ава
+
+
+
+
+вальмя:вальмя
+
+вальмя:вальмя
+
+
+
+
+
+пакся:пакся
+
+пакся:пакся
+
+
+ * LEXICON N_ANDY  анды:анды
+
+анды:анды
+
+анды:анды
+
+ LEXICON N_OFTA  
+
+ LEXICON N_OFTA-PL 
+
+ LEXICON N_PANGA 
+
+ LEXICON N_PINGE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+
+Floating
+
+Without vowel
+
+ LEXICON N_KECHE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+
+Floating
+
+Without vowel
+
+
+
+тише:тише
+
+тише:тише
+
+
+ LEXICON N_PULA  
+
+ LEXICON N_KARIUC1KE 
+
+ LEXICON N_SEL1ME 
+
+ LEXICON N_OSH 
+
+
+ LEXICON N_SARAZ 
+
+
+ LEXICON N_VAJ 
+
+
+
+ LEXICON N_KAL 
+
+
+
+ LEXICON N_KIAL1 
+
+
+
+ LEXICON N_PINE 
+
+
+
+ LEXICON N_KELU 
+
+
+
+
+
+
+NMN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LEXICON NMN_OFTA-PL 
+
+
+
+Indefinite
+Definite Sg
+Possessor Indices
+
+
+Indefinite
+Definite Pl
+
+
+Possessor Indices
+
+
+
+
+Indefinite
+Definite Sg
+Definite Sg
+Possessor Indices
+
+
+Indefinite
+Definite Pl
+
+Possessor Indices
+
+
+
+Indefinite
+Definite Sg
+
+
+
+Indefinite
+Definite Pl
+
+
+
+Indefinite
+Definite Sg
+
+
+Indefinite
+Definite Pl
+
+
+
+Possessor Indices
+
+
+
+Indefinite
+Definite Sg
+
+Indefinite
+Definite Pl
+
+
+
+Indefinite
+Definite Sg
+
+Indefinite
+Definite Pl
+
+
+SG-NOM-INDEF ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
+
+Indefinite
+Definite Pl
+
+
+
+SG-NOM-INDEF ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
+
+PL-NOM-INDEF ;
+PL-DAT/GEN/NOM-DEF ;
+
+MUTUAL NOMINAL
+
+
+
+
+
+
+
+
+
+
+
+
+Definite Sg
+Possessor Indices
+
+Definite Pl
+Possessor Indices
+
+
+Possessor Indices
+
+
+PXSG1-Pl ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+* *кядь%^PXSG1%>не*
+* *кяд00%>не*
+* *ярмак%^PXSG1%>%{ЕОØ%}не*
+* *ярмак0%>оне*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ананьина К.И. 2000 53
+
+
+
+
+
+
+
+
+
+
+сельме+N+SP+Gen+Indef
+* *сельм%{ЕО%}%>%{ЕОØ%}нь*
+* *сельмо%>0нь*
+
+
+
+
+
+
+
+
+* *киза%^А2О%>%{Х%}т%{ЬØ%}*
+* *кизо0%>0т0*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/nouns.lexc)</small>Interjections
+
+The MOKSHA language interjections
+
+INTERJECTIONS 
+
+
+
+
+
+
+ LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/interjections.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/interjections.lexc)</small>Pronoun inflection
+
+Adpostions in the Moksha language might also inflect in the same cases as regular
+nouns, but ...
+
+ADPOSITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Checking 2018-11-10
+
+
+
+Checking 2018-11-10
+
+ * LEXICON PO-PRL_MEL1GE  мельге:мельг%{АЕ%}
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adpositions.lexc)</small>
 
 
 We describe here how abbreviations are in Moksha are read out, e.g.
