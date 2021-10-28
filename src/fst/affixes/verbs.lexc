@@ -1524,6 +1524,7 @@ LEXICON OPT-ALL
  OPT-10 ;
  OPT-20 ;
  OPT-30 ;
+ OPT-33 ;
  OPT-40 ;
  OPT-50 ;
  OPT-60 ;
@@ -1536,6 +1537,9 @@ LEXICON OPT-20
 
 LEXICON OPT-30
 @U.CONJ-MX.OPT@@U.CONJ-PX.3Ø@+Opt+ScSg3:@U.CONJ-MX.OPT@@U.CONJ-PX.3Ø@%>%{ЕОØ%}за VerbEnd ;
+
+LEXICON OPT-33 !Терёшкина 1991
+@U.CONJ-MX.OPT@@U.CONJ-PX.33@+Opt+ScSg3+OcSg3:@U.CONJ-MX.OPT@@U.CONJ-PX.33@%>%{ЕОØ%}зазе VerbEnd ;
 
 LEXICON OPT-40
 @U.CONJ-PX.4Ø@+Opt+ScPl1:@U.CONJ-PX.4Ø@%>%{ЕОØ%}стама VerbEnd ;
