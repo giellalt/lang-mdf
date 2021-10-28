@@ -139,7 +139,8 @@ Verb voice:
  * ** +Pss 	**:  passive
 Verb moods are:
  * ** +Cond 	**:  conditional ндяря- protasis
- * ** +NegProt **:  negative conditional Офтяря- negative protasis
+ * ** +NegCnd **:  negative conditional Офтяря- negative protasis
+ * ** +NegCndSub **:  negative conditional Офтяряль negative protasis
  * ** +Conj 	**:  conjunctional "Оль"
  * ** +Des 	**:  desiderative ксоль "was about to; wanted to"
  * ** +Ind 	**:  indicative

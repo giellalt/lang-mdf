@@ -71,7 +71,7 @@ SUBJECT ONLY VERBS
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -82,7 +82,7 @@ COND-ALL
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -94,7 +94,7 @@ COND-ALL
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -123,7 +123,7 @@ FROM MYV
 COND-ALL
  +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 ашень, тят, афоль
 кирдемс+V+ConNeg **tolerate/kestää** ашень кирде

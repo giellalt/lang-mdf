@@ -919,7 +919,8 @@ Verb voice:
  * ** +Pss 	**:  passive
 Verb moods are:
  * ** +Cond 	**:  conditional ндяря- protasis
- * ** +NegProt **:  negative conditional Офтяря- negative protasis
+ * ** +NegCnd **:  negative conditional Офтяря- negative protasis
+ * ** +NegCndSub **:  negative conditional Офтяряль negative protasis
  * ** +Conj 	**:  conjunctional "Оль"
  * ** +Des 	**:  desiderative ксоль "was about to; wanted to"
  * ** +Ind 	**:  indicative
@@ -2509,7 +2510,7 @@ SUBJECT ONLY VERBS
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -2520,7 +2521,7 @@ COND-ALL
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -2532,7 +2533,7 @@ COND-ALL
 COND-ALL
  +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 
 
@@ -2561,7 +2562,7 @@ FROM MYV
 COND-ALL
  +Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
- +NegProt:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+ +NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 ашень, тят, афоль
 кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
