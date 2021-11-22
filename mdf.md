@@ -778,553 +778,7 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/functions.cg3)</small>
-# Morphology
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
-
-
-The morphological analyses of wordforms of the Moksha language are presented
-in this system in terms of following symbols.
-(It is highly suggested to follow existing standards when adding new tags).
- +TYÄ 	 Underdeveloped.
-
-
-
-The parts-of-speech tags are:
-
- * **+A**:  adjective
- * **+Adv**:  adverb
- * **+CS**:  subordinating conjunction
- * **+CC**:  coordinating conjunction
- * **+Det**:  Determiner
- * **+Interj**:  interjection
- * **+N**:  noun
- * **+Pcle**:  particle
- * **+Po**:  postposition
- * **+Pron**:  pronoun
- * **+Qnt**:  Quantifier
- * **+V**:  verb
-
- * **+Descr**:  descriptive
-
-The parts of speech are further split up into:
-**Nouns:**
- * **+Prop**:  proper
- * **+CollN**:  used with paired nouns **collective nouns**
- * **+Relator**:  relator nouns, mainly meronyms 
-**Pronouns:**
- * **+Dem**:  demonstrative
- * **+Indef**:  indefinite
- * **+Dep**:  dependent word requiring the presence of another, e.g. **мень**
- * **+Exclusive**:  ськамонза
- * **+Intensive**:  intensive pronoun
- * **+Interr**:  interrogative
- * **+PerifMod**:  periferal modifier ськамонза, кавонест
- * **+Pers**:  personal
- * **+Recipr**:  reciprocal
- * **+Refl**:  reflexive
- * **+Recip**:  reflexive
- * **+Rel**:  relative
-personal pronouns use additional tags:
-```
-  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
-```
-Adverbs:
- * ** +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb**: 
-*вырк ливтясь*  "**flit** and it flew off"
- * ; +Deg 	     : This is degree, depricate + AdA
- * ** +Manner 		**:  with reference to type of adverb
- * ** +Spat 			**:  spatial
- * ** +Temp 			**:  temporal
- * ** +Emphatic		**:  used with negation particles афи, 
-
-Interjections:
- * ** +Formulaic  **:  greetings,
-The Usage extents are marked using following tags:
- * ** +Err/Orth    **:  substandard / outside the written norm
- * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
-
- * _+Use/Marg_ * Marginal
- * _+Use/-Spell_ * Exclude from speller
- * _+Use/SpellNoSugg_ * recognized but not suggested in speller
- * _+Use/Circ_ * Circular path
- * _+Use/CircN_ * Circular number path
- * _+Use/-Ped_ * Remove from pedagogical speller
- * _+Use/NG_ * Do not generate, for isme-ped.fst and apertium
-
- * _+Err/Dial_ * The form is non-standard although it may well be central dialect, e.g. стякшемс
- * _+Err/Lex_ * The lemma is not a Moksha word
-
-# Dialect tags
- * +Dial * No specification
-Specific to some dialects
- * +Dial/-C * Not central standard
-
-
-The nominals are inflected in the following Case and Number
- * ** +Sg 		**:  singular
- * ** +Pl 		**:  plural
- * ** +SP 		**:  both singular and plural
- * ** +Abe 		**:  abessive
- * ** +Abl 		**:  ablative
- * ** +Acc 		**:  accusative Not really necessary
- * ** +Cau 		**:  causatative
- * ** +Com 		**:  comitative -нек
- * ** +Cmpr 		**:  comparative -шка
- * ** +Dat 		**:  dative
- * ** +Ela 		**:  elative
- * ** +Gen 		**:  genitive
- * ** +Ill 		**:  illative
- * ** +Ine 		**:  inessive
- * ** +Lat 		**:  lative
- * ** +Loc 		**:  locative
- * ** +Nom 		**:  nominative
- * ** +Prl 		**:  prolative
- * ** +Tra 		**:  translative
- * ** +Voc 		**:  Vocative
-
-
-
-
-The possession is marked as such:
- * ** +PxSg1 	**:  first person singular
- * ** +PxSg2 	**:  second person singular
- * ** +PxSg3 	**:  third person singular
- * ** +PxPl1 	**:  first person plural
- * ** +PxPl2 	**:  second person plural
- * ** +PxPl3 	**:  third person plural
-
- * ** +Def 	**:  Definite
-The comparative forms are:
- * ** +Comp 		**:  comparative as opposed to superlative
- * ** +Superl 	**:  superlative
-
-Particles
- * **+Epist		**:  epistemic
-Quantifiers and Numerals are classified under:
- * ** +Num 		**:  numeral
- * ** +Arab	**:  arabic numeral
- * **+Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three"
- * ** +AssocColl **:  -ne- ; avide-; -месть
- * ** +Coll 		**:  Collective
- * ** +Card 		**:  cardinal
- * ** +Distr 	**:  Distributive
- * _+Iter_ Iterative This will be replaced by +Mult
- * _+Mult_ Multiplicative form expressing number of times; myv: `кавксть`, kpv: `кыкысь`
- * ** +Ord 		**:  ordinal
- * ** +Attr 		**:  attribute, premodifier
-
-Verb voice:
- * ** +Act 	**:  active
- * ** +Pss 	**:  passive
-Verb moods are:
- * ** +Cond 	**:  conditional ндяря- protasis
- * ** +NegCnd **:  negative conditional Офтяря- negative protasis
- * ** +NegCndSub **:  negative conditional Офтяряль negative protasis
- * ** +Conj 	**:  conjunctional "Оль"
- * ** +Des 	**:  desiderative ксоль "was about to; wanted to"
- * ** +Ind 	**:  indicative
- * ** +Imprt **:  imperative
- * ** +Opt 	**:  optative
- * ** +Prec  **:  Precative mood is a directive mood that signals that the utterance is a request. imperative + additional vowel and cons -ака forms equal Precative
-
-Verb tenses are
-  +Prs 	 present and future ! nominal	conjugation as well
-  +Prt1 	 preterite I ! only finite verbal
-  +Prt2 	 preterite II ! nominal conjugation as well
-
-Verb personal forms are:
-
-  +ScSg1 	 subject conjugation first person singular
-  +ScSg2 	 subject conjugation second person singular
-  +ScSg3 	 subject conjugation third person singular
-  +ScPl1 	 subject conjugation first person plural
-  +ScPl2 	 subject conjugation second person plural
-  +ScPl3 	 subject conjugation third person plural
-
-  +OcSg1 	 objject conjugation first person singular
-  +OcSg2 	 objject conjugation second person singular
-  +OcSg3 	 objject conjugation third person singular
-  +OcPl1 	 objject conjugation first person plural
-  +OcPl2 	 objject conjugation second person plural
-  +OcPl3 	 objject conjugation third person plural
-
-Other verb forms are
-   +ConNeg 	 connegative, main verb complement to Neg, vowel-stem
-   +ConNegII 	 connegative, main verb complement to Neg, cons-stem
-   +Ger 	 gerund This is used with Der/Озь and VAbl
-   +Inf    	 infinitive
-   +Neg    	 verb of negation эзь, аволь, иля
-   +Aux		 auxiliary verb
- +Prc 	 participle
-   +VGen   	 Verb Genitive, genitive form participle
-   +VAbl   	 Verb Ablative "озадо"
-
-
-  +ABBR 	 Abbreviation
- * +Symbol = independent symbols in the text stream, like £, €, ©
-  +ACR  	 Acronym
-
-Special symbols are classified with:
-
-The verbs are syntactically split according to transitivity:
-  +TV 	 transitive verb
-  +IV 	 intransitive verb
-Special multiword units are analysed with:
-Non-dictionary words can be recognised with:
-
- * +Dig1 
- * +Dig2 
- * +Dig3 
- * +Dig4 
- * +Rom Roman numerals
-
-Compounding
- * +Cmp Dynamic compound - this tag should always be part of a dynamic compound.
-It is important for Apertium, and useful in other cases as well.
- * +Cmp/Hyph with nouns
- * +Cmp/Hyph-Coll with nouns
- * +Cmp/Hyph-Redup with verbs
- * +Cmp/Hyph-Synonym with verbs
- * +Cmp/Hyph-Serial with verbs
- * +Cmp/Hyph-tejems with verbs
-
-Question and Focus particles:
- * +Clt/Cop This marks all instances of enclitic copula inflection
- * +Clt/Aram Used with preceding dative тейне-арам 'in my opinion'
- * +Clt/Add 
- * +Clt/AddGA 
- * +Clt/AddVok 
- * +Clt/AddNgA 
-
-
-
-
-### Tags distinguishing different versions of the same lemma (before POS)
- * +v1
- * +v2
- * +v3
- * +v4
- * +v5
- * +v6
- * +v7
- * +v8
- * +v9
- * +v10
- * +v11
- * +v12
- * +v13
- * +v14
- * +v15
- * +v16
- * +v17
- * +v18
- * +v19
- * +v20
- * +v21
- * +v22
- * +v23
- * +v24
-
- * **+Sem/Act** Activity
- * **+Sem/Amount** Amount
- * **+Sem/Ani** Animate
- * **+Sem/Aniprod** Animal Product
- * **+Sem/Body** Bodypart
- * **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
- * **+Sem/Build** Building
- * **+Sem/Build-part** Part of Bulding, like the closet
- * **+Sem/Cat** Category
- * **+Sem/Clth** Clothes
- * **+Sem/Clth-jewl** Jewelery
- * **+Sem/Clth-part** part of clothes, boallu, sávdnji...
- * **+Sem/Ctain** Container
- * **+Sem/Ctain-abstr** Abstract container like bank account
- * **+Sem/Ctain-clth**
- * **+Sem/Curr** Currency like dollár, Not Money
- * **+Sem/Dance** Dance
- * **+Sem/Dir** Direction like GPS-kursa
- * **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
- * **+Sem/Drink** Drink
- * **+Sem/Dummytag** Dummytag
- * **+Sem/Edu** Educational event
- * **+Sem/Event** Event
- * **+Sem/Feat** Feature, like Árvu
- * **+Sem/Feat-phys** Physiological feature, ivdni, fárda
- * **+Sem/Feat-psych** Psychological feauture
- * **+Sem/Feat-measr** Psychological feauture
- * **+Sem/Fem** Female name
- * **+Sem/Fem-Patr** Female name
- * **+Sem/Fem-Sur** Female name
- * **+Sem/Food** Food
- * **+Sem/Food-med** Medicine
- * **+Sem/Furn** Furniture
- * **+Sem/Game** Game
- * **+Sem/Geom** Geometrical object
- * **+Sem/Group** Animal or Human Group
- * **+Sem/Hum** Human
- * **+Sem/Hum-abstr** Human abstract
- * **+Sem/Ideol** Ideology
- * **+Sem/Lang** Language
- * **+Sem/Mal** Male name
- * **+Sem/Mal-Patr** Male name
- * **+Sem/Mal-Sur** Male name
- * **+Sem/Mat** Material for producing things
- * **+Sem/Measr** Measure
- * **+Sem/Money** Has to do with money, like wages, not Curr(ency)
- * **+Sem/Obj** Object
- * **+Sem/Obj-clo** Cloth
- * **+Sem/Obj-cogn** Cloth
- * **+Sem/Obj-el** (Electrical) machine or apparatus
- * **+Sem/Obj-ling** Object with something written on it
- * **+Sem/Obj-rope** flexible ropelike object
- * **+Sem/Obj-surfc** Surface object
- * **+Sem/Org** Organisation
- * **+Sem/Part** Feature, oassi, bealli
- * **+Sem/Perc-cogn** Cognative perception
- * **+Sem/Perc-emo** Emotional perception
- * **+Sem/Perc-phys** Physical perception
- * **+Sem/Perc-psych** Physical perception
- * **+Sem/Plant** Plant
- * **+Sem/Plant-part** Plant part
- * **+Sem/Plc** Place
- * **+Sem/Plc-abstr** Abstract place
- * **+Sem/Plc-elevate** Place
- * **+Sem/Plc-line** Place
- * **+Sem/Plc-water** Place
- * **+Sem/Pos** Position (as in social position job)
- * **+Sem/Process** Process
- * **+Sem/Prod** Product
- * **+Sem/Prod-audio** Audio product
- * **+Sem/Prod-cogn** Cognition product
- * **+Sem/Prod-ling** Linguistic product
- * **+Sem/Prod-vis** Visual product
- * **+Sem/Rel** Relation
- * **+Sem/Route** Name of a Route
- * **+Sem/Rule** Rule or convention
- * **+Sem/Semcon** Semantic concept
- * **+Sem/Sign** Sign (e.g. numbers, punctuation) 
- * **+Sem/Sport** Sport
- * **+Sem/State** 
- * **+Sem/State-sick** Illness
- * **+Sem/Substnc** Substance, like Air and Water
- * **+Sem/Sur** Surname
- * **+Sem/Symbol** Symbol
- * **+Sem/Time** Time
- * **+Sem/Tool** Prototypical tool for repairing things
- * **+Sem/Tool-catch** Tool used for catching (e.g. fish)
- * **+Sem/Tool-clean** Tool used for cleaning
- * **+Sem/Tool-it** Tool used in IT
- * **+Sem/Tool-measr** Tool used for measuring
- * **+Sem/Tool-music** Music instrument
- * **+Sem/Tool-write** Writing tool
- * **+Sem/Txt** Text (girji, lávlla...)
- * **+Sem/Veh** Vehicle
- * **+Sem/Wpn** Weapon
- * **+Sem/Wthr** The Weather or the state of ground
-
-
-
-
-
-Semantics are classified with
- * **+Sem/Kin** Kin term
-
-
-
-Derivations are classified under the morphophonetic form of the suffix, the
-source and target part-of-speech.
-
-
-## Der begin
- *  **+Der**  In front of every derivation to make it
-possible to target derivations as a class e.g. in regular expressions etc
- *  **+Der/Poss**  possessive noun ава » аванне
- *  **+Der/Ord**  
- *  **+Der/Iter**  весть, кафксть, колмоксть...
- *  **+Der/Wife**  Added to male names, surnames, patronymics
-
-## DECLARING DEVERBAL DERIVATIONS OF VERBS
- * +Der/kshnO  verb2verb derivation
- * +Der/OkshnOms  verb2verb derivation
- * +Der/OvOms  verb2verb derivation
- * +Der/OvkshnOms  verb2verb derivation
- * +Der/OvtOms  verb2verb derivation
-
-  +Der/Dimin	 diminutive markers in ня and кя seem to be subject of complementary distribution
- * +Der/NJ Онь
- * +Der/Bachk * бачк
-
-Morphophonology
-To represent phonologic variations in word forms we use the following
-symbols in the lexicon files:
-  %{ИЫЙ%}	 phasing out Ы2, eg кундамс:кундай
-  %{ЕОØ%}	 morphemes requiring a preceding vowel; also пинге
-  %{ЕО%} 	 сельме
-  %{ЕØ%}	 кече
-  %{АЯ%} 	 А2 in кундамс:кундан
-  %{ВИУ%}         lative
-  %{Х%}		 This usually precedes the plural marker
-  %{КТ%}		 used in imperative and connegative
-  %{ЬØ%}	 after imperative Sg2
-  %{DIM%}	 This will be for diminutive initial consonant
-
-2016-03-12
- %^А2О		 used with final а in пула 
-
-  А2 	 А2:а А2:я
-  %{вгк%} 	 %{вгк%}:г %{вгк%}:в %{вгк%}:к
-  %{гк%}	 clitic in ``` %{гк%} %{АЕ%} ```
-  К1 	 К1:к К1:т
- %{АЕØ%}	  ConNeg with ашень, тят, афоль
- %{АО%}	  пула stem
- %{АОØ%}	  офта stem
- %{АЕ%}	 prolative
-  Х1 	 Х1:х Х1:0
-  Ь2 	 Ь2:ь Ь2:0
- %{ъØ%}         This will represent schwa in first syllable
-
-in ped realized as hard sign
-
-And following triggers to control variation
- * %^RmVow 	 for removing vowels
- %^Ь2ZERO	 removes soft sign before vowel or other combination
- %^Ъ2PED		 brings out hard sign, which is otherwise automatically removed
- %^Е2О		 Change stem-final vowel сембе:сембось
- %^Е2А		 Change stem-final vowel мельге:мельганза
- %^Я2А		 Change stem-final vowel рьвя:рьванц
- %^А2Е		 Change stem-final vowel мокша:мокшесь
- %^Е2Я		 Change word-final vowel for dialect тувотне > тувотня
- %^Devoice	 for devoicing изь:исть
- %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
-
-## Flag diacritics
-We have manually optimised the structure of our lexicon using following
-flag diacritics to restrict morhpological combinatorics - only allow compounds
-with verbs if the verb is further derived into a noun again:
- |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
- |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
-
-For languages that allow compounding, the following flag diacritics are needed
-to control position-based compounding restrictions for nominals. Their use is
-handled automatically if combined with +CmpN/xxx tags. If not used, they will
-do no harm.
- |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
- |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
- |  @P.CmpPref.FALSE@ | Block these words from making further compounds
- |  @D.CmpLast.TRUE@ | Block such words from entering R
- |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
- |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
- |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
- |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
-
-Use the following flag diacritics to control downcasing of derived proper
-nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
-these flags. There exists a ready-made regex that will do the actual down-casing
-given the proper use of these flags.
- |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
- |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
-
-
-
-
-
-
- @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
-
-
-
-
-
-
-
-
-
-
-
-# FLAGS USED WITH MODIFIERS WITHOUT NOUNS
-
-# FLAGS USED WITH COLLECTIVE NOUNS
-## number
- * @U.DECL-NX.SG@
- * @U.DECL-NX.SP@
- * @U.DECL-NX.PL@
- * @R.DECL-NX.SG@
- * @R.DECL-NX.SP@
- * @R.DECL-NX.PL@
-
- * @U.CX.ABE@ 
- * @U.CX.ABL@ 
- * @U.CX.CAU@ 
- * @U.CX.CMP@ 
- * @U.CX.COM@ 
- * @U.CX.DAT@ 
- * @U.CX.ELA@ 
- * @U.CX.GEN@ 
- * @U.CX.ILL@ 
- * @U.CX.INE@ 
- * @U.CX.LAT@ 
- * @U.CX.LOC@ 
- * @U.CX.NOM@ 
- * @U.CX.PRL@ 
- * @U.CX.TRA@ 
- * @U.CX.PRL@ 
- * @U.CX.TEMP@ 
-
- * @U.DECL-DX.DEF@ 
- * @U.DECL-DX.INDEF@ 
- * @U.DECL-DX.PXSG1@ 
- * @U.DECL-DX.PXSG2@ 
- * @U.DECL-DX.PXSG3@ 
- * @U.DECL-DX.PXPL1@ 
- * @U.DECL-DX.PXPL2@ 
- * @U.DECL-DX.PXPL3@ 
-
-
-
-The word forms in Moksha language start from the lexeme roots of basic
-word classes, or optionally from prefixes:
-These have been slightly modified from kpv and myv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small># The Moksha morphophonological/twolc rules file 
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/functions.cg3)</small># The Moksha morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
@@ -2069,7 +1523,212 @@ PARTICLES
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/particles.lexc)</small>Pronoun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/particles.lexc)</small>Adverbs
+
+The MOKSHA language adverbs
+
+ADVERBS 
+
+
+ LEXICON ADV-DEG_ 	 пяк
+
+ LEXICON ADV_ 	 
+ LEXICON ADV-MOD_ 	 
+ LEXICON ADV-MANNER_ 	 
+
+
+мзярксть
+
+
+ LEXICON ADV-TEMP_ 	 
+
+
+
+
+
+Contrastive
+
+
+ашель:ашель
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adverbs.lexc)</small>Conjunctions
+
+The MOKSHA language conjunctions
+
+CONJUNCTIONS
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/conjunctors.lexc)</small>Pronoun inflection
+
+The Moksha language pronouns inflect in the same cases as regular
+nouns, but ...
+
+PRONOUNS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON PERS** 
+ * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
+
+
+
+
+
+PERSONAL PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### DEMONSTRATIVE PRONOUNS
+
+
+
+
+
+INTERROGATIVE PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+INDEFINITE PRONOUNS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
+
+### REFLEXIVE PRONOUNS
+### NON-STRESSED REFLEXIVE DATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/pronouns.lexc)</small>Pronoun inflection
 
 Adpostions in the Moksha language might also inflect in the same cases as regular
 nouns, but ...
@@ -2116,328 +1775,7 @@ Checking 2018-11-10
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adpositions.lexc)</small># Noun inflection
-
-
-Moksha language nouns inflect in cases.
-
-NOUNS 
-
-
-
-
-
-
-ава:ава
-
-
-
-
-вальмя:вальмя
-
-вальмя:вальмя
-
-
-
-
-
-пакся:пакся
-
-пакся:пакся
-
-
- * LEXICON N_ANDY  анды:анды
-
-анды:анды
-
-анды:анды
-
- LEXICON N_OFTA  
-
- LEXICON N_OFTA-PL 
-
- LEXICON N_PANGA 
-
- LEXICON N_PINGE 
-Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
-
-Floating
-
-Without vowel
-
- LEXICON N_KECHE 
-Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
-
-Floating
-
-Without vowel
-
-
-
-тише:тише
-
-тише:тише
-
-
- LEXICON N_PULA  
-
- LEXICON N_KARIUC1KE 
-
- LEXICON N_SEL1ME 
-
- LEXICON N_OSH 
-
-
- LEXICON N_SARAZ 
-
-
- LEXICON N_VAJ 
-
-
-
- LEXICON N_KAL 
-
-
-
- LEXICON N_KIAL1 
-
-
-
- LEXICON N_PINE 
-
-
-
- LEXICON N_KELU 
-
-
-
-
-
-
-NMN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- LEXICON NMN_OFTA-PL 
-
-
-
-Indefinite
-Definite Sg
-Possessor Indices
-
-
-Indefinite
-Definite Pl
-
-
-Possessor Indices
-
-
-
-
-Indefinite
-Definite Sg
-Definite Sg
-Possessor Indices
-
-
-Indefinite
-Definite Pl
-
-Possessor Indices
-
-
-
-Indefinite
-Definite Sg
-
-
-
-Indefinite
-Definite Pl
-
-
-
-Indefinite
-Definite Sg
-
-
-Indefinite
-Definite Pl
-
-
-
-Possessor Indices
-
-
-
-Indefinite
-Definite Sg
-
-Indefinite
-Definite Pl
-
-
-
-Indefinite
-Definite Sg
-
-Indefinite
-Definite Pl
-
-
-SG-NOM-INDEF ;
-SG-DAT/GEN/NOM-DEF ;
-PXSG1-Sg ;
-
-Indefinite
-Definite Pl
-
-
-
-SG-NOM-INDEF ;
-SG-DAT/GEN/NOM-DEF ;
-PXSG1-Sg ;
-
-PL-NOM-INDEF ;
-PL-DAT/GEN/NOM-DEF ;
-
-MUTUAL NOMINAL
-
-
-
-
-
-
-
-
-
-
-
-
-Definite Sg
-Possessor Indices
-
-Definite Pl
-Possessor Indices
-
-
-Possessor Indices
-
-
-PXSG1-Pl ;
-
-
-
-
-
-
-
-
-
-
-
-
-
-* *кядь%^PXSG1%>не*
-* *кяд00%>не*
-* *ярмак%^PXSG1%>%{ЕОØ%}не*
-* *ярмак0%>оне*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ананьина К.И. 2000 53
-
-
-
-
-
-
-
-
-
-
-сельме+N+SP+Gen+Indef
-* *сельм%{ЕО%}%>%{ЕОØ%}нь*
-* *сельмо%>0нь*
-
-
-
-
-
-
-
-
-* *киза%^А2О%>%{Х%}т%{ЬØ%}*
-* *кизо0%>0т0*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/nouns.lexc)</small># Verb inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adpositions.lexc)</small># Verb inflection
 
 The Moksha language verbs inflect in persons.
 
@@ -2891,22 +2229,74 @@ PARTICIPLES
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>Conjunctions
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>Quantifier inflection
 
-The MOKSHA language conjunctions
+Numerals in the MOKSHA language inflect in the same cases as regular
+nouns.
 
-CONJUNCTIONS
+NUMERALS
 
 
 
 
+
+
+
+
+
+
+
+NUMBERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ARABICCASE**  adds +Arab
+
+ * **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+ * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/conjunctors.lexc)</small>Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/numbers.lexc)</small>Interjections
+
+The MOKSHA language interjections
+
+INTERJECTIONS 
+
+
+
+
+
+
+ LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/interjections.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/interjections.lexc)</small>Proper noun inflection
 
 The MOKSHA language proper nouns inflect in the same cases as regular
 nouns, but with a colon (':') as separator.
@@ -3002,33 +2392,312 @@ PROPER NOUNS
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/propernouns.lexc)</small>Adverbs
-
-The MOKSHA language adverbs
-
-ADVERBS 
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/propernouns.lexc)</small># Noun inflection
 
 
- LEXICON ADV-DEG_ 	 пяк
+Moksha language nouns inflect in cases.
 
- LEXICON ADV_ 	 
- LEXICON ADV-MOD_ 	 
- LEXICON ADV-MANNER_ 	 
-
-
-мзярксть
-
-
- LEXICON ADV-TEMP_ 	 
+NOUNS 
 
 
 
 
 
-Contrastive
+
+ава:ава
 
 
-ашель:ашель
+
+
+вальмя:вальмя
+
+вальмя:вальмя
+
+
+
+
+
+пакся:пакся
+
+пакся:пакся
+
+
+ * LEXICON N_ANDY  анды:анды
+
+анды:анды
+
+анды:анды
+
+ LEXICON N_OFTA  
+
+ LEXICON N_OFTA-PL 
+
+ LEXICON N_PANGA 
+
+ LEXICON N_PINGE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+
+Floating
+
+Without vowel
+
+ LEXICON N_KECHE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+
+Floating
+
+Without vowel
+
+
+
+тише:тише
+
+тише:тише
+
+
+ LEXICON N_PULA  
+
+ LEXICON N_KARIUC1KE 
+
+ LEXICON N_SEL1ME 
+
+ LEXICON N_OSH 
+
+
+ LEXICON N_SARAZ 
+
+
+ LEXICON N_VAJ 
+
+
+
+ LEXICON N_KAL 
+
+
+
+ LEXICON N_KIAL1 
+
+
+
+ LEXICON N_PINE 
+
+
+
+ LEXICON N_KELU 
+
+
+
+
+
+
+NMN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LEXICON NMN_OFTA-PL 
+
+
+
+Indefinite
+Definite Sg
+Possessor Indices
+
+
+Indefinite
+Definite Pl
+
+
+Possessor Indices
+
+
+
+
+Indefinite
+Definite Sg
+Definite Sg
+Possessor Indices
+
+
+Indefinite
+Definite Pl
+
+Possessor Indices
+
+
+
+Indefinite
+Definite Sg
+
+
+
+Indefinite
+Definite Pl
+
+
+
+Indefinite
+Definite Sg
+
+
+Indefinite
+Definite Pl
+
+
+
+Possessor Indices
+
+
+
+Indefinite
+Definite Sg
+
+Indefinite
+Definite Pl
+
+
+
+Indefinite
+Definite Sg
+
+Indefinite
+Definite Pl
+
+
+SG-NOM-INDEF ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
+
+Indefinite
+Definite Pl
+
+
+
+SG-NOM-INDEF ;
+SG-DAT/GEN/NOM-DEF ;
+PXSG1-Sg ;
+
+PL-NOM-INDEF ;
+PL-DAT/GEN/NOM-DEF ;
+
+MUTUAL NOMINAL
+
+
+
+
+
+
+
+
+
+
+
+
+Definite Sg
+Possessor Indices
+
+Definite Pl
+Possessor Indices
+
+
+Possessor Indices
+
+
+PXSG1-Pl ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+* *кядь%^PXSG1%>не*
+* *кяд00%>не*
+* *ярмак%^PXSG1%>%{ЕОØ%}не*
+* *ярмак0%>оне*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ананьина К.И. 2000 53
+
+
+
+
+
+
+
+
+
+
+сельме+N+SP+Gen+Indef
+* *сельм%{ЕО%}%>%{ЕОØ%}нь*
+* *сельмо%>0нь*
+
+
+
+
+
+
+
+
+* *киза%^А2О%>%{Х%}т%{ЬØ%}*
+* *кизо0%>0т0*
+
+
+
+
+
+
 
 
 
@@ -3044,74 +2713,7 @@ Contrastive
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adverbs.lexc)</small>Quantifier inflection
-
-Numerals in the MOKSHA language inflect in the same cases as regular
-nouns.
-
-NUMERALS
-
-
-
-
-
-
-
-
-
-
-
-NUMBERS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON ARABICCASE**  adds +Arab
-
- * **LEXICON ARABICCASE0**  adds +Arab
-
-
-
-
-
-
-
- * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/numbers.lexc)</small>Interjections
-
-The MOKSHA language interjections
-
-INTERJECTIONS 
-
-
-
-
-
-
- LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/interjections.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/interjections.lexc)</small>Clitics
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/nouns.lexc)</small>Clitics
 
 The MOKSHA language clitics
 
@@ -3135,6 +2737,14 @@ This is for Consonant-final words
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/clitics.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 Adjective inflection
 
@@ -3179,12 +2789,12 @@ ADJECTIVES
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adjectives.lexc)</small>Pronoun inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adjectives.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор PROP_KAL "(eng) /(fin) /(rus) " ;
 
-The Moksha language pronouns inflect in the same cases as regular
-nouns, but ...
 
-PRONOUNS 
+ADD PROPER NOUNS BELOW
 
 
 
@@ -3199,143 +2809,22 @@ PRONOUNS
 
 
 
-
-
-
-
-
-
-
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
-
-
-
-
-
-PERSONAL PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### DEMONSTRATIVE PRONOUNS
-
-
-
-
-
-INTERROGATIVE PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-INDEFINITE PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
-
-### REFLEXIVE PRONOUNS
-### NON-STRESSED REFLEXIVE DATIVES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+MOKSHA PROPER NAMES
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/pronouns.lexc)</small>
-# Symbol affixes
+<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL "(eng) /(fin) /(rus) " ;
 
 
+ADD VERBS BELOW
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/symbols.lexc)</small>This is where new words are added as lexc entries before they are 
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
 added to the xml source files.
 од:од A_KAL "(eng) /(fin)/(rus) " ;
 
@@ -3351,7 +2840,48 @@ Adding more 2020-03-08
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+автор:автор N_KAL ;
+
+
+ADD NOUNS BELOW
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns-russian-homographs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
+
+
+ADD NOUNS BELOW
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
 created from lexical data by regular inflection. Usually there should be next
 to none exceptions, it's always better to have a paradigm that covers only
@@ -3423,12 +2953,535 @@ more words for Mormula
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL "(eng) /(fin) /(rus) " ;
+<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>
+# Morphology
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
 
 
-ADD NOUNS BELOW
+The morphological analyses of wordforms of the Moksha language are presented
+in this system in terms of following symbols.
+(It is highly suggested to follow existing standards when adding new tags).
+ +TYÄ 	 Underdeveloped.
+
+
+
+The parts-of-speech tags are:
+
+ * **+A**:  adjective
+ * **+Adv**:  adverb
+ * **+CS**:  subordinating conjunction
+ * **+CC**:  coordinating conjunction
+ * **+Det**:  Determiner
+ * **+Interj**:  interjection
+ * **+N**:  noun
+ * **+Pcle**:  particle
+ * **+Po**:  postposition
+ * **+Pron**:  pronoun
+ * **+Qnt**:  Quantifier
+ * **+V**:  verb
+
+ * **+Descr**:  descriptive
+
+The parts of speech are further split up into:
+**Nouns:**
+ * **+Prop**:  proper
+ * **+CollN**:  used with paired nouns **collective nouns**
+ * **+Relator**:  relator nouns, mainly meronyms 
+**Pronouns:**
+ * **+Dem**:  demonstrative
+ * **+Indef**:  indefinite
+ * **+Dep**:  dependent word requiring the presence of another, e.g. **мень**
+ * **+Exclusive**:  ськамонза
+ * **+Intensive**:  intensive pronoun
+ * **+Interr**:  interrogative
+ * **+PerifMod**:  periferal modifier ськамонза, кавонест
+ * **+Pers**:  personal
+ * **+Recipr**:  reciprocal
+ * **+Refl**:  reflexive
+ * **+Recip**:  reflexive
+ * **+Rel**:  relative
+personal pronouns use additional tags:
+```
+  +Sg1 +Sg2 +Sg3 +Pl1 +Pl2 +Pl3 
+```
+Adverbs:
+ * ** +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb**: 
+*вырк ливтясь*  "**flit** and it flew off"
+ * ; +Deg 	     : This is degree, depricate + AdA
+ * ** +Manner 		**:  with reference to type of adverb
+ * ** +Spat 			**:  spatial
+ * ** +Temp 			**:  temporal
+ * ** +Emphatic		**:  used with negation particles афи, 
+
+Interjections:
+ * ** +Formulaic  **:  greetings,
+The Usage extents are marked using following tags:
+ * ** +Err/Orth    **:  substandard / outside the written norm
+ * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
+
+ * _+Use/Marg_ * Marginal
+ * _+Use/-Spell_ * Exclude from speller
+ * _+Use/SpellNoSugg_ * recognized but not suggested in speller
+ * _+Use/Circ_ * Circular path
+ * _+Use/CircN_ * Circular number path
+ * _+Use/-Ped_ * Remove from pedagogical speller
+ * _+Use/NG_ * Do not generate, for isme-ped.fst and apertium
+
+ * _+Err/Dial_ * The form is non-standard although it may well be central dialect, e.g. стякшемс
+ * _+Err/Lex_ * The lemma is not a Moksha word
+
+# Dialect tags
+ * +Dial * No specification
+Specific to some dialects
+ * +Dial/-C * Not central standard
+
+
+The nominals are inflected in the following Case and Number
+ * ** +Sg 		**:  singular
+ * ** +Pl 		**:  plural
+ * ** +SP 		**:  both singular and plural
+ * ** +Abe 		**:  abessive
+ * ** +Abl 		**:  ablative
+ * ** +Acc 		**:  accusative Not really necessary
+ * ** +Cau 		**:  causatative
+ * ** +Com 		**:  comitative -нек
+ * ** +Cmpr 		**:  comparative -шка
+ * ** +Dat 		**:  dative
+ * ** +Ela 		**:  elative
+ * ** +Gen 		**:  genitive
+ * ** +Ill 		**:  illative
+ * ** +Ine 		**:  inessive
+ * ** +Lat 		**:  lative
+ * ** +Loc 		**:  locative
+ * ** +Nom 		**:  nominative
+ * ** +Prl 		**:  prolative
+ * ** +Tra 		**:  translative
+ * ** +Voc 		**:  Vocative
+
+
+
+
+The possession is marked as such:
+ * ** +PxSg1 	**:  first person singular
+ * ** +PxSg2 	**:  second person singular
+ * ** +PxSg3 	**:  third person singular
+ * ** +PxPl1 	**:  first person plural
+ * ** +PxPl2 	**:  second person plural
+ * ** +PxPl3 	**:  third person plural
+
+ * ** +Def 	**:  Definite
+The comparative forms are:
+ * ** +Comp 		**:  comparative as opposed to superlative
+ * ** +Superl 	**:  superlative
+
+Particles
+ * **+Epist		**:  epistemic
+Quantifiers and Numerals are classified under:
+ * ** +Num 		**:  numeral
+ * ** +Arab	**:  arabic numeral
+ * **+Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three"
+ * ** +AssocColl **:  -ne- ; avide-; -месть
+ * ** +Coll 		**:  Collective
+ * ** +Card 		**:  cardinal
+ * ** +Distr 	**:  Distributive
+ * _+Iter_ Iterative This will be replaced by +Mult
+ * _+Mult_ Multiplicative form expressing number of times; myv: `кавксть`, kpv: `кыкысь`
+ * ** +Ord 		**:  ordinal
+ * ** +Attr 		**:  attribute, premodifier
+
+Verb voice:
+ * ** +Act 	**:  active
+ * ** +Pss 	**:  passive
+Verb moods are:
+ * ** +Cond 	**:  conditional ндяря- protasis
+ * ** +NegCnd **:  negative conditional Офтяря- negative protasis
+ * ** +NegCndSub **:  negative conditional Офтяряль negative protasis
+ * ** +Conj 	**:  conjunctional "Оль"
+ * ** +Des 	**:  desiderative ксоль "was about to; wanted to"
+ * ** +Ind 	**:  indicative
+ * ** +Imprt **:  imperative
+ * ** +Opt 	**:  optative
+ * ** +Prec  **:  Precative mood is a directive mood that signals that the utterance is a request. imperative + additional vowel and cons -ака forms equal Precative
+
+Verb tenses are
+  +Prs 	 present and future ! nominal	conjugation as well
+  +Prt1 	 preterite I ! only finite verbal
+  +Prt2 	 preterite II ! nominal conjugation as well
+
+Verb personal forms are:
+
+  +ScSg1 	 subject conjugation first person singular
+  +ScSg2 	 subject conjugation second person singular
+  +ScSg3 	 subject conjugation third person singular
+  +ScPl1 	 subject conjugation first person plural
+  +ScPl2 	 subject conjugation second person plural
+  +ScPl3 	 subject conjugation third person plural
+
+  +OcSg1 	 objject conjugation first person singular
+  +OcSg2 	 objject conjugation second person singular
+  +OcSg3 	 objject conjugation third person singular
+  +OcPl1 	 objject conjugation first person plural
+  +OcPl2 	 objject conjugation second person plural
+  +OcPl3 	 objject conjugation third person plural
+
+Other verb forms are
+   +ConNeg 	 connegative, main verb complement to Neg, vowel-stem
+   +ConNegII 	 connegative, main verb complement to Neg, cons-stem
+   +Ger 	 gerund This is used with Der/Озь and VAbl
+   +Inf    	 infinitive
+   +Neg    	 verb of negation эзь, аволь, иля
+   +Aux		 auxiliary verb
+ +Prc 	 participle
+   +VGen   	 Verb Genitive, genitive form participle
+   +VAbl   	 Verb Ablative "озадо"
+
+
+  +ABBR 	 Abbreviation
+ * +Symbol = independent symbols in the text stream, like £, €, ©
+  +ACR  	 Acronym
+
+Special symbols are classified with:
+
+The verbs are syntactically split according to transitivity:
+  +TV 	 transitive verb
+  +IV 	 intransitive verb
+Special multiword units are analysed with:
+Non-dictionary words can be recognised with:
+
+ * +Dig1 
+ * +Dig2 
+ * +Dig3 
+ * +Dig4 
+ * +Rom Roman numerals
+
+Compounding
+ * +Cmp Dynamic compound - this tag should always be part of a dynamic compound.
+It is important for Apertium, and useful in other cases as well.
+ * +Cmp/Hyph with nouns
+ * +Cmp/Hyph-Coll with nouns
+ * +Cmp/Hyph-Redup with verbs
+ * +Cmp/Hyph-Synonym with verbs
+ * +Cmp/Hyph-Serial with verbs
+ * +Cmp/Hyph-tejems with verbs
+
+Question and Focus particles:
+ * +Clt/Cop This marks all instances of enclitic copula inflection
+ * +Clt/Aram Used with preceding dative тейне-арам 'in my opinion'
+ * +Clt/Add 
+ * +Clt/AddGA 
+ * +Clt/AddVok 
+ * +Clt/AddNgA 
+
+
+
+
+### Tags distinguishing different versions of the same lemma (before POS)
+ * +v1
+ * +v2
+ * +v3
+ * +v4
+ * +v5
+ * +v6
+ * +v7
+ * +v8
+ * +v9
+ * +v10
+ * +v11
+ * +v12
+ * +v13
+ * +v14
+ * +v15
+ * +v16
+ * +v17
+ * +v18
+ * +v19
+ * +v20
+ * +v21
+ * +v22
+ * +v23
+ * +v24
+
+ * **+Sem/Act** Activity
+ * **+Sem/Amount** Amount
+ * **+Sem/Ani** Animate
+ * **+Sem/Aniprod** Animal Product
+ * **+Sem/Body** Bodypart
+ * **+Sem/Body-abstr** siellu, vuoig?a, jierbmi
+ * **+Sem/Build** Building
+ * **+Sem/Build-part** Part of Bulding, like the closet
+ * **+Sem/Cat** Category
+ * **+Sem/Clth** Clothes
+ * **+Sem/Clth-jewl** Jewelery
+ * **+Sem/Clth-part** part of clothes, boallu, sávdnji...
+ * **+Sem/Ctain** Container
+ * **+Sem/Ctain-abstr** Abstract container like bank account
+ * **+Sem/Ctain-clth**
+ * **+Sem/Curr** Currency like dollár, Not Money
+ * **+Sem/Dance** Dance
+ * **+Sem/Dir** Direction like GPS-kursa
+ * **+Sem/Domain** Domain like politics, reindeerherding (a system of actions)
+ * **+Sem/Drink** Drink
+ * **+Sem/Dummytag** Dummytag
+ * **+Sem/Edu** Educational event
+ * **+Sem/Event** Event
+ * **+Sem/Feat** Feature, like Árvu
+ * **+Sem/Feat-phys** Physiological feature, ivdni, fárda
+ * **+Sem/Feat-psych** Psychological feauture
+ * **+Sem/Feat-measr** Psychological feauture
+ * **+Sem/Fem** Female name
+ * **+Sem/Fem-Patr** Female name
+ * **+Sem/Fem-Sur** Female name
+ * **+Sem/Food** Food
+ * **+Sem/Food-med** Medicine
+ * **+Sem/Furn** Furniture
+ * **+Sem/Game** Game
+ * **+Sem/Geom** Geometrical object
+ * **+Sem/Group** Animal or Human Group
+ * **+Sem/Hum** Human
+ * **+Sem/Hum-abstr** Human abstract
+ * **+Sem/Ideol** Ideology
+ * **+Sem/Lang** Language
+ * **+Sem/Mal** Male name
+ * **+Sem/Mal-Patr** Male name
+ * **+Sem/Mal-Sur** Male name
+ * **+Sem/Mat** Material for producing things
+ * **+Sem/Measr** Measure
+ * **+Sem/Money** Has to do with money, like wages, not Curr(ency)
+ * **+Sem/Obj** Object
+ * **+Sem/Obj-clo** Cloth
+ * **+Sem/Obj-cogn** Cloth
+ * **+Sem/Obj-el** (Electrical) machine or apparatus
+ * **+Sem/Obj-ling** Object with something written on it
+ * **+Sem/Obj-rope** flexible ropelike object
+ * **+Sem/Obj-surfc** Surface object
+ * **+Sem/Org** Organisation
+ * **+Sem/Part** Feature, oassi, bealli
+ * **+Sem/Perc-cogn** Cognative perception
+ * **+Sem/Perc-emo** Emotional perception
+ * **+Sem/Perc-phys** Physical perception
+ * **+Sem/Perc-psych** Physical perception
+ * **+Sem/Plant** Plant
+ * **+Sem/Plant-part** Plant part
+ * **+Sem/Plc** Place
+ * **+Sem/Plc-abstr** Abstract place
+ * **+Sem/Plc-elevate** Place
+ * **+Sem/Plc-line** Place
+ * **+Sem/Plc-water** Place
+ * **+Sem/Pos** Position (as in social position job)
+ * **+Sem/Process** Process
+ * **+Sem/Prod** Product
+ * **+Sem/Prod-audio** Audio product
+ * **+Sem/Prod-cogn** Cognition product
+ * **+Sem/Prod-ling** Linguistic product
+ * **+Sem/Prod-vis** Visual product
+ * **+Sem/Rel** Relation
+ * **+Sem/Route** Name of a Route
+ * **+Sem/Rule** Rule or convention
+ * **+Sem/Semcon** Semantic concept
+ * **+Sem/Sign** Sign (e.g. numbers, punctuation) 
+ * **+Sem/Sport** Sport
+ * **+Sem/State** 
+ * **+Sem/State-sick** Illness
+ * **+Sem/Substnc** Substance, like Air and Water
+ * **+Sem/Sur** Surname
+ * **+Sem/Symbol** Symbol
+ * **+Sem/Time** Time
+ * **+Sem/Tool** Prototypical tool for repairing things
+ * **+Sem/Tool-catch** Tool used for catching (e.g. fish)
+ * **+Sem/Tool-clean** Tool used for cleaning
+ * **+Sem/Tool-it** Tool used in IT
+ * **+Sem/Tool-measr** Tool used for measuring
+ * **+Sem/Tool-music** Music instrument
+ * **+Sem/Tool-write** Writing tool
+ * **+Sem/Txt** Text (girji, lávlla...)
+ * **+Sem/Veh** Vehicle
+ * **+Sem/Wpn** Weapon
+ * **+Sem/Wthr** The Weather or the state of ground
+
+
+
+
+
+Semantics are classified with
+ * **+Sem/Kin** Kin term
+
+
+
+Derivations are classified under the morphophonetic form of the suffix, the
+source and target part-of-speech.
+
+
+## Der begin
+ *  **+Der**  In front of every derivation to make it
+possible to target derivations as a class e.g. in regular expressions etc
+ *  **+Der/Poss**  possessive noun ава » аванне
+ *  **+Der/Ord**  
+ *  **+Der/Iter**  весть, кафксть, колмоксть...
+ *  **+Der/Wife**  Added to male names, surnames, patronymics
+
+## DECLARING DEVERBAL DERIVATIONS OF VERBS
+ * +Der/kshnO  verb2verb derivation
+ * +Der/OkshnOms  verb2verb derivation
+ * +Der/OvOms  verb2verb derivation
+ * +Der/OvkshnOms  verb2verb derivation
+ * +Der/OvtOms  verb2verb derivation
+
+  +Der/Dimin	 diminutive markers in ня and кя seem to be subject of complementary distribution
+ * +Der/NJ Онь
+ * +Der/Bachk * бачк
+
+Morphophonology
+To represent phonologic variations in word forms we use the following
+symbols in the lexicon files:
+  %{ИЫЙ%}	 phasing out Ы2, eg кундамс:кундай
+  %{ЕОØ%}	 morphemes requiring a preceding vowel; also пинге
+  %{ЕО%} 	 сельме
+  %{ЕØ%}	 кече
+  %{АЯ%} 	 А2 in кундамс:кундан
+  %{ВИУ%}         lative
+  %{Х%}		 This usually precedes the plural marker
+  %{КТ%}		 used in imperative and connegative
+  %{ЬØ%}	 after imperative Sg2
+  %{DIM%}	 This will be for diminutive initial consonant
+
+2016-03-12
+ %^А2О		 used with final а in пула 
+
+  А2 	 А2:а А2:я
+  %{вгк%} 	 %{вгк%}:г %{вгк%}:в %{вгк%}:к
+  %{гк%}	 clitic in ``` %{гк%} %{АЕ%} ```
+  К1 	 К1:к К1:т
+ %{АЕØ%}	  ConNeg with ашень, тят, афоль
+ %{АО%}	  пула stem
+ %{АОØ%}	  офта stem
+ %{АЕ%}	 prolative
+  Х1 	 Х1:х Х1:0
+  Ь2 	 Ь2:ь Ь2:0
+ %{ъØ%}         This will represent schwa in first syllable
+
+in ped realized as hard sign
+
+And following triggers to control variation
+ * %^RmVow 	 for removing vowels
+ %^Ь2ZERO	 removes soft sign before vowel or other combination
+ %^Ъ2PED		 brings out hard sign, which is otherwise automatically removed
+ %^Е2О		 Change stem-final vowel сембе:сембось
+ %^Е2А		 Change stem-final vowel мельге:мельганза
+ %^Я2А		 Change stem-final vowel рьвя:рьванц
+ %^А2Е		 Change stem-final vowel мокша:мокшесь
+ %^Е2Я		 Change word-final vowel for dialect тувотне > тувотня
+ %^Devoice	 for devoicing изь:исть
+ %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
+
+## Flag diacritics
+We have manually optimised the structure of our lexicon using following
+flag diacritics to restrict morhpological combinatorics - only allow compounds
+with verbs if the verb is further derived into a noun again:
+ |  @P.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+ |  @D.NeedNoun.ON@ | (Dis)allow compounds with verbs unless nominalised
+ |  @C.NeedNoun@ | (Dis)allow compounds with verbs unless nominalised
+
+For languages that allow compounding, the following flag diacritics are needed
+to control position-based compounding restrictions for nominals. Their use is
+handled automatically if combined with +CmpN/xxx tags. If not used, they will
+do no harm.
+ |  @P.CmpFrst.FALSE@ | Require that words tagged as such only appear first
+ |  @D.CmpPref.TRUE@ | Block such words from entering ENDLEX
+ |  @P.CmpPref.FALSE@ | Block these words from making further compounds
+ |  @D.CmpLast.TRUE@ | Block such words from entering R
+ |  @D.CmpNone.TRUE@ | Combines with the next tag to prohibit compounding
+ |  @U.CmpNone.FALSE@ | Combines with the prev tag to prohibit compounding
+ |  @P.CmpOnly.TRUE@ | Sets a flag to indicate that the word has passed R
+ |  @D.CmpOnly.FALSE@ | Disallow words coming directly from root.
+
+Use the following flag diacritics to control downcasing of derived proper
+nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
+these flags. There exists a ready-made regex that will do the actual down-casing
+given the proper use of these flags.
+ |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
+ |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+
+
+
+
+
+
+ @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
+
+
+
+
+
+
+
+
+
+
+
+# FLAGS USED WITH MODIFIERS WITHOUT NOUNS
+
+# FLAGS USED WITH COLLECTIVE NOUNS
+## number
+ * @U.DECL-NX.SG@
+ * @U.DECL-NX.SP@
+ * @U.DECL-NX.PL@
+ * @R.DECL-NX.SG@
+ * @R.DECL-NX.SP@
+ * @R.DECL-NX.PL@
+
+ * @U.CX.ABE@ 
+ * @U.CX.ABL@ 
+ * @U.CX.CAU@ 
+ * @U.CX.CMP@ 
+ * @U.CX.COM@ 
+ * @U.CX.DAT@ 
+ * @U.CX.ELA@ 
+ * @U.CX.GEN@ 
+ * @U.CX.ILL@ 
+ * @U.CX.INE@ 
+ * @U.CX.LAT@ 
+ * @U.CX.LOC@ 
+ * @U.CX.NOM@ 
+ * @U.CX.PRL@ 
+ * @U.CX.TRA@ 
+ * @U.CX.PRL@ 
+ * @U.CX.TEMP@ 
+
+ * @U.DECL-DX.DEF@ 
+ * @U.DECL-DX.INDEF@ 
+ * @U.DECL-DX.PXSG1@ 
+ * @U.DECL-DX.PXSG2@ 
+ * @U.DECL-DX.PXSG3@ 
+ * @U.DECL-DX.PXPL1@ 
+ * @U.DECL-DX.PXPL2@ 
+ * @U.DECL-DX.PXPL3@ 
+
+
+
+The word forms in Moksha language start from the lexeme roots of basic
+word classes, or optionally from prefixes:
+These have been slightly modified from kpv and myv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3446,60 +3499,7 @@ ADD NOUNS BELOW
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор PROP_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD PROPER NOUNS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MOKSHA PROPER NAMES
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL ;
-
-
-ADD NOUNS BELOW
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns-russian-homographs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD NOUNS BELOW
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL "(eng) /(fin) /(rus) " ;
-
-
-ADD VERBS BELOW
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small>
 
 
 We describe here how abbreviations are in Moksha are read out, e.g.
