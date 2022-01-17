@@ -62,27 +62,27 @@ Russian type Surnames
 
 
 PLACE NAMES FROM TEMPLATES 
- * **LEXICON PROP-PLC_KAL** ending in other consonant
+* **LEXICON PROP-PLC_KALconsonant** ending in other consonant
 
- * **LEXICON PROP-PLC_KIT** ending in t
+* **LEXICON PROP-PLC_KITt** ending in t
 
 
- * **LEXICON PROP-PLC_KUDO** ending in vowel
+* **LEXICON PROP-PLC_KUDOvowel** ending in vowel
 
 
 
 PROPER NOUNS 
- * **LEXICON PROP-PLC_AVA** ending in vowel
- * **LEXICON PROP-PLC_VAJ** ending in vowel
+* **LEXICON PROP-PLC_AVAvowel** ending in vowel
+* **LEXICON PROP-PLC_VAJvowel** ending in vowel
 
 
- * **LEXICON PROP_AVA** ending in vowel
+* **LEXICON PROP_AVAvowel** ending in vowel
 
- * **LEXICON PROP_VAJ** ending in vowel
+* **LEXICON PROP_VAJvowel** ending in vowel
 
- * **LEXICON PROP_KELU** ending in u
+* **LEXICON PROP_KELUu** ending in u
 
- * **LEXICON PROP_ANDY** ending in i
+* **LEXICON PROP_ANDYi** ending in i
 
 
 

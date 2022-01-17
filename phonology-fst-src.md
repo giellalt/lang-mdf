@@ -93,7 +93,7 @@ otherwise automatically removed %{ъØ%}
 
 
 
- ## The Sets
+## The Sets@CODE@
 
 ```
  Vows = а о у ы э я ё ю и е ;                                            
@@ -120,7 +120,7 @@ otherwise automatically removed %{ъØ%}
  Letters = Vows Cns ь ъ ;                                                
 ```
 
- ## The Definitions
+## The Definitions@CODE@
 
 
 
@@ -136,7 +136,7 @@ otherwise automatically removed %{ъØ%}
 
 
 
- ## The Rules
+## The Rules@CODE@
 
 
 **verbStemVowStrong:0**  
@@ -293,7 +293,7 @@ otherwise automatically removed %{ъØ%}
 **е:я**
 
 
-≈ * Rules final е lowered to я
+≈ * Rules@CODE@ final е lowered to я
 * *тув%{АО%}%>%{Х%}тне%^Е2Я*
 * *туво%>0тня0*
 

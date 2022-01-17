@@ -25,8 +25,8 @@ PRONOUNS
 
 
 
- * **LEXICON PERS** 
- * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
+* **LEXICON PERS** 
+* **мон+Pron+Pers+Sg1:мон PERS-SG1 ;...** ...
 
 
 
