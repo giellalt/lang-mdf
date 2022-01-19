@@ -32,17 +32,17 @@ NUMBERS
 
 
 
-* **LEXICON ARABICCASE+Arab**  adds +Arab
+* **LEXICON ARABICCASE**  adds +Arab
 
-* **LEXICON ARABICCASE0+Arab**  adds +Arab
-
-
+* **LEXICON ARABICCASE0**  adds +Arab
 
 
 
 
 
-* **LEXICON ARABICCOMPOUNDS1-osainen**  ! 1-osainen
+
+
+* **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
 
 
 

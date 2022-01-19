@@ -3,65 +3,65 @@
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
 ```
- а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я 
- А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
+а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
 ```
 
 This will represent schwa in first syllable
 
 2016-03-12
- %^А2О:0		 used with final а in пула 
+%^А2О:0		 used with final а in пула 
 
 
 
-  %{ЬØ%}:0	 after imperative Sg2
-  %{ЬØ%}:ь	 after imperative Sg2
-  %{ВИУ%}:в        lative
+ %{ЬØ%}:0	 after imperative Sg2
+ %{ЬØ%}:ь	 after imperative Sg2
+ %{ВИУ%}:в        lative
 
 
 
-  %{АЯ%}:я  А2 in панемс:панян
-  %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
-  %{ИЫЙ%}:ы	 phasing out Ы2, eg кандомс:канды
-  %{ИЫЙ%}:и	 phasing out Ы2, eg панемс:пани
+ %{АЯ%}:я  А2 in панемс:панян
+ %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
+ %{ИЫЙ%}:ы	 phasing out Ы2, eg кандомс:канды
+ %{ИЫЙ%}:и	 phasing out Ы2, eg панемс:пани
 
-  %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
-  %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
-  %{ЕОØ%}:0	 morpheme onset linking vowel from %^О1 also пинге
-
-
-
-
- %{АЕØ%}:а	  ConNeg with ашень, тят, афоль
-
- %{АО%}:а	  пула stem
- %{АО%}:о	  пула stem
- %{АОØ%}:а	  офта stem
- %{АОØ%}:о	  офта stem
- %{АОØ%}:0	  офта stem
-
-  %{ЕО%}:е	 сельме
-  %{ЕО%}:о	 
-
-  %{ЕØ%}:е	 кече
-  %{ЕØ%}:0	 
-
- %{АЕ%}:а	 prolative
-
-  %{Х%}:0	 This usually precedes the plural marker
-
- %{DIM%}:н		 This will be for diminutive initial consonant
+ %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
+ %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
+ %{ЕОØ%}:0	 morpheme onset linking vowel from %^О1 also пинге
 
 
 
 
+%{АЕØ%}:а	  ConNeg with ашень, тят, афоль
+
+%{АО%}:а	  пула stem
+%{АО%}:о	  пула stem
+%{АОØ%}:а	  офта stem
+%{АОØ%}:о	  офта stem
+%{АОØ%}:0	  офта stem
+
+ %{ЕО%}:е	 сельме
+ %{ЕО%}:о	 
+
+ %{ЕØ%}:е	 кече
+ %{ЕØ%}:0	 
+
+%{АЕ%}:а	 prolative
+
+ %{Х%}:0	 This usually precedes the plural marker
+
+%{DIM%}:н		 This will be for diminutive initial consonant
 
 
 
 
 
 
- %{КТ%}:т	 used in imperative and connegative
+
+
+
+
+%{КТ%}:т	 used in imperative and connegative
 * *пань%>%{Х%}%{КТ%}%{ЬØ%}*
 * *пат0%>0тье0*
 
@@ -71,56 +71,56 @@ This will represent schwa in first syllable
 in ped realized as hard sign
 
 ## TRIGGERS
- * %^RmVow:0  for removing vowels 
- %^Ь2ZERO:0	 removes soft sign before vowel or other combination
- %^Ъ2PED:0	 brings out hard sign, which is
+* %^RmVow:0  for removing vowels 
+%^Ь2ZERO:0	 removes soft sign before vowel or other combination
+%^Ъ2PED:0	 brings out hard sign, which is
 otherwise automatically removed %{ъØ%} 
- %^Е2О:0		 Change stem-final vowel сембе:сембось
- %^Е2А:0		 Change stem-final vowel мельге:мельганза
- %^Я2А:0		 Change stem-final vowel рьвя:рьванц
- %^А2Е:0		 Change stem-final vowel мокша:мокшесь
- %^Е2Я:0		 Change word-final vowel for dialect тувотне > тувотня
+%^Е2О:0		 Change stem-final vowel сембе:сембось
+%^Е2А:0		 Change stem-final vowel мельге:мельганза
+%^Я2А:0		 Change stem-final vowel рьвя:рьванц
+%^А2Е:0		 Change stem-final vowel мокша:мокшесь
+%^Е2Я:0		 Change word-final vowel for dialect тувотне > тувотня
 
- %^Devoice:0	 for devoicing изь:исть
- %^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
-
-
-
- * ` %- ` – Hyphen with constructions like "-bdi"
- * ` %> ` – conjugation/declension morpheme boundary suffix
- * ` »  ` – derivation morpheme boundary suffix
- * ` #  ` – word boundary 
+%^Devoice:0	 for devoicing изь:исть
+%^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
 
 
 
-## The Sets@CODE@
+* ` %- ` – Hyphen with constructions like "-bdi"
+* ` %> ` – conjugation/declension morpheme boundary suffix
+* ` »  ` – derivation morpheme boundary suffix
+* ` #  ` – word boundary 
+
+
+
+## The Sets
 
 ```
- Vows = а о у ы э я ё ю и е ;                                            
- verbStemVows = а о э я ё е ;                                            
- verbStemVowStrong = а о э я ё е ;                                       
- noGlideVow = а о у ы э ;                                                
- glideVow = я ё ю и е ;                                                  
- BTV = а о у я ё ю ;                                 ! Back Trigger Vowels
- FTV = ы и е э ;                                    ! Front Trigger Vowels
+Vows = а о у ы э я ё ю и е ;                                            
+verbStemVows = а о э я ё е ;                                            
+verbStemVowStrong = а о э я ё е ;                                       
+noGlideVow = а о у ы э ;                                                
+glideVow = я ё ю и е ;                                                  
+BTV = а о у я ё ю ;                                 ! Back Trigger Vowels
+FTV = ы и е э ;                                    ! Front Trigger Vowels
 
- Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       
- CnsAndSoft = б в г д ж з й к л м н п р с т ф х ц ч ш щ ь ;                       
- NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants 
- CnsVoiced = б в г д ж з й л м н р ;                                     
- CnsVoicedDent = д з л н р ;                                             
- CnsVoicedNonDent = б в г ж й м ;                                        
- CnsVoiceless = к п с т ф х ц ч ш щ ;                                    
- CnsVoicelessDent = с т ц ;                                              
- CnsVoicelessNonDent = к п ф х ч ш щ ;                                   
- CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  
- CnsDent = д з л н р с т ц  ;                                            
- CnsDentNoL = д з н р с т ц  ;                                           
+Cns = б в г д ж з й к л м н п р с т ф х ц ч ш щ ;                       
+CnsAndSoft = б в г д ж з й к л м н п р с т ф х ц ч ш щ ь ;                       
+NPC = б в г д ж з к л м н п р с т ф х ц ч ш щ ; ! Nonpalatal Consonants 
+CnsVoiced = б в г д ж з й л м н р ;                                     
+CnsVoicedDent = д з л н р ;                                             
+CnsVoicedNonDent = б в г ж й м ;                                        
+CnsVoiceless = к п с т ф х ц ч ш щ ;                                    
+CnsVoicelessDent = с т ц ;                                              
+CnsVoicelessNonDent = к п ф х ч ш щ ;                                   
+CnsNonDent = б в г ж к м п ф х ч ш щ ;                                  
+CnsDent = д з л н р с т ц  ;                                            
+CnsDentNoL = д з н р с т ц  ;                                           
 
- Letters = Vows Cns ь ъ ;                                                
+Letters = Vows Cns ь ъ ;                                                
 ```
 
-## The Definitions@CODE@
+## The Definitions
 
 
 
@@ -136,7 +136,7 @@ otherwise automatically removed %{ъØ%}
 
 
 
-## The Rules@CODE@
+## The Rules
 
 
 **verbStemVowStrong:0**  
@@ -293,7 +293,7 @@ otherwise automatically removed %{ъØ%}
 **е:я**
 
 
-≈ * Rules@CODE@ final е lowered to я
+≈ * Rules final е lowered to я
 * *тув%{АО%}%>%{Х%}тне%^Е2Я*
 * *туво%>0тня0*
 

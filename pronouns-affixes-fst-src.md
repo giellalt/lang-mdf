@@ -26,7 +26,7 @@ PRONOUNS
 
 
 * **LEXICON PERS** 
-* **мон+Pron+Pers+Sg1:мон PERS-SG1 ;...** ...
+* **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
 
 
 
@@ -118,7 +118,7 @@ INDEFINITE PRONOUNS
 
 
 
- * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
+* LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
 
 ### REFLEXIVE PRONOUNS
 ### NON-STRESSED REFLEXIVE DATIVES

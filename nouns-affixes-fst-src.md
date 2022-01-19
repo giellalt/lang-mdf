@@ -28,26 +28,26 @@ NOUNS
 пакся:пакся
 
 
- * LEXICON N_ANDY  анды:анды
+* LEXICON N_ANDY  анды:анды
 
 анды:анды
 
 анды:анды
 
- LEXICON N_OFTA  
+LEXICON N_OFTA  
 
- LEXICON N_OFTA-PL 
+LEXICON N_OFTA-PL 
 
- LEXICON N_PANGA 
+LEXICON N_PANGA 
 
- LEXICON N_PINGE 
+LEXICON N_PINGE 
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
 Floating
 
 Without vowel
 
- LEXICON N_KECHE 
+LEXICON N_KECHE 
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
 Floating
@@ -61,35 +61,35 @@ Without vowel
 тише:тише
 
 
- LEXICON N_PULA  
+LEXICON N_PULA  
 
- LEXICON N_KARIUC1KE 
+LEXICON N_KARIUC1KE 
 
- LEXICON N_SEL1ME 
+LEXICON N_SEL1ME 
 
- LEXICON N_OSH 
-
-
- LEXICON N_SARAZ 
+LEXICON N_OSH 
 
 
- LEXICON N_VAJ 
+LEXICON N_SARAZ 
 
 
-
- LEXICON N_KAL 
+LEXICON N_VAJ 
 
 
 
- LEXICON N_KIAL1 
+LEXICON N_KAL 
 
 
 
- LEXICON N_PINE 
+LEXICON N_KIAL1 
 
 
 
- LEXICON N_KELU 
+LEXICON N_PINE 
+
+
+
+LEXICON N_KELU 
 
 
 
@@ -126,7 +126,7 @@ NMN
 
 
 
- LEXICON NMN_OFTA-PL 
+LEXICON NMN_OFTA-PL 
 
 
 
