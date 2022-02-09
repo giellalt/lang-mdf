@@ -1,397 +1,52 @@
+# Moksha description 
 
-
-
-
-
-
+All documents in one file
 
 
 
 # DELIMITERS 
 
-
-
 # TAGS AND SETS
-
 
 ## Sets containing lists of tags
 
-
-
-
-
-
 Upper and lower case
-
-
 
 * Sets for parts of speech
 
-
-
-
-
-
 * Sets for POS sub-categories
-
-
-
-
-
 
 * Sets for Semantic tags
 
-
-
-
-
-
 * Sets for Morphosyntactic properties
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * Sets for Derivation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 N ABBR not ABBR
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/disambiguator.cg3)</small>
 
+<small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-mdf/blob/main/src/cg3/disambiguator.cg3)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
 * Sets for POS sub-categories
 
-
-
-
-
 * Sets for Semantic tags
-
-
-
-
 
 * Sets for Morphosyntactic properties
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * Sets for verbs
-
 
 - V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
-
-
 * The set COPULAS is for predicative constructions
 
-
-
-
-
-
-
 * NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
 
 * The PRE-NP-HEAD family of sets
 
@@ -399,90 +54,30 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
 The set **NOT-NPMOD** is used to find barriers between NPs.
 Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
 meaning: Scan to the first noun, ignoring anything that can be
 part of the noun phrase of that noun (i.e., "scan to the next NP head")
 
-
-
-
-
-
 * Miscellaneous sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * Border sets and their complements
 
-
-
-
-
-
-
-
-
-
-
-
-
 * Syntactic sets
-
-
-
 
 These were the set types.
 
-
-
 ## HABITIVE MAPPING
 
-
 * **hab1** 
-
 
 * **hab2** 
 
 * **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
 
-
-
 * **habNomLeft** 
 
-
 * **hab4** 	
-
-
 
 * **hab6** 
 
@@ -491,90 +86,11 @@ These were the set types.
 * **hab8** This is not HAB
 * **hab5**  This is not HAB
 
-
-
 * **habDain** (<hab> @ADVL>) for (Pron Dem Pl Loc) if leat followed by Nom to the right
-
-
-
 
 * **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **spred<obj** (@SPRED<OBJ) for Acc; the object of an SPRPED. Not to be mistaken with OPRED. If SPRED is to the left, and copulas is to the left of it. Nom or Hab are found sentence initially.
-
 
 * **Hab<spred** (@<SPRED) for Nom; if copulas, goallut or jápmit is FMAINV and habitive or human Loc is found to the left. OR: if Ill or @Pron< followed by HAB are found to the left.
 
@@ -586,14 +102,11 @@ These were the set types.
 
 * **<spred** (<ext> @<SUBJ) for Nom, but not for Pers. To the left boahtit or heaŋgát as MAINV, and futher to the left is some kind of place related word, or time related word
 
-
 * **<spredQst1** (<ext> @<SUBJ) for Nom in a typically question sentence; if A) Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. B) same as a, only the Qst-pcle is attached to copulas. C) Qst to the left, with copulas to its left, but not if two Nom:s are found somewhere to the right. D) copulas to the left, and BOS to the left. E) Loc or Ill to the left, and Loc or Hab to the left of this, Qst and copulas to the left. F) Num @>N to the left, Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. NOTE) for all these rules; human, Loc or Sem/Plc not allowed to the right.
 
 * **<spredQst2** (@<SPRED) for Nom; in a typically question sentence; differs from <spredQst1 by not beeing as restricted to the right. Though you are not allowed to be Pers or human.
 
 * **Nom<spredQst** (@<SPRED) for Nom; in a typically question sentence. Differs from <spredQst2 by letting Nom be found between SPRED and copulas
-
-
 
 * **<spred** (@<SPRED) for A Nom or N Nom if; the subject Nom is on the same side of copulas as you: on the right side of copulas
 
@@ -602,7 +115,6 @@ These were the set types.
 * **leftCop<spred** (@<SPRED) for Nom; if copulas is the main verb to the left, and there is no Ess found to the left of cop (note that Loc is allowed between target and cop). OR: if you are Coll or Sem/Group with copulas to your left. 
 
 * **<spredLocEXPERIMENT** (@<SPRED) for material Loc; if you are to the right of copulas, and the Nom to the left of copulas is not a hab-actor
-
 
 * **NumTime** (@<SPRED) for A Nom
 
@@ -624,22 +136,13 @@ These were the set types.
 
 * **r492>** (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
 
-
-
 * **AdjSpredSg>** (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
 
 * **SpredSg>Hab** (@SPRED>) for Nom; if you are sentence initial, copulas is located to the right, and there is a habitive to the right of copulas
 
-
-
 * **Spred>SubjInf** (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
 
 * **spredCoord** (@<SPRED) coordination for Nom; only if there already is a SPRED to the left of CNP. Not if there is some kind of comparison involved.
-
-
-
-
-
 
 * **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
 
@@ -648,137 +151,59 @@ These were the set types.
 
 * **subj>Pl** (@SUBJ>) for plural nominatives
 
-
 * **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
 
 * **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **f<advl** (@-F<ADVL) for infinite adverbials
 
 * **f<advl** (@-F<ADVL) for infinite adverbials
-
-
 
 * **s-boundary=advl>** (@ADVL>) for ADVL that resemble s-booundaries. Mainverb to the right.
-
-
-
 
 * **-fobj>** (@-FOBJ>) for Acc 
 
 * **-fobj>** (@-FOBJ>) for Acc
 
-
-
-
 * **advl>mainV** (@ADVL>) if; finite mainverb not found to the left, but the finite mainverb is found to the right.
 
-
 * **<advl** (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
-
-
-
 
 * **<advlPoPr** (@<ADVL) if mainverb to the left.
 * **advlPoPr>** (@<ADVL) if mainverb to the right.
 
-
-
 * **advlEss>** (@<ADVL) for weather and time Ess, if FMAINV to the left.
-
-
-
-
-
 
 * **advl>inbetween** (@ADVL>) for Adv; if inbetween two sentenceboundaries where no mainverb is present.
 
 * **comma<advlEOS** (@<ADVL) if; comma found to the left and the finite mainverb to the left of comma. To the right is the end of the sentence.
 
-
-
 * **advlBOS>** (@ADVL>) if; you are N Ill and found sentnece initially. First one to your right is a clause.
-
 
 * **<advlPoEOS** (@<ADVL) for Po; if you are found at the very end of a sentence. A mainverb is needed to the right though.
 
-
-
 * **cleanupILL<advl** (@<ADVL) for N Ill if; there are no boundarysymbols to your left, if you arent already @N< OR @APP-N<, and no mainverb is to yor left.
-
-
-
-
-
-
-
-
-
-
 
 * **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
 
-
 ### sma object
-
-
-
-
-
-
-
-
 
 * **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
 * **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
-
-
-
-
 
 ## SUBJ MAPPING - leftovers
 
 ## OBJ MAPPING - leftovers
 
-
 ## HNOUN MAPPING
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-mdf/blob/main/../src/cg3/functions.cg3)</small># The Moksha morphophonological/twolc rules file 
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mdf/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# The Moksha morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
@@ -792,13 +217,9 @@ This will represent schwa in first syllable
 2016-03-12
 %^А2О:0		 used with final а in пула 
 
-
-
  %{ЬØ%}:0	 after imperative Sg2
  %{ЬØ%}:ь	 after imperative Sg2
  %{ВИУ%}:в        lative
-
-
 
  %{АЯ%}:я  А2 in панемс:панян
  %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
@@ -808,9 +229,6 @@ This will represent schwa in first syllable
  %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
  %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
  %{ЕОØ%}:0	 morpheme onset linking vowel from %^О1 also пинге
-
-
-
 
 %{АЕØ%}:а	  ConNeg with ашень, тят, афоль
 
@@ -832,21 +250,9 @@ This will represent schwa in first syllable
 
 %{DIM%}:н		 This will be for diminutive initial consonant
 
-
-
-
-
-
-
-
-
-
 %{КТ%}:т	 used in imperative and connegative
 * *пань%>%{Х%}%{КТ%}%{ЬØ%}*
 * *пат0%>0тье0*
-
-
-
 
 in ped realized as hard sign
 
@@ -864,14 +270,10 @@ otherwise automatically removed %{ъØ%}
 %^Devoice:0	 for devoicing изь:исть
 %^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
 
-
-
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix
 * ` »  ` – derivation morpheme boundary suffix
 * ` #  ` – word boundary 
-
-
 
 ## The Sets
 
@@ -902,22 +304,7 @@ Letters = Vows Cns ь ъ ;
 
 ## The Definitions
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## The Rules
-
 
 **verbStemVowStrong:0**  
 * *цёра%>%{АЯ%}н*
@@ -935,7 +322,6 @@ Letters = Vows Cns ь ъ ;
 
 **A1:o**  
 
-
 **%{ИЫЙ%}:j**  
 * *стя%>%{ИЫЙ%}%>сь*
 * *стя%>й%>сь*
@@ -946,7 +332,6 @@ Letters = Vows Cns ь ъ ;
 **%{ИЫЙ%}:ы**
 
 **%{ИЫЙ%}:и**
-
 
 **%{ИЫЙ%}:0**  
 араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
@@ -997,10 +382,7 @@ Letters = Vows Cns ь ъ ;
 * ★*вай%>%{ЕОØ%}нь* (is not standard language)
 * ★*ва0%>0нь* (is not standard language)
 
-
-
 **%{АОØ%}:о**
-
 
 **%{АОØ%}:а**
 * *панг%{АОØ%}#*
@@ -1016,7 +398,6 @@ Letters = Vows Cns ь ъ ;
 * *кодам%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
 * *кодап00%>0т0*
 
-
 **%{АО%}:о**
 пула+N+Sg+Nom+Def: **tail**
 * *пул%{АО%}%>сь*
@@ -1026,7 +407,6 @@ Letters = Vows Cns ь ъ ;
 * *пул%{АО%}%>%{Х%}т%{ЬØ%}*
 * *пуло%>0т0*
 
-
 **%{АО%}:а**
 * *пул%{АО%}#*
 * *пула#*
@@ -1035,7 +415,6 @@ Letters = Vows Cns ь ъ ;
 пря+N+SP+Ine+Der/Cop+Prs+ScSg1 **top, head/pää**
 * *пря%>с%{АО%}%>%{АЯ%}н*
 * *пря%>с0%>ан*
-
 
 **%{ЕО%}:е**
 * *сельм%{ЕО%}#*
@@ -1058,7 +437,6 @@ Letters = Vows Cns ь ъ ;
 * *тяшть%{ЕØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
 * *тяшт000%>0ть*
 
-
 **0:j**  
 
 **е:0**
@@ -1072,20 +450,17 @@ Letters = Vows Cns ь ъ ;
 
 **е:я**
 
-
 ≈ * Rules final е lowered to я
 * *тув%{АО%}%>%{Х%}тне%^Е2Я*
 * *туво%>0тня0*
 
 **%{АЕ%}:я**
 
-
 **%{ЕОØ%}:я**
 
 **%{ЕО%}:я**
 
 **%{ЕØ%}:я**
-
 
 **а:е**
 
@@ -1102,7 +477,6 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{Х%}т%{ЬØ%}*
 * *вальма0%>0т0*
 
-
 **%{АЕØ%}:а Always**  
 
 **%{АЕØ%}:а Sometimes**  
@@ -1117,7 +491,6 @@ Letters = Vows Cns ь ъ ;
 
 **%{АЕØ%}:0 Sometimes**  
 
-
 **%{АЕ%}:a**  
 вал+Hom1+N+Sg+Nom+Indef+Clt/Add: **word/sana**
 * *вал%>%{гк%}%{АЕ%}#*
@@ -1130,9 +503,6 @@ Letters = Vows Cns ь ъ ;
 вальмя+N+SP+Prl+Indef: **window/ikkuna**
 * *вальмя%^Я2А%>%{вгк%}%{АЕ%}*
 * *вальма0%>ва*
-
-
-
 
 **%{АЕ%}:е**  
 менель+N+SP+Prl+Indef **sky/taivas**
@@ -1162,15 +532,12 @@ Letters = Vows Cns ь ъ ;
 * *сим%>%{Х%}т%{АЯ%}ма*
 * *сип%>0тяма*
 
-
 **%{АЯ%}:a**  
 
 * *канд>%{АЯ%}н*
 * *канд0ан*
 * *аще%>%{АЯ%}н*
 * *ащ0%>ан*
-
-
 
 **j:0 LEFT**  
 * *тий%>%{ЕОØ%}за*
@@ -1198,12 +565,9 @@ Letters = Vows Cns ь ъ ;
 
 **j:0 RIGHT**
 
-
 **ye:e always**  
 
-
 **ye:e sometimes**  
-
 
 **a:ya**  
 
@@ -1272,7 +636,6 @@ Letters = Vows Cns ь ъ ;
 * *пильг%{ЕОØ%}%^RmVow%>д%{АО%}*
 * *пильг00%>та*
 
-
 **З:С**
 изь+V+Aux+Neg+Ind+Prt1+ScPl3:	**they did not**
 * *изь%^Devoice%^Ь2ZERO%>ть*
@@ -1286,18 +649,13 @@ Letters = Vows Cns ь ъ ;
 * *панж%>сь*
 * *панч%>сь*
 
-
 **г:к**
 * *мярьг%>%{Х%}т%{АЯ%}ма*
 * *мярьк%>0тяма*
 
-
-
 **с:ц ломань:ломанць**  
 
-
 **G1:0**  
-
 
 **G1:g**  
 вал+Hom1+N+Sg+Nom+Indef+Foc **word/sana**
@@ -1328,7 +686,6 @@ Letters = Vows Cns ь ъ ;
 * *пирьф%>%{ВИУ%}*
 * *пирьф%>и*
 
-
 **%{ВИУ%}:u**
 уша+N+SP+Lat+Indef: **outdoors**
 * *уш%{АЕØ%}%>%{ВИУ%}*
@@ -1342,20 +699,13 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{вгк%}%{АЕ%}*
 * *вальма0%>ва*
 
-
 **G2:k**  
-
-
-
 
 **G4:0**  
 
 **G4:k**  
 
-
 **m:0**  
-
-
 
 ### imperative suffix
 **К1 %{КТ%}:t left**  
@@ -1405,7 +755,6 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{Х%}т%{ЬØ%}*
 * *вальма0%>0т0*
 
-
 Plural before definite plural following a consonant
 **t:0**  
 Ананьина К.И. 2000: 55
@@ -1419,15 +768,10 @@ Plural before definite plural following a consonant
 * ★*лав%>%{Х%}тне* (is not standard language)
 * ★*лаф%>0тне* (is not standard language)
 
-
 **s:0**  
 
 * *класс%>SLossс*
 * *клас000с*
-
-
-
-
 
 **y:0**  
 plural
@@ -1474,8 +818,6 @@ plural
 * *пикс>%{DIM%}я*
 * *пикс0кя*
 
-
-
 **%{ъØ%}:ъ**
 
 ## Disallow
@@ -1485,9 +827,6 @@ plural
 **Disallow KLoss after non-k**  
 
 **Disallow SLoss after non-s**  
-
-
-
 
 **Disallow овок**
 
@@ -1504,19 +843,26 @@ plural
 **Disallow onset vowel after voiced cons**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/phonology.twolc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 автор:автор N_KAL ;
 
-
 ADD NOUNS BELOW
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns-russian-homographs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns-russian-homographs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 од:од A_KAL "(eng) /(fin)/(rus) " ;
-
 
 ADD ADJECTIVES BELOW
 
@@ -1524,179 +870,123 @@ Adding more 2016-05-22
 
 Adding more 2020-03-08
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives-russian-like_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives-russian-like_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives-russian-like_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/adjectives-russian-like_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
 
-
 ADD NOUNS BELOW
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small>Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+
+<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+
+---
+
+Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
 created from lexical data by regular inflection. Usually there should be next
 to none exceptions, it's always better to have a paradigm that covers only
 one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
 
-
 MISSING ADV
-
-
-
-
-
-
-
 
 MISSING CS
 
 MISSING Pcle
 
-
-
 IRREGULAR diminutives
 
 MISSING V
 
-
-
-
 VOCATIVES
 
-
-
-
-
 TOPONYMY
-
 
 PROPER NAMES
 
 Wife NAMES
-
-
-
 
 QUESTIONABLE FORMS
 
 FOREIGN WORDS
 A
 
-
 PCLE
 
-
 NOUNS
-
 
 PROP
 
 MISSING VALENCY
 
-
-
-
-
 more words for Mormula
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 автор:автор PROP_KAL "(eng) /(fin) /(rus) " ;
 
-
 ADD PROPER NOUNS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 MOKSHA PROPER NAMES
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 автор:автор N_KAL "(eng) /(fin) /(rus) " ;
-
 
 ADD VERBS BELOW
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/verbs_newwords.lexc)</small>This is where new words are added as lexc entries before they are 
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
+
+---
+
+This is where new words are added as lexc entries before they are 
 added to the xml source files.
 автор:автор N_KAL "(eng) /(fin) /(rus) " ;
 
-
 ADD NOUNS BELOW
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Noun inflection
 
+<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+
+---
+
+# Noun inflection
 
 Moksha language nouns inflect in cases.
 
 NOUNS 
 
-
-
-
-
-
 ава:ава
 
-
-
-
 вальмя:вальмя
 
 вальмя:вальмя
 
-
-
-
-
 пакся:пакся
 
 пакся:пакся
-
 
 * LEXICON N_ANDY  анды:анды
 
@@ -1724,12 +1014,9 @@ Floating
 
 Without vowel
 
-
-
 тише:тише
 
 тише:тише
-
 
 LEXICON N_PULA  
 
@@ -1739,116 +1026,46 @@ LEXICON N_SEL1ME
 
 LEXICON N_OSH 
 
-
 LEXICON N_SARAZ 
-
 
 LEXICON N_VAJ 
 
-
-
 LEXICON N_KAL 
-
-
 
 LEXICON N_KIAL1 
 
-
-
 LEXICON N_PINE 
-
-
 
 LEXICON N_KELU 
 
-
-
-
-
-
 NMN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 LEXICON NMN_OFTA-PL 
 
-
-
 Indefinite
 Definite Sg
 Possessor Indices
-
-
-Indefinite
-Definite Pl
-
-
-Possessor Indices
-
-
-
-
-Indefinite
-Definite Sg
-Definite Sg
-Possessor Indices
-
 
 Indefinite
 Definite Pl
 
 Possessor Indices
 
-
-
 Indefinite
 Definite Sg
-
-
+Definite Sg
+Possessor Indices
 
 Indefinite
 Definite Pl
-
-
-
-Indefinite
-Definite Sg
-
-
-Indefinite
-Definite Pl
-
-
 
 Possessor Indices
 
+Indefinite
+Definite Sg
 
+Indefinite
+Definite Pl
 
 Indefinite
 Definite Sg
@@ -1856,7 +1073,7 @@ Definite Sg
 Indefinite
 Definite Pl
 
-
+Possessor Indices
 
 Indefinite
 Definite Sg
@@ -1864,6 +1081,11 @@ Definite Sg
 Indefinite
 Definite Pl
 
+Indefinite
+Definite Sg
+
+Indefinite
+Definite Pl
 
 SG-NOM-INDEF ;
 SG-DAT/GEN/NOM-DEF ;
@@ -1871,8 +1093,6 @@ PXSG1-Sg ;
 
 Indefinite
 Definite Pl
-
-
 
 SG-NOM-INDEF ;
 SG-DAT/GEN/NOM-DEF ;
@@ -1883,184 +1103,72 @@ PL-DAT/GEN/NOM-DEF ;
 
 MUTUAL NOMINAL
 
-
-
-
-
-
-
-
-
-
-
-
 Definite Sg
 Possessor Indices
 
 Definite Pl
 Possessor Indices
 
-
 Possessor Indices
 
-
 PXSG1-Pl ;
-
-
-
-
-
-
-
-
-
-
-
-
 
 * *кядь%^PXSG1%>не*
 * *кяд00%>не*
 * *ярмак%^PXSG1%>%{ЕОØ%}не*
 * *ярмак0%>оне*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ананьина К.И. 2000 53
-
-
-
-
-
-
-
-
-
 
 сельме+N+SP+Gen+Indef
 * *сельм%{ЕО%}%>%{ЕОØ%}нь*
 * *сельмо%>0нь*
 
-
-
-
-
-
-
-
 * *киза%^А2О%>%{Х%}т%{ЬØ%}*
 * *кизо0%>0т0*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/nouns.lexc)</small>Pronoun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+Pronoun inflection
 
 Adpostions in the Moksha language might also inflect in the same cases as regular
 nouns, but ...
 
 ADPOSITIONS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Checking 2018-11-10
-
-
 
 Checking 2018-11-10
 
 * LEXICON PO-PRL_MEL1GE  мельге:мельг%{АЕ%}
 
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adpositions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adpositions.lexc)</small>Particles
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adpositions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adpositions.lexc)</small>
+
+---
+
+Particles
 
 The MOKSHA language particles ...
 
 PARTICLES 
 
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/particles.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/particles.lexc)</small>Adverbs
+
+<small>This (part of) documentation was generated from [src/fst/affixes/particles.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/particles.lexc)</small>
+
+---
+
+Adverbs
 
 The MOKSHA language adverbs
 
 ADVERBS 
-
 
 LEXICON ADV-DEG_ 	 пяк
 
@@ -2068,272 +1176,101 @@ LEXICON ADV_
 LEXICON ADV-MOD_ 	 
 LEXICON ADV-MANNER_ 	 
 
-
 мзярксть
-
 
 LEXICON ADV-TEMP_ 	 
 
-
-
-
-
 Contrastive
-
 
 ашель:ашель
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adverbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adverbs.lexc)</small>Quantifier inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adverbs.lexc)</small>
+
+---
+
+Quantifier inflection
 
 Numerals in the MOKSHA language inflect in the same cases as regular
 nouns.
 
 NUMERALS
 
-
-
-
-
-
-
-
-
-
-
 NUMBERS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * **LEXICON ARABICCASE**  adds +Arab
 
 * **LEXICON ARABICCASE0**  adds +Arab
 
-
-
-
-
-
-
 * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numbers.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/numbers.lexc)</small>Interjections
+
+<small>This (part of) documentation was generated from [src/fst/affixes/numbers.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/numbers.lexc)</small>
+
+---
+
+Interjections
 
 The MOKSHA language interjections
 
 INTERJECTIONS 
 
-
-
-
-
-
 LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/interjections.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/interjections.lexc)</small>Pronoun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/interjections.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/interjections.lexc)</small>
+
+---
+
+Pronoun inflection
 
 The Moksha language pronouns inflect in the same cases as regular
 nouns, but ...
 
 PRONOUNS 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * **LEXICON PERS** 
 * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
 
-
-
-
-
 PERSONAL PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### DEMONSTRATIVE PRONOUNS
 
-
-
-
-
 INTERROGATIVE PRONOUNS
 
-
-
-
-
-
-
-
-
-
-
-
 INDEFINITE PRONOUNS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
 
 ### REFLEXIVE PRONOUNS
 ### NON-STRESSED REFLEXIVE DATIVES
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/pronouns.lexc)</small>Conjunctions
+
+<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/pronouns.lexc)</small>
+
+---
+
+Conjunctions
 
 The MOKSHA language conjunctions
 
 CONJUNCTIONS
 
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/conjunctors.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/conjunctors.lexc)</small>Clitics
+
+<small>This (part of) documentation was generated from [src/fst/affixes/conjunctors.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/conjunctors.lexc)</small>
+
+---
+
+Clitics
 
 The MOKSHA language clitics
 
 CLITICS
-
-
 
 This is for vowel final Nominatives
 This is for PxPl1 and PxPl2 
@@ -2342,32 +1279,20 @@ This is for Consonant-final words
 
 This is for Consonant-final words
 
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/clitics.lexc)</small>Proper noun inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/clitics.lexc)</small>
+
+---
+
+Proper noun inflection
 
 The MOKSHA language proper nouns inflect in the same cases as regular
 nouns, but with a colon (':') as separator.
 
-
-
-
-
-
 Male given name for deriving patronyms 
 
-
-
-
-
 Вили:Вил
-
 
 Russian type Surnames 
 Абдеев:Абдеев
@@ -2376,57 +1301,16 @@ Russian type Surnames
 
 Аморский:Аморск
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PLACE NAMES FROM TEMPLATES 
 * **LEXICON PROP-PLC_KAL** ending in other consonant
 
 * **LEXICON PROP-PLC_KIT** ending in t
 
-
 * **LEXICON PROP-PLC_KUDO** ending in vowel
-
-
 
 PROPER NOUNS 
 * **LEXICON PROP-PLC_AVA** ending in vowel
 * **LEXICON PROP-PLC_VAJ** ending in vowel
-
 
 * **LEXICON PROP_AVA** ending in vowel
 
@@ -2436,17 +1320,13 @@ PROPER NOUNS
 
 * **LEXICON PROP_ANDY** ending in i
 
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/propernouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/propernouns.lexc)</small>
+
+---
+
+
 
 Adjective inflection
 
@@ -2454,99 +1334,45 @@ The MOKSHA language adjectives compare.
 
 ADJECTIVES 
 
-
-
-
-
-
-
-
-
-
-
-
 ош:ош
 
 кяль:кяль
 
-
-
-
 келу:келу
 
 келу:келу
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/adjectives.lexc)</small># Verb inflection
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+
+# Verb inflection
 
 The Moksha language verbs inflect in persons.
 
 ## VERBS 
 
-
-
-
-
-
-
-
-
 * LEXICON V-AUX-NEG-CONJ_AFOLJ  аф:афоль
-
 
 тумс:ту
 
 BOTH IV and TV
 
-
-
-
-
-
 OBJECT and SUBJECT VERBS 
-
-
 
 пачкодемс:пачкодь
 
-
-
-
-
-
 SUBJECT ONLY VERBS 
-
-
-
 
 андомс:анд
 
 пачкодемс:пачкодь
 
-
-
 андовомс:андов
 
 няемс:ня
-
-
-
-
-
 
 *MUMS examples:*
 * *мумс:* `мумс+V+TV+Inf`
@@ -2566,9 +1392,6 @@ COND-ALL
 COND-ALL
 +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
-
-
-
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
@@ -2576,8 +1399,6 @@ COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
 +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
-
-
 
 LEXICON V0_NJAJEMS   няемс:ня
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
@@ -2589,26 +1410,10 @@ COND-ALL
 COND-ALL
 +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
-
-
-
-
-
-
-
-
 ### AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ  ашезь:аш
 
 LEXICON V-AUX-NEG-PRT1_IZJ  изь:изь
-
-
-
-
-
-
-
-
 
 FROM MYV
 
@@ -2632,338 +1437,67 @@ COND-ALL
 * *кирт0%>%{Х%}ть*
 ### INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 
-
-
-
 ### INDICATIVE PRETERITE 1 POINTERS
-
-
-
-
 
 ### INDICATIVE PRETERITE 2 POINTERS
 
-
-
 ### CONJUNCTIVE
-
-
-
 
 ### CONDITIONAL and subsequent CONJUNCTIVE
 
-
-
-
-
 ## INDICATIVE TAGS
-
-
-
 
 ### INDICATIVE NONPAST TAGS and CONDITIONAL TAGS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### INDICATIVE PRETERITE 1 TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## INDICATIVE PRETERITE 2 TAGS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## DESIDERATIVE (desiderative tag)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## CONJUNCTIVE TAGS
 redo conj 2012-11-07 begin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## cond-conj
 ## CONDITIONAL-CONJUNCTIVE TAGS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## IMPERATIVE 
-
 
 ## IMPERATIVE		(imperative tags)
 
-
-
-
-
-
-
-
-
-
-
 ## PRECATIVE 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 end of MYV BORROWING
 
 NON-FINITES 
 
-
 GERUNDS 
-
 
 PARTICIPLES 
 
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+
+
 # Symbol affixes
 
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/affixes/symbols.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/symbols.lexc)</small>
+
+---
+
+
 # Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
-
 
 The morphological analyses of wordforms of the Moksha language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 +TYÄ 	 Underdeveloped.
-
-
 
 The parts-of-speech tags are:
 
@@ -3035,7 +1569,6 @@ The Usage extents are marked using following tags:
 Specific to some dialects
 * +Dial/-C * Not central standard
 
-
 The nominals are inflected in the following Case and Number
 * ** +Sg 		**:  singular
 * ** +Pl 		**:  plural
@@ -3057,9 +1590,6 @@ The nominals are inflected in the following Case and Number
 * ** +Prl 		**:  prolative
 * ** +Tra 		**:  translative
 * ** +Voc 		**:  Vocative
-
-
-
 
 The possession is marked as such:
 * ** +PxSg1 	**:  first person singular
@@ -3135,7 +1665,6 @@ Other verb forms are
   +VGen   	 Verb Genitive, genitive form participle
   +VAbl   	 Verb Ablative "озадо"
 
-
  +ABBR 	 Abbreviation
 * +Symbol = independent symbols in the text stream, like £, €, ©
  +ACR  	 Acronym
@@ -3171,9 +1700,6 @@ Question and Focus particles:
 * +Clt/AddGA 
 * +Clt/AddVok 
 * +Clt/AddNgA 
-
-
-
 
 ### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
@@ -3298,18 +1824,11 @@ Question and Focus particles:
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-
-
-
-
 Semantics are classified with
 * **+Sem/Kin** Kin term
 
-
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 ## Der begin
 *  **+Der**  In front of every derivation to make it
@@ -3401,22 +1920,7 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-
-
-
-
-
 @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
-
-
-
-
-
-
-
-
-
-
 
 # FLAGS USED WITH MODIFIERS WITHOUT NOUNS
 
@@ -3456,113 +1960,15 @@ given the proper use of these flags.
 * @U.DECL-DX.PXPL2@ 
 * @U.DECL-DX.PXPL3@ 
 
-
-
 The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 These have been slightly modified from kpv and myv
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small>
 
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/root.lexc)</small>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 
@@ -3724,8 +2130,13 @@ raised							_r
 lowered							_o 
 advanced tongue root				_A 
 retracted tongue root			_q
+
 * * *
-<small>This (part of) documentation was generated from [../src/phonetics/txt2ipa.xfscript](http://github.com/giellalt/lang-mdf/blob/main/../src/phonetics/txt2ipa.xfscript)</small>
+
+<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-mdf/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+
+---
+
 
 
 We describe here how abbreviations are in Moksha are read out, e.g.
@@ -3740,41 +2151,28 @@ For example:
 * esim.:esimerkki # ; 
 * esim.:esimerkiksi # ; 
 
-
 * * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+---
+
+
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
-
-
-
-
-
-
-
-
 
 # DELIMITERS
 
-
 # TAGS AND SETS
 
-
-
 ## Tags
-
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-
-
-
 ### Beginning and end of sentence
 BOS
 EOS
-
-
 
 ### Parts of speech tags
 
@@ -3804,8 +2202,6 @@ PUNCT
 COMMA
 ¶
 
-
-
 ### Tags for POS sub-categories
 
 Pers
@@ -3821,7 +2217,6 @@ Prop
 Allegro
 Arab
 Romertall
-
 
 ### Tags for morphosyntactic properties
 
@@ -3884,11 +2279,7 @@ Sup
 Actio
 VAbess
 
-
-
 Err/Orth
-
-
 
 ### Semantic tags
 
@@ -3921,14 +2312,10 @@ HUMAN
 HAB-ACTOR
 HAB-ACTOR-NOT-HUMAN
 
-
 PROP-ATTR
 PROP-SUR
 
-
-
 TIME-N-SET
-
 
 ###  Syntactic tags
 
@@ -4000,22 +2387,15 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-
-
-
-
 ## Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-
-
 ### Sets for Single-word sets
 
 INITIAL
-
 
 ### Sets for word or not
 
@@ -4023,7 +2403,6 @@ WORD
 REAL-WORD
 REAL-WORD-NOT-ABBR
 NOT-COMMA
-
 
 ### Case sets
 
@@ -4038,7 +2417,6 @@ NOT-ACC
 
 ### Verb sets
 
-
 NOT-V
 
 ### Sets for finiteness and mood
@@ -4048,7 +2426,6 @@ REAL-NEG
 MOOD-V
 
 NOT-PRFPRC
-
 
 ### Sets for person
 
@@ -4062,49 +2439,15 @@ PL1-V
 PL2-V
 PL3-V
 
-
-
-
-
 ### Pronoun sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Adjectival sets and their complements
 
-
-
-
 ### Adverbial sets and their complements
-
-
-
 
 ### Sets of elements with common syntactic behaviour
 
-
 ### NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
-
 
 ### The PRE-NP-HEAD family of sets
 
@@ -4112,86 +2455,34 @@ These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Border sets and their complements
-
-
-
-
-
-
-
-
-
-
 
 ### Grammarchecker sets
 
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-mdf/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-mdf/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# Grammar checker tokenisation for mdf
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
+```
 $ make
 $ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-
-Issues:
-- [X] Ambiguous input
-- Seems to work fine
-- [X] Ambiguous multiword expessions with ambiguous tokenisation
-- Seems to work – represented within lexc now; hfst-tokenise also
-supports forms on the analyses now
-- [X] Ambiguous multiword expessions need reorganising after CG
-- The module cg-mwesplit takes wordforms from readings and turns them into
-new cohorts
-- [X] Unknown words
-- The set-difference method only works for words without
-flag diacritics (even though we should be working only on the form-side?)
-and leads to binary blow-up: With only lower unknowns, we get 45M;
-lower+upper gives 67M, while no unknowns gives 27M
-- Fixed instead by treating empty analyses as unknown-tokens in
-hfst-tokenise, and outputting unmatched strings with a prefix
-- [ ] Treat input that's within superblanks as unmatched
-- probably requires a change in hfst-tokenise itself
-- [X] Try >1 space for ambiguous MWE's? – represented within lexc now
-- [ ] Try set-difference-unknowns method with regular hfst commands?
+```
 
 More usage examples:
+```
 $ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
 $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -4206,9 +2497,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1) unknown word-like forms, and
@@ -4222,14 +2510,11 @@ so far:
 
 TODO: Could use something like this, but built-in's don't include šžđčŋ:
 
-
 Simply give an empty reading when something is unknown:
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -4238,7 +2523,12 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](http://github.com/giellalt/lang-mdf/blob/main/../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small># Tokeniser for mdf
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-mdf/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
+
+---
+
+# Tokeniser for mdf
 
 Usage:
 ```
@@ -4250,12 +2540,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
-
-
-
-
-
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -4270,9 +2555,6 @@ the List contains some unicode white space characters
 * Narrow No-Break Space U+202F
 * Medium Mathematical Space U+205F
 * Word joiner U+2060
-
-
-
 
 Apart from what's in our morphology, there are
 1. unknown word-like forms, and
@@ -4291,16 +2573,12 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-
-
 ## Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
 legal in CG, they get a default baseform equal to the wordform, but
 no tag to check, so it's safer to let hfst-tokenise handle them.
-
-
 
 Finally we mark as a token any sequence making up a:
 * known word in context
@@ -4309,4 +2587,8 @@ Finally we mark as a token any sequence making up a:
 * URL in context
 
 * * *
-<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](http://github.com/giellalt/lang-mdf/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-mdf/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+

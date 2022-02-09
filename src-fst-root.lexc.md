@@ -2,13 +2,10 @@
 # Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
 
-
 The morphological analyses of wordforms of the Moksha language are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 +TYÄ 	 Underdeveloped.
-
-
 
 The parts-of-speech tags are:
 
@@ -80,7 +77,6 @@ The Usage extents are marked using following tags:
 Specific to some dialects
 * +Dial/-C * Not central standard
 
-
 The nominals are inflected in the following Case and Number
 * ** +Sg 		**:  singular
 * ** +Pl 		**:  plural
@@ -102,9 +98,6 @@ The nominals are inflected in the following Case and Number
 * ** +Prl 		**:  prolative
 * ** +Tra 		**:  translative
 * ** +Voc 		**:  Vocative
-
-
-
 
 The possession is marked as such:
 * ** +PxSg1 	**:  first person singular
@@ -180,7 +173,6 @@ Other verb forms are
   +VGen   	 Verb Genitive, genitive form participle
   +VAbl   	 Verb Ablative "озадо"
 
-
  +ABBR 	 Abbreviation
 * +Symbol = independent symbols in the text stream, like £, €, ©
  +ACR  	 Acronym
@@ -216,9 +208,6 @@ Question and Focus particles:
 * +Clt/AddGA 
 * +Clt/AddVok 
 * +Clt/AddNgA 
-
-
-
 
 ### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
@@ -343,18 +332,11 @@ Question and Focus particles:
 * **+Sem/Wpn** Weapon
 * **+Sem/Wthr** The Weather or the state of ground
 
-
-
-
-
 Semantics are classified with
 * **+Sem/Kin** Kin term
 
-
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 ## Der begin
 *  **+Der**  In front of every derivation to make it
@@ -446,22 +428,7 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-
-
-
-
-
 @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
-
-
-
-
-
-
-
-
-
-
 
 # FLAGS USED WITH MODIFIERS WITHOUT NOUNS
 
@@ -501,47 +468,13 @@ given the proper use of these flags.
 * @U.DECL-DX.PXPL2@ 
 * @U.DECL-DX.PXPL3@ 
 
-
-
 The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 These have been slightly modified from kpv and myv
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/root.lexc)</small>
+
+---
+

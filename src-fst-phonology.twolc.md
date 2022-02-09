@@ -12,13 +12,9 @@ This will represent schwa in first syllable
 2016-03-12
 %^А2О:0		 used with final а in пула 
 
-
-
  %{ЬØ%}:0	 after imperative Sg2
  %{ЬØ%}:ь	 after imperative Sg2
  %{ВИУ%}:в        lative
-
-
 
  %{АЯ%}:я  А2 in панемс:панян
  %{ИЫЙ%}:й	 phasing out Ы2, eg кундамс:кундай
@@ -28,9 +24,6 @@ This will represent schwa in first syllable
  %{ЕОØ%}:е	 morpheme onset linking vowel from %^О1
  %{ЕОØ%}:о	 morpheme onset linking vowel from %^О1
  %{ЕОØ%}:0	 morpheme onset linking vowel from %^О1 also пинге
-
-
-
 
 %{АЕØ%}:а	  ConNeg with ашень, тят, афоль
 
@@ -52,21 +45,9 @@ This will represent schwa in first syllable
 
 %{DIM%}:н		 This will be for diminutive initial consonant
 
-
-
-
-
-
-
-
-
-
 %{КТ%}:т	 used in imperative and connegative
 * *пань%>%{Х%}%{КТ%}%{ЬØ%}*
 * *пат0%>0тье0*
-
-
-
 
 in ped realized as hard sign
 
@@ -84,14 +65,10 @@ otherwise automatically removed %{ъØ%}
 %^Devoice:0	 for devoicing изь:исть
 %^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
 
-
-
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix
 * ` »  ` – derivation morpheme boundary suffix
 * ` #  ` – word boundary 
-
-
 
 ## The Sets
 
@@ -122,22 +99,7 @@ Letters = Vows Cns ь ъ ;
 
 ## The Definitions
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## The Rules
-
 
 **verbStemVowStrong:0**  
 * *цёра%>%{АЯ%}н*
@@ -155,7 +117,6 @@ Letters = Vows Cns ь ъ ;
 
 **A1:o**  
 
-
 **%{ИЫЙ%}:j**  
 * *стя%>%{ИЫЙ%}%>сь*
 * *стя%>й%>сь*
@@ -166,7 +127,6 @@ Letters = Vows Cns ь ъ ;
 **%{ИЫЙ%}:ы**
 
 **%{ИЫЙ%}:и**
-
 
 **%{ИЫЙ%}:0**  
 араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
@@ -217,10 +177,7 @@ Letters = Vows Cns ь ъ ;
 * ★*вай%>%{ЕОØ%}нь* (is not standard language)
 * ★*ва0%>0нь* (is not standard language)
 
-
-
 **%{АОØ%}:о**
-
 
 **%{АОØ%}:а**
 * *панг%{АОØ%}#*
@@ -236,7 +193,6 @@ Letters = Vows Cns ь ъ ;
 * *кодам%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
 * *кодап00%>0т0*
 
-
 **%{АО%}:о**
 пула+N+Sg+Nom+Def: **tail**
 * *пул%{АО%}%>сь*
@@ -246,7 +202,6 @@ Letters = Vows Cns ь ъ ;
 * *пул%{АО%}%>%{Х%}т%{ЬØ%}*
 * *пуло%>0т0*
 
-
 **%{АО%}:а**
 * *пул%{АО%}#*
 * *пула#*
@@ -255,7 +210,6 @@ Letters = Vows Cns ь ъ ;
 пря+N+SP+Ine+Der/Cop+Prs+ScSg1 **top, head/pää**
 * *пря%>с%{АО%}%>%{АЯ%}н*
 * *пря%>с0%>ан*
-
 
 **%{ЕО%}:е**
 * *сельм%{ЕО%}#*
@@ -278,7 +232,6 @@ Letters = Vows Cns ь ъ ;
 * *тяшть%{ЕØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
 * *тяшт000%>0ть*
 
-
 **0:j**  
 
 **е:0**
@@ -292,20 +245,17 @@ Letters = Vows Cns ь ъ ;
 
 **е:я**
 
-
 ≈ * Rules final е lowered to я
 * *тув%{АО%}%>%{Х%}тне%^Е2Я*
 * *туво%>0тня0*
 
 **%{АЕ%}:я**
 
-
 **%{ЕОØ%}:я**
 
 **%{ЕО%}:я**
 
 **%{ЕØ%}:я**
-
 
 **а:е**
 
@@ -322,7 +272,6 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{Х%}т%{ЬØ%}*
 * *вальма0%>0т0*
 
-
 **%{АЕØ%}:а Always**  
 
 **%{АЕØ%}:а Sometimes**  
@@ -337,7 +286,6 @@ Letters = Vows Cns ь ъ ;
 
 **%{АЕØ%}:0 Sometimes**  
 
-
 **%{АЕ%}:a**  
 вал+Hom1+N+Sg+Nom+Indef+Clt/Add: **word/sana**
 * *вал%>%{гк%}%{АЕ%}#*
@@ -350,9 +298,6 @@ Letters = Vows Cns ь ъ ;
 вальмя+N+SP+Prl+Indef: **window/ikkuna**
 * *вальмя%^Я2А%>%{вгк%}%{АЕ%}*
 * *вальма0%>ва*
-
-
-
 
 **%{АЕ%}:е**  
 менель+N+SP+Prl+Indef **sky/taivas**
@@ -382,15 +327,12 @@ Letters = Vows Cns ь ъ ;
 * *сим%>%{Х%}т%{АЯ%}ма*
 * *сип%>0тяма*
 
-
 **%{АЯ%}:a**  
 
 * *канд>%{АЯ%}н*
 * *канд0ан*
 * *аще%>%{АЯ%}н*
 * *ащ0%>ан*
-
-
 
 **j:0 LEFT**  
 * *тий%>%{ЕОØ%}за*
@@ -418,12 +360,9 @@ Letters = Vows Cns ь ъ ;
 
 **j:0 RIGHT**
 
-
 **ye:e always**  
 
-
 **ye:e sometimes**  
-
 
 **a:ya**  
 
@@ -492,7 +431,6 @@ Letters = Vows Cns ь ъ ;
 * *пильг%{ЕОØ%}%^RmVow%>д%{АО%}*
 * *пильг00%>та*
 
-
 **З:С**
 изь+V+Aux+Neg+Ind+Prt1+ScPl3:	**they did not**
 * *изь%^Devoice%^Ь2ZERO%>ть*
@@ -506,18 +444,13 @@ Letters = Vows Cns ь ъ ;
 * *панж%>сь*
 * *панч%>сь*
 
-
 **г:к**
 * *мярьг%>%{Х%}т%{АЯ%}ма*
 * *мярьк%>0тяма*
 
-
-
 **с:ц ломань:ломанць**  
 
-
 **G1:0**  
-
 
 **G1:g**  
 вал+Hom1+N+Sg+Nom+Indef+Foc **word/sana**
@@ -548,7 +481,6 @@ Letters = Vows Cns ь ъ ;
 * *пирьф%>%{ВИУ%}*
 * *пирьф%>и*
 
-
 **%{ВИУ%}:u**
 уша+N+SP+Lat+Indef: **outdoors**
 * *уш%{АЕØ%}%>%{ВИУ%}*
@@ -562,20 +494,13 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{вгк%}%{АЕ%}*
 * *вальма0%>ва*
 
-
 **G2:k**  
-
-
-
 
 **G4:0**  
 
 **G4:k**  
 
-
 **m:0**  
-
-
 
 ### imperative suffix
 **К1 %{КТ%}:t left**  
@@ -625,7 +550,6 @@ Letters = Vows Cns ь ъ ;
 * *вальмя%^Я2А%>%{Х%}т%{ЬØ%}*
 * *вальма0%>0т0*
 
-
 Plural before definite plural following a consonant
 **t:0**  
 Ананьина К.И. 2000: 55
@@ -639,15 +563,10 @@ Plural before definite plural following a consonant
 * ★*лав%>%{Х%}тне* (is not standard language)
 * ★*лаф%>0тне* (is not standard language)
 
-
 **s:0**  
 
 * *класс%>SLossс*
 * *клас000с*
-
-
-
-
 
 **y:0**  
 plural
@@ -694,8 +613,6 @@ plural
 * *пикс>%{DIM%}я*
 * *пикс0кя*
 
-
-
 **%{ъØ%}:ъ**
 
 ## Disallow
@@ -705,9 +622,6 @@ plural
 **Disallow KLoss after non-k**  
 
 **Disallow SLoss after non-s**  
-
-
-
 
 **Disallow овок**
 
@@ -724,4 +638,8 @@ plural
 **Disallow onset vowel after voiced cons**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

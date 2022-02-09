@@ -5,69 +5,42 @@ to none exceptions, it's always better to have a paradigm that covers only
 one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
 
-
 MISSING ADV
-
-
-
-
-
-
-
 
 MISSING CS
 
 MISSING Pcle
 
-
-
 IRREGULAR diminutives
 
 MISSING V
 
-
-
-
 VOCATIVES
 
-
-
-
-
 TOPONYMY
-
 
 PROPER NAMES
 
 Wife NAMES
-
-
-
 
 QUESTIONABLE FORMS
 
 FOREIGN WORDS
 A
 
-
 PCLE
 
-
 NOUNS
-
 
 PROP
 
 MISSING VALENCY
 
-
-
-
-
 more words for Mormula
 
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/exceptions.lexc](http://github.com/giellalt/lang-mdf/blob/main/../src/fst/stems/exceptions.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/exceptions.lexc)</small>
+
+---
+
