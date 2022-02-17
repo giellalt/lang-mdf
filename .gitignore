@@ -35,8 +35,11 @@
 /docs/*-tools.md
 /docs/???.md
 /docs/Links.md
+/docs/empty.md
 /docs/generated-markdowns.*
 /docs/index.md
+/docs/src-*.md
+/docs/tools-*.md
 /docs/transcriptor-*.md
 /giella-*.pc
 /misc/*
@@ -110,6 +113,7 @@
 /tools/tts/functions.cg3
 /tools/tts/mwe-dis.cg3
 /tools/tts/pipespec.xml
+/tools/tts/test/run_tests.sh
 Makefile
 Makefile.in
 build

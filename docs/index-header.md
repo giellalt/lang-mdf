@@ -1,11 +1,16 @@
 # Moksha documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://raw.githubusercontent.com/giellalt/lang-mdf/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues)
 [![Build status](https://github.com/giellalt/lang-mdf/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-mdf/actions)
 
-This page documents the work on the [Moksha language model](http://github.com/giellalt/lang-mdf). 
+This page documents the work on the [Moksha language model](http://github.com/giellalt/lang-mdf).
+
+The lexicon is full-sized (60000 entries), and the analyser 
+is in use in a morphologically enriched Moksha Mordvin dictionary. 
+
+* Generation of: [paradigms](http://giellatekno.uit.no/cgi/p-mdf.fi.html)
 
 # Project documentation
 
