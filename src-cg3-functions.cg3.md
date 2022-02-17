@@ -166,4 +166,4 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt//blob/main/src/cg3/functions.cg3)</small>
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mdf/blob/main/src/cg3/functions.cg3)</small>
