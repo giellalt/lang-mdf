@@ -626,6 +626,8 @@ plural
 **Disallow овок**
 
 **Disallow Онга**
+* ★*куд>{ЕОØ}нз{АО}>{ЕОØ}н>нг{АЕ}* (is not standard language)
+* ★*куд>онзо>0н>нга* (is not standard language)
 
 **Disallow -кс: нетькскс**
 
