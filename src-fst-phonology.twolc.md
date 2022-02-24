@@ -176,6 +176,9 @@ Letters = Vows Cns ь ъ ;
 * *вай%>0зе*
 * ★*вай%>%{ЕОØ%}нь* (is not standard language)
 * ★*ва0%>0нь* (is not standard language)
+вий+N+Sg+Gen+PxSg3: **strength/voima**
+* *вий>{ЕОØ}нц*
+* *вий>0нц*
 
 **%{АОØ%}:о**
 

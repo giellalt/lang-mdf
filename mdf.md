@@ -889,6 +889,9 @@ Letters = Vows Cns ь ъ ;
 * *вай%>0зе*
 * ★*вай%>%{ЕОØ%}нь* (is not standard language)
 * ★*ва0%>0нь* (is not standard language)
+вий+N+Sg+Gen+PxSg3: **strength/voima**
+* *вий>{ЕОØ}нц*
+* *вий>0нц*
 
 **%{АОØ%}:о**
 
@@ -1856,7 +1859,7 @@ Adding more 2020-03-08
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
-духовнай:духовнай A_KAL "(eng) /(fin) /(rus) " ;
+духовнай:духовнай A_VAJ "(eng) /(fin) /(rus) " ;
 
 ADD NOUNS BELOW
 
