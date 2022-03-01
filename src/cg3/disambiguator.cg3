@@ -236,6 +236,7 @@ LIST Conj = Conj ;
 LIST Des = Des ;
 LIST Ind = Ind ;
 LIST Opt = Opt ;
+LIST Prec = Prec ;
 LIST Proh = Proh ;
 LIST Aux = Aux ;
 
@@ -315,6 +316,7 @@ LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
 LIST NOLAT = "каль" "моль" ;
 
+LIST VERBTAKESkodaCCOMP = "арьсемс" "ваномс" "марямс" "няемс" "няендемс" "няфтемс" "няфтнемс" "содамс" "шарьхкодемс" ;#knows how
 
 LIST Err/Orth = Err/Orth ;
 LIST Err/Orth-lowered-final-e-2-ja = Err/Orth-lowered-final-e-2-ja ;
@@ -503,16 +505,21 @@ REMOVE Prl IF (0 Sur) ;
 
 # VERBS
 
+REMOVE  IV IF (0 VERBTAKESkodaCCOMP) (1 (",")) (2 ("мезе") OR ("кода"));
+
 # remove 
-# азондыне арьсеманень, а сон
 REMOVE OcSg3 IF (1 Pl + Gen) (2 CLB);
+       # азондыне арьсеманень, а сон
 
-# эряви улемс
+REMOVE:NoPrt2WhenShtoba Prt2 IF (0 Conj LINK *0 ("штоба"));
+			#
+
 REMOVE:AuxWhenNextInf Der/I IF (0 AUX) (1 Inf) ;
+		      # эряви улемс
+		      
 
-# и лятфнетядязь тинь
 REMOVE:NoSgIfObjPron OcSg2 IF (0 OcPl2) (1 Pron + Pers + Pl2 + Gen) ; 
-
+		     # и лятфнетядязь тинь
 
 # минь инголькиге ладямазь
 # Сон тиемазь минь
