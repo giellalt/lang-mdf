@@ -281,6 +281,11 @@ LIST Ger = Ger ;
 LIST Sup = Sup ;
 LIST Actio = Actio ;
 
+LIST SupEla = (infMS/ME cx:ela) (Ger Ela) (Sup Ela) ;#ОмстО
+LIST SupLoc = (infMS/ME cx:nom) (Inf Loc) ;#ОмО
+LIST GENDEF = (def nsg cx:gen) (def npl cx:gen) (Sg Gen Def) (Pl Gen Def);
+
+
 LIST Der/PassL = Der/PassL ;
 LIST Der/NomAg = Der/NomAg ;
 LIST Actor = NomAg Der/NomAg ;
@@ -422,12 +427,13 @@ REMOVE VFIN IF (0 N + Pl + Gen) ((-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)
 
 REMOVE IV IF (0 OCONJ) ;
 
-# Аф лама минутада меле шофёрсь и санитарсь састь кафта солдат мархта, синь кандсть кафонц носилкат.
-REMOVE:NoOconjIfIV OCONJ IF (0 IV + Imprt + ScPl2 + OcPl3) ; # FlagDiacritics not working 2020-03-15
 
-# Аф лама минутада меле
-# this will be a problem for compound nouns with Tibetan priests and South American animals.
+REMOVE:NoOconjIfIV OCONJ IF (0 IV + Imprt + ScPl2 + OcPl3) ; # FlagDiacritics not working 2020-03-15
+		   # Аф лама минутада меле шофёрсь и санитарсь састь кафта солдат мархта, синь кандсть кафонц носилкат.
+
 REMOVE:QntWithAbl N IF (0 ("лама") ) (1 N + SP + Abl) ;
+		  # Аф лама минутада меле
+		  # this will be a problem for compound nouns with Tibetan priests and South American animals.
 
 #REMOVE Gen IF (0 Nom OR Gen) ; # argh fix!
 SELECT Gen IF (1 Po OR Adp) ;
@@ -505,7 +511,10 @@ REMOVE Prl IF (0 Sur) ;
 
 # VERBS
 
-REMOVE  IV IF (0 VERBTAKESkodaCCOMP) (1 (",")) (2 ("мезе") OR ("кода"));
+REMOVE:NoIVWhenVTakesClausalObject  IV IF (0 VERBTAKESkodaCCOMP) (1 (",")) (2 ("мезе") OR ("кода"));
+
+REMOVE:NoIVWhenPreceededByObject IV IF (0 SupLoc) (-1 GENDEF);
+				 #природать: Минь карматама природать тонафнемонза
 
 # remove 
 REMOVE OcSg3 IF (1 Pl + Gen) (2 CLB);
