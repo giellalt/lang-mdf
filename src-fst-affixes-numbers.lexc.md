@@ -7,6 +7,8 @@ NUMERALS
 
 NUMBERS 
 
+омбонцт:омбонц
+
 * **LEXICON ARABICCASE**  adds +Arab
 
 * **LEXICON ARABICCASE0**  adds +Arab
