@@ -97,6 +97,11 @@ LEXICON NUMERALS-TO-ORD
 +Der+Der/Ord+A+Ord:%>це NMN_AVA ;
 +Der+Der/Ord+A+Ord+Der+Der/Dimin+N:%>це%>ня NMN_AVA ;
 
+LEXICON IS_NUM_ORD !вейхксоце
++Ord: NMN_AVA ;
+
+LEXICON IS_NUM_ORD_ITER !вейхксоцеда
++Ord+Iter: K ;
 
 !!!!!!!!!!!
 !! NUMBERS 
@@ -123,6 +128,14 @@ LEXICON NUM-CARD_KAL
 
 LEXICON NUM-COLL_
 +Card+Coll:	K ;
+
+LEXICON NUM_CARD_COLL_NCT !!комсенцт:комсенц
++Card+Coll: PL-NOM-INDEF ;
++Card+Coll: PL-DAT/GEN/NOM-DEF ;
+
+LEXICON NUM_ORD_COLL_NCT !! омбонцт:омбонц
++Ord+Coll: PL-NOM-INDEF ;
++Ord+Coll: PL-DAT/GEN/NOM-DEF ;
 
 !LEXICON NUM-ITER_
 !+Mult: K ;

@@ -323,6 +323,9 @@ LIST NOLAT = "каль" "моль" ;
 
 LIST VERBTAKESkodaCCOMP = "арьсемс" "ваномс" "марямс" "няемс" "няендемс" "няфтемс" "няфтнемс" "содамс" "шарьхкодемс" ;#knows how
 
+LIST CCOMPMARKERS = "кода" "мезе" "мес"; # V, koda
+
+
 LIST Err/Orth = Err/Orth ;
 LIST Err/Orth-lowered-final-e-2-ja = Err/Orth-lowered-final-e-2-ja ;
 LIST Err/MissingSpace = Err/MissingSpace ;
@@ -511,7 +514,8 @@ REMOVE Prl IF (0 Sur) ;
 
 # VERBS
 
-REMOVE:NoIVWhenVTakesClausalObject  IV IF (0 VERBTAKESkodaCCOMP) (1 (",")) (2 ("мезе") OR ("кода"));
+REMOVE:NoIVWhenVTakesClausalObject  IV IF (0 VERBTAKESkodaCCOMP) (1 (",")) (2 CCOMPMARKERS);
+				    #
 
 REMOVE:NoIVWhenPreceededByObject IV IF (0 SupLoc) (-1 GENDEF);
 				 #природать: Минь карматама природать тонафнемонза

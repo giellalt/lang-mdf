@@ -12,6 +12,8 @@
 LEXICON PCLE_
 : ENDLEX ;
 
+LEXICON PCLE_AUX_COND
++Aux+Cond: ENDLEX ;
 
 !LEXICON Pcle-Compar-Stnd
 !+Comp: ENDLEX ;

@@ -16,21 +16,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">ведьгемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">ведьгемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">ведьгемонь</l>
      <stg>
        <st Contlex="NUM-CARD_KAL">ведьгемонь</st>
@@ -83,21 +68,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">вейхксогемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">вейхксогемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">вейхксогемонь</l>
      <stg>
        <st Contlex="NUM-CARD_KAL">вейхксогемонь</st>
@@ -116,24 +86,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">вейхксоце</l>
+     <l pos="Adv">вейхксоцеда</l>
      <stg>
-       <st Contlex="NUM-ORD_">вейхксоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">вейхксоцеда</l>
-     <stg>
-       <st Contlex="NUM_">вейхксоцеда</st>
+       <st Contlex="IS_NUM_ORD_ITER">вейхксоцеда</st>
      </stg>
    </lg>
      <sources>
@@ -259,21 +214,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">кафксогемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кафксогемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">кафксогемонь</l>
      <stg>
        <st Contlex="NUM-CARD_KAL">кафксогемонь</st>
@@ -302,24 +242,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кафксоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кафксоце</st>
-     </stg> <phonet>kafksəćä</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kahdeksas</t>
-     </tg>
      <defNative/>
    </mg>
 </e>
@@ -757,36 +679,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">кеветицесь</l>
-     <stg>
-       <st Contlex="NUM_">кеветицесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кевехксыцесь</l>
-     <stg>
-       <st Contlex="NUM_">кевехксыцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">кемгафксува</l>
      <stg>
        <st Contlex="NUM-CARD_PULA">кемгафксув%{АО%}</st>
@@ -800,39 +692,6 @@
      <tg xml:lang="fin">
        <t pos="Num">kahdeksantoista</t>
      </tg>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемгафксувоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемгафксувоце</st>
-     </stg> <phonet>kemgafksuvəćä, kimgafksuvəćä</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kahdeksastoista</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемгафксуцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемгафксуцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
      <defNative/>
    </mg>
 </e>
@@ -862,36 +721,6 @@
        <x>кемгафтувошка</x> <phonet>kemgaftuvəška, kimgaftuvəška</phonet>
        <xt xml:lang="fin">noin kaksitoista</xt>
      </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемгафтувоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемгафтувоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемгафтуцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемгафтуцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e meta="" id="None">
@@ -928,66 +757,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">кемголмувоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемголмувоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемголмуцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемголмуцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемготоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемготоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемготоцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемготоцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">кемготува</l>
      <stg>
        <st Contlex="NUM-CARD_PULA">кемготув%{АО%}</st>
@@ -1012,36 +781,6 @@
        <x>кемготувоце</x> <phonet>kemgotuvəćä</phonet>
        <xt xml:lang="fin">kuudestoista</xt>
      </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемготувоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемготувоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемготуцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемготуцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e meta="" id="None">
@@ -1072,43 +811,13 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">seitsemäntoista</t>
+       <t pos="Num">seitsemäntoista</t>
      </tg>
      <defNative/>
      <xg>
        <x>кемзисемгоце</x> <phonet>kemźiśəmgəćä, kimźiśəmgəćä</phonet>
        <xt xml:lang="fin">seitsemästoista.</xt>
      </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемзисемгоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемзисемгоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемзисемцесь</l>
-     <stg>
-       <st Contlex="NUM_">кемзисемцесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e meta="" id="None">
@@ -1141,39 +850,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">кемнилицесь</l>
-     <stg>
-       <st Contlex="NUM_">кемнилицесь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">кемоння</l>
      <stg>
        <st Contlex="NUM_">кемоння</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кемонце</st>
      </stg>
    </lg>
      <sources>
@@ -1252,21 +931,6 @@
        <x>кефкиеце</x> <phonet>kefkijəćä</phonet>
        <xt xml:lang="fin">yhdestoista</xt>
      </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">кодгемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">кодгемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
    </mg>
 </e>
 <e meta="" id="None">
@@ -1370,21 +1034,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">колмогемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">колмогемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">колмогемонь</l>
      <stg>
        <st Contlex="NUM-CARD_KAL">колмогемонь</st>
@@ -1467,21 +1116,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">колмоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">колмоце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">колмоцьке</l>
      <stg>
        <st Contlex="NUM_">колмоцьке</st>
@@ -1497,31 +1131,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">комозце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">комозце</st>
-     </stg> <phonet>koməzćä</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kahdeskymmenes</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>комозце кизотне</x> <phonet>koməzćə kizəťńä</phonet>
-       <xt xml:lang="fin">20-luku</xt>
-     </xg>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">комсенцт</l>
      <stg>
-       <st Contlex="NUM_">комсенцт</st>
+       <st Contlex="NUM_CARD_COLL_NCT">комсенц</st>
      </stg>
    </lg>
      <sources>
@@ -1601,21 +1213,6 @@
      <l pos="Num">котонь-котонь</l>
      <stg>
        <st Contlex="NUM_">котонь-котонь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Num">котоце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">котоце</st>
      </stg>
    </lg>
      <sources>
@@ -1723,21 +1320,6 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">нильгемонце</l>
-     <stg>
-       <st Contlex="NUM-ORD_">нильгемонце</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
      <l pos="Num">нильгемонь</l>
      <stg>
        <st Contlex="NUM-CARD_KAL">нильгемонь</st>
@@ -1771,9 +1353,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">омбоце</l>
+     <l pos="Num">омбонцт</l>
      <stg>
-       <st Contlex="NUM-ORD_">омбоце</st>
+       <st Contlex="NUM_ORD_COLL_NCT">омбонц</st>
      </stg> <phonet>ombəćä</phonet>
    </lg>
      <sources>
@@ -1785,14 +1367,6 @@
        <t pos="A">toinen</t>
      </tg>
      <defNative/>
-     <xg>
-       <x>омбоцекс</x> <phonet>ombəćəks</phonet>
-       <xt xml:lang="fin">toiseksi.</xt>
-     </xg>
-     <xg>
-       <x>омбоцети</x> <phonet>ombəćəťi</phonet>
-       <xt xml:lang="fin">toiselle</xt>
-     </xg>
      <xg>
        <x>омбоцеда</x> <phonet>ombəćəda</phonet>
        <xt xml:lang="fin">toistamiseen, toisen kerran</xt>
@@ -1813,10 +1387,6 @@
        <x>финцне ... омбонцне</x> <phonet>fincńä … ombəncńä</phonet>
        <xt xml:lang="fin">(mon.) toiset … toiset.</xt>
      </xg>
-     <xg>
-       <x>омбоцетне</x> <phonet>ombəćəťńä</phonet>
-       <xt xml:lang="fin">(mon., määr.) toiset, muut</xt>
-     </xg>
    </mg>
 </e>
 <e meta="" id="None">
@@ -1836,9 +1406,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">сизьгемонце</l>
+     <l pos="A">сизьгемонце</l>
      <stg>
-       <st Contlex="NUM-ORD_">сизьгемонце</st>
+       <st Contlex="IS_NUM_ORD">сизьгемонце</st>
      </stg>
    </lg>
      <sources>
@@ -1937,9 +1507,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">сядоце</l>
+     <l pos="A">сядоце</l>
      <stg>
-       <st Contlex="NUM-ORD_">сядоце</st>
+       <st Contlex="IS_NUM_ORD">сядоце</st>
      </stg>
    </lg>
      <sources>
@@ -2004,9 +1574,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Num">тёжянце</l>
+     <l pos="A">тёжянце</l>
      <stg>
-       <st Contlex="NUM-ORD_">тёжянце</st>
+       <st Contlex="IS_NUM_ORD">тёжянце</st>
      </stg>
    </lg>
      <sources>

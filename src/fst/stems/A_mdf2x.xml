@@ -1,6 +1,356 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e meta="" id="None">
    <lg>
+     <l pos="A">ведьгемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">ведьгемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">вейхксогемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">вейхксогемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">вейхксоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">вейхксоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кафксогемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кафксогемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кафксоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кафксоце</st>
+     </stg> <phonet>kafksəćä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">kahdeksas</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кеветиеце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кеветиеце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кевехксыеце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кевехксыеце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемгафксувоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемгафксувоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемгафксуце</st>
+     </stg> <phonet>kemgafksuvəćä, kimgafksuvəćä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">kahdeksastoista</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемгафтувоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемгафтувоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемгафтуце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемголмувоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемголмувоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемголмуце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемготувоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемготувоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемготоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемготуце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемзисемгоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемзисемгоце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемзисемце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемнилиеце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемнилиеце</st>
+       <st Contlex="IS_NUM_ORD" status="SpellNoSugg">кемнилице</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кодгемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">кодгемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">колмогемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">колмогемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">колмоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">колмоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">комозце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">комозце</st>
+     </stg> <phonet>koməzćä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">kahdeskymmenes</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>комозце кизотне</x> <phonet>koməzćə kizəťńä</phonet>
+       <xt xml:lang="fin">20-luku</xt>
+     </xg>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">котоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">котоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">нильгемонце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">нильгемонце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">омбоце</l>
+     <stg>
+       <st Contlex="IS_NUM_ORD">омбоце</st>
+     </stg> <phonet>ombəćä</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">toinen</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>омбоцекс</x> <phonet>ombəćəks</phonet>
+       <xt xml:lang="fin">toiseksi.</xt>
+     </xg>
+     <xg>
+       <x>омбоцети</x> <phonet>ombəćəťi</phonet>
+       <xt xml:lang="fin">toiselle</xt>
+     </xg>
+     <xg>
+       <x>омбоцетне</x> <phonet>ombəćəťńä</phonet>
+       <xt xml:lang="fin">(mon., määr.) toiset, muut</xt>
+     </xg>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
      <l pos="A">абон</l>
      <stg>
        <st Contlex="A_KAL">абон</st>

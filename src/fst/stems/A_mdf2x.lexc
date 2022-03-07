@@ -1,6 +1,34 @@
 
 LEXICON A_mdf2x
 
+ведьгемонце+A:ведьгемонце IS_NUM_ORD  "" ;
+вейхксогемонце+A:вейхксогемонце IS_NUM_ORD  "" ;
+вейхксоце+A:вейхксоце IS_NUM_ORD  "" ;
+кафксогемонце+A:кафксогемонце IS_NUM_ORD  "" ;
+кафксоце+A:кафксоце IS_NUM_ORD  "kahdeksas" ;
+кеветиеце+A:кеветиеце IS_NUM_ORD  "" ;
+кевехксыеце+A:кевехксыеце IS_NUM_ORD  "" ;
+кемгафксувоце+A:кемгафксувоце IS_NUM_ORD  "kahdeksastoista" ;
+кемгафксувоце+A+SpellNoSugg:кемгафксуце IS_NUM_ORD  "kahdeksastoista" ;
+кемгафтувоце+A:кемгафтувоце IS_NUM_ORD  "" ;
+кемгафтувоце+A+SpellNoSugg:кемгафтуце IS_NUM_ORD  "" ;
+кемголмувоце+A:кемголмувоце IS_NUM_ORD  "" ;
+кемголмувоце+A+SpellNoSugg:кемголмуце IS_NUM_ORD  "" ;
+кемготувоце+A:кемготувоце IS_NUM_ORD  "" ;
+кемготувоце+A+SpellNoSugg:кемготоце IS_NUM_ORD  "" ;
+кемготувоце+A+SpellNoSugg:кемготуце IS_NUM_ORD  "" ;
+кемзисемгоце+A:кемзисемгоце IS_NUM_ORD  "" ;
+кемзисемгоце+A+SpellNoSugg:кемзисемце IS_NUM_ORD  "" ;
+кемнилиеце+A:кемнилиеце IS_NUM_ORD  "" ;
+кемнилиеце+A+SpellNoSugg:кемнилице IS_NUM_ORD  "" ;
+кемонце+A:кемонце IS_NUM_ORD  "" ;
+кодгемонце+A:кодгемонце IS_NUM_ORD  "" ;
+колмогемонце+A:колмогемонце IS_NUM_ORD  "" ;
+колмоце+A:колмоце IS_NUM_ORD  "" ;
+комозце+A:комозце IS_NUM_ORD  "kahdeskymmenes" ;
+котоце+A:котоце IS_NUM_ORD  "" ;
+нильгемонце+A:нильгемонце IS_NUM_ORD  "" ;
+омбоце+A:омбоце IS_NUM_ORD  "toinen" ;
 абон+A:абон A_KAL  "turha" ;
 абонф+A:абонф Prc-f  "null" ;
 абрикосовай+A:абрикосовай A_KAL  "aprikoosi-" ;
