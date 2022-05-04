@@ -24,7 +24,7 @@ SUBJECT ONLY VERBS
 
 няемс:ня
 
-*MUMS examples:*
+* MUMS examples:*
 * *мумс:* `мумс+V+TV+Inf`
 * *муйхтень:* `мумс+V+TV+Ind+Prt1+ScSg1+OcSg2`
 * *музе:* `мумс+V+TV+Ind+Prt1+ScSg3+OcSg3`
