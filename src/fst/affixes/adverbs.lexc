@@ -36,7 +36,8 @@ LEXICON GER_
 LEXICON ADV-SPAT_
 +Spat: K ;
 
-LEXICON ADV-STATE_
+LEXICON ADV_STATE_
+!стяда
 K ;
 DER/COP ;
 
@@ -64,15 +65,15 @@ LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 +Ela: K_вок ;
 +Ela+Der/Dimin:%>ня K_вок ;
 +Ela: DER/COP_OR_DER-POSS_NNE ;
-LEXICON ADV-ILL_ ! лангс:лангс
+LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
-LEXICON ADV-INE_ ! лангса:лангс%{АО%}
+LEXICON ADV_INE_ ! лангса:лангс%{АО%}
 +Ine: K_вок ;
 +Ine+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
-LEXICON ADV-LAT_ ! алга:алу
+LEXICON ADV_LAT_ ! алга:алу
 +Lat: K_вок ;
-LEXICON ADV-LOC_
+LEXICON ADV_LOC_
 +Loc: K ;
 +Loc+Der/Dimin:%>ня K ;
 +Loc: DER/COP_OR_DER-POSS_NNE ;

@@ -34,7 +34,7 @@ LEXICON EXCEPTIONS
 
 кой-куване+Adv+Indef+Prl:кой-куване ADV_ ;
 кой-кода+Adv+Indef:кой-кода ADV_ ;
-ков-повсь+Adv+Indef+Lat:ков-повсь ADV_ ;
+ков-повсь+Adv+Indef:ков-повсь ADV_LAT_ ;
 куване-повсь+Adv+Indef+Prl:куване-повсь ADV_ ;
 коста-повсь+Adv+Indef+Ela:коста-повсь ADV_ ;
 косоль-косоль+Adv+Distr+Clt/Cop+Prt2+ScSg3:косоль-косоль ADV_ ;
@@ -53,15 +53,15 @@ LEXICON EXCEPTIONS
 тага-арам+Adv:тага-арам ADV_ ;
 пяк-пяк+Adv:пяк-пяк ADV-DEG_ ;
 цють-цють+Adv:цють-цють ADV-DEG_ ;
-ичкозе-ичкозе+Adv+Loc:ичкозе-ичкозе ADV_ ;
-ичкози-ичкози+Adv+Lat:ичкози-ичкози ADV_ ;
+ичкозе-ичкозе+Adv:ичкозе-ичкозе ADV_LOC_ ;
+ичкози-ичкози+Adv:ичкози-ичкози ADV_LAT_ ;
 кунара-кунара+Adv:кунара-кунара ADV-TEMP_ ;
 тячи-ванды+Adv:тячи-ванды ADV-TEMP_ ;
-тяза-тоза+Adv+Distr+Ill:тяза-тоза ADV_ ;
-сей-тов+Adv+Distr+Lat:сей-тов ADV_ ;
-тов-сей+Adv+Distr+Lat:тов-сей ADV_ ;
-тяса-тоса+Adv+Distr+Ine:тяса-тоса ADV_ ;
-коса-коса+Adv+Distr+Ine:коса-коса ADV_ ;
+тяза-тоза+Adv+Distr:тяза-тоза ADV_ILL_ ;
+сей-тов+Adv+Distr:сей-тов ADV_LAT_ ;
+тов-сей+Adv+Distr:тов-сей ADV_LAT_ ;
+тяса-тоса+Adv+Distr:тяса-тоса ADV_INE_ ;
+коса-коса+Adv+Distr:коса-коса ADV_INE_ ;
 коста-коста+Adv+Distr+Ela:коста-коста ADV_ ;
 одукс+Adv:одукс ADV_ ;
 аньцек-аньцек+Adv:аньцек-аньцек ADV_ ;
@@ -138,8 +138,8 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 ламняс+Adv:ламняс ADV_ ;
 думамс+V:дума BV_KUNDAMS ;
 перьфпяльде+Adv:перьфпяльде ADV-ABL_ ;
-перьфпяли+Adv:перьфпяли ADV-LAT_ ;
-перьфпяле+Adv:перьфпяле ADV-LOC_ ;
+перьфпяли+Adv:перьфпяли ADV_LAT_ ;
+перьфпяле+Adv:перьфпяле ADV_LOC_ ;
 перьфпяльге+Adv:перьфпяльге ADV-PRL_ ;
 
 !! MISSING CS
@@ -573,7 +573,7 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 !
 
 !! QUESTIONABLE FORMS
-школа+N+SP+Lat+Indef+Foc:школавка K ;
+школа+N+SP+Lat+Indef+Foc:школавка ENDLEX ;
 
 !! FOREIGN WORDS
 !! A

@@ -312,6 +312,8 @@ LIST Der/Cop = Der/Cop ;
 LIST Der/Onj = Der/Onj ;
 LIST Der/f = Der/f ;
 
+LIST Use/NG = Use/NG ;
+
 LIST <vdic> = <vdic> ;
 
 LIST MARXTA = "мархта" ;
@@ -375,6 +377,7 @@ SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
 #SUBSTITUTE (TV) (*) TARGET (*) ;
 #SUBSTITUTE (IV) (*) TARGET (*) ;
 
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
 
 REMOVE Der/MWN ; # If any other reading is possible.
 REMOVE Der/Dimin ; # If any other reading is possible.
