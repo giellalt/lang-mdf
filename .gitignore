@@ -13,7 +13,9 @@
 *.zhfst
 *.zip
 *.zpipe
+.~lock.*#
 .DS_Store
+.bundle
 /aclocal.m4
 /autom4te.cache
 /build-aux
@@ -21,6 +23,7 @@
 /config.status
 /configure
 /configure~
+/devtools/analysis_check_corpus.*.txt
 /devtools/check_analysis_regressions.sh
 /devtools/speller*.txt
 /devtools/test_grammar_checker.sh
@@ -41,6 +44,7 @@
 /docs/src-*.md
 /docs/tools-*.md
 /docs/transcriptor-*.md
+/docs/vendor
 /giella-*.pc
 /misc/*
 /src/cg3/dependency.cg3
@@ -119,3 +123,4 @@ Makefile
 Makefile.in
 build
 bygg
+generated-tag-list.*
