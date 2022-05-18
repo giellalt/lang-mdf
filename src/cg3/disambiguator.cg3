@@ -386,6 +386,9 @@ REMOVE Der/Dimin ; # If any other reading is possible.
 #SELECT N IF (0 ABBR) ; 
 # way too strong
 
+#smi numerals cause problems in mdf 2022-05-14
+SELECT (A Arab Ord Attr);
+ #7.
 #
 REMOVE:DisallowOvoms Der/OvOms ;
 SELECT:NingeNotNi ("нинге") ;
