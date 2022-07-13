@@ -1425,6 +1425,7 @@ Interjections:
 The Usage extents are marked using following tags:
 * ** +Err/Orth    **:  substandard / outside the written norm
 * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
+* +Err/Orth-colloq Евсеич
 
 * _+Use/Marg_ * Marginal
 * _+Use/-Spell_ * Exclude from speller
