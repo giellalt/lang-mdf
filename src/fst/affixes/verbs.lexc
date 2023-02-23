@@ -112,7 +112,7 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 
 !LEXICON V_TUMS
 !! тумс:ту
-!+IV: V0_KUNDAMS ;
+!: V0_KUNDAMS ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! BOTH IV and TV
@@ -148,37 +148,37 @@ LEXICON BV_PACHKODEMS
 !! OBJECT and SUBJECT VERBS 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON TV_KUNDAMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@  V0_KUNDAMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@  V0_KUNDAMS ;
 
 LEXICON TV_MUMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@  V0_MUMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@  V0_MUMS ;
 
 LEXICON TV_ANDOMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_ANDOMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_ANDOMS ;
 
 LEXICON TV_PACHKODEMS
 !! пачкодемс:пачкодь
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_PACHKODEMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_PACHKODEMS ;
 
 LEXICON BV_TIJEMS
  TV_TIJEMS ;
-+IV: V0_TIJEMS ;
+: V0_TIJEMS ;
 LEXICON TV_TIJEMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_TIJEMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_TIJEMS ;
 
 LEXICON TV_NJAJEMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_NJAJEMS ; 
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_NJAJEMS ; 
 
 LEXICON BV_NJAFTEMS_SUB
  TV_NJAFTEMS_SUB ;
-+IV+Use/NG+Err/Orth: V0_NJAFTEMS ;
++Use/NG+Err/Orth: V0_NJAFTEMS ;
 LEXICON TV_NJAFTEMS_SUB
 +Use/NG+Err/Orth: TV_NJAFTEMS ;
 LEXICON TV_NJAFTEMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_NJAFTEMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_NJAFTEMS ;
 
 LEXICON TV_ALYJAFTOMS
-@P.CONJ.ObjAll@+TV:@P.CONJ.ObjAll@ V0_ALYJAFTOMS ;
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_ALYJAFTOMS ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!
@@ -188,33 +188,33 @@ LEXICON TV_ALYJAFTOMS
 
 LEXICON IV_KUNDAMS
 ! кундамс:кунда
-+IV: V0_KUNDAMS ;
+: V0_KUNDAMS ;
 
 LEXICON IV_MUMS
 ! мумс:му
-+IV: V0_MUMS ;
+: V0_MUMS ;
 
 LEXICON IV_ANDOMS
 !! андомс:анд
-+IV: V0_ANDOMS ;
+: V0_ANDOMS ;
 
 LEXICON IV_PACHKODEMS
 !! пачкодемс:пачкодь
-+IV: V0_PACHKODEMS ;
+: V0_PACHKODEMS ;
 
 LEXICON IV_NJAFTEMS
-+IV: V0_NJAFTEMS ;
+: V0_NJAFTEMS ;
 
 LEXICON IV_ALYJAFTOMS
-+IV: V0_ALYJAFTOMS ;
+: V0_ALYJAFTOMS ;
 
 LEXICON IV_ANDOVOMS
 !! андовомс:андов
-+IV: V0_ANDOMS ;
+: V0_ANDOMS ;
 
 LEXICON IV_NJAJEMS
 !! няемс:ня
-+IV: V0_NJAJEMS ;
+: V0_NJAJEMS ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -228,11 +228,11 @@ LEXICON V0_KUNDAMS
 
 LEXICON V0_MUMS
 !!€gt-norm: MUMS
-!!€ мумс: мумс+V+TV+Inf
-!!€ муйхтень: мумс+V+TV+Ind+Prt1+ScSg1+OcSg2
-!!€ музе: мумс+V+TV+Ind+Prt1+ScSg3+OcSg3
-!!€ мусь: мумс+V+TV+Ind+Prt1+ScSg3
-!!€ мулезе: мумс+V+TV+Conj+ScSg3+OcSg3
+!!€ мумс: мумс+V+Inf
+!!€ муйхтень: мумс+V+Ind+Prt1+ScSg1+OcSg2
+!!€ музе: мумс+V+Ind+Prt1+ScSg3+OcSg3
+!!€ мусь: мумс+V+Ind+Prt1+ScSg3
+!!€ мулезе: мумс+V+Conj+ScSg3+OcSg3
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
