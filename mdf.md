@@ -607,11 +607,11 @@ SUBJECT ONLY VERBS
 няемс:ня
 
 * MUMS examples:*
-* *мумс:* `мумс+V+TV+Inf`
-* *муйхтень:* `мумс+V+TV+Ind+Prt1+ScSg1+OcSg2`
-* *музе:* `мумс+V+TV+Ind+Prt1+ScSg3+OcSg3`
-* *мусь:* `мумс+V+TV+Ind+Prt1+ScSg3`
-* *мулезе:* `мумс+V+TV+Conj+ScSg3+OcSg3`
+* *мумс:* `мумс+V+Inf`
+* *муйхтень:* `мумс+V+Ind+Prt1+ScSg1+OcSg2`
+* *музе:* `мумс+V+Ind+Prt1+ScSg3+OcSg3`
+* *мусь:* `мумс+V+Ind+Prt1+ScSg3`
+* *мулезе:* `мумс+V+Conj+ScSg3+OcSg3`
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
@@ -835,7 +835,7 @@ Letters = Vows Cns ь ъ ;
 **%{ИЫЙ%}:j**  
 * *стя%>%{ИЫЙ%}%>сь*
 * *стя%>й%>сь*
-мумс+V+TV+Ind+Prt1+ScSg1+OcSg2: **find/löytää**
+мумс+V+Ind+Prt1+ScSg1+OcSg2: **find/löytää**
 * *му%>%{ИЫЙ%}хтень*
 * *му%>йхтень*
 
@@ -1058,10 +1058,10 @@ Letters = Vows Cns ь ъ ;
 седи+N+Pl+Nom+Indef **heart/sydän**
 * *седий%>%{Х%}т%{ЬØ%}*
 * *седи0%>хть*
-корхнемс+V+IV+NomAg+Pl+Nom+Def: **visit, talk/jutella**
+корхнемс+V+NomAg+Pl+Nom+Def: **visit, talk/jutella**
 * *корхне%>%{ИЫЙ%}й%>%{Х%}тне*
 * *корхн0%>и0%>х0не*
-озондомс+V+IV+NomAg+Pl+Nom+Def: **pray/rukoilla**
+озондомс+V+NomAg+Pl+Nom+Def: **pray/rukoilla**
 * *озонд%>%{ИЫЙ%}й%>%{Х%}тне*
 * *озонд%>ы0%>х0не*
 
@@ -1240,7 +1240,7 @@ Letters = Vows Cns ь ъ ;
 * *кунда00к0*
 
 **К1 %{КТ%}:0 **
-кельгомс+V+TV+ConNegII:
+кельгомс+V+ConNegII:
 * *кельг>%{Х%}%{КТ%}%{ЬØ%}*
 * *кельк%>000*
 
@@ -1248,7 +1248,7 @@ Letters = Vows Cns ь ъ ;
 
 * *пань%>%{КТ%}%{ЬØ%}*
 * *пан0%>ть*
-симомс+V+IV+Imprt+ScSg2
+симомс+V+Imprt+ScSg2
 * *сим%>%{Х%}%{КТ%}%{ЬØ%}*
 * *сип%>0ть*
 * ★*сим%>%{Х%}%{КТ%}%{ЬØ%}* (is not standard language)

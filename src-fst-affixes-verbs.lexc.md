@@ -25,11 +25,11 @@ SUBJECT ONLY VERBS
 няемс:ня
 
 * MUMS examples:*
-* *мумс:* `мумс+V+TV+Inf`
-* *муйхтень:* `мумс+V+TV+Ind+Prt1+ScSg1+OcSg2`
-* *музе:* `мумс+V+TV+Ind+Prt1+ScSg3+OcSg3`
-* *мусь:* `мумс+V+TV+Ind+Prt1+ScSg3`
-* *мулезе:* `мумс+V+TV+Conj+ScSg3+OcSg3`
+* *мумс:* `мумс+V+Inf`
+* *муйхтень:* `мумс+V+Ind+Prt1+ScSg1+OcSg2`
+* *музе:* `мумс+V+Ind+Prt1+ScSg3+OcSg3`
+* *мусь:* `мумс+V+Ind+Prt1+ScSg3`
+* *мулезе:* `мумс+V+Conj+ScSg3+OcSg3`
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
