@@ -23,7 +23,7 @@ LEXICON ADV-MANNER_ 	!!= @CODE@
 
 LEXICON ADV-INTERR-ITER
 !! мзярксть
-+Interr+Iter: K ;
++Iter: K ;
 
 
 LEXICON ADV-TEMP_ 	!!= @CODE@ 
@@ -34,7 +34,7 @@ LEXICON GER_
 : K ;
 
 LEXICON ADV-SPAT_
-+Spat: K ;
+: K ;
 
 LEXICON ADV_STATE_
 !стяда
@@ -67,7 +67,7 @@ LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 +Ela: DER/COP_OR_DER-POSS_NNE ;
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
-LEXICON ADV_INE_ ! лангса:лангс%{АО%}
+LEXICON ADV_INE ! лангса:лангс%{АО%}
 +Ine: K_вок ;
 +Ine+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
@@ -136,17 +136,17 @@ LEXICON ADV-INDEF-PRL_ ! алга:алга
 !LEXICON ADV-ILL-PXPL3
 !+Ill+PxPl3: K_ГА ;
 
-!LEXICON ADV-INE-PXSG1
+!LEXICON ADV_INE_PXSG1
 !+Ine+PxSg1: K_ГА ;
-!LEXICON ADV-INE-PXSG2
+!LEXICON ADV_INE_PXSG2
 !+Ine+PxSg2: K_ГА ;
-!LEXICON ADV-INE-PXSG3
+!LEXICON ADV_INE_PXSG3
 !+Ine+PxSg3: K_вок ;
-!LEXICON ADV-INE-PXPL1
+!LEXICON ADV_INE_PXPL1
 !+Ine+PxPl1: K_овок ;
-!LEXICON ADV-INE-PXPL2
+!LEXICON ADV_INE_PXPL2
 !+Ine+PxPl2: K_овок ;
-!LEXICON ADV-INE-PXPL3
+!LEXICON ADV_INE_PXPL3
 !+Ine+PxPl3: K_ГА ;
 
 !LEXICON ADV-PRL-PXSG1

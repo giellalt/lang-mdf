@@ -34,8 +34,8 @@ LEXICON PRONOUN-TYPES
 лама+Det:лам%{АО%} N_PULA ; 
 эрь+Det:эрь N_KAL  "jokainen" ;
 
-кама+A+Interr:кам%{АОØ%} N_PINGE  "" ;
-кодама+A+Interr:кодам%{АОØ%} N_PINGE  "millainen" ;
+кама+A:кам%{АОØ%} N_PINGE  "Interr" ;
+кодама+A:кодам%{АОØ%} N_PINGE  "(Interr) millainen" ;
 стама+A+Dem:стам%{АОØ%} N_PINGE  "" ;
 тяфтама+A+Dem:тяфтам%{АОØ%} N_PINGE  "tällainen, sellainen" ;
 
@@ -56,10 +56,8 @@ LEXICON PRONOUN-TYPES
 !колгат+Pron:колгат PRON-X-PXSG2  "sinusta" ;
 кона+Pron+Rel:кона N_AVA  "joka, mikä" ;
 конашка+Pron:конашка PRON_  "minkä kokoinen" ;
-коста+Adv+Interr+Ela:коста ADV_  "mistä" ;
-коста+Adv+Rel+Ela:коста ADV_  "mistä" ;
-коса+Adv+Interr+Ine:коса ADV_  "missä" ;
-коса+Adv+Rel+Ine:коса ADV_  "missä" ;
+коста+Adv+Ela:коста ADV_  "(Interr; Rel) mistä" ;
+коса+Adv+Ine:коса ADV_INE  "(Interr; Rel) missä" ;
 ладнек+Adv:ладнек PRON_  "koko, kokonaan, täysin" ;
 
 !мархтон+Pron:мархтон PRON-COM-PXSG1  "kanssani" ;
