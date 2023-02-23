@@ -331,14 +331,14 @@ PRON-DEM_ ;
 
 !! INTERROGATIVE PRONOUNS
 LEXICON INTERR
-@U.INDEF.KATI@мезе+Pron+Interr:@U.INDEF.KATI@ме PRON-INDEF_MEZE-BDI/POVSJ ;
-@U.INDEF.KATI@кодама+Det+Interr:@U.INDEF.KATI@кодам%{АОØ%} N_PINGE ;
+@U.INDEF.KATI@мезе+Pron:@U.INDEF.KATI@ме PRON-INDEF_MEZE-BDI/POVSJ ;
+@U.INDEF.KATI@кодама+Det:@U.INDEF.KATI@кодам%{АОØ%} N_PINGE ;
 
 мезе+Pron+SP+Prl+Indef:ме PRON-INTERR_MEZE-K ;
 !мезьса% аф% мезьса+Pron:мезьса% аф% мезьса PRON_  "" ;
 мейя+Pron:мейя PRON_  "" ;
-мес+Adv+Interr+Ill:мес ENDLEX  "miksi" ;
-кие+Pron+Interr:ки PRON-INTERR_KI-K  "kuka" ;
+мес+Adv+Ill:мес ENDLEX  "miksi" ;
+кие+Pron:ки PRON-INTERR_KI-K  "kuka" ;
 
 
 LEXICON PRON-INTERR_KI-K
