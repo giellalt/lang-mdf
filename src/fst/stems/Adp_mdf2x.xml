@@ -206,7 +206,7 @@
    <lg>
      <l pos="Po">бокста</l>
      <stg>
-       <st Contlex="PO-ELA_">бокст%{АО%}</st>
+       <st Contlex="PO_ELA">бокст%{АО%}</st>
      </stg> <phonet>boksta</phonet>
    </lg>
      <sources>
@@ -1178,7 +1178,7 @@
 <e meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">кядьса</l>
+     <l pos="Po">кядьса</l>
      <etymology>
      </etymology>
      <stg>
@@ -1200,7 +1200,7 @@
    <lg>
      <l pos="Po">кядьста</l>
      <stg>
-       <st Contlex="PO-ELA_">кядьст%{АО%}</st>
+       <st Contlex="PO_ELA">кядьст%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -1289,7 +1289,7 @@
 <e meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">лангс</l>
+     <l pos="Po">лангс</l>
      <etymology>
      </etymology>
      <stg>
@@ -1327,7 +1327,7 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">лангс</l>
+     <l pos="Po">лангс</l>
      <etymology>
      </etymology>
      <stg>
@@ -1400,7 +1400,7 @@
 <e meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">лангса</l>
+     <l pos="Po">лангса</l>
      <etymology>
      </etymology>
      <stg>
@@ -1430,7 +1430,7 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">лангса</l>
+     <l pos="Po">лангса</l>
      <etymology>
      </etymology>
      <stg>
@@ -1488,7 +1488,7 @@
    <lg>
      <l pos="Po">лангста</l>
      <stg>
-       <st Contlex="PO-ELA_">лангст%{АО%}</st>
+       <st Contlex="PO_ELA">лангст%{АО%}</st>
      </stg> <phonet>laŋksta</phonet>
    </lg>
      <sources>
@@ -1638,7 +1638,7 @@
 <e meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">маласа</l>
+     <l pos="Po">маласа</l>
      <etymology>
      </etymology>
      <stg>
@@ -1659,7 +1659,7 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">маласа</l>
+     <l pos="Po">маласа</l>
      <etymology>
      </etymology>
      <stg>
@@ -1699,7 +1699,7 @@
    <lg>
      <l pos="Po">маласта</l>
      <stg>
-       <st Contlex="PO-ELA_">маласт%{АО%}</st>
+       <st Contlex="PO_ELA">маласт%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -2035,7 +2035,7 @@
    <lg>
      <l pos="Po">потмоста</l>
      <stg>
-       <st Contlex="PO-ELA_">потмост%{АО%}</st>
+       <st Contlex="PO_ELA">потмост%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -2126,7 +2126,7 @@
    <lg>
      <l pos="Po">пряста</l>
      <stg>
-       <st Contlex="PO-ELA_">пряст%{АО%}</st>
+       <st Contlex="PO_ELA">пряст%{АО%}</st>
      </stg> <phonet>pŕasta</phonet>
    </lg>
      <sources>
@@ -2756,11 +2756,11 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">ширеста</l>
+     <l pos="Po">ширеста</l>
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="PO-ELA_">ширест%{АО%}</st>
+       <st Contlex="PO_ELA">ширест%{АО%}</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -2778,7 +2778,7 @@
    <lg>
      <l pos="Po">ширеста</l>
      <stg>
-       <st Contlex="PO-ELA_">ширест%{АО%}</st>
+       <st Contlex="PO_ELA">ширест%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -2860,7 +2860,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзган</l>
+     <l pos="Po">эзган</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG1">эзган</st>
      </stg> <phonet>ezgan</phonet>
@@ -2878,7 +2878,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзганза</l>
+     <l pos="Po">эзганза</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG3">эзганза</st>
      </stg> <phonet>ezganzə</phonet>
@@ -2896,7 +2896,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзганк</l>
+     <l pos="Po">эзганк</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL1">эзганк</st>
      </stg> <phonet>ezgank</phonet>
@@ -2914,7 +2914,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзгант</l>
+     <l pos="Po">эзгант</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL2">эзгант</st>
      </stg> <phonet>ezgant</phonet>
@@ -2932,7 +2932,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзгаст</l>
+     <l pos="Po">эзгаст</l>
      <stg>
        <st Contlex="ADV-PRL-PXPL3">эзгаст</st>
      </stg> <phonet>ezgast</phonet>
@@ -2950,7 +2950,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзгат</l>
+     <l pos="Po">эзгат</l>
      <stg>
        <st Contlex="ADV-PRL-PXSG2">эзгат</st>
      </stg> <phonet>ezgat</phonet>
@@ -3011,7 +3011,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эздон</l>
+     <l pos="Po">эздон</l>
      <stg>
        <st Contlex="ADV-ABL-PXSG1">эздон</st>
      </stg> <phonet>ezdən</phonet>
@@ -3029,7 +3029,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эздонк</l>
+     <l pos="Po">эздонк</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL1">эздонк</st>
      </stg> <phonet>ezdənk</phonet>
@@ -3047,7 +3047,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эздонт</l>
+     <l pos="Po">эздонт</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL2">эздонт</st>
      </stg> <phonet>ezdənt</phonet>
@@ -3065,7 +3065,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эздост</l>
+     <l pos="Po">эздост</l>
      <stg>
        <st Contlex="ADV-ABL-PXPL3">эздост</st>
      </stg> <phonet>ezdəst</phonet>
@@ -3084,7 +3084,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эздот</l>
+     <l pos="Po">эздот</l>
      <stg>
        <st Contlex="ADV-ABL-PXSG2">эздот</st>
      </stg> <phonet>ezdət</phonet>
@@ -3125,7 +3125,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзон</l>
+     <l pos="Po">эзон</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG1">эзон</st>
      </stg> <phonet>ezən</phonet>
@@ -3146,7 +3146,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзонза</l>
+     <l pos="Po">эзонза</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG3">эзонза</st>
      </stg> <phonet>ezənzə</phonet>
@@ -3165,7 +3165,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзонк</l>
+     <l pos="Po">эзонк</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL1">эзонк</st>
      </stg> <phonet>ezənk</phonet>
@@ -3186,7 +3186,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзонт</l>
+     <l pos="Po">эзонт</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL2">эзонт</st>
      </stg> <phonet>ezənt</phonet>
@@ -3207,7 +3207,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзост</l>
+     <l pos="Po">эзост</l>
      <stg>
        <st Contlex="ADV-ILL-PXPL3">эзост</st>
      </stg> <phonet>ezəst</phonet>
@@ -3229,7 +3229,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эзот</l>
+     <l pos="Po">эзот</l>
      <stg>
        <st Contlex="ADV-ILL-PXSG2">эзот</st>
      </stg> <phonet>ezət</phonet>
@@ -3288,7 +3288,7 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">эса</l>
+     <l pos="Po">эса</l>
      <etymology>
      </etymology>
      <stg>
@@ -3344,7 +3344,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсон</l>
+     <l pos="Po">эсон</l>
      <stg>
        <st Contlex="ADV-INE-PXSG1">эсон</st>
      </stg> <phonet>esən</phonet>
@@ -3365,7 +3365,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсонза</l>
+     <l pos="Po">эсонза</l>
      <stg>
        <st Contlex="ADV-INE-PXSG3">эсонза</st>
      </stg> <phonet>esənzə</phonet>
@@ -3389,7 +3389,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсонк</l>
+     <l pos="Po">эсонк</l>
      <stg>
        <st Contlex="ADV-INE-PXPL1">эсонк</st>
      </stg> <phonet>esənk</phonet>
@@ -3410,7 +3410,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсонт</l>
+     <l pos="Po">эсонт</l>
      <stg>
        <st Contlex="ADV-INE-PXPL2">эсонт</st>
      </stg> <phonet>esənt</phonet>
@@ -3431,7 +3431,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсост</l>
+     <l pos="Po">эсост</l>
      <stg>
        <st Contlex="ADV-INE-PXPL3">эсост</st>
      </stg> <phonet>esəst</phonet>
@@ -3453,7 +3453,7 @@
 </e>
 <e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="Adp">эсот</l>
+     <l pos="Po">эсот</l>
      <stg>
        <st Contlex="ADV-INE-PXSG2">эсот</st>
      </stg> <phonet>esət</phonet>
@@ -3540,7 +3540,7 @@
    <lg>
      <l pos="Po">эшксста</l>
      <stg>
-       <st Contlex="PO-ELA_">эшксст%{АО%}</st>
+       <st Contlex="PO_ELA">эшксст%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -3603,7 +3603,7 @@
    <lg>
      <l pos="Po">ёжеста</l>
      <stg>
-       <st Contlex="PO-ELA_">ёжест%{АО%}</st>
+       <st Contlex="PO_ELA">ёжест%{АО%}</st>
      </stg> <phonet>jožəsta</phonet>
    </lg>
      <sources>
@@ -3737,11 +3737,11 @@
 <e exclude="fst" meta="" id="None">
    <map/>
    <lg>
-     <l pos="Adp">ёткста</l>
+     <l pos="Po">ёткста</l>
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="PO-ELA_">ёткст%{АО%}</st>
+       <st Contlex="PO_ELA">ёткст%{АО%}</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -3760,7 +3760,7 @@
    <lg>
      <l pos="Po">ёткста</l>
      <stg>
-       <st Contlex="PO-ELA_">ёткст%{АО%}</st>
+       <st Contlex="PO_ELA">ёткст%{АО%}</st>
      </stg>
    </lg>
      <sources>

@@ -8,117 +8,117 @@
 !!!!!!!!!!!
 
 LEXICON ADPOSITION-TYPES
-инголе+Adp+Loc:инголе ADP-WITH-PX-OR-NOT ;
-инголи+Adp+Lat:инголи ADP-WITH-PX-OR-NOT ;
-ингольде+Adp+Abl:ингольде ADP-WITH-PX-OR-NOT ;
-ингольге+Adp+Prl:ингольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+инголе+Po+Loc:инголе ADP_WITH_PX_OR_NOT ;
+инголи+Po+Lat:инголи ADP_WITH_PX_OR_NOT ;
+ингольде+Po+Abl:ингольде ADP_WITH_PX_OR_NOT ;
+ингольге+Po+Prl:ингольг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
-кудонголе+Adp+Loc:кудонголе ADP-WITH-PX-OR-NOT ;
-кудонголи+Adp+Lat:кудонголи ADP-WITH-PX-OR-NOT ;
-кудонгольде+Adp+Abl:кудонгольде ADP-WITH-PX-OR-NOT ;
-кудонгольге+Adp+Prl:кудонгольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+кудонголе+Po+Loc:кудонголе ADP_WITH_PX_OR_NOT ;
+кудонголи+Po+Lat:кудонголи ADP_WITH_PX_OR_NOT ;
+кудонгольде+Po+Abl:кудонгольде ADP_WITH_PX_OR_NOT ;
+кудонгольге+Po+Prl:кудонгольг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
-сельминголе+Adp+Loc:сельминголе ADP-WITH-PX-OR-NOT ;
-сельминголи+Adp+Lat:сельминголи ADP-WITH-PX-OR-NOT ;
-сельмингольде+Adp+Abl:сельмингольде ADP-WITH-PX-OR-NOT ;
-сельмингольге+Adp+Prl:сельмингольг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+сельминголе+Po+Loc:сельминголе ADP_WITH_PX_OR_NOT ;
+сельминголи+Po+Lat:сельминголи ADP_WITH_PX_OR_NOT ;
+сельмингольде+Po+Abl:сельмингольде ADP_WITH_PX_OR_NOT ;
+сельмингольге+Po+Prl:сельмингольг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
 
-инкса+Adp+Cau:инкс%{АО%} ADP-WITH-PX-OR-NOT ;
-квалма+v1+Adp:къвалма ADP-WITH-PX-OR-NOT ;
-квалма+v2+Adp:кувалма ADP-WITH-PX-OR-NOT ;
-квалма+v3+Adp:къвалмова ADP-WITH-PX-OR-NOT ;
-колга+Adp:колга ADP-WITH-PX-OR-NOT ;
-вельде+Adp:вельде ADP-WITH-PX-OR-NOT ;
-лаца+Adp+Ine:лац%{АО%} ADP-WITH-PX-OR-NOT ;
-мархта+Adp:мархт%{АО%} ADP-WITH-PX-OR-NOT ;
-перьфке+Adp:перьфк%{АЕ%} ADP-WITH-PX-OR-NOT ;
-ваксста+Adp+Ela:ваксст%{АО%} ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
-ваксс+Adp+Ill:ваксс ENDLEX ; !Prl, Ill, Ine, Ela,
-ваксс+Adp+Ill:ваксоз ADP-WITH-PX ; !Prl, Ill, Ine, Ela,
-ваксса+Adp+Ine:ваксс%{АО%} ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
-вакска+Adp+Prl:вакска ADP-WITH-PX-OR-NOT ; !Prl, Ill, Ine, Ela,
+инкса+Po+Cau:инкс%{АО%} ADP_WITH_PX_OR_NOT ;
+квалма+v1+Po:къвалма ADP_WITH_PX_OR_NOT ;
+квалма+v2+Po:кувалма ADP_WITH_PX_OR_NOT ;
+квалма+v3+Po:къвалмова ADP_WITH_PX_OR_NOT ;
+колга+Po:колга ADP_WITH_PX_OR_NOT ;
+вельде+Po:вельде ADP_WITH_PX_OR_NOT ;
+лаца+Po+Ine:лац%{АО%} ADP_WITH_PX_OR_NOT ;
+мархта+Po:мархт%{АО%} ADP_WITH_PX_OR_NOT ;
+перьфке+Po:перьфк%{АЕ%} ADP_WITH_PX_OR_NOT ;
+ваксста+Po+Ela:ваксст%{АО%} ADP_WITH_PX_OR_NOT ; !Prl, Ill, Ine, Ela,
+ваксс+Po+Ill:ваксс ENDLEX ; !Prl, Ill, Ine, Ela,
+ваксс+Po+Ill:ваксоз ADP-WITH-PX ; !Prl, Ill, Ine, Ela,
+ваксса+Po+Ine:ваксс%{АО%} ADP_WITH_PX_OR_NOT ; !Prl, Ill, Ine, Ela,
+вакска+Po+Prl:вакска ADP_WITH_PX_OR_NOT ; !Prl, Ill, Ine, Ela,
 
-тейста+Adp+Ela:тейст%{АО%} ADP-WITH-PX-OR-NOT ;
-тейс+Adp+Ill:тейс ENDLEX ;
-тейс+Adp+Ill:теез ADP-WITH-PX ;
-тейса+Adp+Ine:тейс%{АО%} ADP-WITH-PX-OR-NOT ;
-тейге+Adp+Prl:тейг%{ЕА%} ADP-WITH-PX-OR-NOT ;
-пяле+Adp+Loc:пяле ADP-WITH-PX-OR-NOT ;
-пяли+Adp+Lat:пяли K ;
-пяльде+Adp+Abl:пяльде ADP-WITH-PX-OR-NOT ;
-пяльге+Adp+Prl:пяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+тейста+Po+Ela:тейст%{АО%} ADP_WITH_PX_OR_NOT ;
+тейс+Po+Ill:тейс ENDLEX ;
+тейс+Po+Ill:теез ADP-WITH-PX ;
+тейса+Po+Ine:тейс%{АО%} ADP_WITH_PX_OR_NOT ;
+тейге+Po+Prl:тейг%{ЕА%} ADP_WITH_PX_OR_NOT ;
+пяле+Po+Loc:пяле ADP_WITH_PX_OR_NOT ;
+пяли+Po+Lat:пяли K ;
+пяльде+Po+Abl:пяльде ADP_WITH_PX_OR_NOT ;
+пяльге+Po+Prl:пяльг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
-перфпяле+Adp+Loc:перфпяле ADP-WITH-PX-OR-NOT ;
-перфпяли+Adp+Lat:перфпяли K ;
-перфпяльде+Adp+Abl:перфпяльде ADP-WITH-PX-OR-NOT ;
-перфпяльге+Adp+Prl:перфпяльг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+перфпяле+Po+Loc:перфпяле ADP_WITH_PX_OR_NOT ;
+перфпяли+Po+Lat:перфпяли K ;
+перфпяльде+Po+Abl:перфпяльде ADP_WITH_PX_OR_NOT ;
+перфпяльге+Po+Prl:перфпяльг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
-шире+Adp+Loc:шире ADP-WITH-PX-OR-NOT ;
-шири+Adp+Lat:шири K ;
-ширде+Adp+Abl:ширде ADP-WITH-PX-OR-NOT ;
-ширьге+Adp+Prl:ширьг%{АЕ%} ADP-WITH-PX-OR-NOT ;
+шире+Po+Loc:шире ADP_WITH_PX_OR_NOT ;
+шири+Po+Lat:шири K ;
+ширде+Po+Abl:ширде ADP_WITH_PX_OR_NOT ;
+ширьге+Po+Prl:ширьг%{АЕ%} ADP_WITH_PX_OR_NOT ;
 
-томбале+Adp+Loc:томбале ADP-WITH-PX-OR-NOT ;
-томбали+Adp+Lat:томбали K ;
-томбальде+Adp+Abl:томбальде ADP-WITH-PX-OR-NOT ;
-томбальге+Adp+Prl:томбальг%{АЕ%} ADP-WITH-PX-OR-NOT ;
-ланга+Adp+Prl:ланга ADP-WITH-PX-OR-NOT ;
+томбале+Po+Loc:томбале ADP_WITH_PX_OR_NOT ;
+томбали+Po+Lat:томбали K ;
+томбальде+Po+Abl:томбальде ADP_WITH_PX_OR_NOT ;
+томбальге+Po+Prl:томбальг%{АЕ%} ADP_WITH_PX_OR_NOT ;
+ланга+Po+Prl:ланга ADP_WITH_PX_OR_NOT ;
 
-ала+Adp+Loc:ал%{АО%} ADP-WITH-PX-OR-NOT ;
-алу+Adp+Lat:алу K ;
-алда+Adp+Abl:алд%{АО%} ADP-WITH-PX-OR-NOT ;
-алга+Adp+Prl:алга ADP-WITH-PX-OR-NOT ;
+ала+Po+Loc:ал%{АО%} ADP_WITH_PX_OR_NOT ;
+алу+Po+Lat:алу K ;
+алда+Po+Abl:алд%{АО%} ADP_WITH_PX_OR_NOT ;
+алга+Po+Prl:алга ADP_WITH_PX_OR_NOT ;
 
-сельмала+Adp+Loc:сельмал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмалу+Adp+Lat:сельмалу K ;
-сельмалда+Adp+Abl:сельмалд%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмалга+Adp+Prl:сельмалга ADP-WITH-PX-OR-NOT ;
+сельмала+Po+Loc:сельмал%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмалу+Po+Lat:сельмалу K ;
+сельмалда+Po+Abl:сельмалд%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмалга+Po+Prl:сельмалга ADP_WITH_PX_OR_NOT ;
 
-пильгала+Adp+Loc:пильгал%{АО%} ADP-WITH-PX-OR-NOT ;
-пильгалу+Adp+Lat:пильгалу K ;
-пильгалда+Adp+Abl:пильгалд%{АО%} ADP-WITH-PX-OR-NOT ;
-пильгалга+Adp+Prl:пильгалга ADP-WITH-PX-OR-NOT ;
+пильгала+Po+Loc:пильгал%{АО%} ADP_WITH_PX_OR_NOT ;
+пильгалу+Po+Lat:пильгалу K ;
+пильгалда+Po+Abl:пильгалд%{АО%} ADP_WITH_PX_OR_NOT ;
+пильгалга+Po+Prl:пильгалга ADP_WITH_PX_OR_NOT ;
 
-сельмокунала+Adp+Loc:сельмокунал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмокуналу+Adp+Lat:сельмокуналу K ;
-сельмокуналда+Adp+Abl:сельмокуналд%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмокуналга+Adp+Prl:сельмокуналга ADP-WITH-PX-OR-NOT ;
+сельмокунала+Po+Loc:сельмокунал%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмокуналу+Po+Lat:сельмокуналу K ;
+сельмокуналда+Po+Abl:сельмокуналд%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмокуналга+Po+Prl:сельмокуналга ADP_WITH_PX_OR_NOT ;
 
-кядяла+Adp+Loc:кядял%{АО%} ADP-WITH-PX-OR-NOT ;
-кядялу+Adp+Lat:кядялу K ;
-кядялда+Adp+Abl:кядялд%{АО%} ADP-WITH-PX-OR-NOT ;
-кядялга+Adp+Prl:кядялга ADP-WITH-PX-OR-NOT ;
+кядяла+Po+Loc:кядял%{АО%} ADP_WITH_PX_OR_NOT ;
+кядялу+Po+Lat:кядялу K ;
+кядялда+Po+Abl:кядялд%{АО%} ADP_WITH_PX_OR_NOT ;
+кядялга+Po+Prl:кядялга ADP_WITH_PX_OR_NOT ;
 
-фтала+Adp+Loc:фтал%{АО%} ADP-WITH-PX-OR-NOT ;
-фталу+Adp+Lat:фталу K ;
-фталда+Adp+Abl:фталд%{АО%} ADP-WITH-PX-OR-NOT ;
-фталга+Adp+Prl:фталга ADP-WITH-PX-OR-NOT ;
+фтала+Po+Loc:фтал%{АО%} ADP_WITH_PX_OR_NOT ;
+фталу+Po+Lat:фталу K ;
+фталда+Po+Abl:фталд%{АО%} ADP_WITH_PX_OR_NOT ;
+фталга+Po+Prl:фталга ADP_WITH_PX_OR_NOT ;
 
-сельмофтала+Adp+Loc:сельмофтал%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмофталу+Adp+Lat:сельмофталу K ;
-сельмофталда+Adp+Abl:сельмофталд%{АО%} ADP-WITH-PX-OR-NOT ;
-сельмофталга+Adp+Prl:сельмофталга ADP-WITH-PX-OR-NOT ;
+сельмофтала+Po+Loc:сельмофтал%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмофталу+Po+Lat:сельмофталу K ;
+сельмофталда+Po+Abl:сельмофталд%{АО%} ADP_WITH_PX_OR_NOT ;
+сельмофталга+Po+Prl:сельмофталга ADP_WITH_PX_OR_NOT ;
 
-эзга+Adp+Prl:эзга ADP-WITH-PX-OR-NOT ;
-эзда+Adp+Abl:эзд%{АО%} ADP-WITH-PX-OR-NOT ;
-эса+Adp+Ine:эс%{АО%} ADP-WITH-PX-OR-NOT ;
-эста+Adp+Ela:эст%{АО%} ADP-WITH-PX-OR-NOT ;
-эс+Adp+Ill:эс ENDLEX ;
-эс+Adp+Ill:эз ADP-WITH-PX ;
+эзга+Po+Prl:эзга ADP_WITH_PX_OR_NOT ;
+эзда+Po+Abl:эзд%{АО%} ADP_WITH_PX_OR_NOT ;
+эса+Po+Ine:эс%{АО%} ADP_WITH_PX_OR_NOT ;
+эста+Po+Ela:эст%{АО%} ADP_WITH_PX_OR_NOT ;
+эс+Po+Ill:эс ENDLEX ;
+эс+Po+Ill:эз ADP-WITH-PX ;
 
-видева+Adp:видева ADP-WITH-PX-OR-NOT ;
-келева+Adp:келева ADP-WITH-PX-OR-NOT ;
-корява+Adp:корява ADP-WITH-PX-OR-NOT ;
-коряс+Adp:коря PO-ILL_ ;
-пачка+Adp:пачка ADP-WITH-PX-OR-NOT ;
+видева+Po:видева ADP_WITH_PX_OR_NOT ;
+келева+Po:келева ADP_WITH_PX_OR_NOT ;
+корява+Po:корява ADP_WITH_PX_OR_NOT ;
+коряс+Po:коря PO-ILL_ ;
+пачка+Po:пачка ADP_WITH_PX_OR_NOT ;
 
 !кядьса
 вельфке+N+Relator:вельфк%{АЕ%} N_PULA ;
 
 
 
-LEXICON ADP-WITH-PX-OR-NOT
+LEXICON ADP_WITH_PX_OR_NOT
  K ;
  ADP-WITH-PX ;
 LEXICON ADP-WITH-PX
@@ -127,7 +127,7 @@ LEXICON ADP-WITH-PX
  OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 !%>т, %>ст
 
-!PO-ABL_ PO-DAT-DEF_ PO-ELA_ PO-INE_ PO-LAT_ PO-LOC_ PO-PRL_ PO-PRL_ЁНГА PO_КВАЛМА
+!PO-ABL_ PO-DAT-DEF_ PO_ELA PO-INE_ PO-LAT_ PO-LOC_ PO-PRL_ PO-PRL_ЁНГА PO_КВАЛМА
 ! ============ !
 ! Postp lexica !
 ! ============ !
@@ -154,7 +154,7 @@ LEXICON PO-INE_
 !+Abl: K_вок ;
 !LEXICON PO-DAT-DEF_
 !+Dat+Def: K_вок ;
-!LEXICON PO-ELA_
+!LEXICON PO_ELA
 !+Ela: K_вок ;
 LEXICON PO-ILL_ ! коряс:коря 
 +Ill:%>с K_вок ;
