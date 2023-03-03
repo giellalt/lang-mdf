@@ -11,8 +11,17 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 Россия+N+Prop:Россия PROP-PLC_AVA "(eng) /(fin) /(rus) " ;
 Фамарь+N+Prop:Фамарь PROP_KAL ;
 Руфь+N+Prop:Руфь PROP_KAL ;
+Мотя+N+Prop:Мотя PROP_AVA ;
+Серёга+N+Prop:Серёга  PROP_AVA ;
+Кусака+N+Prop:Кусака PROP_AVA ;
+Герасимовка+N+Prop:Герасимовка PROP_AVA ;
+Тавда+N+Prop:Тавда PROP_AVA ;
+Чубарь+N+Prop:Чубарь PROP_KIAL1 ;
+Шитраков+N+Prop:Шитраков PROP_KAL ;
+Данила+N+Prop:Данила PROP_AVA ;
+Павка+N+Prop:Павка PROP_AVA ;
 
-Алатырь+N+Prop:Алатырь PROP-PLC_KAL "" ;
+Алатырь+N+Prop:Алатырь PROP-PLC_KIAL1 "" ;
 Андреевка+N+Prop:Андреевка PROP-PLC_AVA "" ;
 Сибирь+N+Prop:Сибирь PROP-PLC_KAL ;
 Волга+N+Prop:Волга PROP-PLC_AVA "" ;
