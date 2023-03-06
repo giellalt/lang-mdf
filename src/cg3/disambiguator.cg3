@@ -388,8 +388,13 @@ SUBSTITUTE (Hom2) (*) TARGET (*) ;
 SUBSTITUTE (Hom3) (*) TARGET (*) ;
 SUBSTITUTE (Hom4) (*) TARGET (*) ;
 #
+SUBSTITUTE (Sem/Hum) (*) TARGET (*) ;
+SUBSTITUTE (Sem/Kin) (*) TARGET (*) ;
+SUBSTITUTE (Sem/Sur) (*) TARGET (*) ;
+SUBSTITUTE (Sem/Mal-Sur) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Mal) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
+SUBSTITUTE (Sem/Plc) (*) TARGET (*) ;
 #
 #SUBSTITUTE (TV) (*) TARGET (*) ;
 #SUBSTITUTE (IV) (*) TARGET (*) ;
