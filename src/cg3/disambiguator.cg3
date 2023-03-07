@@ -269,13 +269,13 @@ LIST OcPl1 = OcPl1 ;
 LIST OcPl2 = OcPl2 ;
 LIST OcPl3 = OcPl3 ;
 
-LIST Sg1 = Sg1 ;
-LIST Sg2 = Sg2 ;
-LIST Sg3 = Sg3 ;
+LIST Sg1 = Sg1 (p1 sg) ;
+LIST Sg2 = Sg2 (p2 sg) ;
+LIST Sg3 = Sg3 (p3 sg) ;
 
-LIST Pl1 = Pl1 ;
-LIST Pl2 = Pl2 ;
-LIST Pl3 = Pl3 ;
+LIST Pl1 = Pl1 (p1 pl) ;
+LIST Pl2 = Pl2 (p2 pl) ;
+LIST Pl3 = Pl3 (p3 pl) ;
 
 LIST Inf = Inf ;
 LIST ConNeg = ConNeg ;
