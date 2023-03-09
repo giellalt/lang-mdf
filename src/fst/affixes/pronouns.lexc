@@ -432,9 +432,9 @@ LEXICON PRON-INTERR_MEZE-K
 +SP+Tra:%>зекс K ;
 +SP+Tra:%>зькс K ;
 
-+Der/Dimin+SP+Abl:зняда K ;
-+Der/Dimin+Pl+Nom:знят K ;
-+Der/Dimin+Sg+Nom+PxSg3:зняц K ;
++Der+Der/Dimin+SP+Abl:зняда K ;
++Der+Der/Dimin+Pl+Nom:знят K ;
++Der+Der/Dimin+Sg+Nom+PxSg3:зняц K ;
 
 
 !! INDEFINITE PRONOUNS
@@ -715,9 +715,9 @@ LEXICON PRON-INDEF_MEZE-BDI/POVSJ
 +SP+Tra:%>зекс INDEF-ENDS-HERE ;
 +SP+Tra:%>зькс INDEF-ENDS-HERE ;
 
-+Der/Dimin+SP+Abl:зняда INDEF-ENDS-HERE ;
-+Der/Dimin+Pl+Nom:знят INDEF-ENDS-HERE ;
-+Der/Dimin+Sg+Nom+PxSg3:зняц INDEF-ENDS-HERE ;
++Der+Der/Dimin++SP+Abl:зняда INDEF-ENDS-HERE ;
++Der+Der/Dimin+Pl+Nom:знят INDEF-ENDS-HERE ;
++Der+Der/Dimin+Sg+Nom+PxSg3:зняц INDEF-ENDS-HERE ;
 
 
 LEXICON PRON-INDEF_MEZEVOK

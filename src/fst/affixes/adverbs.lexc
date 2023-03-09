@@ -58,29 +58,29 @@ LEXICON ADV_АШЕЛЬ !! ашель:ашель
 
 LEXICON ADV-ABL_ ! алда:алд%{АО%}
 +Abl: K_вок ;
-+Abl+Der/Dimin:%>ня K_вок ;
++Abl+Der+Der/Dimin:%>ня K_вок ;
 +Abl: DER/COP_OR_DER-POSS_NNE ;
 LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 !?ста %^А2О %> ...
 +Ela: K_вок ;
-+Ela+Der/Dimin:%>ня K_вок ;
++Ela+Der+Der/Dimin:%>ня K_вок ;
 +Ela: DER/COP_OR_DER-POSS_NNE ;
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
 LEXICON ADV_INE ! лангса:лангс%{АО%}
 +Ine: K_вок ;
-+Ine+Der/Dimin:%>ня K_вок ;
++Ine+Der+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
 LEXICON ADV_LAT_ ! алга:алу
 +Lat: K_вок ;
 LEXICON ADV_LOC_
 +Loc: K ;
-+Loc+Der/Dimin:%>ня K ;
++Loc+Der+Der/Dimin:%>ня K ;
 +Loc: DER/COP_OR_DER-POSS_NNE ;
 
 LEXICON ADV-PRL_ ! алга:алга
 +Prl: K_вок ;
-+Prl+Der/Dimin:%>ня K_вок ;
++Prl+Der+Der/Dimin:%>ня K_вок ;
 +Prl: DER/COP_OR_DER-POSS_NNE ;
 
 LEXICON DER/COP_OR_DER-POSS_NNE
