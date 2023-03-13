@@ -334,7 +334,7 @@ LEXICON INTERR
 @U.INDEF.KATI@мезе+Pron:@U.INDEF.KATI@ме PRON-INDEF_MEZE-BDI/POVSJ ;
 @U.INDEF.KATI@кодама+Det:@U.INDEF.KATI@кодам%{АОØ%} N_PINGE ;
 
-мезе+Pron+SP+Prl+Indef:ме PRON-INTERR_MEZE-K ;
+мезе+Pron:ме PRON-INTERR_MEZE-K ;
 !мезьса% аф% мезьса+Pron:мезьса% аф% мезьса PRON_  "" ;
 мейя+Pron:мейя PRON_  "" ;
 мес+Adv+Ill:мес ENDLEX  "miksi" ;
@@ -376,8 +376,8 @@ LEXICON PRON-INTERR_KI-K
 
 
 LEXICON PRON-INTERR_MEZE-K
-+Sg+Nom:зе K ;
-+Sg+Nom:зь K ;
++Sg+Nom+Indef:зе K ;
++Use/NG+Sg+Nom+Indef:зь K ;
 +Sg+Nom+Def:зсь K ;
 +Sg+Nom+PxSg1:зезе K ;
 +Sg+Nom+PxSg2:зце K ;
@@ -385,14 +385,14 @@ LEXICON PRON-INTERR_MEZE-K
 +SP+Nom+PxPl1:зеньке K ;
 +SP+Nom+PxPl2:зенть K ;
 +SP+Nom+PxPl3:зьсн%{АО%} K ;
-+Pl+Nom:сть K ;
++Pl+Nom+Indef:сть K ;
 +Pl+Nom+Def:стне K ;
 +Pl+Nom+PxSg1:зне K ;
 +Pl+Nom+PxSg2:стне K ;
 +Pl+Nom+PxSg3:зенз%{АО%} K ;
 
 +Sg+Gen+Def:зть K ;
-+SP+Gen:%>зень K ;
++SP+Gen+Indef:%>зень K ;
 +Sg+Gen+PxSg1:зезень K ;
 +Sg+Gen+PxSg2:зцень K ;
 +Sg+Gen+PxSg3:зенц K ;
@@ -405,7 +405,7 @@ LEXICON PRON-INTERR_MEZE-K
 +Pl+Gen+PxSg3:зензон K ;
 
 +Sg+Dat+Def:зти K/DAT-ARAM ;
-+SP+Dat:%>зенди K/DAT-ARAM ;
++SP+Dat+Indef:%>зенди K/DAT-ARAM ;
 +Sg+Dat+PxSg1:зезти K/DAT-ARAM ;
 +Sg+Dat+PxSg1:зезенди K/DAT-ARAM ;
 +Sg+Dat+PxSg2:зцти K/DAT-ARAM ;
@@ -418,22 +418,22 @@ LEXICON PRON-INTERR_MEZE-K
 +Pl+Dat+PxSg2:стненди K/DAT-ARAM ;
 +Pl+Dat+PxSg3:зензонды K/DAT-ARAM ;
 
-+SP+Abe:%>зьфтома K ;
-+SP+Abl:зьда K ;
-+SP+Cau:зенкса K ;
-+SP+Cmpr:%>зешка K ;
-+SP+Ela:%>зеста K ;
-+SP+Ela:%>зьста K ;
-+SP+Ill:зьс K ;
-+SP+Ill:%>зес K ;
-+SP+Ine:%>зеса K ;
-+SP+Ine:зьса K ;
-+SP+Prl:%>зева K ;
-+SP+Tra:%>зекс K ;
-+SP+Tra:%>зькс K ;
++SP+Abe+Indef:%>зьфтома K ;
++SP+Abl+Indef:зьда K ;
++SP+Cau+Indef:зенкса K ;
++SP+Cmpr+Indef:%>зешка K ;
++SP+Ela+Indef:%>зеста K ;
++Use/NG+SP+Ela+Indef:%>зьста K ;
++Use/NG+SP+Ill+Indef:зьс K ;
++SP+Ill+Indef:%>зес K ;
++SP+Ine+Indef:%>зеса K ;
++Use/NG+SP+Ine+Indef:зьса K ;
++SP+Prl+Indef:%>зева K ;
++Use/NG+SP+Tra+Indef:%>зекс K ; !2023_03_13 choose output
++SP+Tra+Indef:%>зькс K ;
 
-+Der+Der/Dimin+SP+Abl:зняда K ;
-+Der+Der/Dimin+Pl+Nom:знят K ;
++Der+Der/Dimin+SP+Abl+Indef:зняда K ;
++Der+Der/Dimin+Pl+Nom+Indef:знят K ;
 +Der+Der/Dimin+Sg+Nom+PxSg3:зняц K ;
 
 

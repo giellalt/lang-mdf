@@ -41,9 +41,6 @@ LEXICON ADV_STATE_
 K ;
 DER/COP ;
 
-LEXICON ADV-NEG_АЯШ !! Contrastive
-+Neg+Aux: ENDLEX ;
-
 LEXICON ADV-NEG_АШ
 +Neg+Aux: ENDLEX ;
 +Neg+Aux:ель ADV_АШЕЛЬ ;
