@@ -14,8 +14,6 @@ LEXICON ADV-MANNER_
 
 LEXICON ADV-TEMP_ 	 
 
-Contrastive
-
 ашель:ашель
 
 * * *

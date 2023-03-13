@@ -33,6 +33,9 @@ N ABBR not ABBR
 
 * Sets for Morphosyntactic properties
 
+negation marker for 
+fits between negation and conneg
+
 * @>ADVL : Modifier of an adverbial to the right.
 ** vaikko: doppe leat vaikko man ollu studeanttat.
 * @ADVL< : Complement of adverbial.
@@ -111,8 +114,6 @@ LEXICON ADV-MANNER_
 
 LEXICON ADV-TEMP_ 	 
 
-Contrastive
-
 ашель:ашель
 
 * * *
@@ -157,6 +158,8 @@ Interjections
 The MOKSHA language interjections
 
 INTERJECTIONS 
+
+Contrastive
 
 LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
 
@@ -914,8 +917,8 @@ Letters = Vows Cns ь ъ ;
 * *ащ0%>ан*
 
 **j:0 LEFT**  
-* *тий%>%{ЕОØ%}за*
-* *ти00еза*
+* *тий>{ЕОØ}за*
+* *ти0>еза*
 седи+N+Pl+Nom+Indef **heart/sydän**
 * *седий%>%{Х%}т%{ЬØ%}*
 * *седи0%>хть*
