@@ -1618,7 +1618,8 @@ LEXICON Prc-fks
 LEXICON Prc-I
 !+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
 +Act+PrsPrc:%>%{ИЫЙ%} K ;
-+Der+Der/NomAg+N:%>%{ИЫЙ%} N_ANDY ;
++Der+Der/NomAg+N:%>%{ИЫЙ%} NOM_AG ;
+
 +NomAg+Cmpr:%>%{ИЫЙ%}%>шка N_AVA ;
 +NomAg+Tra:%>%{ИЫЙ%}%>кс N_OSH ;
 +NomAg+Tra+Der+Der/Dimin:%>%{ИЫЙ%}%>кскя NMN_VAL1MIA ;
