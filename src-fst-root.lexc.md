@@ -351,6 +351,7 @@ possible to target derivations as a class e.g. in regular expressions etc
 * +Der/kshnO  verb2verb derivation
 * +Der/OkshnOms  verb2verb derivation
 * +Der/OvOms  verb2verb derivation
+* +Der/Ozevems  verb2verb derivation
 * +Der/OvkshnOms  verb2verb derivation
 * +Der/OvtOms  verb2verb derivation
 
