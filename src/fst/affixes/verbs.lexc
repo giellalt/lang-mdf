@@ -225,6 +225,7 @@ LEXICON V0_KUNDAMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
+V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_MUMS
 !!€gt-norm: MUMS
@@ -266,17 +267,19 @@ LEXICON V0_MUMS
 ! VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
-
+:%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ANDOMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
+V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_PACHKODEMS
  VERBAL-CONJUGATIONS-ALL ;
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
+V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_TIJEMS
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
@@ -306,6 +309,7 @@ LEXICON V0_TIJEMS
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
+:й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
@@ -334,16 +338,18 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 :й%>%{ЕОØ%} Non-Finite-Vws ;
 !:%>%{ЕОØ%} Non-Finite-Vws ;
  Non-Finite-Cns ;
-
+:й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 LEXICON V0_NJAFTEMS
  VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
+:%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ALYJAFTOMS
  VERBAL-CONJUGATIONS-ALL ;
 :%>%{ЕОØ%} Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
+:%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON Non-Finite-Vws
 +Inf:%>%{ЕОØ%}мс K ;
@@ -360,12 +366,25 @@ LEXICON Non-Finite-Vws
 +Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger:%>%{ЕОØ%}мок K ;
 +Ger+Cmpr:%>%{ЕОØ%}м%>шка N_AVA ;
+
+LEXICON V2V-DERIVATION-INITIAL-VOW_0
 @D.DERIV.2V@ V2V-DERIVATION-INITIAL-VOW ;
 
 LEXICON V2V-DERIVATION-INITIAL-VOW
 
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в IV_ANDOVOMS ;
-@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне V0_KUNDAMS ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в Non-Finite-Cns ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне Non-Finite-Cns ;
+
+@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне Non-Finite-Vws ;
+@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне Non-Finite-Cns ;
+@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев Non-Finite-Vws ;
+@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев Non-Finite-Cns ;
 !Mormula 2020-08-31
 
 LEXICON Non-Finite-Cns
@@ -1599,7 +1618,7 @@ LEXICON Prc-fks
 LEXICON Prc-I
 !+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
 +Act+PrsPrc:%>%{ИЫЙ%} K ;
-+NomAg:%>%{ИЫЙ%} N_ANDY ;
++Der+Der/NomAg+N:%>%{ИЫЙ%} N_ANDY ;
 +NomAg+Cmpr:%>%{ИЫЙ%}%>шка N_AVA ;
 +NomAg+Tra:%>%{ИЫЙ%}%>кс N_OSH ;
 +NomAg+Tra+Der+Der/Dimin:%>%{ИЫЙ%}%>кскя NMN_VAL1MIA ;
