@@ -928,6 +928,10 @@ Letters = Vows Cns ь ъ ;
 озондомс+V+NomAg+Pl+Nom+Def: **pray/rukoilla**
 * *озонд%>%{ИЫЙ%}й%>%{Х%}тне*
 * *озонд%>ы0%>х0не*
+* *тонафт>{ИЫЙ}й>{ЕОØ}нь*
+* *тонафт>ы0>ень*
+* ★*тонафт>{ИЫЙ}й>{ЕОØ}нь* (is not standard language)
+* ★*тонафт>ый>ень* (is not standard language)
 
 **j:0 RIGHT**  
 * *тий%>%{ЕОØ%}за*
