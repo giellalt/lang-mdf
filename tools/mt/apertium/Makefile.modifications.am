@@ -17,7 +17,7 @@ endif # WANT_APERTIUM
 
 # Specify the list of target languages and their corresponding
 # Apertium directory names in these two variables (replace und):
-APERTIUM_TARGET_LANGS=und
+APERTIUM_TARGET_LANGS=myv und
 APERTIUM_TARGET_LANG_NAME=apertium-und apertium-myv-mdf
 
 ##################################################################
@@ -28,7 +28,7 @@ CLEAN_FILES+=
 ##################################################################
 #### Specify CG3 source files, main and included ones:        ####
 ##################################################################
-APERTIUM_CG_SRC=disambiguation-mt-gt.cg3 semsets.cg3
+APERTIUM_CG_SRC=disambiguation-mt-gt.cg3 functions-mt-gt.cg3 semsets.cg3
 APERTIUM_CG_INCLUDE_SRC=
 
 ##################################################################
@@ -38,8 +38,10 @@ if HAVE_SHARED_SMI
 dependency-mt-gt.cg3: $(gt_SHARED_smi)/src/cg3/dependency.cg3
 	$(AM_V_CP)cp -f $< $@
 
-functions-mt-gt.cg3: $(gt_SHARED_smi)/src/cg3/functions.cg3
-	$(AM_V_CP)cp -f $< $@
+functions-mt-gt.cg3: $(top_srcdir)/src/cg3/functions.cg3
+	$(AM_V_GEN)cp -f $< $@
+#functions-mt-gt.cg3: $(gt_SHARED_smi)/src/cg3/functions.cg3
+#	$(AM_V_CP)cp -f $< $@
 else
 dependency-mt-gt.cg3: $(topsrcdir)/src/cg3/dependency.cg3
 	$(AM_V_GEN)cp -f $< $@
@@ -47,3 +49,6 @@ dependency-mt-gt.cg3: $(topsrcdir)/src/cg3/dependency.cg3
 functions-mt-gt.cg3: $(topsrcdir)/src/cg3/functions.cg3
 	$(AM_V_GEN)cp -f $< $@
 endif
+
+disambiguator-mt-gt.cg3: $(top_srcdir)/src/cg3/disambiguator.cg3 semsets.cg3
+	$(AM_V_GEN)grep -v '#RemoveFromApertium' < $< > $@

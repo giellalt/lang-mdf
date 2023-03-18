@@ -330,6 +330,11 @@ LIST <vdic> = <vdic> ;
 LIST MARXTA = "мархта" ;
 LIST ULEMA = "улема" ;
 LIST AUX = "эрявомс" ;
+
+LIST IndPrsSg3 = (Ind Prs ScSg3) ;
+LIST DerNomAgSgNomIndef = (Ex/V Der/NomAg N Sg Nom Indef) ;
+SET NNotNomAg = N - Der/NomAg;
+
 LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
 LIST NOLAT = "каль" "моль" ;
@@ -447,11 +452,17 @@ SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 HYPHEN) (-2 Prop + Pl + Nom + Indef
 
 SELECT Pcle IF (0 ULEMA) (-1 COMMA) (1 COMMA) ;
 
+# choose between Prs ScSg3 and participl
+REMOVE IndPrsSg3 OR NNotNomAg IF (0 DerNomAgSgNomIndef) (-1 (SP Gen Indef)) (1 N);
+       # салай: Вов и сась мялень салай илась – Масланцясь.
+       
 # Маря моли сяда малас
 REMOVE:NotAgIfOnlySg3 NomAg IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
 REMOVE:NotNIfOnlySg3 N IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
-REMOVE:NotAIfOnlySg3 A IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
-REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+REMOVE:NotAIfOnlySg3 A IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+#REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
+#REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (0* VFIN BARRIER CLB) ;
+SELECT:PrecedGenObjFollowN DerNomAgSgNomIndef IF (-1 (SP Gen Indef)) (1 N);
 
 REMOVE:VerbSg3NotNLat Lat IF (0 NOLAT ) (0 Ind + Prs + ScSg3) ;
 
