@@ -1617,7 +1617,7 @@ LEXICON Prc-fks
 
 LEXICON Prc-I
 !+Der/I+Act+PrsPrc:%>%{ИЫЙ%} K ;
-+Act+PrsPrc:%>%{ИЫЙ%} K ;
+!+Act+PrsPrc:%>%{ИЫЙ%} K ; 2023_03_18 the Der/NomAg does this
 +Der+Der/NomAg+N:%>%{ИЫЙ%} NOM_AG ;
 
 +NomAg+Cmpr:%>%{ИЫЙ%}%>шка N_AVA ;

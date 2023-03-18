@@ -112,7 +112,7 @@ LEXICON PRONOUN-TYPES
 фкя-фкянь+Pron:фкя-фкянь PRON_  "" ;
 эковай+Pron:эковай PRON_  "" ;
 
-эсь+Det:эсь PRON_  "oma" ;
+эсь+A+Sg+Nom+Indef:эсь ENDLEX  "oma" ; !!≈ * **@CODE@** seen in grammars as a pronoun base, but this does not occur as a pronoun.
 
 
 !end
