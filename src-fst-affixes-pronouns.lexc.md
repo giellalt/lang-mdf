@@ -5,6 +5,8 @@ nouns, but ...
 
 PRONOUNS 
 
+* **эсь+A+Sg+Nom+Indef:эсь ENDLEX "oma" ;** seen in grammars as a pronoun base, but this does not occur as a pronoun.
+
 * **LEXICON PERS** 
 * **мон+Pron+Pers+Sg1:мон PERS-SG1 ;** ...
 
