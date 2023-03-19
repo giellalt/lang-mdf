@@ -331,6 +331,9 @@ LIST MARXTA = "мархта" ;
 LIST ULEMA = "улема" ;
 LIST AUX = "эрявомс" ;
 
+LIST ASgNomIndef = (A Sg Nom Indef); #!! this is an adjective in nominative singular, adnominal attribute
+LIST NSgNomIndef = (N Sg Nom Indef); #!! 
+
 LIST IndPrsSg3 = (Ind Prs ScSg3) ;
 LIST DerNomAgSgNomIndef = (Ex/V Der/NomAg N Sg Nom Indef) ;
 SET NNotNomAg = N - Der/NomAg;
@@ -339,9 +342,26 @@ LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
 LIST NOLAT = "каль" "моль" ;
 
+LIST PJAK = "пяк" ; #!! this is a list of adverbs that modify adjectives
+  # they do not appear before nouns
+
+LIST PADJI = "пади" "улема" ; #!! Subjective adverbs, which are often set off by commas 
+  # пади:  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
+SET PADJI_INJECT = COMMA + PADJI + COMMA ;
+# , пади, : лётчикокска, пади, улелеть.
+
+LIST DATFORMS = (SP Dat) (Sg Dat) (Pl Dat) ;
+LIST TRAFORMS = (SP Tra) ;
+
 LIST WEIRDCOMP = "ки-яд"; # desired ки-ян
 
 LIST VERBTAKESkodaCCOMP = "арьсемс" "ваномс" "марямс" "няемс" "няендемс" "няфтемс" "няфтнемс" "содамс" "шарьхкодемс" ;#knows how
+
+LIST VERBWITHSUBJCOMP_DAT = "шачемс" ; #!!
+# Цёранянди:  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
+
+LIST VERBWITHSUBJCOMP_TRA = "улемс" ; #!!
+# лётчикокс:  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
 
 LIST CCOMPMARKERS = "кода" "мезе" "мес"; # V, koda
 
@@ -349,6 +369,7 @@ LIST NAMBPROP = "Ведь" "Вишня" "Водяной" "Воронко" "Ко�
 "Киз" ; # proper nouns that are very infrequent compared to common nouns
 
 LIST VAMBNOUNS = "вал" "вий" "дум" "кан" "канда" "каса" "кекше" "код" "коз" "кунда" "лов" "макса" "марь" "ниле" "панда" "пей" "пона" "ранг" "ром" "сал" "сод" "куль" "кон" "сай" "кула" "мор" "мора" "рама" "шув" ; #!!nouns highly unlikely to take Sg1 Sg2 Pl1 Pl2 copula
+
 
 LIST Err/Orth = Err/Orth ;
 LIST Err/Orth-lowered-final-e-2-ja = Err/Orth-lowered-final-e-2-ja ;
@@ -375,6 +396,7 @@ SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + 
 
 
 # Adjective sets
+
 
 # Nominal sets
 
@@ -418,6 +440,8 @@ REMOVE Der/Dimin ; # If any other reading is possible.
 #smi numerals cause problems in mdf 2022-05-14
 SELECT (A Arab Ord Attr);
  #7.
+
+
 #
 REMOVE:DisallowOvoms Der/OvOms ;
 SELECT:NingeNotNi ("нинге") ;
@@ -429,11 +453,15 @@ REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;
 REMOVE:NoCoughWhenVFIN ("козомс" V IV Prec ScSg2) IF (0* VFIN BARRIER CLB OR BOS OR EOS);
 	# Коста содат?
 
-# мон кодан
-REMOVE:NotVAmbNounsIFVerb Clt/Cop IF (0C ScSg1 OR ScSg2 OR ScPl1 OR ScPl2) (0 VAMBNOUNS) ;
+REMOVE:NotNWhenPrecededByPJAK N IF (0 ASgNomIndef) (-1 PJAK) ; 
+	# пяк лямбе
 
-# кой-кона валхнень азондозень
+
+REMOVE:NotVAmbNounsIFVerb Clt/Cop IF (0C ScSg1 OR ScSg2 OR ScPl1 OR ScPl2) (0 VAMBNOUNS) ;
+    # мон кодан
+
 REMOVE Der/Onj IF (NOT 1 N) ;
+    # кой-кона валхнень азондозень
 
 # Кизонь каникулатнень пингста...
 REMOVE Attr IF (0 A + Gen + Attr) (0 N + SP + Gen + Indef) ;
@@ -447,12 +475,19 @@ SELECT $$Case IF (1 CC LINK 1C $$Case) ;
 #Ваня марто Марят 
 SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 MARXTA) (-2 Prop + Sg + Nom + Indef) ;
 
-#Ванят-Марят 
+ #Ванят-Марят 
 SELECT Pl IF (0 Prop + Pl + Nom + Indef) (-1 HYPHEN) (-2 Prop + Pl + Nom + Indef) ;
 
 SELECT Pcle IF (0 ULEMA) (-1 COMMA) (1 COMMA) ;
 
-# choose between Prs ScSg3 and participl
+REMOVE N IF (0 VERBWITHSUBJCOMP_DAT) (0* DATFORMS BARRIER EOS OR BOS OR COMMA);
+#!! IS there a @CVP
+
+REMOVE ASgNomIndef OR NSgNomIndef IF (0 VERBWITHSUBJCOMP_TRA) (0* TRAFORMS BARRIER EOS OR BOS);
+#, PADJI ,
+#  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
+
+# choose between Prs ScSg3 and participle
 REMOVE IndPrsSg3 OR NNotNomAg IF (0 DerNomAgSgNomIndef) (-1 (SP Gen Indef)) (1 N);
        # салай: Вов и сась мялень салай илась – Масланцясь.
        
