@@ -328,11 +328,20 @@ LIST Use/NG = Use/NG ;
 LIST <vdic> = <vdic> ;
 
 LIST MARXTA = "мархта" ;
-LIST ULEMA = "улема" ;
 LIST AUX = "эрявомс" ;
 
-LIST ASgNomIndef = (A Sg Nom Indef); #!! this is an adjective in nominative singular, adnominal attribute
-LIST NSgNomIndef = (N Sg Nom Indef); #!! 
+LIST ULEMA = "улема" ;
+LIST PADJI = "пади" "улема" ; #!! Subjective adverbs, which are often set off by commas 
+  # пади:  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
+SET PADJI_INJECT = COMMA + PADJI + COMMA ;
+# , пади, : лётчикокска, пади, улелеть.
+
+LIST ASgNomIndef = (A Sg Nom Indef) ; #!! this is an adjective in nominative singular, adnominal attribute
+LIST NSgNomIndef = (N Sg Nom Indef) ; #!!
+SET ASgNomIndef_NOCOP = (A Sg Nom Indef) - Clt/Cop; #!! this is an adjective in nominative singular,
+ #adnominal attribute
+SET NSgNomIndef_NOCOP = (N Sg Nom Indef) - Clt/Cop ; #!! 
+
 
 LIST IndPrsSg3 = (Ind Prs ScSg3) ;
 LIST DerNomAgSgNomIndef = (Ex/V Der/NomAg N Sg Nom Indef) ;
@@ -345,10 +354,6 @@ LIST NOLAT = "каль" "моль" ;
 LIST PJAK = "пяк" ; #!! this is a list of adverbs that modify adjectives
   # they do not appear before nouns
 
-LIST PADJI = "пади" "улема" ; #!! Subjective adverbs, which are often set off by commas 
-  # пади:  ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
-SET PADJI_INJECT = COMMA + PADJI + COMMA ;
-# , пади, : лётчикокска, пади, улелеть.
 
 LIST DATFORMS = (SP Dat) (Sg Dat) (Pl Dat) ;
 LIST TRAFORMS = (SP Tra) ;
@@ -453,7 +458,7 @@ REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;
 REMOVE:NoCoughWhenVFIN ("козомс" V IV Prec ScSg2) IF (0* VFIN BARRIER CLB OR BOS OR EOS);
 	# Коста содат?
 
-REMOVE:NotNWhenPrecededByPJAK N IF (0 ASgNomIndef) (-1 PJAK) ; 
+REMOVE:NotNWhenPrecededByPJAK NSgNomIndef_NOCOP IF (0 ASgNomIndef) (-1 PJAK) ; 
 	# пяк лямбе
 
 
