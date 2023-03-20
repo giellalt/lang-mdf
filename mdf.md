@@ -22,11 +22,12 @@ Upper and lower case
 
 * Sets for Derivation
 
+Subjective adverbs, which are often set off by commas 
+
 this is an adjective in nominative singular, adnominal attribute
+this is an adjective in nominative singular,
 
 this is a list of adverbs that modify adjectives
-
-Subjective adverbs, which are often set off by commas 
 
 N ABBR not ABBR
 
