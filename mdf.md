@@ -782,9 +782,12 @@ Letters = Vows Cns ь ъ ;
 офта+N+Sg+Nom+Def **bear/ohto, karhu**
 * *офт%{АОØ%}%^RmVow%>сь*
 * *офт00%>сь*
-кодама+Pron+Interr+Pl+Nom+Indef:
-* *кодам%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
-* *кодап00%>0т0*
+кодама+A+Pl+Nom+Indef:
+* *кодам{АОØ}^RmVow>{Х}т{ЬØ}*
+* *кодап00>0т0*
+тяфтама+A+Pl+Nom+Indef: **this kind of/tällainen**
+* ★*тяфтам{АОØ}>{Х}т{ЬØ}* (is not standard language)
+* ★*тяфтапо>0т0* (is not standard language)
 
 **%{АО%}:о**
 пула+N+Sg+Nom+Def: **tail**
@@ -982,8 +985,14 @@ Letters = Vows Cns ь ъ ;
 * *ваны0%>х0не*
 
 **м:п ям**  
+ям+N+Pl+Nom+Indef: **stew/keitto**
 * *ям%>%{Х%}т%{ЬØ%}*
 * *яп%>0т0*
+тяфтама+A+Pl+Nom+Indef
+* *тяфтам{АОØ}>{Х}т{ЬØ}*
+* *тяфтап0>0т0*
+* ★*тяфтам{АОØ}>{Х}т{ЬØ}* (is not standard language)
+* ★*тяфтапо>0т0* (is not standard language)
 
 **в:ф кев**  
 * *кев%>%{Х%}т%{ЬØ%}*
