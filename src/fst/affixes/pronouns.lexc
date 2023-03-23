@@ -35,9 +35,9 @@ LEXICON PRONOUN-TYPES
 эрь+Det:эрь N_KAL  "jokainen" ;
 
 кама+A:кам%{АОØ%} N_PINGE  "Interr" ;
-кодама+A:кодам%{АОØ%} N_PINGE  "(Interr) millainen" ;
-стама+A+Dem:стам%{АОØ%} N_PINGE  "" ;
-тяфтама+A+Dem:тяфтам%{АОØ%} N_PINGE  "tällainen, sellainen" ;
+!кодама+A:кодам%{АОØ%} N_PANGA  "(Interr) millainen" ;
+!стама+A:стам%{АОØ%} N_PANGA  "" ;
+!тяфтама+A:тяфтам%{АОØ%} N_PANGA  "tällainen, sellainen" ;
 
 гайсна+Pron:гайсна PRON_  "tuo" ;
 гайся+Pron:гайся PRON_  "se" ;
@@ -493,12 +493,12 @@ LEXICON INDEFINITE-PRON-WITH-PREF
 кие+Pron+Indef:ки KATI-KI_INFL ;
 кона+Pron+Indef:кона KATI-KONA_INFL ;
 мезе+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
-кодама+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
 мзярдонь+A+Indef:мъзярдонь ENDLEX ;
 мзяра+Adv+Indef:мъзяра ENDLEX ;
 мзяра+Adv+Indef+Clt/Cop+Prt2+ScSg3:мъзяроль ENDLEX ;
 кодяма+A+Indef:кодям%{АОØ%} DET-INDEF_PINGE ;
 
+!кодама+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ; Adjective
 
 мезяма+Pron+Indef:мезяма PRON_  "" ;
 !кодама+Pron+Indef:кодама PRON_  "jonkinlainen" ;

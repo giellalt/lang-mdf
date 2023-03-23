@@ -222,6 +222,86 @@
      <defNative/>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">кодама</l>
+     <stg>
+       <st Contlex="A_PANGA">кодам%{АОØ%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">millainen</t>
+     </tg>
+     <xg>
+       <x>кой-кодама</x> <phonet>koj-kodama</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
+       <xt xml:lang="fin">jonkinlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
+       <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
+     </xg>
+     <xg>
+       <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
+       <xt xml:lang="fin">ei minkäänlainen.</xt>
+     </xg>
+     <xg>
+       <x>кодама повсь</x> <phonet>kodamə povś</phonet>
+       <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
+     </xg>
+     <xg>
+       <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
+       <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
+     </xg>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="A">кати-кодама</l>
+     <stg>
+       <st Contlex="A_PANGA">кати-кодам%{АОØ%}</st>
+     </stg> <phonet>kaťi-kodama</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">jonkinlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Indef">кой-кодама</l>
+     <stg>
+       <st Contlex="A_PANGA">кой-кодам%{АОØ%}</st>
+     </stg> <phonet>koj-kodama</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">jonkinlainen</t>
+     </tg>
+   </mg>
+</e>
 <e meta="" id="None">
    <lg>
      <l pos="A">кодгемонце</l>
@@ -73268,6 +73348,31 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">тяфтама</l>
+     <stg>
+       <st Contlex="A_PANGA">тяфтам%{АОØ%}</st>
+     </stg> <phonet>ťaftama</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">tällainen, sellainen</t>
+     </tg>
+     <xg>
+       <x>тяфтамовок аф</x> <phonet>ťaftaməvək af</phonet>
+       <xt xml:lang="fin">ei minkäänlainen.</xt>
+     </xg>
+     <xg>
+       <x>стапнень-тяфтапнень ёткса</x> <phonet>stapńəń-ťaftapńəń jotksa</phonet>
+       <xt xml:lang="fin">kaikenlaisten ihmisten joukossa.</xt>
+     </xg>
+   </mg>
+</e>
 <e meta="" id="None">
    <lg>
      <l pos="A">тяфтамка</l>
@@ -86804,8 +86909,6 @@
      <tg xml:lang="fin">
        <t pos="Det">joka</t>
      </tg>
-     <m>
-     </m>
      <xg>
        <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
        <xt xml:lang="fin">jokapäiväinen.</xt>

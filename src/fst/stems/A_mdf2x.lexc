@@ -22,6 +22,9 @@ LEXICON A_mdf2x
 кемнилиеце+A:кемнилиеце IS_NUM_ORD  "" ;
 кемнилиеце+A+SpellNoSugg:кемнилице IS_NUM_ORD  "" ;
 кемонце+A:кемонце IS_NUM_ORD  "" ;
+кодама+A:кодам%{АОØ%} A_PANGA  "millainen" ;
+кати-кодама+A:кати-кодам%{АОØ%} A_PANGA  "jonkinlainen" ;
+кой-кодама+A+Indef:кой-кодам%{АОØ%} A_PANGA  "jonkinlainen" ;
 кодгемонце+A:кодгемонце IS_NUM_ORD  "" ;
 колмогемонце+A:колмогемонце IS_NUM_ORD  "" ;
 колмоце+A:колмоце IS_NUM_ORD  "" ;
@@ -4018,6 +4021,7 @@ LEXICON A_mdf2x
 тястонне+A:тястонне A_  "" ;
 тястонь+A:тястонь A-IS-GEN  "" ;
 тятярьготф+A:тятярьготф Prc-f  "null" ;
+тяфтама+A:тяфтам%{АОØ%} A_PANGA  "tällainen, sellainen" ;
 тяфтамка+A:тяфтамка A_AVA  "" ;
 тячиень+A:тячиень A-IS-GEN  "" ;
 тяшканя+A:тяшканя A_AVA  "" ;
