@@ -15180,7 +15180,7 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="Adv" type="mwe">малацек</l>
+     <l pos="Adv">малацек</l>
      <stg>
        <st Contlex="ADV_">малацек</st>
      </stg> <phonet>malaćək</phonet>
@@ -18776,6 +18776,25 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="Adv">niin nuori; niin nuorena</t>
+     </tg>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="Adv">одкс</l>
+     <stg>
+       <st Contlex="ADV_">одкс</st>
+     </stg> <phonet>otks</phonet>
+       <l_ref>од</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>uudelleen</t>
+       <t>uudestaan</t>
      </tg>
    </mg>
 </e>

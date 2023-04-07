@@ -54,8 +54,12 @@ LEXICON ab-nodot ! default
 LEXICON ab-dot ! Default
 +ABBR:%. # ;
 
+LEXICON ab-nodot-adv
++Adv+ABBR: # ;
+
 LEXICON ab-dot-noun ! This is the lexicon for abbrs that must have a period.
 +N+ABBR:%. # ;
+
 
 ! The idea is that the nominal ones may have case, like e.g. P.E.N.
 
@@ -610,7 +614,7 @@ LEXICON TRNUMAB
 
 Apd		ab-dot ;                                      !
 Вып ab-dot ;
-
+ст%.% т%. ab-nodot-adv ;
 
 ! =============================================== !
 !              Transitive abbreviations           !

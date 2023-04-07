@@ -447,8 +447,22 @@ SELECT (A Arab Ord Attr);
  #7.
 
 
+SELECT:NegPcleWhenNextConneg ("апак") IF (1 (V ConNegII) OR (V ConNeg) OR (V Imprt ScSg2));
+       #апак: апак сёрматт
+
+REMOVE:NotImprtWhenConneg (V Imprt ScSg2) IF (-1 ("апак"));
+       #сёрматт: апак сёрматт
+REMOVE:NotAdjWithCltWhenIndefAdj ("кодама") IF (0 ("кодамовок")); #! indefinite adjective
+       #кодамовок: Пинкнень, конатнень колга апак серматт кодамовок документ,...
+
+REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relative pronoun NOT interrogative
+       #конатнень: Пинкнень, конатнень колга апак серматт кодамовок документ,...
+
+
 #
 REMOVE:DisallowOvoms Der/OvOms ;
+#
+
 SELECT:NingeNotNi ("нинге") ;
 
 REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;

@@ -11,15 +11,18 @@
 LEXICON A_
 : K ;
 
-LEXICON A-SPAT_
-: K ;
-
+!LEXICON A-SPAT_ 2023_04_05
+!: K ;
+! these are adverbials used as modifiers кудть ала пинесь the dog under the house
+! will be dealt with as spatial adverbs
 
 !LEXICON A-ATTR_
 !+Attr: K ;
 
-LEXICON A-IS-GEN
+LEXICON A-IS-GEN  !! -нь
+!here we want -нне derivation. DERPOSS-NUM-CASE
 +Gen+Attr: K ;
++Gen+Der+Der/Poss+N:%>не DERPOSS-NUM-CASE ;
 
 LEXICON A_AVA
 !+Sg+Nom+Indef: K ;
