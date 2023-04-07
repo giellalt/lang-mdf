@@ -6,6 +6,8 @@ The MOKSHA language adjectives compare.
 
 ADJECTIVES 
 
+-нь
+
 ош:ош
 
 кяль:кяль

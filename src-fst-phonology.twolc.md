@@ -591,6 +591,9 @@ plural
 ведь+N+Der+Der/Dimin+N+Sg+Nom+Indef: **a little water**
 * *ведь%>%{DIM%}я*
 * *вед0%>ня*
+* *ингольдень>не*
+* *ингольден0>не*
+
 * *мяль%>%{ЕОØ%}зе*
 * *мял0%>езе*
 мирде+N+Sg+Nom: **husband/aviomies**
