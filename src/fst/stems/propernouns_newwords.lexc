@@ -6,6 +6,18 @@
 LEXICON PROP_NEWWORDS
 test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 !! ADD PROPER NOUNS BELOW
+Днепропетровщина+N+Prop:Днепропетровщина PROP-PLC_AVA ;
+Магнитогорскяй+N+Prop:Магнитогорскяй PROP-PLC_KAL ;
+Магнитогорский+N+Prop:Магнитогорский PROP-PLC_KAL ;
+Криворожья+N+Prop:Криворожья PROP-PLC_AVA ;
+Закавказья+N+Prop:Закавказья PROP-PLC_AVA ;
+Днепрогэс+N+Prop:Днепрогэс PROP-PLC_KAL ;
+Соликамск+N+Prop:Соликамск PROP-PLC_KAL ;
+Донбасс+N+Prop:Донбасс PROP-PLC_KAL ;
+Благодать+N+Prop:Благодать PROP-PLC_KAL ;
+Высокай+N+Prop:Высокай PROP-PLC_KAL ;
+Днепр+N+Prop:Днепр PROP-PLC_KAL ;
+
 Венгрия+N+Prop:Венгрия PROP-PLC_AVA "(eng) /(fin) /(rus) " ;
 Мордовия+N+Prop:Мордовия PROP-PLC_AVA "(eng) /(fin) /(rus) " ;
 Россия+N+Prop:Россия PROP-PLC_AVA "(eng) /(fin) /(rus) " ;
