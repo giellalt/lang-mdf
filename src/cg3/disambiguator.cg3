@@ -279,7 +279,8 @@ LIST Pl2 = Pl2 (p2 pl) ;
 LIST Pl3 = Pl3 (p3 pl) ;
 
 LIST Inf = Inf ;
-LIST ConNeg = ConNeg ;
+LIST ConNegII = ConNegII ;
+LIST ConNeg = ConNeg ConNegII;
 LIST Neg = Neg ;
 
 LIST PrfPrc = PrfPrc ;
@@ -297,6 +298,7 @@ LIST SupEla = (infMS/ME cx:ela) (Ger Ela) (Sup Ela) ;#ОмстО
 LIST SupLoc = (infMS/ME cx:nom) (Inf Loc) ;#ОмО
 LIST GENDEF = (def nsg cx:gen) (def npl cx:gen) (Sg Gen Def) (Pl Gen Def);
 
+LIST Ex/V = Ex/V ;
 
 LIST Der/PassL = Der/PassL ;
 LIST Der/NomAg = Der/NomAg ;
@@ -327,7 +329,11 @@ LIST Der/f = Der/f ;
 LIST Use/NG = Use/NG ;
 
 LIST <vdic> = <vdic> ;
-
+LIST @CNP = @CNP ;
+LIST @C-FVP = @C-FVP ;
+LIST @CVP = @CVP ;
+LIST @CADJP = @CADJP ;
+LIST @CGenAttrP = @CGenAttrP ;
 LIST MARXTA = "мархта" ;
 LIST AUX = "эрявомс" ;
 
@@ -355,6 +361,13 @@ LIST NOLAT = "каль" "моль" ;
 LIST PJAK = "пяк" ; #!! this is a list of adverbs that modify adjectives
   # they do not appear before nouns
 
+#VINF
+
+LIST SUPAUX = "кармамс" ;# auxiliaries with non-finite main verbs in MO/ME supine/ Inf Loc
+
+LIST DATAUX = "савкшномс" "савомс" "эрявкшномс" "эрявомс" ;#
+
+LIST SAVOMSERIAVOMS = "савкшномс" "савомс" "эрявкшномс" "эрявомс" ;#!! these have homonyms
 
 LIST DATFORMS = (SP Dat) (Sg Dat) (Pl Dat) ;
 LIST TRAFORMS = (SP Tra) ;
@@ -384,9 +397,18 @@ LIST Err/MissingSpace = Err/MissingSpace ;
 # Phrasal groups
 # --------------
 
-LIST VFIN = Prs Prt1 Prt2 Cond Conj Des Imprt Opt ; 
+#SET VFIN = (Prs) | (Prt1) | (Prt2) | (Cond) | (Conj) | (Des) | (Imprt) | (Opt) | (Prec) ; 
+#LIST VFIN = Prs Prt1 Prt2 Cond Conj Des Imprt Opt Prec ; 
+SET VFIN = V + Ind | V + Cond | V + Conj | V + Des | V + Imprt | V + Opt | V + Prec ; 
 
 LIST PX = PxSg1 PxSg2 PxSg3 PxPl1 PxPl2 PxPl3 ;
+
+SET SUBJCANDIDATEPL3 = N + Pl + Nom + Def | N + Pl + Nom + PxSg1 | N + Pl + Nom + PxSg2 | N + Pl + Nom + PxSg3 | N + Pl + Nom + PxPl1 | N + Pl + Nom + PxPl2 | N + Pl + Nom + PxPl3 ;
+
+LIST ALLSC = ScSg1 ScSg2 ScSg3 ScPl1 ScPl2 ScPl3 ;
+SET SCNOTPL3 = ALLSC - ScPl3 ;
+
+LIST LANGNAME = "карел" "коми" "мадьяр" "манси" "мариец" "мокша" "немец" "осетин" "руз" "румын" "татар" "удмурт" "узбек" "француз" "чуваш" "эрзя" "юкагир" ; #!! in SP Gen Indef the next word can be кяль
 
 
 
@@ -399,8 +421,8 @@ SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + 
 
 
 # Noun sets
-LIST LANGNAME = "мокша" "руз" "эрзя" ; #!! in SP Gen Indef the next word can be кяль
-SET TAKESLANG = LANGNAME + N + SP + Gen + Indef | LANGNAME + N + Sem/Hum + SP + Gen + Indef ;#!!
+
+SET TAKESLANG = LANGNAME + N + SP + Gen + Indef | LANGNAME + N + Sem/Hum + SP + Gen + Indef | LANGNAME + N + Pl + Gen + Indef ;#!!
 
 
 
@@ -439,6 +461,26 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
 
+MAP (@CVP) TARGET CC IF (*-1 (VFIN) BARRIER CLB OR BOS LINK *1 (VFIN) BARRIER CLB OR EOS);
+MAP (@CVP) TARGET CC IF (*1 (VFIN) BARRIER CLB OR EOS LINK *-1 (VFIN) BARRIER CLB OR BOS);
+    #и :тейсь прязонзо пизэ и ливтсь левкст.
+
+MAP (@CVP) TARGET CC IF (*-2 VFIN BARRIER CLB OR BOS) (-1 (",")) (*1 VFIN BARRIER CLB OR BOS);
+#а: , голой сови, а раужо сёлги.
+#MAP (@C-FVP) TARGET CC IF (*0 SUPAUX OR DATAUX BARRIER CLB OR EOS OR BOS) (*-1 VINF BARRIER CLB OR BOS) (*1 VINF BARRIER CLB OR EOS);# actually this could be inf split
+#и: Эряви саламс сёрось и явомс сембе вачедотненди.
+#MAP:ccWithInf (@C-FVP) TARGET CC IF (-1* VINF BARRIER CLB OR BOS OR VFIN) (1* VINF BARRIER CLB OR BOS OR VFIN);# actually this could be inf split
+
+
+MAP (@CADJP) TARGET CC IF (-1 A OR NomAg OR (Ex/A Der/MWN)) (1 A OR NomAg OR (Ex/A Der/MWN));#
+    #минек пек виев ды превей, сон киненьгак прянзо нарьгамс а макссы.
+MAP (@CGenAttrP) TARGET CC IF (-1 (N SP Gen Indef)) (1 (N SP Gen Indef));
+    #, мушконь ды левшень пикст
+MAP (@CNP) TARGET CC IF (-1 N) (1 N);#verbs and predicates come before nouns
+MAP:NnPron (@CNP) TARGET CC IF (-1 N) (1* ("эрьва") BARRIER CLB OR EOS OR CC LINK 1 ("мезе"));#verbs and predicates come before nouns
+
+
+
 REMOVE Der/MWN ; # If any other reading is possible.
 REMOVE Der/Dimin ; # If any other reading is possible.
 
@@ -467,15 +509,29 @@ REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relat
 SELECT ("кяль") IF (-1 TAKESLANG);#!!
    # мокшень кяль
 
+#
+REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
+    #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
 
+SELECT ScPl3 IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
+   #ваныхть: Колма кели вальмятне ваныхть ульцяв
+
+# pick эряви
+REMOVE:OnlyOblWhereInf (Ex/V Der/OvOms) IF (0 SAVOMSERIAVOMS) (1 (V Inf)) ;
+REMOVE:OnlyOblWhereInf (Ex/V Der/OvOms) IF (0 SAVOMSERIAVOMS) (-1 (V Inf));
+  #эряви: Сяс тячи эряви пеетькшнемс: сяда аф макстама пря ризфти
+
+REMOVE:OnlyOblWhereAbeNotPresent (Ex/V Der/OvOms) IF (0 ("эрявомс")) (NOT 0* Abe BARRIER @CVP OR BOS OR EOS);
+  #"эрямс": кожфтома аф эряват
 
 #
-REMOVE:DisallowOvoms Der/OvOms ;
+#REMOVE:DisallowOvoms Der/OvOms ;
+SELECT (Ex/V Der/OvOms) (0C V) ; #!! 2023_04_09 important part of regular inflection
 #
 
 SELECT:NingeNotNi ("нинге") ;
 
-REMOVE TV IF (0 ("мярьгомс"))(NOT 0 OCONJ) ;
+REMOVE TV IF (0 ("мярьгомс")) (NOT 0 OCONJ) ;
 
 # коста
 
@@ -485,6 +541,11 @@ REMOVE:NoCoughWhenVFIN ("козомс" V IV Prec ScSg2) IF (0* VFIN BARRIER CLB 
 REMOVE:NotNWhenPrecededByPJAK NSgNomIndef_NOCOP IF (0 ASgNomIndef) (-1 PJAK) ; 
 	# пяк лямбе
 
+REMOVE ConNegII IF (NOT -1 ("аф")) ;
+   # Ватт, Антон, сафтови тейть ся тевса
+
+REMOVE:NoLatWhenNumAndN Lat OR (N Sg Nom Indef) OR Adv IF (-1 Num OR ("тяфтама") OR ("ся" Pron Dem Sg Nom Indef)) (0 (A Sg Nom Indef)) (1 N);#!!Lat: number _ noun
+   #Колма кели вальмятне ваныхть ульцяв
 
 REMOVE:NotVAmbNounsIFVerb Clt/Cop IF (0C ScSg1 OR ScSg2 OR ScPl1 OR ScPl2) (0 VAMBNOUNS) ;
     # мон кодан

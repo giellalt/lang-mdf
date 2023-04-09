@@ -11127,7 +11127,7 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="A">визькс</l>
      <stg>
@@ -29740,7 +29740,7 @@
      </tg>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="A">кучка</l>
      <stg>
@@ -86894,11 +86894,11 @@
      <defNative/>
    </mg>
 </e>
-<e meta="" id="None">
+<e exclude="fst" meta="" id="None">
    <lg>
-     <l pos="A">эрь</l>
+     <l pos="Det">эрь</l>
      <stg>
-       <st Contlex="A_KAL">эрь</st>
+       <st Contlex="DET_KAL">эрь</st>
      </stg>
    </lg>
      <sources>
