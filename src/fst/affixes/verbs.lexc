@@ -1583,9 +1583,9 @@ LEXICON INF_ОМ
 +Ger+Der/Shovor:%>%{ЕОØ%}м%>шовор K ;
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
 +Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} OBLIQUECX-PX-ava ;
-+NomAct:%>%{ЕОØ%}ма N_AVA ;
-+NomAct+Err/Orth:%>%{ЕОØ%}м N_KAL ;
-+NomAct+Der+Der/Dimin:%>%{ЕОØ%}м%>ня N_AVA ;
++Der+Der/NomAct+N:%>%{ЕОØ%}ма N_AVA ;
++Der+Der/NomAct+Err/Orth+N:%>%{ЕОØ%}м N_KAL ;
++Der+Der/NomAct+Der+Der/Dimin+N:%>%{ЕОØ%}м%>ня N_AVA ;
 Prc-I ;
 Prc-nj ;
 Prc-zj ;
