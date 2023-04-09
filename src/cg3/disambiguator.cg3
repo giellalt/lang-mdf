@@ -144,8 +144,9 @@ LIST OCONJ = OcSg1 OcSg2 OcSg3 OcPl1 OcPl2 OcPl3 ;
 #!! * Sets for Semantic tags
 # -------------
 
+LIST Sem/Hum = Sem/Hum ;
 LIST Ant = Ant ;
-LIST Ani = Ani Sem/Kin Hum Fem Mal Sur ;
+LIST Ani = Ani Sem/Kin Hum Fem Mal Sur Sem/Hum ;
 LIST Fem = Fem ;
 LIST Mal = Mal ;
 
@@ -398,6 +399,9 @@ SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + 
 
 
 # Noun sets
+LIST LANGNAME = "мокша" "руз" "эрзя" ; #!! in SP Gen Indef the next word can be кяль
+SET TAKESLANG = LANGNAME + N + SP + Gen + Indef | LANGNAME + N + Sem/Hum + SP + Gen + Indef ;#!!
+
 
 
 # Adjective sets
@@ -457,6 +461,12 @@ REMOVE:NotAdjWithCltWhenIndefAdj ("кодама") IF (0 ("кодамовок"));
 
 REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relative pronoun NOT interrogative
        #конатнень: Пинкнень, конатнень колга апак серматт кодамовок документ,...
+
+
+# кяль -- кялемс
+SELECT ("кяль") IF (-1 TAKESLANG);#!!
+   # мокшень кяль
+
 
 
 #
