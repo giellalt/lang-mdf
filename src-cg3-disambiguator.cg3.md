@@ -25,6 +25,8 @@ this is an adjective in nominative singular,
 
 this is a list of adverbs that modify adjectives
 
+in SP Gen Indef the next word can be кяль
+
 N ABBR not ABBR
 
 IS there a @CVP
