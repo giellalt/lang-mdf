@@ -29,9 +29,13 @@ this is an adjective in nominative singular,
 
 this is a list of adverbs that modify adjectives
 
+these have homonyms
+
 in SP Gen Indef the next word can be кяль
 
 N ABBR not ABBR
+
+2023_04_09 important part of regular inflection
 
 IS there a @CVP
 
