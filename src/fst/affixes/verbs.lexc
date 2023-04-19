@@ -258,8 +258,8 @@ LEXICON V0_MUMS
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
-+Use/NG:й	 INF_ОМ		; !муемс
-:	 INF_ОМ		; !мумс
++Use/NG:й	 INF_OM		; !муемс
+:	 INF_OM		; !мумс
 !+ConNeg:е K ; 
 +ConNeg: K ; 
 +ConNegII:йхть K ; 
@@ -299,7 +299,7 @@ LEXICON V0_TIJEMS
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
-:й	 INF_ОМ		;
+:й	 INF_OM		;
 
 +ConNeg:е K ; 
 +ConNeg:е PL-NOM-INDEF ; 
@@ -329,7 +329,7 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 	 IMPRT-20   	;
 :й	 IMPRT-ALL-BUT-20   	;
 :й	 OPT-ALL       	;
-:й	 INF_ОМ		;
+:й	 INF_OM		;
 +ConNeg:е K ; 
 +ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
@@ -467,7 +467,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 DES-ALL     	;
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
-	 INF_ОМ		;
+	 INF_OM		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
 +ConNeg:%>%{АЕØ%} PL-NOM-INDEF ;
 !! ашень, тят, афоль
@@ -1560,7 +1560,7 @@ LEXICON OPT-60
 !! NON-FINITES 
 !!!!!!!!!!!!!!!!
 
-LEXICON INF_ОМ
+LEXICON INF_OM
 +Inf:%>%{ЕОØ%}мс K ;
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} K ;
 +Inf+Loc+PxSg1:%>%{ЕОØ%}мон K ;
