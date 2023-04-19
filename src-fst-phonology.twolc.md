@@ -132,6 +132,9 @@ Letters = Vows Cns ь ъ ;
 араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
 * *арала%>%{ИЫЙ%}й%>%{ЕОØ%}ц*
 * *арала%>0й%>ец*
+кундамс+V+Der+Der/NomAg+N+Sg+Nom+Indef+Clt/Cop+Prs+ScSg2
+* *кунда>{ИЫЙ}>{АЯ}т*
+* *кунда>0>ят*
 
 **%{ЕОØ%}:о**
 район+N+SP+Gen+Indef:
@@ -164,7 +167,6 @@ Letters = Vows Cns ь ъ ;
 вай+N+Sg+Nom+PxSg1 **oil,butter/voi**
 * *вай%>%{ЕОØ%}зе*
 * *ва0%>езе*
-
 **%{ЕОØ%}:0 LEFT**
 зепе+N+Pl+Nom+Indef: **pocket/tasku**
 * *зеп%{ЕОØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
@@ -321,6 +323,9 @@ Letters = Vows Cns ь ъ ;
 тумс+V+Ind+Prs+ScSg1 **leave/lähteä**
 * *ту>%{АЯ%}н*
 * *ту>ян*
+кундамс+V+Der+Der/NomAg+N+Sg+Nom+Indef+Clt/Cop+Prs+ScSg2
+* *кунда>{ИЫЙ}:0>{АЯ}:ят*
+* *кунда>{ИЫЙ}:0>{АЯ}:ят*
 
 * *пань>%{Х%}т%{АЯ%}ма*
 * *пан000тяма*

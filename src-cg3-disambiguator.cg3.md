@@ -20,12 +20,16 @@ Upper and lower case
 
 Subjective adverbs, which are often set off by commas 
 
+This will be expanded for homonymy at first
+
 this is an adjective in nominative singular, adnominal attribute
 this is an adjective in nominative singular,
 
 this is a list of adverbs that modify adjectives
 
 these have homonyms
+
+used to identify motion verbs
 
 in SP Gen Indef the next word can be кяль
 
