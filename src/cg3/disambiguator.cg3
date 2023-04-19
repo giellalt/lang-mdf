@@ -343,6 +343,12 @@ LIST PADJI = "пади" "улема" ; #!! Subjective adverbs, which are often s
 SET PADJI_INJECT = COMMA + PADJI + COMMA ;
 # , пади, : лётчикокска, пади, улелеть.
 
+LIST PERSPRONSG = "мон" "тон" "сон" "монць" "тонць" "сонць" ;
+LIST PERSPRONPL = "минь" "тинь" "синь" "минць" "тинць" "синць" ;
+LIST NOLAT = "каль" "моль" ;
+LIST NONLATIVENOUN = "аржа" "ал" "ваз" "вай" "вайме" "вал" "варма" "варя" "ваша" "давол" "зиян" "кал" "карь" "кев" "ведь" "верь" "вий" "ёжа" "каль" "кяж" "кяль" "моль" "мувор"  "лефкс" "лем" "лов" "ловца" "лопа" "макша" "медь" "пизем" "пиле" "питне" "пона" "рашка" "ризф" "роса" "рост" "приказ" "рдаз" "сал" "сакал" "сан" "сарда" "сельмеведь" "серь" "сёвонь" "сёрма" "сий" "солдат" "сукс" "сяпе" "тише" "толга" "туман" "тяште" "уй" "ула" "унда" "шине" "шов" "шувар" "эй" "яд" "якшам" "ярмак" ; #!! This will be expanded for homonymy at first
+
+
 LIST ASgNomIndef = (A Sg Nom Indef) ; #!! this is an adjective in nominative singular, adnominal attribute
 LIST NSgNomIndef = (N Sg Nom Indef) ; #!!
 SET ASgNomIndef_NOCOP = (A Sg Nom Indef) - Clt/Cop; #!! this is an adjective in nominative singular,
@@ -356,7 +362,6 @@ SET NNotNomAg = N - Der/NomAg;
 
 LIST CompAdv = "инголе" "инголи" "ингольдень" "меле";
 #2013-05-22
-LIST NOLAT = "каль" "моль" ;
 
 LIST PJAK = "пяк" ; #!! this is a list of adverbs that modify adjectives
   # they do not appear before nouns
@@ -373,6 +378,8 @@ LIST DATFORMS = (SP Dat) (Sg Dat) (Pl Dat) ;
 LIST TRAFORMS = (SP Tra) ;
 
 LIST WEIRDCOMP = "ки-яд"; # desired ки-ян
+
+LIST SPATMOTIONCASE = Abl Ela Ill Lat Prl ;#!! used to identify motion verbs
 
 LIST VERBTAKESkodaCCOMP = "арьсемс" "ваномс" "марямс" "няемс" "няендемс" "няфтемс" "няфтнемс" "содамс" "шарьхкодемс" ;#knows how
 
@@ -402,6 +409,8 @@ LIST Err/MissingSpace = Err/MissingSpace ;
 SET VFIN = V + Ind | V + Cond | V + Conj | V + Des | V + Imprt | V + Opt | V + Prec ; 
 
 LIST PX = PxSg1 PxSg2 PxSg3 PxPl1 PxPl2 PxPl3 ;
+
+SET SUBJCANDIDATESG3 = N + Sg + Nom + Def | N + Sg + Nom + PxSg1 | N + Sg + Nom + PxSg2 | N + Sg + Nom + PxSg3 | N + Sg + Nom + PxPl1 | N + Sg + Nom + PxPl2 | N + Sg + Nom + PxPl3 ;
 
 SET SUBJCANDIDATEPL3 = N + Pl + Nom + Def | N + Pl + Nom + PxSg1 | N + Pl + Nom + PxSg2 | N + Pl + Nom + PxSg3 | N + Pl + Nom + PxPl1 | N + Pl + Nom + PxPl2 | N + Pl + Nom + PxPl3 ;
 
@@ -457,9 +466,11 @@ SUBSTITUTE (Sem/Plc) (*) TARGET (*) ;
 #SUBSTITUTE (TV) (*) TARGET (*) ;
 #SUBSTITUTE (IV) (*) TARGET (*) ;
 
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET ("ков" N SP Prl Indef);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
+
 
 MAP (@CVP) TARGET CC IF (*-1 (VFIN) BARRIER CLB OR BOS LINK *1 (VFIN) BARRIER CLB OR EOS);
 MAP (@CVP) TARGET CC IF (*1 (VFIN) BARRIER CLB OR EOS LINK *-1 (VFIN) BARRIER CLB OR BOS);
@@ -509,6 +520,10 @@ REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relat
 SELECT ("кяль") IF (-1 TAKESLANG);#!!
    # мокшень кяль
 
+REMOVE (Clt/Cop Prs ScSg2) OR (Clt/Cop Prs ScSg1) IF (0 ("тувомс")) (0* SPATMOTIONCASE BARRIER EOS OR BOS OR @CVP);
+   #туват: Кали тонь ваксстот туват?
+   # unsolved is: Кда тяфтак аф [туват]». ambiguous 'pig' vs 'manage to get away'
+   
 #
 REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
     #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
@@ -533,6 +548,9 @@ SELECT:NingeNotNi ("нинге") ;
 
 REMOVE TV IF (0 ("мярьгомс")) (NOT 0 OCONJ) ;
 
+# Adv Indef
+REMOVE:NotAddWhenIndef Clt/Add IF (0 (Adv Indef) OR (Pron Indef));
+   # ковга: Но деряй эсь эздот ковга туват?
 # коста
 
 REMOVE:NoCoughWhenVFIN ("козомс" V IV Prec ScSg2) IF (0* VFIN BARRIER CLB OR BOS OR EOS);
@@ -589,7 +607,11 @@ REMOVE:NotAIfOnlySg3 A IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (NOT (-1* VFIN BAR
 #REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (0* VFIN BARRIER CLB) ;
 SELECT:PrecedGenObjFollowN DerNomAgSgNomIndef IF (-1 (SP Gen Indef)) (1 N);
 
-REMOVE:VerbSg3NotNLat Lat IF (0 NOLAT ) (0 Ind + Prs + ScSg3) ;
+
+REMOVE:VerbSg3NotNLat Lat IF (0 NONLATIVENOUN ) (0 Ind + Prs + ScSg3) ;
+
+REMOVE:NotLat NONLATIVENOUN (0  (N SP Lat) OR (N Prop SP Lat)) ;#some nouns don't take lative
+  # кали: 1Кали тонь ваксстот туват?
 
 # , туманць ушедсь шурокстомома.
 REMOVE:NomActIfAdjacentInchVerb NomAct IF ((-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB))(0 Inf + Loc);
