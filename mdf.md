@@ -35,6 +35,10 @@ these have homonyms
 
 used to identify motion verbs
 
+вал+N+SP+Abl vs валда+A+Sg+Nom
+
+names that end in у/ю
+
 in SP Gen Indef the next word can be кяль
 
 N ABBR not ABBR
