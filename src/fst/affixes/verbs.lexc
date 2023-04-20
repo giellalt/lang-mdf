@@ -387,10 +387,6 @@ LEXICON V2V-DERIVATION-INITIAL-VOW
 @P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев Non-Finite-Cns ;
 !Mormula 2020-08-31
 
-LEXICON Non-Finite-Cns
-!+PrfPrc:%^Devoice%>ф K ;
-+Der/f+PrfPrc:%^Devoice%>ф N_KAL ;
-
 
 !! ### AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ !!= @CODE@ ашезь:аш
@@ -1604,7 +1600,13 @@ Prc-zj ;
 LEXICON PrcTag
 +Prc: ENDLEX;
 
+LEXICON Non-Finite-Cns
+! This is inflection щамс: щаф
+!+PrfPrc:%^Devoice%>ф K ;
++Der/f+PrfPrc:%^Devoice%>ф N_KAL ;
+
 LEXICON Prc-f
+! This is for ready prfprc forms щаф
 !+Der/f+PrfPrc: K ;
 +Der/f+PrfPrc: N_KAL ;
 
