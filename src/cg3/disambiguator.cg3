@@ -298,6 +298,8 @@ LIST SupEla = (infMS/ME cx:ela) (Ger Ela) (Sup Ela) ;#ОмстО
 LIST SupLoc = (infMS/ME cx:nom) (Inf Loc) ;#ОмО
 LIST GENDEF = (def nsg cx:gen) (def npl cx:gen) (Sg Gen Def) (Pl Gen Def);
 
+LIST Ex/N = Ex/N ;
+LIST Ex/Num = Ex/Num ;
 LIST Ex/V = Ex/V ;
 
 LIST Der/PassL = Der/PassL ;
@@ -523,6 +525,10 @@ REMOVE:NotAdjWithCltWhenIndefAdj ("кодама") IF (0 ("кодамовок"));
 REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relative pronoun NOT interrogative
        #конатнень: Пинкнень, конатнень колга апак серматт кодамовок документ,...
 
+REMOVE ("уша" Abl Indef Clt/Cop Prs ScSg2) OR ("уша" Abl Indef Clt/Cop Prs ScSg1) IF (0* (Inf Loc) BARRIER EOS OR BOS OR @CVP);
+   #ушедомс vs уша
+   #ушедат: Колмоце книгать ушедат лувомонза,— и сельмотне коневихть.
+REMOVE PxSg2 OR Ex/Num IF (0 (A Ord));
 
 # кяль -- кялемс
 SELECT ("кяль") IF (-1 TAKESLANG);#!!
