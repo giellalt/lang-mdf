@@ -182,7 +182,8 @@ LEXICON ARABICCASEORD
 +Arab+Sg+Nom:це # ;
 
 LEXICON ARABICCASECOLL
-+Arab+Pl+Nom:%>-ть      # ;
++Arab+Pl+Nom+Indef:%>-т      # ;
++Arab+Sg+Nom+Indef:%>-це # ;!This is an ordinal 1975-це
 
 LEXICON ARABICCOMPOUNDS   !!≈ * **@CODE@**  ! 1-osainen
 +Use/NG: NounEnd ; ! 3-
