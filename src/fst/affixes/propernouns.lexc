@@ -19,9 +19,15 @@ LEXICON PROP-VOC_KIAJ
 
 LEXICON PROP_KAL
 : N_KAL	;
-
 LEXICON PROP_KIAL1
 : N_KIAL1	;
+
+!2023-05-25 these will be removed once src/scripts/urj-mdf-conversion.pl works
+LEXICON PROP-PLC_KEL1
+ N_KIAL1 ;
+LEXICON PROP-PLC_VELE
+ N_TISHE	;
+
 
 LEXICON PROP_OSH
 : N_OSH	;
@@ -203,8 +209,8 @@ LEXICON PROP_KUDO_FEM
 LEXICON PROP-PLC_KAL !!≈ * **@CODE@** ending in other consonant
 +Sem/Plc: NMN_KAL ;
 
-LEXICON PROP-PLC_KIAL1
-+Sem/Plc: N_KIAL1 ;
+!LEXICON PROP-PLC_KIAL1
+!+Sem/Plc: N_KIAL1 ;
 
 LEXICON PROP-PLC_KIT !!≈ * **@CODE@** ending in t
 +Sem/Plc: NMN_KAL ;
