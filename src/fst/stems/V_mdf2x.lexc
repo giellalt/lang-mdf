@@ -367,6 +367,7 @@ LEXICON V_mdf2x
 ацсевомс+V:ацсев IV_ANDOVOMS  "tulla järjestetyksi" ;
 ацсекшнемс+V:ацсекшне IV_KUNDAMS  "järjestellä" ;
 ацсемс+V:ацсе IV_KUNDAMS  "järjestellä" ;
+ацсемс+V+Err/Orth-old1:атце IV_KUNDAMS  "järjestellä" ;
 ацсефнекшнемс+V:ацсефнекшне IV_KUNDAMS  "järjestytellä" ;
 ашкодовомс+V:ашкодов IV_ANDOVOMS  "tulla käärityksi" ;
 ашкодомс+V:ашкод BV_ANDOMS  "kääriä" ;
@@ -1226,6 +1227,7 @@ LEXICON V_mdf2x
 виредемс+V:виредь BV_ANDOMS  "(murt.) korvata" ;
 вириямс+V:вирия IV_KUNDAMS  "metsittyä" ;
 витцемс+V:витце BV_KUNDAMS  "kylvää" ;
+витцемс+V+Err/Orth-old1:видьсе BV_KUNDAMS  "kylvää" ;
 витцефнемс+V:витцефне BV_KUNDAMS  "kylväytellä" ;
 витцефтемс+V:витцефть BV_NJAFTEMS  "kylväyttää" ;
 витькставомс+V:витькстав IV_ANDOVOMS  "tulla tunnustetuksi" ;
@@ -2974,6 +2976,7 @@ LEXICON V_mdf2x
 китнезевомс+V:китнезев IV_ANDOVOMS  "alkaa syyhytä" ;
 китнекшнемс+V:китнекшне IV_KUNDAMS  "syyhytä" ;
 китнемс+V:китне IV_KUNDAMS  "syyhytä" ;
+китнемс+V+Err/Orth-old1:китьне IV_KUNDAMS  "syyhytä" ;
 китнесемс+V:китнесе IV_KUNDAMS  "syyhytä" ;
 китниямс+V:китния IV_KUNDAMS  "saada syyhytartunta, alkaa syyhytä" ;
 китнияфнемс+V:китнияфне BV_KUNDAMS  "syyhytä" ;
@@ -5955,6 +5958,7 @@ LEXICON V_mdf2x
 пантфнемс+V:пантфне BV_KUNDAMS  "maksattaa" ;
 пантфтомс+V:пантфт BV_ALYJAFTOMS  "maksattaa" ;
 панцемс+V:панце BV_KUNDAMS  "ajaa takaa, ahdistella" ;
+панцемс+V+Err/Orth-old1:паньце BV_KUNDAMS  "ajaa takaa, ahdistella" ;
 панцефнемс+V:панцефне BV_KUNDAMS  "panna leipomaan leipää" ;
 панцефтемс+V:панцефть BV_NJAFTEMS  "panna ajamaan takaa" ;
 панчсевомс+V:панчсев IV_ANDOVOMS  "tulla auotuksi" ;
