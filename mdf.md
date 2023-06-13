@@ -1338,6 +1338,9 @@ The Usage extents are marked using following tags:
 * ** +Err/Orth    **:  substandard / outside the written norm
 * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
 * +Err/Orth-colloq Евсеич
+* +Err/Orth-old1 * old1 like озимь, морковь 1930–1940
+* +Err/Orth-pre1978 * orthography preceding 1978
+* +Err/Orth-pre2012 * previous orthography
 
 * _+Use/Marg_ * Marginal
 * _+Use/-Spell_ * Exclude from speller
