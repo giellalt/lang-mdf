@@ -28,7 +28,7 @@ The parts of speech are further split up into:
 **Nouns:**
 * **+Prop**:  proper
 * **+CollN**:  used with paired nouns **collective nouns**
-* **+Relator**:  relator nouns, mainly meronyms 
+* **+Relat**:  relator nouns, mainly meronyms 
 **Pronouns:**
 * **+Dem**:  demonstrative
 * **+Indef**:  indefinite
