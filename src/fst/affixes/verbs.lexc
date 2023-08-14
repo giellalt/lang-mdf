@@ -83,7 +83,7 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 +Neg+Conj+ScSg1+OcPl3:%>ине ENDLEX ;
 +Neg+Conj+ScSg2:%>%{ЕОØ%}ть ENDLEX ;
 +Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть ENDLEX ;
-+Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
++Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}масть ENDLEX ;
 +Neg+Conj+ScSg3: ENDLEX ;
 +Neg+Conj+ScSg3+OcSg1:%>%{ЕОØ%}мань ENDLEX ;
 +Neg+Conj+ScSg3+OcSg2:%>%{ЕОØ%}нзе ENDLEX ;
@@ -99,8 +99,8 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 +Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ ENDLEX ;
 +Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
 +Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
-+Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}маcmь ENDLEX ;
-+Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}маcmь ENDLEX ;
++Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}масть ENDLEX ;
++Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}масть ENDLEX ;
 
 +Neg+Conj+ScPl3:%>%{Х%}ть ENDLEX ;
 +Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь ENDLEX ;
@@ -424,9 +424,9 @@ LEXICON V-AUX-NEG-PRT1
 +Neg+Ind+Prt1+ScPl1+OcPl3:%>еськ ENDLEX ;
 
 +Neg+Ind+Prt1+ScSg2+OcSg1:%>емайть ENDLEX ;
-+Neg+Ind+Prt1+ScSg2+OcPl1:%>емаcmь ENDLEX ;
-+Neg+Ind+Prt1+ScPl2+OcSg1:%>емаcmь ENDLEX ;
-+Neg+Ind+Prt1+ScPl2+OcPl1:%>емаcmь ENDLEX ;
++Neg+Ind+Prt1+ScSg2+OcPl1:%>емасть ENDLEX ;
++Neg+Ind+Prt1+ScPl2+OcSg1:%>емасть ENDLEX ;
++Neg+Ind+Prt1+ScPl2+OcPl1:%>емасть ENDLEX ;
 
 +Neg+Ind+Prt1+ScSg1+OcPl2:%>едезь ENDLEX ;
 +Neg+Ind+Prt1+ScPl1+OcSg2:%>едезь ENDLEX ;
