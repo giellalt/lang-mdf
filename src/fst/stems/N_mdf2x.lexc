@@ -138,7 +138,7 @@ LEXICON N_mdf2x
 акшу+N:акшу N_KELU  "haapa" ;
 акшукс+N:акшукс N_OSH  "haapa" ;
 ал+Hom1+N:ал N_KAL  "muna" ;
-ал+Hom2+N+Relator:ал N_KAL  "alaosa" ;
+ал+Hom2+N+Relat:ал N_KAL  "alaosa" ;
 ала% пе+N:ала% пе N_AVA  "alapää" ;
 алаба+N:алаба N_AVA_DIAL  "munakori" ;
 алакша+N:алакш%{АЕØ%} N_MOKSHA  "munanvalkuainen" ;
@@ -566,7 +566,7 @@ LEXICON N_mdf2x
 боймак+N:боймак N_KAL  "" ;
 бойниця+N:бойниця N_AVA  "" ;
 бойня+N:бойня N_AVA  "" ;
-бок+N+Relator:бок N_KAL  "" ;
+бок+N+Relat:бок N_KAL  "" ;
 бока+N:бока N_AVA  "sivu" ;
 бокал+N:бокал N_KAL  "muki" ;
 бокпяль+N:бокпяль N_KIAL1  "kylki" ;
@@ -887,8 +887,8 @@ LEXICON N_mdf2x
 веле+N:веле N_AVA  "kylä" ;
 велеряй+N:велеряй N_VAJ  "kyläläinen" ;
 велосипед+N:велосипед N_KAL  "polkupyörä" ;
-вельхкс+v1+N+Relator:вельхкс N_OSH  "(vesi)katto" ;
-вельхкс+v2+N+Relator+Err/Orth:велькс N_OSH  "(vesi)katto" ;
+вельхкс+v1+N+Relat:вельхкс N_OSH  "(vesi)katto" ;
+вельхкс+v2+N+Relat+Err/Orth:велькс N_OSH  "(vesi)katto" ;
 вельхтерда+N:вельхтерда N_AVA  "(morsius) huntu" ;
 вельхтяма+N:вельхтяма N_AVA  "peite" ;
 веляньбока+N:веляньбока N_AVA  "nurja puoli" ;
@@ -2157,7 +2157,7 @@ LEXICON N_mdf2x
 кархченя+N:кархченя N_AVA  "" ;
 кархчт+N:кархчт N_KAL  "" ;
 карш+N:карш N_OSH  "" ;
-карша+N+Relator:карш%{АЕØ%} N_MOKSHA  "" ;
+карша+N+Relat:карш%{АЕØ%} N_MOKSHA  "" ;
 карь+N:карь N_KIAL1  "virsu" ;
 карькс+N:карькс N_OSH  "kengännauha" ;
 карьпула+N:карь#пул%{АО%} N_PULA  "virsun nauha" ;
@@ -2890,7 +2890,7 @@ LEXICON N_mdf2x
 кучема+N:кучема N_AVA  "" ;
 кучер+N:кучер N_KAL  "" ;
 кучи+N:кучи N_ANDY  "lähettäjä" ;
-кучка+N+Relator:кучка N_AVA  "keskiosa" ;
+кучка+N+Relat:кучка N_AVA  "keskiosa" ;
 кучканя+N:кучканя N_AVA  "keskus" ;
 кучкорькс+N:кучкорькс N_OSH  "potku" ;
 кучсема+N:кучсема N_AVA  "" ;
@@ -3033,7 +3033,7 @@ LEXICON N_mdf2x
 лампа+N:лампа N_AVA  "lamppu" ;
 лампкя+N:лампкя N_VAL1MIA  "" ;
 лампочка+N:лампочка N_AVA  "hehkulamppu" ;
-ланга+N+Relator:ланг%{АОØ%} N_PANGA  "pinnalla oleva osa" ;
+ланга+N+Relat:ланг%{АОØ%} N_PANGA  "pinnalla oleva osa" ;
 лангакс+N:лангакс N_OSH  "kansi" ;
 лангсщама+N:лангсщама N_AVA  "pukineet" ;
 ландряк+N:ландряк N_KAL  "" ;
@@ -3355,7 +3355,7 @@ LEXICON N_mdf2x
 максака+N:максака N_AVA  "hamsteri" ;
 максома+N:максома N_AVA  "antaminen" ;
 макша+N:макш%{АЕØ%} N_MOKSHA  "lahopuu" ;
-мала+N+Relator:мала N_AVA  "läheinen" ;
+мала+N+Relat:мала N_AVA  "läheinen" ;
 мама+v1+N:мама N_AVA  "" ;
 мама+v2+N:мама N-VOC_J/KAJ/NIAJ  "" ;
 мамама+N:мамама N_AVA  "" ;
@@ -4631,7 +4631,7 @@ LEXICON N_mdf2x
 потафкс+N:потафкс N_OSH  "" ;
 потишка+N:потишка N_AVA  "" ;
 поткав+N:поткав N_KAL  "hevosenkenkä" ;
-потма+N+Relator:потм%{АО%} N_PULA  "sisus" ;
+потма+N+Relat:потм%{АО%} N_PULA  "sisus" ;
 потмакс+N:потмакс N_OSH  "pohja" ;
 потмар+N:потмар N_KAL  "ruokavarasto" ;
 потнема+N:потнема N_AVA  "" ;
@@ -6762,7 +6762,7 @@ LEXICON N_mdf2x
 утка+N:утка N_AVA  "ankka" ;
 утлок+N:утлок N_KAL  "" ;
 утом+N:утом N_KAL  "aitta" ;
-утор+N+Relator:утор N_KAL  "(murt.) vastassa" ;
+утор+N+Relat:утор N_KAL  "(murt.) vastassa" ;
 утренник+N:утренник N_KAL  "" ;
 утькс+N:утькс N_OSH  "" ;
 утькстома+N:утькстома N_AVA  "" ;
@@ -7401,7 +7401,7 @@ LEXICON N_mdf2x
 шинка+N:шинка N_AVA  "kapakka" ;
 шиньгучка+N:шинь#гучка N_AVA  "keskipäivä" ;
 шиньф+N:шиньф N_KAL  "höyry" ;
-шире+N+Relator:шире N_PINE  "puoli" ;
+шире+N+Relat:шире N_PINE  "puoli" ;
 шичав+N:шичав N_KAL  "kirppu" ;
 шкабаваз+N:шкабаваз N_SARAZ  "jumala" ;
 шкабаваз-атя+N:шкабаваз-атя N_AVA  "isä jumala" ;
@@ -7895,7 +7895,7 @@ LEXICON N_mdf2x
 ёмланек-мезнек+N:ёмланек-мезнек N_KAL  "" ;
 ёмланек-оцюнек+N:ёмланек-оцюнек N_KAL  "" ;
 ёмлаши+N:ёмлаши N_AVA  "pienuus" ;
-ён+N+Relator:ён N_KAL  "suunta, taho, puoli" ;
+ён+N+Relat:ён N_KAL  "suunta, taho, puoli" ;
 ёндол+N:ёндол N_KAL  "salamointi" ;
 ёнь+N:ёнь N_KIAL1  "järki" ;
 ёньфтома+N:ёньфтома N_AVA  "älytön" ;
@@ -7906,7 +7906,7 @@ LEXICON N_mdf2x
 ётама+N:ётама N_AVA  "kulku" ;
 ётаф+N:ётаф N_KAL  "" ;
 ётафни+N:ётафни N_ANDY  "" ;
-ётка+N+Relator:ётк%{АОØ%} N_OFTA  "väli" ;
+ётка+N+Relat:ётк%{АОØ%} N_OFTA  "väli" ;
 ёткши+N:ёткши N_AVA  "lauantai" ;
 ётнема+N:ётнема N_AVA  "" ;
 ёфкс+N:ёфкс N_OSH  "satu" ;
