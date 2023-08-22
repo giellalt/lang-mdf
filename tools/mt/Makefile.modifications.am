@@ -19,10 +19,10 @@ CLEAN_FILES+=
 ##################################################################
 #### Build rules - add targets and their build rules below:
 
-#generator-mt-gt-norm.hfst: generator-mt-gt-norm.tmp.hfst \
-#                        $(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.hfst
-#	$(AM_V_RGX2FST)$(PRINTF) "\
-#		@\"$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.hfst\"	\
-#		| $(HFST_REGEXP2FST) $(HFST_FLAGS) $(HFST_FORMAT) \
-#			-S --xerox-composition=ON \
-#		-o $@
+generator-mt-gt-norm.hfst: generator-mt-gt-norm.tmp.hfst \
+                        $(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.hfst
+	$(AM_V_RGX2FST)$(PRINTF) "\
+		@\"$(top_builddir)/src/filters/remove-hard-sign-in-first-syllable.hfst\"	\
+		| $(HFST_REGEXP2FST) $(HFST_FLAGS) $(HFST_FORMAT) \
+			-S --xerox-composition=ON \
+		-o $@
