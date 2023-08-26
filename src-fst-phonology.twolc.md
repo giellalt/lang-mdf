@@ -363,7 +363,7 @@ Letters = Vows Cns ь ъ ;
 * ★*тонафт>ый>ень* (is not standard language)
 
 **j:0 RIGHT**  
-* *тий%>%{ЕОØ%}за*
+* *тий>{ЕОØ}за*
 * *ти00еза*
 
 седи+N+Pl+Nom+Indef **heart/sydän**
@@ -496,8 +496,8 @@ Letters = Vows Cns ь ъ ;
 
 **%{ВИУ%}:i**
 учительскай+N+SP+Lat+Indef: **teachers' lounge/opettajain huone**
-* *учительскай%>%{ВИУ%}*
-* *учительска0%>и*
+* *учительскай>{ВИУ}*
+* *учительска0>и*
 пирьф+N+SP+Lat+Indef: **garden/tarha**
 * *пирьф%>%{ВИУ%}*
 * *пирьф%>и*
