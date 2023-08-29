@@ -50,10 +50,11 @@ Adverbs:
 * ** +Adv-Ideoph 	: These are ideophonic descriptors used to modify the verb**: 
 *вырк ливтясь*  "**flit** and it flew off"
 * ; +Deg 	     : This is degree, depricate + AdA
-* ** +Manner 		**:  with reference to type of adverb
-* ** +Spat 			**:  spatial
-* ** +Temp 			**:  temporal
-* ** +Emphatic		**:  used with negation particles афи, 
+* ** +Manner     **:  with reference to type of adverb
+* ** +Spat 	     **:  spatial
+* ** +Temp 	     **:  temporal
+* ** +Emphatic   **:  used with negation particles афи, 
+* **+EvidNfh**:  кле
 
 Interjections:
 * ** +Formulaic  **:  greetings,
