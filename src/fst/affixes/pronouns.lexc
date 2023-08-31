@@ -304,15 +304,15 @@ LEXICON PRON-DEM_
 +Dem: PRON-DEM-SG ;
 LEXICON PRON-DEM_SIA
  PRON-DEM_NIAT ;
-+Sg+Dat+Indef:%>%{ЕОØ%}нди K ;
++Sg+Dat+Indef:%>%{ЕОØ%}нди K/DAT-ARAM ;
 +Sg+Gen+Indef:%>%{ЕОØ%}нь K ;
 +Sg+Nom+Indef: K ;
 
 LEXICON PRON-DEM_NIAT !нят:нят
 +Pl+Nom+Indef:%>т K ;
-+Pl+Dat+Def:%>тненди K ;
-+Pl+Gen+Def:%>тнень K ;
-+Pl+Nom+Def:%>тне K ;
++Pl+Dat+Def:%>т%>не%>нди K/DAT-ARAM ;
++Pl+Gen+Def:%>т%>не%>нь K ;
++Pl+Nom+Def:%>т%>не K ;
 
 
 LEXICON PRON-DEM-SG
@@ -324,7 +324,7 @@ LEXICON PRON-DEM-SG
 
 LEXICON PRON-DEM_TONA
 PRON-DEM_ ;
-+Dem+Sg+Dat+PxSg3:%>%{ЕОØ%}нцты K ;
++Dem+Sg+Dat+PxSg3:%>%{ЕОØ%}нц%>ты K_вок ;
 +Dem+Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
 +Dem+Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
 
@@ -342,9 +342,9 @@ LEXICON INTERR
 
 LEXICON PRON-INTERR_KI-K
 +Pl+Nom:%>т INDEF-ENDS-HERE ;
-+Pl+Dat+Def:%>тненди INDEF-ENDS-HERE ;
-+Pl+Gen+Def:%>тнень INDEF-ENDS-HERE ;
-+Pl+Nom+Def:%>тне INDEF-ENDS-HERE ;
++Pl+Dat+Def:%>т%>не%>нди INDEF-ENDS-HERE ;
++Pl+Gen+Def:%>т%>не%>нь INDEF-ENDS-HERE ;
++Pl+Nom+Def:%>т%>не INDEF-ENDS-HERE ;
 +Sg+Nom: INDEF-ENDS-HERE ;
 +Sg+Nom:е INDEF-ENDS-HERE ;
 +Sg+Nom+Def:%>есь INDEF-ENDS-HERE ;
@@ -357,14 +357,14 @@ LEXICON PRON-INTERR_KI-K
 +SP+Ine:%>са INDEF-ENDS-HERE ;
 +SP+Tra:%>кс INDEF-ENDS-HERE ;
  DER/COP ;
-+Der/Poss+Sg+Nom+Def:%>ннесь INDEF-ENDS-HERE ;
-+Der/Poss+Sg+Gen+Def:%>ннеть INDEF-ENDS-HERE ;
-+Der/Poss+Sg+Dat+Def:%>ннети INDEF-ENDS-HERE ;
-+Der/Poss+Pl+Nom+Def:%>ннетне INDEF-ENDS-HERE ;
-+Der/Poss+Pl+Gen+Def:%>ннетнень INDEF-ENDS-HERE ;
-+Der/Poss+Pl+Dat+Def:%>ннетненди INDEF-ENDS-HERE ;
++Der/Poss+Sg+Nom+Def:%>нне%>сь INDEF-ENDS-HERE ;
++Der/Poss+Sg+Gen+Def:%>нне%>ть INDEF-ENDS-HERE ;
++Der/Poss+Sg+Dat+Def:%>нне%>ти INDEF-ENDS-HERE ;
++Der/Poss+Pl+Nom+Def:%>нне%>т%>не INDEF-ENDS-HERE ;
++Der/Poss+Pl+Gen+Def:%>нне%>т%>не%>нь INDEF-ENDS-HERE ;
++Der/Poss+Pl+Dat+Def:%>нне%>т%>не%>нди INDEF-ENDS-HERE ;
 +Der/Poss+Sg+Nom+Indef:%>нне INDEF-ENDS-HERE ;
-+Der/Poss+Pl+Nom+Indef:%>ннет INDEF-ENDS-HERE ;
++Der/Poss+Pl+Nom+Indef:%>нне%>т INDEF-ENDS-HERE ;
 
 +Der/Poss+SP+Abl:%>нне%>да INDEF-ENDS-HERE ;
 +Der/Poss+SP+Cau:%>нне%>нкса INDEF-ENDS-HERE ;
@@ -378,62 +378,62 @@ LEXICON PRON-INTERR_MEZE-K
 +Sg+Nom+Indef:зе K ;
 +Use/NG+Sg+Nom+Indef:зь K ;
 +Sg+Nom+Def:зсь K ;
-+Sg+Nom+PxSg1:зезе K ;
-+Sg+Nom+PxSg2:зце K ;
-+Sg+Nom+PxSg3:зец K ;
-+SP+Nom+PxPl1:зеньке K ;
-+SP+Nom+PxPl2:зенть K ;
-+SP+Nom+PxPl3:зьсн%{АО%} K ;
-+Pl+Nom+Indef:сть K ;
-+Pl+Nom+Def:стне K ;
-+Pl+Nom+PxSg1:зне K ;
-+Pl+Nom+PxSg2:стне K ;
-+Pl+Nom+PxSg3:зенз%{АО%} K ;
++Sg+Nom+PxSg1:зе%>зе K ;
++Sg+Nom+PxSg2:з%>це K ;
++Sg+Nom+PxSg3:зе%>ц K ;
++SP+Nom+PxPl1:зе%>ньке K ;
++SP+Nom+PxPl2:зе%>нть K ;
++SP+Nom+PxPl3:зь%>сн%{АО%} K ;
++Pl+Nom+Indef:с%>ть K ;
++Pl+Nom+Def:с%>т%>не K ;
++Pl+Nom+PxSg1:з%>не K ;
++Pl+Nom+PxSg2:с%>тне K ;
++Pl+Nom+PxSg3:зе%>нз%{АО%} K ;
 
-+Sg+Gen+Def:зть K ;
-+SP+Gen+Indef:%>зень K ;
-+Sg+Gen+PxSg1:зезень K ;
-+Sg+Gen+PxSg2:зцень K ;
-+Sg+Gen+PxSg3:зенц K ;
-+SP+Gen+PxPl1:зеньконь K ;
-+SP+Gen+PxPl2:зентень K ;
-+SP+Gen+PxPl3:зьснон K ;
-+Pl+Gen+Def:стнень K ;
-+Pl+Gen+PxSg1:знень K ;
-+Pl+Gen+PxSg2:стнень K ;
-+Pl+Gen+PxSg3:зензон K ;
++Sg+Gen+Def:з%>ть K ;
++SP+Gen+Indef:%>зе%>нь K ;
++Sg+Gen+PxSg1:зе%>зе%>нь K ;
++Sg+Gen+PxSg2:з%>це%>нь K ;
++Sg+Gen+PxSg3:зе%>нц K ;
++SP+Gen+PxPl1:зе%>ньк%>онь K ;
++SP+Gen+PxPl2:зе%>нтень K ;
++SP+Gen+PxPl3:зь%>снон K ;
++Pl+Gen+Def:с%>тне%>нь K ;
++Pl+Gen+PxSg1:з%>нень K ;
++Pl+Gen+PxSg2:с%>тне%>нь K ;
++Pl+Gen+PxSg3:зе%>нзо%>н K ;
 
-+Sg+Dat+Def:зти K/DAT-ARAM ;
-+SP+Dat+Indef:%>зенди K/DAT-ARAM ;
-+Sg+Dat+PxSg1:зезти K/DAT-ARAM ;
-+Sg+Dat+PxSg1:зезенди K/DAT-ARAM ;
-+Sg+Dat+PxSg2:зцти K/DAT-ARAM ;
-+Sg+Dat+PxSg3:зенцты K/DAT-ARAM ;
-+SP+Dat+PxPl1:зеньконды K/DAT-ARAM ;
-+SP+Dat+PxPl2:зентенди K/DAT-ARAM ;
-+SP+Dat+PxPl3:зьснонды K/DAT-ARAM ;
-+Pl+Dat+Def:стненди K/DAT-ARAM ;
-+Pl+Dat+PxSg1:зненди K/DAT-ARAM ;
-+Pl+Dat+PxSg2:стненди K/DAT-ARAM ;
-+Pl+Dat+PxSg3:зензонды K/DAT-ARAM ;
++Sg+Dat+Def:з%>ти K/DAT-ARAM ;
++SP+Dat+Indef:%>зе%>нди K/DAT-ARAM ;
++Sg+Dat+PxSg1:зе%>з%>ти K/DAT-ARAM ;
++Sg+Dat+PxSg1:зе%>зе%>нди K/DAT-ARAM ;
++Sg+Dat+PxSg2:зц%>ти K/DAT-ARAM ;
++Sg+Dat+PxSg3:зе%>нц%>ты K/DAT-ARAM ;
++SP+Dat+PxPl1:зе%>ньк%>онды K/DAT-ARAM ;
++SP+Dat+PxPl2:зе%>нт%>енди K/DAT-ARAM ;
++SP+Dat+PxPl3:зь%>сно%>нды K/DAT-ARAM ;
++Pl+Dat+Def:с%>т%>не%>нди K/DAT-ARAM ;
++Pl+Dat+PxSg1:з%>не%>нди K/DAT-ARAM ;
++Pl+Dat+PxSg2:с%>тне%>нди K/DAT-ARAM ;
++Pl+Dat+PxSg3:зе%>нзо%>нды K/DAT-ARAM ;
 
-+SP+Abe+Indef:%>зьфтома K ;
-+SP+Abl+Indef:зьда K ;
-+SP+Cau+Indef:зенкса K ;
-+SP+Cmpr+Indef:%>зешка K ;
-+SP+Ela+Indef:%>зеста K ;
-+Use/NG+SP+Ela+Indef:%>зьста K ;
-+Use/NG+SP+Ill+Indef:зьс K ;
-+SP+Ill+Indef:%>зес K ;
-+SP+Ine+Indef:%>зеса K ;
-+Use/NG+SP+Ine+Indef:зьса K ;
-+SP+Prl+Indef:%>зева K ;
-+Use/NG+SP+Tra+Indef:%>зекс K ; !2023_03_13 choose output
-+SP+Tra+Indef:%>зькс K ;
++SP+Abe+Indef:%>зь%>фтома K ;
++SP+Abl+Indef:зь%>да K ;
++SP+Cau+Indef:зе%>нкса K ;
++SP+Cmpr+Indef:%>зе%>шка K ;
++SP+Ela+Indef:%>зе%>ста K ;
++Use/NG+SP+Ela+Indef:%>зь%>ста K ;
++Use/NG+SP+Ill+Indef:зь%>с K ;
++SP+Ill+Indef:%>зе%>с K ;
++SP+Ine+Indef:%>зе%>са K ;
++Use/NG+SP+Ine+Indef:зь%>са K ;
++SP+Prl+Indef:%>зе%>ва K ;
++Use/NG+SP+Tra+Indef:%>зе%>кс K ; !2023_03_13 choose output
++SP+Tra+Indef:%>зь%>кс K ;
 
-+Der+Der/Dimin+SP+Abl+Indef:зняда K ;
-+Der+Der/Dimin+Pl+Nom+Indef:знят K ;
-+Der+Der/Dimin+Sg+Nom+PxSg3:зняц K ;
++Der+Der/Dimin+SP+Abl+Indef:зня%>да K ;
++Der+Der/Dimin+Pl+Nom+Indef:зня%>т K ;
++Der+Der/Dimin+Sg+Nom+PxSg3:зня%>ц K ;
 
 
 !! INDEFINITE PRONOUNS
@@ -559,34 +559,34 @@ LEXICON INDEFINITE-PRON-IN-VOK
 кивок+Pron+Indef:ки PRON-INDEF_FOR-KIVOK  "joku; kukaan" ;
 
 LEXICON PRON-INDEF_FOR-KIVOK
-+Pl+Nom:%>тка ENDLEX ;
++Pl+Nom:%>т%>ка ENDLEX ;
 !+Pl+Dat+Def:%>тненди ENDLEX ;
-+Pl+Gen+Def:%>тненьге ENDLEX ;
++Pl+Gen+Def:%>т%>не%>нь»ге ENDLEX ;
 !+Pl+Nom+Def:%>тне ENDLEX ;
 
-+Sg+Nom:вок ENDLEX ;
++Sg+Nom:»вок ENDLEX ;
 !+Sg+Nom:е ENDLEX ;
 !+Sg+Nom+Def:%>есь ENDLEX ;
 !+Sg+Dat+Def:%>ти ENDLEX ;
-+Sg+Gen+Def:%>тьке ENDLEX ;
++Sg+Gen+Def:%>ть»ке ENDLEX ;
 
-+SP+Abl:%>довок ENDLEX ;
-+SP+Abl:%>донга ENDLEX ;
++SP+Abl:%>до»вок ENDLEX ;
++SP+Abl:%>до»нга ENDLEX ;
 !+SP+Cau:%>нкса ENDLEX ;
 
-+SP+Dat:%>ндивок ENDLEX ;
-+SP+Dat:%>ндиге ENDLEX ;
-+SP+Dat:%>ндинге ENDLEX ;
-+SP+Gen:%>ньге ENDLEX ;
++SP+Dat:%>нди»вок ENDLEX ;
++SP+Dat+Use/NG:%>нди»ге ENDLEX ;
++SP+Dat+Use/NG:%>нди»нге ENDLEX ;
++SP+Gen:%>нь»ге ENDLEX ;
 !+SP+Ine:%>са ENDLEX ;
 !+SP+Tra:%>кс ENDLEX ;
 ! DER/COP ;
-+Der/Poss+Sg+Nom+Def:%>ннеське ENDLEX ;
-+Der/Poss+Sg+Gen+Def:%>ннетьке ENDLEX ;
-!+Der/Poss+Sg+Dat+Def:%>ннети ENDLEX ;
-!+Der/Poss+Pl+Nom+Def:%>ннетне ENDLEX ;
-!+Der/Poss+Pl+Gen+Def:%>ннетнень ENDLEX ;
-!+Der/Poss+Pl+Dat+Def:%>ннетненди ENDLEX ;
++Der/Poss+Sg+Nom+Def:%>нне%>сь»ке ENDLEX ;
++Der/Poss+Sg+Gen+Def:%>нне%>ть»ке ENDLEX ;
+!+Der/Poss+Sg+Dat+Def:%>нне%>ти ENDLEX ;
+!+Der/Poss+Pl+Nom+Def:%>нне%>т%>не ENDLEX ;
+!+Der/Poss+Pl+Gen+Def:%>нне%>т%>не%>нь ENDLEX ;
+!+Der/Poss+Pl+Dat+Def:%>нне%>т%>не%>нди ENDLEX ;
 !+Der/Poss+Sg+Nom+Indef:%>нне ENDLEX ;
 !+Der/Poss+Pl+Nom+Indef:%>ннет ENDLEX ;
 !+Der/Poss+SP+Abl:%>нне%>да ENDLEX ;

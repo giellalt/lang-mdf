@@ -138,7 +138,10 @@ LEXICON N_PINGE !!= @CODE@
 
 !! Without vowel
 :%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
-NMN_DECLENSION-WITHOUT-ONSET-VOWEL-RETAIN-STEM-VOWEL ;
+
++Use/NG: SG-NOM-DEF ;
+ SP-PRL_Ga ; !2023-08-30 has pair in lose stem vowel
++Use/NG:  SP-ABL ;
 :%^RmVow SP-LAT-INDEF ;
 ! N_KAL ;  Ela, Ill, Ine, Par 
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;

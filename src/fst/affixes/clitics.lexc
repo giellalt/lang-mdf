@@ -7,8 +7,13 @@
 !!!!!!!!!!!!!!
 
 LEXICON K/DAT-ARAM
- NounEnd_K ;
 +Clt/Aram:%-арам ENDLEX ;
+ NounEnd ;
+ K_вок ;
+
+LEXICON NounEnd_K_вок
+ NounEnd ;
+ K_вок ;
 
 !LEXICON K_CHOOSE_ВОК_OR_ENDLEX
 !!+Clt/AddVok:%>вок  ENDLEX ;
@@ -17,8 +22,12 @@ LEXICON K/DAT-ARAM
 LEXICON K_вок
 !! This is for vowel final Nominatives
 !+Clt/AddVok:%>вок  ENDLEX ; 
++Clt/Add:%>вок  ENDLEX ; 
 !+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
- K ;
++Clt/Add+Use/NG:%>%{гк%}%{АЕ%} ENDLEX ;
++Clt/Add+Use/NG:%>н%{гк%}%{АЕ%} ENDLEX ;
+ENDLEX ;
+
 LEXICON K_овок
 !! This is for PxPl1 and PxPl2 
 !+Clt/AddVok:%>овок  ENDLEX ; 
@@ -27,13 +36,17 @@ LEXICON K_овок
 LEXICON K_ГА
 !! This is for Consonant-final words
 !+Clt/AddGA:%>г%{АЕ%} ENDLEX ;
- K ;
++Clt/Add:%>г%{АЕ%} ENDLEX ;
++Clt/Add+Use/NG:%>овок  ENDLEX ; 
+ ENDLEX ;
 
 LEXICON K_НГА
 !! This is for Consonant-final words
 !+Clt/AddGA:%>нг%{АЕ%} # ;
 !+Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
- K ;
++Clt/Add:%>нг%{АЕ%} ENDLEX ;
++Clt/Add+Use/NG:%>вок  ENDLEX ; 
+ ENDLEX ;
 
 LEXICON K
 +Clt/Add:%>%{ЕОØ%}вок  ENDLEX ; 

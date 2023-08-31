@@ -137,7 +137,8 @@ Alphabet !!≈!!The base @CODE@
 %^Е2Я:0		!!= @CODE@ Change word-final vowel for dialect тувотне > тувотня
 
 %^Devoice:0	!!= @CODE@ for devoicing изь:исть
-%^PXSG1:0		!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
+%^PXSG1:0	!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
+%^CnsSt:0	!!= @CODE@ улемс:уль%^CnsSt%>%{АЕØ%}	
 
 TLoss:0
 SLoss:0
@@ -611,8 +612,9 @@ Vx:0 <=>
 "%{АЕØ%}:0 Sometimes"
 !! **@RULENAME@**  
  %{АЕØ%}:0 =>
-    Vows ([ в | д | л | з] (ь:)) %> _ [ # | %- ]  ;
+    [ Vows | в ]  %> _ [ # | %- ]  ;
     _ %> %{ВИУ%}: ;
+    Vows [ д | л | з] (ь:) %^CnsSt: %> _ [ # | %- ]  ;
 
 
 "%{АЕ%}:a"

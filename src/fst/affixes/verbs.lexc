@@ -352,16 +352,16 @@ LEXICON V0_ALYJAFTOMS
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON Non-Finite-Vws
-+Inf:%>%{ЕОØ%}мс K ;
-+Inf+Loc:%>%{ЕОØ%}ма K ;
++Inf:%>%{ЕОØ%}мс K_ГА ;
++Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl:%>%{ЕОØ%}м%>да K ;
++Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} K_НГА ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>да K ;
++Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} K_НГА ;
 +Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}мст%{АО%} K ;
++Ger+Ela:%>%{ЕОØ%}мст%{АО%} K_вок ;
 +Ger+Ela:%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Tra:%>%{ЕОØ%}мга K ;
++Ger+Tra:%>%{ЕОØ%}мга K_НГА ;
 +Ger+Tra:%>%{ЕОØ%}мга OBLIQUECX-PX-ava ;
 +Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger:%>%{ЕОØ%}мок K ;
@@ -466,14 +466,16 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 INF_OM		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
 +ConNeg:%>%{АЕØ%} PL-NOM-INDEF ;
++ConNeg+Use/NG:%^CnsSt%>%{АЕØ%} VerbEnd ;
++ConNeg+Use/NG:%^CnsSt%>%{АЕØ%} PL-NOM-INDEF ;
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
 !!€ кирдь%>%{АЕØ%}
 !!€ кирд0%>е
 !!€ ван%>%{АЕØ%}
 !!€ ван%>а
-+ConNegII:%>%{Х%}%{КТ%}%{ЬØ%} K ;
-+ConNegII:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
++ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} K ;
++ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
 !! апак Homonymy +Imprt+ScSg2
 !! ваномс+V+ConNegII
 !!€ ван%>%{Х%}%{КТ%}%{ЬØ%}
@@ -1557,21 +1559,21 @@ LEXICON OPT-60
 !!!!!!!!!!!!!!!!
 
 LEXICON INF_OM
-+Inf:%>%{ЕОØ%}мс K ;
-+Inf+Loc:%>%{ЕОØ%}м%{АО%} K ;
-+Inf+Loc+PxSg1:%>%{ЕОØ%}мон K ;
-+Inf+Loc+PxSg2:%>%{ЕОØ%}мот K ;
++Inf:%>%{ЕОØ%}мс K_ГА ;
++Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
++Inf+Loc+PxSg1:%>%{ЕОØ%}мон K_ГА ;
++Inf+Loc+PxSg2:%>%{ЕОØ%}мот K_ГА ;
 +Inf+Loc+PxSg3:%>%{ЕОØ%}монз%{АО%} K ;
 +Inf+Loc+PxPl1:%>%{ЕОØ%}монок K ;
 +Inf+Loc+PxPl1:%>%{ЕОØ%}монк K ;
 +Inf+Loc+PxPl2:%>%{ЕОØ%}монт K ;
 +Inf+Loc+PxPl3:%>%{ЕОØ%}мост K ;
 !+Inf+Ill:%>%{ЕОØ%}мс K ;
-+Inf+Abl:%>%{ЕОØ%}м%>да K ;
++Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} K_НГА ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>да K ;
++Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} K_НГА ;
 +Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}м%>ста NounEnd_K ;
++Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} NounEnd_K_вок ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
 +Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк K ;
