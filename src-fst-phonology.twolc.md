@@ -63,7 +63,8 @@ otherwise automatically removed %{ъØ%}
 %^Е2Я:0		 Change word-final vowel for dialect тувотне > тувотня
 
 %^Devoice:0	 for devoicing изь:исть
-%^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
+%^PXSG1:0	 кядне, ярмаконе не vs %{ЕОØ%}не
+%^CnsSt:0	 улемс:уль%^CnsSt%>%{АЕØ%}	
 
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix

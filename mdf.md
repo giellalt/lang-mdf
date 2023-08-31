@@ -154,6 +154,7 @@ The MOKSHA language clitics
 CLITICS
 
 This is for vowel final Nominatives
+
 This is for PxPl1 and PxPl2 
 
 This is for Consonant-final words
@@ -669,7 +670,8 @@ otherwise automatically removed %{ъØ%}
 %^Е2Я:0		 Change word-final vowel for dialect тувотне > тувотня
 
 %^Devoice:0	 for devoicing изь:исть
-%^PXSG1:0		 кядне, ярмаконе не vs %{ЕОØ%}не
+%^PXSG1:0	 кядне, ярмаконе не vs %{ЕОØ%}не
+%^CnsSt:0	 улемс:уль%^CnsSt%>%{АЕØ%}	
 
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix
@@ -1682,6 +1684,7 @@ And following triggers to control variation
 %^Е2Я		 Change word-final vowel for dialect тувотне > тувотня
 %^Devoice	 for devoicing изь:исть
 %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
+%^CnsSt		 улемс:уль%^CnsSt%>%{АЕØ%}	
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following

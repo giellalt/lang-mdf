@@ -405,6 +405,7 @@ And following triggers to control variation
 %^Е2Я		 Change word-final vowel for dialect тувотне > тувотня
 %^Devoice	 for devoicing изь:исть
 %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
+%^CnsSt		 улемс:уль%^CnsSt%>%{АЕØ%}	
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
