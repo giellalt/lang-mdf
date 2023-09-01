@@ -94,7 +94,7 @@ LEXICON PRONOUN-TYPES
 !тинць+Pron:тинць PRON_  "" ;
 
 нона+Pron:нона PRON_  "muu, toinen, edellinen" ;
-ня+Det+Dem+Pl:ня DET-DEM_  "nämä, ne" ;
+ня+Det+Dem+Pl+Nom+Indef:ня DET-DEM_  "nämä, ne" ;
 
 нят+Pron+Dem:ня PRON-DEM_NIAT  "nämä, ne" ;
 
@@ -103,6 +103,7 @@ LEXICON PRONOUN-TYPES
 сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
 тона+Pron:тона PRON-DEM_TONA  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
+тя+Det+Dem+Sg+Nom+Indef:тя DET-DEM_  "tämä, se; (mon.) nämä, ne" ;
 тяка+Det+Dem:тяк%{АО%} N_PULA "tämä sama" ;
 
 тяшка+A+Dem:тяшка PRON_AVA  "sellainen, semmoinen, samanlainen" ;
