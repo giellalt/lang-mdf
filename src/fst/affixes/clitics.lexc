@@ -49,7 +49,7 @@ LEXICON K_НГА
  ENDLEX ;
 
 LEXICON K
-+Clt/Add:%>%{ЕОØ%}вок  ENDLEX ; 
++Clt/Add+Use/NG:%>%{ЕОØ%}вок  ENDLEX ; 
 +Clt/Add:%>%{гк%}%{АЕ%} ENDLEX ;
 +Clt/Add:%>нг%{АЕ%} ENDLEX ;
 !+Clt/AddVok:%>%{ЕОØ%}вок  ENDLEX ; 
