@@ -133,6 +133,7 @@
 /tools/spellcheckers/filters/insert-default_left_compounding-tags.regex
 /tools/spellcheckers/filters/remove-derivation-position-tags.regex
 /tools/spellcheckers/filters/remove-error-strings.regex
+/tools/spellcheckers/filters/remove-hard-sign-in-first-syllable.regex
 /tools/spellcheckers/filters/remove-illegal-derivation-strings-flagbased.regex
 /tools/spellcheckers/filters/remove-usage-tags.regex
 /tools/spellcheckers/filters/remove-word-boundary.regex
