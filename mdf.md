@@ -1717,6 +1717,9 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
+* **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
+* **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
+
 @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
 
 # FLAGS USED WITH MODIFIERS WITHOUT NOUNS
