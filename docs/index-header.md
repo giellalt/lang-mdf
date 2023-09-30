@@ -1,7 +1,7 @@
 # Moksha documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mdf%2Fgh-pages%2Flemmacount.json)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mdf%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mdf/main/badge.svg)](https://github.com/giellalt/lang-mdf/actions)
