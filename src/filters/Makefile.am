@@ -33,6 +33,7 @@ GIELLA_FILTER_LOCAL_REGEX_SRCS=\
 					rename-POS_before_Der-tags.regex                   \
 					split-CmpN-tags.regex                              \
 					split-CmpNP-tags.regex                             \
+					remove-DNorm-tags.regex \
 					convert_to_flags-CmpNP-tags.regex                  \
 					change-optionally-word_boundary_to_hyphen.regex
 
