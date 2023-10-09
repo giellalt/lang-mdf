@@ -555,6 +555,10 @@ REMOVE ("уле") IF (0 ("улемс")) (0* Tra BARRIER BOS OR EOS OR @CVP);
    # perhaps too open
    #Улень:  Улень сюдофокс и юкстафокс.
 
+REMOVE ("калга" N SP Abl) IF ((-1 ("тяфтама")) OR (-2 ("тяфтама"))) (1 Abl);
+   # Тяфтама жа калгодот коськомдост меле улендихть сёвоню почватневок
+
+
 #
 REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
     #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
