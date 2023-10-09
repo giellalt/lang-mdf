@@ -80,6 +80,9 @@ endif # CAN_FOMA
 #### Add language-specific build rules here: ####
 
 # We need to add processing of language-specific tags in the analyser:
+analyser-gt-desc.hfst\
+analyser-gt-desc.foma\
+analyser-gt-desc.xfst: \
 analyser-gt-desc.%: analyser-gt-desc.tmp.% \
 					filters/remove-derivation-position-tags.% \
 					filters/remove-norm-comp-tags.%             \
@@ -95,6 +98,8 @@ analyser-gt-desc.%: analyser-gt-desc.tmp.% \
 		 quit\n" | $(XFST_TOOL)
 
 # And also for the normative analyser (foma and hfst):
+analyser-gt-norm.hfst\
+analyser-gt-norm.foma:\
 analyser-gt-norm.%: analyser-gt-norm.tmp.% \
 					filters/remove-illegal-derivation-strings-flagbased.% \
 					filters/insert-default-compounding-tags.% \
@@ -162,6 +167,9 @@ analyser-pmatchdisamb-gt-desc.hfst: analyser-pmatchdisamb-gt-desc.tmp.hfst \
 
 # Special case for the disamb analyser, since it follows the same filename
 # pattern as the raw fst:
+analyser-disamb-gt-desc.hfst\
+analyser-disamb-gt-desc.foma\
+analyser-disamb-gt-desc.xfst: \
 analyser-disamb-gt-desc.%: analyser-disamb-gt-desc.tmp.%           \
 					filters/remove-derivation-position-tags.%      \
 					filters/remove-norm-comp-tags.%                \
@@ -204,6 +212,9 @@ $(foreach fst,hfst xfst foma,$(eval $(call giella_generators,$(fst))))
 
 # Do NOT apply the accent removal filters to the normative
 # dictionary generator:
+generator-dict-gt-norm.hfst\
+generator-dict-gt-norm.foma\
+generator-dict-gt-norm.xfst: \
 generator-dict-gt-norm.%: generator-dict-gt-norm.tmp.% \
 					filters/remove-derivation-position-tags.% \
 					filters/remove-norm-comp-tags.%
