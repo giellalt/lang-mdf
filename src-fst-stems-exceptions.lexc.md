@@ -38,6 +38,8 @@ MISSING VALENCY
 
 more words for Mormula
 
+RUSSIAN VERBS
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/exceptions.lexc)</small>

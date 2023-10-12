@@ -1645,6 +1645,38 @@ possible to target derivations as a class e.g. in regular expressions etc
 * +Der/NJ Онь
 * +Der/Bachk * бачк
 
+# Tags for originating language
+
+The following tags are used to guide conversion to IPA: loan words
+and foreign names are usually pronounced (approximately) as in the
+originating (majority) language. Instead of trying to identify the
+correct pronunciation based on phonotactics (orthotactics actually),
+we tag all words that can't be correctly transcribed using the SME
+transcriber with source language codes. Once tagged, it is possible
+to split the lexical transducer in smaller ones according to langu-
+age, and apply different IPA conversion to each of them.
+The principle of tagging is that we only tag to the extent needed,
+and following a priority:
+1. any untagged word is pronounced with SME orthographic conventions
+1. NNO and NOB have identical pronunciation, NNO is only used if
+different in spelling from NOB
+1. SWE has mostly the same pronunciation as NOB, and is only used
+if different in spelling from NOB
+1. Occasionally even SME (the default) may be tagged, to block other
+languages from being specified, mainly during semi-automatic
+language tagging sessions
+All in all, we want to get as much correctly transcribed to IPA
+with as little work as possible. On the other hand, if more words
+are tagged than strictly needed, this should pose no problem as
+long as the IPA conversion is correct - at least some words will
+get the same pronunciation whether read as SME or NOB/NNO/SWE.
+
+* **+OLang/CHV** = Chuvash
+* **+OLang/MDF** = Moksha
+* **+OLang/MYV** = Erzya
+* **+OLang/RUS** = Russian
+* **+OLang/TAT** = Tatar
+
 Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
@@ -1837,6 +1869,8 @@ PROP
 MISSING VALENCY
 
 more words for Mormula
+
+RUSSIAN VERBS
 
 * * *
 
