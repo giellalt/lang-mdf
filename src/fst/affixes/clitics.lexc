@@ -54,7 +54,7 @@ LEXICON K
 +Clt/Add:%>нг%{АЕ%} ENDLEX ;
 !+Clt/AddVok:%>%{ЕОØ%}вок  ENDLEX ; 
 !+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
-!+Clt/AddNgA:%>нг%{АЕ%} ENDLEX ;
++Clt/AddNgA+Use/NG:%>%{ЕОØ%}нг%{АЕ%} ENDLEX ;
  ENDLEX ; 
 
 
