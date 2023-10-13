@@ -661,6 +661,7 @@ in ped realized as hard sign
 ## TRIGGERS
 * %^RmVow:0  for removing vowels 
 %^Ь2ZERO:0	 removes soft sign before vowel or other combination
+%^ЬKEEP:0	 retains soft sign, breaks pattern for removal
 %^Ъ2PED:0	 brings out hard sign, which is
 otherwise automatically removed %{ъØ%} 
 %^Е2О:0		 Change stem-final vowel сембе:сембось
@@ -1274,6 +1275,10 @@ plural
 
 **Disallow onset vowel after voiced cons**
 
+**Disallow Ь2ZERO**
+
+**Disallow ЬKEEP**
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc)</small>
@@ -1343,6 +1348,8 @@ Interjections:
 The Usage extents are marked using following tags:
 * ** +Err/Orth    **:  substandard / outside the written norm
 * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
+* +Err/Orth-soft-loss $тиендсазь €тиендьсазь
+* +Err/Orth-soft-kept шяярьня
 * +Err/Orth-colloq Евсеич
 * +Err/Orth-old1 * old1 like озимь, морковь 1930–1940
 * +Err/Orth-pre1978 * orthography preceding 1978
@@ -1711,6 +1718,7 @@ in ped realized as hard sign
 And following triggers to control variation
 * %^RmVow 	 for removing vowels
 %^Ь2ZERO	 removes soft sign before vowel or other combination
+%^ЬKEEP		 retains soft sign, breaks pattern for removal шяярьня
 %^Ъ2PED		 brings out hard sign, which is otherwise automatically removed
 %^Е2О		 Change stem-final vowel сембе:сембось
 %^Е2А		 Change stem-final vowel мельге:мельганза

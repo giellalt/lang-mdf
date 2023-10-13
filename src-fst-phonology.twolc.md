@@ -54,6 +54,7 @@ in ped realized as hard sign
 ## TRIGGERS
 * %^RmVow:0  for removing vowels 
 %^Ь2ZERO:0	 removes soft sign before vowel or other combination
+%^ЬKEEP:0	 retains soft sign, breaks pattern for removal
 %^Ъ2PED:0	 brings out hard sign, which is
 otherwise automatically removed %{ъØ%} 
 %^Е2О:0		 Change stem-final vowel сембе:сембось
@@ -666,6 +667,10 @@ plural
 **Disallow final е lowering to я tag elsewhere**
 
 **Disallow onset vowel after voiced cons**
+
+**Disallow Ь2ZERO**
+
+**Disallow ЬKEEP**
 
 * * *
 
