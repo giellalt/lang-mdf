@@ -2952,6 +2952,7 @@ LEXICON V_mdf2x
 киреньфтемс+V:киреньфть BV_NJAFTEMS  "kutistaa" ;
 кирневомс+V:кирнев IV_ANDOVOMS  "tulla pidetyksi" ;
 кирнемс+V:кирне BV_KUNDAMS  "pitää" ;
+кирнемс+V+Err/Orth-soft-kept:кирьне BV_KUNDAMS  "pitää" ;
 кирнямс+V:кирня IV_KUNDAMS  "sirkuttaa" ;
 киртьфнемс+V:киртьфне BV_KUNDAMS  "viivästyttää" ;
 киртьфтемс+V:киртьфть BV_NJAFTEMS  "viivästyttää" ;
@@ -5086,6 +5087,7 @@ LEXICON V_mdf2x
 мянтьфтемс+V:мянтьфть BV_NJAFTEMS  "panna taittamaan" ;
 мянцевомс+V:мянцев IV_ANDOVOMS  "tulla taitetuksi" ;
 мянцемс+V:мянце BV_KUNDAMS  "taitella" ;
+мянцемс+V+Err/Orth-soft-kept:мяньце BV_KUNDAMS  "taitella" ;
 мянцерямс+V:мянцеря IV_KUNDAMS  "rypistää" ;
 мянцефнемс+V:мянцефне BV_KUNDAMS  "rutisutella" ;
 мянцефтемс+V:мянцефть BV_NJAFTEMS  "rutisuttaa" ;
@@ -7122,7 +7124,7 @@ LEXICON V_mdf2x
 пялемкшнемс+V:пялемкшне IV_KUNDAMS  "vähentyä" ;
 пялемомс+V:пялем IV_ANDOMS  "vähentyä" ;
 пялемс+V:пяль BV_PACHKODEMS  "porata" ;
-пялендемс+V:пялендь IV_PACHKODEMS  "porata" ;
+пялендемс+V:пялендь BV_PACHKODEMS  "porata" ;
 пяленкшнемс+V:пяленкшне IV_KUNDAMS  "porata" ;
 пялентьфнемс+V:пялентьфне BV_KUNDAMS  "porautella" ;
 пялентьфтемс+V:пялентьфть BV_NJAFTEMS  "porauttaa" ;

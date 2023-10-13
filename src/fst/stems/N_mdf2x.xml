@@ -20019,6 +20019,7 @@
      <l pos="N">видьме</l>
      <stg>
        <st Contlex="N_SEL1ME">видьм%{ЕО%}</st>
+       <st Contlex="N_SEL1ME" status="Err/Orth-soft-loss">видм%{ЕО%}</st>
      </stg> <phonet>viďmä</phonet>
    </lg>
      <sources>
@@ -159598,7 +159599,7 @@
    <lg>
      <l pos="N">шада</l>
      <stg>
-       <st Contlex="N_AVA">шада</st>
+       <st Contlex="N_PULA">шад%{АО%}</st>
      </stg> <phonet>šada</phonet>
    </lg>
      <sources>
@@ -159844,7 +159845,7 @@
    <lg>
      <l pos="N">шалхкопотма</l>
      <stg>
-       <st Contlex="N_PULA">шалхкопотм%{АО%}</st>
+       <st Contlex="N_PULA">шалхко#потм%{АО%}</st>
      </stg> <phonet>šalxkəpotma</phonet>
    </lg>
      <sources>
@@ -165818,6 +165819,7 @@
      <l pos="N">шурьхкя</l>
      <stg>
        <st Contlex="N_VAL1MIA">шурьхкя</st>
+       <st Contlex="N_VAL1MIA" status="Err/Orth">шюрьхкя</st>
      </stg> <phonet>šuŕxkä</phonet>
    </lg>
      <sources>

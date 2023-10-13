@@ -130,10 +130,13 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 управляндамс+V:управлянда BV_KUNDAMS ;
 эшкстамс+V:эшкста BV_KUNDAMS ;
 явштамс+V:явшта BV_KUNDAMS ;
+явштомс+V:явшт BV_ALYJAFTOMS ;
 вельмамс+V:вельма IV_KUNDAMS ;
 вельмафтомс+V:вельмафт BV_ALYJAFTOMS ;
 кодсемс+V:кодсе BV_KUNDAMS ;
 кярсемс+V:кярсе BV_KUNDAMS ;
+сталгофнемс+V:сталгофне BV_KUNDAMS ;
+солафнемс+V:солафне BV_KUNDAMS ;
 
 аноклакшемс+V+Err/Dial:аноклакше BV_KUNDAMS ;
 арелякшемс+V+Err/Dial:арелякше BV_KUNDAMS ;

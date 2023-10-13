@@ -940,6 +940,7 @@ LEXICON N_mdf2x
 видеф+N:видеф N_KAL  "kylvös" ;
 видеши+N:видеши N_AVA  "suoruus" ;
 видьме+N:видьм%{ЕО%} N_SEL1ME  "siemen" ;
+видьме+N+Err/Orth-soft-loss:видм%{ЕО%} N_SEL1ME  "siemen" ;
 виензама+N:виензама N_AVA  "" ;
 виза+N:виза N_AVA  "" ;
 визделгофтома+N:визделгофтома N_AVA  "" ;
@@ -7292,7 +7293,7 @@ LEXICON N_mdf2x
 шавондома+N:шавондома N_AVA  "pahoinpitely" ;
 шавф+N:шавф N_KAL  "" ;
 шавши+N:шавши N_AVA  "tiistai" ;
-шада+N:шада N_AVA  "tulva" ;
+шада+N:шад%{АО%} N_PULA  "tulva" ;
 шадоведь+N:шадоведь N_KIAL1  "tulvavesi" ;
 шадома+N:шадома N_AVA  "" ;
 шайба+N:шайба N_AVA  "" ;
@@ -7305,7 +7306,7 @@ LEXICON N_mdf2x
 шалхкалозон+N:шалхкалозон N_KAL  "nenäni alla" ;
 шалхковаря+N:шалхковаря N_AVA  "sierain" ;
 шалхкокандор+N:шалхкокандор N_KAL  "nenärusto" ;
-шалхкопотма+N:шалхкопотм%{АО%} N_PULA  "nenäontelo" ;
+шалхкопотма+N:шалхко#потм%{АО%} N_PULA  "nenäontelo" ;
 шаль+N:шаль N_KIAL1  "saali" ;
 шальвай+N:шальвай N_VAJ  "saali" ;
 шама+N:шама N_AVA  "kasvot" ;
@@ -7532,6 +7533,7 @@ LEXICON N_mdf2x
 шуньжу+N:шуньжу N_KELU  "" ;
 шупома+N:шупома N_AVA  "" ;
 шурьхкя+N:шурьхкя N_VAL1MIA  "sipuli" ;
+шурьхкя+N+Err/Orth:шюрьхкя N_VAL1MIA  "sipuli" ;
 шурьхкяпря+N:шурьхкяпря N_AVA  "sipuli" ;
 шут+N:шут N_KAL  "" ;
 шутендама+N:шутендама N_AVA  "pila" ;
