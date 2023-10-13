@@ -91,6 +91,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! The Usage extents are marked using following tags:
  +Err/Orth    !!= * **@CODE@**:  substandard / outside the written norm
  +Err/Orth-lowered-final-e-2-ja    !!≈ * @CODE@ final е lowered to я with Е2Я trigger
+ +Err/Orth-soft-loss !!≈ * @CODE@ $тиендсазь €тиендьсазь
+ +Err/Orth-soft-kept !!≈ * @CODE@ шяярьня
  +Err/Orth-colloq !!≈ * @CODE@ Евсеич
  +Err/MissingSpace
  +Err/Orth-old1 !!≈ * @CODE@ * old1 like озимь, морковь 1930–1940
@@ -672,6 +674,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !! And following triggers to control variation
 %^RmVow 	!!= * @CODE@ for removing vowels
 %^Ь2ZERO	!!= @CODE@ removes soft sign before vowel or other combination
+%^ЬKEEP		!!= @CODE@ retains soft sign, breaks pattern for removal шяярьня
 %^Ъ2PED		!!= @CODE@ brings out hard sign, which is otherwise automatically removed
 %^Е2О		!!= @CODE@ Change stem-final vowel сембе:сембось
 %^Е2А		!!= @CODE@ Change stem-final vowel мельге:мельганза
