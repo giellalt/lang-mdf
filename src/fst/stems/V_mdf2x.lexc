@@ -184,9 +184,9 @@ LEXICON V_mdf2x
 амолдавомс+V:амолдав IV_ANDOVOMS  "tulla ammennetuksi" ;
 амолдамс+V:амолда IV_KUNDAMS  "ammentaa" ;
 амолдафнемс+V:амолдафне BV_KUNDAMS  "ammennuttaa" ;
-амолякшнемс+V:амолякшне IV_KUNDAMS  "ammennella" ;
-амолямс+V:амоля IV_KUNDAMS  "ammennella" ;
-амоляфнекшнемс+V:амоляфнекшне IV_KUNDAMS  "ammennutella" ;
+амолякшнемс+V:амолякшне BV_KUNDAMS  "ammennella" ;
+амолямс+V:амоля BV_KUNDAMS  "ammennella" ;
+амоляфнекшнемс+V:амоляфнекшне BV_KUNDAMS  "ammennutella" ;
 амоляфнемс+V:амоляфне BV_KUNDAMS  "ammennuttaa" ;
 амоляфтомс+V:амоляфт BV_ALYJAFTOMS  "ammennuttaa" ;
 амсемс+V:амсе IV_KUNDAMS  "syöskennellä (lastenkielessä)" ;
@@ -2747,7 +2747,7 @@ LEXICON V_mdf2x
 кеворькшнемс+V:кеворькшне IV_KUNDAMS  "kieriskellä" ;
 кеворьфтемс+V:кеворьфть BV_NJAFTEMS  "kierittää" ;
 кеворьшнемс+V:кеворьшне IV_KUNDAMS  "kieriskellä" ;
-кеворямс+V:кеворя IV_KUNDAMS  "kieriskellä" ;
+кеворямс+V:кеворя BV_KUNDAMS  "kieriskellä" ;
 кеворяфнемс+V:кеворяфне BV_KUNDAMS  "kieritellä" ;
 кеворяфтомс+V:кеворяфт BV_ALYJAFTOMS  "kieritellä" ;
 кевярькшнемс+V:кевярькшне IV_KUNDAMS  "vetelehtiä" ;

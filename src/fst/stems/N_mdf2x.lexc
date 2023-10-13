@@ -2712,7 +2712,7 @@ LEXICON N_mdf2x
 крушения+N:крушения N_AVA  "" ;
 крф+N:кърф N_KAL  "kuorsaus" ;
 крфама+N:кърфама N_AVA  "kyteminen" ;
-крхкалма+N:кърхкалма N_AVA  "syvyys" ;
+крхкалма+N:кърхкалм%{АО%} N_PULA  "syvyys" ;
 крхмадема+N:крхмадема N_AVA  "" ;
 крхматьфтема+N:крхматьфтема N_AVA  "" ;
 крхтакшкя+N:кърхтакшкя N_VAL1MIA  "" ;
@@ -2748,7 +2748,7 @@ LEXICON N_mdf2x
 кстиндафнема+N:къстиндафнема N_AVA  "" ;
 ксты+N:ксты N_ANDY  "mansikka" ;
 кстыкс+N:кстыкс N_OSH  "mansikka" ;
-кстыпанчф+N:кстыпанчф N_KAL  "puna-apila" ;
+кстыпанчф+N:ксты#панчф N_KAL  "puna-apila" ;
 ксьмярдема+N:късьмярдема N_AVA  "" ;
 ксяль+N:ксяль N_KIAL1  "kiisseli" ;
 ктмакс+N:кътмакс N_OSH  "" ;
@@ -2950,7 +2950,7 @@ LEXICON N_mdf2x
 кяйпаньджф+N:кяйпаньджф N_KAL  "" ;
 кялема+N:кялема N_AVA  "meno" ;
 кяль+N:кяль N_KIAL1  "kieli" ;
-кяльгопанчф+N:кяльгопанчф N_KAL  "martokukka" ;
+кяльгопанчф+N:кяльго#панчф N_KAL  "martokukka" ;
 кяльготнема+N:кяльготнема N_AVA  "vale" ;
 кялькнема+N:кялькнема N_AVA  "vale" ;
 кяме+N:кям%{ЕО%} N_SEL1ME  "saapas" ;
@@ -3349,7 +3349,7 @@ LEXICON N_mdf2x
 май+N:май N_VAJ  "toukokuu" ;
 мак+N:мак N_KAL  "" ;
 макет+N:макет N_KAL  "" ;
-макпанчф+N:макпанчф N_KAL  "unikko" ;
+макпанчф+N:мак#панчф N_KAL  "unikko" ;
 макпря+N:макпря N_AVA  "unikon siemenkota" ;
 макса+N:макс%{АО%} N_PULA  "maksa" ;
 максака+N:максака N_AVA  "hamsteri" ;
@@ -5228,7 +5228,7 @@ LEXICON N_mdf2x
 розь+N:розь N_KIAL1  "ruis" ;
 розьвидьмот+N:розьвидьмот N_  "(mon.) rukiinjyvät" ;
 розьпакся+N:розьпакся N_AVA  "ruispelto" ;
-розьпанчф+N:розьпанчф N_KAL  "ruiskaunokki" ;
+розьпанчф+N:розь#панчф N_KAL  "ruiskaunokki" ;
 рой+N:рой N_VAJ  "mehiläisparvi" ;
 роль+N:роль N_KIAL1  "" ;
 ром+N:ром N_KAL  "" ;
@@ -5690,7 +5690,7 @@ LEXICON N_mdf2x
 сопротивления+N:сопротивления N_AVA  "" ;
 сор+N:сор N_KAL  "roska" ;
 сорга+N:сорга N_  "höyhen" ;
-соргоняпанчф+N:соргоняпанчф N_KAL  "kaunokainen" ;
+соргоняпанчф+N:соргоня#панчф N_KAL  "kaunokainen" ;
 соргопона+N:соргопона N_AVA  "karvoitus" ;
 сортировка+N:сортировка N_AVA  "lajittelija" ;
 сортише+N:сортише N_TISHE  "rikkaruoho" ;
@@ -7752,7 +7752,7 @@ LEXICON N_mdf2x
 эшаптома+N:эшаптома N_AVA  "" ;
 эше+N:эше N_TISHE  "viileys" ;
 эшеляма+N:эшеляма N_AVA  "uinti" ;
-эши+N:эши N_AVA  "kaivo" ;
+эши+N:эши N_ANDY  "kaivo" ;
 эшкс+N:эшкс N_OSH  "varjo" ;
 юбка+N:юбка N_AVA  "hame" ;
 юв+N:юв N_KAL  "akana" ;
