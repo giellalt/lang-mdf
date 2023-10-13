@@ -128,6 +128,7 @@ Alphabet !!≈!!The base @CODE@
 !! ## TRIGGERS
 %^RmVow:0 !!= * @CODE@ for removing vowels 
 %^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination
+%^ЬKEEP:0	!!= @CODE@ retains soft sign, breaks pattern for removal
 %^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is
 !! otherwise automatically removed %{ъØ%} 
 %^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
@@ -1185,6 +1186,7 @@ CnsDent: _ ( %>|%^PXSG1: %>) [ %{АЯ%}: | %{ИЫЙ%}: | %{ЕØ%}:е | %{ЕОØ%
 !!$ ломань%>д%{АО%}
 !!$ ломань%>да
 
+
 !! ### DIMINUTIVES
 "%{DIM%}:н"
 !! **@RULENAME@**
@@ -1281,7 +1283,15 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
 !! **@RULENAME@**
 %^PXSG1:0 /<=
      [г|й:|к|п|ф|х|ш|щ|ч|[т|с] (ь:) ] _ %>  н е [%>|# | %- ] ;
-     [Vows:|Vows:|б|в|ж|м|[д|з|л|н|р] (ь:) ] _ %> %{ЕОØ%}: н е [%>|# | %- ] ;
+     [Vows:|б|в|ж|м|[д|з|л|н|р] (ь:) ] _ %> %{ЕОØ%}: н е [%>|# | %- ] ;
+
+"Disallow Ь2ZERO"
+!! **@RULENAME@**
+%^Ь2ZERO:0 /<= [Vows|Cns] _ %> с;
+
+"Disallow ЬKEEP"
+!! **@RULENAME@**
+%^ЬKEEP:0 /<= [Vows|Cns - [ф | т | ц | ч | :с | ш | х]| л ь] _ %> н я ;
 
 !!TESTS
 !echo 'п а н ж:ч > с ы' | hfst-pair-test src/fst/phonology.compose.hfst
