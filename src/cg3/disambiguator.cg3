@@ -91,6 +91,7 @@ LIST A = A ;
 LIST Adv = Adv ;
 LIST V = V ;
 LIST Pron = Pron ;
+LIST Det = Det ;
 
 LIST CS = CS ;
 LIST CCC = CC ;
@@ -559,6 +560,10 @@ REMOVE ("калга" N SP Abl) IF ((-1 ("тяфтама")) OR (-2 ("тяфтам
    # Тяфтама жа калгодот коськомдост меле улендихть сёвоню почватневок
 
 
+REMOVE:NotDetWhenNextNotNP Det IF (0 ("тя" Pron)) (NOT 1 A OR N) ;
+       # Тя эряви и сянкса
+
+
 #
 REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
     #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
@@ -655,6 +660,11 @@ REMOVE:NotAIfOnlySg3 A IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (NOT (-1* VFIN BAR
 #REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 Ind + Prs + ScSg3) (NOT (-1* VFIN BARRIER CLB) OR (1* VFIN BARRIER CLB)) ;
 #REMOVE:NotPrsPrcIfOnlySg3 PrsPrc IF (0 IndPrsSg3 OR DerNomAgSgNomIndef) (0* VFIN BARRIER CLB) ;
 SELECT:PrecedGenObjFollowN DerNomAgSgNomIndef IF (-1 (SP Gen Indef)) (1 N);
+
+REMOVE:NotPronWhenNextNotNP Pron IF (0 ("тя" Det)) (1 A OR N) ;
+       # тя слойти мярьгихть материнскяй порода
+       # see 563 (:NotDetWhenNextNotNP) and (:661:NotNIfOnlySg3)
+
 
 
 REMOVE:VerbSg3NotNLat Lat IF (0 NONLATIVENOUN ) (0 Ind + Prs + ScSg3) ;
@@ -794,9 +804,15 @@ REMOVE:NoSgObjPassIfSubjSg OcSg2 IF (-1 Pron + Pers + Sg3 + Nom) (0 OcPl2) (0 Sc
 REMOVE:NoScPl3IfSubjSg3 ScPl3 IF (0 ScSg3) ((-1* Pron + Pers + Sg3 + Nom BARRIER CLB) OR (1* Pron + Pers + Sg3 + Nom BARRIER CLB)) ;
 
 # Тяда инголе
-REMOVE:NoAuxProhIfAblAndNextCompared Proh IF (0 Abl) (1 CompAdv ) ;
+REMOVE:NoAuxProhIfAblAndNextCompared Proh IF (0 Abl) (1 CompAdv OR ("башка" Po)) ;
 
 REMOVE Po IF (-1 Abl) (0 CompAdv) ;
+
+REMOVE Po IF (NOT -1 Abl) (0 ("башка")) ;
+    # срадома башка
+
+REMOVE:NoAdvOrAWhenAblBeforeNextNotNP Adv OR A IF (-1 Abl) (0 ("башка")) (NOT 1 A OR N) ;
+    # тяда башка,
 
 # Тяфта минь ульхтяма
 REMOVE V IF (0 Pron + Pers + Pl1 + Nom) (1* VFIN BARRIER CLB);
