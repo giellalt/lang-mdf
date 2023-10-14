@@ -155,7 +155,7 @@ LEXICON N_mdf2x
 аллоч+N:аллоч N_OSH  "munankuori" ;
 алтюжя+N:алтюжя N_AVA  "keltuainen" ;
 алу% сараз+N:алу% сараз N_SARAZ  "muniva kana" ;
-алубанда+N:алубанда N_AVA  "alamäki" ;
+алубанда+N:алу#банд%{АОØ%} N_PANGA  "alamäki" ;
 алфавит+N:алфавит N_KAL  "aakkoset" ;
 алыяй+N:алыяй A_KAL  "munituslintu" ;
 альгя+N:альгя N_PAKSIA  "aviomiehen vanhempi veli" ;
@@ -407,7 +407,7 @@ LEXICON N_mdf2x
 бамбук+N:бамбук N_KAL  "" ;
 бамбушка+N:бамбушка N_AVA  "" ;
 банан+N:банан N_KAL  "" ;
-банда+N:банда N_AVA  "" ;
+банда+N:банд%{АОØ%} N_PANGA  "" ;
 бандероль+N:бандероль N_KIAL1  "" ;
 бандит+N:бандит N_KAL  "maantierosvo" ;
 банка+N:банка N_AVA  "purkki" ;
@@ -2002,7 +2002,7 @@ LEXICON N_mdf2x
 калека+N:калека N_AVA  "surkastunut" ;
 календарь+N:календарь N_KIAL1  "kalenteri" ;
 калкфтома+N:калкфтома N_AVA  "kuume" ;
-калма+N:калм%{ЕО%} N_SEL1ME  "hauta" ;
+калма+N:калм%{АО%} N_PULA  "hauta" ;
 калмоланга+N:калмо#ланг%{АОØ%} N_PANGA  "hautausmaa" ;
 калмомар+N:калмомар N_KAL  "hautakumpu" ;
 калода+N:калода N_AVA  "kaukalo" ;
