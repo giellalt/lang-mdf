@@ -123,9 +123,8 @@ LEXICON A_SEL1ME
 LEXICON DET-DEM_
  ENDLEX ;
 
-!LEXICON DET_AVA
-!+Det+Sg+Nom+Indef: K ;
-!+Det+Der+Der/MWN+N: N_AVA ;
+LEXICON DET_AVA
++Sg+Nom+Indef: ENDLEX ;
 
 !LEXICON DET_OFTA
 !!офта:офт%{АОØ%}
