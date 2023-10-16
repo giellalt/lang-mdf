@@ -30,7 +30,6 @@ LEXICON N_PINGE
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
 Floating
-
 Without vowel
 
 LEXICON N_KECHE 

@@ -227,7 +227,6 @@ LEXICON N_PINGE
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
 Floating
-
 Without vowel
 
 LEXICON N_KECHE 
@@ -823,7 +822,12 @@ Letters = Vows Cns ь ъ ;
 * *пул%{АО%}#*
 * *пула#*
 
-**Vx:0 %{АО%}:0**
+**Vx:0 %{ЕО%}:0**
+
+**{АО}:0 before Lat**
+калма+N+SP+Lat+Indef: 
+* *калм{АО}>{ВИУ}*
+* *калм0>у*
 пря+N+SP+Ine+Der/Cop+Prs+ScSg1 **top, head/pää**
 * *пря%>с%{АО%}%>%{АЯ%}н*
 * *пря%>с0%>ан*
