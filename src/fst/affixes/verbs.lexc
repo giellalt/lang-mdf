@@ -38,7 +38,6 @@ LEXICON VERBNEGATIVE
 аф+V+Aux+Neg+Opt+ScSg3+OcSg2:тязанза K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcPl2:тязадязь K ;
 аф+V+Aux+Neg+Opt+ScSg3+OcSg3:тязазе K ;
-аф+V+Aux+Neg+Opt+ScPl3:тяст K ;
 аф+V+Aux+Neg+Opt+ScPl1:тязама K ;
 аф+V+Aux+Neg+Opt+ScPl1+OcSg2:тязадязь K ;
 аф+V+Aux+Neg+Opt+ScPl1+OcPl2:тязадязь K ;
@@ -46,6 +45,8 @@ LEXICON VERBNEGATIVE
 аф+V+Aux+Neg+Opt+ScPl1+OcPl3:тязаськ K ;
 аф+V+Aux+Neg+Opt+ScPl2+OcSg1:тязамасть K ;
 аф+V+Aux+Neg+Opt+ScPl2+OcPl1:тязамасть K ;
+аф+V+Aux+Neg+Opt+ScPl3:тяст K ;
+аф+V+Aux+Neg+Opt+ScPl3+Use/NG:тязаст K ;
 аф+V+Aux+Neg+Opt+ScPl3+OcSg1:тязамазь K ;
 аф+V+Aux+Neg+Opt+ScPl3+OcPl1:тязамазь K ;
 аф+V+Aux+Neg+Opt+ScPl3+OcSg2:тязадязь K ;
@@ -97,10 +98,11 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 +Neg+Conj+ScPl1+OcPl2:%>%{ЕОØ%}дязь ENDLEX ;
 +Neg+Conj+ScPl1+OcSg3:%>%{ЕОØ%}ськ ENDLEX ;
 +Neg+Conj+ScPl1+OcPl3:%>%{ЕОØ%}ськ ENDLEX ;
-+Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
-+Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
++Neg+Conj+ScPl2:%>%{ЕОØ%}де ENDLEX ;
 +Neg+Conj+ScPl2+OcSg1:%>%{ЕОØ%}масть ENDLEX ;
 +Neg+Conj+ScPl2+OcPl1:%>%{ЕОØ%}масть ENDLEX ;
++Neg+Conj+ScPl2+OcSg3:%>%{ЕОØ%}сть ENDLEX ;
++Neg+Conj+ScPl2+OcPl3:%>%{ЕОØ%}сть ENDLEX ;
 
 +Neg+Conj+ScPl3:%>%{Х%}ть ENDLEX ;
 +Neg+Conj+ScPl3+OcSg3:%>%{ЕОØ%}зь ENDLEX ;
