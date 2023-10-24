@@ -444,7 +444,8 @@ SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + 
 
 SET TAKESLANG = LANGNAME + N + SP + Gen + Indef | LANGNAME + N + Sem/Hum + SP + Gen + Indef | LANGNAME + N + Pl + Gen + Indef ;#!!
 
-
+# Quantifier sets
+SET QNTSETSGNOM = Num + Sg + Nom | ("лама" Det + Sg + Nom) | ("кржа" Det + Sg + Nom) | ("сняра" Det + Sg + Nom)  ;#!! 
 
 # Adjective sets
 
@@ -481,7 +482,9 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET ("ков" N SP Prl Indef);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
-
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB );
+       #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
+       # deal with вал : валда, пан : панда
 
 MAP (@CVP) TARGET CC IF (*-1 (VFIN) BARRIER CLB OR BOS LINK *1 (VFIN) BARRIER CLB OR EOS);
 MAP (@CVP) TARGET CC IF (*1 (VFIN) BARRIER CLB OR EOS LINK *-1 (VFIN) BARRIER CLB OR BOS);
@@ -600,6 +603,14 @@ REMOVE TV IF (0 ("мярьгомс")) (NOT 0 OCONJ) ;
 REMOVE:NotAddWhenIndef Clt/Add IF (0 (Adv Indef) OR (Pron Indef));
    # ковга: Но деряй эсь эздот ковга туват?
 # коста
+
+REMOVE:NotNWhenPreviousAuxNegEgoConNeg N IF (-1 (V Aux Neg)) (0 ConNeg);
+       #Ведть лангс каятама вайнь слой, штоба афоль шиньфта ведсь
+
+#move to substitute REMOVE Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB );
+
+
+
 
 REMOVE:NoCoughWhenVFIN ("козомс" V IV Prec ScSg2) IF (0* VFIN BARRIER CLB OR BOS OR EOS);
 	# Коста содат?
