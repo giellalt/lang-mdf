@@ -4,15 +4,15 @@ The MOKSHA language adverbs
 
 ADVERBS 
 
-LEXICON ADV-DEG_ 	 пяк
+LEXICON ADV_DEG 	 пяк
 
 LEXICON ADV_ 	 
-LEXICON ADV-MOD_ 	 
-LEXICON ADV-MANNER_ 	 
+LEXICON ADV_MOD 	 
+LEXICON ADV_MANNER 	 
 
 мзярксть
 
-LEXICON ADV-TEMP_ 	 
+LEXICON ADV_TEMP 	 
 
 ашель:ашель
 
