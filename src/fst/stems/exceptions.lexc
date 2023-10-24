@@ -47,8 +47,8 @@ LEXICON EXCEPTIONS
 лац-ряц+Adv:лац-ряц ADV_ ;
 салаване+Adv:салаване ADV_ ;
 весть+Adv+Temp+Clt/Add:вестенге ADV_ ;
-тялонда+Adv:тялонда ADV-TEMP_ ;
-шиньберьф+Adv:шиньберьф ADV-TEMP_ ;
+тялонда+Adv:тялонда ADV_TEMP ;
+шиньберьф+Adv:шиньберьф ADV_TEMP ;
 ладна+Interj:ладна INTERJ_ ;
 кати-кода+Adv+Indef:кати-кода ADV_ ;
 кати-коза+Adv+Indef+Ill:кати-коза ADV_ ;
@@ -56,12 +56,12 @@ LEXICON EXCEPTIONS
 кодане+Adv:кодане ADV_ ;
 тяфтане+Adv:тяфтане ADV_ ;
 тага-арам+Adv:тага-арам ADV_ ;
-пяк-пяк+Adv:пяк-пяк ADV-DEG_ ;
-цють-цють+Adv:цють-цють ADV-DEG_ ;
+пяк-пяк+Adv:пяк-пяк ADV_DEG ;
+цють-цють+Adv:цють-цють ADV_DEG ;
 ичкозе-ичкозе+Adv:ичкозе-ичкозе ADV_LOC_ ;
 ичкози-ичкози+Adv:ичкози-ичкози ADV_LAT_ ;
-кунара-кунара+Adv:кунара-кунара ADV-TEMP_ ;
-тячи-ванды+Adv:тячи-ванды ADV-TEMP_ ;
+кунара-кунара+Adv:кунара-кунара ADV_TEMP ;
+тячи-ванды+Adv:тячи-ванды ADV_TEMP ;
 тяза-тоза+Adv+Distr:тяза-тоза ADV_ILL_ ;
 сей-тов+Adv+Distr:сей-тов ADV_LAT_ ;
 тов-сей+Adv+Distr:тов-сей ADV_LAT_ ;
@@ -71,9 +71,9 @@ LEXICON EXCEPTIONS
 одукс+Adv:одукс ADV_ ;
 аньцек-аньцек+Adv:аньцек-аньцек ADV_ ;
 мзярошка+Adv:мзярошка ADV_ ;
-пожалуй+Adv:пожалуй ADV-MOD_ ;
-сейчас+Adv:сейчас ADV-TEMP_ ;
-цят+Adv:цят ADV-DEG_ ;
+пожалуй+Adv:пожалуй ADV_MOD ;
+сейчас+Adv:сейчас ADV_TEMP ;
+цят+Adv:цят ADV_DEG ;
 совсем+Adv:совсем ADV_ ;
 видемялькс+Adv:видемялькс ADV_ ;
 
@@ -175,7 +175,7 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 пряма+Adv:пряма ADV_ ;
 молемс+V+Prec+ScSg1:молякан ENDLEX ;
 ливосьпарботмоса+Adv:ливосьпарботмоса K ;
-кржаксть+Adv:кржаксть ADV-TEMP_ "iterations";
+кржаксть+Adv:кржаксть ADV_TEMP "iterations";
 
 
 
@@ -192,7 +192,7 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 н-да+Interj:н-да INTERJ_ ;
 
 сяс+Adv+Clt/Add:сясы ADV_ ;
-исяконя+Adv:исяконя ADV-TEMP_ ;
+исяконя+Adv:исяконя ADV_TEMP ;
 благополучна+Adv:благополучна ADV_ ;
 непрерывна+Adv:непрерывна ADV_ ;
 меклангт+Adv:меклангт ADV_ ;

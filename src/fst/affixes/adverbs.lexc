@@ -7,29 +7,33 @@
 !!!!!!!!!!!!!!
 
 
-LEXICON ADV-DEG_ 	!!= @CODE@ пяк
+LEXICON ADV_DEG 	!!= @CODE@ пяк
 +Deg: ENDLEX ;
 
 LEXICON ADV_ 	!!= @CODE@ 
 : K ;
-LEXICON ADV-MOD_ 	!!= @CODE@ 
+LEXICON ADV_MOD 	!!= @CODE@ 
 : K ;
-LEXICON ADV-MANNER_ 	!!= @CODE@ 
+LEXICON ADV_MANNER 	!!= @CODE@ 
 +Manner: K ;
+
+LEXICON ADV_COMP
+!!! сяда
++Comp: K ;
 
 LEXICON ADV_EVID_NFH !кле 
 +EvidNfh: K ;
 
-!LEXICON ADV-ITER
+!LEXICON ADV_ITER
 !!! кафксть
 !+Iter: K ;
 
-LEXICON ADV-INTERR-ITER
+LEXICON ADV_INTERR_ITER
 !! мзярксть
 +Iter: K ;
 
 
-LEXICON ADV-TEMP_ 	!!= @CODE@ 
+LEXICON ADV_TEMP 	!!= @CODE@ 
 +Sem/Time: K ;
 
 
