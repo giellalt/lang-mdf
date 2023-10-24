@@ -482,7 +482,7 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET ("ков" N SP Prl Indef);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
-SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB );
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB ) (NOT 1 ("меле") OR ("инголе") OR ("башка"));
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
        # deal with вал : валда, пан : панда
 
