@@ -445,7 +445,9 @@ SET HASCONNEG = V + Aux + Neg + Opt OR V + Aux + Neg + Imprt OR V + Aux + Neg + 
 SET TAKESLANG = LANGNAME + N + SP + Gen + Indef | LANGNAME + N + Sem/Hum + SP + Gen + Indef | LANGNAME + N + Pl + Gen + Indef ;#!!
 
 # Quantifier sets
-SET QNTSETSGNOM = Num + Sg + Nom | ("лама" Det + Sg + Nom) | ("кржа" Det + Sg + Nom) | ("сняра" Det + Sg + Nom)  ;#!! 
+SET QNTSETSGNOM = Num + Sg + Nom | ("лама" Det Sg Nom) | ("кржа" Det Sg Nom) | ("сняра" Det Sg Nom)  ;#!! 
+
+SET NOTDET = Pron - (Sg Nom Indef) | (Pl Nom Indef) ;#!!in question Det vs Pron
 
 # Adjective sets
 
@@ -566,7 +568,9 @@ REMOVE ("калга" N SP Abl) IF ((-1 ("тяфтама")) OR (-2 ("тяфтам
 REMOVE:NotDetWhenNextNotNP Det IF (0 ("тя" Pron)) (NOT 1 A OR N) ;
        # Тя эряви и сянкса
 
-
+REMOVE:NotDetWhenPronOblique Det IF (0 NOTDET) (1 A OR Adv);
+#REMOVE: Det IF (0 "сембе" Pron SP Abl) (1 A OR Adv);
+       #Кода сёвоню, а сембода пяк шувару почватнень эса кржа уленди перегнойда.
 #
 REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
     #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
