@@ -65873,56 +65873,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">paljon</t>
-       <t pos="N">monta</t>
-       <t pos="N">moni-</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>лама числа</x> <phonet>lamə čisla</phonet>
-       <xt xml:lang="fin">(kiel.) monikko</xt>
-     </xg>
-     <xg>
-       <x>лама кизонь</x> <phonet>lamə kizəń</phonet>
-       <xt xml:lang="fin">monivuotinen</xt>
-     </xg>
-     <xg>
-       <x>лама этажса</x> <phonet>lam(ə) etažsa</phonet>
-       <xt xml:lang="fin">monikerroksinen</xt>
-     </xg>
-     <xg>
-       <x>ламода</x> <phonet>laməda</phonet>
-       <xt xml:lang="fin">paljon</xt>
-     </xg>
-     <xg>
-       <x>ламода лама</x> <phonet>lamədə lama</phonet>
-       <xt xml:lang="fin">valtavan paljon</xt>
-     </xg>
-     <xg>
-       <x>ламода сире</x> <phonet>lamədə śiŕä</phonet>
-       <xt xml:lang="fin">paljon vanhempi</xt>
-     </xg>
-     <xg>
-       <x>ламошка</x> <phonet>laməška</phonet>
-       <xt xml:lang="fin">aika paljon</xt>
-     </xg>
-   </mg>
-</e>
-<e exclude="fst" meta="" id="None">
-   <lg>
-     <l pos="N">лама кизонь</l>
-     <stg>
-       <st>лама кизонь</st>
-     </stg> <phonet>lamə kizəń</phonet>
-       <l_ref>лама</l_ref>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>monivuotinen</t>
+       <t pos="N">lama</t>
      </tg>
    </mg>
 </e>
@@ -121279,37 +121230,6 @@
        <t pos="N"/>
      </tg>
      <defNative/>
-   </mg>
-</e>
-<e meta="" id="None">
-   <lg>
-     <l pos="Pron">сембе</l>
-     <stg>
-       <st Contlex="PRON_SEL1ME">семб%{ЕО%}</st>
-     </stg> <phonet>śembä</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">kaikki</t>
-       <t pos="N">superlatiivin apusana</t>
-     </tg>
-     <defNative/>
-     <xg>
-       <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg>
-       <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
-       <xt xml:lang="fin">suurin</xt>
-     </xg>
-     <xg>
-       <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
-       <xt xml:lang="fin">huonoin</xt>
-     </xg>
    </mg>
 </e>
 <e exclude="fst" meta="" id="None">

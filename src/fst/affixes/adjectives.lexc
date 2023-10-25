@@ -131,9 +131,9 @@ LEXICON DET_AVA
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_OFTA ;
 
-!LEXICON DET_PINGE
+LEXICON DET_PINGE
 !!пинге:пинг%{ЕО%}
-!+Det+Sg+Nom+Indef: K ;
++Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_PINGE ;
 
 !LEXICON DET_PULA

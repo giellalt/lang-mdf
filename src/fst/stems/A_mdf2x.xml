@@ -31124,6 +31124,54 @@
      <defNative/>
    </mg>
 </e>
+<e meta="" id="None">
+   <lg>
+     <l pos="Det">лама</l>
+     <stg>
+       <st Contlex="DET_AVA">лама</st>
+     </stg> <phonet>lama</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Det">paljon</t>
+       <t pos="Det">monta</t>
+       <t pos="Det">moni</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>лама числа</x> <phonet>lamə čisla</phonet>
+       <xt xml:lang="fin">(kiel.) monikko</xt>
+     </xg>
+     <xg>
+       <x>лама кизонь</x> <phonet>lamə kizəń</phonet>
+       <xt xml:lang="fin">monivuotinen</xt>
+     </xg>
+     <xg>
+       <x>лама этажса</x> <phonet>lam(ə) etažsa</phonet>
+       <xt xml:lang="fin">monikerroksinen</xt>
+     </xg>
+     <xg>
+       <x>ламода</x> <phonet>laməda</phonet>
+       <xt xml:lang="fin">paljon</xt>
+     </xg>
+     <xg>
+       <x>ламода лама</x> <phonet>lamədə lama</phonet>
+       <xt xml:lang="fin">valtavan paljon</xt>
+     </xg>
+     <xg>
+       <x>ламода сире</x> <phonet>lamədə śiŕä</phonet>
+       <xt xml:lang="fin">paljon vanhempi</xt>
+     </xg>
+     <xg>
+       <x>ламошка</x> <phonet>laməška</phonet>
+       <xt xml:lang="fin">aika paljon</xt>
+     </xg>
+   </mg>
+</e>
 <e exclude="fst" meta="" id="None">
    <lg>
      <l pos="A" type="mwe">лама сельмоса</l>

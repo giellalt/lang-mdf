@@ -81,7 +81,8 @@ LEXICON PRONOUN-TYPES
 
 ома+Pron:ома PRON_  "" ;
 самай+Adv:самай ADV_  "1. juuri, aivan. 2. superlatiivin apusana" ;
-сембе+Det:сембе PRON-QNT_СЕМБЕ  "kaikki; superlatiivin apusana" ;
+сембе+Det:семб%{ЕО%} DET_PINGE  "kaikki; superlatiivin apusana" ;
+сембе+Pron:семб%{ЕО%} PRON_QNT_SEMBE ;
 !синць+Pron:синць PRON_  "" ;
 
 стамка+Pron:стамка PRON_  "" ;
@@ -517,9 +518,6 @@ LEXICON INDEFINITE-PRON-IN-KELJK
 кона-кельк+Pron+Indef:кона KATI-KONA_INFL ;
 кодама-кельк+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
 
-LEXICON PRON_SEL1ME
-N_SEL1ME ;
-
 LEXICON DET-INDEF_PINGE
 +SP+Abe+Indef:%>фтом%{АО%} INDEF-ENDS-HERE ;
 +SP+Abl+Indef:%^RmVow%>да INDEF-ENDS-HERE ;
@@ -752,17 +750,17 @@ LEXICON PRON-INDEF_MEZEVOK-NB/CASE/DEF
 
 
 
-LEXICON PRON-QNT_СЕМБЕ
-+Qnt+Pl+Nom+Indef:%^Е2О%>т ENDLEX ;
-+Qnt+SP+Abl+Indef:%^Е2О%>д%{АО%} K_НГА ;
-+Qnt+SP+Cau+Indef:%^Е2О%>нкса ENDLEX ;
-+Qnt+SP+Dat+Indef:%^Е2О%>нди ENDLEX ;
-+Qnt+SP+Gen+Indef:%^Е2О%>нь ENDLEX ;
-+Qnt+SP+Ine+Indef:%^Е2О%>с%{АО%} K_вок ;
-+Qnt+Sg+Dat+Def:%^Е2О%>ти K_вок ;
-+Qnt+Sg+Gen+Def:%^Е2О%>ть ENDLEX ;
-+Qnt+Sg+Nom+Indef: ENDLEX ;
-+Qnt+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
+LEXICON PRON_QNT_SEMBE
++Pl+Nom+Indef:%>т ENDLEX ;
++SP+Abl+Indef:%>д%{АО%} K_НГА ;
++SP+Cau+Indef:%>%{ЕОØ%}нкса ENDLEX ;
++SP+Dat+Indef:%>%{ЕОØ%}нди ENDLEX ;
++SP+Gen+Indef:%>%{ЕОØ%}нь ENDLEX ;
++SP+Ine+Indef:%>с%{АО%} K_вок ;
++Sg+Dat+Def:%>ти K_вок ;
++Sg+Gen+Def:%>ть ENDLEX ;
++Sg+Nom+Indef: ENDLEX ;
++Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
  SG-DAT/GEN/NOM-PXSG1 ;
  SG-DAT/GEN/NOM-PXSG2 ;
  SG-DAT/GEN/NOM-PXSG3 ;

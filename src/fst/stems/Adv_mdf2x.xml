@@ -13759,6 +13759,60 @@
      <defNative/>
    </mg>
 </e>
+<e meta="" id="None">
+   <lg>
+     <l pos="Adv">лама</l>
+     <stg>
+       <st Contlex="ADV_">лама</st>
+     </stg> <phonet>lama</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">paljon</t>
+       <t pos="N">monta</t>
+       <t pos="N">moni-</t>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>ламода</x> <phonet>laməda</phonet>
+       <xt xml:lang="fin">paljon</xt>
+     </xg>
+     <xg>
+       <x>ламода лама</x> <phonet>lamədə lama</phonet>
+       <xt xml:lang="fin">valtavan paljon</xt>
+     </xg>
+     <xg>
+       <x>ламода сире</x> <phonet>lamədə śiŕä</phonet>
+       <xt xml:lang="fin">paljon vanhempi</xt>
+     </xg>
+     <xg>
+       <x>ламошка</x> <phonet>laməška</phonet>
+       <xt xml:lang="fin">aika paljon</xt>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst" meta="" id="None">
+   <lg>
+     <l pos="A">лама кизонь</l>
+     <stg>
+       <st>лама кизонь</st>
+     </stg> <phonet>lamə kizəń</phonet>
+       <l_ref>лама</l_ref>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>monivuotinen</t>
+     </tg>
+   </mg>
+</e>
 <e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Adv" type="mwe">лама этажса</l>

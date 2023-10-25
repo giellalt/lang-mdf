@@ -1549,11 +1549,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">сембе</l>
      <stg>
-       <st Contlex="PRON-QNT_СЕМБЕ">сембе</st>
+       <st Contlex="PRON_SEL1ME">семб%{ЕО%}</st>
      </stg> <phonet>śembä</phonet>
    </lg>
      <sources>
@@ -1562,19 +1562,21 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Pron">kaikki; superlatiivin apusana</t>
+       <t pos="N">kaikki</t>
+       <t pos="N">superlatiivin apusana</t>
      </tg>
+     <defNative/>
      <xg>
        <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
-       <xt xml:lang="fin">suurin.</xt>
+       <xt xml:lang="fin">suurin</xt>
      </xg>
      <xg>
        <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
-       <xt xml:lang="fin">suurin.</xt>
+       <xt xml:lang="fin">suurin</xt>
      </xg>
      <xg>
        <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
-       <xt xml:lang="fin">huonoin.</xt>
+       <xt xml:lang="fin">huonoin</xt>
      </xg>
    </mg>
 </e>
