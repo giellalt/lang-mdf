@@ -39,8 +39,8 @@ The parts of speech are further split up into:
 * **+PerifMod**:  periferal modifier ськамонза, кавонест
 * **+Pers**:  personal
 * **+Recipr**:  reciprocal
+* **+Recip**:  reciprocal
 * **+Refl**:  reflexive
-* **+Recip**:  reflexive
 * **+Rel**:  relative
 personal pronouns use additional tags:
 ```
