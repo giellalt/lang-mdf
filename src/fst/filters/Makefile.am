@@ -20,22 +20,11 @@
 
 # List any local filter regex files here:
 GIELLA_FILTER_LOCAL_REGEX_SRCS=\
-					downcase_UCletters.regex \
-					remove-norm-comp-tags.regex                        \
-					remove-rel_focus-strings.regex                     \
-					remove-hard-sign-in-first-syllable.regex                      \
-					block-illegal_compound-strings.regex               \
-					insert-default-compounding-tags.regex              \
-					insert-default_left_compounding-tags.regex         \
-					remove-derivation-position-tags.regex              \
-					remove-illegal-derivation-strings.regex            \
-					remove-illegal-derivation-strings-flagbased.regex  \
-					rename-POS_before_Der-tags.regex                   \
-					split-CmpN-tags.regex                              \
-					split-CmpNP-tags.regex                             \
+					downcase_UCletters.regex\
+					remove-derivation-position-tags.regex \
 					remove-DNorm-tags.regex \
-					convert_to_flags-CmpNP-tags.regex                  \
-					change-optionally-word_boundary_to_hyphen.regex
+					remove-norm-comp-tags.regex \
+					rename-POS_before_Der-tags.regex
 
 # List any local filter xfscript files here:
 GIELLA_FILTER_LOCAL_XFSCRIPT_SRCS=
