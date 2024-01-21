@@ -100,7 +100,7 @@ ADJECTIVES
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
 
@@ -119,7 +119,7 @@ Checking 2018-11-10
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adpositions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adpositions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adpositions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/adpositions.lexc)</small>
 
 ---
 
@@ -143,7 +143,7 @@ LEXICON ADV_TEMP
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adverbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/adverbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adverbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/adverbs.lexc)</small>
 
 ---
 
@@ -163,7 +163,7 @@ This is for Consonant-final words
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/clitics.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/clitics.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/clitics.lexc)</small>
 
 ---
 
@@ -175,7 +175,7 @@ CONJUNCTIONS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/conjunctors.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/conjunctors.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/conjunctors.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/conjunctors.lexc)</small>
 
 ---
 
@@ -191,7 +191,7 @@ LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/interjections.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/interjections.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/interjections.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/interjections.lexc)</small>
 
 ---
 
@@ -351,7 +351,7 @@ PXSG1-Pl ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -374,7 +374,7 @@ NUMBERS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/numbers.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/numbers.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numbers.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/numbers.lexc)</small>
 
 ---
 
@@ -386,7 +386,7 @@ PARTICLES
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/particles.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/particles.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/particles.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/particles.lexc)</small>
 
 ---
 
@@ -417,7 +417,7 @@ INDEFINITE PRONOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
 
@@ -458,7 +458,7 @@ PROPER NOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -467,7 +467,7 @@ PROPER NOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -600,7 +600,7 @@ PARTICIPLES
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 
@@ -1285,7 +1285,7 @@ plural
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -1810,7 +1810,7 @@ These have been slightly modified from kpv and myv
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -1826,7 +1826,7 @@ Adding more 2020-03-08
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives-russian-like_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/adjectives-russian-like_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives-russian-like_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/adjectives-russian-like_newwords.lexc)</small>
 
 ---
 
@@ -1838,7 +1838,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc)</small>
 
 ---
 
@@ -1886,7 +1886,7 @@ RUSSIAN VERBS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/exceptions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
 
 ---
 
@@ -1898,7 +1898,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns-russian-homographs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/nouns-russian-homographs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns-russian-homographs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns-russian-homographs_newwords.lexc)</small>
 
 ---
 
@@ -1910,7 +1910,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
 
@@ -1924,7 +1924,7 @@ MOKSHA PROPER NAMES
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/propernouns_newwords.lexc)</small>
 
 ---
 
@@ -1936,7 +1936,7 @@ ADD VERBS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/verbs_newwords.lexc)</small>
 
 ---
 
@@ -2103,7 +2103,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-mdf/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-mdf/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -2123,7 +2123,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
