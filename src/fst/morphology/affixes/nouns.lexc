@@ -27,6 +27,20 @@ LEXICON N_SARAZ_DIAL
 LEXICON N_KAL_DIAL
 +Dial+Use/NG+Err/Orth: N_KAL ;
 
+LEXICON N_AVA_rus100
++Use/SpellNoSugg: N_AVA ;
+
+LEXICON N_KAL_rus100
++Use/SpellNoSugg: N_KAL ;
+
+LEXICON N_OSH_rus100
++Use/SpellNoSugg: N_OSH ;
+
+LEXICON N_KIAL1_rus100
++Use/SpellNoSugg: N_KIAL1 ;
+
+LEXICON N_PEJ_rus100
++Use/SpellNoSugg: N_PEJ ;
 
 LEXICON N_AVA
 ! ава:ава
@@ -213,16 +227,16 @@ LEXICON N_SARAZ !!= @CODE@
 !!ош:ош
 !: NMN_SARAZ-PL ;
 
-LEXICON N_VAJ !!= @CODE@
- N_VAJ-SG ;
- N_VAJ-PL ;
+LEXICON N_PEJ !!= @CODE@
+ N_PEJ-SG ;
+ N_PEJ-PL ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_VAJ-SG
-: NMN_VAJ-SG ;
+LEXICON N_PEJ-SG
+: NMN_PEJ-SG ;
 
-LEXICON N_VAJ-PL
-: NMN_VAJ-PL ;
+LEXICON N_PEJ-PL
+: NMN_PEJ-PL ;
 
 LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
@@ -586,17 +600,17 @@ LEXICON NMN_ANDY-SG/PL
 +Use/NG:й PXPL3 ;
  PXPL3 ;
 
-LEXICON NMN_VAJ
-!	NMN_VAJ-SG	;
-!	NMN_VAJ-PL	;
-!	NMN_VAJ-SG/PL	;
+LEXICON NMN_PEJ
+!	NMN_PEJ-SG	;
+!	NMN_PEJ-PL	;
+!	NMN_PEJ-SG/PL	;
         NMN-SG ;
         NMN-PL ;
         NMN-SG/PL       ;
 +Err/Orth: CONSONANT-STEM-4-VAJ ;
 
 
-LEXICON NMN_VAJ-SG
+LEXICON NMN_PEJ-SG
 !! Indefinite
 ! SG-NOM-INDEF ;
 !! Definite Sg
@@ -613,7 +627,7 @@ LEXICON CONSONANT-STEM-4-VAJ
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>нь NounEnd_K ;
 
 
-LEXICON NMN_VAJ-PL
+LEXICON NMN_PEJ-PL
 !! Indefinite
 ! PL-NOM-INDEF ;
 !! Definite Pl
