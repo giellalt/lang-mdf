@@ -23,11 +23,11 @@ PLACE NAMES FROM TEMPLATES
 
 PROPER NOUNS 
 * **LEXICON PROP-PLC_AVA** ending in vowel
-* **LEXICON PROP-PLC_VAJ** ending in vowel
+* **LEXICON PROP-PLC_PEJ** ending in vowel
 
 * **LEXICON PROP_AVA** ending in vowel
 
-* **LEXICON PROP_VAJ** ending in vowel
+* **LEXICON PROP_PEJ** ending in vowel
 
 * **LEXICON PROP_KELU** ending in u
 

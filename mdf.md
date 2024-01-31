@@ -250,7 +250,7 @@ LEXICON N_OSH
 
 LEXICON N_SARAZ 
 
-LEXICON N_VAJ 
+LEXICON N_PEJ 
 
 LEXICON N_KAL 
 
@@ -446,11 +446,11 @@ PLACE NAMES FROM TEMPLATES
 
 PROPER NOUNS 
 * **LEXICON PROP-PLC_AVA** ending in vowel
-* **LEXICON PROP-PLC_VAJ** ending in vowel
+* **LEXICON PROP-PLC_PEJ** ending in vowel
 
 * **LEXICON PROP_AVA** ending in vowel
 
-* **LEXICON PROP_VAJ** ending in vowel
+* **LEXICON PROP_PEJ** ending in vowel
 
 * **LEXICON PROP_KELU** ending in u
 
@@ -1887,18 +1887,6 @@ RUSSIAN VERBS
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/exceptions.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/exceptions.lexc)</small>
-
----
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-автор:автор N_KAL ;
-
-ADD NOUNS BELOW
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns-russian-homographs_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns-russian-homographs_newwords.lexc)</small>
 
 ---
 
