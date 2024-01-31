@@ -71,11 +71,11 @@ LEXICON A_KIAL1
 !+Der+Der/MWN+N: N_KIAL1 ;
  N_KIAL1 ;
 
-LEXICON A_VAJ
+LEXICON A_PEJ
 !вай:вай
 !+Sg+Nom+Indef: K ;
-!+Der+Der/MWN+N: N_VAJ ;
- N_VAJ ;
+!+Der+Der/MWN+N: N_PEJ ;
+ N_PEJ ;
 
 LEXICON A_VAL1MIA
 !вальмя:вальмя
@@ -102,17 +102,17 @@ LEXICON A_ANDY
  N_ANDY ;
 
 LEXICON A_INT-АЙ
-+Use/SpellNoSugg:ай A_VAJ ;
++Use/SpellNoSugg:ай A_PEJ ;
 LEXICON A_RU-АЙ
-+Use/SpellNoSugg:ай A_VAJ ;
++Use/SpellNoSugg:ай A_PEJ ;
 !LEXICON A_INT-ОЙ
-!+Use/SpellNoSugg:ой A_VAJ ;
+!+Use/SpellNoSugg:ой A_PEJ ;
 !LEXICON A_RU-ОЙ
-!+Use/SpellNoSugg:ой A_VAJ ;
+!+Use/SpellNoSugg:ой A_PEJ ;
 LEXICON A_INT-ЯЙ
-+Use/SpellNoSugg:яй A_VAJ ;
++Use/SpellNoSugg:яй A_PEJ ;
 LEXICON A_RU-ЯЙ
-+Use/SpellNoSugg:яй A_VAJ ;
++Use/SpellNoSugg:яй A_PEJ ;
 
 LEXICON A_SEL1ME
 !сельме:сельм%{ЕО%}
@@ -151,10 +151,10 @@ LEXICON DET_PINGE
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_KIAL1 ;
 
-!LEXICON DET_VAJ
+!LEXICON DET_PEJ
 !!вай:вай
 !+Det+Sg+Nom+Indef: K ;
-!+Det+Der+Der/MWN+N: N_VAJ ;
+!+Det+Der+Der/MWN+N: N_PEJ ;
 
 !LEXICON PRON_KAL
 !!!кал:кал эрь:эрь

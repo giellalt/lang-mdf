@@ -228,15 +228,15 @@ LEXICON PROP-PLC_KUDO !!≈ * **@CODE@** ending in vowel
 !!!!!!!!!!!!!!!!
 LEXICON PROP-PLC_AVA !!≈ * **@CODE@** ending in vowel
 +Sem/Plc: NMN_AVA ;
-LEXICON PROP-PLC_VAJ !!≈ * **@CODE@** ending in vowel
-+Sem/Plc: NMN_VAJ ;
+LEXICON PROP-PLC_PEJ !!≈ * **@CODE@** ending in vowel
++Sem/Plc: NMN_PEJ ;
 
 
 LEXICON PROP_AVA !!≈ * **@CODE@** ending in vowel
 : NMN_AVA ;
 
-LEXICON PROP_VAJ !!≈ * **@CODE@** ending in vowel
-: NMN_VAJ ;
+LEXICON PROP_PEJ !!≈ * **@CODE@** ending in vowel
+: NMN_PEJ ;
 
 LEXICON PROP_KELU !!≈ * **@CODE@** ending in u
 : NMN_KELU ;
@@ -265,8 +265,8 @@ LEXICON MOKSHA-MAL/ORJASJ_KELU
 LEXICON MOKSHA-MAL/ORJASJ_OSH
 +Sem/Mal: N_OSH ;
 :%>%{ЕОØ%}ря PROP_ORJASJ ;
-LEXICON MOKSHA-MAL/ORJASJ_VAJ
-+Sem/Mal: N_VAJ ;
+LEXICON MOKSHA-MAL/ORJASJ_PEJ
++Sem/Mal: N_PEJ ;
 :%>%{ЕОØ%}ря PROP_ORJASJ ;
 :%>ря PROP_ORJASJ ;
 LEXICON PROP_ORJASJ
