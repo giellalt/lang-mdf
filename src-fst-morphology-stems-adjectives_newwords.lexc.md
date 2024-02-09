@@ -1,6 +1,6 @@
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
-духовнай:духовнай A_VAJ "(eng) /(fin) /(rus) " ;
+духовнай:духовнай A_PEJ "(eng) /(fin) /(rus) " ;
 
 ADD NOUNS BELOW
 
