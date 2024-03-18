@@ -340,7 +340,7 @@ LEXICON INTERR
 !мезьса% аф% мезьса+Pron:мезьса% аф% мезьса PRON_  "" ;
 мейя+Pron:мейя PRON_  "" ;
 мес+Adv+Ill:мес ENDLEX  "miksi" ;
-кие+Pron:ки PRON-INTERR_KI-K  "kuka" ;
+@U.INDEF.ZERO@кие+Pron:@U.INDEF.ZERO@ки PRON-INTERR_KI-K  "kuka" ;
 
 
 LEXICON PRON-INTERR_KI-K
@@ -348,7 +348,7 @@ LEXICON PRON-INTERR_KI-K
 +Pl+Dat+Def:%>т%>не%>нди INDEF-ENDS-HERE ;
 +Pl+Gen+Def:%>т%>не%>нь INDEF-ENDS-HERE ;
 +Pl+Nom+Def:%>т%>не INDEF-ENDS-HERE ;
-+Sg+Nom: INDEF-ENDS-HERE ;
++Use/NG+Sg+Nom: INDEF-ENDS-HERE ;
 +Sg+Nom:е INDEF-ENDS-HERE ;
 +Sg+Nom+Def:%>есь INDEF-ENDS-HERE ;
 +Sg+Dat+Def:%>ти INDEF-ENDS-HERE ;
@@ -843,6 +843,7 @@ LEXICON INDEF-ENDS-HERE
 @U.INDEF.TAGA@ ENDLEX ;
 @U.INDEF.TA@ ENDLEX ;
 @U.INDEF.POVSJ@:@U.INDEF.POVSJ@%-повсь ENDLEX ;
+@U.INDEF.ZERO@ ENDLEX ;
 
 LEXICON FINAL-PRONOUNS
 @U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.ABL@@U.DECL-DX.INDEF@мезьда ENDLEX ;
