@@ -19,6 +19,7 @@ while(<>) {
 	s/ PROP-PLC_KEL1/ N_KIAL1/g ;
 	s/ PROP-PLC_VELE/ N_TISHE/g ;
 	s/ PROP_VELE/ N_TISHE/g ;
+	s/ PROP-PLC_KUDO/ N_AVA/g ;
 
 	
 # loanwords with compound border over identical vowels
