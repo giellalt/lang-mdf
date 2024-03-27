@@ -478,7 +478,7 @@ SUBSTITUTE (Sem/Sur) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Mal-Sur) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Mal) (*) TARGET (*) ;
 SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
-SUBSTITUTE (Sem/Plc) (*) TARGET (*) ;
+#SUBSTITUTE (Sem/Plc) (*) TARGET (*) ;
 #
 #SUBSTITUTE (TV) (*) TARGET (*) ;
 #SUBSTITUTE (IV) (*) TARGET (*) ;
