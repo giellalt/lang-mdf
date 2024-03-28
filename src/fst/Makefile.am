@@ -159,18 +159,24 @@ endif
 # mainly due to the target pattern, thus listed here. The rule body and the
 # dependencies should be the same as the regular disamb analysers below:
 .generated/analyser-pmatchdisamb-gt-desc.hfst: .generated/analyser-pmatchdisamb-gt-desc.tmp.hfst \
-				filters/remove-norm-comp-tags.hfst             \
 				filters/remove-derivation-position-tags.hfst   \
+				filters/remove-norm-comp-tags.hfst             \
 				filters/remove-orig_lang-tags.hfst             \
+				filters/remove-dialect-tags.hfst                  \
+				filters/remove-homonymy-tags.hfst                 \
+				filters/remove-hard-sign-in-first-syllable.hfst \
 				filters/rename-POS_before_Der-tags.hfst        \
 				filters/remove-usage-tags.hfst
 	$(AM_V_HXFST)$(PRINTF) "read regex \
 			@\"filters/remove-usage-tags.hfst\"               \
 		.o. @\"filters/remove-derivation-position-tags.hfst\" \
-		.o. @\"filters/remove-norm-comp-tags.hfst\"           \
 		.o. @\"filters/remove-orig_lang-tags.hfst\"           \
+		.o. @\"filters/remove-dialect-tags.hfst\"           \
+		.o. @\"filters/remove-homonymy-tags.hfst\"           \
+		.o. @\"filters/remove-norm-comp-tags.hfst\"           \
 		.o. @\"filters/rename-POS_before_Der-tags.hfst\"      \
 		.o. @\"$<\"                                           \
+		.o. @\"filters/remove-hard-sign-in-first-syllable.hfst\"           \
 		;\n\
 	invert net\n\
 	save stack $@\n\
