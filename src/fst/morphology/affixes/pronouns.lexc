@@ -32,7 +32,7 @@ LEXICON PRONOUN-TYPES
 всякай+Det:всякай N_PEJ  "kaikenlainen" ;
 кажнай+Det:кажнай N_PEJ  "jokainen" ;
 лама+Det:лам%{АО%} N_PULA ; 
-эрь+Det+Sg+Nom+Indef:эрь ENDLEX  "jokainen" ;
+эрь+Det+Sg+Nom+Indef:эрь NMN-SG  "jokainen" ;
 
 кама+A:кам%{АОØ%} N_PINGE  "Interr" ;
 !кодама+A:кодам%{АОØ%} N_PANGA  "(Interr) millainen" ;
@@ -760,7 +760,8 @@ LEXICON PRON_QNT_SEMBE
 +Sg+Dat+Def:%>ти K_вок ;
 +Sg+Gen+Def:%>ть ENDLEX ;
 +Sg+Nom+Indef: ENDLEX ;
-+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
++Sg+Nom+Def:%>сь ENDLEX ;
+!+Sg+Nom+Def:%^Е2О%>сь ENDLEX ;
  SG-DAT/GEN/NOM-PXSG1 ;
  SG-DAT/GEN/NOM-PXSG2 ;
  SG-DAT/GEN/NOM-PXSG3 ;
