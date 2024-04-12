@@ -30,4 +30,5 @@ MOOD-V
 * @-FMAINV : non-finite main verb
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-mdf/blob/main/src/cg3/functions.cg3)</small>

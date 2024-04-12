@@ -7,6 +7,3 @@ PARTICLES
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/particles.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/affixes/particles.lexc)</small>
-
----
-
