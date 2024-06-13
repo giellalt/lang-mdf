@@ -25,7 +25,7 @@ LEXICON K_вок
 +Clt/Add:%>вок  ENDLEX ; 
 !+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
 +Clt/Add+Use/NG:%>%{гк%}%{АЕ%} ENDLEX ;
-+Clt/Add+Use/NG:%>н%{гк%}%{АЕ%} ENDLEX ;
++Clt/Add+Use/NG:%>%{ЕОØ%}нг%{АЕ%} ENDLEX ;
 ENDLEX ;
 
 LEXICON K_овок
