@@ -476,15 +476,13 @@ Russian type Surnames
 Аморский:Аморск
 
 PLACE NAMES FROM TEMPLATES 
-* **LEXICON PROP-PLC_KAL** ending in other consonant
+* **LEXICON PROP_KAL_PLC** ending in other consonant
 
-* **LEXICON PROP-PLC_KIT** ending in t
-
-* **LEXICON PROP-PLC_KUDO** ending in vowel
+* **LEXICON PROP_KUDO_PLC** ending in vowel
 
 PROPER NOUNS 
-* **LEXICON PROP-PLC_AVA** ending in vowel
-* **LEXICON PROP-PLC_PEJ** ending in vowel
+* **LEXICON PROP_AVA_PLC** ending in vowel
+* **LEXICON PROP_PEJ_PLC** ending in vowel
 
 * **LEXICON PROP_AVA** ending in vowel
 
