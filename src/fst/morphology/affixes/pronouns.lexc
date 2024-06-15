@@ -383,9 +383,11 @@ LEXICON PRON-INTERR_MEZE-K
 +Sg+Nom+Def:зсь K ;
 +Sg+Nom+PxSg1:зе%>зе K ;
 +Sg+Nom+PxSg2:з%>це K ;
++Use/NG+Sg+Nom+PxSg2:зь%>це K ;
 +Sg+Nom+PxSg3:зе%>ц K ;
 +SP+Nom+PxPl1:зе%>ньке K ;
 +SP+Nom+PxPl2:зе%>нть K ;
++SP+Nom+PxPl2:зе%>нте K ;
 +SP+Nom+PxPl3:зь%>сн%{АО%} K ;
 +Pl+Nom+Indef:с%>ть K ;
 +Pl+Nom+Def:с%>т%>не K ;
@@ -428,8 +430,8 @@ LEXICON PRON-INTERR_MEZE-K
 +Use/NG+SP+Ela+Indef:%>зь%>ста K ;
 +Use/NG+SP+Ill+Indef:зь%>с K ;
 +SP+Ill+Indef:%>зе%>с K ;
-+SP+Ine+Indef:%>зе%>са K ;
-+Use/NG+SP+Ine+Indef:зь%>са K ;
+:%>зе NOTDEF-INE ;
++Use/NG+SP:зь NOTDEF-INE ;
 +SP+Prl+Indef:%>зе%>ва K ;
 +Use/NG+SP+Tra+Indef:%>зе%>кс K ; !2023_03_13 choose output
 +SP+Tra+Indef:%>зь%>кс K ;
@@ -726,11 +728,13 @@ LEXICON PRON-INDEF_MEZEVOK-NB/CASE/DEF
 +Sg+Nom+Indef:зевок ENDLEX ;
 +Use/NG+Sg+Nom+Indef:зьге ENDLEX ;
 +Sg+Nom+PxSg2:зьцевок ENDLEX ;
++Sg+Nom+PxPl1:зеньковок ENDLEX ;
 +Sg+Nom+PxPl2:зентевок ENDLEX ;
 +Use/NG+Sg+Nom+PxPl3:зьсновок ENDLEX ;
 +Sg+Nom+PxPl3:зьснонга ENDLEX ;
 +Sg+Dat+Def:зтивок ENDLEX ;
 +SP+Abe+Indef:%>зьфтомовок ENDLEX ;
++Use/NG+SP+Abl+Indef:%>зьдевок ENDLEX ;
 +Use/NG+SP+Abl+Indef:%>зьдовок ENDLEX ;
 +SP+Abl+Indef:%>зьдонга ENDLEX ;
 +Use/NG+SP+Cau+Indef:зенксовок ENDLEX ;
@@ -747,6 +751,7 @@ LEXICON PRON-INDEF_MEZEVOK-NB/CASE/DEF
 +SP+Ine+Indef:%>зьсонга ENDLEX ;
 +SP+Prl+Indef:%>зевавок ENDLEX ;
 +SP+Tra+Indef:%>зекска ENDLEX ;
++Der/Dimin+Sg+Gen+Def:%>знятьке ENDLEX ;
 
 
 
