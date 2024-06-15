@@ -22,7 +22,7 @@ LEXICON NounEnd_K_вок
 LEXICON K_вок
 !! This is for vowel final Nominatives
 !+Clt/AddVok:%>вок  ENDLEX ; 
-+Clt/Add:%>вок  ENDLEX ; 
++Clt/Add:%>%{ЕОØ%}вок  ENDLEX ; 
 !+Clt/AddGA:%>%{гк%}%{АЕ%} ENDLEX ;
 +Clt/Add+Use/NG:%>%{гк%}%{АЕ%} ENDLEX ;
 +Clt/Add+Use/NG:%>%{ЕОØ%}нг%{АЕ%} ENDLEX ;
