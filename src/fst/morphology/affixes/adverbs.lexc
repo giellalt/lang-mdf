@@ -64,6 +64,8 @@ LEXICON ADV-ABL_ ! алда:алд%{АО%}
 +Abl: K_вок ;
 +Abl+Der+Der/Dimin:%>ня K_вок ;
 +Abl: DER/COP_OR_DER-POSS_NNE ;
+LEXICON ADV_ELA
++Ela: K_OR_DER/COP ;
 LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 !?ста %^А2О %> ...
 +Ela: K_вок ;
@@ -72,7 +74,7 @@ LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
 LEXICON ADV_INE ! лангса:лангс%{АО%}
-+Ine: K_вок ;
++Ine: K_OR_DER/COP ;
 +Ine+Der+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
 LEXICON ADV_LAT_ ! алга:алу
