@@ -428,6 +428,11 @@ Letters = Vows Cns ь ъ ;
 сан+N+Pl+Nom+Indef: **sinew/suoni**
 * *сан%>%{Х%}т{ЬØ}*
 * *сат%>0т0*
+седи+N+SP+Ine+PxSg1+Clt/Cop+Prs+ScPl2: **heart/sydän**
+* *седи>с{АО}>{ЕОØ}н>{Х}т{АЯ}да*
+* *седи>со>0н>0тада*
+* ★*седи>с{АО}>{ЕОØ}н>{Х}т{АЯ}да* (is not standard language)
+* ★*седи>со>0т>0тада* (is not standard language)
 ваномс+V+Imprt+ScSg2: **look/katsoa**
 * *ван%>%{Х%}%{КТ%}{ЬØ}*
 * *ват%>0т0*
