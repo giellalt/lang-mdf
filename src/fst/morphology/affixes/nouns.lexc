@@ -1116,7 +1116,7 @@ LEXICON NOTDEF-ILL
 
 LEXICON NOTDEF-INE
 @U.DECL-NX.SP@@U.CX.INE@+SP+Ine:@U.DECL-NX.SP@@U.CX.INE@%>с%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
-@D.MWN.YES@+SP+Ine+Der/MWN:@D.MWN.YES@%>с%{АО%} MWN-NUM-CASE ;!2024-06-15
+@D.MWN.YES@+SP+Ine+Der/MWN:@D.MWN.YES@%>с%{АО%} MWN_NUM_CASE ;!2024-06-15
 
 LEXICON NOTDEF-PRL
 @U.DECL-NX.SP@@U.CX.PRL@+SP+Prl:@U.DECL-NX.SP@@U.CX.PRL@%>%{вгк%}%{АЕ%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
@@ -1144,7 +1144,7 @@ SP-INE ;
 SP-PRL_Ova ;
 SP-TRA-INDEF_ks ;
 
-LEXICON MWN-NUM-CASE ! алашань кедьстось
+LEXICON MWN_NUM_CASE ! алашань кедьстось
 @P.MWN.YES@ PL-DAT/GEN/NOM-DEF ;
 @P.MWN.YES@ SG-DAT/GEN/NOM-DEF ;
 !PL-NOM-INDEF ;
@@ -1183,7 +1183,7 @@ LEXICON SP-ELA-INDEF
 @U.DECL-NX.SP@@U.CX.ELA@+SP+Ela:@U.DECL-NX.SP@@U.CX.ELA@%>ст%{АО%} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 @U.DECL-NX.SP@@U.CX.ELA@+SP+Ela+Der+Der/NJ+A:@U.DECL-NX.SP@@U.CX.ELA@%>стонь K  ;
 @U.DECL-NX.SP@@U.CX.ELA@+SP+Ela+Der+Der/Poss+N:@U.DECL-NX.SP@@U.CX.ELA@%>стонне DERPOSS-NUM-CASE  ;
-@D.MWN.YES@+SP+Ela+Der/MWN:@D.MWN.YES@%>ст%{АО%} MWN-NUM-CASE ;
+@D.MWN.YES@+SP+Ela+Der/MWN:@D.MWN.YES@%>ст%{АО%} MWN_NUM_CASE ;
 
 LEXICON SP-GEN-INDEF
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>%{ЕОØ%}нь NounEnd_K ;
@@ -1402,7 +1402,8 @@ LEXICON COPULA-NONPAST-50
 @U.CONJ-PX.5Ø@+Clt/Cop+Prs+ScPl2:@U.CONJ-PX.5Ø@%>%{Х%}т%{АЯ%}да NounEnd_K ;
 
 LEXICON COPULA-NONPAST-60
-@U.CONJ-PX.3Ø@+Clt/Cop+Prs+ScPl3:@U.CONJ-PX.3Ø@%>%{ИЫЙ%}хть NounEnd_K ;
+@U.CONJ-PX.3Ø@+Clt/Cop+Prs+ScPl3:@U.CONJ-PX.3Ø@%>%{Х%}т NounEnd_K ;
+!@U.CONJ-PX.3Ø@+Clt/Cop+Prs+ScPl3:@U.CONJ-PX.3Ø@%>%{ИЫЙ%}хть NounEnd_K ;
 !VERB-ZERO!-10...-60 CHECKME 2023_04
 
 
