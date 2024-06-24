@@ -8,6 +8,12 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 !! ADD VERBS BELOW
 дай+V+Imprt+Sg2:дай ENDLEX ;
 
+ингольдамс+V:ингольда BV_KUNDAMS ;
+тялькфтомамс+V:ялькфтома BV_KUNDAMS ;
+эськотьфтемс+V:эськотьфть BV_ANDOMS ;
+томошиндамс+V:томошинда BV_KUNDAMS ;
+врьгяткшнемс+V:врьгяткшне BV_KUNDAMS ;
+вандолгофтомс+V:вандолгофт BV_ANDOMS ;
 получандакшневомс+V:получандакшнев IV_ANDOVOMS ;
 шёледемс+V:шёледь BV_ANDOMS ;
 эшлякшнемс+V:эшлякшне BV_KUNDAMS ;
