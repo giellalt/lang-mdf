@@ -16,6 +16,8 @@ LEXICON EXCEPTIONS
 алулда+Adv:алулда ADV-INDEF-ABL_ ;
 алулце+A:алулце A_AVA ;
 маласта+Adv:маласт%{АО%} ADV_ELA ;
+ушетксстокиге+Adv:ушетксстокиге ENDLEX ;
+эрьда+V+Imprt+ScPl2:эрьд%{АО%} K ;
 всегда+Adv:всегда ADV_ ;
 плотнаста+Adv:плотнаста ADV_ ;
 интересна+Adv:интересна ADV_ ;
@@ -137,6 +139,14 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 колма-ниле+Num+Appr+Sg+Nom+Indef:колма-ниле ENDLEX ;
 ниле-вете+Num+Appr+Sg+Nom+Indef:ниле-вете ENDLEX ;
 вете-кота+Num+Appr+Sg+Nom+Indef:вете-кота ENDLEX ;
+кафтува+Num+Comp:кафтува NMN_AVA ;
+колмува+Num+Comp:колмува NMN_AVA ;
+ниле+Num+Comp:нилие NMN_AVA ;!compounding in 14, 24, 34, 44...
+ветие+Num+Comp:ветие NMN_AVA ;
+котува+Num+Comp:котува NMN_AVA ;
+кафксува+Num+Comp:кафксува NMN_AVA ;
+вейхксые+Num+Comp:вейхксые NMN_AVA ;
+
 мезяма+Pron:мезяма PRON_AVA ;
 ёфсикс+Adv:ёфсикс ADV_ ;
 можнат+Adv:можнат ADV_ ;
