@@ -53,7 +53,7 @@ in ped realized as hard sign
 
 ## TRIGGERS
 * %^RmVow:0  for removing vowels 
-%^Ь2ZERO:0	 removes soft sign before vowel or other combination
+%^Ь2ZERO:0	 removes soft sign before vowel or other combination, also й
 %^ЬKEEP:0	 retains soft sign, breaks pattern for removal
 %^Ъ2PED:0	 brings out hard sign, which is
 otherwise automatically removed %{ъØ%} 
@@ -358,6 +358,7 @@ Letters = Vows Cns ь ъ ;
 седи+N+Pl+Nom+Indef **heart/sydän**
 * *седий%>%{Х%}т%{ЬØ%}*
 * *седи0%>хть*
+
 корхнемс+V+NomAg+Pl+Nom+Def: **visit, talk/jutella**
 * *корхне%>%{ИЫЙ%}й%>%{Х%}тне*
 * *корхн0%>и0%>х0не*
@@ -376,6 +377,7 @@ Letters = Vows Cns ь ъ ;
 седи+N+Pl+Nom+Indef **heart/sydän**
 * *седий%>%{Х%}т%{ЬØ%}*
 * *седи0%>хть*
+
 араламс+V+Der/NomAg+Sg+Nom+PxSg3: **protect/puolustaa**
 * *арала%>%{ИЫЙ%}й%>%{ЕОØ%}ц*
 * *арала%>00%>ец*
