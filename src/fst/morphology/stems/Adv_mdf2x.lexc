@@ -19,7 +19,7 @@ LEXICON Adv_mdf2x
 алажгаконя+Adv:алажгаконя ADV_  "hyvin hiljaa" ;
 алга+Adv:алга ADV-PRL_  "alla" ;
 алда+Adv:алд%{АО%} ADV-ABL_  "alta" ;
-алняста+Adv:алняст%{АО%} ADV-ELA_  "matalalla" ;
+алняста+Adv:алняст%{АО%} ADV_ELA  "matalalla" ;
 алу+Adv:алу ADV_LAT_  "alas" ;
 алувармат+Adv:алувармат ADV_  "myötätuuleen" ;
 алуветть+Adv:алуветть ADV_  "myötävirtaan" ;
@@ -74,7 +74,7 @@ LEXICON Adv_mdf2x
 бокомне+Adv:бокомне ADV_  "kyljittäin" ;
 боконь-боконь+Adv:боконь-боконь ADV_  "kylki kyljessä" ;
 бокса+Adv:бокса ADV_  "sivulla" ;
-бокста+Adv:бокст%{АО%} ADV-ELA_  "sivulta" ;
+бокста+Adv:бокст%{АО%} ADV_ELA  "sivulta" ;
 боку+Adv:боку ADV_LAT_  "sivuun" ;
 брезговазь+Adv:брезговазь ADV_  "inhoten" ;
 буквальна+Adv:буквальна ADV_  "kirjaimellisesti" ;
@@ -303,7 +303,7 @@ LEXICON Adv_mdf2x
 живойняста-эреконяста+Adv:живойняста-эреконяста ADV_  "vilkkaasti" ;
 живойста+Adv:живойста ADV_  "elävänä" ;
 живойста-эрекста+Adv:живойста-эрекста ADV_  "vilkkaasti" ;
-живста+Adv:живст%{АО%} ADV-ELA_  "elävältä" ;
+живста+Adv:живст%{АО%} ADV_ELA  "elävältä" ;
 жольдердезь+Adv:жольдердезь ADV_  "liristen" ;
 жольдердезь-кальдердезь+Adv:жольдердезь-кальдердезь ADV_  "meluten" ;
 жольдерькшнезь-кальдерькшнезь+Adv:жольдерькшнезь-кальдерькшнезь ADV_  "meluten" ;
@@ -356,7 +356,7 @@ LEXICON Adv_mdf2x
 инци+Adv:инци ADV_  "vain" ;
 инь+Adv:инь ADV_  "superlatiivin apusana" ;
 иретьфоньпрят+Adv:иретьфоньпрят ADV_  "juovuksissa" ;
-ирецта+Adv:ирецт%{АО%} ADV-ELA_  "juovuksissa" ;
+ирецта+Adv:ирецт%{АО%} ADV_ELA  "juovuksissa" ;
 ирецтоньпрят+Adv:ирецтоньпрят ADV_  "juovuksissa" ;
 исяк+Adv:исяк ADV_TEMP  "eilen" ;
 ичкозде-ичкозде+Adv:ичкозде-ичкозде ADV-ABL_  "hyvin kaukaa" ;
@@ -365,7 +365,7 @@ LEXICON Adv_mdf2x
 ичкозьге+Adv:ичкозьге ADV-PRL_  "kaukaa" ;
 казямста+Adv:казямста ADV_  "karkeasti" ;
 кайгиста+Adv:кайгиста ADV_  "helisten" ;
-кайста+Adv:кайст%{АО%} ADV-ELA_  "sieltä" ;
+кайста+Adv:кайст%{АО%} ADV_ELA  "sieltä" ;
 кайтваня+Adv:кайтваня ADV-PRL_  "sitä kautta" ;
 кайтень-кайтень+Adv:кайтень-кайтень ADV_  "tarkasti" ;
 кайтса+Adv:кайтс%{АО%} ADV_INE  "siellä" ;
@@ -482,7 +482,7 @@ LEXICON Adv_mdf2x
 коса+Adv:кос%{АО%} ADV_INE  "missä" ;
 косовок+Adv:косовок ADV_  "ei missään; jossakin" ;
 кой-коса+Adv:кой-кос%{АО%} ADV_INE  "jossakin" ;
-кой-коста+Adv:кой-кост%{АО%} ADV-ELA_  "jostakin" ;
+кой-коста+Adv:кой-кост%{АО%} ADV_ELA  "jostakin" ;
 кой-мзяра+Adv:кой-мъзяр%{АО%} ADV_  "joitakin" ;
 кой-мзярда+Adv:кой-мъзярд%{АО%} ADV-INDEF-TEMP_  "joskus" ;
 кой-мзярс+Adv:кой-мъзярс ADV_  "joksikin ajaksi" ;
@@ -524,7 +524,7 @@ LEXICON Adv_mdf2x
 кородозь+Adv:кородозь ADV_  "hellävaroen" ;
 косойста+Adv:косойста ADV_  "vinosti" ;
 косонга+Adv:косонга ADV-INDEF-INE_  "ei missään; jossakin" ;
-коста+Adv:кост%{АО%} ADV-ELA_  "mistä; koska, milloin" ;
+коста+Adv:кост%{АО%} ADV_ELA  "mistä; koska, milloin" ;
 костонга+Adv:костонга ADV-INDEF-INE_  "jostakin; (ei) mistään; (ei) milloinkaan, (ei) koskaan" ;
 костонь+Adv:костонь ADV_  "mistä kotoisin (oleva)" ;
 коськоняста+Adv:коськоняста ADV_  "kuivaksi" ;
@@ -583,7 +583,7 @@ LEXICON Adv_mdf2x
 кядьваксса+Adv:кядьваксса ADV_  "hapuillen" ;
 кядьвийса+Adv:кядьвийса ADV_  "käsin" ;
 кядьса-сурса+Adv:кядьса-сурса ADV_  "käsin" ;
-кядьста+Adv:кядьст%{АО%} ADV-ELA_  "luota" ;
+кядьста+Adv:кядьст%{АО%} ADV_ELA  "luota" ;
 кядялда+Adv:кядялд%{АО%} ADV-ABL_  "kainalosta" ;
 кяжда+Adv:кяжда ADV_  "vihassa" ;
 кяжетта+Adv:кяжетта ADV_  "vihassa" ;
@@ -950,7 +950,7 @@ LEXICON Adv_mdf2x
 потазь+Adv:потазь ADV_  "perääntyen" ;
 потмараняста+Adv:потмараняста ADV_  "hiljaa" ;
 потмараста+Adv:потмараста ADV_  "hiljaa" ;
-потмоста+Adv:потмост%{АО%} ADV-ELA_  "sisältä" ;
+потмоста+Adv:потмост%{АО%} ADV_ELA  "sisältä" ;
 почесть+Adv:почесть ADV_  "melkein" ;
 правильна+Adv:правильна ADV_  "oikein" ;
 приметависта+Adv:приметависта ADV_  "huomattavasti" ;
@@ -1329,7 +1329,7 @@ LEXICON Adv_mdf2x
 торжественна+Adv:торжественна ADV_  "juhlallisesti" ;
 тоса+Adv:тос%{АО%} ADV_INE  "siellä" ;
 тосонга+Adv:тосонга ADV-INDEF-INE_  "sielläkin" ;
-тоста+Adv:тост%{АО%} ADV-ELA_  "sieltä" ;
+тоста+Adv:тост%{АО%} ADV_ELA  "sieltä" ;
 точна+Adv:точна ADV_  "täsmällisesti" ;
 тошказне+Adv:тошказне ADV_  "kuiskaten" ;
 тошказь+Adv:тошказь ADV_  "kuiskaten" ;
@@ -1388,7 +1388,7 @@ LEXICON Adv_mdf2x
 тянёк+Adv:тянёк ADV_  "nyt heti" ;
 тяп-ляп+Adv:тяп-ляп ADV_  "joten kuten" ;
 тяса+Adv:тяс%{АО%} ADV_INE  "täällä" ;
-тяста+Adv:тяст%{АО%} ADV-ELA_  "täältä" ;
+тяста+Adv:тяст%{АО%} ADV_ELA  "täältä" ;
 тятярьхть-мятярьхть+Adv:тятярьхть-мятярьхть ADV_  "huojuen" ;
 тяфта+Adv:тяфта ADV_  "näin" ;
 тяфтак+Adv:тяфтак ADV_  "näin" ;
@@ -1531,7 +1531,7 @@ LEXICON Adv_mdf2x
 шири+Adv:шири ADV_  "luokse" ;
 ширьге+Adv:ширьге ADV-PRL_  "sivussa" ;
 шиса-пароса+Adv:шиса-пароса ADV_  "hyvällä" ;
-шиста+Adv:шист%{АО%} ADV-ELA_  "hereillä" ;
+шиста+Adv:шист%{АО%} ADV_ELA  "hereillä" ;
 шистонь-ши+Adv:шистонь-ши ADV_  "joka päivä" ;
 шить+Adv:шить ADV_  "päivällä" ;
 шить-веть+Adv:шить-веть ADV_  "yötä päivää" ;
