@@ -70,11 +70,12 @@ LEXICON ADV_ELA
 +Ela: DER/COP_OR_DER-POSS_NNE ;
 +Ela: K_вок ;
 !+Ela: K_OR_DER/COP ;
-LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
-!?ста %^А2О %> ...
-+Ela: K_вок ;
-+Ela+Der+Der/Dimin:%>ня K_вок ;
-+Ela: DER/COP_OR_DER-POSS_NNE ;
+!LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
+!!?ста %^А2О %> ...
+!+Ela: K_вок ;
+!+Ela+Der+Der/Dimin:%>ня K_вок ;
+!+Ela: DER/COP_OR_DER-POSS_NNE ;
+
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
 LEXICON ADV_INE ! лангса:лангс%{АО%}
