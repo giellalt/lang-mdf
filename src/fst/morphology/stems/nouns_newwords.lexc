@@ -6,6 +6,12 @@ LEXICON N_NEWWORDS
 !test+N:test N_KAL "(eng) /(fin) /(rus) " ;
 !! ADD NOUNS BELOW
 
+раштафкс+N:раштафкс N_OSH ;
+ладяфкс+N:ладяфкс N_OSH	;
+няйфкс+N:няйфкс N_OSH	;
+шнаньгаркс+N:шнаньгаркс N_OSH	;
+озкскуд+N:озкскуд N_KAL	;
+содафкс+N:содафкс N_OSH	;
 абитуриент+N:абитуриент N_KAL ;
 абонемент+N:абонемент N_KAL ;
 абонент+N:абонент N_KAL ;
