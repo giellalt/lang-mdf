@@ -1474,6 +1474,7 @@ Quantifiers and Numerals are classified under:
 * _+Iter_ Iterative This will be replaced by +Mult
 * _+Mult_ Multiplicative form expressing number of times; myv: `кавксть`, kpv: `кыкысь`
 * ** +Ord 		**:  ordinal
+* ** +Cmpos		**:  compositional numeral 14, 24, 34, 44 нилие, 
 * ** +Attr 		**:  attribute, premodifier
 
 Verb voice:
