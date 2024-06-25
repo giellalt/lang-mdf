@@ -114,7 +114,19 @@ LEXICON PRONOUN-TYPES
 эковай+Pron:эковай PRON_  "" ;
 
 эсь+A+Sg+Nom+Indef:эсь ENDLEX  "oma" ; !!≈ * **@CODE@** seen in grammars as a pronoun base, but this does not occur as a pronoun.
-
+эсь+A+Sg+Gen+PxSg2:эсеценди K ;
+эсь+A+Pl+Gen+PxSg2:эсетненди K ;
+эсь+A+Sg+Gen+PxSg3:эсенц K ;
+эсь+A+Pl+Gen+PxSg3:эсензон K ;
+эсь+A+Pl3+Dat:эсьснонды K ;
+эсь+Pron+Sg3+Ine:эсьсонз%{АО%} K ;
+эсь+Pron+Sg3+Ela:эсьстонз%{АО%} K ;
+эсь+Pron+Pl1+Ine:эсьсонк K ;
+эсь+Pron+Pl1+Ela:эсьстонк K ;
+эсь+Pron+Pl2+Ine:эсьсонт K ;
+эсь+Pron+Pl2+Ela:эсьстонт K ;
+эсь+Pron+Pl3+Ine:эсьсост K ;
+эсь+Pron+Pl3+Ela:эсьстост K ;
 
 !end
 LEXICON PERS                        !!≈ * **@CODE@** 
@@ -157,6 +169,8 @@ LEXICON PERS-SG1
 +Dat+Long:дейне K ;
 +Abl:дедон K ;
 +Abe:ьфтемон K ;
++Ine:ьцон K ;
++Ela:ьцтон K ;
 !+Intensive+Nom:ць K_ГА ;
 !+Intensive+Gen:цень K_ГА ;
 !+Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
@@ -171,6 +185,8 @@ LEXICON PERS-SG2
 +Dat+Long:дейть K_ГА ;
 +Abl:дедот K_ГА ;
 +Abe:ьфтемот K_ГА ;
++Ine:ьцот K_ГА ;
++Ela:ьцтот K_ГА ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
 +Intensive+Gen+Der+Der/Poss:ценне DERPOSS-NUM-CASE ;
@@ -184,6 +200,8 @@ LEXICON PERS-SG3
 +Dat+Long:дейнз%{АО%} K_вок ;
 +Abl:дедонз%{АО%} K_вок ;
 +Abe:ьфтемонз%{АО%} K_вок ;
++Ine:ьцонз%{АО%} K_вок ;
++Ela:ьцтонз%{АО%} K_вок ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
 +Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
@@ -195,6 +213,11 @@ LEXICON PERS-PL1
 +Nom+Clt/Cop+Prs:ь VERB-ZERO-40 ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-40 ;
 +Gen:ь K_ГА ;
++Abl+Use/NG:дедонк K_овок ;
++Abl:ьдонк K_овок ;
++Abe:ьфтомонк K ;
++Ine:ьцонк K ;
++Ela:ьцтонк K ;
 +Use/NG+Dat+Long:дейнек K_ГА ;
 +Dat+Long:деенек K_ГА ;
 +Abl:дедонк K_овок ;
@@ -212,7 +235,11 @@ LEXICON PERS-PL2
 +Use/NG+Dat+Long:дейнть K_ГА ;
 +Dat+Long:деенть K_ГА ;
 +Gen:ь K_ГА ;
-+Abl:дедонт K_овок ;
++Abl+Use/NG:дедонт K_овок ;
++Abl:ьдонт K_овок ;
++Abe:ьфтомонт K ;
++Ine:ьцонт K ;
++Ela:ьцтонт K ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
 +Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
@@ -226,6 +253,10 @@ LEXICON PERS-PL3
 +Use/NG+Dat+Long:дейст K_ГА ;
 +Gen:ь K_ГА ;
 +Abl:дедост K_ГА ;
++Abl:ьдост K_овок ;
++Abe:ьфтомост K ;
++Ine:ьцост K ;
++Ela:ьцтост K ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
 +Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
