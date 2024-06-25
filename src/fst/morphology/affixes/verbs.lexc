@@ -267,7 +267,7 @@ LEXICON V0_MUMS
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:%>%{ЕОØ%} Non-Finite-Vws ;
+: Non-Finite-Vws ;
  Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -308,8 +308,8 @@ LEXICON V0_TIJEMS
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:й%>%{ЕОØ%} Non-Finite-Vws ;
-!:%>%{ЕОØ%} Non-Finite-Vws ;
+:й Non-Finite-Vws ;
+!: Non-Finite-Vws ;
  Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -337,19 +337,19 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:й%>%{ЕОØ%} Non-Finite-Vws ;
-!:%>%{ЕОØ%} Non-Finite-Vws ;
+:й Non-Finite-Vws ;
+!: Non-Finite-Vws ;
  Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 LEXICON V0_NJAFTEMS
  VERBAL-CONJUGATIONS-ALL ;
-:%>%{ЕОØ%} Non-Finite-Vws ;
+: Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ALYJAFTOMS
  VERBAL-CONJUGATIONS-ALL ;
-:%>%{ЕОØ%} Non-Finite-Vws ;
+: Non-Finite-Vws ;
 :%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
