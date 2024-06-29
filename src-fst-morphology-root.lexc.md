@@ -79,6 +79,8 @@ The Usage extents are marked using following tags:
 * _+Err/Dial_ * The form is non-standard although it may well be central dialect, e.g. стякшемс
 * _+Err/Lex_ * The lemma is not a Moksha word
 
+* +URL * For tagging URLs
+
 # Dialect tags
 * +Dial * No specification
 Specific to some dialects
