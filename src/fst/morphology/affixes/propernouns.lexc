@@ -211,7 +211,8 @@ LEXICON PROP_KUDO_FEM
 !! PLACE NAMES FROM TEMPLATES 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PROP_KAL_PLC !!≈ * **@CODE@** ending in other consonant
-+Sem/Plc: NMN_KAL ;
+ NMN_KAL ;
+!+Sem/Plc: NMN_KAL ;
 
 !LEXICON PROP_KIAL1_PLC
 !+Sem/Plc: N_KIAL1 ;
@@ -223,7 +224,8 @@ LEXICON PROP_KAL_PLC !!≈ * **@CODE@** ending in other consonant
 !+Sem/Plc: NMN_OSH ;
 
 LEXICON PROP_KUDO_PLC !!≈ * **@CODE@** ending in vowel
-+Sem/Plc: NMN_AVA ;
+ NMN_AVA ;
+!+Sem/Plc: NMN_AVA ;
 LEXICON PROP_KUDO
  NMN_AVA ;
 
@@ -232,9 +234,11 @@ LEXICON PROP_KUDO
 !! PROPER NOUNS 
 !!!!!!!!!!!!!!!!
 LEXICON PROP_AVA_PLC !!≈ * **@CODE@** ending in vowel
-+Sem/Plc: NMN_AVA ;
+ NMN_AVA ;
+!+Sem/Plc: NMN_AVA ;
 LEXICON PROP_PEJ_PLC !!≈ * **@CODE@** ending in vowel
-+Sem/Plc: NMN_PEJ ;
+ NMN_PEJ ;
+!+Sem/Plc: NMN_PEJ ;
 
 
 LEXICON PROP_AVA !!≈ * **@CODE@** ending in vowel
