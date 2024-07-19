@@ -98,9 +98,12 @@ LEXICON PRONOUN-TYPES
 ня+Det+Dem+Pl+Nom+Indef:ня DET-DEM_  "nämä, ne" ;
 
 нят+Pron+Dem:ня PRON-DEM_NIAT  "nämä, ne" ;
+ня+Pron+Dem+SP+Gen+Indef:нянь K ;
+ня+Pron+Dem+SP+Gen+Der+Der/Poss+Pron:нянне DERPOSS-NUM-CASE  "nämä, ne" ;
 
 някот+Pron:няк%{АО%} PRON-DEM_NIAT  "(mon.) vain nämä" ;
 ся+Pron+Dem:ся PRON-DEM_SIA  "se" ;
+ся+Pron+Dem+SP+Gen+Der+Der/Poss+Pron:сянне DERPOSS-NUM-CASE  "se" ;
 сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
 тона+Pron:тона PRON-DEM_TONA  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
@@ -205,8 +208,8 @@ LEXICON PERS-SG3
 +Ela:ьцтонз%{АО%} K_вок ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
-+Intensive+Gen+Der+Der/Poss:ценне  DERPOSS-NUM-CASE ;
-+Gen+Der+Der/Poss+N:не DERPOSS-NUM-CASE ;
++Intensive+Gen+Der+Der/Poss+Pron:ценне  DERPOSS-NUM-CASE ;
++Gen+Der+Der/Poss+Pron:не DERPOSS-NUM-CASE ;
 
 LEXICON PERS-PL1
 !минь:мин
@@ -342,8 +345,9 @@ LEXICON PRON-DEM_SIA
 +Sg+Dat+Indef:%>%{ЕОØ%}нди K/DAT-ARAM ;
 +Sg+Gen+Indef:%>%{ЕОØ%}нь K ;
 +Sg+Nom+Indef: K ;
++Sg+Gen+Der+Der/Poss+Pron:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ;
 
-LEXICON PRON-DEM_NIAT !нят:нят
+LEXICON PRON-DEM_NIAT !нят:ня
 +Pl+Nom+Indef:%>т K ;
 +Pl+Dat+Def:%>т%>не%>нди K/DAT-ARAM ;
 +Pl+Gen+Def:%>т%>не%>нь K ;
