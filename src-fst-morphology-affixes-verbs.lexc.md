@@ -18,6 +18,8 @@ SUBJECT ONLY VERBS
 
 андомс:анд
 
+сявомс:сяв
+
 пачкодемс:пачкодь
 
 андовомс:андов
@@ -41,6 +43,17 @@ COND-ALL
 +Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
 +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
+COND-ALL
++Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+COND-ALL
++NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+
+ашень, тят, афоль
+сявомс+V+ConNeg **take/ottaa**
+* *сяв{ЕОØ}*
+* *сяве*
 
 @U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
 @R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
