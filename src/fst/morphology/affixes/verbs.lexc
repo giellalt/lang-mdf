@@ -137,6 +137,10 @@ LEXICON BV_ANDOMS
  TV_ANDOMS ;
  IV_ANDOMS ;
 
+LEXICON BV_SJAVOMS
+ TV_SJAVOMS ;
+ IV_SJAVOMS ;
+
 LEXICON BV_NJAJEMS
  TV_NJAJEMS ;
  IV_NJAJEMS ;
@@ -157,6 +161,9 @@ LEXICON TV_MUMS
 
 LEXICON TV_ANDOMS
 @P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_ANDOMS ;
+
+LEXICON TV_SJAVOMS
+@P.CONJ.ObjAll@:@P.CONJ.ObjAll@ V0_SJAVOMS ;
 
 LEXICON TV_PACHKODEMS
 !! пачкодемс:пачкодь
@@ -199,6 +206,10 @@ LEXICON IV_MUMS
 LEXICON IV_ANDOMS
 !! андомс:анд
 : V0_ANDOMS ;
+
+LEXICON IV_SJAVOMS
+!! сявомс:сяв
+: V0_SJAVOMS ;
 
 LEXICON IV_PACHKODEMS
 !! пачкодемс:пачкодь
@@ -273,6 +284,37 @@ LEXICON V0_MUMS
 
 LEXICON V0_ANDOMS
  VERBAL-CONJUGATIONS-ALL ;
+: Non-Finite-Vws ;
+ Non-Finite-Cns ;
+V2V-DERIVATION-INITIAL-VOW_0 ;
+
+LEXICON V0_SJAVOMS
+!has form сяве, so {еоØ}
+ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+	 IND-PRT1-ALL ; 
+	 IND-PRT2-ALL ; 
+@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
++Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
++NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+
+	 CONJ-ALL     	;
+	 DES-ALL     	;
+	 IMPRT-ALL   	;
+	 OPT-ALL       	;
+	 INF_OM		;
++ConNeg:%{ЕОØ%} VerbEnd ;!> was removed 2024-07-24
++ConNeg:%{ЕОØ%} PL-NOM-INDEF ;!> was removed 2024-07-24
++ConNeg+Use/NG:%^CnsSt%>%{ЕОØ%} VerbEnd ;
++ConNeg+Use/NG:%^CnsSt%>%{ЕОØ%} PL-NOM-INDEF ;
+!! ашень, тят, афоль
+!! сявомс+V+ConNeg **take/ottaa**
+!!€ сяв{ЕОØ}
+!!€ сяве
++ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} K ;
++ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
+
 : Non-Finite-Vws ;
  Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
@@ -356,7 +398,9 @@ LEXICON V0_ALYJAFTOMS
 LEXICON Non-Finite-Vws
 +Inf:%>%{ЕОØ%}мс K_ГА ;
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
+
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
+
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} K_НГА ;
 +Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
 +Inf+Abl+Use/NG:%>%{ЕОØ%}мо%>д%{АО%} K_НГА ;
@@ -1587,6 +1631,7 @@ LEXICON OPT-60
 LEXICON INF_OM
 +Inf:%>%{ЕОØ%}мс K_ГА ;
 +Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
+
 +Inf+Loc+PxSg1:%>%{ЕОØ%}мон K_ГА ;
 +Inf+Loc+PxSg2:%>%{ЕОØ%}мот K_ГА ;
 +Inf+Loc+PxSg3:%>%{ЕОØ%}монз%{АО%} K ;
@@ -1601,6 +1646,7 @@ LEXICON INF_OM
 +Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} NounEnd_K_вок ;
 +Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
+
 +Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк%{АО%} K ;
