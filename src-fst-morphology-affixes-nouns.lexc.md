@@ -36,7 +36,7 @@ Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 Floating
 Without vowel
 
-LEXICON N_K1AD1GE 
+LEXICON N_KIAD1GE 
 frequent use of vowel stemm
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
