@@ -124,6 +124,16 @@ LEXICON N_OFTA !!= @CODE@
 LEXICON N_OFTA-PL !!= @CODE@
 : NMN_OFTA-PL ;
 
+LEXICON N_PARA !!= @CODE@ 
+!!пара:пар%{АОØ%}
+!: NMN_PARA ;
+ N_K1AD1GE ;
+
+!LEXICON N_PARA-SG !!= @CODE@
+!: NMN_PARA-SG ;
+LEXICON N_PARA-PL !!= @CODE@
+: NMN_PARA-PL ;
+
 LEXICON N_PANGA !!= @CODE@
 !!панга:панг%{АОØ%}
  N_PINGE ;
@@ -153,9 +163,48 @@ LEXICON N_PINGE !!= @CODE@
 !!
 !! Floating
 : NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT ;
-SG-GEN-DEF ; !2023-10-14 кядьготь
++Use/NG: SG-GEN-DEF ; !2023-10-14 кядьготь
++Use/NG: NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 !! Without vowel
 :%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
+
++Use/NG: SG-NOM-DEF ;
+ SP-PRL_Ga ; !2023-08-30 has pair in lose stem vowel
++Use/NG:  SP-ABL ;
+:%^RmVow SP-LAT-INDEF ;
+! N_KAL ;  Ela, Ill, Ine, Par 
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
+
+LEXICON N_K1AD1GE !!= @CODE@
+!!кядьге:кядьг%{ЕОØ%}
+!! frequent use of vowel stemm
+!! Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+: SG-NOM-INDEF ;
+!!
+: PL-NOM-INDEF ;
++Use/NG: SG-DAT/GEN/NOM-PXSG1 ;
+
+ SG-DAT/GEN/NOM-PXSG3 ;
+ PL-DAT/GEN/NOM-PXSG3 ; 
+ SP-CAU ;
+ SP-CMPR ;
+ SP-DAT-INDEF ;
+ SP-DAT/GEN/NOM-PXPL1 ;
+ SP-DAT/GEN/NOM-PXPL2 ;
+ SP-GEN-INDEF ;
+ SP-ILL-PX ;
+ SP-ELA-INDEF ;
+ SP-INE ;
+ SP-LAT-INDEF ;
+ SP-PRL_Ova ;
+ SP-TRA-INDEF_Oks ;
+!!
+!! Floating
+: NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT ;
+SG-GEN-DEF ; !2023-10-14 кядьготь
+ NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;!retain vowel stem
+!! Without vowel
++Use/NG:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 
 +Use/NG: SG-NOM-DEF ;
  SP-PRL_Ga ; !2023-08-30 has pair in lose stem vowel
@@ -459,8 +508,15 @@ LEXICON NMN_PAKSIA-PL
 
 LEXICON NMN_OFTA-PL !!= @CODE@
 :%^RmVow NMN-PL ;
-	 NMN-PL ;
++Use/NG:	 NMN-PL ;
 :%^RmVow NMN-SG/PL   ;
++Use/NG:         NMN-SG/PL   ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
+
+LEXICON NMN_PARA-PL !!= @CODE@
++Use/NG:%^RmVow NMN-PL ;
+	 NMN-PL ;
++Use/NG:%^RmVow NMN-SG/PL   ;
          NMN-SG/PL   ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
 
