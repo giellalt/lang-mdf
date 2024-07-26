@@ -1157,8 +1157,13 @@ Letters = Vows Cns ь ъ ;
 * *панч%>сь*
 
 **г:к**
+кельгомс+V+Ind+Prs+ScSg1+OcSg2: **love/rakastaa**
+* *кельг>{Х}те*
+* *кельк>0те*
+мярьгомс+V+Ind+Prs+ScPl1: **say/sanoa**
 * *мярьг>{Х}т{АЯ}ма*
 * *мярьк>0тяма*
+**descend/laskeutua**
 * *валг^Devoice>ф*
 * *валк0>ф*
 содамс+V+Inf+Clt/Add: __to know/tietää__
