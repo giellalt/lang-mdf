@@ -24,9 +24,20 @@ LEXICON N_OFTA
 
 LEXICON N_OFTA-PL 
 
+LEXICON N_PARA  
+
+LEXICON N_PARA-PL 
+
 LEXICON N_PANGA 
 
 LEXICON N_PINGE 
+Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
+
+Floating
+Without vowel
+
+LEXICON N_K1AD1GE 
+frequent use of vowel stemm
 Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
 
 Floating
@@ -66,6 +77,8 @@ LEXICON N_KELU
 NMN
 
 LEXICON NMN_OFTA-PL 
+
+LEXICON NMN_PARA-PL 
 
 Indefinite
 Definite Sg
