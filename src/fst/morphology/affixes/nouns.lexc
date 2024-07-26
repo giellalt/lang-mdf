@@ -127,7 +127,7 @@ LEXICON N_OFTA-PL !!= @CODE@
 LEXICON N_PARA !!= @CODE@ 
 !!пара:пар%{АОØ%}
 !: NMN_PARA ;
- N_K1AD1GE ;
+ N_KIAD1GE ;
 
 !LEXICON N_PARA-SG !!= @CODE@
 !: NMN_PARA-SG ;
@@ -175,7 +175,7 @@ LEXICON N_PINGE !!= @CODE@
 ! N_KAL ;  Ela, Ill, Ine, Par 
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
-LEXICON N_K1AD1GE !!= @CODE@
+LEXICON N_KIAD1GE !!= @CODE@
 !!кядьге:кядьг%{ЕОØ%}
 !! frequent use of vowel stemm
 !! Indef with vowel: Nom Sg, Gen, Dat, Cmpr, Prl, Tra
