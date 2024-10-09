@@ -131,8 +131,8 @@ LEXICON N_PARA !!= @CODE@
 
 !LEXICON N_PARA-SG !!= @CODE@
 !: NMN_PARA-SG ;
-LEXICON N_PARA-PL !!= @CODE@
-: NMN_PARA-PL ;
+!LEXICON N_PARA-PL !!= @CODE@
+!: NMN_PARA-PL ;
 
 LEXICON N_PANGA !!= @CODE@
 !!панга:панг%{АОØ%}
