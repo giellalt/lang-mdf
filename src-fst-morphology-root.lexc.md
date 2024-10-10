@@ -71,6 +71,7 @@ The Usage extents are marked using following tags:
 * _+Use/Marg_ * Marginal
 * _+Use/-Spell_ * Exclude from speller
 * _+Use/SpellNoSugg_ * recognized but not suggested in speller
+* _+Use/Colloq_ * Брыжинский >> Брыжинскяй
 * _+Use/Circ_ * Circular path
 * _+Use/CircN_ * Circular number path
 * _+Use/-Ped_ * Remove from pedagogical speller
