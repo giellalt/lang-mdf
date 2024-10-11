@@ -17,6 +17,10 @@ LEXICON ADV_MOD 	!!= @CODE@
 LEXICON ADV_MANNER 	!!= @CODE@ 
 +Manner: K ;
 
+LEXICON ADV_QNT
++Qnt: K ;
++Qnt: COPULA-PRT-30 ; !This may need extension to all persons and both tenses 2024-10-11, jaska
+
 LEXICON ADV_COMP
 !!! сяда
 +Comp: K ;

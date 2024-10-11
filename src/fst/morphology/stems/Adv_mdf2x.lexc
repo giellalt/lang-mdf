@@ -56,7 +56,7 @@ LEXICON Adv_mdf2x
 ащи+Adv:ащи ADV_  "selvä" ;
 аяш+Interj:аяш INTERJ-NEG_АЯШ  "ei ole" ;
 байкок+Adv:байкок ADV_  "paljon" ;
-байтяк+Adv:байтяк ADV_  "paljon" ;
+байтяк+Adv:байтяк ADV_QNT  "paljon" ;
 бач+Adv:бач ADV_  "sakeasti" ;
 башка+Adv:башка ADV_  "erikseen" ;
 бди+Adv:бъди ADV_  "ehkä" ;
@@ -538,7 +538,7 @@ LEXICON Adv_mdf2x
 крганьпяльцек+Adv+Use/SpellNoSugg:кърганьпяльцек ADV_  "kaulakkain" ;
 кргацек+Adv:кргацек ADV_  "kaulakkain" ;
 кргацек+Adv+Use/SpellNoSugg:къргацек ADV_  "kaulakkain" ;
-кржа+Adv:кържа ADV_  "vähän" ;
+кржа+Adv:кържа ADV_QNT  "vähän" ;
 крназь+Adv:крназь ADV_  "kuorsaten" ;
 крназь+Adv+Use/SpellNoSugg:кърназь ADV_  "kuorsaten" ;
 круглай+Adv:круглай ADV_TEMP  "koko vuoden ajan" ;
@@ -612,7 +612,7 @@ LEXICON Adv_mdf2x
 лажназь-пичедезь+Adv:лажназь-пичедезь ADV_  "valittavasti" ;
 лаказь+Adv:лаказь ADV_  "keimaillen" ;
 лакштордозь+Adv:лакштордозь ADV_  "risahtaen" ;
-лама+Adv:лама ADV_  "paljon" ;
+лама+Adv:лам%{АО%} ADV_QNT  "paljon" ;
 ламбамняста+Adv:ламбамняста ADV_  "makeasti" ;
 ламбаста+Adv:ламбаста ADV_  "makeasti" ;
 ламня+Adv:ламня ADV_  "paljon" ;
@@ -729,7 +729,7 @@ LEXICON Adv_mdf2x
 мзолдозь+Adv+Use/SpellNoSugg:мъзолдозь ADV_  "hymyillen" ;
 мзолкшнезь+Adv:мзолкшнезь ADV_  "hymyillen" ;
 мзолкшнезь+Adv+Use/SpellNoSugg:мъзолкшнезь ADV_  "hymyillen" ;
-мзяра+Adv:мъзяра ADV_  "montako" ;
+мзяра+Adv:мъзяр%{АО%} ADV_QNT  "montako" ;
 мзяра-бди+Adv:мъзяра-бъди ADV_  "jonkin verran" ;
 мзяра-мзяра+Adv:мъзяра-мъзяра ADV_  "jonkin verran" ;
 мзярда+Adv:мъзярд%{АО%} ADV_TEMP  "milloin" ;
