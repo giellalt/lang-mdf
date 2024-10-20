@@ -543,6 +543,10 @@ REMOVE ("уша" Abl Indef Clt/Cop Prs ScSg2) OR ("уша" Abl Indef Clt/Cop Prs
    #ушедат: Колмоце книгать ушедат лувомонза,— и сельмотне коневихть.
 REMOVE PxSg2 OR Ex/Num IF (0 (A Ord));
 
+# минь -- мимс
+REMOVE:NotVerbWhenPronPersPl1Gen ("мимс" V) IF (0 (Pron Pers Pl1 Gen)) (1 PxPl1);
+#минь партияньконь пяк оцю заботац
+
 # кяль -- кялемс
 SELECT ("кяль") IF (-1 TAKESLANG);#!!
    # мокшень кяль
