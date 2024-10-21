@@ -494,6 +494,10 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR 
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
        # deal with вал : валда, пан : панда
 
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Sg Nom Indef) IF (0 ("Аля") OR ("Мар") OR ("Тунда") OR ("Ялга") OR ("Тянь") OR ("Синь") OR ("Весь") OR ("Коза") OR ("Вага"))
+# proper nouns vs high-frequency words : Аля=аля+N+Sg+Nom+Indef, Мар=мар+Sg+Nom+Indef, Тунда=тунда+N+Sg+Nom+Indef, Ялга=ялга+N+Sg+Nom+Indef, 
+#Тянь=тя+Pron+Sg+Gen+Indef, Синь=сон+Pron+Pers+Pl+Gen/+Pron+Pers+Pl+Nom, Весь=ве+N+Sg+Nom+Def, Коза=коза, Вага=вага+Interj
+
 MAP (@CVP) TARGET CC IF (*-1 (VFIN) BARRIER CLB OR BOS LINK *1 (VFIN) BARRIER CLB OR EOS);
 MAP (@CVP) TARGET CC IF (*1 (VFIN) BARRIER CLB OR EOS LINK *-1 (VFIN) BARRIER CLB OR BOS);
     #и :тейсь прязонзо пизэ и ливтсь левкст.
@@ -542,6 +546,7 @@ REMOVE ("уша" Abl Indef Clt/Cop Prs ScSg2) OR ("уша" Abl Indef Clt/Cop Prs
    #ушедомс vs уша
    #ушедат: Колмоце книгать ушедат лувомонза,— и сельмотне коневихть.
 REMOVE PxSg2 OR Ex/Num IF (0 (A Ord));
+
 
 # минь -- мимс
 REMOVE:NotVerbWhenPronPersPl1Gen ("мимс" V) IF (0 (Pron Pers Pl1 Gen)) (1 PxPl1);
