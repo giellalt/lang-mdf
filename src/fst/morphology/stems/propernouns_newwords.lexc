@@ -12,8 +12,13 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 
 
 
-
-
+Антанта+N+Prop:Антанта PROP_AVA_rus100 ;
+Аргуня+N+Prop:Аргуня PROP_AVA ;
+Атюрьева+N+Prop:Атюрьева PROP_AVA ;
+Багдад+N+Prop:Багдад PROP_KAL_rus100 ;
+Вирьляй+N+Prop:Вирьляй PROP_PEJ ;
+Витковскяй+N+Prop:Витковскяй PROP_PEJ ;
+Вьетнам+N+Prop:Вьетнам PROP_KAL_rus100 ;
 
 
 
@@ -29,6 +34,7 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 Акила+N+Prop:Акила PROP_AVA ;
 Акимушка+N+Prop:Акимушка PROP_AVA ;
 Алдакай+N+Prop:Алдакай PROP_PEJ ;
+Алдака+N+Prop:Алдака PROP_AVA ;
 Алду+N+Prop:Алду PROP_KELU "" ;
 Алёнаня+N+Prop:Алёнаня PROP_AVA ;
 Алка+N+Prop:Алка PROP_AVA ;

@@ -12,11 +12,15 @@ LEXICON PROP_
 +Sg+Gen+Def:%>ть K ;
 +Sg+Dat+Def:%>ти K ;
 
+LEXICON PROP_SARAZ_rus100
++Use/SpellNoSugg: PROP_SARAZ ;
 LEXICON PROP_SARAZ
 : N_SARAZ ;
 LEXICON PROP-VOC_KIAJ
 +Voc:%^Devoice%^Ь2ZERO%>кяй ENDLEX ;
 
+LEXICON PROP_KAL_rus100 
++Use/SpellNoSugg: PROP_KAL ;
 LEXICON PROP_KAL
 : N_KAL	;
 LEXICON PROP_KIAL1
@@ -264,7 +268,8 @@ LEXICON PROP_PEJ_PLC !!≈ * **@CODE@** ending in vowel
  NMN_PEJ ;
 !+Sem/Plc: NMN_PEJ ;
 
-
+LEXICON PROP_AVA_rus100
++Use/SpellNoSugg: PROP_AVA ;
 LEXICON PROP_AVA !!≈ * **@CODE@** ending in vowel
 : NMN_AVA ;
 
