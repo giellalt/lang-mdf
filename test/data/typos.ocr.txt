@@ -1,0 +1,176 @@
+# Divvun & Giellatekno - open source grammars for Sámi and other languages
+# Copyright © 2000-2010 The University of Tromsø & the Norwegian Sámi Parliament
+# http://giellatekno.uit.no & http://divvun.no
+#
+# This program is free software; you can redistribute and/or modify
+# this file under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version. The GNU General Public License
+# is found at http://www.gnu.org/licenses/gpl.html. It is
+# also available in the file $GTHOME/LICENSE.txt.
+#
+# Other licensing options are available upon request, please contact
+# giellatekno@hum.uit.no or feedback@divvun.no
+#
+# typos.ocr.txt
+# This file contains common mis-ocr and their corrections separated by
+# a <tab> character, optionally followed by a comment. That is, the
+# format is: three columns, separated by TAB:
+#
+# Column 1: error word/typo
+# Column 2: correction
+# Column 3: Comment, starting with # or !
+#
+# Example:
+#
+# эсьстопк	эсьстонк	# This is just an example
+#
+# Corrections that consist of two or more parts are not split
+# further in the preprocessor, because there is no way of knowing
+# whether the token is a multipart expression or not.
+# Beware of removing sentence delimiters (.!?) in correction, since
+# they may indicate sentence boundaries.
+#
+#
+эсьстопк	эсьстонк	# п should be н
+штоб'а	штоба	# introduced appostrophe
+д'а	да	# introduced appostrophe
+эзд'а	эзда	# introduced appostrophe
+алд'а	алда	# introduced appostrophe
+Код'а	Кода	# introduced appostrophe
+код'а	кода	# introduced appostrophe
+ламод'а	ламода	# introduced appostrophe
+ж'а	жа	# introduced appostrophe
+крж'а	кржа	# introduced appostrophe
+тейнз'а	тейнза	# introduced appostrophe
+прясонз'а	прясонза	# introduced appostrophe
+тяз'а	тяза	# introduced appostrophe
+начк'а	начка	# introduced appostrophe
+тяфТам'а	тяфтама	# introduced appostrophe
+лам'а	лама	# introduced appostrophe
+Оттам'а	Оттама	# introduced appostrophe
+кярьмодем'а	кярьмодема	# introduced appostrophe
+улем'а	улема	# introduced appostrophe
+шачем'а	шачема	# introduced appostrophe
+вон'а	вона	# introduced appostrophe
+шумбр'а	шумбра	# introduced appostrophe
+мяльс'а	мяльса	# introduced appostrophe
+кот'а	кота	# introduced appostrophe
+Кудст'а	Кудста	# introduced appostrophe
+эрязст'а	эрязста	# introduced appostrophe
+эст'а	эста	# introduced appostrophe
+мархт'а	мархта	# introduced appostrophe
+ВдЬ	Вдь	# stylized upper-case Ь in original
+уЖялЬдЬ	ужяльдь	# stylized upper-case Ь in original; stylized upper-case Ж in original
+васЬфтсазЬ	васЬфтсазь	# stylized upper-case Ь in original
+утясазЬ	утясазь	# stylized upper-case Ь in original
+шачфнезЬ	шачфнезь	# stylized upper-case Ь in original
+урняфнезЬ	урняфнезь	# stylized upper-case Ь in original
+ашезЬ	ашезь	# stylized upper-case Ь in original
+изЬ	изь	# stylized upper-case Ь in original
+КелЬгозЬ	Кельгозь	# stylized upper-case Ь in original
+УлелЬ	Улель	# stylized upper-case Ь in original
+ПеряфолЬ	Перяфоль	# stylized upper-case Ь in original
+стялЬ	стяль	# stylized upper-case Ь in original
+ЛоманЬ	Ломань	# stylized upper-case Ь in original
+КелЬгоманЬ	Кельгомань	# stylized upper-case Ь in original
+ломанЬ	ломань	# stylized upper-case Ь in original
+ошненЬ	ошнень	# stylized upper-case Ь in original
+СёксенЬ	Сёксень	# stylized upper-case Ь in original
+ВайгялЬняценЬ	Вайгяльняцень	# stylized upper-case Ь in original
+мокшенЬ	мокшень	# stylized upper-case Ь in original
+минЬ	минь	# stylized upper-case Ь in original
+синЬ	синь	# stylized upper-case Ь in original
+тинЬ	тинь	# stylized upper-case Ь in original
+шинЬ	шинь	# stylized upper-case Ь in original
+СонЬ	Сонь	# stylized upper-case Ь in original
+кизонЬ	кизонь	# stylized upper-case Ь in original
+РузонЬ	Рузонь	# stylized upper-case Ь in original
+селЬмонеконЬ	сельмонеконь	# stylized upper-case Ь in original
+ТолонЬ	Толонь	# stylized upper-case Ь in original
+тонЬ	тонь	# stylized upper-case Ь in original
+КозянЬ	Козянь	# stylized upper-case Ь in original
+фкя-фкянЬ	фкя-фкянь	# stylized upper-case Ь in original
+букварЬ	букварь	# stylized upper-case Ь in original
+эрЬ	эрь	# stylized upper-case Ь in original
+улЬсЬ	ульсь	# stylized upper-case Ь in original
+СасЬ	Сась	# stylized upper-case Ь in original
+авасЬ	авась	# stylized upper-case Ь in original
+шовдасЬ	шовдась	# stylized upper-case Ь in original
+модасЬ	модась	# stylized upper-case Ь in original
+МузасЬ	Музась	# stylized upper-case Ь in original
+юмасЬ	юмась	# stylized upper-case Ь in original
+ПрасЬ	Прась	# stylized upper-case Ь in original
+сасЬ	сась	# stylized upper-case Ь in original
+ПанЖевсЬ	Панжевсь	# stylized upper-case Ь in original; stylized upper-case Ж in original
+флагсЬ	флагсь	# stylized upper-case Ь in original
+врагсЬ	врагсь	# stylized upper-case Ь in original
+НеЖедсЬ	Нежедсь	# stylized upper-case Ь in original; stylized upper-case Ж in original
+кандсЬ	кандсь	# stylized upper-case Ь in original
+ПуЖендсЬ	ПуЖендсь	# stylized upper-case Ь in original
+одсЬ	одсь	# stylized upper-case Ь in original
+КеподсЬ	Кеподсь	# stylized upper-case Ь in original
+походсЬ	походсь	# stylized upper-case Ь in original
+СерЬгядсЬ	Серьгядсь	# stylized upper-case Ь in original
+серЬгядсЬ	серьгядсь	# stylized upper-case Ь in original
+шудесЬ	шудесь	# stylized upper-case Ь in original
+велесЬ	велесь	# stylized upper-case Ь in original
+сиресЬ	сиресь	# stylized upper-case Ь in original
+сексесЬ	сексесь	# stylized upper-case Ь in original
+рузсЬ	рузсь	# stylized upper-case Ь in original
+шисЬ	шись	# stylized upper-case Ь in original
+крайсЬ	крайсь	# stylized upper-case Ь in original
+бурЖуйсЬ	буржуйсь	# stylized upper-case Ь in original; stylized upper-case Ж in original
+куйсЬ	куйсь	# stylized upper-case Ь in original
+АтомсЬ	Атомсь	# stylized upper-case Ь in original
+СембосЬ	Сембось	# stylized upper-case Ь in original
+моросЬ	морось	# stylized upper-case Ь in original
+шарсЬ	шарсь	# stylized upper-case Ь in original
+ОктябрсЬ	Октябрсь	# stylized upper-case Ь in original
+версЬ	версь	# stylized upper-case Ь in original
+керсЬ	керсь	# stylized upper-case Ь in original
+макссЬ	макссь	# stylized upper-case Ь in original
+цефкссЬ	цёфкссь	# stylized upper-case Ь in original; e for ё
+мусЬ	мусь	# stylized upper-case Ь in original
+тусЬ	тусь	# stylized upper-case Ь in original
+эряфсЬ	эряфсь	# stylized upper-case Ь in original
+шачсЬ	шачсь	# stylized upper-case Ь in original
+ПанчсЬ	Панчсь	# stylized upper-case Ь in original
+ошсЬ	ошсь	# stylized upper-case Ь in original
+следовательсЬ	следовательсь	# stylized upper-case Ь in original
+эрЬгясЬ	эрьгясь	# stylized upper-case Ь in original
+иднясЬ	иднясь	# stylized upper-case Ь in original
+горясЬ	горясь	# stylized upper-case Ь in original
+менелЬтЬ	менельть	# stylized upper-case Ь in original
+лугатЬ	лугать	# stylized upper-case Ь in original
+модатЬ	модать	# stylized upper-case Ь in original
+высотатЬ	высотать	# stylized upper-case Ь in original
+ковтЬ	ковть	# stylized upper-case Ь in original
+ветЬ	веть	# stylized upper-case Ь in original
+седитЬ	седить	# stylized upper-case Ь in original
+тиитЬ	тиить	# stylized upper-case Ь in original
+шитЬ	шить	# stylized upper-case Ь in original
+уроЖайтЬ	урожайть	# stylized upper-case Ь in original; stylized upper-case Ж in original
+ПокайтЬ	Покайть	# stylized upper-case Ь in original
+КаЖнайтЬ	Кажнайть	# stylized upper-case Ь in original; stylized upper-case Ж in original
+вийтЬ	вийть	# stylized upper-case Ь in original
+тейнтЬ	тейнть	# stylized upper-case Ь in original
+ширтЬ	ширть	# stylized upper-case Ь in original
+синдстЬ	синдсть	# stylized upper-case Ь in original
+вестЬ	весть	# stylized upper-case Ь in original
+таколкшнестЬ	таколкшнесть	# stylized upper-case Ь in original
+ТюрстЬ	Тюрсть	# stylized upper-case Ь in original
+касстЬ	кассть	# stylized upper-case Ь in original
+тустЬ	тусть	# stylized upper-case Ь in original
+МирттЬ	Миртть	# stylized upper-case Ь in original
+АшелЬхтЬ	Ашельхть	# stylized upper-case Ь in original
+вирЬхтЬ	вирьхть	# stylized upper-case Ь in original
+стирЬхтЬ	стирьхть	# stylized upper-case Ь in original
+ПанЖихтЬ	Панжихть	# stylized upper-case Ь in original; stylized upper-case Ж in original
+ЛувихтЬ	Лувихть	# stylized upper-case Ь in original
+лиихтЬ	лиихть	# stylized upper-case Ь in original
+тиихтЬ	тиихть	# stylized upper-case Ь in original
+ащихтЬ	ащихть	# stylized upper-case Ь in original
+ЭряйхтЬ	Эряйхть	# stylized upper-case Ь in original
+алятЬ	алять	# stylized upper-case Ь in original
+ЛоманцЬ	Ломанць	# stylized upper-case Ь in original
