@@ -12,8 +12,8 @@ LEXICON PROP_
 +Sg+Gen+Def:%>ть K ;
 +Sg+Dat+Def:%>ти K ;
 
-LEXICON PROP_SARAZ_rus100
-+Use/SpellNoSugg: PROP_SARAZ ;
+!LEXICON PROP_SARAZ_rus100
+!+Use/SpellNoSugg: PROP_SARAZ ;
 LEXICON PROP_SARAZ
 : N_SARAZ ;
 LEXICON PROP-VOC_KIAJ
@@ -49,13 +49,15 @@ LEXICON PROP-PATR-MAL_END-IN-CH/DZ ! from urj-Cyrl-propernouns.lexc
  PROP_OSH_PATRMAL ;
 
 LEXICON PropNameMaleDer-IJ-Y0Evich
-+Der/PatrMal+Orth/Colloq:ьич PROP_OSH_PATRMAL ;
++Der/PatrMal+Orth/Colloq:ич PROP_OSH_PATRMAL ;
++Der/PatrMal+Orth/Colloq+Err/Orth-soft-kept:ьич PROP_OSH_PATRMAL ;
 +Der/PatrMal:ьевич PROP_OSH_PATRMAL ;
 !+Der/PatrFem:ьевна PROP_KUDO_PATRFEM ;
 :ий PROP_KAL_MAL ;
 
 LEXICON PropNameMaleDer-IJ-I0Evich
-+Der/PatrMal+Orth/Colloq:ьич PROP_OSH_PATRMAL ;
++Der/PatrMal+Orth/Colloq:ич PROP_OSH_PATRMAL ;
++Der/PatrMal+Orth/Colloq+Err/Orth-soft-kept:ьич PROP_OSH_PATRMAL ;
 +Der/PatrMal:иевич PROP_OSH_PATRMAL ;
 !+Der/PatrFem:иевна PROP_KUDO_PATRFEM ;
 :ий PROP_KAL_MAL ;
@@ -254,8 +256,8 @@ LEXICON PROP_KAL_PLC !!≈ * **@CODE@** ending in other consonant
 LEXICON PROP_KUDO_PLC !!≈ * **@CODE@** ending in vowel
  NMN_AVA ;
 !+Sem/Plc: NMN_AVA ;
-LEXICON PROP_KUDO
- NMN_AVA ;
+!LEXICON PROP_KUDO
+! NMN_AVA ;
 
 
 !!!!!!!!!!!!!!!!

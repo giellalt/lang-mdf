@@ -42,6 +42,9 @@ LEXICON N_KIAL1_rus100
 LEXICON N_PEJ_rus100
 +Use/SpellNoSugg: N_PEJ ;
 
+LEXICON N_SARAZ_rus100 !!= @CODE@ homograph of majority language
++Use/SpellNoSugg: N_SARAZ ;
+
 LEXICON N_AVA
 ! ава:ава
 : NMN_AVA ;
@@ -513,12 +516,12 @@ LEXICON NMN_OFTA-PL !!= @CODE@
 +Use/NG:         NMN-SG/PL   ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
 
-LEXICON NMN_PARA-PL !!= @CODE@
-+Use/NG:%^RmVow NMN-PL ;
-	 NMN-PL ;
-+Use/NG:%^RmVow NMN-SG/PL   ;
-         NMN-SG/PL   ;
-+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
+!LEXICON NMN_PARA-PL !!= @CODE@
+!+Use/NG:%^RmVow NMN-PL ;
+!	 NMN-PL ;
+!+Use/NG:%^RmVow NMN-SG/PL   ;
+!         NMN-SG/PL   ;
+!+Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA-PL ;
 
 LEXICON NMN_KELU
 	NMN_KELU-SG	;
@@ -1271,6 +1274,7 @@ LEXICON SP-ELA-INDEF
 
 LEXICON SP-GEN-INDEF
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>%{ЕОØ%}нь NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef+Err/Orth-glide-final:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%^Glide%>нь NounEnd_K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм%{ЕО%}%>%{ЕОØ%}нь
 !!€ сельмо%>0нь
