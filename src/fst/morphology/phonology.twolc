@@ -140,6 +140,7 @@ Alphabet !!≈!!The base @CODE@
 %^Devoice:0	!!= @CODE@ for devoicing изь:исть
 %^PXSG1:0	!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt:0	!!= @CODE@ улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide:0	!!= @CODE@ Толстой:Толстой%^Glide%>нь
 
 TLoss:0
 SLoss:0
@@ -1265,6 +1266,10 @@ KLoss:0 /<= [[ :* Letters ] - [ :* :к ] ] %> _ ;
 "Disallow SLoss after non-s"
 !! **@RULENAME@**  
 SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
+
+"Disallow Glide after non-glides"
+!! **@RULENAME@**
+%^Glide:0 /<= [[ :* Letters ] - [ :* й ] ] _ ;
 
 !"Disallow VLoss after non-U2I2"
 !!! __@RULENAME@__  

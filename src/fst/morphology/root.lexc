@@ -94,6 +94,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +Err/Orth-soft-loss !!≈ * @CODE@ $тиендсазь €тиендьсазь
  +Err/Orth-soft-kept !!≈ * @CODE@ шяярьня
  +Err/Orth-colloq !!≈ * @CODE@ Евсеич
+ +Err/Orth-glide-final !!≈ * @CODE@ Толстойнь, 
  +Err/MissingSpace
  +Err/Orth-old1 !!≈ * @CODE@ * old1 like озимь, морковь 1930–1940
  +Err/Orth-pre1978  !!≈ * @CODE@ * orthography preceding 1978
@@ -689,6 +690,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^Devoice	!!= @CODE@ for devoicing изь:исть
 %^PXSG1		!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt		!!= @CODE@ улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide		!!= @CODE@ Толстой:Толстой%^Glide%>нь
 
  {front} {back}
  %>
