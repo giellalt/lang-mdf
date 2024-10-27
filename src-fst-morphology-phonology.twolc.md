@@ -66,6 +66,7 @@ otherwise automatically removed %{ъØ%}
 %^Devoice:0	 for devoicing изь:исть
 %^PXSG1:0	 кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt:0	 улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide:0	 Толстой:Толстой%^Glide%>нь
 
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix
@@ -673,6 +674,8 @@ plural
 **Disallow KLoss after non-k**  
 
 **Disallow SLoss after non-s**  
+
+**Disallow Glide after non-glides**
 
 **Disallow овок**
 

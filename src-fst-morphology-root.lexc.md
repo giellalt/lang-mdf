@@ -64,6 +64,7 @@ The Usage extents are marked using following tags:
 * +Err/Orth-soft-loss $тиендсазь €тиендьсазь
 * +Err/Orth-soft-kept шяярьня
 * +Err/Orth-colloq Евсеич
+* +Err/Orth-glide-final Толстойнь, 
 * +Err/Orth-old1 * old1 like озимь, морковь 1930–1940
 * +Err/Orth-pre1978 * orthography preceding 1978
 * +Err/Orth-pre2012 * previous orthography
@@ -445,6 +446,7 @@ And following triggers to control variation
 %^Devoice	 for devoicing изь:исть
 %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt		 улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide		 Толстой:Толстой%^Glide%>нь
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following

@@ -231,6 +231,8 @@ Moksha language nouns inflect in cases.
 
 NOUNS 
 
+LEXICON N_SARAZ_rus100  homograph of majority language
+
 ава:ава
 
 вальмя:вальмя
@@ -302,8 +304,6 @@ LEXICON N_KELU
 NMN
 
 LEXICON NMN_OFTA-PL 
-
-LEXICON NMN_PARA-PL 
 
 Indefinite
 Definite Sg
@@ -738,6 +738,7 @@ otherwise automatically removed %{ъØ%}
 %^Devoice:0	 for devoicing изь:исть
 %^PXSG1:0	 кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt:0	 улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide:0	 Толстой:Толстой%^Glide%>нь
 
 * ` %- ` – Hyphen with constructions like "-bdi"
 * ` %> ` – conjugation/declension morpheme boundary suffix
@@ -1346,6 +1347,8 @@ plural
 
 **Disallow SLoss after non-s**  
 
+**Disallow Glide after non-glides**
+
 **Disallow овок**
 
 **Disallow Онга**
@@ -1440,6 +1443,7 @@ The Usage extents are marked using following tags:
 * +Err/Orth-soft-loss $тиендсазь €тиендьсазь
 * +Err/Orth-soft-kept шяярьня
 * +Err/Orth-colloq Евсеич
+* +Err/Orth-glide-final Толстойнь, 
 * +Err/Orth-old1 * old1 like озимь, морковь 1930–1940
 * +Err/Orth-pre1978 * orthography preceding 1978
 * +Err/Orth-pre2012 * previous orthography
@@ -1821,6 +1825,7 @@ And following triggers to control variation
 %^Devoice	 for devoicing изь:исть
 %^PXSG1		 кядне, ярмаконе не vs %{ЕОØ%}не
 %^CnsSt		 улемс:уль%^CnsSt%>%{АЕØ%}	
+%^Glide		 Толстой:Толстой%^Glide%>нь
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following

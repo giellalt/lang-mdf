@@ -4,6 +4,8 @@ Moksha language nouns inflect in cases.
 
 NOUNS 
 
+LEXICON N_SARAZ_rus100  homograph of majority language
+
 ава:ава
 
 вальмя:вальмя
@@ -75,8 +77,6 @@ LEXICON N_KELU
 NMN
 
 LEXICON NMN_OFTA-PL 
-
-LEXICON NMN_PARA-PL 
 
 Indefinite
 Definite Sg
