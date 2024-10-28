@@ -10,6 +10,8 @@ LEXICON EXCEPTIONS
 
 !терьхконе+N:терьхконе е:я new contlex?
 !! MISSING ADV
+например+Adv:например ADV_ ;
+
 организационна+Adv:организационна ADV_ ;
 сельмоведеньбачк+Adv:сельмоведеньбачк ADV_ ;
 сельмоведьбачк+Adv:сельмоведьбачк ADV_ ;
@@ -202,7 +204,7 @@ cамс+V+Ind+Prs+ScSg2:саят K ;
 роди+Adv:роди ADV_ ;
 давай+Pcle:давай PCLE_ ;
 валом-валом+Adv:валом-валом ADV_ ;
-можна+Adv:можна ADV_ ;
+можна+Adv:можна ADV_CAN_TAKE_PRTSG3 ;
 тожа+Adv:тожа ADV_ ;
 ах+Interj:ах INTERJ_ ;
 у-у+Interj:у-у INTERJ_ ;

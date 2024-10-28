@@ -12,6 +12,11 @@ LEXICON ADV_DEG 	!!= @CODE@ пяк
 
 LEXICON ADV_ 	!!= @CODE@ 
 : K ;
+LEXICON ADV_CAN_TAKE_PRTSG3
+! Used with modal adverbs: нельзя, можна
+COPULA-PRT-30 ;
+ K ;
+
 LEXICON ADV_MOD 	!!= @CODE@ 
 : K ;
 LEXICON ADV_MANNER 	!!= @CODE@ 
