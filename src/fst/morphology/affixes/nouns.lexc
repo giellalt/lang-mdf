@@ -39,6 +39,9 @@ LEXICON N_OSH_rus100
 LEXICON N_KIAL1_rus100
 +Use/SpellNoSugg: N_KIAL1 ;
 
+LEXICON N_T1_rus100
++Use/SpellNoSugg: N_T1 ;
+
 LEXICON N_PEJ_rus100
 +Use/SpellNoSugg: N_PEJ ;
 
@@ -305,6 +308,13 @@ LEXICON N_KAL-SG
 
 LEXICON N_KAL-PL
 : NMN_KAL-PL ;
+
+LEXICON N_T1 !!= @CODE@
+ N_KIAL1-SG ;
+ N_KIAL1-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+Err/Orth-soft-kept+N:%^ЬKEEP%>ня NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
