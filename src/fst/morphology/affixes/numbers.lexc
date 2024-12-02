@@ -173,7 +173,15 @@ LEXICON DIGITCASE0
 
 LEXICON DIGITCASES
 
-  +Sg+Gen:%-нь # ;
+  +SP+Gen+Indef:%-нь # ;
+  +SP+Abl+Indef:%-да # ;
+  +SP+Cmp+Indef:%-шка # ;
+  +SP+Ela+Indef:%-ста # ;
+  +Iter:%-ксть # ;
+  +Appr+Iter:%-шкаксть # ;
+  +Sg+Dat+Def:%-ти # ;
+  +Sg+Gen+Def:%-ть # ;
+  +Sg+Nom+Def:%-сь # ;
   +Cmp/SplitR:%:%- ENDLEX ;
 
 LEXICON ARABICCASEORD-ERR
