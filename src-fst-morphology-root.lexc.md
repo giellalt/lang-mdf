@@ -128,7 +128,7 @@ Particles
 Quantifiers and Numerals are classified under:
 * ** +Num 		**:  numeral
 * ** +Arab	**:  arabic numeral
-* **+Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three"
+* ** +Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three" requires split?
 * ** +AssocColl **:  -ne- ; avide-; -месть
 * ** +Coll 		**:  Collective
 * ** +Card 		**:  cardinal

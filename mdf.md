@@ -296,6 +296,8 @@ LEXICON N_PEJ
 
 LEXICON N_KAL 
 
+LEXICON N_T1 
+
 LEXICON N_KIAL1 
 
 LEXICON N_PINE 
@@ -1508,7 +1510,7 @@ Particles
 Quantifiers and Numerals are classified under:
 * ** +Num 		**:  numeral
 * ** +Arab	**:  arabic numeral
-* **+Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three"
+* ** +Appr 		**:  Approximative numeral кафта-колма, колмошка "two or three" requires split?
 * ** +AssocColl **:  -ne- ; avide-; -месть
 * ** +Coll 		**:  Collective
 * ** +Card 		**:  cardinal
