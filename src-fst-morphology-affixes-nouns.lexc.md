@@ -66,6 +66,8 @@ LEXICON N_OSH
 
 LEXICON N_SARAZ 
 
+LEXICON N_J 
+
 LEXICON N_PEJ 
 
 LEXICON N_K 
@@ -110,7 +112,12 @@ Definite Pl
 Possessor Indices
 
 Indefinite
+
+Indefinite
 Definite Sg
+
+Indefinite
+Definite Pl
 
 Indefinite
 Definite Pl
