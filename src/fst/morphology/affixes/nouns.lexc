@@ -306,10 +306,21 @@ LEXICON N_SARAZ !!= @CODE@
 !!ош:ош
 !: NMN_SARAZ-PL ;
 
+LEXICON N_J !!= @CODE@
+ N_J-SG ;
+ N_J-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
+
 LEXICON N_PEJ !!= @CODE@
  N_PEJ-SG ;
  N_PEJ-PL ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
+
+LEXICON N_J-SG
+: NMN_J-SG ;
+
+LEXICON N_J-PL
+: NMN_J-PL ;
 
 LEXICON N_PEJ-SG
 : NMN_PEJ-SG ;
@@ -730,6 +741,12 @@ LEXICON NMN_PEJ
         NMN-SG/PL       ;
 +Err/Orth: CONSONANT-STEM-4-VAJ ;
 
+LEXICON NMN_J-SG
+!! Indefinite
+SG-NOM-INDEF ;
+        NMN-SG ;
+        NMN-SG/PL       ;
++Err/Orth: CONSONANT-STEM-4-VAJ ;
 
 LEXICON NMN_PEJ-SG
 !! Indefinite
@@ -749,6 +766,14 @@ LEXICON CONSONANT-STEM-4-VAJ
 
 
 LEXICON NMN_PEJ-PL
+!! Indefinite
+! PL-NOM-INDEF ;
+!! Definite Pl
+! PL-DAT/GEN/NOM-DEF ;
+        NMN-PL       ;
+        NMN-SG/PL       ;
+
+LEXICON NMN_J-PL
 !! Indefinite
 ! PL-NOM-INDEF ;
 !! Definite Pl
