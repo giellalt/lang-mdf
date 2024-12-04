@@ -74,10 +74,8 @@ LEXICON A_KIAL1
 
 LEXICON A_J_rusmdf
 +Use/Colloq: A_J ; !яркай, this is mdf version of an otherwise Russian word
-LEXICON A_PEJ_rusmdf
-+Use/Colloq: A_PEJ ; !яркай, this is mdf version of an otherwise Russian word
-LEXICON A_PEJ_rus100
-+Use/SpellNoSugg: A_PEJ ;
+LEXICON A_J_rus100
++Use/SpellNoSugg: A_J ;
 LEXICON A_J
 !вай:вай
  N_J ;
