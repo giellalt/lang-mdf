@@ -30,6 +30,9 @@ LEXICON N_KAL_DIAL
 LEXICON N_AVA_rus100
 +Use/SpellNoSugg: N_AVA ;
 
+LEXICON N_K_rus100
++Use/SpellNoSugg: N_K ;
+
 LEXICON N_KAL_rus100
 +Use/SpellNoSugg: N_KAL ;
 
@@ -41,6 +44,18 @@ LEXICON N_KIAL1_rus100
 
 LEXICON N_T1_rus100
 +Use/SpellNoSugg: N_T1 ;
+
+LEXICON N_FT_rus100
++Use/SpellNoSugg: N_FT ;
+
+LEXICON N_BT_rus100
++Use/SpellNoSugg: N_BT ;
+
+LEXICON N_BN_rus100
++Use/SpellNoSugg: N_BN ;
+
+LEXICON N_FS_rus100
++Use/SpellNoSugg: N_FS ;
 
 LEXICON N_PEJ_rus100
 +Use/SpellNoSugg: N_PEJ ;
@@ -268,6 +283,11 @@ LEXICON N_SEL1ME !!= @CODE@
 : NMN_SEL1ME ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 
+LEXICON N_FS !!= @CODE@
+!процесс
+: NMN_OSH ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
+
 LEXICON N_OSH !!= @CODE@
 !ош:ош
 : NMN_OSH ;
@@ -296,6 +316,34 @@ LEXICON N_PEJ-SG
 
 LEXICON N_PEJ-PL
 : NMN_PEJ-PL ;
+
+LEXICON N_K !!= @CODE@
+! for development of double-k issues
+ N_KAL-SG ;
+ N_KAL-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
+
+LEXICON N_FT !!= @CODE@
+! for development of double-t issues
+ N_KAL-SG ;
+ N_KAL-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
+
+LEXICON N_BT !!= @CODE@
+! for development of double-t issues
+ N_KAL-SG ;
+ N_KAL-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
+
+LEXICON N_BN !!= @CODE@
+! for development of double-n and affrication issues
+ N_KAL-SG ;
+ N_KAL-PL ;
++Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
++Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
 LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
