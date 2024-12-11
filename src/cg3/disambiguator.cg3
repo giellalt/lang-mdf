@@ -297,6 +297,8 @@ LIST Actio = Actio ;
 
 LIST SupEla = (infMS/ME cx:ela) (Ger Ela) (Sup Ela) ;#ОмстО
 LIST SupLoc = (infMS/ME cx:nom) (Inf Loc) ;#ОмО
+
+
 LIST GENDEF = (def nsg cx:gen) (def npl cx:gen) (Sg Gen Def) (Pl Gen Def);
 
 LIST Ex/N = Ex/N ;
@@ -508,6 +510,8 @@ MAP (@CVP) TARGET CC IF (*-2 VFIN BARRIER CLB OR BOS) (-1 (",")) (*1 VFIN BARRIE
 #и: Эряви саламс сёрось и явомс сембе вачедотненди.
 #MAP:ccWithInf (@C-FVP) TARGET CC IF (-1* VINF BARRIER CLB OR BOS OR VFIN) (1* VINF BARRIER CLB OR BOS OR VFIN);# actually this could be inf split
 
+REMOVE (Ex/V Der/NomAct N Sg Nom Indef) IF (*0 SUPAUX BARRIER CLB OR EOS OR BOS) (0 (V Inf Loc)) ;#
+    # И эста кивок аф кармай тонафтома эсь маластонц и эсь брадонц тяфтама валса:
 
 MAP (@CADJP) TARGET CC IF (-1 A OR NomAg OR (Ex/A Der/MWN)) (1 A OR NomAg OR (Ex/A Der/MWN));#
     #минек пек виев ды превей, сон киненьгак прянзо нарьгамс а макссы.
