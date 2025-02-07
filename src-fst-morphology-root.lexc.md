@@ -535,6 +535,7 @@ given the proper use of these flags.
 The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 These have been slightly modified from kpv and myv
+these are ready-tagged according to lang-rus 2025-02-07
 
 * * *
 
