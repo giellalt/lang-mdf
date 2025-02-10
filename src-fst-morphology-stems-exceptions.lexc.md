@@ -7,6 +7,8 @@ compounding scheme or possibly many end applications.
 
 MISSING ADV
 
+check numerals
+
 MISSING CS
 
 MISSING Pcle

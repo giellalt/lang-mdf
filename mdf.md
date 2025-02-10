@@ -1476,6 +1476,8 @@ The Usage extents are marked using following tags:
 * _+Use/CircN_ * Circular number path
 * _+Use/-Ped_ * Remove from pedagogical speller
 * _+Use/NG_ * Do not generate, for isme-ped.fst and apertium
+* **+Use/GC** – **only** retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/-GC** – **never** retained in the HFST Grammar Checker disambiguation analyser
 
 * _+Err/Dial_ * The form is non-standard although it may well be central dialect, e.g. стякшемс
 * _+Err/Lex_ * The lemma is not a Moksha word
@@ -1984,6 +1986,8 @@ one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
 
 MISSING ADV
+
+check numerals
 
 MISSING CS
 
