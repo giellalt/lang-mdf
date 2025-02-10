@@ -434,6 +434,18 @@ LEXICON NMN_AVA-PL
 	NMN-PL ;
 	NMN-SG/PL	;
 
+LEXICON ORDINALS_WITH_CE
++SP+Abl+Indef:цеда # ;
++SP+Ine+Indef:цеса # ;
++SP+Tra+Indef:цекс # ;
++Sg+Dat+Def:цети # ;
++Sg+Gen+Def:цеть # ;
++Sg+Nom+Def:цесь # ;
++Sg+Nom+Indef:це # ;
++Pl+Dat+Def:цетненди # ;
++Pl+Gen+Def:цетнень # ;
++Pl+Nom+Def:цетне # ;
+
 
 LEXICON NMN_PULA
 !	NMN_PULA-SG	;
@@ -711,6 +723,7 @@ LEXICON NMN_ANDY-PL
 
 LEXICON NMN_ANDY-SG/PL
 :й SP-GEN-INDEF ;
++Use/NG: SP-GEN-INDEF ;
 :й NOTDEF-CAU ;
 :й SP-DAT-INDEF ; ! Adding 2019-07-20 кельгиенди
  SP-DAT-INDEF ;
