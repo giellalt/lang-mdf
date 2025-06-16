@@ -1422,6 +1422,7 @@ The parts-of-speech tags are:
 * **+V**:  verb
 
 * **+Descr**:  descriptive
+* **+Pred**:  predicate NB! This is actually a root marker for non-verbs 2025-06-16
 
 The parts of speech are further split up into:
 **Nouns:**
@@ -1621,6 +1622,16 @@ Question and Focus particles:
 * +Clt/AddGA 
 * +Clt/AddVok 
 * +Clt/AddNgA 
+
+* +Fem for Russian feminine
+* +Msc for Russian masculine
+* +Neu for Russian neuter
+* +Inan for Russian inanimate
+* +AnIn for Russian	animate
+* +Pos for Russian 
+* +Impf for Russian 
+* +PrsAct for Russian
+* +Pst for Russian
 
 ### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
