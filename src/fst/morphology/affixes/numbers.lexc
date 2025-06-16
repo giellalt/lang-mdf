@@ -189,9 +189,9 @@ ARABICCASEORD ;
 LEXICON ARABICCASEORD
 +Arab+Der+Num→A+A:%>це ORDINALS_WITH_CE ;
 
-LEXICON ARABICCASECOLL
-+Arab+Pl+Nom+Indef:%>-т      # ;!Is this a single word set? jaska 2025-02-10 васенцет
-+Arab+Der+Num→A+A:%>-це ORDINALS_WITH_CE ;!This is an ordinal 1975-це
+!LEXICON ARABICCASECOLL
+!+Arab+Pl+Nom+Indef:%>-т      # ;!Is this a single word set? jaska 2025-02-10 васенцет
+!+Arab+Der+Num→A+A:%>-це ORDINALS_WITH_CE ;!This is an ordinal 1975-це
 
 LEXICON ARABICCOMPOUNDS   !!≈ * **@CODE@**  ! 1-osainen
 +Use/NG: NounEnd ; ! 3-
