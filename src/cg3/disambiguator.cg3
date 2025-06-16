@@ -156,6 +156,8 @@ LIST Org = Org ;
 LIST Plc = Plc ;
 
 LIST Sur = Sur Sem/Sur ;
+LIST Sem/Mal-Patr = Sem/Mal-Patr ;
+LIST Sem/Fem-Patr = Sem/Fem-Patr ;
 
 LIST Time = Time ;
 LIST Hum = Hum ;
@@ -331,6 +333,8 @@ LIST Der/Dem = Der/Dem ; # is this necessary 2020-11-08
 LIST Der/Cop = Der/Cop ;
 LIST Der/Onj = Der/Onj ;
 LIST Der/f = Der/f ;
+LIST Der/PatrMal = Der/PatrMal ;
+LIST Der/Patr = Der/PatrMal Der/PatrFem ;
 
 LIST Use/NG = Use/NG ;
 
@@ -487,6 +491,7 @@ SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
 
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET ("ков" N SP Prl Indef);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Der/Patr|Der/PatrMal);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (ERRSORTH);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
