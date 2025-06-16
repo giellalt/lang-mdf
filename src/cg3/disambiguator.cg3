@@ -388,6 +388,7 @@ LIST DATFORMS = (SP Dat) (Sg Dat) (Pl Dat) ;
 LIST TRAFORMS = (SP Tra) ;
 
 LIST WEIRDCOMP = "ки-яд"; # desired ки-ян
+LIST OLang/RUS = OLang/RUS ;
 
 LIST SPATMOTIONCASE = Abl Ela Ill Lat Prl ;#!! used to identify motion verbs
 
@@ -491,6 +492,7 @@ SUBSTITUTE (Sem/Fem) (*) TARGET (*) ;
 
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET ("ков" N SP Prl Indef);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Use/NG);
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (OLang/RUS);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Der/Patr|Der/PatrMal);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (ERRSORTH);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
@@ -517,6 +519,9 @@ MAP (@CVP) TARGET CC IF (*-2 VFIN BARRIER CLB OR BOS) (-1 (",")) (*1 VFIN BARRIE
 
 REMOVE (Ex/V Der/NomAct N Sg Nom Indef) IF (*0 SUPAUX BARRIER CLB OR EOS OR BOS) (0 (V Inf Loc)) ;#
     # И эста кивок аф кармай тонафтома эсь маластонц и эсь брадонц тяфтама валса:
+
+REMOVE OLang/RUS IF (NOT *0 OLang/RUS BARRIER CLB OR EOS OR BOS);
+ # ideally this would not allow single word incursions, but it would allow phrases.
 
 MAP (@CADJP) TARGET CC IF (-1 A OR NomAg OR (Ex/A Der/MWN)) (1 A OR NomAg OR (Ex/A Der/MWN));#
     #минек пек виев ды превей, сон киненьгак прянзо нарьгамс а макссы.
