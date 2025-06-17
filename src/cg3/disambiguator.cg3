@@ -503,6 +503,9 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR 
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
        # deal with вал : валда, пан : панда
 
+SUBSTITUTE:NotAElaWhenAdv (<W:0.0>) (<W:1.0>) TARGET (A SP Ela Indef) IF (0 Adv);
+	   # Кие кирдьсы кемоста эсь валонц
+
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Sg Nom Indef) IF (0 ("Аля") OR ("Мар") OR ("Тунда") OR ("Ялга") OR ("Тянь") OR ("Синь") OR ("Весь") OR ("Коза") OR ("Вага"));
 # proper nouns vs high-frequency words : Аля=аля+N+Sg+Nom+Indef, Мар=мар+Sg+Nom+Indef, Тунда=тунда+N+Sg+Nom+Indef, Ялга=ялга+N+Sg+Nom+Indef, 
 #Тянь=тя+Pron+Sg+Gen+Indef, Синь=сон+Pron+Pers+Pl+Gen/+Pron+Pers+Pl+Nom, Весь=ве+N+Sg+Nom+Def, Коза=коза, Вага=вага+Interj
