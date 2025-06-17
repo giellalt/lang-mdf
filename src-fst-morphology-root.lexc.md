@@ -23,7 +23,6 @@ The parts-of-speech tags are:
 * **+V**:  verb
 
 * **+Descr**:  descriptive
-* **+Pred**:  predicate NB! This is actually a root marker for non-verbs 2025-06-16
 
 The parts of speech are further split up into:
 **Nouns:**
@@ -224,22 +223,29 @@ Question and Focus particles:
 * +Clt/AddVok 
 * +Clt/AddNgA 
 
+* +Acc for Russian
+* +All for Russian
+* +AnIn for Russian animate
+* +Anim for Russian
+* +Cmpar for Russian
+* +Count for Russian
+* +Epenth for Russian
+* +Imp for Russian imperative
+* +Impf for Russian 
+* +Inan for Russian	inanimate
+* +Ins for Russian
+* +Fac for Russian
 * +Fem for Russian feminine
+* +MFN for Russian
 * +Msc for Russian masculine
 * +Neu for Russian neuter
-* +Inan for Russian inanimate
-* +AnIn for Russian	animate
-* +Anim for Russian 
-* +Pos for Russian 
-* +Impf for Russian 
-* +PrsAct for Russian
+* +Perf for Russian
+* +PObj for Russian
+* +Pos for Russian
+* +Prb for Russian
+* +Pred for Russian predicate 
+* +PrsAct for Russian 
 * +Pst for Russian
-* +Imp for Russian imperative
-* +MFN for Russian
-* +Acc for Russian
-* +Ins for Russian
-* +Count for Russian
-* +Epenth for Russian OLang/RUS
 
 ### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
@@ -555,7 +561,6 @@ given the proper use of these flags.
 The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 These have been slightly modified from kpv and myv
-these are ready-tagged according to lang-rus 2025-02-07
 
 * * *
 
