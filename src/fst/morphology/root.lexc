@@ -45,7 +45,6 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  +V 		!!≈ * **@CODE@**:  verb
 
  +Descr		!!≈ * **@CODE@**:  descriptive
- +Pred		!!≈ * **@CODE@**:  predicate NB! This is actually a root marker for non-verbs 2025-06-16
  
 !! The parts of speech are further split up into:
 !!
@@ -304,22 +303,30 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 
  +Qst +Foc
 
+ +Acc    !!≈ * @CODE@ for Russian
+ +All    !!≈ * @CODE@ for Russian
+ +AnIn 	 !!≈ * @CODE@ for Russian animate
+ +Anim 	 !!≈ * @CODE@ for Russian
+ +Cmpar	 !!≈ * @CODE@ for Russian
+ +Count  !!≈ * @CODE@ for Russian
+ +Epenth !!≈ * @CODE@ for Russian
+ +Imp	 !!≈ * @CODE@ for Russian imperative
+ +Impf   !!≈ * @CODE@ for Russian 
+ +Inan !!≈ * @CODE@ for Russian	inanimate
+ +Ins    !!≈ * @CODE@ for Russian
+ +Fac	 !!≈ * @CODE@ for Russian
  +Fem !!≈ * @CODE@ for Russian feminine
+ +MFN    !!≈ * @CODE@ for Russian
  +Msc !!≈ * @CODE@ for Russian masculine
  +Neu !!≈ * @CODE@ for Russian neuter
- +Inan !!≈ * @CODE@ for Russian inanimate
- +AnIn !!≈ * @CODE@ for Russian	animate
- +Anim !!≈ * @CODE@ for Russian 
- +Pos  !!≈ * @CODE@ for Russian 
- +Impf   !!≈ * @CODE@ for Russian 
- +PrsAct !!≈ * @CODE@ for Russian
- +Pst	 !!≈ * @CODE@ for Russian
- +Imp	 !!≈ * @CODE@ for Russian imperative
- +MFN    !!≈ * @CODE@ for Russian
- +Acc    !!≈ * @CODE@ for Russian
- +Ins    !!≈ * @CODE@ for Russian
- +Count  !!≈ * @CODE@ for Russian
- +Epenth !!≈ * @CODE@ for Russian OLang/RUS
+ +Perf 	 !!≈ * @CODE@ for Russian
+ +PObj	 !!≈ * @CODE@ for Russian
+ +Pos	 !!≈ * @CODE@ for Russian
+ +Prb	 !!≈ * @CODE@ for Russian
+ +Pred	 !!≈ * @CODE@ for Russian predicate 
+ +PrsAct !!≈ * @CODE@ for Russian 
+ +Pst    !!≈ * @CODE@ for Russian
+
  
 !!! !Tags usually not visible outside the code:
 
@@ -971,7 +978,7 @@ LEXICON Root
   Punctuation	;
  urj-Cyrl-ProperNouns ;
   EXCEPTIONS	      ;
-  foreign_words	      ; !! these are ready-tagged according to lang-rus 2025-02-07
+!2025-06-17  foreign_words	      ; !! these are ready-tagged according to lang-rus 2025-02-07
  AUXILIARIES ;
  VERBNEGATIVE ;
 
