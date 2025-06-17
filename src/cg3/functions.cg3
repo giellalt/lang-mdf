@@ -1031,6 +1031,7 @@ LIST SGGENDEF = (def nsg cx:gen) (Sg Gen Def);
 LIST PLGENDEF = (def npl cx:gen) (Pl Gen Def);
 LIST GENDEF = (def nsg cx:gen) (def npl cx:gen) (Sg Gen Def) (Pl Gen Def);
 LIST GENINDEF = (indf nsg cx:gen) (indf npl cx:gen) (SP Gen Indef);
+LIST PLNOMINDEF = (indf npl cx:nom) (Pl Nom Indef); 
 LIST SGOBJGEN = (def nsg cx:gen) (Sg Gen Def) (n nsg cx:gen pxsg1) (n nsg cx:gen pxsg2) (n nsg cx:gen pxsg3) (n nsg cx:gen pxpl1) (n nsg cx:gen pxpl2) (n nsg cx:gen pxpl3);
 LIST PLOBJGEN = (def npl cx:gen) (Pl Gen Def) (n npl cx:gen pxsg1) (n npl cx:gen pxsg2) (n npl cx:gen pxsg3) (n npl cx:gen pxpl1) (n npl cx:gen pxpl2) (n npl cx:gen pxpl3) ;
 
@@ -1745,6 +1746,8 @@ LIST ptcp2 = ptcp2;
 LIST ptcp3 = ptcp3;
 LIST ptcp4 = ptcp4;
 LIST vunclear/russ = vunclear/russ;
+
+LIST ADJWithMSXCOMP = "анок" ;# adjective that takes MS xcomps Кие анок лофцонь ляйнят нолдамс,
 LIST NONFINITES = inf/verbnMO/ME/MU/M inf/verbn/agptcpMA (Der/OmA NomAct N) ptcp1 (Der/Y NomAg) (Der/Yj NomAg) (Der/Ycja NomAg) ;#need to remove Pss
 SET GerOzj = ptcp4 - Def - Indef - Pl - Sg - Ind | (Der/Ozj Ger) - Indef - Clt/Cop ;# this is plain
 SET PrfPrcF = ptcp2 - Def - Indef - Pl - Sg - Ind | (Der/f PrfPrc) ;#Moksha-f
@@ -2004,6 +2007,9 @@ MAP (@SC) TARGET SConj;
 MAP (@SPRED) TARGET IDEOPHONES IF (-1 SUBJECTCANDIDATESG3 OR NOUNSgNomIndef OR AJJSgNomIndef OR NAdjSgNomIndef);# from @PRED 2023_02_23
     #голой ёлчк, понав лавцк.
 
+MAP (@SPRED) TARGET ADJWithMSXCOMP IF (NOT *0 VFIN BARRIER CLB OR EOS OR BOS);
+  #Кие анок лофцонь ляйнят нолдамс, / Кие анок тиемс ваень берякт.
+
 MAP (@SUBJ>) TARGET SUBJECTCANDIDATESG3 OR NOUNSgNomIndef OR AJJSgNomIndef OR NAdjSgNomIndef IF (1 IDEOPHONES);
     #голой ёлчк, понав лавцк.
 
@@ -2064,8 +2070,8 @@ MAP (@SUBJ>) TARGET PNOUNSgNom OR PronLIJASgNom IF (*1 VFINSG3SUBJ BARRIER CLB)
                                (NOT 1 PostpNoPX);
 MAP (@<SUBJ) TARGET PNOUNSgNom OR PronLIJASgNom IF (*-1 VFINSG3SUBJ BARRIER CLB);
 
-
-
+MAP (@SUBJ>) TARGET ("кие" Pron Sg Nom) IF (1 ADJWithMSXCOMP);
+    #Кие анок лофцонь ляйнят нолдамс, / Кие анок тиемс ваень берякт. 2025-06-17
 
 #personal pronouns as predicates
 #cx:nom mod:ind temp:pres vsg2
@@ -2233,6 +2239,16 @@ MAP (@-FADVL>) TARGET Ine IF (1 GerOzj) (NOT *0 VFIN BARRIER CLB);
 
 MAP (@-FSUBJ>) TARGET GENDEF OR GENINDEF IF (1 IVSupEla) (*0 VFIN BARRIER CLB);
 MAP (@-FOBJ>) TARGET GENDEF OR GENINDEF IF (1 GerOzj OR SupEla) (*0 VFIN BARRIER CLB);
+
+MAP (@-F<OBJ) TARGET PLNOMINDEF IF (-1* ADJWithMSXCOMP LINK 1 VINF1);
+    # Кие анок тиемс ваень берякт. 2025-06-17
+MAP (@-FOBJ>) TARGET PLNOMINDEF IF (-1* ADJWithMSXCOMP) (1 VINF1);
+    # Кие анок лофцонь ляйнят нолдамс
+
+MAP (@>A) TARGET VINF1 IF (1* ADJWithMSXCOMP BARRIER CLB OR BOS OR EOS);
+MAP (@A<) TARGET VINF1 IF (-1* ADJWithMSXCOMP BARRIER CLB OR BOS OR EOS);
+    #are these too strong?2025-06-17
+
 MAP (@>N) TARGET GerOzj IF (1 N) (*0 VFIN BARRIER CLB);
 MAP:>n (@>N) TARGET ("кодамо" indf nsg cx:nom) OR ("кодамо" Sg Nom Indef) IF (1 N);
 MAP:>n (@>N) TARGET NumSgNomIndef IF (1 N);
