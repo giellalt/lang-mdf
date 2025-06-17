@@ -36,7 +36,6 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/abbreviations.lexc   \
 			stems/acronyms.lexc        \
 			stems/exceptions.lexc      \
-			stems/foreign_words.lexc      \
 			stems/adjectives_newwords.lexc              \
 			stems/adjectives-russian-like_newwords.lexc \
 			stems/nouns_newwords.lexc                   \
@@ -56,6 +55,8 @@ GT_LEXC_SRCS_L1_L2=\
 			affixes/propernouns.lexc   \
 			affixes/symbols.lexc       \
 			affixes/verbs.lexc
+
+#			stems/foreign_words.lexc      
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
