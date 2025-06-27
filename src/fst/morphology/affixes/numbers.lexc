@@ -163,6 +163,7 @@ LEXICON ARABICCASE   !!≈ * **@CODE@**  adds +Arab
 
 LEXICON ARABICCASE0   !!≈ * **@CODE@**  adds +Arab
  +Arab:  DIGITCASE0 ;
+ +Arab+Ord:%- ORDINALS_WITH_CE ; !!≈ * **@CODE@**  no +Err tags added here. «DIGITCASE0» automatically adds an +Err/Orth pair 2025-06-27
 
 LEXICON DIGITCASE
 DIGITCASE0 ;
