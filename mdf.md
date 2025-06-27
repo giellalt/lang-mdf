@@ -432,6 +432,7 @@ NUMBERS
 * **LEXICON ARABICCASE**  adds +Arab
 
 * **LEXICON ARABICCASE0**  adds +Arab
+* **+Arab+Ord:%- ORDINALS_WITH_CE ;**  no +Err tags added here. «DIGITCASE0» automatically adds an +Err/Orth pair 2025-06-27
 
 * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
 
