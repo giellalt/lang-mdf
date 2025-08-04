@@ -8,6 +8,11 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 !! ADD VERBS BELOW
 дай+V+Imprt+Sg2:дай ENDLEX ;
 
+абазлакшнемс+V:абазлакшне BV_KUNDAMS ;
+абазламс+V:абазла BV_KUNDAMS ;
+абазлафнемс+V:абазлафне BV_KUNDAMS ;
+абазлафтомс+V:абазлафт BV_ALYJAFTOMS ;
+
 волновандамс+V:волнованда BV_KUNDAMS ;
 демобилизовандамс+V:демобилизованда BV_KUNDAMS ;
 диктовандамс+V:диктованда BV_KUNDAMS ;
