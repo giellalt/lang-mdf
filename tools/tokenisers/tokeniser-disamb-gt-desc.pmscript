@@ -35,7 +35,7 @@ Define inputmark    [ 0:"@PMATCH_INPUT_MARK@" | 0:"@PMATCH_BACKTRACKING@" ];
 Define incondform      Punct|
                        {„}|{“}|{”}|{…}|{‚}|{‘}|{’}|
                        {–}|{—}|{­}|{_}|{<}|{>}|{«}|{»}|
-                       {@}|{'}|{‹}|{›}|{➤}|{•}|{﻿}|{❡} ;
+                       {@}|{'}|{‹}|{›}|{➤}|{•}|{﻿}|{❡};
 
 !! Whitespace contains ASCII white space and
 !! the List contains some unicode white space characters
@@ -69,7 +69,7 @@ Define alphabet "a-z" !! * lower-case ASCII
                | Lst({абвгдеёжзийкАБВГДЕЁЖЗИЙКлмнопрстуфхцчшЛМНОПРСТУФХЦЧШщъыьэюяЩЪЫЬЭЮЯіѳҥѣѷѵџўѕјӓєәԙԕԗІѲҤѢѶѴЏЎЅЈӒЄӘԘԔԖ})
                !! * mdf specific characters
                | "0-9" !! ASCII digits
-               | Lst({_§°†}) !! * select symbols
+               | Lst({_§°†¹²³⁴⁵⁶⁷⁸⁹⁰₁₂₃₄₅₆₇₈₉₀}) !! * select symbols
                !! * Combining diacritics as individual symbols,
                ! to be able to analyse unknown words with
                ! decomposed diacritics. All combining diacritics
