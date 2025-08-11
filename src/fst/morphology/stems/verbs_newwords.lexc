@@ -7,6 +7,9 @@ LEXICON V_NEWWORDS
 test:test N_KAL "(eng) /(fin) /(rus) " ;
 !! ADD VERBS BELOW
 дай+V+Imprt+Sg2:дай ENDLEX ;
+нора+V+Imprt+Sg2:норак ENDLEX ;
+нора+V+Imprt+Pl2:норада ENDLEX ;
+норавамс+V:норава IV_KUNDAMS ;
 
 абазлакшнемс+V:абазлакшне BV_KUNDAMS ;
 абазламс+V:абазла BV_KUNDAMS ;
@@ -99,6 +102,8 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 чистайгофтовомс+V:чистайгофтов IV_ANDOVOMS ;
 филтровандамс+V:филтрованда BV_KUNDAMS ;
 лопавгодомс+V:лопавгод IV_ANDOMS ;
+мзелгодомс+V:мзелгод IV_ANDOMS ;
+кифчадомс+V:кифчад IV_ANDOMS ;
 кутандакшнемс+V:кутандакшне BV_KUNDAMS ;
 крепкайгодомс+V:крепкайгод IV_ANDOMS ;
 кемокстомкшнемс+V:кемокстомкшне BV_KUNDAMS ;
@@ -216,6 +221,7 @@ test:test N_KAL "(eng) /(fin) /(rus) " ;
 кирнекшемс+V+Err/Dial:кирнекше BV_KUNDAMS ;
 ковандакшемс+V+Err/Dial:ковандакше BV_KUNDAMS ;
 кутондакшемс+V+Err/Dial:кутондакше BV_KUNDAMS ;
+мольфтевомс+V:мольфтев IV_ANDOVOMS ;
 механизировандакшемс+V+Err/Dial:механизировандакше BV_KUNDAMS ;
 мядондакшемс+V+Err/Dial:мядондакше BV_KUNDAMS ;
 опылиндакшемс+V+Err/Dial:опылиндакше BV_KUNDAMS ;
