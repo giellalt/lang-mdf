@@ -222,6 +222,7 @@ Question and Focus particles:
 * +Clt/AddGA 
 * +Clt/AddVok 
 * +Clt/AddNgA 
+* +Clt/AddJok seems limited to temporal expressions: тяниёк
 
 * +Acc for Russian
 * +All for Russian
