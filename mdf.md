@@ -1031,8 +1031,10 @@ Letters = Vows Cns ь ъ ;
 * *кунда>{ИЫЙ}:0>{АЯ}:ят*
 * *кунда>{ИЫЙ}:0>{АЯ}:ят*
 
-* *пань>%{Х%}т%{АЯ%}ма*
+* *пань>{Х}т{АЯ}ма*
 * *пан000тяма*
+* *кенерь>{Х}т{АЯ}ма*
+* *кенерь>хтяма*
 мярьгомс+V+Ind+Prs+ScPl1: **say/sanoa**
 * *мярьг%>%{Х%}т%{АЯ%}ма*
 * *мярьк%>0тяма*
@@ -1314,6 +1316,10 @@ Plural before definite plural following a consonant
 plural
 * *пань%>%{КТ%}%{ЬØ%}*
 * *пан0%>ть*
+* *кенерь>{Х}т{АЯ}ма*
+* *кенерь>хтяма*
+* ★*кенерь>{Х}т{АЯ}ма* (is not standard language)
+* ★*кенер0>хтяма* (is not standard language)
 ведь+N+Der+Der/Dimin+N+Sg+Nom+Indef: **a little water**
 * *ведь%>%{DIM%}я*
 * *вед0%>ня*
@@ -1423,7 +1429,7 @@ The parts-of-speech tags are:
 * **+V**:  verb
 
 * **+Descr**:  descriptive
-
+* **+MWE**:  Multiword element
 The parts of speech are further split up into:
 **Nouns:**
 * **+Prop**:  proper

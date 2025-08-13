@@ -23,7 +23,7 @@ The parts-of-speech tags are:
 * **+V**:  verb
 
 * **+Descr**:  descriptive
-
+* **+MWE**:  Multiword element
 The parts of speech are further split up into:
 **Nouns:**
 * **+Prop**:  proper
