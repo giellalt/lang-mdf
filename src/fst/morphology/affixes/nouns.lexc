@@ -30,6 +30,10 @@ LEXICON N_KAL_DIAL
 LEXICON N_J_rus100
 +Use/SpellNoSugg: N_PEJ ;
  
+LEXICON N_AVA_rusmdf
++Use/SpellNoSugg: N_AVA ;
+LEXICON N_AVA_rus100_hasnat
++Use/SpellNoSugg: N_AVA ;
 LEXICON N_AVA_rus100
 +Use/SpellNoSugg: N_AVA ;
 
@@ -39,6 +43,24 @@ LEXICON N_K_rus100
 LEXICON N_KAL_rus100
 +Use/SpellNoSugg: N_KAL ;
 
+LEXICON N_FZ_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_FSS_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_CH_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_ROZ1_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_S1_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_ZH_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_SH_rusmdf
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_SH_rus100
++Use/SpellNoSugg: N_OSH ;
+LEXICON N_OSH_rusmdf
++Use/SpellNoSugg: N_OSH ;
 LEXICON N_OSH_rus100
 +Use/SpellNoSugg: N_OSH ;
 
@@ -48,6 +70,8 @@ LEXICON N_KIAL1_rus100
 LEXICON N_T1_rus100
 +Use/SpellNoSugg: N_T1 ;
 
+LEXICON N_FT_rusmdf
++Use/SpellNoSugg: N_FT ;
 LEXICON N_FT_rus100
 +Use/SpellNoSugg: N_FT ;
 
@@ -391,6 +415,8 @@ LEXICON N_KIAL1-SG
 LEXICON N_KIAL1-PL
 : NMN_KIAL1-PL ;
 
+LEXICON N_PINE_rus100
++Use/SpellNoSugg: N_PINE ;
 LEXICON N_PINE !!= @CODE@
  N_PINE-SG ;
  N_PINE-PL ;
