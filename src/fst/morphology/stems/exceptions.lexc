@@ -241,7 +241,7 @@ LEXICON EXCEPTIONS
 нать+Adv:нать ADV_ ;
 ваймамс+V+Ind+Ind+Prs+ScSg3:ваймяй K ;!
 ваймамс+V+Ind+Ind+Prs+ScPl3:ваймяйхть K ;!
-ваймамс+V+Ind+Ind+Prt+ScSg3:ваймясь K ;!
+ваймамс+V+Ind+Ind+Prt1+ScSg3:ваймясь K ;!
 кадок+Pcle:кадок # ;
 ваток+V+Imprt+ScSg2:ваток # ;
 арт+V+Imprt+ScSg2:арт # ;
@@ -272,10 +272,10 @@ LEXICON EXCEPTIONS
 чем+CS:чем CS_ ;
 што+CS+Err/Orth:что # ;
 ласькомс+v2+V+Imprt+ScSg2:ласьк # ;
-лядемс+V+Ind+Prt+ScSg3+Err/Orth:лядьсь K ;
-лядемс+V+Ind+Prt+ScPl3+Err/Orth:лядьсть K ;
-илядемс+V+Ind+Prt+ScSg3+Err/Orth:илядьсь K ;
-илядемс+V+Ind+Prt+ScPl3+Err/Orth:илядьсть K ;
+лядемс+V+Ind+Prt1+ScSg3+Err/Orth:лядьсь K ;
+лядемс+V+Ind+Prt1+ScPl3+Err/Orth:лядьсть K ;
+илядемс+V+Ind+Prt1+ScSg3+Err/Orth:илядьсь K ;
+илядемс+V+Ind+Prt1+ScPl3+Err/Orth:илядьсть K ;
 
 цё+Interj:цё INTERJ_ ;
 вообще+Adv:вообще ADV_ ;
@@ -284,7 +284,7 @@ LEXICON EXCEPTIONS
 кулхцондомс+V+Imprt+ScPl2+Clt/Add:кулхцонтте # ;
 коньф+A:коньф A_KAL ;
 тянь-тонань+Pron+Dem+Sg+Gen+Indef:тянь-тонань K ;
-мяль+N+SP+Ill+PxSg3+Cop+Prt+ScSg3:мялезонзоль K ;
+мяль+N+SP+Ill+PxSg3+Clt/Cop+Prt1+ScSg3:мялезонзоль K ;
 очередной+A:очередной A_PEJ ;
 оду-васу+Adv:оду-васу ADV_ ;
 кржас+Adv:кржас ADV_ ;
