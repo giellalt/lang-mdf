@@ -154,6 +154,8 @@ LEXICON PROP_OSH_SUR
 !+Sem/Sur: osh-Indef-Declension ;
 !+Sem/Sur: osh-N-Poss-Declension-CX ;
 
+LEXICON PROP_AVA_rusmdf
++Use/SpellNoSugg: NMN_AVA ;
 LEXICON PROP_AVA_SURMAL
 +Sem/Mal-Sur: NMN_AVA ;
 LEXICON PROP_KEL1_MAL
