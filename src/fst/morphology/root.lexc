@@ -970,6 +970,7 @@ LEXICON Root
  PRONOUN-TYPES ;
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
+ N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
  N_NEWWORDS	;
  PROP_NEWWORDS	;
  V_NEWWORDS     ;
