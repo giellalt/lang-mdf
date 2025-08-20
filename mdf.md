@@ -1968,6 +1968,7 @@ given the proper use of these flags.
 The word forms in Moksha language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 These have been slightly modified from kpv and myv
+These words should only include 100% matches with lang-rus N+Sg+Nom
 
 * * *
 
@@ -2063,13 +2064,27 @@ RUSSIAN VERBS
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
-автор:автор N_KAL "(eng) /(fin) /(rus) " ;
+автор:автор N_KAL ;
 
 ADD NOUNS BELOW
 
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
+
+---
+
+# src-fst-morphology-stems-nouns_russian_100_newwords.lexc.md 
+
+This is where new Russian-equivalent nouns are added as lexc entries.
+This makes for a shared list in Mordvin analyser development
+автор:автор N_K_rus100 ;
+
+ADD NOUNS BELOW
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_russian_100_newwords.lexc](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns_russian_100_newwords.lexc)</small>
 
 ---
 

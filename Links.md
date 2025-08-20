@@ -25,6 +25,7 @@
                 * [adjectives_newwords.lexc](src-fst-morphology-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc))
                 * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/exceptions.lexc))
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))
+                * [nouns_russian_100_newwords.lexc](src-fst-morphology-stems-nouns_russian_100_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/nouns_russian_100_newwords.lexc))
                 * [propernouns_newwords.lexc](src-fst-morphology-stems-propernouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/propernouns_newwords.lexc))
                 * [verbs_newwords.lexc](src-fst-morphology-stems-verbs_newwords.lexc.html) ([src](https://github.com/giellalt/lang-mdf/blob/main/src/fst/morphology/stems/verbs_newwords.lexc))
         * `phonetics/`
