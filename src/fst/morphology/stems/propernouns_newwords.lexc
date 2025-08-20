@@ -13,6 +13,10 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 !! MOKSHA PROPER NAMES
 Сятко+N+Prop:Сятко PROP_AVA ;
 
+Андрейка+N+Prop:Андрейка PROP_AVA ;
+Верочка+N:Верочка PROP_AVA ;
+Успения+N:Успения PROP_AVA_rusmdf ;
+Хролши+N:Хролши PROP_AVA ;
 Евтей+N+Prop:Евтей PROP_KAL ;
 Сюмерьге+N+Prop:Сюмерьге PROP_AVA ;
 Христинья+N+Prop:Христинья PROP_AVA ;
