@@ -19,7 +19,7 @@ LEXICON A_
 !LEXICON A-ATTR_
 !+Attr: K ;
 
-LEXICON A-IS-GEN  !! -нь
+LEXICON A_IS_GEN  !! -нь
 !here we want -нне derivation. DERPOSS-NUM-CASE
 +Gen+Attr: K ;
 +Gen+Der+Der/Poss+N:%>не DERPOSS-NUM-CASE ;
