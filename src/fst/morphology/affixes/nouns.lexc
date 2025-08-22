@@ -148,7 +148,8 @@ LEXICON N_PAKSIA-PL
 !! пакся:пакся
 : NMN_PAKSIA-PL ;
 
-
+LEXICON N_ANDY_rus100
++Use/SpellNoSugg: N_ANDY ;
 LEXICON N_ANDY !!= * @CODE@ анды:анды
 : NMN_ANDY ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
@@ -428,6 +429,8 @@ LEXICON N_PINE-SG
 LEXICON N_PINE-PL
 : NMN_PINE-PL ;
 
+LEXICON N_KELU_rus100 !!= @CODE@
++Use/SpellNoSugg: N_KELU ;
 LEXICON N_KELU !!= @CODE@
  N_KELU-SG ;
  N_KELU-PL ;
