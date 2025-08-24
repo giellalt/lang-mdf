@@ -413,6 +413,8 @@ Letters = Vows Cns ь ъ ;
 ваны+N+Pl+Nom+Def **watcher/katsoja**
 * *ваный%>%{Х%}тне*
 * *ваны0%>х0не*
+* *парши>{Х}тне*
+* *парши>х0не*
 
 **м:п ям**  
 ям+N+Pl+Nom+Indef: **stew/keitto**
@@ -613,6 +615,8 @@ Plural before definite plural following a consonant
 * *лаф%>00не*
 * ★*лав%>%{Х%}тне* (is not standard language)
 * ★*лаф%>0тне* (is not standard language)
+* *парши>{Х}тне*
+* *парши>х0не*
 
 **s:0**  
 

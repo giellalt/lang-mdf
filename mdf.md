@@ -1107,6 +1107,8 @@ Letters = Vows Cns ь ъ ;
 ваны+N+Pl+Nom+Def **watcher/katsoja**
 * *ваный%>%{Х%}тне*
 * *ваны0%>х0не*
+* *парши>{Х}тне*
+* *парши>х0не*
 
 **м:п ям**  
 ям+N+Pl+Nom+Indef: **stew/keitto**
@@ -1307,6 +1309,8 @@ Plural before definite plural following a consonant
 * *лаф%>00не*
 * ★*лав%>%{Х%}тне* (is not standard language)
 * ★*лаф%>0тне* (is not standard language)
+* *парши>{Х}тне*
+* *парши>х0не*
 
 **s:0**  
 
@@ -1470,6 +1474,7 @@ The Usage extents are marked using following tags:
 * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
 * +Err/Orth-soft-loss $тиендсазь €тиендьсазь
 * +Err/Orth-soft-kept шяярьня
+* +Err/Orth-t-d наротта should be народта, кядьта
 * +Err/Orth-colloq Евсеич
 * +Err/Orth-glide-final Толстойнь, 
 * +Err/Orth-old1 * old1 like озимь, морковь 1930–1940

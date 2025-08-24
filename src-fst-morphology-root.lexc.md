@@ -63,6 +63,7 @@ The Usage extents are marked using following tags:
 * +Err/Orth-lowered-final-e-2-ja final е lowered to я with Е2Я trigger
 * +Err/Orth-soft-loss $тиендсазь €тиендьсазь
 * +Err/Orth-soft-kept шяярьня
+* +Err/Orth-t-d наротта should be народта, кядьта
 * +Err/Orth-colloq Евсеич
 * +Err/Orth-glide-final Толстойнь, 
 * +Err/Orth-old1 * old1 like озимь, морковь 1930–1940
