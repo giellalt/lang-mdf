@@ -140,17 +140,18 @@ LEXICON PERS                        !!≈ * **@CODE@**
 тон+Pron+Pers+Pl2:тин PERS-PL2 ; 
 сон+Pron+Pers+Pl3:син PERS-PL3 ;
 
-мон+v1+Pron+Pers+Sg1+Dat+Short:тейне K/DAT-ARAM ;
-мон+Use/NG+v2+Pron+Pers+Sg1+Dat+Short:теене K/DAT-ARAM ;
-мон+Use/NG+v3+Pron+Pers+Sg1+Dat+Short:теень K/DAT-ARAM ;
-мон+Use/NG+v4+Pron+Pers+Sg1+Dat+Short:тейнь K/DAT-ARAM ;
-мон+v1+Pron+Pers+Pl1+Dat+Short:тейнек K/DAT-ARAM ;
-мон+Use/NG+v2+Pron+Pers+Pl1+Dat+Short:тееньк K/DAT-ARAM ;
-тон+v1+Pron+Pers+Sg2+Dat+Short:тейть K/DAT-ARAM ;
-тон+Use/NG+v2+Pron+Pers+Sg2+Dat+Short:тееть K/DAT-ARAM ;
-тон+Use/NG+v2+Pron+Pers+Sg2+Dat+Short:теть K/DAT-ARAM ;
-тон+v1+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
-тон+Use/NG+v2+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
+мон+Pron+Pers+Sg1+Dat+Short:тейне K/DAT-ARAM ;
+мон+Use/NG+Pron+Pers+Sg1+Dat+Short:теене K/DAT-ARAM ;
+мон+Use/NG+Pron+Pers+Sg1+Dat+Short:теень K/DAT-ARAM ;
+мон+Use/NG+Pron+Pers+Sg1+Dat+Short:тейнь K/DAT-ARAM ;
+мон+Pron+Pers+Pl1+Dat+Short:тейнек K/DAT-ARAM ;
+мон+Use/NG+Pron+Pers+Pl1+Dat+Short:теенек K/DAT-ARAM ;
+мон+Use/NG+Pron+Pers+Pl1+Dat+Short:тееньк K/DAT-ARAM ;
+тон+Pron+Pers+Sg2+Dat+Short:тейть K/DAT-ARAM ;
+тон+Use/NG+Pron+Pers+Sg2+Dat+Short:тееть K/DAT-ARAM ;
+тон+Use/NG+Pron+Pers+Sg2+Dat+Short:теть K/DAT-ARAM ;
+тон+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
+тон+Use/NG+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
 сон+v1+Pron+Pers+Sg3+Dat+Short:тейнз%{АО%} K/DAT-ARAM ;
 сон+Use/NG+v2+Pron+Pers+Sg3+Dat+Short:теенз%{АО%} K/DAT-ARAM ;
 сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K/DAT-ARAM ;
@@ -170,8 +171,10 @@ LEXICON PERS-SG1
 +Nom+Clt/Cop+Prs: VERB-ZERO-10 ;
 +Nom+Clt/Cop: MUTUAL-PRT2-10 ;
 +Gen:ь K_ГА ;
-+Dat+Long:дейне K ;
-+Dat+Long+Use/NG:дине K ;
++Dat+Long:дейне K/DAT-ARAM ;
++Dat+Long+Use/NG:дине K/DAT-ARAM ;
++Dat+Long+Use/NG:дейнь K/DAT-ARAM ;
++Dat+Long+Use/NG:деень K/DAT-ARAM ;
 +Abl:дедон K ;
 +Abe:ьфтемон K ;
 +Ine:ьцон K ;
@@ -187,7 +190,8 @@ LEXICON PERS-SG2
 +Nom+Clt/Cop+Prs: VERB-ZERO-20 ;
 +Nom+Clt/Cop: MUTUAL-PRT2-20 ;
 +Gen:ь K_ГА ;
-+Dat+Long:дейть K_ГА ;
++Dat+Long:дейть K_ГА/DAT-ARAM ;
++Dat+Long+Use/NG:дееть K_ГА/DAT-ARAM ;
 +Abl:дедот K_ГА ;
 +Abe:ьфтемот K_ГА ;
 +Ine:ьцот K_ГА ;
@@ -202,7 +206,8 @@ LEXICON PERS-SG3
 +Nom: K_ГА ;
 +Nom+Clt/Cop: MUTUAL-PRT2-30 ;
 +Gen:ь K_ГА ;
-+Dat+Long:дейнз%{АО%} K_вок ;
++Dat+Long:дейнз%{АО%} K/DAT-ARAM ;
++Dat+Long+Use/NG:деенз%{АО%} K/DAT-ARAM ;
 +Abl:дедонз%{АО%} K_вок ;
 +Abe:ьфтемонз%{АО%} K_вок ;
 +Ine:ьцонз%{АО%} K_вок ;
@@ -223,8 +228,9 @@ LEXICON PERS-PL1
 +Abe:ьфтомонк K ;
 +Ine:ьцонк K ;
 +Ela:ьцтонк K ;
-+Use/NG+Dat+Long:дейнек K_ГА ;
-+Dat+Long:деенек K_ГА ;
++Use/NG+Dat+Long:дейнек K_ГА/DAT-ARAM ;
++Use/NG+Dat+Long:дееньк K_ГА/DAT-ARAM ;
++Dat+Long:деенек K_ГА/DAT-ARAM ;
 +Abl:дедонк K_овок ;
 +Ine:ьцонк K_овок ;
 +Intensive+Nom:ць K_ГА ;
@@ -237,8 +243,8 @@ LEXICON PERS-PL2
 +Nom:ь K_ГА ;
 +Nom+Clt/Cop+Prs:ь VERB-ZERO-50 ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-50 ;
-+Use/NG+Dat+Long:дейнть K_ГА ;
-+Dat+Long:деенть K_ГА ;
++Use/NG+Dat+Long:дейнть K_ГА/DAT-ARAM ;
++Dat+Long:деенть K_ГА/DAT-ARAM ;
 +Gen:ь K_ГА ;
 +Abl+Use/NG:дедонт K_овок ;
 +Abl:ьдонт K_овок ;
@@ -254,8 +260,8 @@ LEXICON PERS-PL3
 !!синь:син
 +Nom:ь K_ГА ;
 +Nom+Clt/Cop:ь MUTUAL-PRT2-60 ;
-+Dat+Long:деест K_ГА ;
-+Use/NG+Dat+Long:дейст K_ГА ;
++Dat+Long:деест K_ГА/DAT-ARAM ;
++Use/NG+Dat+Long:дейст K_ГА/DAT-ARAM ;
 +Gen:ь K_ГА ;
 +Abl:дедост K_ГА ;
 +Abl:ьдост K_овок ;
@@ -297,8 +303,10 @@ LEXICON REFL
 сонць+Pron+Refl+Pl3+Ill+Short:эсезост K ;
 
 монць+Pron+Refl+Sg1+Dat+Short:эстейне K/DAT-ARAM ;
+монць+Pron+Refl+Sg1+Dat+Short+Use/NG:эстеень K/DAT-ARAM ;
 монць+Pron+Refl+Pl1+Dat+Short:эстеенек K/DAT-ARAM ;
 монць+Pron+Refl+Pl1+Dat+Short:эстейнек K/DAT-ARAM ;
+монць+Pron+Refl+Pl1+Dat+Short+Use/NG:эстееньк K/DAT-ARAM ;
 тонць+Pron+Refl+Sg2+Dat+Short:эстейть K/DAT-ARAM ;
 тонць+Pron+Refl+Sg2+Dat+Short:эстееть K/DAT-ARAM ;
 тонць+Pron+Refl+Pl2+Dat+Short:эстейнть K/DAT-ARAM ;
