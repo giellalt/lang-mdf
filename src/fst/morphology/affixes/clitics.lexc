@@ -11,6 +11,11 @@ LEXICON K/DAT-ARAM
  NounEnd ;
  K_вок ;
 
+LEXICON K_ГА/DAT-ARAM
++Clt/Aram:%-арам ENDLEX ;
+ NounEnd ;
+ K_ГА ;
+
 LEXICON NounEnd_K_вок
  NounEnd ;
  K_вок ;
