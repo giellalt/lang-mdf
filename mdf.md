@@ -2024,6 +2024,7 @@ one or few words than an exception since these will not work nicely with e.g.
 compounding scheme or possibly many end applications.
 
 MISSING ADV
+temporal nouns
 
 check numerals
 
