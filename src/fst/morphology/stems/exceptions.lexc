@@ -10,6 +10,16 @@ LEXICON EXCEPTIONS
 
 !терьхконе+N:терьхконе е:я new contlex?
 !! MISSING ADV
+!! temporal nouns
+шитненькиге+Adv:шитненькиге ADV_ ;
+шистокиге+Adv:шистокиге ADV_ ;
+одстокиге+Adv:одстокиге ADV_ ;
+мзярдокиге+Adv:мзярдокиге ADV_ ;
+кизонякиге+Adv:кизонякиге ADV_ ;
+ёмланястокиге+Adv:ёмланястокиге ADV_ ;
+ушедомстокиге+Adv:ушедомстокиге ADV_ ;
+тяддекиге+Adv:тяддекиге ADV_ ;
+
 например+Adv:например ADV_ ;
 
 мяльвельде+Adv:мяльвельде ADV_ ;
@@ -26,6 +36,7 @@ LEXICON EXCEPTIONS
 кядьбецек+Adv:кядьбецек ADV_ ;
 серьцек+Adv:серьцек ADV_ ;
 сиреденьбяльхть+Adv:сиреденьбяльхть ADV_ ;
+сиредембяльхть+Adv:сиредембяльхть ADV_ ;
 эряфоньберьф+Adv:эряфоньберьф ADV_ ;
 шобдаваньберьф+Adv:шобдаваньберьф ADV_ ;
 недяляньберьф+Adv:недяляньберьф ADV_ ;
@@ -276,10 +287,14 @@ LEXICON EXCEPTIONS
 ату+Adv:ату ADV_ ;
 эзкок+Adv:эзкок ADV_ ;
 эка+Interj:эка INTERJ_ ;
+ого+Interj:ого INTERJ_ ;
+гм+Interj:гм INTERJ_ ;
 оду-ряд+Adv:оду-ряд ADV_ ;
 щаф-каряф+A:щаф-каряф A_KAL ;
 именна+Adv:именна ADV_ ;
 нать+Adv:нать ADV_ ;
+вообще+Adv:вообще ADV_ ;
+свал+Adv:свал ADV_ ;
 ваймамс+V+Ind+Ind+Prs+ScSg3:ваймяй K ;!
 ваймамс+V+Ind+Ind+Prs+ScPl3:ваймяйхть K ;!
 ваймамс+V+Ind+Ind+Prt1+ScSg3:ваймясь K ;!
@@ -319,9 +334,7 @@ LEXICON EXCEPTIONS
 илядемс+V+Ind+Prt1+ScPl3+Err/Orth:илядьсть K ;
 
 цё+Interj:цё INTERJ_ ;
-вообще+Adv:вообще ADV_ ;
 эзк-эзк+Interj:эзк-эзк INTERJ_ ;
-тяль+V+Aux+Neg+Conj+ScSg3:тяль # ;
 кулхцондомс+V+Imprt+ScPl2+Clt/Add:кулхцонтте # ;
 коньф+A:коньф A_KAL ;
 тянь-тонань+Pron+Dem+Sg+Gen+Indef:тянь-тонань K ;
