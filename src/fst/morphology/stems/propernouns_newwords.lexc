@@ -13,6 +13,11 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 !! MOKSHA PROPER NAMES
 Сятко+N+Prop:Сятко PROP_AVA ;
 
+Ёжока+N+Prop:Ёжока PROP_AVA ;
+Ёзеф+N+Prop:Ёзеф PROP_KAL ;
+Ёзефович+N+Prop:Ёзефович PROP_OSH ;
+
+
 Минэкономразвития+N+Prop:Минэкономразвития PROP_AVA ;
 Минздрав+N+Prop:Минздрав PROP_KAL ;
 Наркомздрав+N+Prop:Наркомздрав  PROP_KAL ;
