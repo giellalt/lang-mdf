@@ -1595,6 +1595,7 @@ Other verb forms are
   +Inf    	 infinitive
   +Neg    	 verb of negation эзь, аволь, иля
   +Aux		 auxiliary verb
+  +Nec		 necessative/obligatory in -Ома
 +Prc 	 participle
   +VGen   	 Verb Genitive, genitive form participle
   +VAbl   	 Verb Ablative "озадо"
