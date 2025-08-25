@@ -26,6 +26,8 @@ LEXICON VERBNEGATIVE
 !ашезь+V+Aux:аш V-AUX-NEG-PRT1_ASHEZJ ; !These are both the same ашезь and изь
 !ашезь+Use/NG+V+Aux:изь  V-AUX-NEG-PRT1_IZJ ;
 
+аф+V+Aux:тяль V-AUX-NEG-CONJ_AFOLJ ;
+
 аф+V+Aux+Neg+Opt+ScSg1:тязан K ;
 аф+V+Aux+Neg+Opt+ScSg1+OcPl2:тязадязь K ;
 аф+V+Aux+Neg+Opt+ScSg2:тязат K ;
@@ -83,6 +85,7 @@ LEXICON V-AUX-NEG-CONJ_AFOLJ !!= * @CODE@ аф:афоль
 +Neg+Conj+ScSg1+OcSg3:%>ине ENDLEX ;
 +Neg+Conj+ScSg1+OcPl3:%>ине ENDLEX ;
 +Neg+Conj+ScSg2:%>%{ЕОØ%}ть ENDLEX ;
++Neg+Conj+ScSg2+Use/NG:%>ить ENDLEX ;
 +Neg+Conj+ScSg2+OcSg1:%>%{ЕОØ%}майть ENDLEX ;
 +Neg+Conj+ScSg2+OcPl1:%>%{ЕОØ%}масть ENDLEX ;
 +Neg+Conj+ScSg3: ENDLEX ;
