@@ -13,6 +13,13 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 !! MOKSHA PROPER NAMES
 Сятко+N+Prop:Сятко PROP_AVA ;
 
+Лоотс+N+Prop:Лоотс PROP_OSH ;
+Сергяй+N+Prop:Сергяй PROP_PEJ ;
+Геккерен+N+Prop:Геккерен PROP_KAL ;
+Эсьмагай+N+Prop:Эсьмагай PROP_PEJ ;
+Тюгай+N+Prop:Тюгай PROP_PEJ ;
+Сильви+N+Prop:Сильви PROP_ANDY ;
+Сильвия+N+Prop:Сильвия PROP_AVA ;
 Андрейка+N+Prop:Андрейка PROP_AVA ;
 Верочка+N:Верочка PROP_AVA ;
 Успения+N:Успения PROP_AVA_rusmdf ;
@@ -509,3 +516,4 @@ test:test PROP_KAL "(eng) /(fin) /(rus) " ;
 Шкайнай+N+Prop:Шкайнай PROP_PEJ ;
 Шяконя+N+Prop:Шяконя PROP_AVA ;
 Эрьмезь+N+Prop:Эрьмезь PROP_SARAZ ;
+
