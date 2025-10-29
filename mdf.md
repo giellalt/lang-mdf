@@ -4,15 +4,15 @@ All doc-comment documentation in one large file.
 
 ---
 
-# src-cg3-disambiguator.cg3.md 
+## src-cg3-disambiguator.cg3.md 
 
 
 
-# DELIMITERS 
+## DELIMITERS 
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Sets containing lists of tags
+### Sets containing lists of tags
 
 Upper and lower case
 
@@ -57,7 +57,7 @@ IS there a @CVP
 
 ---
 
-# src-cg3-functions.cg3.md 
+## src-cg3-functions.cg3.md 
 
 
 
@@ -96,7 +96,7 @@ MOOD-V
 
 ---
 
-# src-fst-morphology-affixes-adjectives.lexc.md 
+## src-fst-morphology-affixes-adjectives.lexc.md 
 
 
 
@@ -122,7 +122,7 @@ ADJECTIVES
 
 ---
 
-# src-fst-morphology-affixes-adpositions.lexc.md 
+## src-fst-morphology-affixes-adpositions.lexc.md 
 
 Pronoun inflection
 
@@ -143,7 +143,7 @@ Checking 2018-11-10
 
 ---
 
-# src-fst-morphology-affixes-adverbs.lexc.md 
+## src-fst-morphology-affixes-adverbs.lexc.md 
 
 Adverbs
 
@@ -170,7 +170,7 @@ LEXICON ADV_TEMP
 
 ---
 
-# src-fst-morphology-affixes-clitics.lexc.md 
+## src-fst-morphology-affixes-clitics.lexc.md 
 
 Clitics
 
@@ -192,7 +192,7 @@ This is for Consonant-final words
 
 ---
 
-# src-fst-morphology-affixes-conjunctors.lexc.md 
+## src-fst-morphology-affixes-conjunctors.lexc.md 
 
 Conjunctions
 
@@ -206,7 +206,7 @@ CONJUNCTIONS
 
 ---
 
-# src-fst-morphology-affixes-interjections.lexc.md 
+## src-fst-morphology-affixes-interjections.lexc.md 
 
 Interjections
 
@@ -224,9 +224,9 @@ LEXICON VOCATIVE_  should these really be interjections? 2018-11-10
 
 ---
 
-# src-fst-morphology-affixes-nouns.lexc.md 
+## src-fst-morphology-affixes-nouns.lexc.md 
 
-# Noun inflection
+## Noun inflection
 
 Moksha language nouns inflect in cases.
 
@@ -417,7 +417,7 @@ PXSG1-Pl ;
 
 ---
 
-# src-fst-morphology-affixes-numbers.lexc.md 
+## src-fst-morphology-affixes-numbers.lexc.md 
 
 Quantifier inflection
 
@@ -443,7 +443,7 @@ NUMBERS
 
 ---
 
-# src-fst-morphology-affixes-particles.lexc.md 
+## src-fst-morphology-affixes-particles.lexc.md 
 
 Particles
 
@@ -457,7 +457,7 @@ PARTICLES
 
 ---
 
-# src-fst-morphology-affixes-pronouns.lexc.md 
+## src-fst-morphology-affixes-pronouns.lexc.md 
 
 Pronoun inflection
 
@@ -473,7 +473,7 @@ PRONOUNS
 
 PERSONAL PRONOUNS
 
-### DEMONSTRATIVE PRONOUNS
+#### DEMONSTRATIVE PRONOUNS
 
 INTERROGATIVE PRONOUNS
 
@@ -481,8 +481,8 @@ INDEFINITE PRONOUNS
 
 * LEXICON PRON-PERIF-MOD_СЬКАМОНЗА  ськамонза:ськам
 
-### REFLEXIVE PRONOUNS
-### NON-STRESSED REFLEXIVE DATIVES
+#### REFLEXIVE PRONOUNS
+#### NON-STRESSED REFLEXIVE DATIVES
 
 * * *
 
@@ -490,7 +490,7 @@ INDEFINITE PRONOUNS
 
 ---
 
-# src-fst-morphology-affixes-propernouns.lexc.md 
+## src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
 
@@ -531,10 +531,10 @@ PROPER NOUNS
 
 ---
 
-# src-fst-morphology-affixes-symbols.lexc.md 
+## src-fst-morphology-affixes-symbols.lexc.md 
 
 
-# Symbol affixes
+## Symbol affixes
 
 * * *
 
@@ -542,13 +542,13 @@ PROPER NOUNS
 
 ---
 
-# src-fst-morphology-affixes-verbs.lexc.md 
+## src-fst-morphology-affixes-verbs.lexc.md 
 
-# Verb inflection
+## Verb inflection
 
 The Moksha language verbs inflect in persons.
 
-## VERBS 
+### VERBS 
 
 * LEXICON V-AUX-NEG-CONJ_AFOLJ  аф:афоль
 
@@ -619,7 +619,7 @@ COND-ALL
 COND-ALL
 +NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
-### AUXILIARY VERBS
+#### AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ  ашезь:аш
 
 LEXICON V-AUX-NEG-PRT1_IZJ  изь:изь
@@ -644,37 +644,37 @@ COND-ALL
 * *ват%>0т0*
 * *кирдь%>%{Х%}%{КТ%}%{ЬØ%}*
 * *кирт0%>%{Х%}ть*
-### INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
+#### INDICATIVE PRESENT and CONDITIONAL (non-past) POINTERS
 
-### INDICATIVE PRETERITE 1 POINTERS
+#### INDICATIVE PRETERITE 1 POINTERS
 
-### INDICATIVE PRETERITE 2 POINTERS
+#### INDICATIVE PRETERITE 2 POINTERS
 
-### CONJUNCTIVE
+#### CONJUNCTIVE
 
-### CONDITIONAL and subsequent CONJUNCTIVE
+#### CONDITIONAL and subsequent CONJUNCTIVE
 
-## INDICATIVE TAGS
+### INDICATIVE TAGS
 
-### INDICATIVE NONPAST TAGS and CONDITIONAL TAGS
+#### INDICATIVE NONPAST TAGS and CONDITIONAL TAGS
 
-### INDICATIVE PRETERITE 1 TAGS
+#### INDICATIVE PRETERITE 1 TAGS
 
-## INDICATIVE PRETERITE 2 TAGS
+### INDICATIVE PRETERITE 2 TAGS
 
-## DESIDERATIVE (desiderative tag)
+### DESIDERATIVE (desiderative tag)
 
-## CONJUNCTIVE TAGS
+### CONJUNCTIVE TAGS
 redo conj 2012-11-07 begin
 
-## cond-conj
-## CONDITIONAL-CONJUNCTIVE TAGS
+### cond-conj
+### CONDITIONAL-CONJUNCTIVE TAGS
 
-## IMPERATIVE 
+### IMPERATIVE 
 
-## IMPERATIVE		(imperative tags)
+### IMPERATIVE		(imperative tags)
 
-## PRECATIVE 
+### PRECATIVE 
 
 end of MYV BORROWING
 
@@ -690,9 +690,9 @@ PARTICIPLES
 
 ---
 
-# src-fst-morphology-phonology.twolc.md 
+## src-fst-morphology-phonology.twolc.md 
 
-# The Moksha morphophonological/twolc rules file 
+## The Moksha morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-mdf/blob/main/src/fst/phonology.twolc) 
 
@@ -745,7 +745,7 @@ This will represent schwa in first syllable
 
 in ped realized as hard sign
 
-## TRIGGERS
+### TRIGGERS
 * %^RmVow:0  for removing vowels 
 %^Ь2ZERO:0	 removes soft sign before vowel or other combination, also й
 %^ЬKEEP:0	 retains soft sign, breaks pattern for removal
@@ -767,7 +767,7 @@ otherwise automatically removed %{ъØ%}
 * ` »  ` – derivation morpheme boundary suffix
 * ` #  ` – word boundary 
 
-## The Sets
+### The Sets
 
 ```
 Vows = а о у ы э я ё ю и е ;                                            
@@ -794,9 +794,9 @@ CnsDentNoL = д з н р с т ц  ;
 Letters = Vows Cns ь ъ ;                                                
 ```
 
-## The Definitions
+### The Definitions
 
-## The Rules
+### The Rules
 
 **verbStemVowStrong:0**  
 * *цёра%>%{АЯ%}н*
@@ -1095,7 +1095,7 @@ Letters = Vows Cns ь ъ ;
 * *удо%>%{АЕØ%}#*
 * *уда%>0#*
 
-### CONSONANT CHANGES
+#### CONSONANT CHANGES
 ** %{Х%}:0 after vowel**  
 валда+N+Pl+Nom+Def **light/valo**
 * *валд%{АОØ%}%^RmVow%>%{Х%}т%{ЬØ%}*
@@ -1249,7 +1249,7 @@ Letters = Vows Cns ь ъ ;
 
 **m:0**  
 
-### imperative suffix
+#### imperative suffix
 **К1 %{КТ%}:t left**  
 * *пань%>%{КТ%}%{ЬØ%}*
 * *пан0%>ть*
@@ -1358,7 +1358,7 @@ plural
 * ★*ломань%>д%{АО%}* (is not standard language)
 * ★*ломань%>да* (is not standard language)
 
-### DIMINUTIVES
+#### DIMINUTIVES
 **%{DIM%}:н**
 * *ши%>%{DIM%}я*
 * *ши%>ня*
@@ -1371,7 +1371,7 @@ plural
 
 **%{ъØ%}:ъ**
 
-## Disallow
+### Disallow
 
 **Disallow TLoss after non-t**  
 
@@ -1407,10 +1407,10 @@ plural
 
 ---
 
-# src-fst-morphology-root.lexc.md 
+## src-fst-morphology-root.lexc.md 
 
 
-# Morphology
+## Morphology
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF THE Moksha LANGUAGE.
 
 The morphological analyses of wordforms of the Moksha language are presented
@@ -1497,7 +1497,7 @@ The Usage extents are marked using following tags:
 
 * +URL * For tagging URLs
 
-# Dialect tags
+## Dialect tags
 * +Dial * No specification
 Specific to some dialects
 * +Dial/-C * Not central standard
@@ -1661,7 +1661,7 @@ Question and Focus particles:
 * +PrsAct for Russian 
 * +Pst for Russian
 
-### Tags distinguishing different versions of the same lemma (before POS)
+#### Tags distinguishing different versions of the same lemma (before POS)
 * +v1
 * +v2
 * +v3
@@ -1790,7 +1790,7 @@ Semantics are classified with
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 
-## Der begin
+### Der begin
 *  **+Der**  In front of every derivation to make it
 possible to target derivations as a class e.g. in regular expressions etc
 *  **+Der/Poss**  possessive noun ава » аванне
@@ -1798,7 +1798,7 @@ possible to target derivations as a class e.g. in regular expressions etc
 *  **+Der/Iter**  весть, кафксть, колмоксть...
 *  **+Der/Wife**  Added to male names, surnames, patronymics
 
-## DECLARING DEVERBAL DERIVATIONS OF VERBS
+### DECLARING DEVERBAL DERIVATIONS OF VERBS
 * +Der/kshnO  verb2verb derivation
 * +Der/OkshnOms  verb2verb derivation
 * +Der/OvOms  verb2verb derivation
@@ -1810,7 +1810,7 @@ possible to target derivations as a class e.g. in regular expressions etc
 * +Der/NJ Онь
 * +Der/Bachk * бачк
 
-# Tags for originating language
+## Tags for originating language
 
 The following tags are used to guide conversion to IPA: loan words
 and foreign names are usually pronounced (approximately) as in the
@@ -1888,7 +1888,7 @@ And following triggers to control variation
 %^CnsSt		 улемс:уль%^CnsSt%>%{АЕØ%}	
 %^Glide		 Толстой:Толстой%^Glide%>нь
 
-## Flag diacritics
+### Flag diacritics
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics - only allow compounds
 with verbs if the verb is further derived into a noun again:
@@ -1921,10 +1921,10 @@ given the proper use of these flags.
 
 @D.CONJ-MX.IND@ 	 2012-11-04 should this be **D** or **N**
 
-# FLAGS USED WITH MODIFIERS WITHOUT NOUNS
+## FLAGS USED WITH MODIFIERS WITHOUT NOUNS
 
-# FLAGS USED WITH COLLECTIVE NOUNS
-## number
+## FLAGS USED WITH COLLECTIVE NOUNS
+### number
 * @U.DECL-NX.SG@
 * @U.DECL-NX.SP@
 * @U.DECL-NX.PL@
@@ -1983,7 +1983,7 @@ These words should only include 100% matches with lang-rus N+Sg+Nom
 
 ---
 
-# src-fst-morphology-stems-adjectives-russian-like_newwords.lexc.md 
+## src-fst-morphology-stems-adjectives-russian-like_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2001,7 +2001,7 @@ Adding more 2020-03-08
 
 ---
 
-# src-fst-morphology-stems-adjectives_newwords.lexc.md 
+## src-fst-morphology-stems-adjectives_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2015,7 +2015,7 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-exceptions.lexc.md 
+## src-fst-morphology-stems-exceptions.lexc.md 
 
 Exceptions are quite strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
@@ -2068,7 +2068,7 @@ RUSSIAN VERBS
 
 ---
 
-# src-fst-morphology-stems-nouns_newwords.lexc.md 
+## src-fst-morphology-stems-nouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2082,7 +2082,7 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-nouns_russian_100_newwords.lexc.md 
+## src-fst-morphology-stems-nouns_russian_100_newwords.lexc.md 
 
 This is where new Russian-equivalent nouns are added as lexc entries.
 This makes for a shared list in Mordvin analyser development
@@ -2096,7 +2096,7 @@ ADD NOUNS BELOW
 
 ---
 
-# src-fst-morphology-stems-propernouns_newwords.lexc.md 
+## src-fst-morphology-stems-propernouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2114,7 +2114,7 @@ Moksha proper nouns
 
 ---
 
-# src-fst-morphology-stems-verbs_newwords.lexc.md 
+## src-fst-morphology-stems-verbs_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -2128,7 +2128,7 @@ ADD VERBS BELOW
 
 ---
 
-# src-fst-phonetics-txt2ipa.xfscript.md 
+## src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -2297,7 +2297,7 @@ retracted tongue root			_q
 
 ---
 
-# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+## src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
 
 
 
@@ -2319,26 +2319,26 @@ For example:
 
 ---
 
-# tools-grammarcheckers-grammarchecker.cg3.md 
+## tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
-# DELIMITERS
+## DELIMITERS
 
-# TAGS AND SETS
+## TAGS AND SETS
 
-## Tags
+### Tags
 
 This section lists all the tags inherited from the fst, and used as tags
 in the syntactic analysis. The next section, **Sets**, contains sets defined
 on the basis of the tags listed here, those set names are not visible in the output.
 
-### Beginning and end of sentence
+#### Beginning and end of sentence
 BOS
 EOS
 
-### Parts of speech tags
+#### Parts of speech tags
 
 N
 A
@@ -2365,7 +2365,7 @@ PUNCT
 COMMA
 ¶
 
-### Tags for POS sub-categories
+#### Tags for POS sub-categories
 
 Pers
 Dem
@@ -2381,7 +2381,7 @@ Allegro
 Arab
 Romertall
 
-### Tags for morphosyntactic properties
+#### Tags for morphosyntactic properties
 
 Nom
 Acc
@@ -2444,7 +2444,7 @@ VAbess
 
 Err/Orth
 
-### Semantic tags
+#### Semantic tags
 
 Sem/Act
 Sem/Ani
@@ -2477,7 +2477,7 @@ PROP-SUR
 
 TIME-N-SET
 
-###  Syntactic tags
+####  Syntactic tags
 
 @+FAUXV
 @+FMAINV
@@ -2547,22 +2547,22 @@ OBJ>-OTHERS
 SYN-V
 @X
 
-## Sets containing sets of lists and tags
+### Sets containing sets of lists and tags
 
 This part of the file lists a large number of sets based partly upon the tags defined above, and
 partly upon lexemes drawn from the lexicon.
 See the sourcefile itself to inspect the sets, what follows here is an overview of the set types.
 
-### Sets for Single-word sets
+#### Sets for Single-word sets
 
 INITIAL
 
-### Sets for word or not
+#### Sets for word or not
 
 WORD
 NOT-COMMA
 
-### Case sets
+#### Case sets
 
 ADLVCASE
 
@@ -2573,11 +2573,11 @@ NOT-NOM
 NOT-GEN
 NOT-ACC
 
-### Verb sets
+#### Verb sets
 
 NOT-V
 
-### Sets for finiteness and mood
+#### Sets for finiteness and mood
 
 REAL-NEG
 
@@ -2585,7 +2585,7 @@ MOOD-V
 
 NOT-PRFPRC
 
-### Sets for person
+#### Sets for person
 
 SG1-V
 SG2-V
@@ -2597,25 +2597,25 @@ PL1-V
 PL2-V
 PL3-V
 
-### Pronoun sets
+#### Pronoun sets
 
-### Adjectival sets and their complements
+#### Adjectival sets and their complements
 
-### Adverbial sets and their complements
+#### Adverbial sets and their complements
 
-### Sets of elements with common syntactic behaviour
+#### Sets of elements with common syntactic behaviour
 
-### NP sets defined according to their morphosyntactic features
+#### NP sets defined according to their morphosyntactic features
 
-### The PRE-NP-HEAD family of sets
+#### The PRE-NP-HEAD family of sets
 
 These sets model noun phrases (NPs). The idea is to first define whatever can
 occur in front of the head of the NP, and thereafter negate that with the
 expression **WORD - premodifiers**.
 
-### Border sets and their complements
+#### Border sets and their complements
 
-### Grammarchecker sets
+#### Grammarchecker sets
 
 * * *
 
@@ -2623,9 +2623,9 @@ expression **WORD - premodifiers**.
 
 ---
 
-# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
 
-# Tokeniser for mdf
+## Tokeniser for mdf
 
 Usage:
 ```
@@ -2670,7 +2670,7 @@ ASCII digits
 so far:
 * U+F0B7 for "x in box"
 
-## Unknown handling
+### Unknown handling
 Unknowns are tagged ?? and treated specially with `hfst-tokenise`
 hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
 remove empty analyses from other readings. Empty readings are also
@@ -2689,9 +2689,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
-# Grammar checker tokenisation for mdf
+## Grammar checker tokenisation for mdf
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
@@ -2754,9 +2754,9 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
-# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+## tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
 
-# TTS tokenisation for smj
+## TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
 Then just:
