@@ -1,6 +1,3 @@
-spellername = "Moksha"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "7177C267-B0AE-4694-91E2-E9B95AA9822B", kind = "nsis" },
     { value = "1CBF7818-BC23-4DC2-8E5F-9761FACE6F2F", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Moksha"
+version = "0.1.1"
+
+[package.grammar]
+name = "Moksha"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Moksha"
+version = "0.1.0"
