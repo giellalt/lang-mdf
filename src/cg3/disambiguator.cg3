@@ -497,7 +497,7 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Der/Patr|Der/PatrMal);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (ERRSORTH);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
-SUBSTITUTE (<W:0.0>) (<W:2.0>) TARGET (N Prop) IF (0 Pron);
+SUBSTITUTE:PROPSon (<W:0.0>) (<W:2.0>) TARGET (N Prop) IF (0 Pron);
 	   # Сон
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB ) (NOT 1 ("меле") OR ("инголе") OR ("башка"));
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
@@ -605,7 +605,7 @@ REMOVE:NotDetWhenPronOblique Det IF (0 NOTDET) (1 A OR Adv);
 #REMOVE: Det IF (0 "сембе" Pron SP Abl) (1 A OR Adv);
        #Кода сёвоню, а сембода пяк шувару почватнень эса кржа уленди перегнойда.
 #
-REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
+#20251023 obtuse REMOVE:NoPl2ScWhenSubjPl3 SCNOTPL3  IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
     #ашесть: Идень седихне хуш нинге ашесть кенере кувондамс
 
 SELECT ScPl3 IF (0* SUBJCANDIDATEPL3 BARRIER EOS OR BOS );
@@ -749,7 +749,8 @@ SELECT Interj IF (0 Upper) (1 COMMA) ;
 # Select the proper noun reading if the current word can be
 # a proper noun or a noun, and if it is in upper case, 
 # and the previous word is only in lower case
-SELECT Prop IF (0 Prop) (0 Upper) (-1 Lower OR COMMA) ;
+SELECT Prop IF (0 Prop) (0 Upper) (-1 Lower OR COMMA) (NOT 0 Pron);
+ #remember Biblical Capital Сон
 
 # Ваня марто Марят has a correlating conjunction марто
 SELECT CC IF (0 CC) (-1 Ant + Sg + Nom ) (1 Ant + Pl + Nom ) ;
