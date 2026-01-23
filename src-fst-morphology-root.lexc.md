@@ -141,6 +141,7 @@ Quantifiers and Numerals are classified under:
 * ** +Ord 		**:  ordinal
 * ** +Cmpos		**:  compositional numeral 14, 24, 34, 44 нилие, 
 * ** +Attr 		**:  attribute, premodifier
+* ** +Span		**:  this must be n-dash in numbers
 
 Verb voice:
 * ** +Act 	**:  active
