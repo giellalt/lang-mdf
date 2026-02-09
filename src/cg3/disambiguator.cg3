@@ -597,6 +597,8 @@ REMOVE ("уле") IF (0 ("улемс")) (0* Tra BARRIER BOS OR EOS OR @CVP);
 REMOVE ("калга" N SP Abl) IF ((-1 ("тяфтама")) OR (-2 ("тяфтама"))) (1 Abl);
    # Тяфтама жа калгодот коськомдост меле улендихть сёвоню почватневок
 
+REMOVE ("лув" Sg Nom PxSg1) IF (0* (Sg Nom Def) BARRIER BOS OR EOS OR @CVP) (0* OBJCANDIDATESG3 BARRIER BOS OR EOS OR @CVP OR CLB) (NOT 0* OcSg3 BARRIER BOS OR EOS OR @CVP OR CLB);
+#лувозе: Анна Сергеевнась сёрманять лувозе кайгиста.
 
 REMOVE:NotDetWhenNextNotNP Det IF (0 ("тя" Pron)) (NOT 1 A OR N) ;
        # Тя эряви и сянкса
