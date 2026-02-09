@@ -428,6 +428,7 @@ SET VFIN = V + Ind | V + Cond | V + Conj | V + Des | V + Imprt | V + Opt | V + P
 LIST PX = PxSg1 PxSg2 PxSg3 PxPl1 PxPl2 PxPl3 ;
 
 SET OBJCANDIDATESG3 = N + Sg + Gen + Def | N + Sg + Gen + PxSg1 | N + Sg + Gen + PxSg2 | N + Sg + Gen + PxSg3 | N + Sg + Gen + PxPl1 | N + Sg + Gen + PxPl2 | N + Sg + Gen + PxPl3 ;
+# This needs a reading where no postposition is possible
 
 SET OBJCANDIDATEPL3 = N + Pl + Gen + Def | N + Pl + Gen + PxPl1 | N + Pl + Gen + PxPl2 | N + Pl + Gen + PxPl3 | N + Pl + Gen + PxPl1 | N + Pl + Gen + PxPl2 | N + Pl + Gen + PxPl3 ;
 
