@@ -2826,9 +2826,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" hid="Hom2" type="Relat">ал</l>
+     <l pos="N" hid="Hom2">ал</l>
      <stg>
-       <st Contlex="N_KAL">ал</st>
+       <st Contlex="N_RELAT_KAL">ал</st>
      </stg> <phonet>al</phonet>
    </lg>
      <sources>
@@ -11538,9 +11538,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">бок</l>
+     <l pos="N">бок</l>
      <stg>
-       <st Contlex="N_KAL">бок</st>
+       <st Contlex="N_RELAT_KAL">бок</st>
      </stg>
    </lg>
      <sources>
@@ -18507,10 +18507,10 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">вельхкс</l>
+     <l pos="N">вельхкс</l>
      <stg>
-       <st Contlex="N_OSH" varid="1">вельхкс</st>
-       <st Contlex="N_OSH" status="Err/Orth" varid="2">велькс</st>
+       <st Contlex="N_RELAT_OSH" varid="1">вельхкс</st>
+       <st Contlex="N_RELAT_OSH" status="Err/Orth" varid="2">велькс</st>
      </stg> <phonet>veľxks</phonet>
    </lg>
      <sources>
@@ -44949,9 +44949,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">карша</l>
+     <l pos="N">карша</l>
      <stg>
-       <st Contlex="N_MOKSHA">карш%{АЕØ%}</st>
+       <st Contlex="N_RELAT_MOKSHA">карш%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -51534,7 +51534,7 @@
    <lg>
      <l pos="N">книгалангакс</l>
      <stg>
-       <st Contlex="N_OSH">книгалангакс</st>
+       <st Contlex="N_OSH">книга#лангакс</st>
      </stg> <phonet>kńigalaŋgaks</phonet>
    </lg>
      <sources>
@@ -62280,9 +62280,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">кучка</l>
+     <l pos="N">кучка</l>
      <stg>
-       <st Contlex="N_AVA">кучка</st>
+       <st Contlex="N_RELAT_AVA">кучка</st>
      </stg> <phonet>kučka, kuńčka</phonet>
    </lg>
      <sources>
@@ -66095,9 +66095,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">ланга</l>
+     <l pos="N">ланга</l>
      <stg>
-       <st Contlex="N_PANGA">ланг%{АОØ%}</st>
+       <st Contlex="N_RELAT_PANGA">ланг%{АОØ%}</st>
      </stg> <phonet>laŋga</phonet>
    </lg>
      <sources>
@@ -73147,9 +73147,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">мала</l>
+     <l pos="N">мала</l>
      <stg>
-       <st Contlex="N_AVA">мала</st>
+       <st Contlex="N_RELAT_AVA">мала</st>
      </stg> <phonet>mala</phonet>
    </lg>
      <sources>
@@ -102850,9 +102850,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">потма</l>
+     <l pos="N">потма</l>
      <stg>
-       <st Contlex="N_PULA">потм%{АО%}</st>
+       <st Contlex="N_RELAT_PULA">потм%{АО%}</st>
      </stg> <phonet>potma</phonet>
    </lg>
      <sources>
@@ -148458,9 +148458,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">утор</l>
+     <l pos="N">утор</l>
      <stg>
-       <st Contlex="N_KAL">утор</st>
+       <st Contlex="N_RELAT_KAL">утор</st>
      </stg> <phonet>utər</phonet>
    </lg>
      <sources>
@@ -162248,9 +162248,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">шире</l>
+     <l pos="N">шире</l>
      <stg>
-       <st Contlex="N_PINE">шире</st>
+       <st Contlex="N_RELAT_PINE">шире</st>
      </stg> <phonet>šiŕä</phonet>
    </lg>
      <sources>
@@ -173578,9 +173578,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">ён</l>
+     <l pos="N">ён</l>
      <stg>
-       <st Contlex="N_KAL">ён</st>
+       <st Contlex="N_RELAT_KAL">ён</st>
      </stg> <phonet>jon</phonet>
    </lg>
      <sources>
@@ -173921,9 +173921,9 @@
 </e>
 <e meta="" id="None">
    <lg>
-     <l pos="N" type="Relat">ётка</l>
+     <l pos="N">ётка</l>
      <stg>
-       <st Contlex="N_OFTA">ётк%{АОØ%}</st>
+       <st Contlex="N_RELAT_OFTA">ётк%{АОØ%}</st>
      </stg> <phonet>jotkə</phonet>
    </lg>
      <sources>
