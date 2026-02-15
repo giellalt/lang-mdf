@@ -22,6 +22,11 @@ LEXICON NUMERAL-TYPES
 кафта+Num+Coll+Sg+Dat:кафцьконди K ;
 кафта+Num+Der+Der/Ord+A+Ord:омбо NUMERALS-FOR-COLL ;
 
+кафцьке+Num:кафцьк%{ЕО%} NUM_COLL_CJKE ;
+колмицьке+Num:колмицьк%{ЕО%} NUM_COLL_CJKE ;
+нилицьке+Num:нилицьк%{ЕО%} NUM_COLL_CJKE ;
+
+
 колма+Num:колм%{АО%} NUMERALS-3-AND-UP-PULA ;
 
 ниле+Num:ниле NUMERALS-3-AND-UP-PINE ;
@@ -90,6 +95,13 @@ LEXICON NUMERALS-FOR-COLL
 +Coll+Sg+Nom:%>%{ЕОØ%}цьке ENDLEX ;
 +Coll+Sg+Gen:%>%{ЕОØ%}цьконь K ;
 +Coll+Sg+Dat:%>%{ЕОØ%}цьконди K ;
+
+LEXICON NUM_COLL_CJKE !!кафцьке+Num:кафцьк%{ЕО%}
+!+Coll: NMN_SEL1ME ; !universal
++Coll+Sg+Nom: ENDLEX ;
++Coll+Sg+Gen:%>%{ЕОØ%}нь K ;
++Coll+Sg+Dat:%>%{ЕОØ%}нди K ;
+
 
 LEXICON NUMERALS-TO-ITER
 +Der+Der/Iter+Adv+Iter:%>ксть ENDLEX ;
