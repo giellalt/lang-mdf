@@ -22,6 +22,7 @@ LEXICON N_SARAZ_rus100  homograph of majority language
 
 анды:анды
 
+LEXICON N_RELAT_OFTA 
 LEXICON N_OFTA  
 
 LEXICON N_OFTA-PL 
@@ -54,6 +55,7 @@ Without vowel
 
 тише:тише
 
+LEXICON N_RELAT_PULA 
 LEXICON N_PULA  
 
 LEXICON N_KARIUC1KE 
@@ -84,6 +86,7 @@ LEXICON N_T1
 
 LEXICON N_KIAL1 
 
+LEXICON N_RELAT_PINE 
 LEXICON N_PINE 
 
 LEXICON N_KELU_rus100 
