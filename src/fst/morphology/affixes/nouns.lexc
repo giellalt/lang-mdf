@@ -90,6 +90,8 @@ LEXICON N_PEJ_rus100
 LEXICON N_SARAZ_rus100 !!= @CODE@ homograph of majority language
 +Use/SpellNoSugg: N_SARAZ ;
 
+LEXICON N_RELAT_AVA
++Relat: N_AVA ;
 LEXICON N_AVA
 ! ава:ава
 : NMN_AVA ;
@@ -122,6 +124,8 @@ LEXICON N_VAL1MIA
 !! вальмя:вальмя
 !: NMN_VAL1MIA-PL ;
 
+LEXICON N_RELAT_MOKSHA
++Relat: N_MOKSHA ;
 LEXICON N_MOKSHA
 ! мокша:мокш%{АЕØ%}
 : NMN_MOKSHA ;
@@ -163,6 +167,8 @@ LEXICON N_ANDY !!= * @CODE@ анды:анды
 !! анды:анды
 !: NMN_AVA-PL ;
 
+LEXICON N_RELAT_OFTA !!= @CODE@
++Relat: N_OFTA ;
 LEXICON N_OFTA !!= @CODE@ 
 !!офта:офт%{АОØ%}
 !: NMN_OFTA ;
@@ -182,6 +188,9 @@ LEXICON N_PARA !!= @CODE@
 !: NMN_PARA-SG ;
 !LEXICON N_PARA-PL !!= @CODE@
 !: NMN_PARA-PL ;
+
+LEXICON N_RELAT_PANGA
++Relat:  N_PANGA ;
 
 LEXICON N_PANGA !!= @CODE@
 !!панга:панг%{АОØ%}
@@ -295,6 +304,8 @@ LEXICON N_TISHE
 ! тише:тише
 !: NMN_TISHE-SG/PL ;
 
+LEXICON N_RELAT_PULA !!= @CODE@
++Relat: N_PULA ;
 LEXICON N_PULA !!= @CODE@ 
 !пула:пул%{АО%}
 : NMN_PULA ;
@@ -316,6 +327,8 @@ LEXICON N_FS !!= @CODE@
 : NMN_OSH ;
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_VAL1MIA ;
 
+LEXICON N_RELAT_OSH
++Relat: N_OSH ;
 LEXICON N_OSH !!= @CODE@
 !ош:ош
 : NMN_OSH ;
@@ -384,6 +397,9 @@ LEXICON N_BN !!= @CODE@
 +Der+Der/Dimin+N:%>%{DIM%}я NMN_AVA ;
 +Der+Der/Dimin+N:%>%{ЕО%}%{DIM%}я NMN_AVA ;
 
+LEXICON N_RELAT_KAL
++Relat: N_KAL ;
+
 LEXICON N_KAL !!= @CODE@
  N_KAL-SG ;
  N_KAL-PL ;
@@ -418,6 +434,8 @@ LEXICON N_KIAL1-PL
 
 LEXICON N_PINE_rus100
 +Use/SpellNoSugg: N_PINE ;
+LEXICON N_RELAT_PINE !!= @CODE@
++Relat: N_PINE ;
 LEXICON N_PINE !!= @CODE@
  N_PINE-SG ;
  N_PINE-PL ;
@@ -770,6 +788,10 @@ LEXICON NMN_ANDY-SG/PL
  NOTDEF-CMPR ;
  NOTDEF-PRL ;
 !! Possessor Indices
+PL-DAT/GEN/NOM-PXSG1 ;!20260225
+ PL-CX-PXSG2 ;!20260225
+ PL-CX-PXSG3 ;!20260225
+
 +Use/NG:й PXPL1 ;
 : PXPL1 ;
 +Use/NG:й PXPL2 ;
@@ -1065,8 +1087,8 @@ LEXICON NMN-PL
 !! Possessor Indices
 ! PXSG1-Pl ;
  PL-DAT/GEN/NOM-PXSG1 ;
- PL-CX-PXSG2 ;
- PL-CX-PXSG3 ;
+ PL-DAT/GEN/NOM-PXSG2 ;
+ PL-DAT/GEN/NOM-PXSG3 ;
 
 LEXICON NMN-SG/PL
  NOTDEF-ABE ;
