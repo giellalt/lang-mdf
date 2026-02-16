@@ -32,46 +32,46 @@ SUBJECT ONLY VERBS
 * *музе:* `мумс+V+Ind+Prt1+ScSg3+OcSg3`
 * *мусь:* `мумс+V+Ind+Prt1+ScSg3`
 * *мулезе:* `мумс+V+Conj+ScSg3+OcSg3`
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
-+Use/NG:й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
-:	 IND-PRT1-SC3 ;  
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@+Use/NG:@U.CONJ-INF.NO@й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT1-SC3 ;  
 
 COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ;  This is done here to leave the same ending open for COND-ALL
 COND-ALL
-+Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
-+NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 ашень, тят, афоль
 сявомс+V+ConNeg **take/ottaa**
 * *сяв{ЕОØ}*
 * *сяве*
 
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
 COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 LEXICON V0_NJAJEMS   няемс:ня
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
-:й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ;  This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT1-SC3 ;  This is a difference from ТИЕМС
 COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ;  
 COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ;  
 
 ### AUXILIARY VERBS
 LEXICON V-AUX-NEG-PRT1_ASHEZJ  ашезь:аш

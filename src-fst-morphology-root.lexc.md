@@ -525,7 +525,7 @@ given the proper use of these flags.
 * @U.CX.ABE@ 
 * @U.CX.ABL@ 
 * @U.CX.CAU@ 
-* @U.CX.CMP@ 
+* @U.CX.CMP@ шка
 * @U.CX.COM@ 
 * @U.CX.DAT@ 
 * @U.CX.ELA@ 
