@@ -238,9 +238,9 @@ LEXICON IV_NJAJEMS
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON V0_KUNDAMS
- VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_MUMS
@@ -250,63 +250,63 @@ LEXICON V0_MUMS
 !!€ музе: мумс+V+Ind+Prt1+ScSg3+OcSg3
 !!€ мусь: мумс+V+Ind+Prt1+ScSg3
 !!€ мулезе: мумс+V+Conj+ScSg3+OcSg3
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC-REMAINDER ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-SC-40/50 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Use/NG+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-+Use/NG:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
-:	 IND-PRT1-SC3 ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Use/NG:@U.CONJ-INF.NO@й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT1-SC3 ; !!= @CODE@ 
 !:	 IND-PRT1-ALL-BUT-Sc3-ONLY-SC ; 
-:	 IND-PRT1-ALL-BUT-Sc3 ; 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT1-ALL-BUT-Sc3 ; 
 
-@R.CONJ.ObjAll@:@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
-@R.CONJ.ObjAll@:@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
-:	 IND-PRT2-ALL ; 
-@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@:@U.CONJ-INF.NO@@R.CONJ.ObjAll@  IND-PRT1-OC-12/13/16/23/26 ;
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@:@U.CONJ-INF.NO@@R.CONJ.ObjAll@й  IND-PRT1-OC-REMAINDER ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT2-ALL ; 
+@U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 !12, 13, 16, 23, 26, 
-+Use/NG:й	 CONJ-ALL     	;
-:	 CONJ-ALL     	;
-:й	 DES-ALL     	;
-	 IMPRT-20   	;
-:й	 IMPRT-ALL-BUT-20   	;
-:й	 OPT-ALL       	;
-+Use/NG:й	 INF_OM		; !муемс
-:	 INF_OM		; !мумс
+@U.CONJ-INF.NO@+Use/NG:@U.CONJ-INF.NO@й	 CONJ-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 CONJ-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 DES-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IMPRT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IMPRT-ALL-BUT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 OPT-ALL       	;
+@U.CONJ-INF.YES@+Use/NG:@U.CONJ-INF.YES@й	 INF_OM		; !муемс
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@	 INF_OM		; !мумс
 !+ConNeg:е K ; 
 +ConNeg: K ; 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ANDOMS
- VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_SJAVOMS
 !has form сяве, so {еоØ}
- VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-	 IND-PRT1-ALL ; 
-	 IND-PRT2-ALL ; 
-@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
-+Cond:%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
-+NegCnd:%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-ALL ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT1-ALL ; 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT2-ALL ; 
+@U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
-	 CONJ-ALL     	;
-	 DES-ALL     	;
-	 IMPRT-ALL   	;
-	 OPT-ALL       	;
-	 INF_OM		;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 CONJ-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 DES-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IMPRT-ALL   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 OPT-ALL       	;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@	 INF_OM		;
 +ConNeg:%{ЕОØ%} VerbEnd ;!> was removed 2024-07-24
 +ConNeg:%{ЕОØ%} PL-NOM-INDEF ;!> was removed 2024-07-24
 +ConNeg+Use/NG:%^CnsSt%>%{ЕОØ%} VerbEnd ;
@@ -318,126 +318,127 @@ LEXICON V0_SJAVOMS
 +ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} K ;
 +ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
 
-: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_PACHKODEMS
- VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_TIJEMS
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-	 IND-PRT1-SC3 ; 
-+Err/Orth:й	 IND-PRT1-SC3 ; 
-:й	 IND-PRT1-ALL-BUT-Sc3 ; 
-:й	 IND-PRT2-ALL ; 
-@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@ VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT1-SC3 ; 
+@U.CONJ-INF.NO@+Err/Orth:@U.CONJ-INF.NO@й	 IND-PRT1-SC3 ; 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT1-ALL-BUT-Sc3 ; 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT2-ALL ; 
+@U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
-:й	 CONJ-ALL     	;
-:й	 DES-ALL     	;
-	 IMPRT-20   	;
-:й	 IMPRT-ALL-BUT-20   	;
-:й	 OPT-ALL       	;
-:й	 INF_OM		;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 CONJ-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 DES-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IMPRT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IMPRT-ALL-BUT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 OPT-ALL       	;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й	 INF_OM		;
 
 +ConNeg:е K ; 
 +ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:й Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Vws ;
 !: Non-Finite-Vws ;
- Non-Finite-Cns ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
-@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-SC ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC2 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
+@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@+Ind+Prs:@U.CONJ-INF.NO@@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@й VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
 !2018-06-28+Ind+Prs@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@:@R.CONJ.ObjAll@@U.CONJ-MX.IND@@U.CONJ-TX.NONPAST@	 VERB-ZERO-OC13 ; !!= @CODE@ This is done here to leave the same ending open for COND-ALL
-:й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
-:й	 IND-PRT1-ALL-BUT-Sc3 ; 
-:й	 IND-PRT2-ALL ; 
-@U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
-+Cond:й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
-+NegCnd:й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT1-SC3 ; !!= @CODE@ This is a difference from ТИЕМС
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT1-ALL-BUT-Sc3 ; 
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT2-ALL ; 
+@U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@й%>%{ЕОØ%}ндяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>%{ЕОØ%}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@й%>%{ЕОØ%}фтяря VERB-ZERO-ALL ; !! COND-ALL
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>%{ЕОØ%}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
-:й	 CONJ-ALL     	;
-:й	 DES-ALL     	;
-	 IMPRT-20   	;
-:й	 IMPRT-ALL-BUT-20   	;
-:й	 OPT-ALL       	;
-:й	 INF_OM		;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 CONJ-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 DES-ALL     	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IMPRT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IMPRT-ALL-BUT-20   	;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 OPT-ALL       	;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й	 INF_OM		;
 +ConNeg:е K ; 
 +ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-:й Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Vws ;
 !: Non-Finite-Vws ;
-:й Non-Finite-Cns ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
+
 LEXICON V0_NJAFTEMS
- VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
-:%> Non-Finite-Cns ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ALYJAFTOMS
- VERBAL-CONJUGATIONS-ALL ;
-: Non-Finite-Vws ;
-:%> Non-Finite-Cns ;
+@U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON Non-Finite-Vws
-+Inf:%>%{ЕОØ%}мс K_ГА ;
-+Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
+@U.CX.ILL@+Inf:@U.CX.ILL@%>%{ЕОØ%}мс VerbEnd ;
+@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} VerbEnd ;
 
-+Inf+Loc:%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
+@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
 +Nec:%>%{ЕОØ%}ма PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;!fixme 20250825
 
-+Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} K_НГА ;
-+Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl+Use/NG:%>%{ЕОØ%}мо%>д%{АО%} K_НГА ;
-+Inf+Abl+Use/NG:%>%{ЕОØ%}мо%>д%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} K_НГА ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}мст%{АО%} K_вок ;
-+Ger+Ela:%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Tra:%>%{ЕОØ%}мга K_НГА ;
-+Ger+Tra:%>%{ЕОØ%}мга OBLIQUECX-PX-ava ;
-+Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
-+Der/Ozj+Ger+Dimin:%>%{ЕОØ%}зне K ;
-+Ger:%>%{ЕОØ%}мок K ;
-+Ger+Cmpr:%>%{ЕОØ%}м%>шка N_AVA ;
+@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
+@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} OBLIQUECX-PX-ava ;
+@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
+@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} VerbEnd ;
+@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
+@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга VerbEnd ;
+@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга OBLIQUECX-PX-ava ;
+@U.CONJ-GER.ZJ@+Der/Ozj+Ger:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зь VerbEnd ;
+@U.CONJ-GER.ZJ@+Der/Ozj+Ger+Dimin:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зне K ;
+@U.CONJ-GER.MOK@+Ger:@U.CONJ-GER.MOK@%>%{ЕОØ%}мок K ;
+@U.CX.CMP@+Ger+Cmpr:@U.CX.CMP@%>%{ЕОØ%}м%>шка N_AVA ;
 
 LEXICON V2V-DERIVATION-INITIAL-VOW_0
 @D.DERIV.2V@ V2V-DERIVATION-INITIAL-VOW ;
 
 LEXICON V2V-DERIVATION-INITIAL-VOW
 
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в Non-Finite-Vws ;
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в Non-Finite-Cns ;
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне Non-Finite-Vws ;
-@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне Non-Finite-Cns ;
+@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}в Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}в Non-Finite-Cns ;
+@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}вкшне Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}вкшне Non-Finite-Cns ;
 
-@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне Non-Finite-Vws ;
-@P.DERIV.2V@+Der+Der/OkshnOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшне Non-Finite-Cns ;
-@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев Non-Finite-Vws ;
-@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@%>%{ЕОØ%}кшнев Non-Finite-Cns ;
+@U.CONJ-INF.NO@@P.DERIV.2V@+Der+Der/OkshnOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@%>%{ЕОØ%}кшне VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшне Non-Finite-Vws ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшне Non-Finite-Cns ;
+@U.CONJ-INF.NO@@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@%>%{ЕОØ%}кшнев VERBAL-CONJUGATIONS-ALL ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшнев Non-Finite-Vws ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшнев Non-Finite-Cns ;
 !Mormula 2020-08-31
 
 
