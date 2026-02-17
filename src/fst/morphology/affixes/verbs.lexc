@@ -239,7 +239,7 @@ LEXICON IV_NJAJEMS
 
 LEXICON V0_KUNDAMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -281,13 +281,13 @@ LEXICON V0_MUMS
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+!2026-02-16!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ANDOMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -318,13 +318,13 @@ LEXICON V0_SJAVOMS
 +ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} K ;
 +ConNegII+Use/NG:%>%{Х%}%{КТ%}%{ЬØ%} PL-NOM-INDEF ;
 
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+!20260216!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_PACHKODEMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -353,8 +353,8 @@ LEXICON V0_TIJEMS
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Vws ;
-!: Non-Finite-Vws ;
+!20260216!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й INF_OM ;! was Non-Finite-Vws 
+!: INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
@@ -382,44 +382,45 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Vws ;
-!: Non-Finite-Vws ;
+!20260216!@U.CONJ-INF.YES@:@U.CONJ-INF.YES@й INF_OM ;! was Non-Finite-Vws 
+!: INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@й Non-Finite-Cns ;
 :й%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_NJAFTEMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
 LEXICON V0_ALYJAFTOMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@ VERBAL-CONJUGATIONS-ALL ;
-@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ Non-Finite-Vws ;
+@U.CONJ-INF.YES@:@U.CONJ-INF.YES@ INF_OM ;! was Non-Finite-Vws 
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@%> Non-Finite-Cns ;
 :%>%{ЕОØ%} V2V-DERIVATION-INITIAL-VOW_0 ;
 
-LEXICON Non-Finite-Vws
-@U.CX.ILL@+Inf:@U.CX.ILL@%>%{ЕОØ%}мс VerbEnd ;
-@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} VerbEnd ;
+!LEXICON Non-Finite-Vws >> moved to INF_OM
+!@U.CX.ILL@+Inf:@U.CX.ILL@%>%{ЕОØ%}мс VerbEnd ;
+!@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} VerbEnd ;
+!@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} NONFINITE_OBLIQUE_PX ;
+!+Nec:%>%{ЕОØ%}ма PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;!fixme 20250825
+!@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} VerbEnd ;
+!@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+!@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} VerbEnd ;
+!@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+!@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} VerbEnd ;
+!@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+!@U.CX.CAU@+Ger+Cau:@U.CX.CAU@%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
+!@U.CX.CAU@+Ger+Cau:@U.CX.CAU@%>%{ЕОØ%}м%>анкс%{АО%} NONFINITE_OBLIQUE_PX ;
+!@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} VerbEnd ;
+!@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} NONFINITE_OBLIQUE_PX ;
+!@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга VerbEnd ;
+!@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга NONFINITE_OBLIQUE_PX ;
+!@U.CX.CMP@+Ger+Cmpr:@U.CX.CMP@%>%{ЕОØ%}м%>шка N_AVA ;
+!@U.CONJ-GER.ZJ@+Der/Ozj+Ger:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зь VerbEnd ;
+!@U.CONJ-GER.ZJ@+Der/Ozj+Ger+Dimin:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зне VerbEnd ;
+!@U.CONJ-GER.MOK@+Ger:@U.CONJ-GER.MOK@%>%{ЕОØ%}мок K ;
 
-@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} OBLIQUECX-PX-ava ;
-+Nec:%>%{ЕОØ%}ма PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;!fixme 20250825
-
-@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} VerbEnd ;
-@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} VerbEnd ;
-@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} OBLIQUECX-PX-ava ;
-@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} VerbEnd ;
-@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
-@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} VerbEnd ;
-@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}мст%{АО%} OBLIQUECX-PX-ava ;
-@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга VerbEnd ;
-@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга OBLIQUECX-PX-ava ;
-@U.CONJ-GER.ZJ@+Der/Ozj+Ger:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зь VerbEnd ;
-@U.CONJ-GER.ZJ@+Der/Ozj+Ger+Dimin:@U.CONJ-GER.ZJ@%>%{ЕОØ%}зне K ;
-@U.CONJ-GER.MOK@+Ger:@U.CONJ-GER.MOK@%>%{ЕОØ%}мок K ;
-@U.CX.CMP@+Ger+Cmpr:@U.CX.CMP@%>%{ЕОØ%}м%>шка N_AVA ;
 
 LEXICON V2V-DERIVATION-INITIAL-VOW_0
 @D.DERIV.2V@ V2V-DERIVATION-INITIAL-VOW ;
@@ -427,17 +428,17 @@ LEXICON V2V-DERIVATION-INITIAL-VOW_0
 LEXICON V2V-DERIVATION-INITIAL-VOW
 
 @U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}в VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}в Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}в INF_OM ;! was Non-Finite-Vws 
 @P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}в Non-Finite-Cns ;
 @U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@+Der+Der/OvOms+Der/OkshnOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@@C.CONJ@%>%{ЕОØ%}вкшне VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}вкшне Non-Finite-Vws ;
+@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}вкшне INF_OM ;! was Non-Finite-Vws 
 @P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@+Der+Der/OvOms+Der/OkshnOms+V:@P.DERIV.2V@@C.CONJ@@U.CONJ-INF.YES@%>%{ЕОØ%}вкшне Non-Finite-Cns ;
 
 @U.CONJ-INF.NO@@P.DERIV.2V@+Der+Der/OkshnOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@%>%{ЕОØ%}кшне VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшне Non-Finite-Vws ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшне INF_OM ;! was Non-Finite-Vws 
 @P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшне Non-Finite-Cns ;
 @U.CONJ-INF.NO@@P.DERIV.2V@+Der+Der/OkshnOms+Der/OvOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@%>%{ЕОØ%}кшнев VERBAL-CONJUGATIONS-ALL ;
-@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшнев Non-Finite-Vws ;
+@P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшнев INF_OM ;! was Non-Finite-Vws 
 @P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/OkshnOms+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>%{ЕОØ%}кшнев Non-Finite-Cns ;
 !Mormula 2020-08-31
 
@@ -517,7 +518,7 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 DES-ALL     	;
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
-	 INF_OM		;
+!2026-02-16ME??!	 INF_OM		;
 +ConNeg:%>%{АЕØ%} VerbEnd ;
 +ConNeg:%>%{АЕØ%} PL-NOM-INDEF ;
 +ConNeg+Use/NG:%^CnsSt%>%{АЕØ%} VerbEnd ;
@@ -1635,36 +1636,65 @@ LEXICON OPT-60
 !!!!!!!!!!!!!!!!
 
 LEXICON INF_OM
-+Inf:%>%{ЕОØ%}мс K_ГА ;
-+Inf+Loc:%>%{ЕОØ%}м%{АО%} K_НГА ;
+@U.CX.ILL@+Inf:@U.CX.ILL@%>%{ЕОØ%}мс VerbEnd ;
+@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} VerbEnd ;
+@U.CX.LOC@+Inf+Loc:@U.CX.LOC@%>%{ЕОØ%}м%{АО%} NONFINITE_OBLIQUE_PX ;
 
-+Inf+Loc+PxSg1:%>%{ЕОØ%}мон K_ГА ;
-+Inf+Loc+PxSg2:%>%{ЕОØ%}мот K_ГА ;
-+Inf+Loc+PxSg3:%>%{ЕОØ%}монз%{АО%} K ;
-+Inf+Loc+PxPl1:%>%{ЕОØ%}монок K ;
-+Inf+Loc+PxPl1:%>%{ЕОØ%}монк K ;
-+Inf+Loc+PxPl2:%>%{ЕОØ%}монт K ;
-+Inf+Loc+PxPl3:%>%{ЕОØ%}мост K ;
-!+Inf+Ill:%>%{ЕОØ%}мс K ;
-+Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} K_НГА ;
-+Inf+Abl:%>%{ЕОØ%}м%>д%{АО%} OBLIQUECX-PX-ava ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} K_НГА ;
-+Inf+Abl+Der+Der/Dimin:%>%{ЕОØ%}м%>ня%>д%{АО%} OBLIQUECX-PX-ava ;
-+Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} NounEnd_K_вок ;
-+Ger+Ela:%>%{ЕОØ%}м%>ст%{АО%} OBLIQUECX-PX-ava ;
+!+Inf+Loc+PxSg1:%>%{ЕОØ%}мон K_ГА ;
+!+Inf+Loc+PxSg2:%>%{ЕОØ%}мот K_ГА ;
+!+Inf+Loc+PxSg3:%>%{ЕОØ%}монз%{АО%} K ;
+!+Inf+Loc+PxPl1:%>%{ЕОØ%}монок K ;
+!+Inf+Loc+PxPl1:%>%{ЕОØ%}монк K ;
+!+Inf+Loc+PxPl2:%>%{ЕОØ%}монт K ;
+!+Inf+Loc+PxPl3:%>%{ЕОØ%}мост K ;
 
-+Der/Ozj+Ger:%>%{ЕОØ%}зь K ;
+@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl:@U.CX.ABL@%>%{ЕОØ%}м%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+
+@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl+Use/NG:@U.CX.ABL@%>%{ЕОØ%}мо%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+
+@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} VerbEnd ;
+@U.CX.ABL@+Inf+Abl+Der+Der/Dimin:@U.CX.ABL@%>%{ЕОØ%}м%>ня%>д%{АО%} NONFINITE_OBLIQUE_PX ;
+@U.CX.CAU@+Ger+Cau:@U.CX.CAU@%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
+@U.CX.CAU@+Ger+Cau:@U.CX.CAU@%>%{ЕОØ%}м%>анкс%{АО%} NONFINITE_OBLIQUE_PX ;
+@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}м%>ст%{АО%} VerbEnd ;
+@U.CX.ELA@+Ger+Ela:@U.CX.ELA@%>%{ЕОØ%}м%>ст%{АО%} NONFINITE_OBLIQUE_PX ;
+
+@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга VerbEnd ;
+@U.CX.PRL@+Ger+Prl:@U.CX.PRL@%>%{ЕОØ%}мга NONFINITE_OBLIQUE_PX ;
+
+
+@U.CX.CMP@+Ger+Cmpr:@U.CX.CMP@%>%{ЕОØ%}м%>шка N_AVA ;
+
+@U.CX.GER-ZJ@+Der/Ozj+Ger:@U.CX.GER-ZJ@%>%{ЕОØ%}зь VerbEnd ;
+@U.CX.GER-ZJ@+Der/Ozj+Ger+Dimin:@U.CX.GER-ZJ@%>%{ЕОØ%}зне VerbEnd ;
+
+@U.CX.GER-MOK@+Ger:@U.CX.GER-MOK@%>%{ЕОØ%}мок VerbEnd ;
+
++Nec:%>%{ЕОØ%}ма PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;!fixme 20250825
+
+
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк K ;
 +Ger+Der/Bachk:%>%{ЕОØ%}м%>бачк%{АО%} K ;
 +Ger+Der/Shovor:%>%{ЕОØ%}м%>шовор K ;
-+Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} NounEnd_K ;
-+Ger+Cau:%>%{ЕОØ%}м%>анкс%{АО%} OBLIQUECX-PX-ava ;
 +Der+Der/NomAct+N:%>%{ЕОØ%}ма N_AVA ;
 +Der+Der/NomAct+Err/Orth+N:%>%{ЕОØ%}м N_KAL ;
 +Der+Der/NomAct+Der+Der/Dimin+N:%>%{ЕОØ%}м%>ня N_AVA ;
 Prc-I ;
 Prc-nj ;
 Prc-zj ;
+
+LEXICON NONFINITE_OBLIQUE_PX
+@U.DECL-DX.PXSG1@+PxSg1:@U.DECL-DX.PXSG1@%>%{ЕОØ%}н VerbEnd ;
+@U.DECL-DX.PXSG2@+PxSg2:@U.DECL-DX.PXSG2@%>%{ЕОØ%}т VerbEnd ;
+@U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} VerbEnd ;
+@U.DECL-DX.PXSG3@+PxSg3:@U.DECL-DX.PXSG3@%>%{ЕОØ%}нз%{АО%} VerbEnd ;
+@U.DECL-DX.PXPL1@+PxPl1:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нк VerbEnd ;
+@U.DECL-DX.PXPL1@+PxPl1+Use/NG:@U.DECL-DX.PXPL1@%>%{ЕОØ%}нок VerbEnd ;
+@U.DECL-DX.PXPL2@+PxPl2:@U.DECL-DX.PXPL2@%>%{ЕОØ%}нт VerbEnd ;
+@U.DECL-DX.PXPL3@+PxPl3:@U.DECL-DX.PXPL3@%>%{ЕОØ%}ст VerbEnd ;
+
 
 !!!!!!!!!!!
 !! GERUNDS 

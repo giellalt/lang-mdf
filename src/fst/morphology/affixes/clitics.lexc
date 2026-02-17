@@ -16,9 +16,9 @@ LEXICON K_ГА/DAT-ARAM
  NounEnd ;
  K_ГА ;
 
-LEXICON NounEnd_K_вок
- NounEnd ;
- K_вок ;
+!LEXICON NounEnd_K_вок
+! NounEnd ;
+! K_вок ;
 
 !LEXICON K_CHOOSE_ВОК_OR_ENDLEX
 !!+Clt/AddVok:%>вок  ENDLEX ;
