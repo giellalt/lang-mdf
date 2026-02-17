@@ -521,6 +521,7 @@ given the proper use of these flags.
 * @R.DECL-NX.SG@
 * @R.DECL-NX.SP@
 * @R.DECL-NX.PL@
+* @C.DECL-NX@ needed for ellipsis NP heads, i.e., secondary declension
 
 * @U.CX.ABE@ 
 * @U.CX.ABL@ 
@@ -530,6 +531,8 @@ given the proper use of these flags.
 * @U.CX.DAT@ 
 * @U.CX.ELA@ 
 * @U.CX.GEN@ 
+* @U.CX.GER-ZJ@ these are converbs in complementary distr
+* @U.CX.GER-MOK@ these are converbs in complementary distr
 * @U.CX.ILL@ 
 * @U.CX.INE@ 
 * @U.CX.LAT@ 
@@ -539,6 +542,7 @@ given the proper use of these flags.
 * @U.CX.TRA@ 
 * @U.CX.PRL@ 
 * @U.CX.TEMP@ 
+* @C.CX@ needed for ellipsis NP heads, i.e., secondary	declension
 
 * @U.DECL-DX.DEF@ 
 * @U.DECL-DX.INDEF@ 
@@ -548,6 +552,7 @@ given the proper use of these flags.
 * @U.DECL-DX.PXPL1@ 
 * @U.DECL-DX.PXPL2@ 
 * @U.DECL-DX.PXPL3@ 
+* @C.DECL-DX@ needed for ellipsis NP heads, i.e., secondary	declension
 
 | Flag diacritic | Explanation
 | :------------- |:-----------

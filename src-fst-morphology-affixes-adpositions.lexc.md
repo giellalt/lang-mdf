@@ -5,6 +5,10 @@ nouns, but ...
 
 ADPOSITIONS
 
+check for primary
+
+follow +Ine +Loc +Prl at least
+
 Checking 2018-11-10
 
 Checking 2018-11-10
