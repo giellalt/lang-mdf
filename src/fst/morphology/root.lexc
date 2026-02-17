@@ -786,10 +786,6 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 @U.CONJ-INF.YES@
 @U.CONJ-INF.NO@
 
-! GER = Converb
-@U.CONJ-GER.ZJ@
-@U.CONJ-GER.MOK@
-
 ! TX = tense
 @U.CONJ-TX.NONPAST@
 @U.CONJ-TX.PRT1@
@@ -899,6 +895,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @R.DECL-NX.SG@ !!≈ * @CODE@
  @R.DECL-NX.SP@ !!≈ * @CODE@
  @R.DECL-NX.PL@ !!≈ * @CODE@
+ @C.DECL-NX@ !!≈ * @CODE@ needed for ellipsis NP heads, i.e., secondary declension
 
 !!Cases
  @U.CX.ABE@ !!≈ * @CODE@ 
@@ -909,6 +906,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @U.CX.DAT@ !!≈ * @CODE@ 
  @U.CX.ELA@ !!≈ * @CODE@ 
  @U.CX.GEN@ !!≈ * @CODE@ 
+ @U.CX.GER-ZJ@ !!≈ * @CODE@ these are converbs in complementary distr
+ @U.CX.GER-MOK@ !!≈ * @CODE@ these are converbs in complementary distr
  @U.CX.ILL@ !!≈ * @CODE@ 
  @U.CX.INE@ !!≈ * @CODE@ 
  @U.CX.LAT@ !!≈ * @CODE@ 
@@ -918,6 +917,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @U.CX.TRA@ !!≈ * @CODE@ 
  @U.CX.PRL@ !!≈ * @CODE@ 
  @U.CX.TEMP@ !!≈ * @CODE@ 
+ @C.CX@ !!≈ * @CODE@ needed for ellipsis NP heads, i.e., secondary	declension
 
 ! declension type
  @U.DECL-DX.DEF@ !!≈ * @CODE@ 
@@ -928,6 +928,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  @U.DECL-DX.PXPL1@ !!≈ * @CODE@ 
  @U.DECL-DX.PXPL2@ !!≈ * @CODE@ 
  @U.DECL-DX.PXPL3@ !!≈ * @CODE@ 
+ @C.DECL-DX@ !!≈ * @CODE@ needed for ellipsis NP heads, i.e., secondary	declension
 
 @P.HYPH-COMBO.ACRO@
 @D.HYPH-COMBO.ACRO@
