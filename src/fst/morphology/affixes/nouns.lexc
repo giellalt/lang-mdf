@@ -27,6 +27,8 @@ LEXICON N_SARAZ_DIAL
 LEXICON N_KAL_DIAL
 +Dial+Use/NG+Err/Orth: N_KAL ;
 
+LEXICON N_J_rusmdf
++Use/SpellNoSugg: N_PEJ ;
 LEXICON N_J_rus100
 +Use/SpellNoSugg: N_PEJ ;
  
@@ -39,6 +41,9 @@ LEXICON N_AVA_rus100
 
 LEXICON N_K_rus100
 +Use/SpellNoSugg: N_K ;
+
+LEXICON N_KAL_rusmdf
++Use/SpellNoSugg: N_KAL ;
 
 LEXICON N_KAL_rus100
 +Use/SpellNoSugg: N_KAL ;
