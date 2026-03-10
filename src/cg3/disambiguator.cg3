@@ -355,7 +355,7 @@ SET PADJI_INJECT = COMMA + PADJI + COMMA ;
 
 LIST PERSPRONSG = "мон" "тон" "сон" "монць" "тонць" "сонць" ;
 LIST PERSPRONPL = "минь" "тинь" "синь" "минць" "тинць" "синць" ;
-LIST NOLAT = "каль" "моль" ;
+LIST NOLAT = "ёр" "каль" "моль" ;
 LIST NONLATIVENOUN = "аржа" "ал" "ваз" "вай" "вайме" "вал" "варма" "варя" "ваша" "давол" "зиян" "кал" "карь" "кев" "ведь" "верь" "вий" "ёжа" "каль" "кяж" "кяль" "моль" "мувор"  "лефкс" "лем" "лов" "ловца" "лопа" "макша" "медь" "пизем" "пиле" "питне" "пона" "рашка" "ризф" "роса" "рост" "приказ" "рдаз" "сал" "сакал" "сан" "сарда" "сельмеведь" "серь" "сёвонь" "сёрма" "сий" "солдат" "сукс" "сяпе" "тише" "толга" "туман" "тяште" "уй" "ула" "унда" "шине" "шов" "шувар" "эй" "яд" "якшам" "ярмак" ; #!! This will be expanded for homonymy at first
 
 
@@ -499,6 +499,7 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Der/Patr|Der/PatrMal);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (ERRSORTH);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET WEIRDCOMP;
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET NAMBPROP IF (-1 BOS);
+SUBSTITUTE (<W:0.0>) (<W:2.0>) TARGET NOLAT IF (0 Lat);
 SUBSTITUTE:PROPSon (<W:0.0>) (<W:2.0>) TARGET (N Prop) IF (0 Pron);
 	   # Сон
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB ) (NOT 1 ("меле") OR ("инголе") OR ("башка"));
@@ -522,9 +523,10 @@ MAP (@CVP) TARGET CC IF (*-2 VFIN BARRIER CLB OR BOS) (-1 (",")) (*1 VFIN BARRIE
 #и: Эряви саламс сёрось и явомс сембе вачедотненди.
 #MAP:ccWithInf (@C-FVP) TARGET CC IF (-1* VINF BARRIER CLB OR BOS OR VFIN) (1* VINF BARRIER CLB OR BOS OR VFIN);# actually this could be inf split
 
-REMOVE (Ex/V Der/NomAct N Sg Nom Indef) IF (*0 SUPAUX BARRIER CLB OR EOS OR BOS) (0 (V Inf Loc)) ;#
+REMOVE (Ex/V Der/NomAct N Sg Nom Indef) OR (N Sg Nom Indef) IF (*0 SUPAUX BARRIER CLB OR EOS OR BOS) (0 (V Inf Loc)) ;#
     # И эста кивок аф кармай тонафтома эсь маластонц и эсь брадонц тяфтама валса:
-
+    # и сон кармась кати-мезе корхтама.
+    
 REMOVE OLang/RUS IF (NOT *0 OLang/RUS BARRIER CLB OR EOS OR BOS);
  # ideally this would not allow single word incursions, but it would allow phrases.
 
