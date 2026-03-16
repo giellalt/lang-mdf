@@ -506,6 +506,10 @@ SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR 
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
        # deal with вал : валда, пан : панда
 
+SUBSTITUTE (<W:0.0>) (<W:5.0>) TARGET ("мазь" N) IF (0 ("мазы" A));
+       # мазы
+SUBSTITUTE (<W:0.0>) (<W:5.0>) TARGET ("мазиши" N) IF (0 ("мазыши"));
+       # мазыши
 SUBSTITUTE:NotAElaWhenAdv (<W:0.0>) (<W:1.0>) TARGET (A SP Ela Indef) IF (0 Adv);
 	   # Кие кирдьсы кемоста эсь валонц
 
@@ -570,6 +574,18 @@ REMOVE PxSg2 OR Ex/Num IF (0 (A Ord));
 
 REMOVE:NotANWhenPrecededByConneg A OR N IF (-1 ("аф" V Aux Neg Conj)) (0 (V ConNeg));
   #Тяса, кодама коське кизось афоль уле, фалу летьке.
+
+REMOVE:NotPronWhenNextConneg Pron IF (0 ("аф" V Aux)) (1 ConNeg);
+  # тят кяльготне
+
+REMOVE:NoMiWhenFollowedByPxPl1 ("ми" N SP Gen Indef) IF (0 ("мон" Pron Pers Pl1 Gen)) (1 PxPl1);
+  # минь кяленьке
+REMOVE:NoMiWhenFollowedByAdjAndThenPxPl1 ("ми" N SP Gen Indef) OR ("мимс" V Ind Prt1 ScSg1) OR ("мимс" V VGen) IF (0 ("мон" Pron Pers Pl1 Gen)) (1 A LINK 1 PxPl1);
+  # минь од пингоньке
+REMOVE:NoNomReadingWhenFollowedByAdjAndThenPxPl1 ("мон" Pron Pers Pl1 Nom) IF (0 ("мон" Pron Pers Pl1 Gen)) (1 A LINK 1 PxPl1);
+
+REMOVE:NoNomReadingWhenFollowedByApposAndThenPxPl1 Nom OR ("ми" N SP Gen Indef) OR ("мимс" V Ind Prt1 ScSg1) IF (0 ("мон" Pron Pers Pl1 Gen)) (1 COMMA) (2 (Pl Gen Def)) (3 COMMA) (4 PxPl1);
+   # минь, мокшэрзятнень, седиезонк
 
 REMOVE ("кон" N) IF (NOT -1 ("на")) (0 ("кона"));
 # may be too strong, expression __на кон__ in playing cards
@@ -782,8 +798,11 @@ REMOVE:NoPlIfSubseqSgV Pl If (0 Sg + Nom) (1 Prt1 + ScSg3)  ;
 # Вдь тинь содасасть:
 REMOVE:RmGenIfSubj Gen IF (0 Pron + Pers + Pl2) (1* ScPl2 BARRIER CLB) ;
 
-# Тяфта минь ульхтяма
 REMOVE:RmGenIfSubjPl1 Gen IF (0 Pron + Pers + Pl1) (1* ScPl1 BARRIER CLB) ;
+     # Тяфта минь ульхтяма
+
+REMOVE:NoNounMiWhenOcPl1Present ("ми" N SP Gen Indef) IF (0* OcPl1 BARRIER CLB OR EOS OR BOS);
+     # минь тага кеняртьфтьсамазь
 
 # азондомс минь тевонконь колга
 REMOVE:NoNomIfSubseqPossessumPl1 Nom IF (0 Pron + Pers + Pl1) (1 PxPl1) ;
