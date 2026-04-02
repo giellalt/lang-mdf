@@ -1,0 +1,1588 @@
+{
+  "metadata": {
+    "info": {
+      "locale": "mdf",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Moksha spellchecker"
+        }
+      ],
+      "description": "A spellchecker for Moksha, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway.",
+      "producer": "Giellatekno/Divvun/UiT contributors"
+    },
+    "acceptor": {
+      "type": "general",
+      "id": "acceptor.default.hfst",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Moksha speller lexicon"
+        }
+      ],
+      "description": "Moksha speller lexicon compiled with HFST.",
+      "continuation": null
+    },
+    "errmodel": {
+      "id": "errmodel.default.hfst",
+      "title": [
+        {
+          "lang": null,
+          "$value": "Moksha error model"
+        }
+      ],
+      "description": "Error model for Moksha."
+    }
+  },
+  "config": {
+    "n-best": 10,
+    "max-weight": 10000.0,
+    "beam": null,
+    "reweight": {
+      "start-penalty": 10.0,
+      "end-penalty": 10.0,
+      "mid-penalty": 5.0
+    },
+    "node-pool-size": 128,
+    "recase": true,
+    "completion-marker": null
+  },
+  "summary": {
+    "total_words": 34,
+    "first_position": 8,
+    "top_five": 10,
+    "any_position": 10,
+    "no_suggestions": 2,
+    "only_wrong": 2,
+    "false_accept": 0,
+    "true_positive": 14,
+    "false_negative": 20,
+    "true_negative": 0,
+    "slowest_lookup": {
+      "secs": 0,
+      "subsec_nanos": 66508542
+    },
+    "fastest_lookup": {
+      "secs": 0,
+      "subsec_nanos": 5000
+    },
+    "average_time": {
+      "secs": 0,
+      "subsec_nanos": 12895882
+    },
+    "average_time_95pc": {
+      "secs": 0,
+      "subsec_nanos": 11271256
+    },
+    "average_position_of_correct": 1.2,
+    "average_suggestions_for_correct": 8.6
+  },
+  "results": [
+    {
+      "input": "Зърня",
+      "expected": "Зрня",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "Зерня",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Зрня",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Зырня",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Зярня",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Зорня",
+          "weight": 16.0,
+          "weight_details": {
+            "lexicon_weight": 1.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Бърня",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Гърня",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Дърня",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Зърна",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърня",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 1,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 25507916
+      },
+      "false_accept": false
+    },
+    {
+      "input": "кафтоньгърда",
+      "expected": "кафтоньгрда",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "кафтоньгрда",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "кафтонь-крда",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "кафтонь-кърда",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "кафтоньгрдав",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "кафтоньгрдан",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "кафтоньгрдас",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "кафтоньгрдат",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "кафтоньгрдац",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 66508542
+      },
+      "false_accept": false
+    },
+    {
+      "input": "кържа",
+      "expected": "кржа",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 73625
+      },
+      "false_accept": true
+    },
+    {
+      "input": "кърхка",
+      "expected": "крхка",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 43000
+      },
+      "false_accept": true
+    },
+    {
+      "input": "кърхкаста",
+      "expected": "крхкаста",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 34292
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Кърхтаж",
+      "expected": "Крхтаж",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "Кърхта",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтав",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтай",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтак",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтан",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтат",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Кърхтаф",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Керхта",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Керхтам",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Корхта",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        }
+      ],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 34794250
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мъзярда",
+      "expected": "мзярда",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 9480500
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Мъзярда",
+      "expected": "Мзярда",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 10708
+      },
+      "false_accept": true
+    },
+    {
+      "input": "мъзярошка",
+      "expected": "мзярошка",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "мзярошка",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзярошкас",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "мазяроцка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мазяршка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мзяроска",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзярода",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзяронга",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзяронза",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзяроцешка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мъзярошкада",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 20197208
+      },
+      "false_accept": false
+    },
+    {
+      "input": "Мъзярошка",
+      "expected": "Мзярошка",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "Мзярошка",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мъзярошкас",
+          "weight": 20.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 0.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Мазяровшка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мазяроцка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мазяршка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мзяроска",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мъзярода",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мъзяронга",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мъзяронза",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Мъзяроцешка",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 11036792
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мърдась",
+      "expected": "мрдась",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 19750
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Мърня",
+      "expected": "Мрня",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 13750
+      },
+      "false_accept": true
+    },
+    {
+      "input": "народъетконь",
+      "expected": "народъётконь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 40573917
+      },
+      "false_accept": false
+    },
+    {
+      "input": "нъльне",
+      "expected": "нльне",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 5000
+      },
+      "false_accept": true
+    },
+    {
+      "input": "Пъсьмар",
+      "expected": "Псьмар",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "Псьмар",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Пас-мар",
+          "weight": 32.0,
+          "weight_details": {
+            "lexicon_weight": 2.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Пась-мар",
+          "weight": 32.0,
+          "weight_details": {
+            "lexicon_weight": 2.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Письмак",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Псьмарс",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        },
+        {
+          "value": "Псьмару",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 25606500
+      },
+      "false_accept": false
+    },
+    {
+      "input": "пъцтай",
+      "expected": "пцтай",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 15542
+      },
+      "false_accept": true
+    },
+    {
+      "input": "пъчкафтыкс",
+      "expected": "пчкафтыкс",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 26958
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналонь",
+      "expected": "тналонь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 157625
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналса",
+      "expected": "тъналса",
+      "distance": 0,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 172875
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналста",
+      "expected": "тналста",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 70792
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналстонь",
+      "expected": "тналстонь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 46542
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналсь",
+      "expected": "тналсь",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 805250
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тъналть",
+      "expected": "тналть",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 29541
+      },
+      "false_accept": true
+    },
+    {
+      "input": "тървава",
+      "expected": "трвава",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 186792
+      },
+      "false_accept": true
+    },
+    {
+      "input": "търваса",
+      "expected": "трваса",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 146583
+      },
+      "false_accept": true
+    },
+    {
+      "input": "ърьвяяма",
+      "expected": "рьвяяма",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 908000
+      },
+      "false_accept": true
+    },
+    {
+      "input": "ърьвяямась",
+      "expected": "рьвяямась",
+      "distance": 1,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 37959
+      },
+      "false_accept": true
+    },
+    {
+      "input": "мярголь",
+      "expected": "мярьголь",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "морголь",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьголь",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Марголь",
+          "weight": 25.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Берголь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Борголь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Вирголь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Дарголь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Йёрголь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Дявголь",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Пярноль",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 1,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 22375750
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мяргомс",
+      "expected": "мярьгомс",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "мярьгомс",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "каргомс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "маргамс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "моргокс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "моргос",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мыргымс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярнамс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярцамс",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгомас",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгома",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 10.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 20541041
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мярьгень",
+      "expected": "мярьгонь",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "мярьгонь",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгиень",
+          "weight": 16.0,
+          "weight_details": {
+            "lexicon_weight": 1.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгинь",
+          "weight": 16.0,
+          "weight_details": {
+            "lexicon_weight": 1.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "марьнень",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "марьсень",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мирьжень",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "Сярьгеень",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "вярьгель",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "вярьнень",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "кярьгонь",
+          "weight": 35.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 10.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 35338292
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мярьгеньдевозат",
+      "expected": "мярьгондевозат",
+      "distance": 2,
+      "suggestions": [
+        {
+          "value": "мярьгондевозат",
+          "weight": 31.0,
+          "weight_details": {
+            "lexicon_weight": 1.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьге-идевозат",
+          "weight": 32.0,
+          "weight_details": {
+            "lexicon_weight": 2.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 30709625
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мярьгеньдтядязь",
+      "expected": "мярьгондтядязь",
+      "distance": 2,
+      "suggestions": [],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 23519958
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мярьгоньдтяда",
+      "expected": "мярьгондтяда",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "мярьгонттяда",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгонь-ляда",
+          "weight": 32.0,
+          "weight_details": {
+            "lexicon_weight": 2.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": null,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 39770542
+      },
+      "false_accept": false
+    },
+    {
+      "input": "мярьгсьть",
+      "expected": "мярьгсть",
+      "distance": 1,
+      "suggestions": [
+        {
+          "value": "мярьгсть",
+          "weight": 15.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 10.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 5.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгить",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгихть",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгость",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьготь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгсазь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгсайть",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгсасть",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгсь",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        },
+        {
+          "value": "мярьгське",
+          "weight": 30.0,
+          "weight_details": {
+            "lexicon_weight": 0.0,
+            "mutator_weight": 20.0,
+            "reweight_start": 0.0,
+            "reweight_mid": 10.0,
+            "reweight_end": 0.0
+          }
+        }
+      ],
+      "position": 0,
+      "time": {
+        "secs": 0,
+        "subsec_nanos": 29694584
+      },
+      "false_accept": false
+    }
+  ],
+  "start_timestamp": {
+    "secs": 1775141752,
+    "subsec_nanos": 200303000
+  },
+  "total_time": {
+    "secs": 0,
+    "subsec_nanos": 66809792
+  }
+}
