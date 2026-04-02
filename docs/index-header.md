@@ -7,6 +7,7 @@
 <div class="badges" markdown="1">
 [![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mdf%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html) <br/>
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mdf%2Fgh-pages%2Flemmacount.json) <br/>
+[![Speller suggestion quality](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mdf%2Fgh-pages%2Fspellersuggs.json)](typosreport/) <br/>
 [![License](https://img.shields.io/github/license/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/blob/main/LICENSE) <br/>
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues) <br/>
 [![Build Status](https://builds.giellalt.org/api/badge/lang-mdf?label=CI)](https://builds.giellalt.org/pipelines/lang-mdf/builds/latest) <br/>
