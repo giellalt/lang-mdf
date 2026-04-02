@@ -18,6 +18,7 @@ Center location data taken from [Glottolog](https://glottolog.org/). Area extent
 
 </div>
 
+
 This page documents the work on the [Moksha language model](http://github.com/giellalt/lang-mdf).
 
 The lexicon is full-sized (60000 entries), and the analyser 
