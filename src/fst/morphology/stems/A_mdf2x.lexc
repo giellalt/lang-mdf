@@ -22,9 +22,9 @@ LEXICON A_mdf2x
 кемнилиеце+A:кемнилиеце IS_NUM_ORD  "" ;
 кемнилиеце+A+Use/SpellNoSugg:кемнилице IS_NUM_ORD  "" ;
 кемонце+A:кемонце IS_NUM_ORD  "" ;
-кодама+A:кодам%{АОØ%} A_PANGA  "millainen" ;
-кати-кодама+A:кати-кодам%{АОØ%} A_PANGA  "jonkinlainen" ;
-кой-кодама+A+Indef:кой-кодам%{АОØ%} A_PANGA  "jonkinlainen" ;
+кодама+A:кодам{АОØ} A_PANGA  "millainen" ;
+кати-кодама+A:кати-кодам{АОØ} A_PANGA  "jonkinlainen" ;
+кой-кодама+A+Indef:кой-кодам{АОØ} A_PANGA  "jonkinlainen" ;
 кодгемонце+A:кодгемонце IS_NUM_ORD  "" ;
 колмогемонце+A:колмогемонце IS_NUM_ORD  "" ;
 колмоце+A:колмоце IS_NUM_ORD  "" ;
@@ -49,7 +49,7 @@ LEXICON A_mdf2x
 аварскяй+A:аварскяй A_KAL  "avaarin" ;
 аварькш+A:аварькш A_OSH  "itkuinen" ;
 аварькшу+A:аварькшу A_KELU  "itkuinen" ;
-авафтома-аляфтома+A:авафтома-аляфтом%{АО%} A_PULA  "orpo" ;
+авафтома-аляфтома+A:авафтома-аляфтом{АО} A_PULA  "orpo" ;
 августовскяй+A:августовскяй A_KAL  "elokuinen" ;
 августонь+A:августонь A_IS_GEN  "elokuinen" ;
 авиационнай+A:авиационнай A_KAL  "lento-" ;
@@ -94,7 +94,7 @@ LEXICON A_mdf2x
 азовикс+A:азовикс A_OSH  "sanomaton" ;
 азовски+A:азовски A_ANDY  "asovalainen" ;
 азоронь+A:азоронь A_IS_GEN  "isännän" ;
-азорфтома+A:азорфтом%{АО%} A_PULA  "isännätön" ;
+азорфтома+A:азорфтом{АО} A_PULA  "isännätön" ;
 азотнай+A:азотнай A_KAL  "typen" ;
 азф+A:азф Prc-f  "null" ;
 азыня+A:азыня PrcTag  "null" ;
@@ -113,7 +113,7 @@ LEXICON A_mdf2x
 актуальнай+A:актуальнай A_KAL  "ajankohtainen" ;
 актёрскяй+A:актёрскяй A_KAL  "näyttelijän" ;
 акушерскяй+A:акушерскяй A_KAL  "kätilön" ;
-акша+A:акш%{АЕØ%} A_MOKSHA  "valkoinen" ;
+акша+A:акш{АЕØ} A_MOKSHA  "valkoinen" ;
 акшаза+A:акшаза A_AVA  "vaaleahko" ;
 акшана+A:акшана A_AVA  "vaaleahko" ;
 акшелготф+A:акшелготф Prc-f  "null" ;
@@ -397,14 +397,14 @@ LEXICON A_mdf2x
 вазу+A:вазу A_KELU  "tiine" ;
 вазыяф+A:вазыяф Prc-f  "null" ;
 ваи+A:ваи A_ANDY  "rasvainen" ;
-вайгяльфтома+A:вайгяльфтом%{АО%} A_PULA  "äänetön" ;
+вайгяльфтома+A:вайгяльфтом{АО} A_PULA  "äänetön" ;
 вайгялю+A:вайгялю A_KELU  "äänekäs" ;
 вакантнай+A:вакантнай A_KAL  "vapaa" ;
 ваксонь+A:ваксонь A_IS_GEN  "" ;
 ваксшка+A:ваксшка A_AVA  "" ;
 валазя+A:валазя A_AVA  "sileä" ;
 валаня+A:валаня A_AVA  "sileä" ;
-валда+A:валд%{АОØ%} A_OFTA  "valoisa" ;
+валда+A:валд{АОØ} A_OFTA  "valoisa" ;
 валдоня+A:валдоня A_AVA  "valoisa" ;
 валду+A:валду A_KELU  "kirkas" ;
 валериановай+A:валериановай A_KAL  "valeriaana-" ;
@@ -413,7 +413,7 @@ LEXICON A_mdf2x
 валожаф+A:валожаф Prc-f  "null" ;
 валу+A:валу A_KELU  "kaunopuheinen" ;
 валф+A:валф Prc-f  "null" ;
-валфтома+A:валфтом%{АО%} A_PULA  "sanaton" ;
+валфтома+A:валфтом{АО} A_PULA  "sanaton" ;
 вальмянь+A:вальмянь A_IS_GEN  "ikkuna-" ;
 валютнай+A:валютнай A_KAL  "valuutta-" ;
 валяндаф+A:валяндаф Prc-f  "null" ;
@@ -457,7 +457,7 @@ LEXICON A_mdf2x
 ватьф+A:ватьф Prc-f  "sileä" ;
 вахляф+A:вахляф Prc-f  "null" ;
 ваци+A:ваци A_ANDY  "paskainen" ;
-вача+A:вач%{АЕØ%} A_MOKSHA  "nälkäinen" ;
+вача+A:вач{АЕØ} A_MOKSHA  "nälkäinen" ;
 вачеткя+A:вачеткя A_VAL1MIA  "nälkäinen" ;
 вачкаф+A:вачкаф Prc-f  "null" ;
 вачкотьф+A:вачкотьф Prc-f  "null" ;
@@ -547,10 +547,10 @@ LEXICON A_mdf2x
 виж+A:виж A_OSH  "pieni" ;
 виздемань+A:виздемань A_IS_GEN  "arka" ;
 визди+A:визди A_ANDY  "ujo" ;
-визьксфтома+A:визьксфтом%{АО%} A_PULA  "häpeämätön" ;
+визьксфтома+A:визьксфтом{АО} A_PULA  "häpeämätön" ;
 вии+A:вии A_ANDY  "voimakas" ;
 виияф+A+Prc:виияф Prc-f  "" ;
-вийфтома+A:вийфтом%{АО%} A_PULA  "voimaton" ;
+вийфтома+A:вийфтом{АО} A_PULA  "voimaton" ;
 винань+A:винань A_IS_GEN  "viini-" ;
 виндерьнь+A:виндерьнь A_IS_GEN  "kuusama-" ;
 виноват+A:виноват A_KAL  "syyllinen" ;
@@ -573,7 +573,7 @@ LEXICON A_mdf2x
 вию+A:вию A_KELU  "voimakas" ;
 вкусовой+A:вкусовой A_KAL  "maku-" ;
 вкусовой+A+Use/SpellNoSugg:въкусовой A_KAL  "maku-" ;
-вкусфтома+A:вкусфтом%{АО%} A_PULA  "mauton" ;
+вкусфтома+A:вкусфтом{АО} A_PULA  "mauton" ;
 властнай+A:властнай A_KAL  "käskevä" ;
 влиятельнай+A:влиятельнай A_KAL  "vaikutusvaltainen" ;
 внекласснай+A:внекласснай A_KAL  "luokan ulkopuolinen" ;
@@ -917,7 +917,7 @@ LEXICON A_mdf2x
 забавнай+A:забавнай A_KAL  "huvittava" ;
 забастовочнай+A:забастовочнай A_KAL  "lakko-" ;
 забитай+A:забитай A_KAL  "unohdettu" ;
-заботафтома+A:заботафтом%{АО%} A_PULA  "huoleton" ;
+заботафтома+A:заботафтом{АО} A_PULA  "huoleton" ;
 заботендай+A:заботендай A_KAL  "huolehtivainen" ;
 заботливай+A:заботливай A_KAL  "huolehtivainen" ;
 заваляф+A+Prc:заваляф Prc-f  "" ;
@@ -1004,7 +1004,7 @@ LEXICON A_mdf2x
 идеологическяй+A:идеологическяй A_KAL  "ideologinen" ;
 идеф+A+Prc:идеф Prc-f  "" ;
 идиотскяй+A:идиотскяй A_KAL  "idioottinen" ;
-идьфтома+A:идьфтом%{АО%} A_PULA  "lapseton" ;
+идьфтома+A:идьфтом{АО} A_PULA  "lapseton" ;
 идю+A:идю A_KELU  "monilapsinen" ;
 ижельдень+A:ижельдень A_IS_GEN  "nurja-" ;
 избирательнай+A:избирательнай A_KAL  "vaali-" ;
@@ -1015,7 +1015,7 @@ LEXICON A_mdf2x
 изеря+A:изеря A_AVA  "turha" ;
 измерительнай+A:измерительнай A_KAL  "mittaus-" ;
 изобразительнай+A:изобразительнай A_KAL  "kuvaus-" ;
-изокфтома+A:изокфтом%{АО%} A_PULA  "uuttera" ;
+изокфтома+A:изокфтом{АО} A_PULA  "uuttera" ;
 изоляционнай+A:изоляционнай A_KAL  "eristys-" ;
 изуверскяй+A:изуверскяй A_KAL  "hurmahenkinen" ;
 изумруднай+A:изумруднай A_KAL  "smaragdi-" ;
@@ -1077,7 +1077,7 @@ LEXICON A_mdf2x
 исключительнай+A:исключительнай A_KAL  "erityinen" ;
 искусственнай+A:искусственнай A_KAL  "keinotekoinen" ;
 исолоку+A:исолоку A_KELU  "kyvykäs" ;
-исолокфтома+A:исолокфтом%{АО%} A_PULA  "ahkera" ;
+исолокфтома+A:исолокфтом{АО} A_PULA  "ahkera" ;
 исполнительнай+A:исполнительнай A_KAL  "toimeenpano-" ;
 испытандаф+A+Prc:испытандаф Prc-f  "" ;
 исследовандаф+A+Prc:исследовандаф Prc-f  "" ;
@@ -1130,7 +1130,7 @@ LEXICON A_mdf2x
 какав+A:какав A_KAL  "likainen" ;
 какольготф+A+Prc:какольготф Prc-f  "" ;
 какордаф+A+Prc:какордаф Prc-f  "" ;
-калада+A:калад%{АО%} A_PULA  "kulunut (vaate)" ;
+калада+A:калад{АО} A_PULA  "kulunut (vaate)" ;
 калатькя+A:калатькя A_VAL1MIA  "rikkinäinen" ;
 калаф+A:калаф A_KAL  "sortunut" ;
 калафтф+A+Prc:калафтф Prc-f  "" ;
@@ -1138,7 +1138,7 @@ LEXICON A_mdf2x
 калганонь+A:калганонь A_IS_GEN  "galangan (galanga on lääkekasvi, Alpinia officinarum)" ;
 калгаф+A+Prc:калгаф Prc-f  "" ;
 калгияф+A+Prc:калгияф Prc-f  "" ;
-калгода+A:калгод%{АО%} A_PULA  "kova" ;
+калгода+A:калгод{АО} A_PULA  "kova" ;
 калготкстомф+A+Prc:калготкстомф Prc-f  "" ;
 калгу+A:калгу A_KELU  "päistäreinen" ;
 календарень+A:календарень A_IS_GEN  "kalenteri-" ;
@@ -1172,7 +1172,7 @@ LEXICON A_mdf2x
 камернай+A:камернай A_KAL  "kammio-" ;
 камоку+A:камоку A_KELU  "möykkyinen" ;
 камолай+A:камолай A_KAL  "nupo" ;
-камошкурга+A:камош#кург%{АОØ%} A_PANGA  "hampaaton ihminen, jonka huulet ovat painuneet sisäänpäin" ;
+камошкурга+A:камош#кург{АОØ} A_PANGA  "hampaaton ihminen, jonka huulet ovat painuneet sisäänpäin" ;
 каназа+A:каназа A_AVA  "kaareva" ;
 канализационнай+A:канализационнай A_KAL  "viemäri-" ;
 канаскотф+A+Prc:канаскотф Prc-f  "" ;
@@ -1251,7 +1251,7 @@ LEXICON A_mdf2x
 кевана+A:кевана A_AVA  "kovettunut" ;
 кевгоронь+A:кевгоронь A_IS_GEN  "tuohinen" ;
 кеви+A:кеви A_ANDY  "kivinen" ;
-кевкасма+A:кев#касм%{АО%} A_PULA  "kivihuippuinen" ;
+кевкасма+A:кев#касм{АО} A_PULA  "kivihuippuinen" ;
 кевкстаф+A+Prc:кевкстаф Prc-f  "" ;
 кевонзаф+A+Prc:кевонзаф Prc-f  "" ;
 кевонь+A:кевонь A_IS_GEN  "kivinen" ;
@@ -1281,15 +1281,15 @@ LEXICON A_mdf2x
 кельксеф+A+Prc:кельксеф Prc-f  "" ;
 келькф+A:келькф A_KAL  "rakastettu" ;
 кельмаза+A:кельмаза A_AVA  "viileä" ;
-кельме+A:кельм%{ЕО%} A_SEL1ME  "kylmä" ;
+кельме+A:кельм{ЕО} A_SEL1ME  "kylmä" ;
 кельмоня+A:кельмоня A_AVA  "viileä" ;
 келяви+A:келяви A_ANDY  "kuuliainen" ;
 кемана+A:кемана A_AVA  "kestävä" ;
-кеме+A:кем%{ЕО%} A_PULA  "vahva" ;
+кеме+A:кем{ЕО} A_PULA  "vahva" ;
 кемокстаф+A+Prc:кемокстаф Prc-f  "" ;
 кендал+A:кендал A_KAL  "tottelematon" ;
 кендень+A:кендень A_IS_GEN  "huopa-" ;
-кендепеке+A:кенде#пек%{ЕОØ%} A_PINGE  "pallero" ;
+кендепеке+A:кенде#пек{ЕОØ} A_PINGE  "pallero" ;
 кендиень+A:кендиень A_IS_GEN  "ampiais-" ;
 кенерьга+A:кенерьга A_AVA  "ripeä" ;
 кенерьф+A:кенерьф A_KAL  "kypsä" ;
@@ -1362,7 +1362,7 @@ LEXICON A_mdf2x
 книжнай+A+Use/SpellNoSugg:кънижнай A_KAL  "kirja-" ;
 княжескяй+A:княжескяй A_KAL  "ruhtinaallinen" ;
 княжескяй+A+Use/SpellNoSugg:къняжескяй A_KAL  "ruhtinaallinen" ;
-княздафтома+A:къняздафтом%{АО%} A_PULA  "naimaton" ;
+княздафтома+A:къняздафтом{АО} A_PULA  "naimaton" ;
 князень+A:князень A_IS_GEN  "ruhtinas-" ;
 князень+A+Use/SpellNoSugg:кънязень A_IS_GEN  "ruhtinas-" ;
 ковадондаф+A+Prc:ковадондаф Prc-f  "" ;
@@ -1417,7 +1417,7 @@ LEXICON A_mdf2x
 конвойнай+A:конвойнай A_KAL  "saatto-" ;
 кондитерскяй+A:кондитерскяй A_KAL  "konditoria-" ;
 кондя+A:кондя A_AVA  "kaltainen" ;
-кондяма+A:кондям%{АОØ%} A_PINGE  "kaltainen" ;
+кондяма+A:кондям{АОØ} A_PINGE  "kaltainen" ;
 кондясти+A:кондясти A_ANDY  "sopiva" ;
 конкретнай+A:конкретнай A_KAL  "konkreettinen" ;
 конкурснай+A:конкурснай A_KAL  "valinta-" ;
@@ -1453,7 +1453,7 @@ LEXICON A_mdf2x
 косой+A:косой A_KAL  "kierosilmä" ;
 косолапай+A:косолапай A_KAL  "kampurajalkainen" ;
 коськана+A:коськана A_AVA  "kuivahko" ;
-коське+A:коськ%{ЕОØ%} A_PINGE  "kuiva" ;
+коське+A:коськ{ЕОØ} A_PINGE  "kuiva" ;
 коськолдаф+A+Prc:коськолдаф Prc-f  "" ;
 коськолдаяф+A+Prc:коськолдаяф Prc-f  "" ;
 коськоня+A:коськоня A_AVA  "kuiva" ;
@@ -1524,7 +1524,7 @@ LEXICON A_mdf2x
 куйтек+A:куйтек A_KAL  "huono" ;
 кукольнай+A:кукольнай A_KAL  "nukke-" ;
 кукурузань+A:кукурузань A_IS_GEN  "maissi-" ;
-кула+A:кул%{АО%} A_PULA  "kuollut" ;
+кула+A:кул{АО} A_PULA  "kuollut" ;
 кулиня+A+Prc:кулиня PrcTag  "" ;
 куломань+A:куломань A_IS_GEN  "kuoleman" ;
 кулоф+A:кулоф A_KAL  "kuollut" ;
@@ -1632,7 +1632,7 @@ LEXICON A_mdf2x
 лакштамарень+A:лакштамарень A_IS_GEN  "(sini)vatukka-" ;
 лакштан+A:лакштан A_KAL  "pullea kuin karhunvatukka" ;
 лама+Det:лама DET_AVA  "paljon" ;
-ламбама+A:ламбам%{АОØ%} A_PINGE  "makea" ;
+ламбама+A:ламбам{АОØ} A_PINGE  "makea" ;
 ламбаськотф+A+Prc:ламбаськотф Prc-f  "" ;
 ламонцне+A:ламонцне A_  "" ;
 ламонь-крда+A:ламонь-крда A_  "monilukuinen" ;
@@ -1658,7 +1658,7 @@ LEXICON A_mdf2x
 латцеф+A+Prc:латцеф Prc-f  "" ;
 лафтукшу+A:лафтукшу A_KELU  "harteikas" ;
 лафтупрянь+A:лафтупрянь A_IS_GEN  "olka-" ;
-лафча+A:лафч%{АОØ%} A_PINGE  "heikko" ;
+лафча+A:лафч{АОØ} A_PINGE  "heikko" ;
 лафчемф+A+Prc:лафчемф Prc-f  "" ;
 лафченя+A:лафченя A_AVA  "heikko" ;
 лашмонь+A:лашмонь A_IS_GEN  "kuoppa-" ;
@@ -1686,7 +1686,7 @@ LEXICON A_mdf2x
 лестяф+A+Prc:лестяф Prc-f  "" ;
 летьказа+A:летьказа A_AVA  "kosteahko" ;
 летькана+A:летькана A_AVA  "kosteahko" ;
-летьке+A:летьк%{ЕОØ%} A_PINGE  "kostea" ;
+летьке+A:летьк{ЕОØ} A_PINGE  "kostea" ;
 летькияф+A+Prc:летькияф Prc-f  "" ;
 летькомф+A+Prc:летькомф Prc-f  "" ;
 летьконя+A:летьконя A_AVA  "kostea" ;
@@ -1737,7 +1737,7 @@ LEXICON A_mdf2x
 лонтятьф+A+Prc:лонтятьф Prc-f  "" ;
 лопав+A:лопав A_KAL  "lehtevä" ;
 лопатьф+A+Prc:лопатьф Prc-f  "" ;
-лопафтома+A:лопафтом%{АО%} A_PULA  "lehdetön" ;
+лопафтома+A:лопафтом{АО} A_PULA  "lehdetön" ;
 лопафтф+A+Prc:лопафтф Prc-f  "" ;
 лопаяф+A+Prc:лопаяф Prc-f  "" ;
 лопотьф+A+Prc:лопотьф Prc-f  "" ;
@@ -1811,7 +1811,7 @@ LEXICON A_mdf2x
 ляень+A:ляень A_IS_GEN  "joki-" ;
 лякшав+A:лякшав A_KAL  "närästys-" ;
 лямбаза+A:лямбаза A_AVA  "lämpimähkö" ;
-лямбе+A:лямб%{ЕО%} A_SEL1ME  "lämmin" ;
+лямбе+A:лямб{ЕО} A_SEL1ME  "lämmin" ;
 лямбоня+A:лямбоня A_AVA  "lämmin" ;
 ляпаза+A:ляпаза A_AVA  "pehmeähkö" ;
 ляпана+A:ляпана A_AVA  "pehmeähkö" ;
@@ -1955,7 +1955,7 @@ LEXICON A_mdf2x
 мерандаф+A+Prc:мерандаф Prc-f  "" ;
 мерань+A:мерань A_IS_GEN  "mitta-" ;
 мераф+A+Prc:мераф Prc-f  "" ;
-мерафтома+A:мерафтом%{АО%} A_PULA  "iso" ;
+мерафтома+A:мерафтом{АО} A_PULA  "iso" ;
 мерлушкань+A:мерлушкань A_IS_GEN  "karitsannahka-" ;
 мерондаф+A+Prc:мерондаф Prc-f  "" ;
 местиндаф+A+Prc:местиндаф Prc-f  "" ;
@@ -2012,7 +2012,7 @@ LEXICON A_mdf2x
 мозаичнай+A:мозаичнай A_KAL  "mosaiikki-" ;
 мозглай+A:мозглай A_KAL  "kostea" ;
 мокнай+A:мокнай A_KAL  "nenäänsä puhuva" ;
-мокша+A:мокш%{АЕØ%} A_MOKSHA  "mokšalainen" ;
+мокша+A:мокш{АЕØ} A_MOKSHA  "mokšalainen" ;
 мокшалянь+A:мокшалянь A_IS_GEN  "mokšalaismiehen" ;
 мокшень+A:мокшень A_IS_GEN  "mokšan" ;
 моли+A:моли A_ANDY  "menevä" ;
@@ -2059,7 +2059,7 @@ LEXICON A_mdf2x
 мялямксу+A:мялямксу A_KELU  "tuohukas" ;
 мялямкшу+A:мялямкшу A_KELU  "hyvämuistinen" ;
 мяляму+A:мяляму A_KELU  "hyvämuistinen" ;
-мялямфтома+A:мялямфтом%{АО%} A_PULA  "muistamaton" ;
+мялямфтома+A:мялямфтом{АО} A_PULA  "muistamaton" ;
 мяляфтови+A:мяляфтови A_ANDY  "mieleenpainuva" ;
 мянеф+A+Prc:мянеф Prc-f  "" ;
 мянкстф+A+Prc:мянкстф Prc-f  "" ;
@@ -2077,7 +2077,7 @@ LEXICON A_mdf2x
 набой+A:набой A_KAL  "rohkea" ;
 наборнай+A:наборнай A_KAL  "ladonta-" ;
 наваф+A+Prc:наваф Prc-f  "" ;
-навла+A:навл%{АО%} A_PULA  "lima-" ;
+навла+A:навл{АО} A_PULA  "lima-" ;
 навольтьф+A+Prc:навольтьф Prc-f  "" ;
 навольф+A+Prc:навольф Prc-f  "1. kaltattu. 2. halpamainen, kehno, kelvoton." ;
 навсеф+A+Prc:навсеф Prc-f  "" ;
@@ -2086,7 +2086,7 @@ LEXICON A_mdf2x
 надендаф+A+Prc:надендаф Prc-f  "" ;
 надияфтф+A+Prc:надияфтф Prc-f  "" ;
 надобьянь+A:надобьянь A_IS_GEN  "rohto-" ;
-надёжафтома+A:надёжафтом%{АО%} A_PULA  "toivoton" ;
+надёжафтома+A:надёжафтом{АО} A_PULA  "toivoton" ;
 надёжнай+A:надёжнай A_KAL  "luotettava" ;
 наждачнай+A:наждачнай A_KAL  "smirgeli-" ;
 наживаф+A+Prc:наживаф Prc-f  "" ;
@@ -2096,7 +2096,7 @@ LEXICON A_mdf2x
 назёмондаф+A+Prc:назёмондаф Prc-f  "" ;
 назёму+A:назёму A_KELU  "lantainen" ;
 накладной+A:накладной A_KAL  "irto-" ;
-наксада+A:наксад%{АО%} A_PULA  "laho (puu)" ;
+наксада+A:наксад{АО} A_PULA  "laho (puu)" ;
 наксатф+A+Prc:наксатф Prc-f  "" ;
 налетьф+A+Prc:налетьф Prc-f  "" ;
 наличнай+A:наличнай A_KAL  "käteinen" ;
@@ -2105,15 +2105,15 @@ LEXICON A_mdf2x
 нальхкаф+A+Prc:нальхкаф Prc-f  "" ;
 наляна+A:наляна A_AVA  "märkä (suo)" ;
 намозу+A:намозу A_KELU  "moraalinen" ;
-намозфтома+A:намозфтом%{АО%} A_PULA  "moraaliton" ;
+намозфтома+A:намозфтом{АО} A_PULA  "moraaliton" ;
 нандомняшка+A:нандомняшка A_AVA  "padankokoinen" ;
-нанксфтома+A:нанксфтом%{АО%} A_PULA  "ilman lisuketta" ;
+нанксфтома+A:нанксфтом{АО} A_PULA  "ilman lisuketta" ;
 напотьф+A+Prc:напотьф Prc-f  "" ;
 нараф+A+Prc:нараф Prc-f  "" ;
 нарвазь+A+Prc:нарвазь Prc-zj  "" ;
 нарваф+A+Prc:нарваф Prc-f  "" ;
 нардаф+A+Prc:нардаф Prc-f  "" ;
-нарде+A:нардь%{ЕØ%} A_PINGE  "luja" ;
+нарде+A:нардь{ЕØ} A_PINGE  "luja" ;
 нарицательнай+A:нарицательнай A_KAL  "yleinen" ;
 наркологическяй+A:наркологическяй A_KAL  "narkologinen" ;
 нармонень+A:нармонень A_IS_GEN  "lintu-" ;
@@ -2131,7 +2131,7 @@ LEXICON A_mdf2x
 научнай+A:научнай A_KAL  "tieteellinen" ;
 нахальнай+A:нахальнай A_KAL  "hävytön" ;
 национальнай+A:национальнай A_KAL  "kansallinen" ;
-начка+A:начк%{АОØ%} A_PINGE  "märkä" ;
+начка+A:начк{АОØ} A_PINGE  "märkä" ;
 начказа+A:начказа A_AVA  "kostea" ;
 начконя+A:начконя A_AVA  "märkä" ;
 начфтф+A+Prc:начфтф Prc-f  "" ;
@@ -2177,7 +2177,7 @@ LEXICON A_mdf2x
 нолгады+A:нолгады A_ANDY  "laiska" ;
 нолгажа+A:нолгажа A_AVA  "liukas" ;
 нолгажу+A:нолгажу A_KELU  "liukas" ;
-нолготула+A:нолготул%{АО%} A_PULA  "räkänokka" ;
+нолготула+A:нолготул{АО} A_PULA  "räkänokka" ;
 нолгу+A:нолгу A_KELU  "räkäinen" ;
 нолдазь+A:нолдазь Prc-zj  "null" ;
 нолдаф+A+Prc:нолдаф Prc-f  "" ;
@@ -2200,7 +2200,7 @@ LEXICON A_mdf2x
 нувара+A:нувара A_AVA  "väsynyt" ;
 нулакстомф+A+Prc:нулакстомф Prc-f  "" ;
 нуланза+A:нуланза A_AVA  "tarmoton" ;
-нулга+A:нулг%{АОØ%} A_PINGE  "inhottava" ;
+нулга+A:нулг{АОØ} A_PINGE  "inhottava" ;
 нумолонь+A:нумолонь A_IS_GEN  "jänis-" ;
 нупонияф+A+Prc:нупонияф Prc-f  "" ;
 нупоню+A:нупоню A_KELU  "sammaleinen" ;
@@ -2250,7 +2250,7 @@ LEXICON A_mdf2x
 обыкновеннай+A:обыкновеннай A_KAL  "tavallinen" ;
 обычнай+A:обычнай A_KAL  "tavallinen" ;
 обязательнай+A:обязательнай A_KAL  "pakollinen" ;
-овзфтома+A:овзфтом%{АО%} A_PULA  "kuolaimeton" ;
+овзфтома+A:овзфтом{АО} A_PULA  "kuolaimeton" ;
 овкстаф+A+Prc:овкстаф Prc-f  "" ;
 овощань+A:овощань A_IS_GEN  "vihannes-" ;
 овощной+A:овощной A_KAL  "vihannes-" ;
@@ -2262,7 +2262,7 @@ LEXICON A_mdf2x
 одараф+A+Prc:одараф Prc-f  "" ;
 одонзаф+A+Prc:одонзаф Prc-f  "" ;
 ожалангонь+A:ожалангонь A_IS_GEN  "hihan" ;
-ожафтома+A:ожафтом%{АО%} A_PULA  "" ;
+ожафтома+A:ожафтом{АО} A_PULA  "" ;
 ожгалтф+A+Prc:ожгалтф Prc-f  "" ;
 ожгана+A:ожгана A_AVA  "" ;
 ожерготф+A+Prc:ожерготф Prc-f  "" ;
@@ -2283,7 +2283,7 @@ LEXICON A_mdf2x
 олимпийскяй+A:олимпийскяй A_KAL  "" ;
 ользя+A:ользя A_AVA  "" ;
 омара+A:омара A_AVA  "" ;
-омба+A:омб%{АО%} A_PULA  "1. muu" ;
+омба+A:омб{АО} A_PULA  "1. muu" ;
 омбоконь+A:омбоконь A_IS_GEN  "" ;
 омбонцне+A:омбонцне A_AVA  "" ;
 омбонь-крда+A:омбонь-кърда A_AVA  "" ;
@@ -2354,17 +2354,17 @@ LEXICON A_mdf2x
 оцюня+A:оцюня A_AVA  "johtaja" ;
 оцязоронь+A:оцязоронь A_IS_GEN  "" ;
 очижинь+A:очижинь A_IS_GEN  "" ;
-очкопеке+A:очкопек%{ЕОØ%} A_PINGE  "" ;
+очкопеке+A:очкопек{ЕОØ} A_PINGE  "" ;
 ошень+A:ошень A_IS_GEN  "" ;
 ошъётконь+A:ошъётконь A_IS_GEN  "" ;
 павада+A:павада A_  "" ;
 павазу+A:павазу A_KELU  "onnellinen" ;
-павазфтома+A:павазфтом%{АО%} A_PULA  "" ;
+павазфтома+A:павазфтом{АО} A_PULA  "" ;
 паватф+A+Prc:паватф Prc-f  "" ;
 падежнай+A:падежнай A_KAL  "" ;
 падепря+A:падепря A_AVA  "" ;
 пазочеф+A:пазочеф A_KAL  "" ;
-пазочифтома+A:пазочифтом%{АО%} A_PULA  "" ;
+пазочифтома+A:пазочифтом{АО} A_PULA  "" ;
 пайгонь+A:пайгонь A_IS_GEN  "" ;
 пайготьф+A+Prc:пайготьф Prc-f  "" ;
 паймош+A:паймош A_OSH  "" ;
@@ -2394,7 +2394,7 @@ LEXICON A_mdf2x
 панджемшка+A:панджемшка A_AVA  "" ;
 пандозь+A:пандозь Prc-zj  "null" ;
 панду+A:панду A_KELU  "mäkinen" ;
-панжада+A:панжад%{АО%} A_PULA  "avoin" ;
+панжада+A:панжад{АО} A_PULA  "avoin" ;
 панжадонь+A:панжадонь A_IS_GEN  "" ;
 панжи-панжи+A:панжи-панжи A_ANDY  "" ;
 панксу+A:панксу A_KELU  "paikattu" ;
@@ -2406,7 +2406,7 @@ LEXICON A_mdf2x
 панчфу+A:панчфу A_KELU  "1. kukikas" ;
 паньджяткя+A:паньджяткя A_VAL1MIA  "" ;
 паньтьф+A+Prc:паньтьф Prc-f  "" ;
-пара+A:пар%{АОØ%} A_PANGA  "hyvä" ;
+пара+A:пар{АОØ} A_PANGA  "hyvä" ;
 паранзаф+A+Prc:паранзаф Prc-f  "" ;
 паргана+A:паргана A_AVA  "pullea" ;
 паргопря+A:паргопря A_AVA  "" ;
@@ -2477,7 +2477,7 @@ LEXICON A_mdf2x
 петфтаф+A+Prc:петфтаф Prc-f  "" ;
 петьф+A+Prc:петьф Prc-f  "" ;
 петьфтаф+A+Prc:петьфтаф Prc-f  "" ;
-пефтома+A:пефтом%{АО%} A_PULA  "loputon" ;
+пефтома+A:пефтом{АО} A_PULA  "loputon" ;
 пехотни+A:пехотни A_ANDY  "" ;
 печатлаф+A+Prc:печатлаф Prc-f  "" ;
 печатнай+A:печатнай A_KAL  "" ;
@@ -2519,7 +2519,7 @@ LEXICON A_mdf2x
 пирьфонь+A:пирьфонь A_IS_GEN  "aidallinen" ;
 письменнай+A:письменнай A_KAL  "" ;
 питательнай+A:питательнай A_KAL  "" ;
-питнефтома+A:питнефтом%{АО%} A_PULA  "ilmainen" ;
+питнефтома+A:питнефтом{АО} A_PULA  "ilmainen" ;
 питни+A:питни A_ANDY  "kallis" ;
 пиф+A:пиф Prc-f  "(uunissa) paistettu." ;
 пичеди+A:пичеди A_ANDY  "" ;
@@ -2585,7 +2585,7 @@ LEXICON A_mdf2x
 полгана+A:полгана A_AVA  "kupera" ;
 полгарь+A:полгарь A_KIAL1  "" ;
 полгокш+A:полгокш A_OSH  "" ;
-полдасельме+A:полда#сельм%{ЕО%} A_SEL1ME  "" ;
+полдасельме+A:полда#сельм{ЕО} A_SEL1ME  "" ;
 полезнай+A:полезнай A_KAL  "" ;
 политехническяй+A:политехническяй A_KAL  "" ;
 политическяй+A:политическяй A_KAL  "" ;
@@ -2615,7 +2615,7 @@ LEXICON A_mdf2x
 пондаф+A+Prc:пондаф Prc-f  "" ;
 понду+A:понду A_KELU  "lihava" ;
 понжелготф+A+Prc:понжелготф Prc-f  "" ;
-понкстома+A:понкстом%{АО%} A_PULA  "" ;
+понкстома+A:понкстом{АО} A_PULA  "" ;
 попонь+A:попонь A_IS_GEN  "" ;
 порентьф+A+Prc:порентьф Prc-f  "" ;
 порлок+A:порлок A_KAL  "" ;
@@ -2626,9 +2626,9 @@ LEXICON A_mdf2x
 поселковай+A:поселковай A_KAL  "" ;
 постнай+A:постнай A_KAL  "" ;
 поткаваф+A+Prc:поткаваф Prc-f  "" ;
-потма+A:потм%{АО%} A_PULA  "" ;
+потма+A:потм{АО} A_PULA  "" ;
 потмажа+A:потмажа A_AVA  "" ;
-потмаксфтома+A:потмаксфтом%{АО%} A_PULA  "pohjaton" ;
+потмаксфтома+A:потмаксфтом{АО} A_PULA  "pohjaton" ;
 потмара+A:потмара A_AVA  "" ;
 потмарготф+A+Prc:потмарготф Prc-f  "" ;
 потьнеф+A+Prc:потьнеф Prc-f  "" ;
@@ -2740,7 +2740,7 @@ LEXICON A_mdf2x
 прьхчещандаф+A+Prc+Use/SpellNoSugg:пърьхчещандаф Prc-f  "" ;
 пряви+A:пряви A_ANDY  "älykäs" ;
 прястальнай+A:прястальнай A_KAL  "" ;
-пряфтома+A:пряфтом%{АО%} A_PULA  "" ;
+пряфтома+A:пряфтом{АО} A_PULA  "" ;
 пси+A:пси A_ANDY  "kuuma" ;
 псилготф+A+Prc:псилготф Prc-f  "" ;
 пскафкшу+A:пъскафкшу A_KELU  "" ;
@@ -2771,7 +2771,7 @@ LEXICON A_mdf2x
 пулияф+A+Prc:пулияф Prc-f  "" ;
 пулкштатьф+A+Prc:пулкштатьф Prc-f  "" ;
 пулотф+A+Prc:пулотф Prc-f  "" ;
-пулофтома+A:пулофтом%{АО%} A_PULA  "hännätön" ;
+пулофтома+A:пулофтом{АО} A_PULA  "hännätön" ;
 пулукшу+A:пулукшу A_KELU  "" ;
 пульгала+A:пульгала A_AVA  "" ;
 пульзяф+A+Prc:пульзяф Prc-f  "" ;
@@ -2782,7 +2782,7 @@ LEXICON A_mdf2x
 пункснефтф+A+Prc:пункснефтф Prc-f  "" ;
 пункстаф+A+Prc:пункстаф Prc-f  "" ;
 пунтятьф+A+Prc:пунтятьф Prc-f  "" ;
-пуняшалхка+A:пуня#шалхк%{АОØ%} A_OFTA  "" ;
+пуняшалхка+A:пуня#шалхк{АОØ} A_OFTA  "" ;
 пупаманяв+A:пупаманяв A_KAL  "" ;
 пупаф+A+Prc:пупаф Prc-f  "" ;
 пуполдаф+A+Prc:пуполдаф Prc-f  "" ;
@@ -2835,13 +2835,13 @@ LEXICON A_mdf2x
 пшкяди+A:пъшкяди A_ANDY  "" ;
 пякснеф+A+Prc:пякснеф Prc-f  "" ;
 пякстаф+A:пякстаф Prc-f  "null" ;
-пялевайме+A:пяле#вайм%{ЕО%} A_SEL1ME  "" ;
+пялевайме+A:пяле#вайм{ЕО} A_SEL1ME  "" ;
 пялекяль+A:пялекяль A_KIAL1  "" ;
 пялеломань+A:пялеломань A_IS_GEN  "" ;
 пялентьф+A+Prc:пялентьф Prc-f  "" ;
 пялептьф+A+Prc:пялептьф Prc-f  "" ;
 пяльнеф+A+Prc:пяльнеф Prc-f  "" ;
-пяльсельме+A:пяль#сельм%{ЕО%} A_SEL1ME  "" ;
+пяльсельме+A:пяль#сельм{ЕО} A_SEL1ME  "" ;
 пяльтьф+A:пяльтьф A_KAL  "" ;
 пяльф+A+Prc:пяльф Prc-f  "" ;
 пяляз+A:пяляз A_OSH  "mieletön" ;
@@ -2866,7 +2866,7 @@ LEXICON A_mdf2x
 пяшкеташ+A:пяшкеташ A_OSH  "" ;
 пяшкотьф+A+Prc:пяшкотьф Prc-f  "" ;
 пяшксе+A:пяшксе A_AVA  "täynnä" ;
-пяшксса+A:пяшксс%{АО%} A_PULA  "" ;
+пяшксса+A:пяшксс{АО} A_PULA  "" ;
 пяштень+A:пяштень A_IS_GEN  "" ;
 пяяртьф+A+Prc:пяяртьф Prc-f  "" ;
 пяярьф+A+Prc:пяярьф Prc-f  "" ;
@@ -2874,7 +2874,7 @@ LEXICON A_mdf2x
 работящей+A:работящей A_KAL  "" ;
 рабочай+A:рабочай A_KAL  "työ-" ;
 рабскяй+A:рабскяй A_KAL  "" ;
-равжа+A:равж%{АЕØ%} A_MOKSHA  "musta" ;
+равжа+A:равж{АЕØ} A_MOKSHA  "musta" ;
 равнай+A:равнай A_KAL  "" ;
 равноправнай+A:равноправнай A_KAL  "" ;
 равчкотф+A+Prc:равчкотф Prc-f  "" ;
@@ -3025,7 +3025,7 @@ LEXICON A_mdf2x
 салаф+A+Prc:салаф Prc-f  "" ;
 салмоксу+A:салмоксу A_KELU  "neulamainen" ;
 салу+A:салу A_KELU  "suolainen" ;
-салфтома+A:салфтом%{АО%} A_PULA  "suolaton" ;
+салфтома+A:салфтом{АО} A_PULA  "suolaton" ;
 салыяфтф+A+Prc:салыяфтф Prc-f  "" ;
 самогоннай+A:самогоннай A_KAL  "" ;
 самокритичнай+A:самокритичнай A_KAL  "" ;
@@ -3089,7 +3089,7 @@ LEXICON A_mdf2x
 седиваксонь+A:седиваксонь A_IS_GEN  "sydämenläheinen" ;
 седиваксстонь+A:седиваксстонь A_IS_GEN  "" ;
 сединь-ваймонь+A:сединь-ваймонь A_IS_GEN  "" ;
-седифтома+A:седифтом%{АО%} A_PULA  "sydämetön" ;
+седифтома+A:седифтом{АО} A_PULA  "sydämetön" ;
 седишкавань+A:седишкавань A_IS_GEN  "" ;
 седой+A:седой A_KAL  "" ;
 седойготф+A+Prc:седойготф Prc-f  "" ;
@@ -3103,7 +3103,7 @@ LEXICON A_mdf2x
 секционнай+A:секционнай A_KAL  "" ;
 селекционнай+A:селекционнай A_KAL  "" ;
 сельгу+A:сельгу A_KELU  "sylkinen" ;
-сельмофтома+A:сельмофтом%{АО%} A_PULA  "" ;
+сельмофтома+A:сельмофтом{АО} A_PULA  "" ;
 сельскохозяйственнай+A:сельскохозяйственнай A_KAL  "" ;
 семантическяй+A:семантическяй A_KAL  "" ;
 семейнай+A:семейнай A_KAL  "" ;
@@ -3138,7 +3138,7 @@ LEXICON A_mdf2x
 серьмагонь+A:серьмагонь A_IS_GEN  "" ;
 серьёзнай+A:серьёзнай A_KAL  "" ;
 сетень+A:сетень A_IS_GEN  "nirso" ;
-сетьме+A:сетьм%{ЕО%} A_SEL1ME  "hiljainen" ;
+сетьме+A:сетьм{ЕО} A_SEL1ME  "hiljainen" ;
 сибирскяй+A:сибирскяй A_KAL  "" ;
 сивай+A:сивай A_KAL  "" ;
 сиволень+A:сиволень A_IS_GEN  "" ;
@@ -3280,7 +3280,7 @@ LEXICON A_mdf2x
 совестливай+A:совестливай A_KAL  "" ;
 советскяй+A:советскяй A_KAL  "" ;
 совещательнай+A:совещательнай A_KAL  "" ;
-совозьфтома+A:совозьфтом%{АО%} A_PULA  "" ;
+совозьфтома+A:совозьфтом{АО} A_PULA  "" ;
 современнай+A:современнай A_KAL  "" ;
 совхознай+A:совхознай A_KAL  "" ;
 согласнай+A:согласнай A_KAL  "1. samaa mieltä oleva." ;
@@ -3395,7 +3395,7 @@ LEXICON A_mdf2x
 сталень+A+Use/SpellNoSugg:съталень A_IS_GEN  "" ;
 стальной+A:стальной A_KAL  "" ;
 стальной+A+Use/SpellNoSugg:сътальной A_KAL  "" ;
-стама+A:стам%{АОØ%} A_PINGE  "sellainen" ;
+стама+A:стам{АОØ} A_PINGE  "sellainen" ;
 стамка+A:стамка A_AVA  "sellainen" ;
 стандартнай+A:стандартнай A_KAL  "" ;
 стандартнай+A+Use/SpellNoSugg:сътандартнай A_KAL  "" ;
@@ -3543,7 +3543,7 @@ LEXICON A_mdf2x
 сумбра+A:сумбра A_AVA  "" ;
 супонашка+A:супонашка A_AVA  "" ;
 сураду+A:сураду A_KELU  "" ;
-сурадфтома+A:сурадфтом%{АО%} A_PULA  "" ;
+сурадфтома+A:сурадфтом{АО} A_PULA  "" ;
 суразнай+A:суразнай A_KAL  "" ;
 сурака+A:сурака A_AVA  "" ;
 сурду-сарду+A:сурду-сарду A_KELU  "" ;
@@ -3680,7 +3680,7 @@ LEXICON A_mdf2x
 танцевальнай+A:танцевальнай A_KAL  "" ;
 танцтелготф+A:танцтелготф Prc-f  "null" ;
 танцти+A:танцти A_ANDY  "makea" ;
-таньфтома+A:таньфтом%{АО%} A_PULA  "mauton" ;
+таньфтома+A:таньфтом{АО} A_PULA  "mauton" ;
 тапаксаф+A:тапаксаф Prc-f  "null" ;
 тапардаф+A:тапардаф Prc-f  "null" ;
 тапарязь+A:тапарязь Prc-zj  "null" ;
@@ -3715,7 +3715,7 @@ LEXICON A_mdf2x
 тастойнай+A:тастойнай A_KAL  "" ;
 татаронь+A:татаронь A_IS_GEN  "" ;
 таусендаф+A:таусендаф Prc-f  "null" ;
-ташта+A:ташт%{АОØ%} A_PINGE  "vanha" ;
+ташта+A:ташт{АОØ} A_PINGE  "vanha" ;
 таштомф+A:таштомф Prc-f  "null" ;
 таштоня+A:таштоня A_AVA  "" ;
 таштоптфт+A:таштоптфт PrcTag  "null" ;
@@ -3809,7 +3809,7 @@ LEXICON A_mdf2x
 толгаяф+A:толгаяф Prc-f  "null" ;
 толкаваф+A:толкаваф Prc-f  "null" ;
 толковай+A:толковай A_KAL  "älykäs" ;
-толкфтома+A:толкфтом%{АО%} A_PULA  "" ;
+толкфтома+A:толкфтом{АО} A_PULA  "" ;
 толнарфонь+A:толнарфонь A_IS_GEN  "" ;
 толомф+A:толомф Prc-f  "null" ;
 толонзаф+A:толонзаф Prc-f  "null" ;
@@ -3834,7 +3834,7 @@ LEXICON A_mdf2x
 топаза+A:топаза A_AVA  "" ;
 топана+A:топана A_AVA  "" ;
 топаскя+A:топаскя A_VAL1MIA  "" ;
-топафксфтома+A:топафксфтом%{АО%} A_PULA  "kyltymätön" ;
+топафксфтома+A:топафксфтом{АО} A_PULA  "kyltymätön" ;
 топафтф+A:топафтф Prc-f  "null" ;
 топафты+A:топафты A_ANDY  "" ;
 топографическяй+A:топографическяй A_KAL  "" ;
@@ -3952,7 +3952,7 @@ LEXICON A_mdf2x
 туристскяй+A:туристскяй A_KAL  "" ;
 туротф+A:туротф Prc-f  "null" ;
 турта+A:турта A_  "" ;
-туста+A:туст%{АОØ%} A_PINGE  "tiheä" ;
+туста+A:туст{АОØ} A_PINGE  "tiheä" ;
 тустолготф+A:тустолготф Prc-f  "null" ;
 тустомф+A:тустомф A_KAL  "" ;
 тустоптф+A:тустоптф Prc-f  "null" ;
@@ -3967,7 +3967,7 @@ LEXICON A_mdf2x
 туф+A:туф Prc-f  "mennyt." ;
 туцяв+A:туцяв A_KAL  "pilvinen" ;
 туцялготф+A:туцялготф Prc-f  "null" ;
-туцяфтома+A:туцяфтом%{АО%} A_PULA  "" ;
+туцяфтома+A:туцяфтом{АО} A_PULA  "" ;
 тушентф+A:тушентф Prc-f  "null" ;
 тыквань+A:тыквань A_IS_GEN  "" ;
 тыловой+A:тыловой A_KAL  "" ;
@@ -3982,7 +3982,7 @@ LEXICON A_mdf2x
 тюп+A:тюп A_KAL  "" ;
 тюремнай+A:тюремнай A_KAL  "" ;
 тюрьфтиня+A:тюрьфтиня PrcTag  "null" ;
-тюсфтома+A:тюсфтом%{АО%} A_PULA  "" ;
+тюсфтома+A:тюсфтом{АО} A_PULA  "" ;
 тюштянь+A:тюштянь A_IS_GEN  "" ;
 тяддень+A:тяддень A_IS_GEN  "" ;
 тяддецення+A:тяддецення A_AVA  "" ;
@@ -3991,7 +3991,7 @@ LEXICON A_mdf2x
 тядянь+A:тядянь A_IS_GEN  "" ;
 тядянь-авань+A:тядянь-авань A_IS_GEN  "" ;
 тядянь-алянь+A:тядянь-алянь A_IS_GEN  "" ;
-тядяфтома-аляфтома+A:тядяфтома-аляфтом%{АО%} A_PULA  "" ;
+тядяфтома-аляфтома+A:тядяфтома-аляфтом{АО} A_PULA  "" ;
 тяентьф+A:тяентьф Prc-f  "null" ;
 тязконь+A:тязконь A_IS_GEN  "" ;
 тяйнешты+A:тяйнешты A_ANDY  "" ;
@@ -4015,12 +4015,12 @@ LEXICON A_mdf2x
 тярьготьф+A:тярьготьф A_KAL  "" ;
 тярянь+A:тярянь A_IS_GEN  "" ;
 тярянь-алянь+A:тярянь-алянь A_IS_GEN  "" ;
-тяряфтома-аляфтома+A:тяряфтома-аляфтом%{АО%} A_PULA  "" ;
+тяряфтома-аляфтома+A:тяряфтома-аляфтом{АО} A_PULA  "" ;
 тястоконь+A:тястоконь A_IS_GEN  "täkäläinen" ;
 тястонне+A:тястонне A_  "" ;
 тястонь+A:тястонь A_IS_GEN  "" ;
 тятярьготф+A:тятярьготф Prc-f  "null" ;
-тяфтама+A:тяфтам%{АОØ%} A_PANGA  "tällainen, sellainen" ;
+тяфтама+A:тяфтам{АОØ} A_PANGA  "tällainen, sellainen" ;
 тяфтамка+A:тяфтамка A_AVA  "" ;
 тячиень+A:тячиень A_IS_GEN  "" ;
 тяшканя+A:тяшканя A_AVA  "" ;
@@ -4052,7 +4052,7 @@ LEXICON A_mdf2x
 угарна+A:угарна A_AVA  "" ;
 углекислай+A:углекислай A_KAL  "" ;
 уголовнай+A:уголовнай A_KAL  "" ;
-уголфтома+A:уголфтом%{АО%} A_PULA  "" ;
+уголфтома+A:уголфтом{АО} A_PULA  "" ;
 угольнай+A:угольнай A_KAL  "" ;
 удавой+A:удавой A_KAL  "leski" ;
 удалаф+A:удалаф Prc-f  "null" ;
@@ -4126,11 +4126,11 @@ LEXICON A_mdf2x
 урядаф+A:урядаф Prc-f  "null" ;
 уряднай+A:уряднай A_KAL  "järjestyksessä oleva" ;
 усав+A:усав A_KAL  "viiksekäs" ;
-усафтома+A:усафтом%{АО%} A_PULA  "" ;
+усафтома+A:усафтом{АО} A_PULA  "" ;
 усксеф+A:усксеф Prc-f  "null" ;
 ускф+A:ускф Prc-f  "null" ;
 усолу+A:усолу A_KELU  "" ;
-усолфтома+A:усолфтом%{АО%} A_PULA  "" ;
+усолфтома+A:усолфтом{АО} A_PULA  "" ;
 уставаф+A:уставаф Prc-f  "null" ;
 уставнай+A:уставнай A_KAL  "" ;
 устнай+A:устнай A_KAL  "" ;
@@ -4251,7 +4251,7 @@ LEXICON A_mdf2x
 фронтонь+A:фронтонь A_IS_GEN  "" ;
 фруктань+A:фруктань A_IS_GEN  "" ;
 фруктовай+A:фруктовай A_KAL  "" ;
-фтала+A:фтал%{АО%} A_PULA  "" ;
+фтала+A:фтал{АО} A_PULA  "" ;
 фталпяльдень+A:фталпяльдень A_IS_GEN  "" ;
 фталпяльдень+A+Use/SpellNoSugg:фъталпяльдень A_IS_GEN  "" ;
 фталце+A:фталце A_AVA  "" ;
@@ -4352,7 +4352,7 @@ LEXICON A_mdf2x
 цюцелондаф+A:цюцелондаф Prc-f  "null" ;
 цякан+A:цякан A_KAL  "" ;
 цякана+A:цякана A_AVA  "" ;
-цялхка+A:цялхк%{АОØ%} A_PINGE  "" ;
+цялхка+A:цялхк{АОØ} A_PINGE  "" ;
 цяпаф+A:цяпаф Prc-f  "null" ;
 цяпотьф+A:цяпотьф Prc-f  "null" ;
 цяпсеф+A:цяпсеф Prc-f  "null" ;
@@ -4424,11 +4424,11 @@ LEXICON A_mdf2x
 чётнай+A:чётнай A_KAL  "" ;
 чёфксонь+A:чёфксонь A_IS_GEN  "" ;
 чёшнай+A:чёшнай A_KAL  "" ;
-шабафтома+A:шабафтом%{АО%} A_PULA  "" ;
+шабафтома+A:шабафтом{АО} A_PULA  "" ;
 шабаяф+A:шабаяф Prc-f  "null" ;
 шаблоннай+A:шаблоннай A_KAL  "" ;
 шабрань+A:шабрань A_IS_GEN  "" ;
-шава+A:шав%{АО%} A_PULA  "tyhjä" ;
+шава+A:шав{АО} A_PULA  "tyhjä" ;
 шавлаку+A:шавлаку A_KELU  "" ;
 шавоня+A:шавоня A_AVA  "" ;
 шавф+A:шавф Prc-f  "null" ;
@@ -4441,7 +4441,7 @@ LEXICON A_mdf2x
 шалаф-калаф+A:шалаф-калаф A_KAL  "" ;
 шалевай+A:шалевай A_KAL  "" ;
 шалопутнай+A:шалопутнай A_KAL  "" ;
-шалхкфтома+A:шалхкфтом%{АО%} A_PULA  "" ;
+шалхкфтома+A:шалхкфтом{АО} A_PULA  "" ;
 шальной+A:шальной A_KAL  "" ;
 шамастонь+A:шамастонь A_IS_GEN  "" ;
 шамор+A:шамор A_KAL  "rampa" ;
@@ -4450,7 +4450,7 @@ LEXICON A_mdf2x
 шанжу+A:шанжу A_KELU  "" ;
 шаннай+A:шаннай A_KAL  "" ;
 шапаксу+A:шапаксу A_KELU  "" ;
-шапама+A:шапам%{АОØ%} A_PINGE  "hapan" ;
+шапама+A:шапам{АОØ} A_PINGE  "hapan" ;
 шапамаза+A:шапамаза A_AVA  "hapahko" ;
 шапамнек-ламбамнек+A:шапамнек-ламбамнек A_KAL  "" ;
 шапафтф+A:шапафтф Prc-f  "null" ;
@@ -4552,12 +4552,12 @@ LEXICON A_mdf2x
 шралангонь+A:шралангонь A_IS_GEN  "pöydällä oleva" ;
 шрапнельнай+A:шрапнельнай A_KAL  "" ;
 штабонь+A:штабонь A_IS_GEN  "" ;
-штада+A:штад%{АО%} A_PULA  "" ;
+штада+A:штад{АО} A_PULA  "" ;
 штадонь+A:штадонь A_IS_GEN  "" ;
 штадоня+A:штадоня A_AVA  "" ;
 штамповандаф+A:штамповандаф Prc-f  "null" ;
 штань+A:штань A_IS_GEN  "" ;
-штапа+A:штап%{АО%} A_PULA  "" ;
+штапа+A:штап{АО} A_PULA  "" ;
 штатнай+A:штатнай A_KAL  "" ;
 штатскяй+A:штатскяй A_KAL  "" ;
 штаф+A:штаф Prc-f  "null" ;
@@ -4597,12 +4597,12 @@ LEXICON A_mdf2x
 шумбара+A:шумбара A_AVA  "" ;
 шумбра+A:шумбра A_AVA  "terve" ;
 шумнай+A:шумнай A_KAL  "" ;
-шумода+A:шумод%{АО%} A_PULA  "laina-" ;
+шумода+A:шумод{АО} A_PULA  "laina-" ;
 шумордаф+A:шумордаф Prc-f  "null" ;
 шуму+A:шуму A_KELU  "1. velkainen." ;
 шунготьф+A:шунготьф Prc-f  "null" ;
 шупф+A:шупф Prc-f  "null" ;
-шура+A:шур%{АО%} A_PULA  "harvinainen" ;
+шура+A:шур{АО} A_PULA  "harvinainen" ;
 шуразлаф+A:шуразлаф Prc-f  "null" ;
 шуроня+A:шуроня A_AVA  "harvanlainen" ;
 шуроптф+A:шуроптф Prc-f  "null" ;
@@ -4628,7 +4628,7 @@ LEXICON A_mdf2x
 шятьф+A:шятьф Prc-f  "null" ;
 шятьф-плхтаф+A:шятьф-плхтаф Prc-f  "null" ;
 шятьф-плхтаф+A+Use/SpellNoSugg:шятьф-пълхтаф Prc-f  "null" ;
-шяфте+A:шяфт%{ЕОØ%} A_PINGE  "" ;
+шяфте+A:шяфт{ЕОØ} A_PINGE  "" ;
 шяфтеня+A:шяфтеня A_AVA  "" ;
 шяфтя+A:шяфтя A_  "" ;
 шяярю+A:шяярю A_KELU  "tuuheatukkainen" ;
@@ -4731,7 +4731,7 @@ LEXICON A_mdf2x
 эцеф+A:эцеф Prc-f  "null" ;
 эчказа+A:эчказа A_AVA  "" ;
 эчканя+A:эчканя A_AVA  "" ;
-эчке+A:эчк%{ЕОØ%} A_PINGE  "paksu" ;
+эчке+A:эчк{ЕОØ} A_PINGE  "paksu" ;
 эчколготф+A:эчколготф Prc-f  "null" ;
 эчколгофтф+A:эчколгофтф Prc-f  "null" ;
 эчколма+A:эчколма A_AVA  "" ;
@@ -4759,7 +4759,7 @@ LEXICON A_mdf2x
 юридическяй+A:юридическяй A_KAL  "" ;
 юрка+A:юрка A_AVA  "" ;
 юркай+A:юркай A_KAL  "" ;
-юромфтома+A:юромфтом%{АО%} A_PULA  "" ;
+юромфтома+A:юромфтом{АО} A_PULA  "" ;
 юронзаф+A:юронзаф Prc-f  "null" ;
 юронь+A:юронь A_IS_GEN  "" ;
 юру+A:юру A_KELU  "juureva" ;
@@ -4801,7 +4801,7 @@ LEXICON A_mdf2x
 ярмакияф+A:ярмакияф Prc-f  "null" ;
 ярмаконь+A:ярмаконь A_IS_GEN  "" ;
 ярмаку+A:ярмаку A_KELU  "rahakas" ;
-ярмакфтома+A:ярмакфтом%{АО%} A_PULA  "rahaton" ;
+ярмакфтома+A:ярмакфтом{АО} A_PULA  "rahaton" ;
 яровой+A:яровой A_KAL  "" ;
 ярхцаф+A:ярхцаф Prc-f  "null" ;
 яснай+A:яснай A_KAL  "" ;
@@ -4810,7 +4810,7 @@ LEXICON A_mdf2x
 яфчаф+A:яфчаф Prc-f  "null" ;
 яхярь+A:яхярь A_KIAL1  "" ;
 яштерь+A:яштерь A_KIAL1  "" ;
-ёжефтома+A:ёжефтом%{АО%} A_PULA  "" ;
+ёжефтома+A:ёжефтом{АО} A_PULA  "" ;
 ёжу+A:ёжу A_KELU  "viekas" ;
 ёколды+A:ёколды A_ANDY  "" ;
 ёлаж+A:ёлаж A_OSH  "lempeä" ;
@@ -4829,12 +4829,12 @@ LEXICON A_mdf2x
 ёмла+v3+A+Err/Orth:ёлма A_AVA  "pieni" ;
 ёмланя+A:ёмланя A_AVA  "pikkarainen" ;
 ён+A:ён A_KAL  "" ;
-ёньфтома+A:ёньфтом%{АО%} A_PULA  "tyhmä" ;
+ёньфтома+A:ёньфтом{АО} A_PULA  "tyhmä" ;
 ёню+A:ёню A_KELU  "älykäs" ;
 ёрдань+A:ёрдань A_IS_GEN  "" ;
 ёрдаф+A:ёрдаф Prc-f  "heitetty" ;
 ёрок+A:ёрок A_KAL  "" ;
-ёрокфтома+A:ёрокфтом%{АО%} A_PULA  "" ;
+ёрокфтома+A:ёрокфтом{АО} A_PULA  "" ;
 ёронь+A:ёронь A_IS_GEN  "" ;
 ёрток+A:ёрток A_KAL  "" ;
 ёру+A:ёру A_KELU  "" ;

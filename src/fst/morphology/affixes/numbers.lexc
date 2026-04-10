@@ -12,7 +12,7 @@ LEXICON NUMERAL-TYPES
 фкя+Num+Der+Der/Iter+Adv+Iter:весть ENDLEX ;
 фкя+Num:фи NUMERALS-FOR-COLL ;
 
-кафта+Num+Card:кафт%{АОØ%} N_OFTA ;
+кафта+Num+Card:кафт{АОØ} N_OFTA ;
 кафта+Num:омбо NUMERALS-TO-ORD ;
 кафта+Num:каф NUMERALS-TO-ITER ;
 кафта+Num:кафо NUMERALS-FOR-ASSOCCOLL ;
@@ -22,28 +22,28 @@ LEXICON NUMERAL-TYPES
 кафта+Num+Coll+Sg+Dat:кафцьконди K ;
 кафта+Num+Der+Der/Ord+A+Ord:омбо NUMERALS-FOR-COLL ;
 
-кафцьке+Num:кафцьк%{ЕО%} NUM_COLL_CJKE ;
-колмицьке+Num:колмицьк%{ЕО%} NUM_COLL_CJKE ;
-нилицьке+Num:нилицьк%{ЕО%} NUM_COLL_CJKE ;
+кафцьке+Num:кафцьк{ЕО} NUM_COLL_CJKE ;
+колмицьке+Num:колмицьк{ЕО} NUM_COLL_CJKE ;
+нилицьке+Num:нилицьк{ЕО} NUM_COLL_CJKE ;
 
 
-колма+Num:колм%{АО%} NUMERALS-3-AND-UP-PULA ;
+колма+Num:колм{АО} NUMERALS-3-AND-UP-PULA ;
 
 ниле+Num:ниле NUMERALS-3-AND-UP-PINE ;
 вете+Num:вете NUMERALS-3-AND-UP-PINE ;
-кота+Num:кот%{АО%} NUMERALS-3-AND-UP-PULA ;
+кота+Num:кот{АО} NUMERALS-3-AND-UP-PULA ;
 сисем+Num:сисем NUMERALS-3-AND-UP-KIAL1 ;
-кафкса+Num:кафкс%{АО%} NUMERALS-3-AND-UP-PULA ;
-вейхкса+Num:вейхкс%{АО%} NUMERALS-3-AND-UP-PULA ;
+кафкса+Num:кафкс{АО} NUMERALS-3-AND-UP-PULA ;
+вейхкса+Num:вейхкс{АО} NUMERALS-3-AND-UP-PULA ;
 кемонь+Num:кемонь NUMERALS-3-AND-UP-KIAL1 ;
 кефкие+Num:кефкие  NUMERALS-3-AND-UP-PINE ;
-кемгафтува+Num:кемгафтув%{АО%} NUMERALS-3-AND-UP-PULA ;
-кемголмува+Num:кемголмув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемгафтува+Num:кемгафтув{АО} NUMERALS-3-AND-UP-PULA ;
+кемголмува+Num:кемголмув{АО} NUMERALS-3-AND-UP-PULA ;
 кемнилие+Num:кемнилие  NUMERALS-3-AND-UP-PINE ;
 кеветие+Num:кеветие  NUMERALS-3-AND-UP-PINE ;
-кемготува+Num:кемготув%{АО%} NUMERALS-3-AND-UP-PULA ;
-кемзисемге+Num:кемзисемг%{ЕО%} NUMERALS-3-AND-UP-SEL1ME ;
-кемгафксува+Num:кемгафксув%{АО%} NUMERALS-3-AND-UP-PULA ;
+кемготува+Num:кемготув{АО} NUMERALS-3-AND-UP-PULA ;
+кемзисемге+Num:кемзисемг{ЕО} NUMERALS-3-AND-UP-SEL1ME ;
+кемгафксува+Num:кемгафксув{АО} NUMERALS-3-AND-UP-PULA ;
 кевейхсые+Num:кевейхсые  NUMERALS-3-AND-UP-PINE ;
 комсь+v1+Num:комсь NUMERALS-3-AND-UP-OSH ;
 комсь+v2+Num:комозь NUMERALS-3-AND-UP-OSH ;
@@ -91,16 +91,16 @@ LEXICON NUMERALS-FOR-ASSOCCOLL
 +AssocColl+PxPl3:%>нест ENDLEX ;
 
 LEXICON NUMERALS-FOR-COLL
-+Coll+Sg+Nom:%>%{ЕОØ%}нст ENDLEX ;
-+Coll+Sg+Nom:%>%{ЕОØ%}цьке ENDLEX ;
-+Coll+Sg+Gen:%>%{ЕОØ%}цьконь K ;
-+Coll+Sg+Dat:%>%{ЕОØ%}цьконди K ;
++Coll+Sg+Nom:%>{ЕОØ}нст ENDLEX ;
++Coll+Sg+Nom:%>{ЕОØ}цьке ENDLEX ;
++Coll+Sg+Gen:%>{ЕОØ}цьконь K ;
++Coll+Sg+Dat:%>{ЕОØ}цьконди K ;
 
-LEXICON NUM_COLL_CJKE !!кафцьке+Num:кафцьк%{ЕО%}
+LEXICON NUM_COLL_CJKE !!кафцьке+Num:кафцьк{ЕО}
 !+Coll: NMN_SEL1ME ; !universal
 +Coll+Sg+Nom: ENDLEX ;
-+Coll+Sg+Gen:%>%{ЕОØ%}нь K ;
-+Coll+Sg+Dat:%>%{ЕОØ%}нди K ;
++Coll+Sg+Gen:%>{ЕОØ}нь K ;
++Coll+Sg+Dat:%>{ЕОØ}нди K ;
 
 
 LEXICON NUMERALS-TO-ITER

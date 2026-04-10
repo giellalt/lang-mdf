@@ -134,9 +134,9 @@ LEXICON EXCEPTIONS
 алула+Adv:алула ADV-INDEF-LOC_ ;
 алулда+Adv:алулда ADV-INDEF-ABL_ ;
 алулце+A:алулце A_AVA ;
-маласта+Adv:маласт%{АО%} ADV_ELA ;
+маласта+Adv:маласт{АО} ADV_ELA ;
 ушетксстокиге+Adv:ушетксстокиге ENDLEX ;
-эрьда+V+Imprt+ScPl2:эрьд%{АО%} K ;
+эрьда+V+Imprt+ScPl2:эрьд{АО} K ;
 всегда+Adv:всегда ADV_ ;
 плотнаста+Adv:плотнаста ADV_ ;
 интересна+Adv:интересна ADV_ ;
@@ -260,7 +260,7 @@ LEXICON EXCEPTIONS
 нижняй+A:нижняй A_PEJ ;
 пеетькс+N:пеетькс N_OSH ;
 брат+N+Sg+Voc:браткяй # ;
-омбокса+Adv:омбокс%{АО%} ADV_INE ;
+омбокса+Adv:омбокс{АО} ADV_INE ;
 фкя-кафта+Num:фкя-кафта NUM_ ;
 книжной+A:книжной A_PEJ ;
 равжаза+A:равжаза A_AVA ;
@@ -276,7 +276,7 @@ LEXICON EXCEPTIONS
 шоссе+N:шоссе N_AVA ;
 тячи+N:тячи N_AVA ;
 ансамбль+N:ансамбль N_KAL ;
-кудъёткса+Adv:кудъёткс%{АО%} ADV_INE ;
+кудъёткса+Adv:кудъёткс{АО} ADV_INE ;
 фкяняньбес+Adv:фкяняньбес ADV_ ;
 шинь-шишка+Adv:шинь-шишка ADV_ ;
 булгар+N:булгар N_KAL ;
@@ -381,7 +381,7 @@ LEXICON EXCEPTIONS
 о-о+Interj:о-о INTERJ_ ;
 а-а+Interj:а-а INTERJ_ ;
 квалманя+Po:квалманя PO_ ;
-видьге+Po:видьг%{АЕ%} PO-PRL_MEL1GE ;
+видьге+Po:видьг{АЕ} PO-PRL_MEL1GE ;
 хотя+CS:хотя # ;
 ато+CC:ато # ;
 кли+Adv:кли # ;
@@ -402,8 +402,8 @@ LEXICON EXCEPTIONS
 шурода-весть+Adv:шурода-весть ADV_TEMP ;
 Мзярцеда+Adv:Мзярцеда ADV_TEMP ;
 цютькяня+Adv:цютькяня ADV_ ;
-ки+N+SP+Prl+PxSg3:киганз%{АО%} K ;
-класс+N+SP+Ine+Indef:класс%{АО%} K ;
+ки+N+SP+Prl+PxSg3:киганз{АО} K ;
+класс+N+SP+Ine+Indef:класс{АО} K ;
 класс+N+Sg+Nom+Def:классь K ;!3с>2с
 озадонь+A:озадонь A_IS_GEN ;
 эстонь+A:эстонь A_IS_GEN ;

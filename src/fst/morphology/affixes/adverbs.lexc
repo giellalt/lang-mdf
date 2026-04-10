@@ -68,9 +68,9 @@ LEXICON ADV_АШЕЛЬ !! ашель:ашель
 +Prt2+ScSg3: ENDLEX ;
 +Prt2+ScPl1:еме ENDLEX ;
 +Ind+Prt2+ScPl2:еде ENDLEX ;
-+Ind+Prt2+ScPl3:%>%{Х%}ть ENDLEX ;
++Ind+Prt2+ScPl3:%>{Х}ть ENDLEX ;
 
-LEXICON ADV-ABL_ ! алда:алд%{АО%}
+LEXICON ADV-ABL_ ! алда:алд{АО}
 +Abl: K_вок ;
 +Abl+Der+Der/Dimin:%>ня K_вок ;
 +Abl: DER/COP_OR_DER-POSS_NNE ;
@@ -79,7 +79,7 @@ LEXICON ADV_ELA
 +Ela: DER/COP_OR_DER-POSS_NNE ;
 +Ela: K_вок ;
 !+Ela: K_OR_DER/COP ;
-!LEXICON ADV-ELA_ ! ирецта:ирецт%{АО%}
+!LEXICON ADV-ELA_ ! ирецта:ирецт{АО}
 !!?ста %^А2О %> ...
 !+Ela: K_вок ;
 !+Ela+Der+Der/Dimin:%>ня K_вок ;
@@ -87,7 +87,7 @@ LEXICON ADV_ELA
 
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
-LEXICON ADV_INE ! лангса:лангс%{АО%}
+LEXICON ADV_INE ! лангса:лангс{АО}
 +Ine: K_OR_DER/COP ;
 +Ine+Der+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
@@ -116,7 +116,7 @@ LEXICON ADV-INDEF-ELA_ !
 +Indef+Ela:%^А2О DER/COP ;
 LEXICON ADV-INDEF-ILL_ ! лангс:лангс
 +Indef+Ill: K_вок ;
-LEXICON ADV-INDEF-INE_ ! лангса:лангс%{АО%}
+LEXICON ADV-INDEF-INE_ ! лангса:лангс{АО}
 +Indef+Ine: K_вок ;
 +Indef+Ine:%^А2О DER/COP ;
 LEXICON ADV-INDEF-LAT_ ! алга:алу

@@ -3,20 +3,20 @@ LEXICON Num_mdf2x
 
 васця+Num:васця NUM_  "" ;
 ведьгемонь+Num:ведьгемонь NUM-CARD_KAL  "viisikymmentä." ;
-вейхкса+Num:вейхкс%{АО%} NUM-CARD_PULA  "yhdeksän" ;
+вейхкса+Num:вейхкс{АО} NUM-CARD_PULA  "yhdeksän" ;
 вейхксогемонь+Num:вейхксогемонь NUM-CARD_KAL  "yhdeksänkymmentä" ;
 вейхксоцеда+Adv:вейхксоцеда IS_NUM_ORD_ITER  "" ;
 вете+Num:вете NUM-CARD_AVA  "viisi" ;
 ветицьке+Num:ветицьке NUM_  "" ;
 ифке+Num:ифке NUM-CARD_  "" ;
-кафкса+Num:кафкс%{АО%} NUM-CARD_PULA  "kahdeksan" ;
+кафкса+Num:кафкс{АО} NUM-CARD_PULA  "kahdeksan" ;
 кафксогемонь+Num:кафксогемонь NUM-CARD_KAL  "kahdeksankymmentä" ;
 кафксонцт+Num:кафксонцт NUM-COLL_  "" ;
 кафонц+Num:кафонц NUM-COLL_  "kaksi paria, kahdet" ;
 кафоньнест+Num:кафоньнест NUM_  "" ;
 кафонянек+Num:кафонянек NUM_  "" ;
 кафонянест+Num:кафонянест NUM_  "" ;
-кафта+Num:кафт%{АО%} NUM-CARD_PULA  "kaksi" ;
+кафта+Num:кафт{АО} NUM-CARD_PULA  "kaksi" ;
 кафтоненк+Num:кафтоненк NUM_  "" ;
 кафтонест+Num:кафтонест NUM_  "" ;
 кафтонза+Num:кафтонза NUM_  "" ;
@@ -27,10 +27,10 @@ LEXICON Num_mdf2x
 кафцьке+Num:кафцьке NUM_  "" ;
 кевейхксые+Num:кевейхксые NUM-CARD_AVA  "yhdeksäntoista" ;
 кеветие+Num:кеветие NUM-CARD_AVA  "viisitoista" ;
-кемгафксува+Num:кемгафксув%{АО%} NUM-CARD_PULA  "kahdeksantoista" ;
-кемгафтува+Num:кемгафтув%{АО%} NUM-CARD_PULA  "kaksitoista" ;
-кемголмува+Num:кемголмув%{АО%} NUM-CARD_PULA  "kolmetoista" ;
-кемготува+Num:кемготув%{АО%} NUM-CARD_PULA  "kuusitoista" ;
+кемгафксува+Num:кемгафксув{АО} NUM-CARD_PULA  "kahdeksantoista" ;
+кемгафтува+Num:кемгафтув{АО} NUM-CARD_PULA  "kaksitoista" ;
+кемголмува+Num:кемголмув{АО} NUM-CARD_PULA  "kolmetoista" ;
+кемготува+Num:кемготув{АО} NUM-CARD_PULA  "kuusitoista" ;
 кеменькст+Num:кеменькст NUM_  "" ;
 кемзисемге+Num:кемзисемге NUM-CARD_AVA  "seitsemäntoista" ;
 кемнилие+Num:кемнилие NUM-CARD_AVA  "neljätoista" ;
@@ -38,7 +38,7 @@ LEXICON Num_mdf2x
 кемонь+Num:кемонь NUM-CARD_KAL  "kymmenen" ;
 кефкие+Num:кефкие NUM-CARD_AVA  "yksitoista" ;
 кодгемонь+Num:кодгемонь NUM-CARD_KAL  "kuusikymmentä" ;
-колма+Num:колм%{АО%} NUM-CARD_PULA  "kolme" ;
+колма+Num:колм{АО} NUM-CARD_PULA  "kolme" ;
 колмогемонь+Num:колмогемонь NUM-CARD_KAL  "kolmekymmentä" ;
 колмонза+Num:колмонза NUM_  "" ;
 колмонц+Num:колмонц NUM-COLL_  "" ;
@@ -47,7 +47,7 @@ LEXICON Num_mdf2x
 колмоцьке+Num:колмоцьке NUM_  "" ;
 комсенцт+Num:комсенц NUM_CARD_COLL_NCT  "" ;
 комсь+Num:комсь NUM-CARD_  "kaksikymmentä" ;
-кота+Num:кот%{АО%} NUM-CARD_PULA  "kuusi" ;
+кота+Num:кот{АО} NUM-CARD_PULA  "kuusi" ;
 котонь-котонь+Num:котонь-котонь NUM_  "" ;
 ламонц+Num:ламонц NUM-COLL_  "" ;
 миллионнай+Num:миллионнай NUM_  "" ;
@@ -59,7 +59,7 @@ LEXICON Num_mdf2x
 сизьгемонце+A:сизьгемонце IS_NUM_ORD  "" ;
 сизьгемонь+Num:сизьгемонь NUM-CARD_KAL  "seitsemänkymmentä." ;
 сисем+Num:сисем NUM-CARD_KAL  "seitsemän" ;
-сяда+Num:сяд%{АОØ%} NUMERALS-3-AND-UP-OFTA  "sata" ;
+сяда+Num:сяд{АОØ} NUMERALS-3-AND-UP-OFTA  "sata" ;
 сядоце+A:сядоце IS_NUM_ORD  "" ;
 тифтень+Num:тифтень NUM_  "yksitellen" ;
 триллион+Num:триллион NUM-CARD_KAL  "" ;

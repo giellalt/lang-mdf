@@ -31,13 +31,13 @@ LEXICON PRONOUN-TYPES
 
 всякай+Det:всякай N_PEJ  "kaikenlainen" ;
 кажнай+Det:кажнай N_PEJ  "jokainen" ;
-лама+Det:лам%{АО%} N_PULA ; 
+лама+Det:лам{АО} N_PULA ; 
 эрь+Det+Sg+Nom+Indef:эрь NMN-SG  "jokainen" ;
 
-кама+A:кам%{АОØ%} N_PINGE  "Interr" ;
-!кодама+A:кодам%{АОØ%} N_PANGA  "(Interr) millainen" ;
-!стама+A:стам%{АОØ%} N_PANGA  "" ;
-!тяфтама+A:тяфтам%{АОØ%} N_PANGA  "tällainen, sellainen" ;
+кама+A:кам{АОØ} N_PINGE  "Interr" ;
+!кодама+A:кодам{АОØ} N_PANGA  "(Interr) millainen" ;
+!стама+A:стам{АОØ} N_PANGA  "" ;
+!тяфтама+A:тяфтам{АОØ} N_PANGA  "tällainen, sellainen" ;
 
 гайсна+Pron:гайсна PRON_  "tuo" ;
 гайся+Pron:гайся PRON_  "se" ;
@@ -56,8 +56,8 @@ LEXICON PRONOUN-TYPES
 !колгат+Pron:колгат PRON-X-PXSG2  "sinusta" ;
 кона+Pron+Rel:кона N_AVA  "joka, mikä" ;
 конашка+Pron:конашка PRON_  "minkä kokoinen" ;
-коста+Adv:кост%{АО%} ADV_ELA  "(Interr; Rel) mistä" ;
-коса+Adv:кос%{АО%} ADV_INE  "(Interr; Rel) missä" ;
+коста+Adv:кост{АО} ADV_ELA  "(Interr; Rel) mistä" ;
+коса+Adv:кос{АО} ADV_INE  "(Interr; Rel) missä" ;
 ладнек+Adv:ладнек PRON_  "koko, kokonaan, täysin" ;
 
 !мархтон+Pron:мархтон PRON-COM-PXSG1  "kanssani" ;
@@ -81,8 +81,8 @@ LEXICON PRONOUN-TYPES
 
 ома+Pron:ома PRON_  "" ;
 самай+Adv:самай ADV_  "1. juuri, aivan. 2. superlatiivin apusana" ;
-сембе+Det:семб%{ЕО%} DET_PINGE  "kaikki; superlatiivin apusana" ;
-сембе+Pron:семб%{ЕО%} PRON_QNT_SEMBE ;
+сембе+Det:семб{ЕО} DET_PINGE  "kaikki; superlatiivin apusana" ;
+сембе+Pron:семб{ЕО} PRON_QNT_SEMBE ;
 !синць+Pron:синць PRON_  "" ;
 
 стамка+Pron:стамка PRON_  "" ;
@@ -101,14 +101,14 @@ LEXICON PRONOUN-TYPES
 ня+Pron+Dem+SP+Gen+Indef:нянь K ;
 ня+Pron+Dem+SP+Gen+Der+Der/Poss+Pron:нянне DERPOSS-NUM-CASE  "nämä, ne" ;
 
-някот+Pron:няк%{АО%} PRON-DEM_NIAT  "(mon.) vain nämä" ;
+някот+Pron:няк{АО} PRON-DEM_NIAT  "(mon.) vain nämä" ;
 ся+Pron+Dem:ся PRON-DEM_SIA  "se" ;
 ся+Pron+Dem+SP+Gen+Der+Der/Poss+Pron:сянне DERPOSS-NUM-CASE  "se" ;
-сяка+Pron:сяк%{АО%} N_PULA  "sama" ;
+сяка+Pron:сяк{АО} N_PULA  "sama" ;
 тона+Pron:тона PRON-DEM_TONA  "tuo, se" ;
 тя+Pron:тя PRON-DEM_  "tämä, se; (mon.) nämä, ne" ;
 тя+Det+Dem+Sg+Nom+Indef:тя DET-DEM_  "tämä, se; (mon.) nämä, ne" ;
-тяка+Det+Dem:тяк%{АО%} N_PULA "tämä sama" ;
+тяка+Det+Dem:тяк{АО} N_PULA "tämä sama" ;
 
 тяшка+A+Dem:тяшка PRON_AVA  "sellainen, semmoinen, samanlainen" ;
 финцне+Pron:финцне PRON_  "jotkut" ;
@@ -122,8 +122,8 @@ LEXICON PRONOUN-TYPES
 эсь+A+Sg+Gen+PxSg3:эсенц K ;
 эсь+A+Pl+Gen+PxSg3:эсензон K ;
 эсь+A+Pl3+Dat:эсьснонды K ;
-эсь+Pron+Sg3+Ine:эсьсонз%{АО%} K ;
-эсь+Pron+Sg3+Ela:эсьстонз%{АО%} K ;
+эсь+Pron+Sg3+Ine:эсьсонз{АО} K ;
+эсь+Pron+Sg3+Ela:эсьстонз{АО} K ;
 эсь+Pron+Pl1+Ine:эсьсонк K ;
 эсь+Pron+Pl1+Ela:эсьстонк K ;
 эсь+Pron+Pl2+Ine:эсьсонт K ;
@@ -152,8 +152,8 @@ LEXICON PERS                        !!≈ * **@CODE@**
 тон+Use/NG+Pron+Pers+Sg2+Dat+Short:теть K/DAT-ARAM ;
 тон+Pron+Pers+Pl2+Dat+Short:тейнть K/DAT-ARAM ;
 тон+Use/NG+Pron+Pers+Pl2+Dat+Short:теенть K/DAT-ARAM ;
-сон+v1+Pron+Pers+Sg3+Dat+Short:тейнз%{АО%} K/DAT-ARAM ;
-сон+Use/NG+v2+Pron+Pers+Sg3+Dat+Short:теенз%{АО%} K/DAT-ARAM ;
+сон+v1+Pron+Pers+Sg3+Dat+Short:тейнз{АО} K/DAT-ARAM ;
+сон+Use/NG+v2+Pron+Pers+Sg3+Dat+Short:теенз{АО} K/DAT-ARAM ;
 сон+v1+Pron+Pers+Pl3+Dat+Short:тейст K/DAT-ARAM ;
 сон+Use/NG+v2+Pron+Pers+Pl3+Dat+Short:теест K/DAT-ARAM ;
 
@@ -206,12 +206,12 @@ LEXICON PERS-SG3
 +Nom: K_ГА ;
 +Nom+Clt/Cop: MUTUAL-PRT2-30 ;
 +Gen:ь K_ГА ;
-+Dat+Long:дейнз%{АО%} K/DAT-ARAM ;
-+Dat+Long+Use/NG:деенз%{АО%} K/DAT-ARAM ;
-+Abl:дедонз%{АО%} K_вок ;
-+Abe:ьфтемонз%{АО%} K_вок ;
-+Ine:ьцонз%{АО%} K_вок ;
-+Ela:ьцтонз%{АО%} K_вок ;
++Dat+Long:дейнз{АО} K/DAT-ARAM ;
++Dat+Long+Use/NG:деенз{АО} K/DAT-ARAM ;
++Abl:дедонз{АО} K_вок ;
++Abe:ьфтемонз{АО} K_вок ;
++Ine:ьцонз{АО} K_вок ;
++Ela:ьцтонз{АО} K_вок ;
 +Intensive+Nom:ць K_ГА ;
 +Intensive+Gen:цень K_ГА ;
 +Intensive+Gen+Der+Der/Poss+Pron:ценне  DERPOSS-NUM-CASE ;
@@ -280,7 +280,7 @@ LEXICON REFL
 монць+Pron+Refl+Pl1+Abe+Long:минцфтомонк K ;
 тонць+Pron+Refl+Sg2+Abe+Long:тонцфтомот K ;
 тонць+Pron+Refl+Pl2+Abe+Long:тинцфтомонт K ;
-сонць+Pron+Refl+Sg3+Abe+Long:сонцфтомонз%{АО%} K ;
+сонць+Pron+Refl+Sg3+Abe+Long:сонцфтомонз{АО} K ;
 сонць+Pron+Refl+Pl3+Abe+Long:синцфтомост K ;
 
 монць+Pron+Refl+Sg1+Dat+Long:монцтейне K/DAT-ARAM ;
@@ -290,8 +290,8 @@ LEXICON REFL
 тонць+Pron+Refl+Sg2+Dat+Long:тонцтееть K/DAT-ARAM ;
 тонць+Pron+Refl+Pl2+Dat+Long:тинцтейнть K/DAT-ARAM ;
 тонць+Pron+Refl+Pl2+Dat+Long:тинцтеенть K/DAT-ARAM ;
-сонць+Pron+Refl+Sg3+Dat+Long:сонцтейнз%{АО%} K/DAT-ARAM ;
-сонць+Pron+Refl+Sg3+Dat+Long:сонцтеенз%{АО%} K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Long:сонцтейнз{АО} K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Long:сонцтеенз{АО} K/DAT-ARAM ;
 сонць+Pron+Refl+Pl3+Dat+Long:синцтейст K/DAT-ARAM ;
 сонць+Pron+Refl+Pl3+Dat+Long:синцтеест K/DAT-ARAM ;
 
@@ -312,8 +312,8 @@ LEXICON REFL
 тонць+Pron+Refl+Sg2+Dat+Short:эстееть K/DAT-ARAM ;
 тонць+Pron+Refl+Pl2+Dat+Short:эстейнть K/DAT-ARAM ;
 тонць+Pron+Refl+Pl2+Dat+Short:эстеенть K/DAT-ARAM ;
-сонць+Pron+Refl+Sg3+Dat+Short:эстеенз%{АО%} K/DAT-ARAM ;
-сонць+Pron+Refl+Sg3+Dat+Short:эстейнз%{АО%} K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Short:эстеенз{АО} K/DAT-ARAM ;
+сонць+Pron+Refl+Sg3+Dat+Short:эстейнз{АО} K/DAT-ARAM ;
 сонць+Pron+Refl+Pl3+Dat+Short:эстейст K/DAT-ARAM ;
 сонць+Pron+Refl+Pl3+Dat+Short:эстеест K/DAT-ARAM ;
 
@@ -351,11 +351,11 @@ LEXICON PRON-DEM_
 +Dem: PRON-DEM-SG ;
 LEXICON PRON-DEM_SIA
  PRON-DEM_NIAT ;
-+Sg+Abl+Indef:%>д%{АО%} K ;
-+Sg+Dat+Indef:%>%{ЕОØ%}нди K/DAT-ARAM ;
-+Sg+Gen+Indef:%>%{ЕОØ%}нь K ;
++Sg+Abl+Indef:%>д{АО} K ;
++Sg+Dat+Indef:%>{ЕОØ}нди K/DAT-ARAM ;
++Sg+Gen+Indef:%>{ЕОØ}нь K ;
 +Sg+Nom+Indef: K ;
-+Sg+Gen+Der+Der/Poss+Pron:%>%{ЕОØ%}нне DERPOSS-NUM-CASE ;
++Sg+Gen+Der+Der/Poss+Pron:%>{ЕОØ}нне DERPOSS-NUM-CASE ;
 
 LEXICON PRON-DEM_NIAT !нят:ня
 +Pl+Nom+Indef:%>т K ;
@@ -365,22 +365,22 @@ LEXICON PRON-DEM_NIAT !нят:ня
 
 
 LEXICON PRON-DEM-SG
-+Sg+Abl+Indef:%>д%{АО%} K_вок ;
-+Sg+Dat+Indef:%>%{ЕОØ%}нди K_вок ;
-+Sg+Gen+Indef:%>%{ЕОØ%}нь K_ГА ;
++Sg+Abl+Indef:%>д{АО} K_вок ;
++Sg+Dat+Indef:%>{ЕОØ}нди K_вок ;
++Sg+Gen+Indef:%>{ЕОØ}нь K_ГА ;
 +Sg+Nom+Indef: K_вок ;
 +Pl+Nom+Indef:%>тЬ2 K_ГА ;
 
 LEXICON PRON-DEM_TONA
 PRON-DEM_ ;
-+Dem+Sg+Dat+PxSg3:%>%{ЕОØ%}нц%>ты K_вок ;
-+Dem+Sg+Gen+PxSg3:%>%{ЕОØ%}нц K ;
-+Dem+Sg+Nom+PxSg3:%>%{ЕОØ%}ц K ;
++Dem+Sg+Dat+PxSg3:%>{ЕОØ}нц%>ты K_вок ;
++Dem+Sg+Gen+PxSg3:%>{ЕОØ}нц K ;
++Dem+Sg+Nom+PxSg3:%>{ЕОØ}ц K ;
 
 !! INTERROGATIVE PRONOUNS
 LEXICON INTERR
 @U.INDEF.KATI@мезе+Pron:@U.INDEF.KATI@ме PRON-INDEF_MEZE-BDI/POVSJ ;
-@U.INDEF.KATI@кодама+Det:@U.INDEF.KATI@кодам%{АОØ%} N_PINGE ;
+@U.INDEF.KATI@кодама+Det:@U.INDEF.KATI@кодам{АОØ} N_PINGE ;
 
 мезе+Pron:ме PRON-INTERR_MEZE-K ;
 !мезьса% аф% мезьса+Pron:мезьса% аф% мезьса PRON_  "" ;
@@ -434,12 +434,12 @@ LEXICON PRON-INTERR_MEZE-K
 +SP+Nom+PxPl1:зе%>ньке K ;
 +SP+Nom+PxPl2:зе%>нть K ;
 +SP+Nom+PxPl2:зе%>нте K ;
-+SP+Nom+PxPl3:зь%>сн%{АО%} K ;
++SP+Nom+PxPl3:зь%>сн{АО} K ;
 +Pl+Nom+Indef:с%>ть K ;
 +Pl+Nom+Def:с%>т%>не K ;
 +Pl+Nom+PxSg1:з%>не K ;
 +Pl+Nom+PxSg2:с%>тне K ;
-+Pl+Nom+PxSg3:зе%>нз%{АО%} K ;
++Pl+Nom+PxSg3:зе%>нз{АО} K ;
 
 +Sg+Gen+Def:з%>ть K ;
 +SP+Gen+Indef:%>зе%>нь K ;
@@ -547,9 +547,9 @@ LEXICON INDEFINITE-PRON-WITH-PREF
 мзярдонь+A+Indef:мъзярдонь ENDLEX ;
 мзяра+Adv+Indef:мъзяра ENDLEX ;
 мзяра+Adv+Indef+Clt/Cop+Prt2+ScSg3:мъзяроль ENDLEX ;
-кодяма+A+Indef:кодям%{АОØ%} DET-INDEF_PINGE ;
+кодяма+A+Indef:кодям{АОØ} DET-INDEF_PINGE ;
 
-!кодама+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ; Adjective
+!кодама+Det+Indef:кодам{АОØ} DET-INDEF_PINGE ; Adjective
 
 мезяма+Pron+Indef:мезяма PRON_  "" ;
 !кодама+Pron+Indef:кодама PRON_  "jonkinlainen" ;
@@ -558,40 +558,40 @@ LEXICON INDEFINITE-PRON-IN-BDI
 кие-бди+Pron+Indef:ки KATI-KI_INFL ;
 мезе-бди+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
 кона-бди+Pron+Indef:кона KATI-KONA_INFL ;
-кодама-бди+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
+кодама-бди+Det+Indef:кодам{АОØ} DET-INDEF_PINGE ;
 
 
 LEXICON INDEFINITE-PRON-IN-KELJK
 кие-кельк+Pron+Indef:ки KATI-KI_INFL ;
 мезе-кельк+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
 кона-кельк+Pron+Indef:кона KATI-KONA_INFL ;
-кодама-кельк+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
+кодама-кельк+Det+Indef:кодам{АОØ} DET-INDEF_PINGE ;
 
 LEXICON DET-INDEF_PINGE
-+SP+Abe+Indef:%>фтом%{АО%} INDEF-ENDS-HERE ;
++SP+Abe+Indef:%>фтом{АО} INDEF-ENDS-HERE ;
 +SP+Abl+Indef:%^RmVow%>да INDEF-ENDS-HERE ;
 +SP+Abl+Indef:%>да INDEF-ENDS-HERE ;
-+Pl+Dat+Def:%^RmVow%>%{Х%}тненди INDEF-ENDS-HERE ;
++Pl+Dat+Def:%^RmVow%>{Х}тненди INDEF-ENDS-HERE ;
 +Sg+Dat+Def:%>ти INDEF-ENDS-HERE ;
 +SP+Dat+Indef:%>нди INDEF-ENDS-HERE ;
-+Pl+Gen+Def:%^RmVow%>%{Х%}тнень INDEF-ENDS-HERE ;
-+SP+Gen+Indef:%>%{ЕОØ%}нь INDEF-ENDS-HERE ;
++Pl+Gen+Def:%^RmVow%>{Х}тнень INDEF-ENDS-HERE ;
++SP+Gen+Indef:%>{ЕОØ}нь INDEF-ENDS-HERE ;
 +SP+Ine+Indef:%^RmVow%>са INDEF-ENDS-HERE ;
 +SP+Ine+Indef:%>са INDEF-ENDS-HERE ;
 +Sg+Nom+Indef: INDEF-ENDS-HERE ;
 +Sg+Nom+Def:%^RmVow%>сь INDEF-ENDS-HERE ;
-+Pl+Nom+Indef:%^RmVow%>%{Х%}т%{ЬØ%} INDEF-ENDS-HERE ;
-+Pl+Nom+Indef:%>%{Х%}т%{ЬØ%} INDEF-ENDS-HERE ;
-+Pl+Nom+Def:%^RmVow%>%{Х%}тне INDEF-ENDS-HERE ;
++Pl+Nom+Indef:%^RmVow%>{Х}т{ЬØ} INDEF-ENDS-HERE ;
++Pl+Nom+Indef:%>{Х}т{ЬØ} INDEF-ENDS-HERE ;
++Pl+Nom+Def:%^RmVow%>{Х}тне INDEF-ENDS-HERE ;
 +SP+Tra+Indef:%>кс INDEF-ENDS-HERE ;
-+Sg+Nom+Indef+Clt/Cop+Prs+ScSg1:%{ЕОØ%}лень INDEF-ENDS-HERE ;
-+Sg+Nom+Indef+Clt/Cop+Prs+ScSg2:%{ЕОØ%}леть INDEF-ENDS-HERE ;
-+Pl+Nom+Indef+Clt/Cop+Prs+ScPl1:%>%{Х%}тяма INDEF-ENDS-HERE ;
-+Pl+Nom+Indef+Clt/Cop+Prs+ScPl2:%>%{Х%}тяда INDEF-ENDS-HERE ;
++Sg+Nom+Indef+Clt/Cop+Prs+ScSg1:{ЕОØ}лень INDEF-ENDS-HERE ;
++Sg+Nom+Indef+Clt/Cop+Prs+ScSg2:{ЕОØ}леть INDEF-ENDS-HERE ;
++Pl+Nom+Indef+Clt/Cop+Prs+ScPl1:%>{Х}тяма INDEF-ENDS-HERE ;
++Pl+Nom+Indef+Clt/Cop+Prs+ScPl2:%>{Х}тяда INDEF-ENDS-HERE ;
 
-+Sg+Nom+Indef+Clt/Cop+Prt2+ScSg1:%{ЕОØ%}лень INDEF-ENDS-HERE ;
-+Sg+Nom+Indef+Clt/Cop+Prt2+ScSg2:%{ЕОØ%}леть INDEF-ENDS-HERE ;
-+Sg+Nom+Indef+Clt/Cop+Prt2+ScSg3:%{ЕОØ%}ль INDEF-ENDS-HERE ;
++Sg+Nom+Indef+Clt/Cop+Prt2+ScSg1:{ЕОØ}лень INDEF-ENDS-HERE ;
++Sg+Nom+Indef+Clt/Cop+Prt2+ScSg2:{ЕОØ}леть INDEF-ENDS-HERE ;
++Sg+Nom+Indef+Clt/Cop+Prt2+ScSg3:{ЕОØ}ль INDEF-ENDS-HERE ;
 +Pl+Nom+Indef+Clt/Cop+Prt2+ScPl1:толеме INDEF-ENDS-HERE ;
 +Pl+Nom+Indef+Clt/Cop+Prt2+ScPl2:толеде INDEF-ENDS-HERE ;
 +Pl+Nom+Indef+Clt/Cop+Prt2+ScPl3:тольхть INDEF-ENDS-HERE ;
@@ -601,7 +601,7 @@ LEXICON INDEFINITE-PRON-IN-POVSJ
 кие-повсь+Pron+Indef:ки KATI-KI_INFL ;
 мезе-повсь+Pron+Indef:ме PRON-INDEF_MEZE-BDI/POVSJ ;
 кона-повсь+Pron+Indef:кона KATI-KONA_INFL ;
-кодама-повсь+Det+Indef:кодам%{АОØ%} DET-INDEF_PINGE ;
+кодама-повсь+Det+Indef:кодам{АОØ} DET-INDEF_PINGE ;
 
 LEXICON INDEFINITE-PRON-IN-VOK
 мезевок+Pron+Indef:ме PRON-INDEF_MEZEVOK ;
@@ -715,12 +715,12 @@ LEXICON PRON-INDEF_MEZE-BDI/POVSJ
 +Sg+Nom+PxSg3:зец INDEF-ENDS-HERE ;
 +SP+Nom+PxPl1:зеньке INDEF-ENDS-HERE ;
 +SP+Nom+PxPl2:зенть INDEF-ENDS-HERE ;
-+SP+Nom+PxPl3:зьсн%{АО%} INDEF-ENDS-HERE ;
++SP+Nom+PxPl3:зьсн{АО} INDEF-ENDS-HERE ;
 +Pl+Nom:сть INDEF-ENDS-HERE ;
 +Pl+Nom+Def:стне INDEF-ENDS-HERE ;
 +Pl+Nom+PxSg1:зне INDEF-ENDS-HERE ;
 +Pl+Nom+PxSg2:стне INDEF-ENDS-HERE ;
-+Pl+Nom+PxSg3:зенз%{АО%} INDEF-ENDS-HERE ;
++Pl+Nom+PxSg3:зенз{АО} INDEF-ENDS-HERE ;
 
 +Sg+Gen+Def:зть INDEF-ENDS-HERE ;
 +SP+Gen:%>зень INDEF-ENDS-HERE ;
@@ -804,11 +804,11 @@ LEXICON PRON-INDEF_MEZEVOK-NB/CASE/DEF
 
 LEXICON PRON_QNT_SEMBE
 +Pl+Nom+Indef:%>т ENDLEX ;
-+SP+Abl+Indef:%>д%{АО%} K_НГА ;
-+SP+Cau+Indef:%>%{ЕОØ%}нкса ENDLEX ;
-+SP+Dat+Indef:%>%{ЕОØ%}нди ENDLEX ;
-+SP+Gen+Indef:%>%{ЕОØ%}нь ENDLEX ;
-+SP+Ine+Indef:%>с%{АО%} K_вок ;
++SP+Abl+Indef:%>д{АО} K_НГА ;
++SP+Cau+Indef:%>{ЕОØ}нкса ENDLEX ;
++SP+Dat+Indef:%>{ЕОØ}нди ENDLEX ;
++SP+Gen+Indef:%>{ЕОØ}нь ENDLEX ;
++SP+Ine+Indef:%>с{АО} K_вок ;
 +Sg+Dat+Def:%>ти K_вок ;
 +Sg+Gen+Def:%>ть ENDLEX ;
 +Sg+Nom+Indef: ENDLEX ;
@@ -822,8 +822,8 @@ LEXICON PRON_QNT_SEMBE
  SP-DAT/GEN/NOM-PXPL3 ;
 
 LEXICON PRON-PERIF-MOD_СЬКАМОНЗА !!= * @CODE@ ськамонза:ськам
-+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Exclusive+PerifMod:%{АО%} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
++Exclusive+PerifMod:{АО} OBLIQUECX-PX-REQUIRES-VOWEL ;
++Exclusive+PerifMod:{АО} OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
 
 !! ### REFLEXIVE PRONOUNS
 !! ### NON-STRESSED REFLEXIVE DATIVES
@@ -942,7 +942,7 @@ LEXICON FINAL-PRONOUNS
 @U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.SG@@U.CX.DAT@@U.DECL-DX.PXSG3@мезенцты ENDLEX ;
 @U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG3@мезензон ENDLEX ;
 @U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG3@мезенц ENDLEX ;
-@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@мезенз%{АО%} ENDLEX ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG3@мезенз{АО} ENDLEX ;
 @U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@мезе+AssocColl:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.PXSG3@мезец ENDLEX ;
 
 @U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL1@мезенконди ENDLEX ;
@@ -955,7 +955,7 @@ LEXICON FINAL-PRONOUNS
 
 @U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.DAT@@U.DECL-DX.PXPL3@мезьснонды ENDLEX ;
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.PXPL3@мезьснон ENDLEX ;
-@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезьсн%{АО%} ENDLEX ;
+@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезе+AssocColl:@U.DECL-NX.SP@@U.CX.NOM@@U.DECL-DX.PXPL3@мезьсн{АО} ENDLEX ;
 
 @U.CX.ELA@коста+AssocColl:@U.CX.ELA@коста ENDLEX ;
 @U.CX.ILL@коза+AssocColl:@U.CX.ILL@коза ENDLEX ;

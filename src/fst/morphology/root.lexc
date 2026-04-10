@@ -678,31 +678,31 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 !  ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
- %{ИЫЙ%}	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
- %{ЕОØ%}	!!= @CODE@ morphemes requiring a preceding vowel; also пинге
- %{ЕО%} 	!!= @CODE@ сельме
- %{ЕØ%}	!!= @CODE@ кече
- %{АЯ%} 	!!= @CODE@ А2 in кундамс:кундан
- %{ВИУ%}        !!= @CODE@ lative
- %{Х%}		!!= @CODE@ This usually precedes the plural marker
- %{КТ%}		!!= @CODE@ used in imperative and connegative
- %{ЬØ%}	!!= @CODE@ after imperative Sg2
- %{DIM%}	!!= @CODE@ This will be for diminutive initial consonant
+ {ИЫЙ}	!!= @CODE@ phasing out Ы2, eg кундамс:кундай
+ {ЕОØ}	!!= @CODE@ morphemes requiring a preceding vowel; also пинге
+ {ЕО} 	!!= @CODE@ сельме
+ {ЕØ}	!!= @CODE@ кече
+ {АЯ} 	!!= @CODE@ А2 in кундамс:кундан
+ {ВИУ}        !!= @CODE@ lative
+ {Х}		!!= @CODE@ This usually precedes the plural marker
+ {КТ}		!!= @CODE@ used in imperative and connegative
+ {ЬØ}	!!= @CODE@ after imperative Sg2
+ {DIM}	!!= @CODE@ This will be for diminutive initial consonant
 
 !! 2016-03-12
 %^А2О		!!= @CODE@ used with final а in пула 
 
  А2 	!!= @CODE@ А2:а А2:я
- %{вгк%} 	!!= @CODE@ %{вгк%}:г %{вгк%}:в %{вгк%}:к
- %{гк%}	!!= @CODE@ clitic in ``` %{гк%} %{АЕ%} ```
+ {вгк} 	!!= @CODE@ {вгк}:г {вгк}:в {вгк}:к
+ {гк}	!!= @CODE@ clitic in ``` {гк} {АЕ} ```
  К1 	!!= @CODE@ К1:к К1:т
-%{АЕØ%}	!!= @CODE@  ConNeg with ашень, тят, афоль
-%{АО%}	!!= @CODE@  пула stem
-%{АОØ%}	!!= @CODE@  офта stem
-%{АЕ%}	!!= @CODE@ prolative
+{АЕØ}	!!= @CODE@  ConNeg with ашень, тят, афоль
+{АО}	!!= @CODE@  пула stem
+{АОØ}	!!= @CODE@  офта stem
+{АЕ}	!!= @CODE@ prolative
  Х1 	!!= @CODE@ Х1:х Х1:0
  Ь2 	!!= @CODE@ Ь2:ь Ь2:0
-%{ъØ%}        !!= @CODE@ This will represent schwa in first syllable
+{ъØ}        !!= @CODE@ This will represent schwa in first syllable
 ! Ъ2	occurs in first syllable and is not written in the Moksha orthography, 
 
 !! in ped realized as hard sign
@@ -718,8 +718,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^А2Е		!!= @CODE@ Change stem-final vowel мокша:мокшесь
 %^Е2Я		!!= @CODE@ Change word-final vowel for dialect тувотне > тувотня
 %^Devoice	!!= @CODE@ for devoicing изь:исть
-%^PXSG1		!!= @CODE@ кядне, ярмаконе не vs %{ЕОØ%}не
-%^CnsSt		!!= @CODE@ улемс:уль%^CnsSt%>%{АЕØ%}	
+%^PXSG1		!!= @CODE@ кядне, ярмаконе не vs {ЕОØ}не
+%^CnsSt		!!= @CODE@ улемс:уль%^CnsSt%>{АЕØ}	
 %^Glide		!!= @CODE@ Толстой:Толстой%^Glide%>нь
 
  {front} {back}

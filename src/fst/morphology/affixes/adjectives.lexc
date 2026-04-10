@@ -30,31 +30,31 @@ LEXICON A_AVA
  N_AVA ;
 
 LEXICON A_OFTA
-!офта:офт%{АОØ%}
+!офта:офт{АОØ}
 !+Sg+Nom+Indef: K ;
 !+Der+Der/MWN+N: N_OFTA ;
  N_OFTA ;
 
 LEXICON A_PANGA
-!панга:панг%{АОØ%}
+!панга:панг{АОØ}
 !+Sg+Nom+Indef: K ;
 !+Der+Der/MWN+N: N_PANGA ;
  N_PANGA ;
 
 LEXICON A_PINGE
-!пинге:пинг%{ЕОØ%}
+!пинге:пинг{ЕОØ}
 !+Sg+Nom+Indef: K ;
 !+Der+Der/MWN+N: N_PINGE ;
  N_PINGE ;
 
 LEXICON A_PULA
-!пула:пул%{АО%}
+!пула:пул{АО}
 !+Sg+Nom+Indef: K ;
 !+Der+Der/MWN+N: N_PULA ;
  N_PULA ;
 
 LEXICON A_MOKSHA
-!мокша:мокш%{АЕØ%}
+!мокша:мокш{АЕØ}
 !+Sg+Nom+Indef: K ;
 !+Der+Der/MWN+N: N_MOKSHA ;
  N_MOKSHA ;
@@ -123,7 +123,7 @@ LEXICON A_RU-ЯЙ
 +Use/SpellNoSugg:яй A_PEJ ;
 
 LEXICON A_SEL1ME
-!сельме:сельм%{ЕО%}
+!сельме:сельм{ЕО}
 !+Sg+Nom+Indef: K ; !CHECKME 2018-11-25
 !+Der+Der/MWN+N: N_SEL1ME ;
  N_SEL1ME ;
@@ -135,17 +135,17 @@ LEXICON DET_AVA
 +Sg+Nom+Indef: ENDLEX ;
 
 !LEXICON DET_OFTA
-!!офта:офт%{АОØ%}
+!!офта:офт{АОØ}
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_OFTA ;
 
 LEXICON DET_PINGE
-!!пинге:пинг%{ЕО%}
+!!пинге:пинг{ЕО}
 +Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_PINGE ;
 
 !LEXICON DET_PULA
-!!пула:пул%{АО%}
+!!пула:пул{АО}
 !+Det+Sg+Nom+Indef: K ;
 !+Det+Der+Der/MWN+N: N_PULA ;
 
