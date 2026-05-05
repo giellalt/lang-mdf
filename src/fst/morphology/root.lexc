@@ -950,6 +950,9 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 ! Testing
 +CmpTest
 
+!! Russian letters from shared-urj_Cyrl
+а́ и́ о́ е́ у́ !!≈ @CODE@
+
 LEXICON Root
 !! The word forms in Moksha language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
