@@ -4,8 +4,8 @@
 
 ### BEGIN: Local build rules: *.hfst: *.tmp.hfst ###
 
-generator-fstspeller-gt-norm.hfst: \
-			generator-fstspeller-gt-norm.tmp.hfst \
+.generated/generator-fstspeller-gt-norm.hfst: \
+			.generated/generator-fstspeller-gt-norm.tmp.hfst \
 			filters/remove-hard-sign-in-first-syllable.hfst
 	$(AM_V_HXFST)$(PRINTF) "\
 	set encode-weights ON \n\

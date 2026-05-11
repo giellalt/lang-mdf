@@ -10,21 +10,21 @@
 # analyser-speller-gt-norm.%: analyser-speller-gt-norm.tmp.%
 #	build rules
 
-generator-speller-gt-norm.%: analyser-speller-gt-norm.tmp.% \
-				$(top_builddir)/src/fst/filters/remove-hard-sign-in-first-syllable.%   
+.generated/generator-speller-gt-norm.%: .generated/generator-speller-gt-norm.tmp.% \
+				filters/remove-hard-sign-in-first-syllable.%   
 	$(AM_V_XFST_TOOL)$(PRINTF) "read regex                                    \
 			@\"$<\"                                                          \
-		.o. @\"$(top_builddir)/src/fst/filters/remove-hard-sign-in-first-syllable.$*\"   \
+		.o. @\"filters/remove-hard-sign-in-first-syllable.$*\"   \
 			;\n\
 		 $(INVERT_XFST)$(INVERT_FOMA)\
 		save stack $@\n\
 		quit\n" | $(XFST_TOOL)
 
-analyser-speller-gt-norm.%: analyser-speller-gt-norm.tmp.% \
-				$(top_builddir)/src/fst/filters/remove-hard-sign-in-first-syllable.%   
+.generated/analyser-speller-gt-norm.%: .generated/analyser-speller-gt-norm.tmp.% \
+				filters/remove-hard-sign-in-first-syllable.%   
 	$(AM_V_XFST_TOOL)$(PRINTF) "read regex                                    \
 			@\"$<\"                                                          \
-		.o. @\"$(top_builddir)/src/fst/filters/remove-hard-sign-in-first-syllable.$*\"   \
+		.o. @\"filters/remove-hard-sign-in-first-syllable.$*\"   \
 			;\n\
 		$(INVERT_HFST)\
 		save stack $@\n\
