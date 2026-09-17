@@ -1,7 +1,7 @@
 The Moksha morphology and tools
 ==========================================
 
-[![Maturity](https://github.com/giellalt/lang-mdf/raw/generated/docs-data/fst-maturity.svg)](https://giellalt.github.io/MaturityClassification.html)
+[![Maturity](https://github.com/giellalt/lang-mdf/raw/generated/docs-data/pkg-maturity.svg)](https://giellalt.github.io/MaturityClassification.html)
 ![Lemma count](https://github.com/giellalt/lang-mdf/raw/generated/docs-data/fst-lemmacount.svg)
 [![Speller suggestion quality](https://github.com/giellalt/lang-mdf/raw/generated/docs-data/speller-suggestions.svg)](https://giellalt.github.io/lang-mdf/typosreport/)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-mdf)](https://github.com/giellalt/lang-mdf/issues)
