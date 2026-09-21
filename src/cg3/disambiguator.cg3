@@ -392,6 +392,8 @@ LIST OLang/RUS = OLang/RUS ;
 
 LIST SPATMOTIONCASE = Abl Ela Ill Lat Prl ;#!! used to identify motion verbs
 
+LIST NWITHABLGOV = "корхтама" "куля" "сёрма" "тев" ;#"" noun with ablative government
+
 LIST VERBTAKESkodaCCOMP = "арьсемс" "ваномс" "марямс" "няемс" "няендемс" "няфтемс" "няфтнемс" "содамс" "шарьхкодемс" ;#knows how
 
 LIST VERBWITHSUBJCOMP_DAT = "шачемс" ; #!!
@@ -507,6 +509,9 @@ SUBSTITUTE:PROPSon (<W:0.0>) (<W:2.0>) TARGET (N Prop) IF (0 Pron);
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 Nom) (0* (ScSg3) BARRIER BOS OR EOS OR CLB ) (NOT 0* QNTSETSGNOM BARRIER BOS OR EOS OR CLB ) (NOT 1 ("меле") OR ("инголе") OR ("башка"));
        #Фкя сяканять арафтсаськ шить каршес, а омбоцеть путсаськ шобда вастс, коса аф уленди ши [валда].
        # deal with вал : валда, пан : панда
+SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET Abl IF (0 NABLHASADJHOM) (NOT 0* NWITHABLGOV BARRIER BOS OR EOS OR CLB) ;
+       #    # Но тевсь аф цифрада . BUT Мес тоньфтемот шизе аф валда ?
+       # prefer Nom
 
 SUBSTITUTE (<W:0.0>) (<W:5.0>) TARGET ("мазь" N) IF (0 ("мазы" A));
        # мазы
@@ -621,6 +626,9 @@ REMOVE ("уле") IF (0 ("улемс")) (0* Tra BARRIER BOS OR EOS OR @CVP);
    # perhaps too open
    #Улень:  Улень сюдофокс и юкстафокс.
 
+REMOVE:NoAblWhenPreceedNomIndef (Abl Indef Clt/Cop Prs) IF (-1 ("аф")) (-2 (Nom Indef));
+   #мес мороста вал аф ёрдат
+   
 REMOVE ("калга" N SP Abl) IF ((-1 ("тяфтама")) OR (-2 ("тяфтама"))) (1 Abl);
    # Тяфтама жа калгодот коськомдост меле улендихть сёвоню почватневок
 
