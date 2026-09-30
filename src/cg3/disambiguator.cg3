@@ -404,7 +404,9 @@ LIST VERBWITHSUBJCOMP_TRA = "улемс" ; #!!
 
 LIST CCOMPMARKERS = "кода" "мезе" "мес"; # V, koda
 
-LIST NABLHASADJHOM = "вал" ;#!! вал+N+SP+Abl vs валда+A+Sg+Nom
+LIST NABLHASADJHOM = "вал" "вар" ;#!! вал+N+SP+Abl+Indef vs валда+A+Sg+Nom
+
+LIST NABLHASVPL2IMPRTHOM = "макса" "работа" ;#!! работа+N+SP+Abl+Indef vs работамс+V+Imprt+ScPl2
 
 LIST HUMNAMESINU = "Авдю" "Митю" "Яку" "Андю" "Алду" "Нату" "Атрю" "Дарю" "Мару" "Митрю" "Моску" "Тару" "Тарю" "Тулаю" "Кирдю" "Пашу" "Дарю" "Тарю" "Митрю" "Абдыманапуулу" "Албу" "Андреу" "Антонеску" "Аргату" "Бакалу" "Баку" "Барбу" "Бартоломью" "Барту" "Батеряну" "Бачу" "Бигелоу" "Биешу" "Блау" "Блоу" "Бобу" "Ботнару" "Боу" "Браду" "Брату" "Брязу" "Бузату" "Булгару" "Бурау" "Бутнару" "Буяклу" "Бэгу" "Бэжиряну" "Бэрроу" "Ватаву" "Везетиу" "Велишку" "Вертью" "Виеру" "Визитиу" "Вишану" "Вогау" "Вылчу" "Вышку" "Генслоу" "Георгиу" "Герцеску" "Герчиу" "Герчу" "Гечану" "Гиржу" "Глобу" "Гогу" "Гойчу" "Гроссу" "Гросу" "Грыу" "Гугу" "Гуцу" "Даву" "Данку" "Дану" "Дегенау" "Делеу" "Димитриу" "Динтю" "Домну" "Донахью" "Донохью" "Донцу" "Дочу" "Дрю" "Дубанжиу" "Дубэсару" "Думитриу" "Дьякону" "Ешану" "Жежу" "Житару" "Жосу" "Журкану" "Зуграу" "Казаку" "Какау" "Канцыру" "Карху" "Касавубу" "Катареу" "Киуру" "Кленау" "Клюгенау" "Коду" "Коу" "Крецу" "Ландау" "Лейфу" "Линденау" "Лосау" "Лунгу" "Манжу" "Манту" "Маринеску" "Маслоу" "Маху" "Мью" "Мэтью" "Негру" "Неделку" "Нетаньяху" "Павлу" "Папу" "Пау" "Паштигу" "Петтигрю" "Пильхау" "Помпиду" "Попеску" "Рамкану" "Ремшу" "Реншоу" "Роналду" "Ростоу" "Ротару" "Руссу" "Рэдяну" "Секриеру" "Сиуру" "Скирлиу" "Содовяну" "Степлю" "Сырбу" "Тийду" "Топчу" "Торнау" "Тоу" "Туху" "Тэтару" "Уодлоу" "Уордлоу" "Урсу" "Фарлоу" "Форшоу" "Фэрроу" "Хайду" "Харабажиу" "Хау" "Хейнапуу" "Ху" "Хусу" "Чебану" "Чиботару" "Шёнау" "Шметтау" "Шойгу" "Эзау" "Элияху" "Эндрю" "Ану" "Агу" "Азю" "Аксю" "Аню" "Арю" "Васю" "Гарю" "Дарьшу" "Илю" "Карьхчу" "Кирьду" "Кулю" "Матерю" "Матю" "Надю" "Настю" "Петру" "Покру" "Полю" "Саньду" "Сетю" "Тарю" "Тату" "Татю" "Таштю" "Улю" "Федю" "Яку";#!! names that end in у/ю
 
@@ -428,6 +430,7 @@ LIST ERRSORTH = Err/Orth Err/Orth-lowered-final-e-2-ja ;# all Err/Orth...
 #LIST VFIN = Prs Prt1 Prt2 Cond Conj Des Imprt Opt Prec ; 
 SET VFIN = V + Ind | V + Cond | V + Conj | V + Des | V + Imprt | V + Opt | V + Prec ; 
 
+SET VNEGWITHCONNEG = (Aux Neg Ind Prt1) | ("апак") | ("аф" V Aux Neg Conj) | ("аф" V Aux Neg Proh) ;#!
 LIST PX = PxSg1 PxSg2 PxSg3 PxPl1 PxPl2 PxPl3 ;
 
 SET OBJCANDIDATESG3 = N + Sg + Gen + Def | N + Sg + Gen + PxSg1 | N + Sg + Gen + PxSg2 | N + Sg + Gen + PxSg3 | N + Sg + Gen + PxPl1 | N + Sg + Gen + PxPl2 | N + Sg + Gen + PxPl3 ;
@@ -519,6 +522,27 @@ SUBSTITUTE (<W:0.0>) (<W:5.0>) TARGET ("мазиши" N) IF (0 ("мазыши"))
        # мазыши
 SUBSTITUTE:NotAElaWhenAdv (<W:0.0>) (<W:1.0>) TARGET (A SP Ela Indef) IF (0 Adv);
 	   # Кие кирдьсы кемоста эсь валонц
+SUBSTITUTE:NotPrecWhenQue (<W:0.0>) (<W:1.0>) TARGET (Prec) IF (0 (Adv Ela)) (1 ("?" CLB));
+     # Коста?  vs Коста! < козомс
+
+
+SUBSTITUTE:NotPropAblWhenAlone (<W:0.0>) (<W:2.0>) TARGET (Prop SP Abl) IF (-1 CLB OR BOS) (1 CLB OR EOS);
+     # Ватта, монць инголет комань.
+
+SUBSTITUTE:NotСomparativeWhenFollowedByN (<W:0.0>) (<W:1.0>) TARGET ("ся") OR (Adv Comp) IF (0 ("сяда" Num Card)) (1 N);
+    # Сяда кизоц!!! This will need work for complex NPs
+    
+SUBSTITUTE:NotNAblWhenHasTwinImpPl2Before (<W:0.0>) (<W:1.0>) TARGET (N SP Abl Indef) IF (0 NABLHASVPL2IMPRTHOM) (*-1 (CLB) BARRIER CLB OR BOS LINK *-1 (Imprt ScPl2) BARRIER BOS) (NOT 0* (VFIN) BARRIER CLB OR BOS OR EOS);
+     #Ванфтость кядентень, работада сяда осторожнайста.
+
+SUBSTITUTE:NotNAblWhenHasTwinImpPl2After (<W:0.0>) (<W:1.0>) TARGET (N SP Abl Indef) IF (0 NABLHASVPL2IMPRTHOM) (*1 (CLB) OR (PUNCT) BARRIER CLB OR EOS LINK *1 (ScPl2) BARRIER BOS) (NOT 0* (VFIN) BARRIER CLB OR BOS OR EOS);
+
+
+SUBSTITUTE:NotPropAblCop  (<W:0.0>) (<W:2.0>) TARGET (Prop SP Abl Indef Clt/Cop) ;#
+     # Маштат «Кобзарть» морафтомонза!
+
+SUBSTITUTE:NotPropAblCop  (<W:0.0>) (<W:1.0>) TARGET (Abl Indef) IF (-1 VNEGWITHCONNEG) (0 ConNeg) ;#
+    # лия масторонь кяльса корхтама ашеть тонада?
 
 SUBSTITUTE (<W:0.0>) (<W:1.0>) TARGET (Sg Nom Indef) IF (0 ("Аля") OR ("Мар") OR ("Тунда") OR ("Ялга") OR ("Тянь") OR ("Синь") OR ("Весь") OR ("Коза") OR ("Вага"));
 # proper nouns vs high-frequency words : Аля=аля+N+Sg+Nom+Indef, Мар=мар+Sg+Nom+Indef, Тунда=тунда+N+Sg+Nom+Indef, Ялга=ялга+N+Sg+Nom+Indef, 
@@ -570,6 +594,9 @@ REMOVE:NotImprtWhenConneg (V Imprt ScSg2) IF (-1 ("апак"));
        #сёрматт: апак сёрматт
 REMOVE:NotAdjWithCltWhenIndefAdj ("кодама") IF (0 ("кодамовок")); #! indefinite adjective
        #кодамовок: Пинкнень, конатнень колга апак серматт кодамовок документ,...
+
+REMOVE:NoConNegWhenNoPreceedingNeg ConNeg IF (Not -1* VNEGWITHCONNEG BARRIER CLB OR BOS);
+     # : максода пинге — тинць семботь Содасасть, ...
 
 REMOVE:NotPxSg2WhenRelativePron (PxSg2) IF (0 ("кона" Pron Rel Pl));#! relative pronoun NOT interrogative
        #конатнень: Пинкнень, конатнень колга апак серматт кодамовок документ,...
