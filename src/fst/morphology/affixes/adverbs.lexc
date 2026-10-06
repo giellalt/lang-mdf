@@ -12,7 +12,7 @@ LEXICON ADV_DEG 	!!= @CODE@ пяк
 
 LEXICON ADV_ 	!!= @CODE@ 
 : K ;
-LEXICON ADV_PRTSG3_OR_K
+LEXICON ADV_PRTSG3_OR_K !! need {АО} in some stems
 ! Used with modal adverbs: нельзя, можна
 COPULA-PRT-30 ;
  K ;
@@ -91,13 +91,15 @@ LEXICON ADV_ELA
 
 LEXICON ADV_ILL_ ! лангс:лангс
 +Ill: K_вок ;
+LEXICON ADV_INE_temp !
++Sem/Time: ADV_INE ;
 LEXICON ADV_INE ! лангса:лангс{АО}
 +Ine: K_OR_DER/COP ;
 +Ine+Der+Der/Dimin:%>ня K_вок ;
 +Ine: DER/COP_OR_DER-POSS_NNE ;
-LEXICON ADV_LAT_ ! алга:алу
+LEXICON ADV_LAT ! алга:алу
 +Lat: K_вок ;
-LEXICON ADV_LOC_
+LEXICON ADV_LOC
 +Loc: K ;
 +Loc+Der+Der/Dimin:%>ня K ;
 +Loc: DER/COP_OR_DER-POSS_NNE ;
