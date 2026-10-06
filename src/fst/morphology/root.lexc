@@ -964,7 +964,7 @@ LEXICON Root
   Descr_mdf2x	;
   Ger_mdf2x	;
   Interj_mdf2x	;
-  N_mdf2x	;
+  NounRoot	;
   propernouns	;
 !  N_Prop_mdf2x	;
   Num_mdf2x	;
@@ -984,8 +984,8 @@ LEXICON Root
  PRONOUN-TYPES ;
  A_NEWWORDS     ;
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
- N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
- N_NEWWORDS	;
+! N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
+! N_NEWWORDS	;
 ! PROP_NEWWORDS	;
   Acronym		;
   Abbreviation		;
@@ -1003,10 +1003,10 @@ LEXICON Root
 ! Compounding
 
 !LEXICON R
-!+Use/Circ+Cmp%-:%- N_mdf2x ;
+!+Use/Circ+Cmp%-:%- NounRoot ;
 
 LEXICON NounCompounding
- N_mdf2x ;
+ NounRoot ;
  FINAL-PRONOUNS ;
 
 LEXICON VerbEnd

@@ -39,8 +39,7 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/exceptions.lexc      \
 			stems/adjectives_newwords.lexc              \
 			stems/adjectives-russian-like_newwords.lexc \
-			stems/nouns_newwords.lexc                   \
-			stems/nouns_russian_100_newwords.lexc		\
+			stems/nouns.lexc                   \
 			stems/propernouns.lexc             \
 			stems/verbs.lexc                   \
 			compounding.lexc    \
@@ -88,7 +87,6 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/Descr_mdf2x.lexc  \
 			$(srcdir)/stems/Ger_mdf2x.lexc       \
 			$(srcdir)/stems/Interj_mdf2x.lexc \
-			$(srcdir)/stems/N_mdf2x.lexc         \
 			$(srcdir)/stems/Num_mdf2x.lexc   \
 			$(srcdir)/stems/Pcle_mdf2x.lexc     \
 			$(srcdir)/stems/Prc_mdf2x.lexc
@@ -124,7 +122,6 @@ GT_XML_SRCS=\
 			stems/Descr_mdf2x.xml  \
 			stems/Ger_mdf2x.xml       \
 			stems/Interj_mdf2x.xml \
-			stems/N_mdf2x.xml         \
 			stems/Num_mdf2x.xml   \
 			stems/Pcle_mdf2x.xml     \
 			stems/Prc_mdf2x.xml
