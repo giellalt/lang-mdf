@@ -969,7 +969,8 @@ LEXICON Root
   Pcle_mdf2x	;
   Prc_mdf2x	;
 !2019-11-17 all pronouns in lexc  Pron_mdf2x	;
-  V_mdf2x	;
+!2026-10-06 all verbs in lexc. depricate V_mdf2x,  V_NEWWORDS	;
+ VerbRoot ;
     Punctuation ;
     Symbols     ;
     ARABICS ;
@@ -984,7 +985,6 @@ LEXICON Root
  N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
  N_NEWWORDS	;
  PROP_NEWWORDS	;
- V_NEWWORDS     ;
   Acronym		;
   Abbreviation		;
   Punctuation	;
@@ -1008,7 +1008,7 @@ LEXICON NounCompounding
  FINAL-PRONOUNS ;
 
 LEXICON VerbEnd
-+Cmp/Hyph-Serial+Use/Circ+Cmp+Cmp/Hyph#:%-# V_mdf2x       ;
++Cmp/Hyph-Serial+Use/Circ+Cmp+Cmp/Hyph#:%-# VerbRoot       ;
  K ;
 
 
