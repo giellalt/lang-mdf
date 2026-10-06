@@ -41,7 +41,7 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/nouns_newwords.lexc                   \
 			stems/nouns_russian_100_newwords.lexc		\
 			stems/propernouns_newwords.lexc             \
-			stems/verbs_newwords.lexc                   \
+			stems/verbs.lexc                   \
 			compounding.lexc    \
 			affixes/adjectives.lexc    \
 			affixes/adpositions.lexc       \
@@ -92,8 +92,7 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/N_Prop_mdf2x.lexc   \
 			$(srcdir)/stems/Num_mdf2x.lexc   \
 			$(srcdir)/stems/Pcle_mdf2x.lexc     \
-			$(srcdir)/stems/Prc_mdf2x.lexc   \
-			$(srcdir)/stems/V_mdf2x.lexc
+			$(srcdir)/stems/Prc_mdf2x.lexc
 
 # change handling of shared lexical data here:
 if HAVE_SHARED_COMMON
@@ -131,8 +130,7 @@ GT_XML_SRCS=\
 			stems/N_Prop_mdf2x.xml   \
 			stems/Num_mdf2x.xml   \
 			stems/Pcle_mdf2x.xml     \
-			stems/Prc_mdf2x.xml   \
-			stems/V_mdf2x.xml
+			stems/Prc_mdf2x.xml
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=

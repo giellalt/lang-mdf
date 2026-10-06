@@ -15,7 +15,7 @@
         "lemmatags": ["+N+Prop+Sg+Nom"]
     },
     "verbs": {
-        "lexcfile": "@abs_srcdir@/../stems/V_mdf2x.lexc",
+        "lexcfile": "@abs_srcdir@/../stems/verbs.lexc",
         "lemmatags": ["+V+Inf"]
     },
     "otherlexcs": [

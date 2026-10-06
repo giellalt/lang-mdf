@@ -1,0 +1,30 @@
+{
+    "analyser": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../../analyser-gt-norm.hfstol",
+    "generator": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../../generator-gt-norm.hfstol",
+    "lexcroot": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../root.lexc",
+    "nouns": {
+        "lexcfile": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/N_mdf2x.lexc",
+        "lemmatags": ["+N+Sg+Nom+Def", "+N+Pl+Nom+Def"]
+    },
+    "adjectives": {
+        "lexcfile": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/A_mdf2x.lexc",
+        "lemmatags": ["+A+Sg+Nom"]
+    },
+    "propernouns": {
+        "lexcfile": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/N_Prop_mdf2x.lexc",
+        "lemmatags": ["+N+Prop+Sg+Nom"]
+    },
+    "verbs": {
+        "lexcfile": "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/V_mdf2x.lexc",
+        "lemmatags": ["+V+Inf"]
+    },
+    "otherlexcs": [
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/Num_mdf2x.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../stems/Pron_mdf2x.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../affixes/adjectives.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../affixes/nouns.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../affixes/propernouns.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../affixes/symbols.lexc",
+        "/Users/jackrueter/Desktop/Github/giellalt/lang-mdf/src/fst/morphology/test/../affixes/verbs.lexc"
+    ]
+}
