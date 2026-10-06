@@ -12,7 +12,7 @@ LEXICON ADV_DEG 	!!= @CODE@ пяк
 
 LEXICON ADV_ 	!!= @CODE@ 
 : K ;
-LEXICON ADV_CAN_TAKE_PRTSG3
+LEXICON ADV_PRTSG3_OR_K
 ! Used with modal adverbs: нельзя, можна
 COPULA-PRT-30 ;
  K ;
@@ -42,7 +42,11 @@ LEXICON ADV_INTERR_ITER
 +Iter: K ;
 
 
-LEXICON ADV_TEMP 	!!= @CODE@ 
+LEXICON ADV_PRTSG3_OR_K_temp 	!!= @CODE@ 
++Sem/Time: K ;
++Sem/Time: COPULA-PRT-30 ;
+
+LEXICON ADV_temp 	!!= @CODE@ 
 +Sem/Time: K ;
 
 

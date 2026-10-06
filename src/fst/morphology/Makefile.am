@@ -35,6 +35,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			stems/abbreviations.lexc   \
 			stems/acronyms.lexc        \
+			stems/adverbs.lexc        \
 			stems/exceptions.lexc      \
 			stems/adjectives_newwords.lexc              \
 			stems/adjectives-russian-like_newwords.lexc \
@@ -83,7 +84,6 @@ GENERATED_LEXC_SRCS=\
 			generated_files/mul-$(GLANG)-punctuation.lexc \
 			$(srcdir)/stems/A_mdf2x.lexc     \
 			$(srcdir)/stems/Adp_mdf2x.lexc   \
-			$(srcdir)/stems/Adv_mdf2x.lexc       \
 			$(srcdir)/stems/CC_mdf2x.lexc   \
 			$(srcdir)/stems/Descr_mdf2x.lexc  \
 			$(srcdir)/stems/Ger_mdf2x.lexc       \
@@ -121,7 +121,6 @@ endif
 GT_XML_SRCS=\
 			stems/A_mdf2x.xml    \
 			stems/Adp_mdf2x.xml   \
-			stems/Adv_mdf2x.xml       \
 			stems/CC_mdf2x.xml   \
 			stems/Descr_mdf2x.xml  \
 			stems/Ger_mdf2x.xml       \
