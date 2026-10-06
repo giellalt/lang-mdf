@@ -520,18 +520,19 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
 !2026-02-16ME??!	 INF_OM		;
-+ConNeg:%>{АЕØ} VerbEnd ;
-+ConNeg:%>{АЕØ} PL-NOM-INDEF ;
-+ConNeg+Use/NG:%^CnsSt%>{АЕØ} VerbEnd ;
-+ConNeg+Use/NG:%^CnsSt%>{АЕØ} PL-NOM-INDEF ;
++ConNeg:%>{АЕО} VerbEnd ;
++ConNeg:%>{АЕО} PL-NOM-INDEF ;
++ConNeg+Use/NG:%^CnsSt%>{АЕО} VerbEnd ;
++ConNeg+Use/NG:%^CnsSt%>{АЕО} PL-NOM-INDEF ;
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
-!!€ кирдь%>{АЕØ}
+!!€ кирдь%>{АЕО}
 !!€ кирд0%>е
-!!€ ван%>{АЕØ}
+!!€ ван%>{АЕО}
 !!€ ван%>а
-+ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} K ;
++ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;
 +ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} PL-NOM-INDEF ;
++ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} VerbEnd ;
 !! апак Homonymy +Imprt+ScSg2
 !! ваномс+V+ConNegII
 !!€ ван%>{Х}{КТ}{ЬØ}
