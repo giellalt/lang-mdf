@@ -957,7 +957,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 LEXICON Root
 !! The word forms in Moksha language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-  A_mdf2x	;
+  AdjectiveRoot	;
   Adp_mdf2x	;
   AdverbRoot	;
   CC_mdf2x	;
@@ -982,8 +982,8 @@ LEXICON Root
  ADPOSITION-TYPES ;
  NUMERAL-TYPES ;
  PRONOUN-TYPES ;
- A_NEWWORDS     ;
- A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
+! A_NEWWORDS     ;
+! A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
 ! N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
 ! N_NEWWORDS	;
 ! PROP_NEWWORDS	;

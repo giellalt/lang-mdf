@@ -37,8 +37,7 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/acronyms.lexc        \
 			stems/adverbs.lexc        \
 			stems/exceptions.lexc      \
-			stems/adjectives_newwords.lexc              \
-			stems/adjectives-russian-like_newwords.lexc \
+			stems/adjectives.lexc              \
 			stems/nouns.lexc                   \
 			stems/propernouns.lexc             \
 			stems/verbs.lexc                   \
@@ -81,7 +80,6 @@ GENERATED_LEXC_SRCS=\
 			generated_files/smi-$(GLANG)-arabic_roman_digits.lexc \
 			generated_files/mul-$(GLANG)-symbols.lexc     \
 			generated_files/mul-$(GLANG)-punctuation.lexc \
-			$(srcdir)/stems/A_mdf2x.lexc     \
 			$(srcdir)/stems/Adp_mdf2x.lexc   \
 			$(srcdir)/stems/CC_mdf2x.lexc   \
 			$(srcdir)/stems/Descr_mdf2x.lexc  \
@@ -116,7 +114,6 @@ endif
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
-			stems/A_mdf2x.xml    \
 			stems/Adp_mdf2x.xml   \
 			stems/CC_mdf2x.xml   \
 			stems/Descr_mdf2x.xml  \

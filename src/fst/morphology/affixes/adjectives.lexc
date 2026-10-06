@@ -109,18 +109,18 @@ LEXICON A_ANDY
 !+Der+Der/MWN+N: N_ANDY ;
  N_ANDY ;
 
-LEXICON A_INT-АЙ
-+Use/SpellNoSugg:ай A_PEJ ;
-LEXICON A_RU-АЙ
-+Use/SpellNoSugg:ай A_PEJ ;
+!LEXICON A_INT-АЙ
+!+Use/SpellNoSugg:ай A_PEJ ;
+!LEXICON A_RU-АЙ
+!+Use/SpellNoSugg:ай A_PEJ ;
 !LEXICON A_INT-ОЙ
 !+Use/SpellNoSugg:ой A_PEJ ;
 !LEXICON A_RU-ОЙ
 !+Use/SpellNoSugg:ой A_PEJ ;
-LEXICON A_INT-ЯЙ
-+Use/SpellNoSugg:яй A_PEJ ;
-LEXICON A_RU-ЯЙ
-+Use/SpellNoSugg:яй A_PEJ ;
+!LEXICON A_INT-ЯЙ
+!+Use/SpellNoSugg:яй A_PEJ ;
+!LEXICON A_RU-ЯЙ
+!+Use/SpellNoSugg:яй A_PEJ ;
 
 LEXICON A_SEL1ME
 !сельме:сельм{ЕО}
