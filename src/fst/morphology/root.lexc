@@ -696,7 +696,8 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
  {вгк} 	!!= @CODE@ {вгк}:г {вгк}:в {вгк}:к
  {гк}	!!= @CODE@ clitic in ``` {гк} {АЕ} ```
  К1 	!!= @CODE@ К1:к К1:т
-{АЕØ}	!!= @CODE@  ConNeg with ашень, тят, афоль
+{АЕØ}	!!= @CODE@  мокша мокшень
+{АЕО}	!!= @CODE@  ConNeg with ашень, тят, афоль
 {АО}	!!= @CODE@  пула stem
 {АОØ}	!!= @CODE@  офта stem
 {АЕ}	!!= @CODE@ prolative
@@ -964,7 +965,8 @@ LEXICON Root
   Ger_mdf2x	;
   Interj_mdf2x	;
   N_mdf2x	;
-  N_Prop_mdf2x	;
+  propernouns	;
+!  N_Prop_mdf2x	;
   Num_mdf2x	;
   Pcle_mdf2x	;
   Prc_mdf2x	;
@@ -984,7 +986,7 @@ LEXICON Root
  A-Russian-like_NEWWORDS	; !! These have been slightly modified from kpv and myv
  N_RUSSIAN_100_NEWWORDS		; !! These words should only include 100% matches with lang-rus N+Sg+Nom
  N_NEWWORDS	;
- PROP_NEWWORDS	;
+! PROP_NEWWORDS	;
   Acronym		;
   Abbreviation		;
   Punctuation	;
