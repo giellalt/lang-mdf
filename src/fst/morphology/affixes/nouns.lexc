@@ -358,9 +358,7 @@ LEXICON N_J !!= @CODE@
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
 
 LEXICON N_PEJ !!= @CODE@
- N_PEJ-SG ;
- N_PEJ-PL ;
-+Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
+ N_J ;
 
 LEXICON N_J-SG
 : NMN_J-SG ;
@@ -368,11 +366,10 @@ LEXICON N_J-SG
 LEXICON N_J-PL
 : NMN_J-PL ;
 
-LEXICON N_PEJ-SG
-: NMN_PEJ-SG ;
-
-LEXICON N_PEJ-PL
-: NMN_PEJ-PL ;
+!LEXICON N_PEJ-SG
+!: NMN_PEJ-SG ;
+!LEXICON N_PEJ-PL
+!: NMN_PEJ-PL ;
 
 LEXICON N_K !!= @CODE@
 ! for development of double-k issues
@@ -424,6 +421,8 @@ LEXICON N_T1 !!= @CODE@
 +Der+Der/Dimin+Err/Orth-soft-kept+N:%^ЬKEEP%>ня NMN_AVA ;
 +Der+Der/Dimin+N:%>{ЕО}{DIM}я NMN_AVA ;
 
+LEXICON N_L1
+ N_KIAL1 ;
 LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
@@ -816,20 +815,21 @@ LEXICON NMN_PEJ
 LEXICON NMN_J-SG
 !! Indefinite
 SG-NOM-INDEF ;
++Err/Orth:%^Glide SG-NOM-INDEF-WITH-SUFF ;! довольнайль >{ЕОØ}ль
         NMN-SG ;
         NMN-SG/PL       ;
 +Err/Orth: CONSONANT-STEM-4-VAJ ;
 
-LEXICON NMN_PEJ-SG
-!! Indefinite
-! SG-NOM-INDEF ;
-!! Definite Sg
-! SG-DAT/GEN/NOM-DEF ;
-! PXSG1-Sg ;
-SG-NOM-INDEF ;
-        NMN-SG ;
-        NMN-SG/PL       ;
-+Err/Orth: CONSONANT-STEM-4-VAJ ;
+!LEXICON NMN_PEJ-SG
+!!! Indefinite
+!! SG-NOM-INDEF ;
+!!! Definite Sg
+!! SG-DAT/GEN/NOM-DEF ;
+!! PXSG1-Sg ;
+!SG-NOM-INDEF ;
+!        NMN-SG ;
+!        NMN-SG/PL       ;
+!+Err/Orth: CONSONANT-STEM-4-VAJ ;
 
 LEXICON CONSONANT-STEM-4-VAJ
 @U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@+SP+Cau+Indef:@U.DECL-NX.SP@@U.CX.CAU@@U.DECL-DX.INDEF@%>нкса NounEnd_K ;
@@ -837,13 +837,13 @@ LEXICON CONSONANT-STEM-4-VAJ
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>нь NounEnd_K ;
 
 
-LEXICON NMN_PEJ-PL
-!! Indefinite
-! PL-NOM-INDEF ;
-!! Definite Pl
-! PL-DAT/GEN/NOM-DEF ;
-        NMN-PL       ;
-        NMN-SG/PL       ;
+!LEXICON NMN_PEJ-PL
+!!! Indefinite
+!! PL-NOM-INDEF ;
+!!! Definite Pl
+!! PL-DAT/GEN/NOM-DEF ;
+!        NMN-PL       ;
+!        NMN-SG/PL       ;
 
 LEXICON NMN_J-PL
 !! Indefinite
@@ -1337,6 +1337,7 @@ LEXICON SG-NOM-INDEF
  SG-NOM-INDEF-WITHOUT-SUFF ;
 LEXICON SG-NOM-INDEF-WITHOUT-SUFF
 @U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+Sg+Nom+Indef:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@ NounEnd_K ;
+
 LEXICON SG-NOM-INDEF-WITH-SUFF
 @U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+Sg+Nom+Indef:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@ SG-NMN-COP-FOR_MUTUAL-PRT2 ;
 @U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@+Sg+Nom+Indef:@U.DECL-NX.SG@@U.CX.NOM@@U.DECL-DX.INDEF@ SG-NMN-COP-FOR_MUTUAL-NONPST-SG-12 ;
@@ -1379,15 +1380,16 @@ PL-NOM-INDEF ;
  SG-NOM-INDEF ;
  SP-ABE ;
  SP-ABL ;
-SP-CAU ;
-SP-CMPR ;
-SP-DAT-INDEF ;
-SP-ELA-INDEF ;
-SP-GEN-INDEF ;
-SP-ILL-INDEF ;
-SP-INE ;
-SP-PRL_Ova ;
-SP-TRA-INDEF_ks ;
+ SP-CAU ;
+ SP-CMPR ;
+ SP-DAT-INDEF ;
+ SP-ELA-INDEF ;
+ SP-GEN-INDEF ;
+ SP-ILL-INDEF ;
+ SP-INE ;
+ SP-PRL_Ova ;
+ SP-TRA-INDEF_ks ;
+ PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;
 
 LEXICON MWN_NUM_CASE ! алашань кедьстось
 @P.MWN.YES@ PL-DAT/GEN/NOM-DEF ;
