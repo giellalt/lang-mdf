@@ -133,6 +133,7 @@ Alphabet !!≈!!The base @CODE@
 %^RmVow:0 !!= * @CODE@ for removing vowels 
 %^Ь2ZERO:0	!!= @CODE@ removes soft sign before vowel or other combination, also й
 %^ЬKEEP:0	!!= @CODE@ retains soft sign, breaks pattern for removal
+%^NoX:0		!!= @CODE@ this is used to allow шит 
 %^Ъ2PED:0	!!= @CODE@ brings out hard sign, which is
 !! otherwise automatically removed %{ъØ%} 
 %^Е2О:0		!!= @CODE@ Change stem-final vowel сембе:сембось
@@ -849,6 +850,8 @@ Vx:0 <=>
         %{АО%}: %> _ ;
 !!€ пул%{АО%}%>%{Х%}т%{ЬØ%}
 !!€ пуло%>0т0
+!%^NoX:
+       %^NoX: %> _ ;
 
 " %{Х%}:х after some consonants"
 !! **@RULENAME@**  
@@ -1164,7 +1167,7 @@ Vx:0 <=>
 !!€ зеп00%>0т0
 
  [CnsDent: |[Vows - [я|и|е|э|ы]|Vows Cns+ я ] [CnsNonDent:]|CnsAndSoft [CnsNonDent:] |Vows] ([%{ЕØ%}:] %^RmVow:) %> (%{Х%}:)  %{КТ%}:  _ [%> | # ];
- :Vows (%^Я2А:) %> %{Х%}: т _ ;
+ :Vows (%^Я2А:) (%^NoX:0) %> %{Х%}: т _ ;
  ! :BTV %> %{Х%}: т _ ;
 !! ши+N+Pl+Nom+Indef: **day/päivä**
 !!€ ши%>%{Х%}т%{ЬØ%}
@@ -1379,6 +1382,10 @@ SLoss:0 /<= [[ :* Letters ] - [ :* :с ] ] %> _ ;
 "Disallow Ь2ZERO"
 !! **@RULENAME@**
 %^Ь2ZERO:0 /<= [Vows|Cns] _ %> с;
+
+"Disallow X"
+!! **@RULENAME@**
+%^NoX:0 /<= [Vows - и |Cns] _ %> %{Х%}: ;
 
 "Disallow ЬKEEP"
 !! **@RULENAME@**

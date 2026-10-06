@@ -712,6 +712,7 @@ Multichar_Symbols !!≈!!@CODE@ / Analysis symbols
 %^RmVow 	!!= * @CODE@ for removing vowels
 %^Ь2ZERO	!!= @CODE@ removes soft sign before vowel or other combination
 %^ЬKEEP		!!= @CODE@ retains soft sign, breaks pattern for removal шяярьня
+^NoX		!!= @CODE@ this is used to allow шит 
 %^Ъ2PED		!!= @CODE@ brings out hard sign, which is otherwise automatically removed
 %^Е2О		!!= @CODE@ Change stem-final vowel сембе:сембось
 %^Е2А		!!= @CODE@ Change stem-final vowel мельге:мельганза

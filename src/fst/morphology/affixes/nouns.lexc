@@ -1087,8 +1087,10 @@ LEXICON NMN-SG-OBL
 
 LEXICON NMN-PL
  PL-NOM-INDEF ;
++Err/Orth:^NoX PL-NOM-INDEF ; ! шит
 !! Definite Pl
  PL-DAT/GEN/NOM-DEF ;
++Err/Orth:^NoX PL-DAT/GEN/NOM-DEF ; ! шитне
 !! Possessor Indices
 ! PXSG1-Pl ;
  PL-DAT/GEN/NOM-PXSG1 ;
