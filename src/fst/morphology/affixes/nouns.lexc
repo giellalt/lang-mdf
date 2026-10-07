@@ -815,7 +815,7 @@ LEXICON NMN_PEJ
 LEXICON NMN_J-SG
 !! Indefinite
 SG-NOM-INDEF ;
-+Err/Orth:%^Glide SG-NOM-INDEF-WITH-SUFF ;! довольнайль >{ЕОØ}ль
++Err/Orth-glide-final:%^Glide SG-NOM-INDEF-WITH-SUFF ;! довольнайль >{ЕОØ}ль
         NMN-SG ;
         NMN-SG/PL       ;
 +Err/Orth: CONSONANT-STEM-4-VAJ ;
