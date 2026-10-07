@@ -227,6 +227,7 @@ LEXICON IV_ALYJAFTOMS
 LEXICON IV_ANDOVOMS
 !! андовомс:андов
 : V0_ANDOMS ;
++ConNeg: VerbEnd ;!20261006 elsewhere?
 
 LEXICON IV_NJAJEMS
 !! няемс:ня
@@ -350,6 +351,7 @@ LEXICON V0_TIJEMS
 
 +ConNeg:е K ; 
 +ConNeg:е PL-NOM-INDEF ; 
++ConNegII:к K ;! тик 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
@@ -520,15 +522,15 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
 !2026-02-16ME??!	 INF_OM		;
-+ConNeg:%>{АЕО} VerbEnd ;
-+ConNeg:%>{АЕО} PL-NOM-INDEF ;
-+ConNeg+Use/NG:%^CnsSt%>{АЕО} VerbEnd ;
-+ConNeg+Use/NG:%^CnsSt%>{АЕО} PL-NOM-INDEF ;
++ConNeg:%>{АЕОØ} VerbEnd ;
++ConNeg:%>{АЕОØ} PL-NOM-INDEF ;
++ConNeg+Use/NG:%^CnsSt%>{АЕОØ} VerbEnd ;
++ConNeg+Use/NG:%^CnsSt%>{АЕОØ} PL-NOM-INDEF ;
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
-!!€ кирдь%>{АЕО}
+!!€ кирдь%>{АЕОØ}
 !!€ кирд0%>е
-!!€ ван%>{АЕО}
+!!€ ван%>{АЕОØ}
 !!€ ван%>а
 +ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} PL/SG-NMN-COP-FOR_MUTUAL-PRS/PRT2 ;
 +ConNegII+Use/NG:%>{Х}{КТ}{ЬØ} PL-NOM-INDEF ;
