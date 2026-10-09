@@ -308,6 +308,8 @@ LEXICON V0_SJAVOMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IND-PRT2-ALL ; 
 @U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@%>{ЕОØ}ндяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря IND-PRT1-ALL ; !!= @CODE@ 
 @U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@%>{ЕОØ}фтяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@%>{ЕОØ}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
@@ -347,6 +349,8 @@ LEXICON V0_TIJEMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT2-ALL ; 
 @U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@й%>{ЕОØ}ндяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря IND-PRT1-ALL ; !!= @CODE@ 
 @U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@й%>{ЕОØ}фтяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>{ЕОØ}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
@@ -378,6 +382,8 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IND-PRT2-ALL ; 
 @U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@й%>{ЕОØ}ндяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@й%>{ЕОØ}ндяря IND-PRT1-ALL ; !!= @CODE@ 
 @U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@й%>{ЕОØ}фтяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@й%>{ЕОØ}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
@@ -521,7 +527,9 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IND-PRT1-ALL ; 
 	 IND-PRT2-ALL ; 
 @U.CONJ-MX.COND@+Cond:@U.CONJ-MX.COND@%>{ЕОØ}ндяря VERB-ZERO-ALL ; !! COND-ALL
-+Cond:%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря IND-PRT1-ALL ; !!= @CODE@ 
 @U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-MX.NPROT@%>{ЕОØ}фтяря VERB-ZERO-ALL ; !! COND-ALL
 +NegCnd:%>{ЕОØ}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
 
