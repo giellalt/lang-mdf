@@ -72,7 +72,7 @@ LEXICON ADV_АШЕЛЬ !! ашель:ашель
 +Prt2+ScSg3: ENDLEX ;
 +Prt2+ScPl1:еме ENDLEX ;
 +Ind+Prt2+ScPl2:еде ENDLEX ;
-+Ind+Prt2+ScPl3:%>{Х}ть ENDLEX ;
++Ind+Prt2+ScPl3:^Devoice%>{Х}ть ENDLEX ;
 
 LEXICON ADV-ABL_ ! алда:алд{АО}
 +Abl: K_вок ;
