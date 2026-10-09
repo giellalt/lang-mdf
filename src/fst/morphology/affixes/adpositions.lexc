@@ -30,8 +30,8 @@ LEXICON ADPOSITION-TYPES
 кувалма+v3+Po:къвалмова ADP_WITH_PX_OR_COP_OR_NOT ;
 колга+Po:колга ADP_WITH_PX_OR_COP_OR_NOT ;
 вельде+Po:вельде ADP_WITH_PX_OR_COP_OR_NOT ;
-лаца+Po+Ine:лац{АО} ADP_WITH_PX_OR_COP_OR_NOT ;
-мархта+Po:мархт{АО} ADP_WITH_PX_OR_COP_OR_NOT ;
+лаца+Po+Ine:лац{АО} ADP_AS_SECONDARY_WITH_PX_OR_COP_OR_NOT ;
+мархта+Po:мархт{АО} ADP_AS_SECONDARY_WITH_PX_OR_COP_OR_NOT ;
 перьфке+Po:перьфк{АЕ} ADP_WITH_PX_OR_COP_OR_NOT ;
 ваксста+Po+Ela:ваксст{АО} ADP_WITH_PX_OR_COP_OR_NOT ; !Prl, Ill, Ine, Ela,
 ваксс+Po+Ill:ваксс ENDLEX ; !Prl, Ill, Ine, Ela,
@@ -190,7 +190,7 @@ LEXICON ADPOSITION-TYPES
 
 LEXICON ADP_AS_SECONDARY_WITH_PX_OR_COP_OR_NOT !! follow +Ine +Loc +Prl at least
 ADP_WITH_PX_OR_COP_OR_NOT ;
-ADP_AS_SECONDARY_HEAD ; !20250825 oblique forms for secondary head
++Der+Der/MWN+N: ADP_AS_SECONDARY_HEAD ; !20250825 oblique forms for secondary head
 ! 2026-02-17 need oblique possessa with secondary head and then point it to
 ! ADP_AS_SECONDARY_HEAD
 
@@ -205,9 +205,9 @@ LEXICON ADP_WITH_PX_OR_NOT
  
 LEXICON ADP-WITH-PX
  OBLIQUECX-PX-REQUIRES-VOWEL ;
-!%>{ЕОØ}н
+!%>{ЕОØ}н , %>ст
  OBLIQUECX-PX-REQUIRES-NO-VOWEL ;
-!%>т, %>ст
+!%>т
 
 !PO-ABL_ PO-DAT-DEF_ PO_ELA PO-INE_ PO-LAT_ PO-LOC_ PO-PRL_ PO-PRL_ЁНГА PO_КВАЛМА
 ! ============ !
