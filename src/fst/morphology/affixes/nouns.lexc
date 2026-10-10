@@ -236,12 +236,12 @@ LEXICON N_PINGE !!= @CODE@
 +Use/NG: SG-GEN-DEF ; !2023-10-14 кядьготь
 +Use/NG: NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 !! Without vowel
-:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
+:^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 
 +Use/NG: SG-NOM-DEF ;
  SP-PRL_Ga ; !2023-08-30 has pair in lose stem vowel
 +Use/NG:  SP-ABL ;
-:%^RmVow SP-LAT-INDEF ;
+:^RmVow SP-LAT-INDEF ;
 ! N_KAL ;  Ela, Ill, Ine, Par 
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
 
@@ -274,12 +274,12 @@ LEXICON N_KIAD1GE !!= @CODE@
 SG-GEN-DEF ; !2023-10-14 кядьготь
  NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;!retain vowel stem
 !! Without vowel
-+Use/NG:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
++Use/NG:^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 
 +Use/NG: SG-NOM-DEF ;
  SP-PRL_Ga ; !2023-08-30 has pair in lose stem vowel
 +Use/NG:  SP-ABL ;
-:%^RmVow SP-LAT-INDEF ;
+:^RmVow SP-LAT-INDEF ;
 ! N_KAL ;  Ela, Ill, Ine, Par 
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
 
@@ -293,7 +293,7 @@ LEXICON N_KECHE !!= @CODE@
 : NMN_DECLENSION-WITHOUT-ONSET-VOWEL-FLOAT ;
 
 !! Without vowel
-:%^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
+:^RmVow NMN_DECLENSION-WITHOUT-ONSET-VOWEL-LOSE-STEM-VOWEL ;
 NMN_DECLENSION-WITHOUT-ONSET-VOWEL-RETAIN-STEM-VOWEL ;
 
 ! N_KAL ;  Ela, Ill, Ine, Par 
@@ -425,7 +425,7 @@ LEXICON N_T1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
-+Der+Der/Dimin+Err/Orth-soft-kept+N:%^ЬKEEP%>ня NMN_AVA ;
++Der+Der/Dimin+Err/Orth-soft-kept+N:^ЬKEEP%>ня NMN_AVA ;
 +Der+Der/Dimin+N:%>{ЕО}{DIM}я NMN_AVA ;
 
 LEXICON N_L1
@@ -434,7 +434,7 @@ LEXICON N_KIAL1 !!= @CODE@
  N_KIAL1-SG ;
  N_KIAL1-PL ;
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA ;
-+Der+Der/Dimin+Err/Orth-soft-kept+N:%^ЬKEEP%>ня NMN_AVA ;
++Der+Der/Dimin+Err/Orth-soft-kept+N:^ЬKEEP%>ня NMN_AVA ;
 +Der+Der/Dimin+N:%>{ЕО}{DIM}я NMN_AVA ;
 
 LEXICON N_KIAL1-SG
@@ -572,10 +572,10 @@ SG-NOM-INDEF ;
 
 LEXICON NMN_VAL1MIA
  SG-NOM-INDEF ;
-:%^Я2А        NMN-SG-OBL  ;
-:%^Я2А        NMN-PL  ;
-:%^Я2А        NMN-SG/PL       ;
-:%^Я2А SP-LAT-INDEF ;
+:^Я2А        NMN-SG-OBL  ;
+:^Я2А        NMN-PL  ;
+:^Я2А        NMN-SG/PL       ;
+:^Я2А SP-LAT-INDEF ;
 !CHECKME
  SG-DAT/GEN/NOM-PXSG1 ;
  PL-DAT/GEN/NOM-PXSG1 ;
@@ -592,13 +592,13 @@ LEXICON NMN_VAL1MIA
 
 !LEXICON NMN_VAL1MIA-SG
 !SG-NOM-INDEF ;
-!:%^Я2А        NMN-SG ;
-!:%^Я2А        NMN-SG/PL       ;
-!:%^Я2А SP-LAT-INDEF ;
+!:^Я2А        NMN-SG ;
+!:^Я2А        NMN-SG/PL       ;
+!:^Я2А SP-LAT-INDEF ;
 
 !LEXICON NMN_VAL1MIA-PL
-!:%^Я2А        NMN-PL ;
-!:%^Я2А        NMN-SG/PL       ;
+!:^Я2А        NMN-PL ;
+!:^Я2А        NMN-SG/PL       ;
 
 LEXICON NMN_MOKSHA !уша:уш{АЕØ}
 :        NMN-SG  ;
@@ -638,30 +638,30 @@ LEXICON NMN_PAKSIA-PL
 !NMN-SG ;
 !NMN-PL ;
 !NMN-SG/PL   ;
-!:%^RmVow NMN-SG ;
-!:%^RmVow NMN-PL ;
-!:%^RmVow NMN-SG/PL   ;
+!:^RmVow NMN-SG ;
+!:^RmVow NMN-PL ;
+!:^RmVow NMN-SG/PL   ;
 ! SP-LAT-INDEF ;
 
 !LEXICON NMN_OFTA-SG !!= @CODE@
 !SG-NOM-INDEF ;
-!:%^RmVow NMN-SG ;
+!:^RmVow NMN-SG ;
 !	 NMN-SG ;
-!:%^RmVow NMN-SG/PL   ;
+!:^RmVow NMN-SG/PL   ;
 !	 NMN-SG/PL   ;
 !+Der+Der/Dimin+N:%>{DIM}я NMN_AVA-SG ;
 
 LEXICON NMN_OFTA-PL !!= @CODE@
-:%^RmVow NMN-PL ;
+:^RmVow NMN-PL ;
 +Use/NG:	 NMN-PL ;
-:%^RmVow NMN-SG/PL   ;
+:^RmVow NMN-SG/PL   ;
 +Use/NG:         NMN-SG/PL   ;
 +Der+Der/Dimin+N:%>{DIM}я NMN_AVA-PL ;
 
 !LEXICON NMN_PARA-PL !!= @CODE@
-!+Use/NG:%^RmVow NMN-PL ;
+!+Use/NG:^RmVow NMN-PL ;
 !	 NMN-PL ;
-!+Use/NG:%^RmVow NMN-SG/PL   ;
+!+Use/NG:^RmVow NMN-SG/PL   ;
 !         NMN-SG/PL   ;
 !+Der+Der/Dimin+N:%>{DIM}я NMN_AVA-PL ;
 
@@ -822,7 +822,7 @@ LEXICON NMN_PEJ
 LEXICON NMN_J-SG
 !! Indefinite
 SG-NOM-INDEF ;
-+Err/Orth-glide-final:%^Glide SG-NOM-INDEF-WITH-SUFF ;! довольнайль >{ЕОØ}ль
++Err/Orth-glide-final:^Glide SG-NOM-INDEF-WITH-SUFF ;! довольнайль >{ЕОØ}ль
         NMN-SG ;
         NMN-SG/PL       ;
 +Err/Orth: CONSONANT-STEM-4-VAJ ;
@@ -918,7 +918,7 @@ LEXICON NMN_KAL-PL
 !        NMN-SG ;
 !        NMN-PL ;
 !        NMN-SG/PL       ;
-!:%^Ь2ZERO SP-LAT-INDEF ;
+!:^Ь2ZERO SP-LAT-INDEF ;
 
 
 LEXICON NMN_KIAL1-SG
@@ -930,7 +930,7 @@ LEXICON NMN_KIAL1-SG
 SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF ;
+:^Ь2ZERO SP-LAT-INDEF ;
 
 LEXICON NMN_KIAL1-PL
 !! Indefinite
@@ -938,7 +938,7 @@ LEXICON NMN_KIAL1-PL
 !! Definite Pl
 ! PL-DAT/GEN/NOM-DEF ;
         NMN-PL       ;
-+Err/Orth:%^ЬKEEP        NMN-PL       ;!2025-06-17 older orth вирьхне, вирьхть
++Err/Orth:^ЬKEEP        NMN-PL       ;!2025-06-17 older orth вирьхне, вирьхть
         NMN-SG/PL       ;
 
 !LEXICON NMN_PINE
@@ -948,7 +948,7 @@ LEXICON NMN_KIAL1-PL
 !        NMN-SG ;
 !        NMN-PL ;
 !        NMN-SG/PL       ;
-!:%^Ь2ZERO SP-LAT-INDEF ;
+!:^Ь2ZERO SP-LAT-INDEF ;
 
 
 LEXICON NMN_PINE-SG
@@ -960,7 +960,7 @@ LEXICON NMN_PINE-SG
 SG-NOM-INDEF ;
         NMN-SG ;
         NMN-SG/PL       ;
-:%^Ь2ZERO SP-LAT-INDEF ; !2023_03_09 what does the trigger do
+:^Ь2ZERO SP-LAT-INDEF ; !2023_03_09 what does the trigger do
 
 LEXICON NMN_PINE-PL
 !! Indefinite
@@ -1200,18 +1200,18 @@ LEXICON SG-DAT/GEN/NOM-PXSG1
 ! PL-DAT/GEN/NOM-PXSG1 ;
 
 LEXICON PL-DAT/GEN/NOM-PXSG1
-@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не NounEnd_K ;
-@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-PRT2 ;
-@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
-@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@%^PXSG1%>не%>{ЕОØ}нь NounEnd_K ;
-@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@%^PXSG1%>не%>нди K/DAT-ARAM ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@^PXSG1%>не NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-PRT2 ;
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@^PXSG1%>не PL-NMN-COP-FOR_MUTUAL-NONPST-PL2 ;
+@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.PL@@U.CX.GEN@@U.DECL-DX.PXSG1@^PXSG1%>не%>{ЕОØ}нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@^PXSG1%>не%>нди K/DAT-ARAM ;
 
-@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@%^PXSG1%>{ЕОØ}не NounEnd_K ;
-@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@%^PXSG1%>{ЕОØ}не%>нь NounEnd_K ;
-@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@%^PXSG1%>{ЕОØ}не%>нди K/DAT-ARAM ;
-!!€ кядь%^PXSG1%>не
+@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@+Pl+Nom+PxSg1:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.PXSG1@^PXSG1%>{ЕОØ}не NounEnd_K ;
+@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@+Pl+Gen+PxSg1:@U.DECL-NX.SG@@U.CX.GEN@@U.DECL-DX.PXSG1@^PXSG1%>{ЕОØ}не%>нь NounEnd_K ;
+@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@+Pl+Dat+PxSg1:@U.DECL-NX.PL@@U.CX.DAT@@U.DECL-DX.PXSG1@^PXSG1%>{ЕОØ}не%>нди K/DAT-ARAM ;
+!!€ кядь^PXSG1%>не
 !!€ кяд00%>не
-!!€ ярмак%^PXSG1%>{ЕОØ}не
+!!€ ярмак^PXSG1%>{ЕОØ}не
 !!€ ярмак0%>оне
 
 LEXICON SG-DAT/GEN/NOM-PXSG2
@@ -1354,7 +1354,7 @@ LEXICON NOTDEF-ABE
 
 LEXICON NOTDEF-ABL
 @U.DECL-NX.SP@@U.CX.ABL@+SP+Abl:@U.DECL-NX.SP@@U.CX.ABL@%>д{АО} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
-@U.DECL-NX.SP@@U.CX.ABL@+SP+Abl+Err/Orth-t-d:@U.DECL-NX.SP@@U.CX.ABL@%^Devoice%>т{АО} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
+@U.DECL-NX.SP@@U.CX.ABL@+SP+Abl+Err/Orth-t-d:@U.DECL-NX.SP@@U.CX.ABL@^Devoice%>т{АО} Choose-INDEF-OBLPX-ava_OR_DER/COP ;
 
 LEXICON NOTDEF-CAU
  SP-CAU ;
@@ -1442,7 +1442,7 @@ LEXICON SP-ELA-INDEF
 
 LEXICON SP-GEN-INDEF
 @U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%>{ЕОØ}нь NounEnd_K ;
-@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef+Err/Orth-glide-final:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@%^Glide%>нь NounEnd_K ;
+@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@+SP+Gen+Indef+Err/Orth-glide-final:@U.DECL-NX.SP@@U.CX.GEN@@U.DECL-DX.INDEF@^Glide%>нь NounEnd_K ;
 !! сельме+N+SP+Gen+Indef
 !!€ сельм{ЕО}%>{ЕОØ}нь
 !!€ сельмо%>0нь
@@ -1481,7 +1481,7 @@ LEXICON PL-NOM-INDEF
 @U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@+Pl+Nom+Indef+Clt/Cop:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@^Devoice%>{Х}т{ЬØ} PL-NMN-COP-FOR_MUTUAL-PRT2 ;
 @U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@+Pl+Nom+Indef:@U.DECL-NX.PL@@U.CX.NOM@@U.DECL-DX.INDEF@ PL-NMN-COP-FOR_MUTUAL-NONPST-PL-12 ;
 !+Pl+Nom+Indef:^Devoice%>{Х}т NounEnd_K ;
-!!€ киза%^А2О^Devoice%>{Х}т{ЬØ}
+!!€ киза^А2О^Devoice%>{Х}т{ЬØ}
 !!€ кизо00%>0т0
 
 !THIS is for copula after oblique possessive suffixes
@@ -1631,7 +1631,7 @@ LEXICON N-VOC_KAJ
 LEXICON N-VOC_KANIAJ
 +Voc:%>каняй ENDLEX ;
 LEXICON N-VOC_KIAJ
-+Voc:%^Devoice%^Ь2ZERO%>кяй ENDLEX ;
++Voc:^Devoice^Ь2ZERO%>кяй ENDLEX ;
 LEXICON N-VOC_NIAJ
 +Voc:%>няй ENDLEX ;
 

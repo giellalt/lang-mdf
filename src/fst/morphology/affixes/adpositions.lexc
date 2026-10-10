@@ -257,8 +257,8 @@ LEXICON PO-ILL_ ! коряс:коря
 LEXICON PO-PRL_MEL1GE !!= * @CODE@ мельге:мельг{АЕ}
 +Prl: K_вок ;
 ! Checking 2018-11-10
-+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
-+Prl:%^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
++Prl:^Е2А OBLIQUECX-PX-REQUIRES-VOWEL ;
++Prl:^Е2А OBLIQUECX-PX-REQUIRES-NO-VOWEL    ;
 
 
 

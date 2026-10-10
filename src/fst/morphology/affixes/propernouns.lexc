@@ -17,7 +17,7 @@ LEXICON PROP_
 LEXICON PROP_SARAZ
 : N_SARAZ ;
 LEXICON PROP-VOC_KIAJ
-+Voc:%^Devoice%^Ь2ZERO%>кяй ENDLEX ;
++Voc:^Devoice^Ь2ZERO%>кяй ENDLEX ;
 
 LEXICON PROP_KAL_rusmdf
 +Use/Colloq: PROP_KAL ;
@@ -25,6 +25,9 @@ LEXICON PROP_KAL_rus100
 +Use/SpellNoSugg: PROP_KAL ;
 LEXICON PROP_KAL
 : N_KAL	;
+
+LEXICON PROP_L1
+: N_KIAL1	;
 LEXICON PROP_KIAL1
 : N_KIAL1	;
 
@@ -155,9 +158,9 @@ LEXICON PROP_OSH_SUR
 !+Sem/Sur: osh-N-Poss-Declension-CX ;
 
 LEXICON PROP_AVA_rusmdf
-+Use/SpellNoSugg: NMN_AVA ;
++Use/SpellNoSugg: PROP_AVA ;
 LEXICON PROP_AVA_SURMAL
-+Sem/Mal-Sur: NMN_AVA ;
++Sem/Mal-Sur: PROP_AVA ;
 !LEXICON PROP_KEL1_MAL
 !PROP_KIAL1_MAL ; !correction needed
 
@@ -202,14 +205,14 @@ LEXICON PROP_OSH_MAL
 LEXICON PROP_KUDO_MAL
  PROP_AVA_MAL ;
 LEXICON PROP_AVA_MAL
-+Sem/Mal: NMN_AVA ;
++Sem/Mal: PROP_AVA ;
 
 LEXICON PROP_AVA_FEM
-+Sem/Fem: NMN_AVA ;
++Sem/Fem: PROP_AVA ;
 LEXICON PROP_AVA_PATRFEM
-+Sem/Fem: NMN_AVA ;
++Sem/Fem: PROP_AVA ;
 LEXICON PROP_AVA_SURFEM
-+Sem/Fem: NMN_AVA ;
++Sem/Fem: PROP_AVA ;
 
 
 LEXICON PROP_OSH_PATRMAL
@@ -271,7 +274,7 @@ LEXICON PROP_KUDO_PLC !!≈ * **@CODE@** ending in vowel
 !! PROPER NOUNS 
 !!!!!!!!!!!!!!!!
 LEXICON PROP_AVA_PLC !!≈ * **@CODE@** ending in vowel
- NMN_AVA ;
+ PROP_AVA ;
 !+Sem/Plc: NMN_AVA ;
 LEXICON PROP_PEJ_PLC !!≈ * **@CODE@** ending in vowel
  NMN_PEJ ;
@@ -280,7 +283,8 @@ LEXICON PROP_PEJ_PLC !!≈ * **@CODE@** ending in vowel
 LEXICON PROP_AVA_rus100
 +Use/SpellNoSugg: PROP_AVA ;
 LEXICON PROP_AVA !!≈ * **@CODE@** ending in vowel
-: NMN_AVA ;
+!: NMN_AVA ;!20261009
+: N_AVA ; ! This allows for Diminutive derivation, very common in Moksha
 
 LEXICON PROP_PEJ !!≈ * **@CODE@** ending in vowel
 : NMN_PEJ ;

@@ -84,7 +84,7 @@ LEXICON ADV_ELA
 +Ela: K_вок ;
 !+Ela: K_OR_DER/COP ;
 !LEXICON ADV-ELA_ ! ирецта:ирецт{АО}
-!!?ста %^А2О %> ...
+!!?ста ^А2О %> ...
 !+Ela: K_вок ;
 !+Ela+Der+Der/Dimin:%>ня K_вок ;
 !+Ela: DER/COP_OR_DER-POSS_NNE ;
@@ -119,12 +119,12 @@ LEXICON ADV-INDEF-DAT_ !
 +Indef+Dat: K_вок ;
 LEXICON ADV-INDEF-ELA_ !
 +Indef+Ela: K_вок ;
-+Indef+Ela:%^А2О DER/COP ;
++Indef+Ela:^А2О DER/COP ;
 LEXICON ADV-INDEF-ILL_ ! лангс:лангс
 +Indef+Ill: K_вок ;
 LEXICON ADV-INDEF-INE_ ! лангса:лангс{АО}
 +Indef+Ine: K_вок ;
-+Indef+Ine:%^А2О DER/COP ;
++Indef+Ine:^А2О DER/COP ;
 LEXICON ADV-INDEF-LAT_ ! алга:алу
 +Indef+Lat: K_вок ;
 LEXICON ADV-INDEF-TEMP_ ! алга:алга
