@@ -311,10 +311,8 @@ CONDITIONAL_POS ;
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 IMPRT-ALL   	;
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@	 OPT-ALL       	;
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@	 INF_OM		;
-+ConNeg:{ЕОØ} VerbEnd ;!> was removed 2024-07-24
-+ConNeg:{ЕОØ} PL-NOM-INDEF ;!> was removed 2024-07-24
-+ConNeg+Use/NG:^CnsSt%>{ЕОØ} VerbEnd ;
-+ConNeg+Use/NG:^CnsSt%>{ЕОØ} PL-NOM-INDEF ;
+:{ЕОØ} CONNEG_VERBEND/PL_NOM_INDEF ;!> was removed 2024-07-24
++Use/NG:^CnsSt%>{ЕОØ} CONNEG_VERBEND/PL_NOM_INDEF ;
 !! ашень, тят, афоль
 !! сявомс+V+ConNeg **take/ottaa**
 !!€ сяв{ЕОØ}
@@ -350,8 +348,7 @@ LEXICON V0_TIJEMS
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 OPT-ALL       	;
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@й	 INF_OM		;
 
-+ConNeg:е K ; 
-+ConNeg:е PL-NOM-INDEF ; 
+:е CONNEG_VERBEND/PL_NOM_INDEF ; 
 +ConNegII:к K ;! тик 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
@@ -378,9 +375,8 @@ LEXICON V0_NJAJEMS  !!= @CODE@ няемс:ня
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 IMPRT-ALL-BUT-20   	;
 @U.CONJ-INF.NO@:@U.CONJ-INF.NO@й	 OPT-ALL       	;
 @U.CONJ-INF.YES@:@U.CONJ-INF.YES@й	 INF_OM		;
-+ConNeg:е K ; 
+:е CONNEG_VERBEND/PL_NOM_INDEF ; 
 +ConNeg+Err/Orth:й K ; !CHECK erme 1956–2000
-+ConNeg:е PL-NOM-INDEF ; 
 +ConNegII:йхть K ; 
 +ConNegII:йхть PL-NMN-COP-FOR_MUTUAL-PRT2 ; 
 ! VERBAL-CONJUGATIONS-ALL ;
@@ -511,10 +507,11 @@ LEXICON V-AUX-NEG-PRT1
 LEXICON CONDITIONAL_POS
 @U.CONJ-INF.NO@@U.CONJ-MX.COND@+Cond:@U.CONJ-INF.NO@@U.CONJ-MX.COND@%>{ЕОØ}ндяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря COND-4CONJ-ALL ; !!= @CODE@ 
-@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Der+Der/Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря OPT-ALL ; !!= @CODE@ 
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря IND-PRT1-ALL ; !!= @CODE@ 
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря INF_OM ; !!= @CODE@ 
 @U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря Non-Finite-Cns ; !!= @CODE@ 
+@U.CONJ-INF.NO@+Cond:@U.CONJ-INF.NO@%>{ЕОØ}ндяря CONNEG_VERBEND/PL_NOM_INDEF ; !!= @CODE@ 20261015
 
 @U.CONJ-INF.NO@@P.DERIV.2V@+Der+Der/Cond+Der/OvOms+V:@U.CONJ-INF.NO@@P.DERIV.2V@%>{ЕОØ}ндяряв VERBAL-CONJUGATIONS-ALL ;
 @P.DERIV.2V@@U.CONJ-INF.YES@+Der+Der/Cond+Der/OvOms+V:@P.DERIV.2V@@U.CONJ-INF.YES@%>{ЕОØ}ндяряв INF_OM ;! was Non-Finite-Vws 
@@ -524,7 +521,11 @@ LEXICON CONDITIONAL_POS
 LEXICON CONDITIONAL_NEG
 @U.CONJ-INF.NO@@U.CONJ-MX.NPROT@+NegCnd:@U.CONJ-INF.NO@@U.CONJ-MX.NPROT@%>{ЕОØ}фтяря VERB-ZERO-ALL ; !! COND-ALL
 @U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@%>{ЕОØ}фтяря COND-4CONJ-ALL ; !!= @CODE@ 
+@U.CONJ-INF.NO@+NegCnd:@U.CONJ-INF.NO@%>{ЕОØ}фтяря OPT-ALL ; !!= @CODE@ 20261015
 
+LEXICON CONNEG_VERBEND/PL_NOM_INDEF
++ConNeg: VerbEnd ;
++ConNeg: PL-NOM-INDEF ;
 ! Finite forms
 
 !! FROM MYV
@@ -538,10 +539,8 @@ LEXICON VERBAL-CONJUGATIONS-ALL
 	 IMPRT-ALL   	;
 	 OPT-ALL       	;
 !2026-02-16ME??!	 INF_OM		;
-+ConNeg:%>{АЕОØ} VerbEnd ;
-+ConNeg:%>{АЕОØ} PL-NOM-INDEF ;
-+ConNeg+Use/NG:^CnsSt%>{АЕОØ} VerbEnd ;
-+ConNeg+Use/NG:^CnsSt%>{АЕОØ} PL-NOM-INDEF ;
+:%>{АЕОØ} CONNEG_VERBEND/PL_NOM_INDEF ;
++Use/NG:^CnsSt%>{АЕОØ} CONNEG_VERBEND/PL_NOM_INDEF ;
 !! ашень, тят, афоль
 !! кирдемс+V+ConNeg **tolerate/kestää** ашень кирде
 !!€ кирдь%>{АЕОØ}
