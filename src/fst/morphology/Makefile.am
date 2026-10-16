@@ -35,9 +35,10 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			stems/abbreviations.lexc   \
 			stems/acronyms.lexc        \
+			stems/adjectives.lexc              \
 			stems/adverbs.lexc        \
 			stems/exceptions.lexc      \
-			stems/adjectives.lexc              \
+			stems/interjections.lexc \
 			stems/nouns.lexc                   \
 			stems/propernouns.lexc             \
 			stems/verbs.lexc                   \
@@ -84,7 +85,6 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/CC_mdf2x.lexc   \
 			$(srcdir)/stems/Descr_mdf2x.lexc  \
 			$(srcdir)/stems/Ger_mdf2x.lexc       \
-			$(srcdir)/stems/Interj_mdf2x.lexc \
 			$(srcdir)/stems/Num_mdf2x.lexc   \
 			$(srcdir)/stems/Pcle_mdf2x.lexc     \
 			$(srcdir)/stems/Prc_mdf2x.lexc
@@ -118,7 +118,6 @@ GT_XML_SRCS=\
 			stems/CC_mdf2x.xml   \
 			stems/Descr_mdf2x.xml  \
 			stems/Ger_mdf2x.xml       \
-			stems/Interj_mdf2x.xml \
 			stems/Num_mdf2x.xml   \
 			stems/Pcle_mdf2x.xml     \
 			stems/Prc_mdf2x.xml
